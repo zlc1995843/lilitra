@@ -189,6 +189,22 @@ def generate_api_translation(repo_root: pathlib.Path, story_index: Dict[str, Any
     )
 
 
+def refresh_translated_index(repo_root: pathlib.Path) -> None:
+    files: List[str] = []
+    roots = [
+        repo_root / "translations/api",
+        repo_root / "bundles/WebGL",
+    ]
+    for root in roots:
+        if not root.exists():
+            continue
+        for path in sorted(root.rglob("*")):
+            if not path.is_file():
+                continue
+            files.append(path.relative_to(repo_root).as_posix())
+    write_json(repo_root / "translated_files.json", {"files": files})
+
+
 def remote_content_length(url: str) -> Optional[int]:
     try:
         response = requests.head(url, timeout=20, allow_redirects=True)
@@ -495,6 +511,7 @@ def main() -> int:
     write_name_table(repo_root, names, full_manifest)
     write_json(repo_root / "manifest.json", full_manifest)
     generate_api_translation(repo_root, story_index)
+    refresh_translated_index(repo_root)
 
     if args.metadata_only:
         return 0
@@ -532,6 +549,7 @@ def main() -> int:
         save_translation(translation_path, source_lines, zh_map)
         changed = patch_bundle(source_bundle, bundle_out, zh_map)
         print(f"patched {changed}/{len(source_lines)} lines")
+        refresh_translated_index(repo_root)
     return 0
 
 
