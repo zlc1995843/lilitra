@@ -9,6 +9,7 @@
 - `names/characters.json`：角色名表。
 - `manifest.json`：从本地 API 与 Unity catalog 生成的剧情资源清单。
 - `sources/naninovel/scripts/`：从 Naninovel bundle 提取出的日文文本，方便校对。
+- `reviews/naninovel/scripts/`：待确认的翻译校对稿，`.md` 用来看，`.json` 用来改。
 - `translations/naninovel/scripts/`：DeepSeek 生成的中文文本记录。
 - `translations/api/`：普通 API JSON 的中文覆盖文件。
 - `bundles/WebGL/naninovelseparate_assets_naninovel/scripts/`：已写入中文文本、可被启动器直接覆盖读取的剧情 bundle。
@@ -27,7 +28,7 @@ $env:DEEPSEEK_API_KEY="你的 key"
 python -X utf8 tools/translate_lilyange.py --runtime-root "F:\03DMM\diss lolicon" --limit 1 --force-retranslate
 ```
 
-默认只会生成 `reviews/naninovel/scripts/*.json` 校对稿，不会直接写进游戏 bundle。确认或手动改好 `zh` 字段后再应用：
+默认只会生成 `reviews/naninovel/scripts/*.json` 校对稿和同名 `.md` 预览，不会直接写进游戏 bundle。先看 `.md` 是否顺口，需要修改时改 `.json` 里的 `zh` 字段，确认后再应用：
 
 ```powershell
 python -X utf8 tools/translate_lilyange.py --runtime-root "F:\03DMM\diss lolicon" --ids 1001 --adv 201 --apply-review

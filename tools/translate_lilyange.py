@@ -9,9 +9,6 @@ import sys
 import time
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
-import requests
-import UnityPy
-
 
 CLOUDFRONT_SCRIPT_BASE = (
     "https://dok6uc0hyhl8f.cloudfront.net/"
@@ -55,6 +52,22 @@ def write_json(path: pathlib.Path, data: Any) -> None:
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def write_text(path: pathlib.Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text, encoding="utf-8")
+
+
+def http_requests() -> Any:
+    import requests
+
+    return requests
+
+
+def markdown_cell(text: Any) -> str:
+    value = "" if text is None else str(text)
+    return value.replace("\\", "\\\\").replace("|", "\\|").replace("\r", " ").replace("\n", "<br>")
 
 
 def has_cjk(text: str) -> bool:
@@ -207,6 +220,7 @@ def refresh_translated_index(repo_root: pathlib.Path) -> None:
 
 def remote_content_length(url: str) -> Optional[int]:
     try:
+        requests = http_requests()
         response = requests.head(url, timeout=20, allow_redirects=True)
         if response.status_code == 200 and response.headers.get("Content-Length"):
             return int(response.headers["Content-Length"])
@@ -223,6 +237,7 @@ def download_file(url: str, destination: pathlib.Path, retries: int = 3) -> path
         if tmp.exists():
             tmp.unlink()
         try:
+            requests = http_requests()
             with requests.get(url, stream=True, timeout=60) as response:
                 response.raise_for_status()
                 total = int(response.headers.get("Content-Length") or expected_size or 0)
@@ -281,8 +296,14 @@ def command_spot(data: Dict[str, Any]) -> Dict[str, Any]:
     return spot if isinstance(spot, dict) else {}
 
 
+def load_unity_bundle(bundle_path: pathlib.Path) -> Any:
+    import UnityPy
+
+    return UnityPy.load(str(bundle_path))
+
+
 def extract_lines(bundle_path: pathlib.Path) -> List[Dict[str, Any]]:
-    env = UnityPy.load(str(bundle_path))
+    env = load_unity_bundle(bundle_path)
     lines: List[Dict[str, Any]] = []
     for obj in env.objects:
         if obj.type.name != "MonoBehaviour":
@@ -328,7 +349,7 @@ def extract_lines(bundle_path: pathlib.Path) -> List[Dict[str, Any]]:
 
 
 def patch_bundle(source_bundle: pathlib.Path, output_bundle: pathlib.Path, translations: Dict[str, str]) -> int:
-    env = UnityPy.load(str(source_bundle))
+    env = load_unity_bundle(source_bundle)
     changed = 0
     for obj in env.objects:
         if obj.type.name != "MonoBehaviour":
@@ -433,6 +454,39 @@ def save_review(path: pathlib.Path, story: Dict[str, Any], source_lines: List[Di
             "lines": rows,
         },
     )
+    save_review_markdown(path.with_suffix(".md"), story, rows)
+
+
+def save_review_markdown(path: pathlib.Path, story: Dict[str, Any], rows: List[Dict[str, Any]]) -> None:
+    title_parts = [
+        str(story.get("script") or path.stem),
+        str(story.get("character_name") or ""),
+        str(story.get("story_name") or ""),
+    ]
+    title = " / ".join(part for part in title_parts if part)
+    lines = [
+        f"# {title}",
+        "",
+        "确认顺序：先看 zh 是否像自然中文；需要改时改同名 JSON 文件里的 zh 字段，然后再执行 --apply-review。",
+        "",
+        "| key | speaker | ja | zh | note |",
+        "| --- | --- | --- | --- | --- |",
+    ]
+    for row in rows:
+        lines.append(
+            "| "
+            + " | ".join(
+                [
+                    markdown_cell(row.get("key")),
+                    markdown_cell(row.get("speaker")),
+                    markdown_cell(row.get("ja")),
+                    markdown_cell(row.get("zh")),
+                    markdown_cell(row.get("note")),
+                ]
+            )
+            + " |"
+        )
+    write_text(path, "\n".join(lines) + "\n")
 
 
 def call_deepseek(
@@ -480,6 +534,7 @@ def call_deepseek(
     }
     for attempt in range(1, retries + 1):
         try:
+            requests = http_requests()
             response = requests.post(url, headers=headers, json=payload, timeout=180)
             response.raise_for_status()
             content = response.json()["choices"][0]["message"]["content"]
