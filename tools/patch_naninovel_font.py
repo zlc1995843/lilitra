@@ -3,12 +3,13 @@ import argparse
 import hashlib
 import json
 import pathlib
+import tempfile
 from typing import Any, Dict, List
 
 
 UI_BUNDLE_GLOB = "naninovel_assets_naninovelui_*.bundle"
 UI_BUNDLE_REL = pathlib.Path("web/dok6uc0hyhl8f.cloudfront.net/WebGL")
-TARGET_FONT_OBJECT = "MPLUSRounded1c-Bold"
+DEFAULT_TARGET_FONT_OBJECTS = ("MPLUSRounded1c-Bold", "Roboto-Regular")
 
 
 def write_json(path: pathlib.Path, data: Any) -> None:
@@ -42,24 +43,45 @@ def find_ui_bundle(runtime_root: pathlib.Path) -> pathlib.Path:
     return matches[0]
 
 
-def patch_font_bundle(source_bundle: pathlib.Path, output_bundle: pathlib.Path, font_path: pathlib.Path, font_name: str) -> int:
+def make_static_font(font_path: pathlib.Path, weight: int) -> pathlib.Path:
+    from fontTools.ttLib import TTFont
+    from fontTools.varLib.instancer import instantiateVariableFont
+
+    font = TTFont(str(font_path))
+    if "fvar" not in font:
+        return font_path
+
+    static_path = pathlib.Path(tempfile.gettempdir()) / f"{font_path.stem}-{weight}-static.ttf"
+    font = instantiateVariableFont(font, {"wght": weight}, inplace=False)
+    font.save(str(static_path))
+    return static_path
+
+
+def patch_font_bundle(
+    source_bundle: pathlib.Path,
+    output_bundle: pathlib.Path,
+    font_path: pathlib.Path,
+    font_name: str,
+    target_names: List[str],
+) -> int:
     import UnityPy
 
     font_bytes = font_path.read_bytes()
     env = UnityPy.load(str(source_bundle))
+    targets = {name.strip() for name in target_names if name.strip()}
     changed = 0
     for obj in env.objects:
         if obj.type.name != "Font":
             continue
         tree = obj.read_typetree()
-        if tree.get("m_Name") != TARGET_FONT_OBJECT:
+        if targets and tree.get("m_Name") not in targets:
             continue
         tree["m_FontData"] = font_bytes
         tree["m_FontNames"] = [font_name]
         obj.save_typetree(tree)
         changed += 1
     if not changed:
-        raise RuntimeError(f"Font object {TARGET_FONT_OBJECT!r} was not found in {source_bundle.name}")
+        raise RuntimeError(f"No matching Unity Font objects were found in {source_bundle.name}")
     output_bundle.parent.mkdir(parents=True, exist_ok=True)
     output_bundle.write_bytes(env.file.save())
     return changed
@@ -70,14 +92,22 @@ def main() -> int:
     parser.add_argument("--runtime-root", required=True, type=pathlib.Path)
     parser.add_argument("--font", default=r"C:\Windows\Fonts\NotoSansSC-VF.ttf", type=pathlib.Path)
     parser.add_argument("--font-name", default="Noto Sans SC")
+    parser.add_argument("--weight", default=500, type=int)
+    parser.add_argument(
+        "--targets",
+        default=",".join(DEFAULT_TARGET_FONT_OBJECTS),
+        help="Comma-separated Unity Font object names to replace; use an empty value to replace all.",
+    )
     parser.add_argument("--repo-root", default=pathlib.Path(__file__).resolve().parents[1], type=pathlib.Path)
     args = parser.parse_args()
 
     if not args.font.exists():
         raise FileNotFoundError(args.font)
+    font_path = make_static_font(args.font, args.weight)
     source_bundle = find_ui_bundle(args.runtime_root)
     output_bundle = args.repo_root / "bundles/WebGL" / source_bundle.name
-    changed = patch_font_bundle(source_bundle, output_bundle, args.font, args.font_name)
+    target_names = [name for name in args.targets.split(",")] if args.targets else []
+    changed = patch_font_bundle(source_bundle, output_bundle, font_path, args.font_name, target_names)
     refresh_translated_index(args.repo_root)
     print(f"patched {changed} font object(s): {source_bundle.name}")
     print(f"output: {output_bundle}")
