@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import hashlib
 import copy
 import json
 import os
@@ -18,6 +19,9 @@ CATALOG_REL = pathlib.Path(
     "web/dok6uc0hyhl8f.cloudfront.net/WebGL/catalog_0.0.1.json"
 )
 STORY_INDEX_REL = pathlib.Path("web/api/lilyange.saikyo.biz/character_story_index")
+CHARACTER_INDEX_REL = pathlib.Path("web/api/lilyange.saikyo.biz/character_index")
+CHARACTER_BOOK_INDEX_REL = pathlib.Path("web/api/lilyange.saikyo.biz/character_book_index")
+MISSION_INDEX_DIR_REL = pathlib.Path("web/api/char/lilyange.saikyo.biz")
 SCRIPT_LOCAL_REL = pathlib.Path(
     "web/dok6uc0hyhl8f.cloudfront.net/WebGL/"
     "naninovelseparate_assets_naninovel/scripts"
@@ -68,6 +72,19 @@ def http_requests() -> Any:
 def markdown_cell(text: Any) -> str:
     value = "" if text is None else str(text)
     return value.replace("\\", "\\\\").replace("|", "\\|").replace("\r", " ").replace("\n", "<br>")
+
+
+def merge_name(names: Dict[int, str], char_id: Any, name: Any) -> None:
+    try:
+        key = int(char_id)
+    except (TypeError, ValueError):
+        return
+    if isinstance(name, str) and name and not names.get(key):
+        names[key] = name
+
+
+def clean_character_name(name: str) -> str:
+    return name.strip()
 
 
 def has_cjk(text: str) -> bool:
@@ -127,6 +144,62 @@ def load_story_index(runtime_root: pathlib.Path) -> Tuple[Dict[str, Any], Dict[i
     return data, names, stories
 
 
+def load_character_names(runtime_root: pathlib.Path) -> Dict[int, str]:
+    names: Dict[int, str] = {}
+    sources = [
+        (CHARACTER_BOOK_INDEX_REL, ["characters_book"]),
+        (CHARACTER_INDEX_REL, ["character_index_canvas", "user_character_list"]),
+        (STORY_INDEX_REL, ["character_list"]),
+    ]
+    for rel_path, list_path in sources:
+        path = runtime_root / rel_path
+        if not path.exists():
+            continue
+        try:
+            data = read_json(path)
+        except Exception:
+            continue
+        node: Any = data
+        for key in list_path:
+            if not isinstance(node, dict):
+                node = None
+                break
+            node = node.get(key)
+        if not isinstance(node, list):
+            continue
+        for item in node:
+            if not isinstance(item, dict):
+                continue
+            merge_name(names, item.get("id") or item.get("character_id") or item.get("m_character_id"), item.get("chara_name") or item.get("name"))
+    mission_dir = runtime_root / MISSION_INDEX_DIR_REL
+    if mission_dir.exists():
+        for path in sorted(mission_dir.glob("mission_index*.json")):
+            match = re.fullmatch(r"mission_index(\d+)\.json", path.name)
+            if not match:
+                continue
+            char_id = int(match.group(1))
+            if names.get(char_id):
+                continue
+            try:
+                data = read_json(path)
+            except Exception:
+                continue
+            for mission in data.get("chara_list") or []:
+                if not isinstance(mission, dict):
+                    continue
+                mission_name = mission.get("name")
+                if not isinstance(mission_name, str):
+                    continue
+                bracket = re.search(r"【(.+?)】", mission_name)
+                if not bracket:
+                    continue
+                name = clean_character_name(bracket.group(1))
+                if name:
+                    merge_name(names, char_id, name)
+                    break
+    return names
+
+
 def build_story_manifest(
     stories: List[Dict[str, Any]], names: Dict[int, str], bundles: Dict[str, str]
 ) -> List[Dict[str, Any]]:
@@ -172,6 +245,7 @@ def build_story_manifest(
 
 
 def write_name_table(repo_root: pathlib.Path, names: Dict[int, str], manifest: List[Dict[str, Any]]) -> None:
+    existing = load_name_rows(repo_root)
     for item in manifest:
         char_id = int(item["character_id"])
         if char_id not in names and item.get("character_name"):
@@ -180,18 +254,172 @@ def write_name_table(repo_root: pathlib.Path, names: Dict[int, str], manifest: L
         {
             "id": char_id,
             "ja": names.get(char_id, ""),
-            "zh": "",
-            "note": "",
+            "zh": existing.get(char_id, {}).get("zh", ""),
+            "note": existing.get(char_id, {}).get("note", ""),
         }
         for char_id in sorted(names)
     ]
     write_json(repo_root / "names/characters.json", rows)
+    write_name_markdown(repo_root / "names/characters.md", rows)
 
 
-def generate_api_translation(repo_root: pathlib.Path, story_index: Dict[str, Any]) -> None:
+def load_name_rows(repo_root: pathlib.Path) -> Dict[int, Dict[str, str]]:
+    path = repo_root / "names/characters.json"
+    if not path.exists():
+        return {}
+    try:
+        data = read_json(path)
+    except Exception:
+        return {}
+    rows: Dict[int, Dict[str, str]] = {}
+    for item in data:
+        if not isinstance(item, dict):
+            continue
+        try:
+            char_id = int(item.get("id"))
+        except (TypeError, ValueError):
+            continue
+        rows[char_id] = {
+            "ja": str(item.get("ja") or ""),
+            "zh": str(item.get("zh") or ""),
+            "note": str(item.get("note") or ""),
+        }
+    return rows
+
+
+def load_name_glossary(repo_root: pathlib.Path) -> Dict[str, str]:
+    result: Dict[str, str] = {}
+    for item in load_name_rows(repo_root).values():
+        ja = item.get("ja", "")
+        zh = item.get("zh", "")
+        if ja and zh:
+            result[ja] = zh
+    return result
+
+
+def load_name_by_id(repo_root: pathlib.Path) -> Dict[int, str]:
+    result: Dict[int, str] = {}
+    for char_id, item in load_name_rows(repo_root).items():
+        if item.get("zh"):
+            result[char_id] = item["zh"]
+    return result
+
+
+def write_name_markdown(path: pathlib.Path, rows: List[Dict[str, Any]]) -> None:
+    lines = [
+        "# Character Name Glossary",
+        "",
+        "`zh` 是剧情翻译会优先使用的人名；不确定时先留空，游戏文本会保留日文名。",
+        "",
+        "| id | ja | zh | note |",
+        "| --- | --- | --- | --- |",
+    ]
+    for row in rows:
+        lines.append(
+            "| "
+            + " | ".join(
+                [
+                    markdown_cell(row.get("id")),
+                    markdown_cell(row.get("ja")),
+                    markdown_cell(row.get("zh")),
+                    markdown_cell(row.get("note")),
+                ]
+            )
+            + " |"
+        )
+    write_text(path, "\n".join(lines) + "\n")
+
+
+def call_deepseek_names(
+    api_key: str,
+    model: str,
+    rows: List[Dict[str, Any]],
+    retries: int = 3,
+) -> Dict[int, str]:
+    url = "https://api.deepseek.com/chat/completions"
+    input_rows = [
+        {
+            "id": item["id"],
+            "ja_hex": to_codepoints(item["ja"]),
+        }
+        for item in rows
+    ]
+    system_prompt = (
+        "You are creating a Simplified Chinese character-name glossary for a Japanese visual novel. "
+        "Decode ja_hex first. Transliterate katakana names into natural Chinese names, keep Japanese kanji names as readable Simplified Chinese, "
+        "and translate costume labels such as 水着 into Chinese while preserving parentheses. "
+        "Keep the result short. Do not include explanations or notes. Return JSON only."
+    )
+    user_prompt = (
+        "Translate each character name. Return exactly this schema: "
+        "{\"names\":[{\"id\":1001,\"zh\":\"Chinese name\"}]}.\n"
+        + json.dumps({"names": input_rows}, ensure_ascii=True)
+    )
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        "temperature": 0.2,
+        "response_format": {"type": "json_object"},
+    }
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    for attempt in range(1, retries + 1):
+        try:
+            requests = http_requests()
+            response = requests.post(url, headers=headers, json=payload, timeout=180)
+            response.raise_for_status()
+            parsed = json.loads(response.json()["choices"][0]["message"]["content"])
+            result: Dict[int, str] = {}
+            for item in parsed.get("names", []):
+                try:
+                    char_id = int(item.get("id"))
+                except (TypeError, ValueError):
+                    continue
+                zh = item.get("zh")
+                if isinstance(zh, str) and zh.strip():
+                    result[char_id] = clean_character_name(zh)
+            if result:
+                return result
+            raise RuntimeError("empty name translation result")
+        except Exception as exc:
+            if attempt >= retries:
+                raise
+            print(f"DeepSeek name retry {attempt}/{retries}: {exc}", flush=True)
+            time.sleep(3 * attempt)
+    return {}
+
+
+def translate_name_table(repo_root: pathlib.Path, api_key: str, model: str, chunk_size: int) -> None:
+    path = repo_root / "names/characters.json"
+    rows = read_json(path)
+    pending = [row for row in rows if row.get("ja") and not row.get("zh")]
+    for start in range(0, len(pending), chunk_size):
+        chunk = pending[start : start + chunk_size]
+        translated = call_deepseek_names(api_key, model, chunk)
+        for row in rows:
+            char_id = row.get("id")
+            if char_id in translated and not row.get("zh"):
+                row["zh"] = translated[char_id]
+        print(f"translated names {min(start + len(chunk), len(pending))}/{len(pending)}", flush=True)
+    write_json(path, rows)
+    write_name_markdown(repo_root / "names/characters.md", rows)
+
+
+def generate_api_translation(repo_root: pathlib.Path, story_index: Dict[str, Any], name_by_id: Dict[int, str]) -> None:
     data = copy.deepcopy(story_index)
     characters = data.get("character_list") or data.get("data", {}).get("character_list") or []
     for character in characters:
+        try:
+            char_id = int(character.get("id") or character.get("character_id") or character.get("m_character_id"))
+        except (TypeError, ValueError):
+            char_id = 0
+        if char_id and name_by_id.get(char_id):
+            character["chara_name"] = name_by_id[char_id]
         for story in character.get("story") or []:
             name = story.get("story_name")
             if name in JP_STORY_NAME_TO_ZH:
@@ -204,6 +432,7 @@ def generate_api_translation(repo_root: pathlib.Path, story_index: Dict[str, Any
 
 def refresh_translated_index(repo_root: pathlib.Path) -> None:
     files: List[str] = []
+    hashes: Dict[str, str] = {}
     roots = [
         repo_root / "translations/api",
         repo_root / "bundles/WebGL",
@@ -214,8 +443,10 @@ def refresh_translated_index(repo_root: pathlib.Path) -> None:
         for path in sorted(root.rglob("*")):
             if not path.is_file():
                 continue
-            files.append(path.relative_to(repo_root).as_posix())
-    write_json(repo_root / "translated_files.json", {"files": files})
+            relative_path = path.relative_to(repo_root).as_posix()
+            files.append(relative_path)
+            hashes[relative_path] = hashlib.sha256(path.read_bytes()).hexdigest()
+    write_json(repo_root / "translated_files.json", {"files": files, "sha256": hashes})
 
 
 def remote_content_length(url: str) -> Optional[int]:
@@ -493,6 +724,7 @@ def call_deepseek(
     api_key: str,
     model: str,
     chunk: List[Dict[str, Any]],
+    name_glossary: Dict[str, str],
     retries: int = 3,
 ) -> Dict[str, str]:
     url = "https://api.deepseek.com/chat/completions"
@@ -500,24 +732,34 @@ def call_deepseek(
         {
             "key": item["key"],
             "speaker_hex": to_codepoints(item.get("speaker") or ""),
+            "speaker_zh": name_glossary.get(item.get("speaker") or "", ""),
             "text_hex": to_codepoints(item["ja"]),
         }
         for item in chunk
     ]
+    combined_text = "\n".join((item.get("speaker") or "") + "\n" + item["ja"] for item in chunk)
+    relevant_names = [
+        {"ja_hex": to_codepoints(ja), "zh": zh}
+        for ja, zh in sorted(name_glossary.items())
+        if ja and zh and ja in combined_text
+    ]
     system_prompt = (
-        "You are a senior Simplified Chinese localization editor for Japanese visual novels. "
-        "Priority 1: fluent, natural Chinese that a native reader would accept in-game. "
-        "Priority 2: keep the character voice, teasing tone, hesitation, and emotional temperature. "
-        "Do not translate mechanically by Japanese word order. Rewrite when needed so the line is idiomatic Chinese. "
-        "Keep names, UI commands, placeholders, numbers, brackets, and symbols intact. "
-        "Keep dialogue concise enough for a game text box; avoid stiff literary wording and awkward literal phrases. "
-        "Input text is Unicode code points in hex separated by spaces. Decode it first. "
-        "Return JSON only."
+        "你是资深中文视觉小说本地化编辑，不是逐词翻译器。"
+        "最终译文必须像中文原创台词，中文流畅度优先于保留日文语序。"
+        "可以在不改变剧情事实的前提下重组句子、补足中文自然主语、合并重复语气词、改掉日式倒装。"
+        "保留角色的调侃、撒娇、迟疑和情绪温度，但不要硬套日文表达。"
+        "使用简体中文口语，短句，适合游戏文本框。"
+        "必须严格使用 name_glossary 里给出的中文人名。"
+        "保留 UI 命令、占位符、数字、括号和符号。"
+        "避免机器翻译腔，例如“这里倒是挺老实的”“才嘴硬”“说了那种话却”这类日式中文。"
+        "例：ふふっ、あれだけ言っておきながら……ここは正直っすね♥ 不要译成“呵呵，刚才还嘴硬……这里倒是挺老实的嘛♥”，"
+        "应润色成“哼哼，嘴上说得那么厉害，身体倒是很诚实嘛♥”这类自然中文。"
+        "输入文本是用空格分隔的 Unicode 十六进制码位；先解码再翻译。只返回 JSON。"
     )
     user_prompt = (
-        "Translate each item into polished Simplified Chinese. Return exactly this schema: "
+        "把每一行润色成本地化后的简体中文。不要逐字硬翻，优先让中文读起来顺。严格返回这个 schema："
         "{\"lines\":[{\"key\":\"same key\",\"zh\":\"Chinese translation\"}]}.\n"
-        + json.dumps({"lines": input_rows}, ensure_ascii=True)
+        + json.dumps({"name_glossary": relevant_names, "lines": input_rows}, ensure_ascii=True)
     )
     payload = {
         "model": model,
@@ -525,7 +767,7 @@ def call_deepseek(
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        "temperature": 0.25,
+        "temperature": 0.35,
         "response_format": {"type": "json_object"},
     }
     headers = {
@@ -551,7 +793,7 @@ def call_deepseek(
         except Exception as exc:
             if attempt >= retries:
                 raise
-            print(f"DeepSeek retry {attempt}/{retries}: {exc}")
+            print(f"DeepSeek retry {attempt}/{retries}: {exc}", flush=True)
             time.sleep(3 * attempt)
     return {}
 
@@ -559,6 +801,7 @@ def call_deepseek(
 def translate_lines(
     source_lines: List[Dict[str, Any]],
     existing: Dict[str, str],
+    name_glossary: Dict[str, str],
     api_key: str,
     model: str,
     chunk_size: int,
@@ -569,9 +812,9 @@ def translate_lines(
         chunk = pending[start : start + chunk_size]
         if not chunk:
             continue
-        translated = call_deepseek(api_key, model, chunk)
+        translated = call_deepseek(api_key, model, chunk, name_glossary)
         result.update(translated)
-        print(f"translated {min(start + len(chunk), len(pending))}/{len(pending)} lines")
+        print(f"translated {min(start + len(chunk), len(pending))}/{len(pending)} lines", flush=True)
     return result
 
 
@@ -601,20 +844,32 @@ def main() -> int:
     parser.add_argument("--apply-review", action="store_true")
     parser.add_argument("--auto-apply", action="store_true")
     parser.add_argument("--force-retranslate", action="store_true")
+    parser.add_argument("--translate-names", action="store_true")
     args = parser.parse_args()
 
     repo_root = pathlib.Path(__file__).resolve().parents[1]
     runtime_root = pathlib.Path(args.runtime_root)
     char_filter = parse_int_set(args.ids)
     adv_filter = parse_int_set(args.adv)
+    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
 
     story_index, names, stories = load_story_index(runtime_root)
+    for char_id, name in load_character_names(runtime_root).items():
+        if name and not names.get(char_id):
+            names[char_id] = name
     bundles = load_catalog(runtime_root)
     full_manifest = build_story_manifest(stories, names, bundles)
 
     write_name_table(repo_root, names, full_manifest)
+    if args.translate_names:
+        if not api_key:
+            print("DEEPSEEK_API_KEY is not set; generated name table without Chinese names.", file=sys.stderr)
+            return 2
+        translate_name_table(repo_root, api_key, args.model, args.chunk_size)
+    name_by_id = load_name_by_id(repo_root)
+    name_glossary = load_name_glossary(repo_root)
     write_json(repo_root / "manifest.json", full_manifest)
-    generate_api_translation(repo_root, story_index)
+    generate_api_translation(repo_root, story_index, name_by_id)
     refresh_translated_index(repo_root)
 
     if args.metadata_only:
@@ -630,7 +885,6 @@ def main() -> int:
 
     review_only = args.review_only or (not args.auto_apply and not args.apply_review and not args.no_translate)
 
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
     if not args.no_translate and not args.apply_review and not api_key:
         print("DEEPSEEK_API_KEY is not set; generated metadata only.", file=sys.stderr)
         return 2
@@ -665,7 +919,7 @@ def main() -> int:
             continue
 
         existing = {} if args.force_retranslate else from_review_translation(review_path)
-        zh_map = translate_lines(source_lines, existing, api_key, args.model, args.chunk_size)
+        zh_map = translate_lines(source_lines, existing, name_glossary, api_key, args.model, args.chunk_size)
         save_review(review_path, item, source_lines, zh_map)
         print(f"review draft: {review_path}")
         if review_only:
