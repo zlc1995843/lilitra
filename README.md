@@ -24,7 +24,13 @@ $env:DEEPSEEK_API_KEY="你的 key"
 然后运行：
 
 ```powershell
-python -X utf8 tools/translate_lilyange.py --runtime-root "F:\03DMM\diss lolicon" --limit 1
+python -X utf8 tools/translate_lilyange.py --runtime-root "F:\03DMM\diss lolicon" --limit 1 --force-retranslate
+```
+
+默认只会生成 `reviews/naninovel/scripts/*.json` 校对稿，不会直接写进游戏 bundle。确认或手动改好 `zh` 字段后再应用：
+
+```powershell
+python -X utf8 tools/translate_lilyange.py --runtime-root "F:\03DMM\diss lolicon" --ids 1001 --adv 201 --apply-review
 ```
 
 常用参数：
@@ -34,5 +40,7 @@ python -X utf8 tools/translate_lilyange.py --runtime-root "F:\03DMM\diss lolicon
 - `--limit 10`：限制本次处理的 bundle 数量，方便分批跑。
 - `--skip-existing`：已有中文翻译和中文 bundle 时跳过。
 - `--no-translate`：只生成名字表、清单和 API 覆盖文件，不调用 DeepSeek。
+- `--auto-apply`：跳过人工确认，直接生成可被启动器读取的中文 bundle。
+- `--apply-review`：使用已经确认过的 `reviews` 文件生成中文 bundle。
 
-翻译风格要求：保留日式语气，中文自然但不改剧情信息。
+翻译风格要求：中文语句通顺优先，保留角色语气，不按日文语序硬翻，不改剧情信息。

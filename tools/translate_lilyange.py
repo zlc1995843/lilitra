@@ -383,6 +383,22 @@ def from_existing_translation(path: pathlib.Path) -> Dict[str, str]:
     return result
 
 
+def from_review_translation(path: pathlib.Path) -> Dict[str, str]:
+    if not path.exists():
+        return {}
+    try:
+        data = read_json(path)
+    except Exception:
+        return {}
+    result: Dict[str, str] = {}
+    for item in data.get("lines", []):
+        key = str(item.get("key") or "")
+        zh = item.get("zh")
+        if key and isinstance(zh, str) and has_cjk(zh):
+            result[key] = zh
+    return result
+
+
 def save_translation(path: pathlib.Path, source_lines: List[Dict[str, Any]], zh_map: Dict[str, str]) -> None:
     rows = []
     for line in source_lines:
@@ -391,6 +407,32 @@ def save_translation(path: pathlib.Path, source_lines: List[Dict[str, Any]], zh_
             item["zh"] = zh_map[line["key"]]
         rows.append(item)
     write_json(path, {"lines": rows})
+
+
+def save_review(path: pathlib.Path, story: Dict[str, Any], source_lines: List[Dict[str, Any]], zh_map: Dict[str, str]) -> None:
+    rows = []
+    for line in source_lines:
+        item = {
+            "key": line["key"],
+            "speaker": line.get("speaker", ""),
+            "ja": line["ja"],
+            "zh": zh_map.get(line["key"], ""),
+            "note": "",
+        }
+        rows.append(item)
+    write_json(
+        path,
+        {
+            "script": story["script"],
+            "character_id": story.get("character_id"),
+            "character_name": story.get("character_name", ""),
+            "adv_id": story.get("adv_id"),
+            "story_name": story.get("story_name", ""),
+            "status": "draft",
+            "review_note": "Edit zh until it reads naturally, then run translate_lilyange.py with --apply-review.",
+            "lines": rows,
+        },
+    )
 
 
 def call_deepseek(
@@ -409,14 +451,17 @@ def call_deepseek(
         for item in chunk
     ]
     system_prompt = (
-        "You translate Japanese visual novel dialogue into Simplified Chinese. "
-        "Keep Japanese tone, honorific nuance, softness, hesitation, and line breaks where natural. "
-        "Do not add explanations. Preserve placeholders, commands, numbers, symbols, and names unless a provided name has an obvious Chinese form. "
+        "You are a senior Simplified Chinese localization editor for Japanese visual novels. "
+        "Priority 1: fluent, natural Chinese that a native reader would accept in-game. "
+        "Priority 2: keep the character voice, teasing tone, hesitation, and emotional temperature. "
+        "Do not translate mechanically by Japanese word order. Rewrite when needed so the line is idiomatic Chinese. "
+        "Keep names, UI commands, placeholders, numbers, brackets, and symbols intact. "
+        "Keep dialogue concise enough for a game text box; avoid stiff literary wording and awkward literal phrases. "
         "Input text is Unicode code points in hex separated by spaces. Decode it first. "
         "Return JSON only."
     )
     user_prompt = (
-        "Translate each item. Return exactly this schema: "
+        "Translate each item into polished Simplified Chinese. Return exactly this schema: "
         "{\"lines\":[{\"key\":\"same key\",\"zh\":\"Chinese translation\"}]}.\n"
         + json.dumps({"lines": input_rows}, ensure_ascii=True)
     )
@@ -497,6 +542,10 @@ def main() -> int:
     parser.add_argument("--skip-existing", action="store_true")
     parser.add_argument("--no-translate", action="store_true")
     parser.add_argument("--metadata-only", action="store_true")
+    parser.add_argument("--review-only", action="store_true")
+    parser.add_argument("--apply-review", action="store_true")
+    parser.add_argument("--auto-apply", action="store_true")
+    parser.add_argument("--force-retranslate", action="store_true")
     args = parser.parse_args()
 
     repo_root = pathlib.Path(__file__).resolve().parents[1]
@@ -524,8 +573,10 @@ def main() -> int:
     if args.limit is not None:
         manifest = manifest[: args.limit]
 
+    review_only = args.review_only or (not args.auto_apply and not args.apply_review and not args.no_translate)
+
     api_key = os.environ.get("DEEPSEEK_API_KEY", "")
-    if not args.no_translate and not api_key:
+    if not args.no_translate and not args.apply_review and not api_key:
         print("DEEPSEEK_API_KEY is not set; generated metadata only.", file=sys.stderr)
         return 2
 
@@ -535,17 +586,36 @@ def main() -> int:
         print(f"[{index}/{len(manifest)}] {script} {item.get('character_name', '')} {item.get('story_name', '')}")
         bundle_out = repo_root / "bundles/WebGL/naninovelseparate_assets_naninovel/scripts" / filename
         translation_path = repo_root / "translations/naninovel/scripts" / f"{script}.json"
+        review_path = repo_root / "reviews/naninovel/scripts" / f"{script}.json"
         if args.skip_existing and bundle_out.exists() and from_existing_translation(translation_path):
             print("skip existing")
             continue
         source_bundle = ensure_bundle(runtime_root, repo_root, filename)
         source_lines = extract_lines(source_bundle)
         write_json(repo_root / "sources/naninovel/scripts" / f"{script}.json", {"lines": source_lines})
-        existing = from_existing_translation(translation_path)
         if args.no_translate:
+            existing = from_review_translation(review_path) or from_existing_translation(translation_path)
             save_translation(translation_path, source_lines, existing)
             continue
+
+        if args.apply_review:
+            zh_map = from_review_translation(review_path)
+            if not zh_map:
+                print(f"review file has no Chinese lines: {review_path}", file=sys.stderr)
+                return 3
+            save_translation(translation_path, source_lines, zh_map)
+            changed = patch_bundle(source_bundle, bundle_out, zh_map)
+            print(f"patched {changed}/{len(source_lines)} lines from review")
+            refresh_translated_index(repo_root)
+            continue
+
+        existing = {} if args.force_retranslate else from_review_translation(review_path)
         zh_map = translate_lines(source_lines, existing, api_key, args.model, args.chunk_size)
+        save_review(review_path, item, source_lines, zh_map)
+        print(f"review draft: {review_path}")
+        if review_only:
+            continue
+
         save_translation(translation_path, source_lines, zh_map)
         changed = patch_bundle(source_bundle, bundle_out, zh_map)
         print(f"patched {changed}/{len(source_lines)} lines")
