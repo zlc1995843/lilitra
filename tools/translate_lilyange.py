@@ -44,21 +44,6 @@ JP_STORY_NAME_TO_ZH = {
     "H\u30b9\u30c8\u30fc\u30ea\u30fc\u2461": "H\u5267\u60c5\u2461",
     "\u8ffd\u52a0\u30b9\u30c8\u30fc\u30ea\u30fc\u2460": "\u8ffd\u52a0\u5267\u60c5\u2460",
 }
-DISPLAY_VARIANT_OVERRIDES = str.maketrans(
-    {
-        "實": "実",
-        "覺": "覚",
-        "說": "説",
-        "邊": "辺",
-        "壞": "壊",
-        "體": "体",
-        "氣": "気",
-    }
-)
-_DISPLAY_CONVERTER = None
-_DISPLAY_CONVERTER_LOADED = False
-
-
 def read_json(path: pathlib.Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8-sig"))
 
@@ -105,40 +90,7 @@ def has_cjk(text: str) -> bool:
 
 
 def to_game_display_text(text: str) -> str:
-    global _DISPLAY_CONVERTER, _DISPLAY_CONVERTER_LOADED
-    value = text or ""
-    if not _DISPLAY_CONVERTER_LOADED:
-        _DISPLAY_CONVERTER_LOADED = True
-        try:
-            import opencc
-
-            _DISPLAY_CONVERTER = opencc.OpenCC("s2t")
-        except Exception:
-            _DISPLAY_CONVERTER = None
-    if _DISPLAY_CONVERTER is not None:
-        value = _DISPLAY_CONVERTER.convert(value)
-    else:
-        value = value.translate(
-            str.maketrans(
-                {
-                    "积": "積",
-                    "攒": "攢",
-                    "别": "別",
-                    "这": "這",
-                    "种": "種",
-                    "话": "話",
-                    "边": "辺",
-                    "诚": "誠",
-                    "实": "実",
-                    "觉": "覚",
-                    "说": "説",
-                    "坏": "壊",
-                    "体": "体",
-                    "气": "気",
-                }
-            )
-        )
-    return value.translate(DISPLAY_VARIANT_OVERRIDES)
+    return text or ""
 
 
 def bundle_base(filename: str) -> str:
