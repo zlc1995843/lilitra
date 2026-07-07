@@ -1,0 +1,985 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "4aec771d",
+      "speaker": "",
+      "ja": "どう？　ドライヤー直りそう？",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "521c2bf6",
+      "speaker": "",
+      "ja": "ああ、これならちょっと部品交換すれば直るよ",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "a05a5786",
+      "speaker": "",
+      "ja": "そっか～、よかった……。",
+      "zh": ""
+    },
+    {
+      "key": "23.3",
+      "line_index": 23,
+      "inline_index": 3,
+      "line_hash": "a05a5786",
+      "speaker": "",
+      "ja": "それにしても普段使っているのが急に使えなくなるって焦るよね",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "374f114b",
+      "speaker": "",
+      "ja": "ああ、それすげーわかる。あと普段使っているのが急に無くなるとか",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "13e5ff0e",
+      "speaker": "",
+      "ja": "そうそう、それ慌てるよね！",
+      "zh": ""
+    },
+    {
+      "key": "30.3",
+      "line_index": 30,
+      "inline_index": 3,
+      "line_hash": "13e5ff0e",
+      "speaker": "",
+      "ja": "それで必死にあっちこっち探して、気がつけば部屋が散らかり放題と……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "b955f5e9",
+      "speaker": "",
+      "ja": "そいやコハルは子供の頃から何か探すときは部屋散らかしていたよな……",
+      "zh": ""
+    },
+    {
+      "key": "33.2",
+      "line_index": 33,
+      "inline_index": 2,
+      "line_hash": "b955f5e9",
+      "speaker": "",
+      "ja": "後片付けをどれだけ手伝ったことか……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "e1ef7fa2",
+      "speaker": "",
+      "ja": "悪かったわね……！　ガサツで……！！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "9784a615",
+      "speaker": "",
+      "ja": "そこまでは言ってないだろっ",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "add4ae56",
+      "speaker": "",
+      "ja": "いーや、言ってた！　目で言ってた！",
+      "zh": ""
+    },
+    {
+      "key": "48.3",
+      "line_index": 48,
+      "inline_index": 3,
+      "line_hash": "add4ae56",
+      "speaker": "",
+      "ja": "あんたの考えなんて顔と目だけですぐわかるんだからっ",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "404ce16a",
+      "speaker": "",
+      "ja": "んな無茶苦茶な……。ああ、すまん、そこのドライバー取ってくれるか？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "6eb106e9",
+      "speaker": "",
+      "ja": "これでいいのかな？",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "86d4a182",
+      "speaker": "",
+      "ja": "それそれ、ありがとう",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "fc0b2f9c",
+      "speaker": "",
+      "ja": "それにしてもあんたの手……なんていうか変わったよね……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "54e94855",
+      "speaker": "",
+      "ja": "手……？　何言い出すんだよ急に……別に何も変わってないだろ。",
+      "zh": ""
+    },
+    {
+      "key": "65.2",
+      "line_index": 65,
+      "inline_index": 2,
+      "line_hash": "54e94855",
+      "speaker": "",
+      "ja": "子供の頃から何も変わってないって",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "cf0a39",
+      "speaker": "",
+      "ja": "そう、かな……？　なんていうか……大人の手というか……その……男の手というか……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "e1501b3e",
+      "speaker": "",
+      "ja": "すごくゴツゴツして……大きくて……小さかった頃はそんなんじゃなかったと思う……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "bcb1d7a2",
+      "speaker": "",
+      "ja": "まぁ成長くらいはするだろうなぁ……いつまでも子供ってわけにはいかないしさ",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "9589677",
+      "speaker": "",
+      "ja": "そう……だよね。いつまでも子供じゃいられないわよね……",
+      "zh": ""
+    },
+    {
+      "key": "79.3",
+      "line_index": 79,
+      "inline_index": 3,
+      "line_hash": "9589677",
+      "speaker": "",
+      "ja": "幼馴染のままってわけにもいかないよね……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "4cbf1de0",
+      "speaker": "",
+      "ja": "（そう……幼馴染のままじゃダメなのよ……これから先は……）",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "885338b3",
+      "speaker": "",
+      "ja": "（もう一歩……ううん、もっと先の関係に……でないといつまでも変わらないまま……）",
+      "zh": ""
+    },
+    {
+      "key": "88.3",
+      "line_index": 88,
+      "inline_index": 3,
+      "line_hash": "2153ddc5",
+      "speaker": "",
+      "ja": "考えたくもない……ずっとずっと傍にいてほしい……）",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "d77e1d",
+      "speaker": "",
+      "ja": "（ずっとこいつと一緒に……うう、想像したらなんかドキドキしてきちゃった……）",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "8c2d05d6",
+      "speaker": "",
+      "ja": "……ん？　なんか顔赤いぞ？　風邪でも引いたのか？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "c9e926e8",
+      "speaker": "",
+      "ja": "──はっ！？　ひ、引いてなんていないわよ、バカっ！",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "b28ac105",
+      "speaker": "",
+      "ja": "バカってお前、何いきなり怒り出すんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "44fdda75",
+      "speaker": "",
+      "ja": "うっさい！　いいから早くドライヤー直してよっ",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "b72d40d4",
+      "speaker": "",
+      "ja": "はいはい、コハル様のために一生懸命直しますよ",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "e976f112",
+      "speaker": "",
+      "ja": "（ううー……あたし、こいつの手に男の魅力を感じて、",
+      "zh": ""
+    },
+    {
+      "key": "112.3",
+      "line_index": 112,
+      "inline_index": 3,
+      "line_hash": "e976f112",
+      "speaker": "",
+      "ja": "色々妄想しちゃって……それが顔に出ちゃってた……）",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "b574fcf4",
+      "speaker": "",
+      "ja": "（でも本当に大きな手……それなのに、",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "3460c4dd",
+      "speaker": "",
+      "ja": "（あたしはどうなんだろう……何か変わったのかな……。",
+      "zh": ""
+    },
+    {
+      "key": "118.3",
+      "line_index": 118,
+      "inline_index": 3,
+      "line_hash": "3460c4dd",
+      "speaker": "",
+      "ja": "女としてこいつに魅力的に映る部分はあるのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "e8d40ed7",
+      "speaker": "",
+      "ja": "（以前はこいつの周りにいる女の子はあたしだけだったのに、",
+      "zh": ""
+    },
+    {
+      "key": "121.3",
+      "line_index": 121,
+      "inline_index": 3,
+      "line_hash": "e8d40ed7",
+      "speaker": "",
+      "ja": "いつの間にかたくさんいて……）",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "c734b586",
+      "speaker": "",
+      "ja": "（うう……なんだかモヤモヤする……）",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "400aea02",
+      "speaker": "",
+      "ja": "……コハル？　コハル？　おい、コハル！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "5dcad751",
+      "speaker": "",
+      "ja": "……ふあっ！？　な、ななな何よ！？　急に大きな声出して……！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "e49d8148",
+      "speaker": "",
+      "ja": "いや、なんかぼーっとしてたしさ……ドライヤー直ったぞ。もう問題無いはずだ",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "770e9616",
+      "speaker": "",
+      "ja": "そ、そっか、ありがと……",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "b23c484",
+      "speaker": "",
+      "ja": "（ドライヤーがすごく小さく見える……",
+      "zh": ""
+    },
+    {
+      "key": "141.3",
+      "line_index": 141,
+      "inline_index": 3,
+      "line_hash": "b23c484",
+      "speaker": "",
+      "ja": "やっぱりこいつの手……すごく大人の、男の手になってる……）",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "ed3a1afd",
+      "speaker": "",
+      "ja": "（ううう……さっきからドキドキが止まらないよ……）",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "460248bf",
+      "speaker": "",
+      "ja": "（ダメダメ、平常心を保たないと……あたし、すぐに顔に出ちゃんだから……）",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "b314148b",
+      "speaker": "",
+      "ja": "じゃあ俺そろそろ行くわ。まだ仕事残ってるしさ",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "e5adaafa",
+      "speaker": "",
+      "ja": "──えっ！？　あ、まっ、待って！！",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "d03d5410",
+      "speaker": "",
+      "ja": "うわっ！　なんだよ、いきなり手なんて握って……まだ何かあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "d6d5c361",
+      "speaker": "",
+      "ja": "あー、そ、その……！",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "55dca9db",
+      "speaker": "",
+      "ja": "（うわっ！　思わず手掴んじゃった……！）",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "f2d264f6",
+      "speaker": "",
+      "ja": "（でも本当に大きな手……触れてみてはっきりわかっちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "171.3",
+      "line_index": 171,
+      "inline_index": 3,
+      "line_hash": "f2d264f6",
+      "speaker": "",
+      "ja": "昔はあたしとそんなに大きさ変わらなかったのに……）",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "3e62fd48",
+      "speaker": "",
+      "ja": "（思っていた以上にゴツゴツして……本当に男の手……。",
+      "zh": ""
+    },
+    {
+      "key": "174.3",
+      "line_index": 174,
+      "inline_index": 3,
+      "line_hash": "3e62fd48",
+      "speaker": "",
+      "ja": "ダメ、またドキドキしてきちゃった……）",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "6737837a",
+      "speaker": "",
+      "ja": "コハルさっきからヘンだぞ？　顔真っ赤だしやっぱり風邪引いてたりする？",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "fdfa1f95",
+      "speaker": "",
+      "ja": "べ、別に引いてなんていないわよ……！　健康だけが取り柄なんだし……",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "a0f0f4ea",
+      "speaker": "",
+      "ja": "まぁコハルがそう言うんだったら……じゃあ俺行くわ",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "3a3da1ab",
+      "speaker": "",
+      "ja": "あっ！　だから待ってって！　行かないで！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "4c1f75b6",
+      "speaker": "",
+      "ja": "な、なんなんだよっ。何か用あるんだったら言ってくれよ",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "4aa05137",
+      "speaker": "",
+      "ja": "あーそ、その……その、さ……その……うう……",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "ff7f7b72",
+      "speaker": "",
+      "ja": "（思わず引き留めちゃったけど、ど、どど、どしよ……！",
+      "zh": ""
+    },
+    {
+      "key": "198.3",
+      "line_index": 198,
+      "inline_index": 3,
+      "line_hash": "ff7f7b72",
+      "speaker": "",
+      "ja": "せっかく二人っきりなんだから何か……何か……！）",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "35fd5ba1",
+      "speaker": "",
+      "ja": "イテテテテテテ！　お、おい！　そんな手強く握るなよっ！",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "381222b7",
+      "speaker": "",
+      "ja": "えっ！？　あ、ごっ、ごめん……！　つい……！",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "6a618749",
+      "speaker": "",
+      "ja": "それにしてもすげー力だな……さすがリリアン……。",
+      "zh": ""
+    },
+    {
+      "key": "208.2",
+      "line_index": 208,
+      "inline_index": 2,
+      "line_hash": "6a618749",
+      "speaker": "",
+      "ja": "昔腕相撲でコハルに勝ったことあったけど、今やったら負けてしまうかも……",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "e7c59719",
+      "speaker": "",
+      "ja": "腕……相撲……？　あ、ああーっ！",
+      "zh": ""
+    },
+    {
+      "key": "212.3",
+      "line_index": 212,
+      "inline_index": 3,
+      "line_hash": "e7c59719",
+      "speaker": "",
+      "ja": "そ、そうなの！　あんたと腕相撲したいかな～って思ってさぁ～",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "98aef313",
+      "speaker": "",
+      "ja": "あたし結構鍛えているし？",
+      "zh": ""
+    },
+    {
+      "key": "215.3",
+      "line_index": 215,
+      "inline_index": 3,
+      "line_hash": "98aef313",
+      "speaker": "",
+      "ja": "今ならあんたをコテンパンにできるかなーって！　あははは……",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "efdc097a",
+      "speaker": "",
+      "ja": "（ううう……あ、あたし何を言ってるのぉ……！",
+      "zh": ""
+    },
+    {
+      "key": "218.3",
+      "line_index": 218,
+      "inline_index": 3,
+      "line_hash": "efdc097a",
+      "speaker": "",
+      "ja": "腕相撲なんてロマンも何もないじゃない……！）",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "61ca82f2",
+      "speaker": "",
+      "ja": "（なんでもっとこう……",
+      "zh": ""
+    },
+    {
+      "key": "221.3",
+      "line_index": 221,
+      "inline_index": 3,
+      "line_hash": "61ca82f2",
+      "speaker": "",
+      "ja": "関係が縮まるような素敵なこと言えないのかなぁ……うううう……）",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "1c95df6e",
+      "speaker": "",
+      "ja": "でもその細腕に負けるとも思えないんだよなぁ……俺だって結構重い機材運んでいるしさ",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "56e910be",
+      "speaker": "",
+      "ja": "ふーん……じゃあしてみる？",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "5f0c51f8",
+      "speaker": "",
+      "ja": "よし……それじゃあ勝負だ……！　いつ以来の腕相撲か忘れたけど今度も俺が勝つ……！",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "7650a598",
+      "speaker": "",
+      "ja": "ふふん♪　言ってなさいよ♪　今度はあたしが勝つんだから",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "d84719da",
+      "speaker": "",
+      "ja": "それじゃあいざ尋常に──",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "32c18874",
+      "speaker": "",
+      "ja": "──勝負！",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "58d00812",
+      "speaker": "",
+      "ja": "ぐっ！？　う、うううう゛！　ぐぎぎぎ……こ、これ……ぐ、ううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "77fe3d17",
+      "speaker": "",
+      "ja": "（あれ……こいつこんなに力弱かったっけ……？",
+      "zh": ""
+    },
+    {
+      "key": "249.3",
+      "line_index": 249,
+      "inline_index": 3,
+      "line_hash": "77fe3d17",
+      "speaker": "",
+      "ja": "昔はもっと力強かった気がしたんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "4b1af6d1",
+      "speaker": "",
+      "ja": "ぐううう……！　な、なんだこの力……！",
+      "zh": ""
+    },
+    {
+      "key": "252.2",
+      "line_index": 252,
+      "inline_index": 2,
+      "line_hash": "4b1af6d1",
+      "speaker": "",
+      "ja": "まったく動かせないぞ……！　う、ううーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "5cf1c672",
+      "speaker": "",
+      "ja": "（もう昔とは違うのね……こいつもあたしも……）",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "bd633241",
+      "speaker": "",
+      "ja": "うおおおおおお！　負けるかぁーーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "b425c41a",
+      "speaker": "",
+      "ja": "──えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "b4664cc8",
+      "speaker": "",
+      "ja": "──ぐはぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "1a22fb",
+      "speaker": "",
+      "ja": "ふふーん、あたしの勝ちーっ",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "692f3d75",
+      "speaker": "",
+      "ja": "く、ううう……！　な、なんて力なんだよ……その細腕のどこにあんな力が……",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "aea39719",
+      "speaker": "",
+      "ja": "まぁリリアンだからね。そこんとこはしょうがないと思うけど",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "acadf37d",
+      "speaker": "",
+      "ja": "そっか……そう、だよなぁ……。",
+      "zh": ""
+    },
+    {
+      "key": "283.2",
+      "line_index": 283,
+      "inline_index": 2,
+      "line_hash": "acadf37d",
+      "speaker": "",
+      "ja": "それにしてもこんなにあっさり負けてしまうなんて……とほほ……",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "50c40298",
+      "speaker": "",
+      "ja": "そ、そんなに落ち込まないでよ……！",
+      "zh": ""
+    },
+    {
+      "key": "287.3",
+      "line_index": 287,
+      "inline_index": 3,
+      "line_hash": "50c40298",
+      "speaker": "",
+      "ja": "別にあんたを負かすために腕相撲したわけじゃないんだから",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "35fb3339",
+      "speaker": "",
+      "ja": "ほ、ほら、あんたは器用だし、",
+      "zh": ""
+    },
+    {
+      "key": "290.3",
+      "line_index": 290,
+      "inline_index": 3,
+      "line_hash": "35fb3339",
+      "speaker": "",
+      "ja": "ドライヤーだってすぐに直せるんだし、別に力が弱くたって何も問題はないんだから",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "6ea5ed49",
+      "speaker": "",
+      "ja": "だから元気出しなよ。こんなことで落ち込むあんたじゃないでしょ",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "b30d6dc1",
+      "speaker": "",
+      "ja": "そ、そうだな……俺には俺のできることをすればいいんだから……",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "c96ac05e",
+      "speaker": "",
+      "ja": "そうそう、お互いに今はやれることをやりましょ",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "f674a861",
+      "speaker": "",
+      "ja": "じゃあ俺もう行くわ。また何かあったら言ってくれ",
+      "zh": ""
+    },
+    {
+      "key": "307.1",
+      "line_index": 307,
+      "inline_index": 1,
+      "line_hash": "c1d69b32",
+      "speaker": "",
+      "ja": "うん、ドライヤー直してくれてありがとうね",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "af06b430",
+      "speaker": "",
+      "ja": "（今焦っても仕方ないか……。",
+      "zh": ""
+    },
+    {
+      "key": "310.3",
+      "line_index": 310,
+      "inline_index": 3,
+      "line_hash": "af06b430",
+      "speaker": "",
+      "ja": "あたしの気持ちが変わらなければチャンスはまた来るんだから……）",
+      "zh": ""
+    }
+  ]
+}
