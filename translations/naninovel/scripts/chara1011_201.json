@@ -19,6 +19,15 @@
       "zh": "想作为莉安变得比现在更强——"
     },
     {
+      "key": "18.2",
+      "line_index": 18,
+      "inline_index": 2,
+      "line_hash": "676be001",
+      "speaker": "",
+      "ja": "その決意を込め{G_PlayerName}の部屋の前にいた。",
+      "zh": "我带着这份决心，站在了 {G_PlayerName} 的房间门前。"
+    },
+    {
       "key": "20.0",
       "line_index": 20,
       "inline_index": 0,
@@ -80,6 +89,15 @@
       "speaker": "",
       "ja": "コハルはさらに決意を固めるように、自分の頬を軽く叩く。",
       "zh": "小春为了让自己更下定决心，轻轻拍了拍脸颊。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "1a126255",
+      "speaker": "",
+      "ja": "そして決意が揺るがないうちに、{G_PlayerName}の部屋のドアをノックした。",
+      "zh": "趁决心还未动摇，我敲响了 {G_PlayerName} 的房门。"
     },
     {
       "key": "42.0",

@@ -19,6 +19,15 @@
       "zh": "露米娜，你在打扫吗？"
     },
     {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "967455bc",
+      "speaker": "",
+      "ja": "あ……{G_PlayerName}くん。うん……少し汚れが気になって……",
+      "zh": "啊……{G_PlayerName}……嗯，稍微有点在意这些脏东西……"
+    },
+    {
       "key": "28.0",
       "line_index": 28,
       "inline_index": 0,
@@ -379,6 +388,15 @@
       "zh": "不过味道果然还是跟平时喝的茶没什么两样……"
     },
     {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "de8b1052",
+      "speaker": "",
+      "ja": "この部屋もそうだけど、見た目が違うだけで{G_PlayerName}くんの部屋と違いはないと思うし……",
+      "zh": "这房间也一样，只是看起来不同，其实和{G_PlayerName}你的房间没什么区别嘛……"
+    },
+    {
       "key": "182.1",
       "line_index": 182,
       "inline_index": 1,
@@ -566,6 +584,15 @@
       "speaker": "",
       "ja": "…………",
       "zh": "…………"
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "a85baacf",
+      "speaker": "",
+      "ja": "少しいい雰囲気、だったかな……？また今度……楽しみに、してるね……{G_PlayerName}くん……",
+      "zh": "刚才气氛还挺不错的呢……？那下次……我很期待哦……{G_PlayerName}……"
     }
   ]
 }

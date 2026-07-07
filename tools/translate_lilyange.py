@@ -512,9 +512,30 @@ def ensure_bundle(runtime_root: pathlib.Path, repo_root: pathlib.Path, filename:
 
 def command_text(data: Dict[str, Any]) -> Optional[str]:
     text_node = data.get("Text")
-    if isinstance(text_node, dict) and text_node.get("hasValue") and isinstance(text_node.get("value"), str):
-        return text_node.get("value")
+    if isinstance(text_node, dict) and text_node.get("hasValue"):
+        if isinstance(text_node.get("value"), str) and text_node.get("value"):
+            return text_node.get("value")
+        dynamic_value = text_node.get("dynamicValue")
+        if isinstance(dynamic_value, dict) and isinstance(dynamic_value.get("ValueText"), str) and dynamic_value.get("ValueText"):
+            return dynamic_value.get("ValueText")
     return None
+
+
+def set_command_text(data: Dict[str, Any], text: str) -> bool:
+    text_node = data.get("Text")
+    if not isinstance(text_node, dict) or not text_node.get("hasValue"):
+        return False
+    if isinstance(text_node.get("value"), str) and text_node.get("value"):
+        text_node["value"] = text
+        return True
+    dynamic_value = text_node.get("dynamicValue")
+    if isinstance(dynamic_value, dict) and isinstance(dynamic_value.get("ValueText"), str) and dynamic_value.get("ValueText"):
+        dynamic_value["ValueText"] = text
+        return True
+    if isinstance(text_node.get("value"), str):
+        text_node["value"] = text
+        return True
+    return False
 
 
 def command_speaker(data: Dict[str, Any]) -> str:
@@ -633,8 +654,7 @@ def patch_bundle(
                 continue
             key = f"{line_index}.{inline_index}"
             translated = translations.get(key)
-            if translated and translated.strip():
-                data["Text"]["value"] = to_game_display_text(translated)
+            if translated and translated.strip() and set_command_text(data, to_game_display_text(translated)):
                 changed += 1
                 object_changed = True
         if object_changed:
