@@ -10,11 +10,13 @@ from typing import Any, Dict, Iterable, List, Set, Tuple
 
 UI_BUNDLE_GLOB = "naninovel_assets_naninovelui_*.bundle"
 UI_BUNDLE_REL = pathlib.Path("web/dok6uc0hyhl8f.cloudfront.net/WebGL")
-DEFAULT_TARGET_FONT_OBJECTS = ()
+DEFAULT_TARGET_FONT_OBJECTS = ("MPLUSRounded1c-Bold",)
 DEFAULT_TMP_FONT_ASSET = "Roboto-Regular SDF"
 DEFAULT_POINT_SIZE = 80
 DEFAULT_ATLAS_SIZE = 4096
 DEFAULT_ATLAS_PADDING = 6
+DEFAULT_CHINESE_FONT = r"C:\Windows\Fonts\msyhbd.ttc"
+DEFAULT_FONT_NAME = "Microsoft YaHei"
 SDF_SPREAD = 8
 
 
@@ -49,15 +51,26 @@ def find_ui_bundle(runtime_root: pathlib.Path) -> pathlib.Path:
     return matches[0]
 
 
-def make_static_font(font_path: pathlib.Path, weight: int, repo_root: pathlib.Path) -> pathlib.Path:
-    from fontTools.ttLib import TTFont
+def make_static_font(font_path: pathlib.Path, weight: int, repo_root: pathlib.Path, font_index: int) -> pathlib.Path:
+    from fontTools.ttLib import TTFont, TTCollection
     from fontTools.varLib.instancer import instantiateVariableFont
+
+    cache_root = pathlib.Path(os.environ.get("PROGRAMDATA", r"C:\ProgramData")) / "lilitra-font-cache"
+    if font_path.suffix.lower() == ".ttc":
+        static_path = cache_root / f"{font_path.stem}-{font_index}-ttc.ttf"
+        if static_path.exists() and static_path.stat().st_mtime >= font_path.stat().st_mtime:
+            return static_path
+        static_path.parent.mkdir(parents=True, exist_ok=True)
+        collection = TTCollection(str(font_path))
+        if font_index < 0 or font_index >= len(collection.fonts):
+            raise ValueError(f"{font_path} contains {len(collection.fonts)} font(s); font index {font_index} is out of range")
+        collection.fonts[font_index].save(str(static_path))
+        return static_path
 
     font = TTFont(str(font_path))
     if "fvar" not in font:
         return font_path
 
-    cache_root = pathlib.Path(os.environ.get("PROGRAMDATA", r"C:\ProgramData")) / "lilitra-font-cache"
     static_path = cache_root / f"{font_path.stem}-{weight}-static.ttf"
     if static_path.exists() and static_path.stat().st_mtime >= font_path.stat().st_mtime:
         return static_path
@@ -136,6 +149,39 @@ def make_subset_font(font_path: pathlib.Path, chars: Iterable[str], repo_root: p
     subsetter.subset(font)
     subset.save_font(font, str(subset_path), options)
     return subset_path
+
+
+def disable_font_change_configuration(tree: Dict[str, Any]) -> bool:
+    configs = tree.get("fontChangeConfiguration")
+    if not isinstance(configs, list):
+        return False
+    changed = False
+    for config in configs:
+        if not isinstance(config, dict):
+            continue
+        if config.get("AllowFontChange") != 0:
+            config["AllowFontChange"] = 0
+            changed = True
+    return changed
+
+
+def set_pptr_path_id(value: Any, path_id: int) -> bool:
+    if not isinstance(value, dict):
+        return False
+    if value.get("m_PathID") == path_id:
+        return False
+    value["m_FileID"] = 0
+    value["m_PathID"] = path_id
+    return True
+
+
+def replace_legacy_text_font(tree: Dict[str, Any], font_path_id: int) -> bool:
+    changed = False
+    font_data = tree.get("m_FontData")
+    if isinstance(font_data, dict):
+        changed = set_pptr_path_id(font_data.get("m_Font"), font_path_id) or changed
+    changed = set_pptr_path_id(tree.get("m_Font"), font_path_id) or changed
+    return changed
 
 
 def get_glyph_id_map(font_path: pathlib.Path) -> Dict[int, int]:
@@ -436,37 +482,46 @@ def patch_font_bundle(
     import UnityPy
 
     env = UnityPy.load(str(source_bundle))
-    font_chars = collect_translation_chars(repo_root)
-    font_chars.update(chr(codepoint) for codepoint in range(0x20, 0x7F))
-    font_chars.update(chr(codepoint) for codepoint in range(0x3040, 0x3100))
-    for obj in env.objects:
-        try:
-            tree = obj.read_typetree()
-        except Exception:
-            continue
-        for text in walk_all_strings(tree):
-            if len(text) <= 10000:
-                font_chars.update(text)
-    font_path = make_subset_font(font_path, font_chars, repo_root)
     font_bytes = font_path.read_bytes()
     targets = {name.strip() for name in target_names if name.strip()}
     changed = 0
+    primary_font_path_id = 0
     for obj in env.objects:
         if obj.type.name != "Font":
             continue
         tree = obj.read_typetree()
         if targets and tree.get("m_Name") not in targets:
             continue
+        if primary_font_path_id == 0:
+            primary_font_path_id = obj.path_id
         tree["m_FontData"] = font_bytes
         tree["m_FontNames"] = [font_name]
         obj.save_typetree(tree)
         changed += 1
+    if primary_font_path_id == 0:
+        raise RuntimeError(f"No matching Unity Font objects were found in {source_bundle.name}")
+
+    font_config_changed = 0
+    text_font_changed = 0
+    for obj in env.objects:
+        if obj.type.name != "MonoBehaviour":
+            continue
+        tree = obj.read_typetree()
+        if replace_legacy_text_font(tree, primary_font_path_id):
+            text_font_changed += 1
+            obj.save_typetree(tree)
+            continue
+        if disable_font_change_configuration(tree):
+            obj.save_typetree(tree)
+            font_config_changed += 1
 
     tmp_changed = 0
     tmp_atlas_ids: Set[int] = set()
     static_payload = None
     if static_tmp:
-        static_chars = set(font_chars)
+        static_chars = collect_translation_chars(repo_root)
+        static_chars.update(chr(codepoint) for codepoint in range(0x20, 0x7F))
+        static_chars.update(chr(codepoint) for codepoint in range(0x3040, 0x3100))
         base_tmp_tree = None
         base_atlas_tree = None
         base_atlas_id = 0
@@ -581,18 +636,19 @@ def patch_font_bundle(
                 obj.save_typetree(tree)
                 atlas_changed += 1
 
-    if not changed and not tmp_changed and not atlas_changed:
+    if not changed and not tmp_changed and not atlas_changed and not font_config_changed and not text_font_changed:
         raise RuntimeError(f"No matching Unity Font objects were found in {source_bundle.name}")
     output_bundle.parent.mkdir(parents=True, exist_ok=True)
     output_bundle.write_bytes(env.file.save())
-    return changed + tmp_changed + atlas_changed
+    return changed + tmp_changed + atlas_changed + font_config_changed + text_font_changed
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Patch Naninovel UI font for Simplified Chinese display.")
     parser.add_argument("--runtime-root", required=True, type=pathlib.Path)
-    parser.add_argument("--font", default=r"C:\Windows\Fonts\NotoSansSC-VF.ttf", type=pathlib.Path)
-    parser.add_argument("--font-name", default="Noto Sans SC")
+    parser.add_argument("--font", default=DEFAULT_CHINESE_FONT, type=pathlib.Path)
+    parser.add_argument("--font-name", default=DEFAULT_FONT_NAME)
+    parser.add_argument("--font-index", default=0, type=int, help="Font index when --font points to a TTC collection.")
     parser.add_argument("--weight", default=500, type=int)
     parser.add_argument("--static-tmp", action="store_true", help="Bake translated glyphs directly into the TextMeshPro atlas.")
     parser.add_argument("--tmp-font-asset", default=DEFAULT_TMP_FONT_ASSET)
@@ -609,7 +665,7 @@ def main() -> int:
 
     if not args.font.exists():
         raise FileNotFoundError(args.font)
-    font_path = make_static_font(args.font, args.weight, args.repo_root)
+    font_path = make_static_font(args.font, args.weight, args.repo_root, args.font_index)
     source_bundle = find_ui_bundle(args.runtime_root)
     output_bundle = args.repo_root / "bundles/WebGL" / source_bundle.name
     target_names = [name for name in args.targets.split(",")] if args.targets else []

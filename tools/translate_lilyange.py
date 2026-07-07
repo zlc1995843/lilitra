@@ -524,6 +524,27 @@ def command_speaker(data: Dict[str, Any]) -> str:
     return ""
 
 
+def replace_name_value(node: Any, name_glossary: Dict[str, str]) -> bool:
+    if not isinstance(node, dict):
+        return False
+    value = node.get("value")
+    replacement = name_glossary.get(value) if isinstance(value, str) else None
+    if replacement and replacement != value:
+        node["value"] = replacement
+        return True
+    return False
+
+
+def replace_display_names(data: Dict[str, Any], name_glossary: Dict[str, str]) -> int:
+    if not name_glossary:
+        return 0
+    changed = 0
+    for field in ("AuthorId", "Speaker"):
+        if replace_name_value(data.get(field), name_glossary):
+            changed += 1
+    return changed
+
+
 def command_spot(data: Dict[str, Any]) -> Dict[str, Any]:
     spot = data.get("playbackSpot")
     return spot if isinstance(spot, dict) else {}
@@ -581,9 +602,16 @@ def extract_lines(bundle_path: pathlib.Path) -> List[Dict[str, Any]]:
     return lines
 
 
-def patch_bundle(source_bundle: pathlib.Path, output_bundle: pathlib.Path, translations: Dict[str, str]) -> int:
+def patch_bundle(
+    source_bundle: pathlib.Path,
+    output_bundle: pathlib.Path,
+    translations: Dict[str, str],
+    name_glossary: Optional[Dict[str, str]] = None,
+) -> int:
     env = load_unity_bundle(source_bundle)
     changed = 0
+    name_changed = 0
+    name_glossary = name_glossary or {}
     for obj in env.objects:
         if obj.type.name != "MonoBehaviour":
             continue
@@ -594,6 +622,9 @@ def patch_bundle(source_bundle: pathlib.Path, output_bundle: pathlib.Path, trans
             data = ref.get("data")
             if not isinstance(data, dict):
                 continue
+            if replace_display_names(data, name_glossary):
+                name_changed += 1
+                object_changed = True
             text = command_text(data)
             if not text:
                 continue
@@ -611,7 +642,7 @@ def patch_bundle(source_bundle: pathlib.Path, output_bundle: pathlib.Path, trans
                 object_changed = True
         if object_changed:
             obj.save_typetree(tree)
-    if changed:
+    if changed or name_changed:
         output_bundle.parent.mkdir(parents=True, exist_ok=True)
         output_bundle.write_bytes(env.file.save())
     return changed
@@ -915,7 +946,7 @@ def main() -> int:
                 print(f"review file has no Chinese lines: {review_path}", file=sys.stderr)
                 return 3
             save_translation(translation_path, source_lines, zh_map)
-            changed = patch_bundle(source_bundle, bundle_out, zh_map)
+            changed = patch_bundle(source_bundle, bundle_out, zh_map, name_glossary)
             print(f"patched {changed}/{len(source_lines)} lines from review")
             refresh_translated_index(repo_root)
             continue
@@ -928,7 +959,7 @@ def main() -> int:
             continue
 
         save_translation(translation_path, source_lines, zh_map)
-        changed = patch_bundle(source_bundle, bundle_out, zh_map)
+        changed = patch_bundle(source_bundle, bundle_out, zh_map, name_glossary)
         print(f"patched {changed}/{len(source_lines)} lines")
         refresh_translated_index(repo_root)
     return 0
