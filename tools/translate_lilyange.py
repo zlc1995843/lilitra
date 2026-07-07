@@ -536,13 +536,10 @@ def replace_name_value(node: Any, name_glossary: Dict[str, str]) -> bool:
 
 
 def replace_display_names(data: Dict[str, Any], name_glossary: Dict[str, str]) -> int:
-    if not name_glossary:
-        return 0
-    changed = 0
-    for field in ("AuthorId", "Speaker"):
-        if replace_name_value(data.get(field), name_glossary):
-            changed += 1
-    return changed
+    # Keep Naninovel speaker identifiers intact. The game uses AuthorId/Speaker
+    # to bind dialogue to character presentation state; translating them breaks
+    # active-character lighting and fade transitions.
+    return 0
 
 
 def command_spot(data: Dict[str, Any]) -> Dict[str, Any]:
@@ -636,7 +633,7 @@ def patch_bundle(
                 continue
             key = f"{line_index}.{inline_index}"
             translated = translations.get(key)
-            if translated and has_cjk(translated):
+            if translated and translated.strip():
                 data["Text"]["value"] = to_game_display_text(translated)
                 changed += 1
                 object_changed = True
@@ -663,8 +660,8 @@ def from_existing_translation(path: pathlib.Path) -> Dict[str, str]:
     for item in data.get("lines", []):
         key = str(item.get("key") or "")
         zh = item.get("zh")
-        if key and isinstance(zh, str) and has_cjk(zh):
-            result[key] = zh
+        if key and isinstance(zh, str) and zh.strip():
+            result[key] = zh.strip()
     return result
 
 
@@ -679,8 +676,8 @@ def from_review_translation(path: pathlib.Path) -> Dict[str, str]:
     for item in data.get("lines", []):
         key = str(item.get("key") or "")
         zh = item.get("zh")
-        if key and isinstance(zh, str) and has_cjk(zh):
-            result[key] = zh
+        if key and isinstance(zh, str) and zh.strip():
+            result[key] = zh.strip()
     return result
 
 
