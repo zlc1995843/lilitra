@@ -5,7 +5,7 @@
       "line_index": 17,
       "inline_index": 0,
       "line_hash": "ee25af64",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "──いただきますっ",
       "zh": "──我开动了！"
     },
@@ -14,7 +14,7 @@
       "line_index": 23,
       "inline_index": 0,
       "line_hash": "c59b2417",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（うん、旨い！　我ながら最高の揚げ加減のフライだな！）",
       "zh": "（嗯，真好吃！这炸得恰到好处，我自己都觉得绝了！）"
     },
@@ -50,7 +50,7 @@
       "line_index": 30,
       "inline_index": 0,
       "line_hash": "21bf86ed",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（日に日に料理の腕が上がってきているかも……。",
       "zh": "（或许我的厨艺真的一天天在进步……）"
     },
@@ -59,7 +59,7 @@
       "line_index": 30,
       "inline_index": 2,
       "line_hash": "21bf86ed",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "俺ってエンジニアよりも料理人の方が向いているんじゃないか）",
       "zh": "我比起当工程师，没准更适合当厨师吧）"
     },
@@ -86,7 +86,7 @@
       "line_index": 36,
       "inline_index": 0,
       "line_hash": "c911b764",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "──ん？",
       "zh": "──嗯？"
     },
@@ -113,7 +113,7 @@
       "line_index": 44,
       "inline_index": 0,
       "line_hash": "335ba7b5",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "──ぅえっ！？",
       "zh": "──哇啊！？"
     },
@@ -122,7 +122,7 @@
       "line_index": 51,
       "inline_index": 0,
       "line_hash": "c21c3a5a",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（しー……♥）",
       "zh": "（嘘……♥）"
     },
@@ -167,7 +167,7 @@
       "line_index": 60,
       "inline_index": 0,
       "line_hash": "7b8f49b8",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（ちょ……！　な、なにするつもりなんだ……！？）",
       "zh": "（喂……！你、你想干什么……！？）"
     },
@@ -176,7 +176,7 @@
       "line_index": 66,
       "inline_index": 0,
       "line_hash": "9b55c20c",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ふふ……♥　大人しくしていてくださいね♥　",
       "zh": "（呵呵……♥ 乖乖的别乱动哦♥"
     },
@@ -185,7 +185,7 @@
       "line_index": 66,
       "inline_index": 2,
       "line_hash": "9b55c20c",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "今日の一日の疲れ、メアが癒してあげますから……♥）",
       "zh": "今天累了一天，让美亚来帮你好好放松……♥）"
     },
@@ -194,7 +194,7 @@
       "line_index": 80,
       "inline_index": 0,
       "line_hash": "5c7f3213",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（ま、待って……こんなところで……ダメだって……！）",
       "zh": "（等、等一下……在这种地方……不行的……！）"
     },
@@ -230,7 +230,7 @@
       "line_index": 87,
       "inline_index": 0,
       "line_hash": "59da4adc",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（わぁ……♥　今日も一日頑張ったおちんちんさんの匂い……",
       "zh": "（哇……♥ 今天也卖力了一整天的小弟弟，这味道……"
     },
@@ -239,7 +239,7 @@
       "line_index": 87,
       "inline_index": 2,
       "line_hash": "59da4adc",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "パンツ越しでも香ってきます♥）",
       "zh": "隔着内裤都能闻到呢♥）"
     },
@@ -275,7 +275,7 @@
       "line_index": 94,
       "inline_index": 0,
       "line_hash": "1fd0742b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（メア、本当にやめてくれって。みんながいるんだぞ？",
       "zh": "（美亚，真的快停下。大家可都在呢？"
     },
@@ -284,7 +284,7 @@
       "line_index": 94,
       "inline_index": 2,
       "line_hash": "1fd0742b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "もしバレてしまったらどうするつもりなんだ？）",
       "zh": "要是被发现了你打算怎么办？）"
     },
@@ -293,7 +293,7 @@
       "line_index": 98,
       "inline_index": 0,
       "line_hash": "8be1b4a6",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（うふふ♥　その時はその時ですよ♥）",
       "zh": "（唔呵呵♥ 到时候的事到时候再说呗♥）"
     },
@@ -311,7 +311,7 @@
       "line_index": 103,
       "inline_index": 0,
       "line_hash": "10113b28",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（くんくん……♥　すごい匂い……オスって感じがして……はぁ～♥　",
       "zh": "（嗅嗅……♥ 味道好重……一股雄性的味道……哈啊～♥"
     },
@@ -320,7 +320,7 @@
       "line_index": 103,
       "inline_index": 2,
       "line_hash": "10113b28",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "匂いだけでおまんこがぐちゅぐちゅになってきてしまいます……♥）",
       "zh": "光闻着味道，下面就已经湿得一塌糊涂了……♥）"
     },
@@ -329,7 +329,7 @@
       "line_index": 106,
       "inline_index": 0,
       "line_hash": "fbd80d56",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（やめろって……！　におい嗅ぐなって……！）",
       "zh": "（都说住手了……！别闻啊……！）"
     },
@@ -338,7 +338,7 @@
       "line_index": 110,
       "inline_index": 0,
       "line_hash": "16a19cdd",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ふふっ♥　顔真っ赤ですね♥　可愛いです♥　",
       "zh": "（嘿嘿♥ 脸都红透了♥ 真可爱♥"
     },
@@ -347,7 +347,7 @@
       "line_index": 110,
       "inline_index": 2,
       "line_hash": "16a19cdd",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "もっともっと恥ずかしくしてあげますね♥）",
       "zh": "我会让你更害羞的哦♥）"
     },
@@ -356,7 +356,7 @@
       "line_index": 113,
       "inline_index": 0,
       "line_hash": "3d9d8efa",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（恥ずかしさは快感の最高のスパイスなんですから♥）",
       "zh": "（因为羞耻可是快感最棒的佐料嘛♥）"
     },
@@ -365,7 +365,7 @@
       "line_index": 121,
       "inline_index": 0,
       "line_hash": "dbda38ef",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ふふふっ♥　おちんちんもうこんなに勃起させて……♥　れるぅ♥）",
       "zh": "（呵呵呵♥ 小弟弟都硬成这样了……♥ 哎哟♥）"
     },
@@ -374,7 +374,7 @@
       "line_index": 124,
       "inline_index": 0,
       "line_hash": "262977ad",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（うう……！　メア、やめろって……声、出てしまう……くっ！）",
       "zh": "（唔……！美亚，都说住手了……声音、要漏出来了……唔！）"
     },
@@ -410,7 +410,7 @@
       "line_index": 131,
       "inline_index": 0,
       "line_hash": "9b350268",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ちんちんの傘もこんなに開いて……れろっ♥）",
       "zh": "（小龟头都张得这么开了……舔♥）"
     },
@@ -419,7 +419,7 @@
       "line_index": 134,
       "inline_index": 0,
       "line_hash": "5c17d52d",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "──はおっ！？",
       "zh": "──哈啊！？"
     },
@@ -428,7 +428,7 @@
       "line_index": 140,
       "inline_index": 0,
       "line_hash": "f515f417",
-      "speaker": "",
+      "speaker": "リリアン",
       "ja": "んんん？　突然声を出して……どうかなさいました？",
       "zh": "嗯嗯嗯？突然出声……怎么了吗？"
     },
@@ -437,7 +437,7 @@
       "line_index": 143,
       "inline_index": 0,
       "line_hash": "c258b9d8",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うぇ！？　あ、ああ、その、スープが思いの外熱くて驚いて……ははは……",
       "zh": "哇！？啊、哦哦，那个，这汤比我想的烫，吓了一跳……哈哈哈……"
     },
@@ -446,7 +446,7 @@
       "line_index": 146,
       "inline_index": 0,
       "line_hash": "45998df",
-      "speaker": "",
+      "speaker": "リリアン",
       "ja": "そうですか、火傷しないように気をつけてくださいね",
       "zh": "是吗，小心别烫着哦。"
     },
@@ -455,7 +455,7 @@
       "line_index": 149,
       "inline_index": 0,
       "line_hash": "752ac3c4",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（ば、バレて……いない……よかっ……うっ！？）",
       "zh": "（还、还没穿帮……太好了……唔！？）"
     },
@@ -482,7 +482,7 @@
       "line_index": 155,
       "inline_index": 0,
       "line_hash": "163f788c",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（今おちんちんすごく跳ねて……カウパーがたくさん……♥　",
       "zh": "（现在小弟弟跳得好厉害……先走汁流了这么多……♥"
     },
@@ -491,7 +491,7 @@
       "line_index": 155,
       "inline_index": 2,
       "line_hash": "163f788c",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "オスの匂いもさらに強くなって……",
       "zh": "雄性的味道也更浓了……"
     },
@@ -500,7 +500,7 @@
       "line_index": 155,
       "inline_index": 4,
       "line_hash": "163f788c",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "ああ、この濃厚な香り……たまらないです♥）",
       "zh": "啊啊，这股浓郁的气味……真让人受不了♥）"
     },
@@ -509,7 +509,7 @@
       "line_index": 158,
       "inline_index": 0,
       "line_hash": "300f7d6b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（も、もう本当にやめろって……",
       "zh": "（真的，都说了快停手……"
     },
@@ -518,7 +518,7 @@
       "line_index": 158,
       "inline_index": 2,
       "line_hash": "300f7d6b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "これ以上されたら絶対にバレるから……！）",
       "zh": "再这样下去绝对会被发现的……！）"
     },
@@ -527,7 +527,7 @@
       "line_index": 162,
       "inline_index": 0,
       "line_hash": "99b5ce6e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "ちゅるっ♥　れるっ……♥　オスの味も濃厚になってきて……",
       "zh": "啾噜♥ 吸溜……♥ 雄性的味道越来越浓了……"
     },
@@ -536,7 +536,7 @@
       "line_index": 162,
       "inline_index": 2,
       "line_hash": "99b5ce6e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "はぁぁ～♥　おまんこジンジンしてきます……",
       "zh": "哈啊啊～♥ 下面都酥酥麻麻的了……"
     },
@@ -545,7 +545,7 @@
       "line_index": 162,
       "inline_index": 4,
       "line_hash": "99b5ce6e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "子宮があなたのザーメン求めてしまっていますぅ♥",
       "zh": "子宫都在呼唤你的精液了♥"
     },
@@ -590,7 +590,7 @@
       "line_index": 170,
       "inline_index": 0,
       "line_hash": "2c8f7471",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（メア……本当にやめてくれ……！　これ以上は……ううう……！！）",
       "zh": "（美亚……真的快停下……！再继续的话……呜呜呜……！！）"
     },
@@ -599,7 +599,7 @@
       "line_index": 174,
       "inline_index": 0,
       "line_hash": "37f45816",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ああ♥　その切なそうな顔、すごく良いです♥　",
       "zh": "（啊啊♥ 你这难受的表情，太棒了♥"
     },
@@ -608,7 +608,7 @@
       "line_index": 174,
       "inline_index": 2,
       "line_hash": "37f45816",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "それに出したければご自由に出してください♥　",
       "zh": "而且想射的话尽管射出来就好♥"
     },
@@ -617,7 +617,7 @@
       "line_index": 174,
       "inline_index": 4,
       "line_hash": "37f45816",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "メアがすべて飲み込みますから♥）",
       "zh": "美亚会一滴不剩全吞下去的♥）"
     },
@@ -626,7 +626,7 @@
       "line_index": 177,
       "inline_index": 0,
       "line_hash": "4e5e57bf",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（そ、そういうわけにもいかないだろ……！　",
       "zh": "（那、那可不行吧……！"
     },
@@ -635,7 +635,7 @@
       "line_index": 177,
       "inline_index": 2,
       "line_hash": "4e5e57bf",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "こんなところで出したら……ぐっ！）",
       "zh": "要是在这种地方射出来……唔！）"
     },
@@ -671,7 +671,7 @@
       "line_index": 184,
       "inline_index": 0,
       "line_hash": "c7eb6e45",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（我慢強い人……♥　そういう頑固なところも大好き……♥　",
       "zh": "（真能忍……♥ 连这种犟脾气我也好喜欢……♥"
     },
@@ -680,7 +680,7 @@
       "line_index": 184,
       "inline_index": 2,
       "line_hash": "c7eb6e45",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "でもぉ……我慢は身体に毒です♥　",
       "zh": "不过呀，硬憋着对身体可不好♥"
     },
@@ -689,7 +689,7 @@
       "line_index": 184,
       "inline_index": 4,
       "line_hash": "c7eb6e45",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "さあ遠慮なさらずにザーメンぴゅっぴゅしてください）",
       "zh": "好啦别客气，尽情地噗噗射出来吧）"
     },
@@ -698,7 +698,7 @@
       "line_index": 187,
       "inline_index": 0,
       "line_hash": "6c9f682e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（あ、あ……う、くうううっ！　メア、やめてくれ……！",
       "zh": "（啊、啊……唔、呜呜呜啊！美亚，快停下……！"
     },
@@ -707,7 +707,7 @@
       "line_index": 187,
       "inline_index": 2,
       "line_hash": "6c9f682e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "もう……う、ううう……ふ、ふ、ふっ！！）",
       "zh": "已经……唔、呜呜……呼、唔、嗯！！）"
     },
@@ -716,7 +716,7 @@
       "line_index": 191,
       "inline_index": 0,
       "line_hash": "58ce075e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（さあ出してください♥　おちんちんスッキリさせてくださいね♥）",
       "zh": "（好啦快射出来♥ 让小弟弟舒舒服服地释放一下吧♥）"
     },
@@ -725,7 +725,7 @@
       "line_index": 194,
       "inline_index": 0,
       "line_hash": "2b3c0b34",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（も、もうダメだ……！！　う、ううううううっ！！）",
       "zh": "（已、已经不行了……！！唔、呜呜呜呜呜呜！！）"
     },
@@ -734,7 +734,7 @@
       "line_index": 205,
       "inline_index": 0,
       "line_hash": "cea4ffac",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ふあっ！♥　ああ、ザーメン……ザーメンザーメン♥　いっぱい！♥）",
       "zh": "（呼啊啊！♥ 啊啊，精液……精液精液♥ 好大一股！♥）"
     },
@@ -743,7 +743,7 @@
       "line_index": 208,
       "inline_index": 0,
       "line_hash": "b4b489e7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うう、う……ぐ……う、ぅあ……！",
       "zh": "唔、唔……咕、唔……哇……！"
     },
@@ -779,7 +779,7 @@
       "line_index": 215,
       "inline_index": 0,
       "line_hash": "6933ff13",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（れる……ちゅ……ちゅぱ♥　ザーメンの味……",
       "zh": "（吸溜……啾……啾啪♥ 精液的味道……"
     },
@@ -788,7 +788,7 @@
       "line_index": 215,
       "inline_index": 2,
       "line_hash": "6933ff13",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "愛している人の味……♥　濃厚で、少し苦くて……",
       "zh": "是心爱之人的味道……♥ 浓郁，又带点微苦……"
     },
@@ -797,7 +797,7 @@
       "line_index": 215,
       "inline_index": 4,
       "line_hash": "6933ff13",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "とても美味しくて……とってもエッチな味がしますぅ♥）",
       "zh": "好吃极了……超级色情的味道♥）"
     },
@@ -833,7 +833,7 @@
       "line_index": 221,
       "inline_index": 0,
       "line_hash": "302877d9",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（これだけ出したのにまだ射精し足りないだなんて……♥　",
       "zh": "（明明射了这么多，却还没射够……♥"
     },
@@ -842,7 +842,7 @@
       "line_index": 221,
       "inline_index": 2,
       "line_hash": "302877d9",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "もしかしてメアのことますます好きになって……それでですか？♥）",
       "zh": "莫非你越来越喜欢美亚了……才这样吗？♥）"
     },
@@ -851,7 +851,7 @@
       "line_index": 224,
       "inline_index": 0,
       "line_hash": "25170bf",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（そ、そういうわけじゃ……ぐっ！）",
       "zh": "（才、才不是那样……唔！）"
     },
@@ -860,7 +860,7 @@
       "line_index": 228,
       "inline_index": 0,
       "line_hash": "f6b0b5d3",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（あぁ♥　嬉しい♥　嬉しいです♥　それならもっと期待に応えますね♥　",
       "zh": "（啊啊♥ 好开心♥ 我好开心♥ 既然这样我会更加努力回应你的♥"
     },
@@ -869,7 +869,7 @@
       "line_index": 228,
       "inline_index": 2,
       "line_hash": "f6b0b5d3",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "あなたのメアがいくらでもおちんちん愛してあげますから♥）",
       "zh": "你的美亚，会好好疼爱小弟弟的♥）"
     },
@@ -878,7 +878,7 @@
       "line_index": 236,
       "inline_index": 0,
       "line_hash": "74b2e33d",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（れるぅ……ぢゅる……♥　ちゅぱ……れるれる……れろぉっ♥）",
       "zh": "（吸溜……啾噜……♥ 啾啪……吸溜吸溜……舔啊♥）"
     },
@@ -887,7 +887,7 @@
       "line_index": 239,
       "inline_index": 0,
       "line_hash": "5d59fc0",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（や、やめ……声、抑えられない……う、うううううっ！！）",
       "zh": "（住、住手……声音、忍不住了……唔、呜呜呜呜！！）"
     },
@@ -950,7 +950,7 @@
       "line_index": 248,
       "inline_index": 0,
       "line_hash": "89000600",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（全体をぺろぺろ～……♥　んちゅ♥　ここにもザーメンが……♥）",
       "zh": "（把整个都舔一遍～……♥ 嗯啾♥ 这里也沾着精液呢……♥）"
     },
@@ -959,7 +959,7 @@
       "line_index": 251,
       "inline_index": 0,
       "line_hash": "c7413528",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（先っぽにも……おちんちんの中のザーメン、吸い取ってあげますね♥　",
       "zh": "（头顶也……小弟弟里面的精液，我帮你吸出来♥"
     },
@@ -968,7 +968,7 @@
       "line_index": 251,
       "inline_index": 2,
       "line_hash": "c7413528",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "ちゅ……ぢゅるっ！♥　んぅ……ちゅ、ちゅ、ちゅううううっ！！♥♥）",
       "zh": "啾……啾噜！♥ 嗯……啾、啾、啾呜呜呜！！♥♥）"
     },
@@ -977,7 +977,7 @@
       "line_index": 254,
       "inline_index": 0,
       "line_hash": "a354f04a",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "あおっ！？　う、ぐ……ぅ、ぅぅぅっ！",
       "zh": "啊哦！？唔、咕……呃、唔唔唔！"
     },
@@ -1031,7 +1031,7 @@
       "line_index": 263,
       "inline_index": 0,
       "line_hash": "8dfbc092",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（慌てるあなたも可愛いです♥　",
       "zh": "（慌张的你也好可爱♥"
     },
@@ -1040,7 +1040,7 @@
       "line_index": 263,
       "inline_index": 2,
       "line_hash": "8dfbc092",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "それに……今の吸われるのすごく感じたみたいですね♥）",
       "zh": "而且……刚才被吸的那一下，你好像超有感觉呢♥）"
     },
@@ -1049,7 +1049,7 @@
       "line_index": 266,
       "inline_index": 0,
       "line_hash": "5fd28eaf",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（それならもっとしてあげますね♥　溢れるカウパーも、",
       "zh": "（那我就更卖力了♥ 溢出来的先走汁也好，"
     },
@@ -1058,7 +1058,7 @@
       "line_index": 266,
       "inline_index": 2,
       "line_hash": "5fd28eaf",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "タマタマの中の精液も、全部全部吸い出してあげますっ♥）",
       "zh": "蛋蛋里的精液也好，全部全部帮你吸出来♥）"
     },
@@ -1067,7 +1067,7 @@
       "line_index": 269,
       "inline_index": 0,
       "line_hash": "60993861",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ぢゅる……！♥　ちゅ、ちゅ……んんんっ！♥　",
       "zh": "（啾噜……！♥ 啾、啾……嗯嗯嗯！♥"
     },
@@ -1076,7 +1076,7 @@
       "line_index": 269,
       "inline_index": 2,
       "line_hash": "60993861",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "ちゅ、ぢゅるるるるっ！！♥）",
       "zh": "啾、啾噜噜噜噜！！♥）"
     },
@@ -1085,7 +1085,7 @@
       "line_index": 272,
       "inline_index": 0,
       "line_hash": "155ee020",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（メア……ダメだ、それ以上は……うう、ううううう……！！）",
       "zh": "（美亚……不行，再继续……唔、呜呜呜呜……！！）"
     },
@@ -1112,7 +1112,7 @@
       "line_index": 279,
       "inline_index": 0,
       "line_hash": "730d24ea",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（そんなに力入れていたらザーメンでませんよ♥　",
       "zh": "（你那么用力绷着的话，精液出不来的哦♥"
     },
@@ -1121,7 +1121,7 @@
       "line_index": 279,
       "inline_index": 2,
       "line_hash": "730d24ea",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "楽にしてくださいね……♥）",
       "zh": "放松一点……♥）"
     },
@@ -1130,7 +1130,7 @@
       "line_index": 282,
       "inline_index": 0,
       "line_hash": "bfbb140e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（ふ、うっ！？　あ、あ……それやめ……うううっ！！）",
       "zh": "（呼、唔！？啊、啊……那里不要……呜呜呜！！）"
     },
@@ -1166,7 +1166,7 @@
       "line_index": 289,
       "inline_index": 0,
       "line_hash": "351dd97e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ふふ♥　さあ射精してください♥　",
       "zh": "（呵呵♥ 来，射出来吧♥"
     },
@@ -1175,7 +1175,7 @@
       "line_index": 289,
       "inline_index": 2,
       "line_hash": "351dd97e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "今度はメアのお顔にぶっかけて……♥　",
       "zh": "这次就射在美亚脸上……♥"
     },
@@ -1184,7 +1184,7 @@
       "line_index": 289,
       "inline_index": 4,
       "line_hash": "351dd97e",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "あなたの濃厚ザーメンで汚してください♥）",
       "zh": "用你那浓浓的精液把我弄脏吧♥）"
     },
@@ -1229,7 +1229,7 @@
       "line_index": 296,
       "inline_index": 0,
       "line_hash": "5cd3f414",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（うう、メア……く、う、う……",
       "zh": "（唔、美亚……咕、唔、呜……"
     },
@@ -1238,7 +1238,7 @@
       "line_index": 296,
       "inline_index": 2,
       "line_hash": "5cd3f414",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "で、出るっ……く、う、うううう……！！）",
       "zh": "要、要射了……咕、唔、呜呜呜呜……！！）"
     },
@@ -1247,7 +1247,7 @@
       "line_index": 300,
       "inline_index": 0,
       "line_hash": "45dcdc0",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（さあイって……最高に気持ちの良い射精をしてくださいっ♥）",
       "zh": "（好了去吧……来一次最舒服的射精吧♥）"
     },
@@ -1256,7 +1256,7 @@
       "line_index": 310,
       "inline_index": 0,
       "line_hash": "5f5c50f5",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ぐっ……！　う、ふ、ふ……うぁ……あぅ……！",
       "zh": "唔……！唔、呼、呼……哇……啊呜……！"
     },
@@ -1265,7 +1265,7 @@
       "line_index": 314,
       "inline_index": 0,
       "line_hash": "24b50728",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（あはっ♥　あああ、いっぱいザーメン……ああ、熱いぃ♥　",
       "zh": "（啊哈♥ 啊啊啊，好多的精液……啊啊，好烫♥"
     },
@@ -1274,7 +1274,7 @@
       "line_index": 314,
       "inline_index": 2,
       "line_hash": "24b50728",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "メアのお顔……あなたのザーメンでどろどろに……",
       "zh": "美亚的脸……被你的精液弄得黏糊糊的……"
     },
@@ -1283,7 +1283,7 @@
       "line_index": 314,
       "inline_index": 4,
       "line_hash": "24b50728",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "しあわせ……はぁぁ～♥）",
       "zh": "好幸福……哈啊啊～♥）"
     },
@@ -1310,7 +1310,7 @@
       "line_index": 320,
       "inline_index": 0,
       "line_hash": "fbd89e64",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（さあ遠慮しないでもっとぶっかけて……♥　ひゃっ！♥　ああ～っ♥）",
       "zh": "（来，不用客气，多射些上来……♥ 呀！♥ 啊啊～♥）"
     },
@@ -1319,7 +1319,7 @@
       "line_index": 323,
       "inline_index": 0,
       "line_hash": "9cdb94ad",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（ふっ、ふっ……んく、うあ……も、もう刺激しないでくれ……ううっ！　",
       "zh": "（呼、呼……嗯咕、哇……已、已经别再刺激了……呜呜！"
     },
@@ -1328,7 +1328,7 @@
       "line_index": 323,
       "inline_index": 2,
       "line_hash": "9cdb94ad",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "も、もう出終わった、からぁ……くう……！！）",
       "zh": "已、已经射完了，所以……咕呜……！！）"
     },
@@ -1337,7 +1337,7 @@
       "line_index": 327,
       "inline_index": 0,
       "line_hash": "154e1319",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ふふっ♥　うふふ♥　声を必死に我慢して……可愛い♥　",
       "zh": "（嘿嘿♥ 唔嘿嘿♥ 拼命忍着声音……好可爱♥"
     },
@@ -1346,7 +1346,7 @@
       "line_index": 327,
       "inline_index": 2,
       "line_hash": "154e1319",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "それにメアとエッチなことをしているのを、",
       "zh": "而且，关于和美亚做色色的事，"
     },
@@ -1355,7 +1355,7 @@
       "line_index": 327,
       "inline_index": 4,
       "line_hash": "154e1319",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "他の娘に見られないようにしてくれているんだね♥）",
       "zh": "是不想让别的女生看到吧♥）"
     },
@@ -1364,7 +1364,7 @@
       "line_index": 330,
       "inline_index": 0,
       "line_hash": "c4fd6d2",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（これからもザーメンが溜まったら……ううん、溜まっていなくても、",
       "zh": "（以后要是又囤积了……唔，就算没囤积，"
     },
@@ -1373,7 +1373,7 @@
       "line_index": 330,
       "inline_index": 2,
       "line_hash": "c4fd6d2",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "ヌキヌキしたいときはメアに言ってくださいね♥）",
       "zh": "想撸的时候就来找美亚说一声哦♥）"
     },
@@ -1382,7 +1382,7 @@
       "line_index": 333,
       "inline_index": 0,
       "line_hash": "6ee83e77",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（いつでもあなたのためにこの身を捧げますから♥　",
       "zh": "（我随时都愿意为你献身♥"
     },
@@ -1391,7 +1391,7 @@
       "line_index": 333,
       "inline_index": 2,
       "line_hash": "6ee83e77",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "だから他の女とエッチなことしては……）",
       "zh": "所以你可不许跟别的女孩子做色色的事……）"
     },
@@ -1400,7 +1400,7 @@
       "line_index": 336,
       "inline_index": 0,
       "line_hash": "62ecca20",
-      "speaker": "",
+      "speaker": "メア",
       "ja": "（ダメ、ですから、ね……ふふ、ふふふふふふ……♥）",
       "zh": "（不行啦，都说了不行……呵呵，呵呵呵呵……♥）"
     }

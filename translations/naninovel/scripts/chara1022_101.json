@@ -5,7 +5,7 @@
       "line_index": 16,
       "inline_index": 1,
       "line_hash": "4aec771d",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "どう？　ドライヤー直りそう？",
       "zh": "怎么样？吹风机好像修好了？"
     },
@@ -14,7 +14,7 @@
       "line_index": 19,
       "inline_index": 0,
       "line_hash": "521c2bf6",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ああ、これならちょっと部品交換すれば直るよ",
       "zh": "啊啊，要是换下零件的话就能修好哦。"
     },
@@ -23,7 +23,7 @@
       "line_index": 23,
       "inline_index": 1,
       "line_hash": "a05a5786",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そっか～、よかった……。",
       "zh": "这样啊～，太好了……。"
     },
@@ -32,7 +32,7 @@
       "line_index": 23,
       "inline_index": 3,
       "line_hash": "a05a5786",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "それにしても普段使っているのが急に使えなくなるって焦るよね",
       "zh": "话说回来，平时用惯的东西突然坏了，确实挺让人着急的。"
     },
@@ -41,7 +41,7 @@
       "line_index": 26,
       "inline_index": 0,
       "line_hash": "374f114b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ああ、それすげーわかる。あと普段使っているのが急に無くなるとか",
       "zh": "啊啊，这个我超懂的。还有，平时一直用的东西突然不见了之类的。"
     },
@@ -50,7 +50,7 @@
       "line_index": 30,
       "inline_index": 1,
       "line_hash": "13e5ff0e",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そうそう、それ慌てるよね！",
       "zh": "对对，那种时候真会手忙脚乱的！"
     },
@@ -59,7 +59,7 @@
       "line_index": 30,
       "inline_index": 3,
       "line_hash": "13e5ff0e",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "それで必死にあっちこっち探して、気がつけば部屋が散らかり放題と……",
       "zh": "然后拼命到处找，等回过神来，房间已经乱成一团……"
     },
@@ -68,7 +68,7 @@
       "line_index": 33,
       "inline_index": 0,
       "line_hash": "b955f5e9",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そいやコハルは子供の頃から何か探すときは部屋散らかしていたよな……",
       "zh": "这么说来，小春你从孩子时候起，一找东西就会把房间翻得乱七八糟呢……"
     },
@@ -77,7 +77,7 @@
       "line_index": 33,
       "inline_index": 2,
       "line_hash": "b955f5e9",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "後片付けをどれだけ手伝ったことか……",
       "zh": "都不记得帮你收拾过多少回了……"
     },
@@ -86,7 +86,7 @@
       "line_index": 41,
       "inline_index": 1,
       "line_hash": "e1ef7fa2",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "悪かったわね……！　ガサツで……！！",
       "zh": "吓死人了……！真是毛手毛脚的……！！"
     },
@@ -95,7 +95,7 @@
       "line_index": 44,
       "inline_index": 0,
       "line_hash": "9784a615",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そこまでは言ってないだろっ",
       "zh": "我才没说到那个份上吧！"
     },
@@ -104,7 +104,7 @@
       "line_index": 48,
       "inline_index": 1,
       "line_hash": "add4ae56",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "いーや、言ってた！　目で言ってた！",
       "zh": "哪有，你说了！眼神都说了！"
     },
@@ -113,7 +113,7 @@
       "line_index": 48,
       "inline_index": 3,
       "line_hash": "add4ae56",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あんたの考えなんて顔と目だけですぐわかるんだからっ",
       "zh": "你的心思，光看脸和眼睛就一清二楚！"
     },
@@ -122,7 +122,7 @@
       "line_index": 51,
       "inline_index": 0,
       "line_hash": "404ce16a",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "んな無茶苦茶な……。ああ、すまん、そこのドライバー取ってくれるか？",
       "zh": "说的什么乱七八糟的……。啊啊，抱歉，把那边那把螺丝刀递给我好吗？"
     },
@@ -131,7 +131,7 @@
       "line_index": 55,
       "inline_index": 1,
       "line_hash": "6eb106e9",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "これでいいのかな？",
       "zh": "这个就行吗？"
     },
@@ -140,7 +140,7 @@
       "line_index": 58,
       "inline_index": 0,
       "line_hash": "86d4a182",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "それそれ、ありがとう",
       "zh": "对对，就是这个，谢了。"
     },
@@ -149,7 +149,7 @@
       "line_index": 62,
       "inline_index": 1,
       "line_hash": "fc0b2f9c",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "それにしてもあんたの手……なんていうか変わったよね……",
       "zh": "不过话说回来，你的手……怎么说呢，变了好多啊……"
     },
@@ -158,7 +158,7 @@
       "line_index": 65,
       "inline_index": 0,
       "line_hash": "54e94855",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "手……？　何言い出すんだよ急に……別に何も変わってないだろ。",
       "zh": "手……？突然说什么呢……没什么变化吧。"
     },
@@ -167,7 +167,7 @@
       "line_index": 65,
       "inline_index": 2,
       "line_hash": "54e94855",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "子供の頃から何も変わってないって",
       "zh": "你是说，从孩子时候起就一点儿没变？"
     },
@@ -176,7 +176,7 @@
       "line_index": 69,
       "inline_index": 1,
       "line_hash": "cf0a39",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そう、かな……？　なんていうか……大人の手というか……その……男の手というか……",
       "zh": "是……这样吗？该怎么说呢……像是大人的手……或者说……嗯……男人的手？"
     },
@@ -185,7 +185,7 @@
       "line_index": 72,
       "inline_index": 1,
       "line_hash": "e1501b3e",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "すごくゴツゴツして……大きくて……小さかった頃はそんなんじゃなかったと思う……",
       "zh": "骨节分明……又大……记得你小时候手可不是这样的……"
     },
@@ -194,7 +194,7 @@
       "line_index": 75,
       "inline_index": 0,
       "line_hash": "bcb1d7a2",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "まぁ成長くらいはするだろうなぁ……いつまでも子供ってわけにはいかないしさ",
       "zh": "嘛，人总会成长的嘛……毕竟不可能永远都是个孩子。"
     },
@@ -203,7 +203,7 @@
       "line_index": 79,
       "inline_index": 1,
       "line_hash": "9589677",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そう……だよね。いつまでも子供じゃいられないわよね……",
       "zh": "是啊……说得对。不可能永远当个孩子呢……"
     },
@@ -212,7 +212,7 @@
       "line_index": 79,
       "inline_index": 3,
       "line_hash": "9589677",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "幼馴染のままってわけにもいかないよね……",
       "zh": "也不能一直停留在青梅竹马的关系啊……"
     },
@@ -221,7 +221,7 @@
       "line_index": 82,
       "inline_index": 1,
       "line_hash": "4cbf1de0",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（そう……幼馴染のままじゃダメなのよ……これから先は……）",
       "zh": "（是啊……光做青梅竹马可不行……从今往后……）"
     },
@@ -230,7 +230,7 @@
       "line_index": 85,
       "inline_index": 1,
       "line_hash": "885338b3",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（もう一歩……ううん、もっと先の関係に……でないといつまでも変わらないまま……）",
       "zh": "（再往前一步……不，是更深入的关系……不然有些事永远都不会改变……）"
     },
@@ -239,7 +239,7 @@
       "line_index": 88,
       "inline_index": 1,
       "line_hash": "2153ddc5",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（{G_PlayerName}が他の子となんて……そんなのイヤ……",
       "zh": "（{PlayerName}居然和别人……我不要这样……"
     },
@@ -248,7 +248,7 @@
       "line_index": 88,
       "inline_index": 3,
       "line_hash": "2153ddc5",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "考えたくもない……ずっとずっと傍にいてほしい……）",
       "zh": "（想都不敢想……只希望他能一直一直待在我身边……）"
     },
@@ -257,7 +257,7 @@
       "line_index": 91,
       "inline_index": 1,
       "line_hash": "d77e1d",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（ずっとこいつと一緒に……うう、想像したらなんかドキドキしてきちゃった……）",
       "zh": "（能一直和他在一起……唔，光是想象一下，心脏就莫名跳得好快……）"
     },
@@ -266,7 +266,7 @@
       "line_index": 94,
       "inline_index": 0,
       "line_hash": "8c2d05d6",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "……ん？　なんか顔赤いぞ？　風邪でも引いたのか？",
       "zh": "……嗯？你脸怎么有点红？感冒了？"
     },
@@ -275,7 +275,7 @@
       "line_index": 98,
       "inline_index": 1,
       "line_hash": "c9e926e8",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "──はっ！？　ひ、引いてなんていないわよ、バカっ！",
       "zh": "──哈！？谁、谁感冒了！笨蛋！"
     },
@@ -284,7 +284,7 @@
       "line_index": 101,
       "inline_index": 0,
       "line_hash": "b28ac105",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "バカってお前、何いきなり怒り出すんだよっ",
       "zh": "你这家伙，干嘛突然骂人！"
     },
@@ -293,7 +293,7 @@
       "line_index": 105,
       "inline_index": 1,
       "line_hash": "44fdda75",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "うっさい！　いいから早くドライヤー直してよっ",
       "zh": "吵死了！别废话，快把吹风机修好！"
     },
@@ -302,7 +302,7 @@
       "line_index": 108,
       "inline_index": 0,
       "line_hash": "b72d40d4",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "はいはい、コハル様のために一生懸命直しますよ",
       "zh": "好好好，为了我们小春大人，我会拼命修好的。"
     },
@@ -311,7 +311,7 @@
       "line_index": 112,
       "inline_index": 1,
       "line_hash": "e976f112",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（ううー……あたし、こいつの手に男の魅力を感じて、",
       "zh": "（唔唔……我竟然在这家伙的手上感觉到了男人味，）"
     },
@@ -320,7 +320,7 @@
       "line_index": 112,
       "inline_index": 3,
       "line_hash": "e976f112",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "色々妄想しちゃって……それが顔に出ちゃってた……）",
       "zh": "（然后胡思乱想了一堆……还全写在脸上了……）"
     },
@@ -329,7 +329,7 @@
       "line_index": 115,
       "inline_index": 1,
       "line_hash": "b574fcf4",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（でも本当に大きな手……それなのに、",
       "zh": "（不过这手真的好大……明明都这么大了，）"
     },
@@ -338,7 +338,7 @@
       "line_index": 115,
       "inline_index": 3,
       "line_hash": "b574fcf4",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あんなに器用に動かせて……本当に{G_PlayerName}は大人になったんだな……）",
       "zh": "操作得这么灵巧……{PlayerName}真的长成大人了呢……）"
     },
@@ -347,7 +347,7 @@
       "line_index": 118,
       "inline_index": 1,
       "line_hash": "3460c4dd",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（あたしはどうなんだろう……何か変わったのかな……。",
       "zh": "（我又怎么样了呢……是不是也变了呢……。）"
     },
@@ -356,7 +356,7 @@
       "line_index": 118,
       "inline_index": 3,
       "line_hash": "3460c4dd",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "女としてこいつに魅力的に映る部分はあるのかな……）",
       "zh": "（在他眼里，我有没有一点作为女人的魅力呢……）"
     },
@@ -365,7 +365,7 @@
       "line_index": 121,
       "inline_index": 1,
       "line_hash": "e8d40ed7",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（以前はこいつの周りにいる女の子はあたしだけだったのに、",
       "zh": "（以前明明只有我一个女孩子在他身边，）"
     },
@@ -374,7 +374,7 @@
       "line_index": 121,
       "inline_index": 3,
       "line_hash": "e8d40ed7",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "いつの間にかたくさんいて……）",
       "zh": "（不知什么时候起，就多了好多……）"
     },
@@ -383,7 +383,7 @@
       "line_index": 124,
       "inline_index": 1,
       "line_hash": "c734b586",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（うう……なんだかモヤモヤする……）",
       "zh": "（唔……心里总觉得闷闷的……）"
     },
@@ -392,7 +392,7 @@
       "line_index": 127,
       "inline_index": 0,
       "line_hash": "400aea02",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "……コハル？　コハル？　おい、コハル！",
       "zh": "……小春？小春？喂，小春！"
     },
@@ -401,7 +401,7 @@
       "line_index": 131,
       "inline_index": 1,
       "line_hash": "5dcad751",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "……ふあっ！？　な、ななな何よ！？　急に大きな声出して……！",
       "zh": "……哇啊！？什、什什什么！？突然喊那么大声……！"
     },
@@ -410,7 +410,7 @@
       "line_index": 134,
       "inline_index": 0,
       "line_hash": "e49d8148",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "いや、なんかぼーっとしてたしさ……ドライヤー直ったぞ。もう問題無いはずだ",
       "zh": "不是，看你有点走神……吹风机修好了。应该没问题了。"
     },
@@ -419,7 +419,7 @@
       "line_index": 138,
       "inline_index": 1,
       "line_hash": "770e9616",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そ、そっか、ありがと……",
       "zh": "是、是吗，谢谢……"
     },
@@ -428,7 +428,7 @@
       "line_index": 141,
       "inline_index": 1,
       "line_hash": "b23c484",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（ドライヤーがすごく小さく見える……",
       "zh": "（吹风机看起来好小……）"
     },
@@ -437,7 +437,7 @@
       "line_index": 141,
       "inline_index": 3,
       "line_hash": "b23c484",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "やっぱりこいつの手……すごく大人の、男の手になってる……）",
       "zh": "（果然啊，这家伙的手……已经完全是大人，是男人的手了……）"
     },
@@ -446,7 +446,7 @@
       "line_index": 144,
       "inline_index": 1,
       "line_hash": "ed3a1afd",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（ううう……さっきからドキドキが止まらないよ……）",
       "zh": "（唔唔唔……从刚才开始，心跳就停不下来……）"
     },
@@ -455,7 +455,7 @@
       "line_index": 147,
       "inline_index": 1,
       "line_hash": "460248bf",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（ダメダメ、平常心を保たないと……あたし、すぐに顔に出ちゃんだから……）",
       "zh": "（不行不行，得保持平常心……我这人，情绪一上来就全写在脸上……）"
     },
@@ -464,7 +464,7 @@
       "line_index": 150,
       "inline_index": 0,
       "line_hash": "b314148b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "じゃあ俺そろそろ行くわ。まだ仕事残ってるしさ",
       "zh": "那我差不多该走了。手头还有活儿没干完。"
     },
@@ -473,7 +473,7 @@
       "line_index": 158,
       "inline_index": 1,
       "line_hash": "e5adaafa",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "──えっ！？　あ、まっ、待って！！",
       "zh": "──诶！？啊，等、等一下！！"
     },
@@ -482,7 +482,7 @@
       "line_index": 161,
       "inline_index": 0,
       "line_hash": "d03d5410",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うわっ！　なんだよ、いきなり手なんて握って……まだ何かあるのか？",
       "zh": "哇！干嘛啊，怎么突然抓我的手……还有事吗？"
     },
@@ -491,7 +491,7 @@
       "line_index": 165,
       "inline_index": 1,
       "line_hash": "d6d5c361",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あー、そ、その……！",
       "zh": "啊，那个，这个……！"
     },
@@ -500,7 +500,7 @@
       "line_index": 168,
       "inline_index": 1,
       "line_hash": "55dca9db",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（うわっ！　思わず手掴んじゃった……！）",
       "zh": "（呜哇！不小心就抓住他的手了……！）"
     },
@@ -509,7 +509,7 @@
       "line_index": 171,
       "inline_index": 1,
       "line_hash": "f2d264f6",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（でも本当に大きな手……触れてみてはっきりわかっちゃった……",
       "zh": "（不过，手真的好大……一摸就彻底明白了……）"
     },
@@ -518,7 +518,7 @@
       "line_index": 171,
       "inline_index": 3,
       "line_hash": "f2d264f6",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "昔はあたしとそんなに大きさ変わらなかったのに……）",
       "zh": "（明明从前，和我手的大小也差不了多少的……）"
     },
@@ -527,7 +527,7 @@
       "line_index": 174,
       "inline_index": 1,
       "line_hash": "3e62fd48",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（思っていた以上にゴツゴツして……本当に男の手……。",
       "zh": "（比想象中还要粗糙……这真的是，男人的手……。）"
     },
@@ -536,7 +536,7 @@
       "line_index": 174,
       "inline_index": 3,
       "line_hash": "3e62fd48",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "ダメ、またドキドキしてきちゃった……）",
       "zh": "（糟了，心跳又开始加速了……）"
     },
@@ -545,7 +545,7 @@
       "line_index": 177,
       "inline_index": 0,
       "line_hash": "6737837a",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "コハルさっきからヘンだぞ？　顔真っ赤だしやっぱり風邪引いてたりする？",
       "zh": "小春，你从刚才起就怪怪的？脸这么红，果然是感冒了吧？"
     },
@@ -554,7 +554,7 @@
       "line_index": 181,
       "inline_index": 1,
       "line_hash": "fdfa1f95",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "べ、別に引いてなんていないわよ……！　健康だけが取り柄なんだし……",
       "zh": "才、才没有感冒……！毕竟我除了健康也没别的优点了……"
     },
@@ -563,7 +563,7 @@
       "line_index": 184,
       "inline_index": 0,
       "line_hash": "a0f0f4ea",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "まぁコハルがそう言うんだったら……じゃあ俺行くわ",
       "zh": "既然小春你自己都这么说了……那我走了。"
     },
@@ -572,7 +572,7 @@
       "line_index": 188,
       "inline_index": 1,
       "line_hash": "3a3da1ab",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あっ！　だから待ってって！　行かないで！",
       "zh": "啊！都叫你等一下！别走！"
     },
@@ -581,7 +581,7 @@
       "line_index": 191,
       "inline_index": 0,
       "line_hash": "4c1f75b6",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "な、なんなんだよっ。何か用あるんだったら言ってくれよ",
       "zh": "你、你到底怎么回事啊。有什么事就说啊。"
     },
@@ -590,7 +590,7 @@
       "line_index": 195,
       "inline_index": 1,
       "line_hash": "4aa05137",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あーそ、その……その、さ……その……うう……",
       "zh": "啊，那个……就是那个，呃……那个……唔唔……"
     },
@@ -599,7 +599,7 @@
       "line_index": 198,
       "inline_index": 1,
       "line_hash": "ff7f7b72",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（思わず引き留めちゃったけど、ど、どど、どしよ……！",
       "zh": "（下意识就把他拦下来了，可、可可可、接下来该怎么办……！）"
     },
@@ -608,7 +608,7 @@
       "line_index": 198,
       "inline_index": 3,
       "line_hash": "ff7f7b72",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "せっかく二人っきりなんだから何か……何か……！）",
       "zh": "（难得就我们两个人，至少得做点什么……做点什么……！）"
     },
@@ -617,7 +617,7 @@
       "line_index": 201,
       "inline_index": 0,
       "line_hash": "35fd5ba1",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "イテテテテテテ！　お、おい！　そんな手強く握るなよっ！",
       "zh": "疼疼疼疼疼！喂、喂！别那么使劲握我的手！"
     },
@@ -626,7 +626,7 @@
       "line_index": 205,
       "inline_index": 1,
       "line_hash": "381222b7",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "えっ！？　あ、ごっ、ごめん……！　つい……！",
       "zh": "诶！？啊，对、对不起……！一不小心就……！"
     },
@@ -635,7 +635,7 @@
       "line_index": 208,
       "inline_index": 0,
       "line_hash": "6a618749",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "それにしてもすげー力だな……さすがリリアン……。",
       "zh": "不过，你力气可真够大的……不愧是莉莉安……。"
     },
@@ -644,7 +644,7 @@
       "line_index": 208,
       "inline_index": 2,
       "line_hash": "6a618749",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "昔腕相撲でコハルに勝ったことあったけど、今やったら負けてしまうかも……",
       "zh": "以前掰手腕我还赢过小春，但现在再来，说不定会输……"
     },
@@ -653,7 +653,7 @@
       "line_index": 212,
       "inline_index": 1,
       "line_hash": "e7c59719",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "腕……相撲……？　あ、ああーっ！",
       "zh": "掰……手腕……？啊，啊啊──！"
     },
@@ -662,7 +662,7 @@
       "line_index": 212,
       "inline_index": 3,
       "line_hash": "e7c59719",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そ、そうなの！　あんたと腕相撲したいかな～って思ってさぁ～",
       "zh": "对、对！我就是想跟你掰掰手腕嘛～"
     },
@@ -671,7 +671,7 @@
       "line_index": 215,
       "inline_index": 1,
       "line_hash": "98aef313",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あたし結構鍛えているし？",
       "zh": "我也算是锻炼过的嘛？"
     },
@@ -680,7 +680,7 @@
       "line_index": 215,
       "inline_index": 3,
       "line_hash": "98aef313",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "今ならあんたをコテンパンにできるかなーって！　あははは……",
       "zh": "说不定现在能把你打得落花流水呢～！啊哈哈哈……"
     },
@@ -689,7 +689,7 @@
       "line_index": 218,
       "inline_index": 1,
       "line_hash": "efdc097a",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（ううう……あ、あたし何を言ってるのぉ……！",
       "zh": "（唔唔唔……我、我到底在胡说些什么啊……！）"
     },
@@ -698,7 +698,7 @@
       "line_index": 218,
       "inline_index": 3,
       "line_hash": "efdc097a",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "腕相撲なんてロマンも何もないじゃない……！）",
       "zh": "（掰手腕什么的，半点都不浪漫啊……！）"
     },
@@ -707,7 +707,7 @@
       "line_index": 221,
       "inline_index": 1,
       "line_hash": "61ca82f2",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（なんでもっとこう……",
       "zh": "（怎么就……不能来点那样的……）"
     },
@@ -716,7 +716,7 @@
       "line_index": 221,
       "inline_index": 3,
       "line_hash": "61ca82f2",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "関係が縮まるような素敵なこと言えないのかなぁ……うううう……）",
       "zh": "（就不能说点能让关系变亲近的、浪漫的话吗……唔唔唔……）"
     },
@@ -725,7 +725,7 @@
       "line_index": 224,
       "inline_index": 0,
       "line_hash": "1c95df6e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "でもその細腕に負けるとも思えないんだよなぁ……俺だって結構重い機材運んでいるしさ",
       "zh": "不过，就凭你这细胳膊，我也不觉得会输啊……我自己也常搬重器材的。"
     },
@@ -734,7 +734,7 @@
       "line_index": 228,
       "inline_index": 1,
       "line_hash": "56e910be",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "ふーん……じゃあしてみる？",
       "zh": "哼──那就来试试？"
     },
@@ -743,7 +743,7 @@
       "line_index": 231,
       "inline_index": 0,
       "line_hash": "5f0c51f8",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "よし……それじゃあ勝負だ……！　いつ以来の腕相撲か忘れたけど今度も俺が勝つ……！",
       "zh": "好……那就一决胜负……！虽然记不清上次掰手腕是什么时候了，但这次赢的还会是我……！"
     },
@@ -752,7 +752,7 @@
       "line_index": 235,
       "inline_index": 1,
       "line_hash": "7650a598",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "ふふん♪　言ってなさいよ♪　今度はあたしが勝つんだから",
       "zh": "哼哼♪ 你就趁现在说吧♪ 因为这次赢的会是我。"
     },
@@ -761,7 +761,7 @@
       "line_index": 238,
       "inline_index": 0,
       "line_hash": "d84719da",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "それじゃあいざ尋常に──",
       "zh": "那么，堂堂正正地──"
     },
@@ -770,7 +770,7 @@
       "line_index": 242,
       "inline_index": 1,
       "line_hash": "32c18874",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "──勝負！",
       "zh": "──决胜负！"
     },
@@ -779,7 +779,7 @@
       "line_index": 245,
       "inline_index": 0,
       "line_hash": "58d00812",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ぐっ！？　う、うううう゛！　ぐぎぎぎ……こ、これ……ぐ、ううう……！！",
       "zh": "唔！？呃，唔唔唔！嘎吱嘎吱……这、这个……呃，唔唔……！！"
     },
@@ -788,7 +788,7 @@
       "line_index": 249,
       "inline_index": 1,
       "line_hash": "77fe3d17",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（あれ……こいつこんなに力弱かったっけ……？",
       "zh": "（咦……这家伙力气有这么小吗……？）"
     },
@@ -797,7 +797,7 @@
       "line_index": 249,
       "inline_index": 3,
       "line_hash": "77fe3d17",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "昔はもっと力強かった気がしたんだけど……）",
       "zh": "（我记得以前他劲儿更大的啊……）"
     },
@@ -806,7 +806,7 @@
       "line_index": 252,
       "inline_index": 0,
       "line_hash": "4b1af6d1",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ぐううう……！　な、なんだこの力……！",
       "zh": "唔唔唔……！这、这力气是怎么回事……！"
     },
@@ -815,7 +815,7 @@
       "line_index": 252,
       "inline_index": 2,
       "line_hash": "4b1af6d1",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "まったく動かせないぞ……！　う、ううーーっ！！",
       "zh": "根本纹丝不动……！呃，唔唔──！！"
     },
@@ -824,7 +824,7 @@
       "line_index": 256,
       "inline_index": 1,
       "line_hash": "5cf1c672",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（もう昔とは違うのね……こいつもあたしも……）",
       "zh": "（已经和从前不一样了呢……他，还有我……）"
     },
@@ -833,7 +833,7 @@
       "line_index": 259,
       "inline_index": 0,
       "line_hash": "bd633241",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うおおおおおお！　負けるかぁーーーーっ！！",
       "zh": "唔哦哦哦哦哦！怎么能输────！！"
     },
@@ -842,7 +842,7 @@
       "line_index": 263,
       "inline_index": 1,
       "line_hash": "b425c41a",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "──えいっ！",
       "zh": "──嘿！"
     },
@@ -851,7 +851,7 @@
       "line_index": 269,
       "inline_index": 0,
       "line_hash": "b4664cc8",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "──ぐはぁっ！？",
       "zh": "──呃啊！？"
     },
@@ -860,7 +860,7 @@
       "line_index": 273,
       "inline_index": 1,
       "line_hash": "1a22fb",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "ふふーん、あたしの勝ちーっ",
       "zh": "哼哼～，是我赢啦～"
     },
@@ -869,7 +869,7 @@
       "line_index": 276,
       "inline_index": 0,
       "line_hash": "692f3d75",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "く、ううう……！　な、なんて力なんだよ……その細腕のどこにあんな力が……",
       "zh": "咳、唔唔……！这、这叫什么事啊……你那细胳膊里哪来这么大力气……"
     },
@@ -878,7 +878,7 @@
       "line_index": 280,
       "inline_index": 1,
       "line_hash": "aea39719",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "まぁリリアンだからね。そこんとこはしょうがないと思うけど",
       "zh": "毕竟她是莉莉安嘛。这倒也是没办法的事。"
     },
@@ -887,7 +887,7 @@
       "line_index": 283,
       "inline_index": 0,
       "line_hash": "acadf37d",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そっか……そう、だよなぁ……。",
       "zh": "这样啊……是啊，说得也是……。"
     },
@@ -896,7 +896,7 @@
       "line_index": 283,
       "inline_index": 2,
       "line_hash": "acadf37d",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "それにしてもこんなにあっさり負けてしまうなんて……とほほ……",
       "zh": "不过居然输得这么干脆……唉……"
     },
@@ -905,7 +905,7 @@
       "line_index": 287,
       "inline_index": 1,
       "line_hash": "50c40298",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そ、そんなに落ち込まないでよ……！",
       "zh": "别、别那么消沉嘛……！"
     },
@@ -914,7 +914,7 @@
       "line_index": 287,
       "inline_index": 3,
       "line_hash": "50c40298",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "別にあんたを負かすために腕相撲したわけじゃないんだから",
       "zh": "我又不是为了赢你才掰手腕的。"
     },
@@ -923,7 +923,7 @@
       "line_index": 290,
       "inline_index": 1,
       "line_hash": "35fb3339",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "ほ、ほら、あんたは器用だし、",
       "zh": "你、你看，你手这么巧，"
     },
@@ -932,7 +932,7 @@
       "line_index": 290,
       "inline_index": 3,
       "line_hash": "35fb3339",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "ドライヤーだってすぐに直せるんだし、別に力が弱くたって何も問題はないんだから",
       "zh": "连吹风机都能一下子就修好，力气小点儿也无所谓啊。"
     },
@@ -941,7 +941,7 @@
       "line_index": 293,
       "inline_index": 1,
       "line_hash": "6ea5ed49",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "だから元気出しなよ。こんなことで落ち込むあんたじゃないでしょ",
       "zh": "好了，打起精神来。你可不会为这点事儿就闷闷不乐吧。"
     },
@@ -950,7 +950,7 @@
       "line_index": 296,
       "inline_index": 0,
       "line_hash": "b30d6dc1",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そ、そうだな……俺には俺のできることをすればいいんだから……",
       "zh": "说、说得也是……我只要做好自己能做的事就行了……"
     },
@@ -959,7 +959,7 @@
       "line_index": 300,
       "inline_index": 1,
       "line_hash": "c96ac05e",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "そうそう、お互いに今はやれることをやりましょ",
       "zh": "对对，往后我们就各自做好眼前能做的事吧。"
     },
@@ -968,7 +968,7 @@
       "line_index": 303,
       "inline_index": 0,
       "line_hash": "f674a861",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "じゃあ俺もう行くわ。また何かあったら言ってくれ",
       "zh": "那我先走了。再有什么事的话就叫我。"
     },
@@ -977,7 +977,7 @@
       "line_index": 307,
       "inline_index": 1,
       "line_hash": "c1d69b32",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "うん、ドライヤー直してくれてありがとうね",
       "zh": "嗯，谢谢你帮我修好吹风机。"
     },
@@ -986,7 +986,7 @@
       "line_index": 310,
       "inline_index": 1,
       "line_hash": "af06b430",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "（今焦っても仕方ないか……。",
       "zh": "（现在着急也没用啊……。）"
     },
@@ -995,7 +995,7 @@
       "line_index": 310,
       "inline_index": 3,
       "line_hash": "af06b430",
-      "speaker": "",
+      "speaker": "コハル",
       "ja": "あたしの気持ちが変わらなければチャンスはまた来るんだから……）",
       "zh": "（只要我的心意还在，机会总会再来的……）"
     }

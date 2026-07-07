@@ -23,7 +23,7 @@
       "line_index": 17,
       "inline_index": 0,
       "line_hash": "e6ff15c4",
-      "speaker": "",
+      "speaker": "男",
       "ja": "あのメスガキ～～！！　もう滅茶苦茶だよ！！",
       "zh": "那个死丫头～～！！简直闹翻天了！！"
     },
@@ -32,7 +32,7 @@
       "line_index": 21,
       "inline_index": 0,
       "line_hash": "dd11c20c",
-      "speaker": "",
+      "speaker": "女",
       "ja": "ああもう……花壇メチャクチャ……何なんよアイツ！",
       "zh": "啊啊真是……花坛被她弄得一团糟……那家伙在搞什么啊！"
     },
@@ -41,7 +41,7 @@
       "line_index": 24,
       "inline_index": 0,
       "line_hash": "bddd6a6e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（これはすごい……店の中はメチャクチャ、",
       "zh": "（这也太夸张了……店里被搞得一塌糊涂，"
     },
@@ -50,7 +50,7 @@
       "line_index": 24,
       "inline_index": 2,
       "line_hash": "bddd6a6e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "花壇の花は全部引っこ抜かれてる……）",
       "zh": "花坛的花全给拔光了……）"
     },
@@ -59,7 +59,7 @@
       "line_index": 28,
       "inline_index": 0,
       "line_hash": "830253be",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（しかし本当にブルームがやったのだろうか……。",
       "zh": "（不过，这真是布露姆干的吗……"
     },
@@ -68,7 +68,7 @@
       "line_index": 28,
       "inline_index": 2,
       "line_hash": "830253be",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "もしかしたら別人の悪戯かも……確認しておいた方がいいな）",
       "zh": "说不定是别人在恶作剧……还是先弄清楚比较好）"
     },
@@ -77,7 +77,7 @@
       "line_index": 32,
       "inline_index": 0,
       "line_hash": "5345adcc",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "えっと……あの、少しお話いいですか……？",
       "zh": "那个……不好意思，能耽误你一点时间吗……？"
     },
@@ -86,7 +86,7 @@
       "line_index": 32,
       "inline_index": 2,
       "line_hash": "5345adcc",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "最近の悪戯の件ですけど、悪戯を直接目撃したりしました？",
       "zh": "就是最近那些恶作剧的事，你有亲眼看到过是谁干的吗？"
     },
@@ -95,7 +95,7 @@
       "line_index": 35,
       "inline_index": 0,
       "line_hash": "c60e0ad3",
-      "speaker": "",
+      "speaker": "男",
       "ja": "ああ、したよ！　生意気なツラのピンク髪のちっこい女だよ！",
       "zh": "哦，看到了！一个顶着粉毛的小不点，嚣张得很！"
     },
@@ -104,7 +104,7 @@
       "line_index": 35,
       "inline_index": 2,
       "line_hash": "c60e0ad3",
-      "speaker": "",
+      "speaker": "男",
       "ja": "あいつ注意しても、ざまーみろとかほざいて笑いやがってさ",
       "zh": "我跟她说别捣乱，她还说什么“活该”，笑嘻嘻的，简直气人。"
     },
@@ -113,7 +113,7 @@
       "line_index": 38,
       "inline_index": 0,
       "line_hash": "92199242",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ピンク髪のちっこい女……間違いない、ブルームだな……",
       "zh": "粉头发的小丫头……没错，就是布露姆……"
     },
@@ -122,7 +122,7 @@
       "line_index": 43,
       "inline_index": 0,
       "line_hash": "204577f6",
-      "speaker": "",
+      "speaker": "男",
       "ja": "兄ちゃん、あのメスガキの知り合いか！？",
       "zh": "大哥，你认识那个死丫头啊！？"
     },
@@ -131,7 +131,7 @@
       "line_index": 46,
       "inline_index": 0,
       "line_hash": "c644a8fd",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "まあ、一応は……",
       "zh": "呃，算认识吧……"
     },
@@ -140,7 +140,7 @@
       "line_index": 51,
       "inline_index": 0,
       "line_hash": "4592bf52",
-      "speaker": "",
+      "speaker": "男",
       "ja": "だったらバシっと躾けてくれよっ！",
       "zh": "那就替我狠狠教训她一顿啊！"
     },
@@ -149,7 +149,7 @@
       "line_index": 51,
       "inline_index": 2,
       "line_hash": "4592bf52",
-      "speaker": "",
+      "speaker": "男",
       "ja": "ああいうのは身体でわからせるしかないんだ！　頼むぜ！！",
       "zh": "那种家伙就得让她吃点苦头才行！拜托你了！！"
     },
@@ -158,7 +158,7 @@
       "line_index": 54,
       "inline_index": 0,
       "line_hash": "72eb4d06",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "わ、わかりました。バシっとすることしますので",
       "zh": "我、我明白了。我会好好修理她的。"
     },
@@ -167,7 +167,7 @@
       "line_index": 58,
       "inline_index": 0,
       "line_hash": "646fd443",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（何度注意しても悪戯やめないな……。",
       "zh": "（提醒她多少次都不肯停手啊……"
     },
@@ -176,7 +176,7 @@
       "line_index": 58,
       "inline_index": 2,
       "line_hash": "646fd443",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "俺個人にだけ悪戯するなら大事にはするつもりはないが、",
       "zh": "如果只是对我一个人搞恶作剧，我倒不想闹大，"
     },
@@ -185,7 +185,7 @@
       "line_index": 58,
       "inline_index": 4,
       "line_hash": "646fd443",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "街の人に迷惑を掛けるのだけはさすがに見過ごせない……）",
       "zh": "但给街坊邻居添麻烦，我就不能不管了……）"
     },
@@ -194,7 +194,7 @@
       "line_index": 62,
       "inline_index": 0,
       "line_hash": "ad134312",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（もう心を鬼にして、キツーいお灸をすえてやらないと、",
       "zh": "（必须狠下心，给她点颜色瞧瞧不可，"
     },
@@ -203,7 +203,7 @@
       "line_index": 62,
       "inline_index": 2,
       "line_hash": "ad134312",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "あの性格は直りそうにないな……）",
       "zh": "不然她那性子怕是改不过来了……）"
     },
@@ -212,7 +212,7 @@
       "line_index": 77,
       "inline_index": 0,
       "line_hash": "15922849",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "何しに来たのよっ、またブルームに馬鹿にされにきたの？　あはははっ♥",
       "zh": "你来干什么，又来找布露姆讨没趣吗？啊哈哈哈♥"
     },
@@ -221,7 +221,7 @@
       "line_index": 80,
       "inline_index": 0,
       "line_hash": "11899aa7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "お前、街の人に悪戯して困らせているようだな",
       "zh": "你这家伙，好像把街坊们都整得不得安宁啊。"
     },
@@ -230,7 +230,7 @@
       "line_index": 86,
       "inline_index": 0,
       "line_hash": "3e2c4ada",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "はぁ？　クソ人間のお前に何か関係あるわけ～？",
       "zh": "哈？关你这臭人类什么事啊～？"
     },
@@ -239,7 +239,7 @@
       "line_index": 86,
       "inline_index": 2,
       "line_hash": "3e2c4ada",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ブルームがどこで何しようとお前には関係ないじゃんっ",
       "zh": "布露姆爱在哪干什么，都跟你没关系吧！"
     },
@@ -248,7 +248,7 @@
       "line_index": 89,
       "inline_index": 0,
       "line_hash": "dceca91c",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "やれやれ……少しは反省の色を見せれば、",
       "zh": "唉……你要是能稍微表现出一点悔意，"
     },
@@ -257,7 +257,7 @@
       "line_index": 89,
       "inline_index": 2,
       "line_hash": "dceca91c",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "手心を加えてもいいかなって思っていたけど……",
       "zh": "我还想过手下留点情……（看来你是不知悔改）"
     },
@@ -266,7 +266,7 @@
       "line_index": 95,
       "inline_index": 0,
       "line_hash": "d9a197f9",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "フン、だ！　人間なんて悪魔に悪戯されるのがお似合いなんだっ。",
       "zh": "哼！人类就该被恶魔捉弄才对。"
     },
@@ -275,7 +275,7 @@
       "line_index": 95,
       "inline_index": 2,
       "line_hash": "d9a197f9",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "街の連中はこれからもブルームの玩具なんだからっ。きゃははははっ♥",
       "zh": "街上那些人，以后也还是我布露姆的玩具啦！嘎哈哈哈♥"
     },
@@ -284,7 +284,7 @@
       "line_index": 98,
       "inline_index": 0,
       "line_hash": "ccd8ae63",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "仕方ない……これはすべてブルームが招いた事態だ。",
       "zh": "没办法……这都是布露姆自找的。"
     },
@@ -293,7 +293,7 @@
       "line_index": 98,
       "inline_index": 2,
       "line_hash": "ccd8ae63",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "しっかり反省させてやる……！",
       "zh": "看我不让你好好反省……！"
     },
@@ -302,7 +302,7 @@
       "line_index": 104,
       "inline_index": 0,
       "line_hash": "fc03dd8b",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ちょ……！　お前、何いきなり服脱ぎだして……！！",
       "zh": "喂……！你这家伙，突然脱什么衣服……！！"
     },
@@ -311,7 +311,7 @@
       "line_index": 104,
       "inline_index": 2,
       "line_hash": "fc03dd8b",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "きゃ……！　そ、そんなお粗末なおちんちん見せつけるなぁ～！！",
       "zh": "呀……！别、别把你那可怜的小玩意儿亮出来啊～！！"
     },
@@ -320,7 +320,7 @@
       "line_index": 107,
       "inline_index": 0,
       "line_hash": "63f53247",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "今日の俺は優しくないぞ！覚悟しろブルーム！　",
       "zh": "我今天可不会手下留情！觉悟吧，布露姆！"
     },
@@ -329,7 +329,7 @@
       "line_index": 107,
       "inline_index": 2,
       "line_hash": "63f53247",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "しっかり身体で罪を償って反省しろっ！！",
       "zh": "用你的身体来赎罪，好好反省反省！！"
     },
@@ -338,7 +338,7 @@
       "line_index": 112,
       "inline_index": 0,
       "line_hash": "73e86f54",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "──きゃうっ！？　ちょっと！　離してよぉ！！　",
       "zh": "──呀啊！？ 等等！ 放开我！！"
     },
@@ -347,7 +347,7 @@
       "line_index": 112,
       "inline_index": 2,
       "line_hash": "73e86f54",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "な、何する気なのっ！！",
       "zh": "你、你想干什么！！"
     },
@@ -356,7 +356,7 @@
       "line_index": 126,
       "inline_index": 0,
       "line_hash": "d377b2e3",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "──ひっ！？　お前！　",
       "zh": "──呜！？ 你这家伙！"
     },
@@ -365,7 +365,7 @@
       "line_index": 126,
       "inline_index": 2,
       "line_hash": "d377b2e3",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ま、まさかこのままブルームにえっちなことするつもりなのっ！？",
       "zh": "难、难道你想就这样对布露姆做下流的事！？"
     },
@@ -374,7 +374,7 @@
       "line_index": 129,
       "inline_index": 0,
       "line_hash": "c33acb82",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ああ、そのつもりだっ。いくら言葉で言ってもお前には無意味だからな。",
       "zh": "对，我就是要这么做。光靠说的，你是不会明白的。"
     },
@@ -383,7 +383,7 @@
       "line_index": 129,
       "inline_index": 2,
       "line_hash": "c33acb82",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "もう身体でわからせるしかない……！！",
       "zh": "只好用身体让你记住了……！！"
     },
@@ -401,7 +401,7 @@
       "line_index": 135,
       "inline_index": 0,
       "line_hash": "b047c567",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "クソ人間の分際で、悪魔様にそんなことしていいと思っているわけっ！？",
       "zh": "你一个臭人类，竟敢对恶魔大人做出这种事！？"
     },
@@ -410,7 +410,7 @@
       "line_index": 138,
       "inline_index": 0,
       "line_hash": "884f588",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ああ、思ってるよ",
       "zh": "嗯，我就是这么想的。"
     },
@@ -419,7 +419,7 @@
       "line_index": 142,
       "inline_index": 0,
       "line_hash": "9631bba6",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "クソ人間の分際でナマイキっ！！　どいてよっ！！",
       "zh": "臭人类，还挺横！！让开！！"
     },
@@ -428,7 +428,7 @@
       "line_index": 142,
       "inline_index": 2,
       "line_hash": "9631bba6",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "い、今謝れば許してあげるから……！！",
       "zh": "要、要是你现在道歉，我还能饶了你……！！"
     },
@@ -455,7 +455,7 @@
       "line_index": 148,
       "inline_index": 0,
       "line_hash": "d09af459",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "さあしっかり反省させてやるぞ……！！",
       "zh": "来，给我好好反省吧……！！"
     },
@@ -464,7 +464,7 @@
       "line_index": 152,
       "inline_index": 0,
       "line_hash": "1ed0116",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "──ひっ！？　や、やめ……マジで入れようとするなぁっ！！",
       "zh": "──呜！？ 住、住手……你还真打算放进来啊！！"
     },
@@ -473,7 +473,7 @@
       "line_index": 152,
       "inline_index": 2,
       "line_hash": "1ed0116",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "あっ！　先っぽ……ダメ、ダメ……ブルーム初めて──",
       "zh": "啊！ 头进来了……不行，不行……布露姆还是第一次──"
     },
@@ -482,7 +482,7 @@
       "line_index": 160,
       "inline_index": 0,
       "line_hash": "b4798348",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "はうううっ！？　う、あ……く、う、うううう……！！",
       "zh": "呜哇哇！？ 呜、啊……呃、唔、唔唔唔……！！"
     },
@@ -518,7 +518,7 @@
       "line_index": 169,
       "inline_index": 0,
       "line_hash": "21508e84",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "う、くぅ……く、苦しい……！　やめ、てぇ！　動かないでぇ……！！",
       "zh": "唔、呜……好、好疼……！ 住、手！ 别动了……！！"
     },
@@ -545,7 +545,7 @@
       "line_index": 174,
       "inline_index": 0,
       "line_hash": "f330d472",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "もう悪戯はしないか？　反省したか？",
       "zh": "以后还搞恶作剧吗？反省了吗？"
     },
@@ -554,7 +554,7 @@
       "line_index": 178,
       "inline_index": 0,
       "line_hash": "cf4f5c47",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "だ、誰が……反省なんてぇ……あひぃっ！",
       "zh": "谁、谁会……反省啊……啊嘻！"
     },
@@ -563,7 +563,7 @@
       "line_index": 181,
       "inline_index": 0,
       "line_hash": "470fc027",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "まったくお前ってやつは……",
       "zh": "你这家伙还真是……"
     },
@@ -572,7 +572,7 @@
       "line_index": 181,
       "inline_index": 2,
       "line_hash": "470fc027",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ここまですれば、少しはマシになるかと思ったんだけど……",
       "zh": "都到这份上了，还以为你能老实点……"
     },
@@ -581,7 +581,7 @@
       "line_index": 185,
       "inline_index": 0,
       "line_hash": "938de0ed",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "どうやら反省が足りないようだ……フンっ！",
       "zh": "看来还是不知悔改……哼！"
     },
@@ -590,7 +590,7 @@
       "line_index": 189,
       "inline_index": 0,
       "line_hash": "878facff",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んひぃっ！？♥　奥にぃぃぃ！♥　ダメ、ダメぇ！！♥　",
       "zh": "嗯嘻！？♥ 顶、顶到最里面了！！♥ 不行、不行！！♥"
     },
@@ -599,7 +599,7 @@
       "line_index": 189,
       "inline_index": 2,
       "line_hash": "878facff",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ブルーム初めてなのにぃ……そ、そんなはげしくしないでぇっ！♥",
       "zh": "布露姆是第一次啊……别、别那么用力啊！♥"
     },
@@ -608,7 +608,7 @@
       "line_index": 192,
       "inline_index": 0,
       "line_hash": "251bacd9",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "初めて？　そんなウソをついても無駄だぞっ",
       "zh": "第一次？这种谎话可骗不了我。"
     },
@@ -617,7 +617,7 @@
       "line_index": 196,
       "inline_index": 0,
       "line_hash": "39d29968",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "う、ウソじゃないってぇ！　うあ、んぅぅぅっ！♥　",
       "zh": "唔、不是骗你！呜啊、嗯呜！！♥"
     },
@@ -626,7 +626,7 @@
       "line_index": 196,
       "inline_index": 2,
       "line_hash": "39d29968",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "く、苦しい……息できないぃぃっ！　やめろって！　クソ人間っ！！",
       "zh": "呜、好难受……喘不上气了！！ 叫你别动了！！ 臭人类！！"
     },
@@ -671,7 +671,7 @@
       "line_index": 203,
       "inline_index": 0,
       "line_hash": "1341d043",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "あひぃっ！♥　お、奥突かないでぇ……！♥　あ、あぁぁっ！♥　",
       "zh": "啊嘻！♥ 别、别一直顶里面……！♥ 啊、啊啊啊！♥"
     },
@@ -680,7 +680,7 @@
       "line_index": 203,
       "inline_index": 2,
       "line_hash": "1341d043",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ダメ……これ、うう……お腹の奥、痺れて……あうっ！♥",
       "zh": "不行……这个，呜呜……肚子，里面麻麻的……啊呜！♥"
     },
@@ -689,7 +689,7 @@
       "line_index": 206,
       "inline_index": 0,
       "line_hash": "2e4150b3",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（うう……勢いで始めたのはいいけど、",
       "zh": "（唔……虽然是一时冲动开始的，"
     },
@@ -698,7 +698,7 @@
       "line_index": 206,
       "inline_index": 2,
       "line_hash": "2e4150b3",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "これ……ブルームのあそこ、気持ち良過ぎ……！　",
       "zh": "但……布露姆那里面，太舒服了……！"
     },
@@ -707,7 +707,7 @@
       "line_index": 206,
       "inline_index": 4,
       "line_hash": "2e4150b3",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "長く持ちそうにないぞ……！！）",
       "zh": "我怕是撑不了多久了……！！）"
     },
@@ -743,7 +743,7 @@
       "line_index": 213,
       "inline_index": 0,
       "line_hash": "e4838dd9",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "抜けぇ……抜いてぇ……はううっ！♥　",
       "zh": "拔出去……快拔出去……呜啊啊！♥"
     },
@@ -752,7 +752,7 @@
       "line_index": 213,
       "inline_index": 2,
       "line_hash": "e4838dd9",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "そんな小刻みにぃ！♥　やめ……声出ちゃう……んあああぁっ！♥",
       "zh": "这么细密的顶法！♥ 住手……要叫出来了……嗯啊啊啊！♥"
     },
@@ -761,7 +761,7 @@
       "line_index": 216,
       "inline_index": 0,
       "line_hash": "864c9574",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ならもう二度と悪戯はしないか？　人に迷惑を掛けないか？",
       "zh": "那你以后还搞恶作剧吗？还会给人家添麻烦吗？"
     },
@@ -770,7 +770,7 @@
       "line_index": 220,
       "inline_index": 0,
       "line_hash": "33dec472",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "フン、誰が……やめるものかぁ～！♥　んぅぅぅっ！！♥　",
       "zh": "哼，谁要……收手啊～！♥ 嗯呜呜！！♥"
     },
@@ -779,7 +779,7 @@
       "line_index": 220,
       "inline_index": 2,
       "line_hash": "33dec472",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "悪魔は人に迷惑を掛ける存在なんだよぉっ！♥　あぁぁんっ！♥",
       "zh": "恶魔本来就该给人添麻烦啊！♥ 啊啊嗯！♥"
     },
@@ -788,7 +788,7 @@
       "line_index": 223,
       "inline_index": 0,
       "line_hash": "485ec683",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "本当にお前ってやつは……",
       "zh": "你这家伙真是……"
     },
@@ -797,7 +797,7 @@
       "line_index": 223,
       "inline_index": 2,
       "line_hash": "485ec683",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ここまでされてどうしてそんなこと言えるんだ。",
       "zh": "都这样了，怎么还说得出那种话。"
     },
@@ -806,7 +806,7 @@
       "line_index": 223,
       "inline_index": 4,
       "line_hash": "485ec683",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "こうなったら最後までしてやる……！",
       "zh": "事到如今，那就干到底吧……！"
     },
@@ -815,7 +815,7 @@
       "line_index": 227,
       "inline_index": 0,
       "line_hash": "7acca3d2",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んひぃっ！♥　奥ばっかりやめてぇ……！♥　",
       "zh": "嗯嘻！♥ 别一直顶里面……！♥"
     },
@@ -824,7 +824,7 @@
       "line_index": 227,
       "inline_index": 2,
       "line_hash": "7acca3d2",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "こ、これ以上されたら……ああ、ダメ……やめ……！♥",
       "zh": "再、再这样下去……啊啊，不行……住手……！♥"
     },
@@ -833,7 +833,7 @@
       "line_index": 230,
       "inline_index": 0,
       "line_hash": "587ef7e5",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "クソ人間のクソチンポにイかされちゃうっ！♥　",
       "zh": "要被臭人类的臭玩意儿弄到去了！♥"
     },
@@ -842,7 +842,7 @@
       "line_index": 230,
       "inline_index": 2,
       "line_hash": "587ef7e5",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "悪魔なのに人間にイかされちゃうぅ！♥　んぅ！　ふああぁぁっ！♥",
       "zh": "我可是恶魔，居然被人类弄到……！♥ 嗯！呼啊啊啊！♥"
     },
@@ -869,7 +869,7 @@
       "line_index": 236,
       "inline_index": 0,
       "line_hash": "b5b53231",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ダメっ♥　ダメダメダメっ！♥　",
       "zh": "不行♥ 不行不行不行！♥"
     },
@@ -878,7 +878,7 @@
       "line_index": 236,
       "inline_index": 2,
       "line_hash": "b5b53231",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ああ、もう……ふ、あ、あっ！♥　んああぁっ！！♥♥",
       "zh": "啊啊，不行了……呼、啊、啊！♥ 嗯啊啊啊！！♥♥"
     },
@@ -887,7 +887,7 @@
       "line_index": 247,
       "inline_index": 0,
       "line_hash": "80a2c2e5",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んんんんぅぅぅっ！♥　あう、うう……ふううううっ！♥♥",
       "zh": "唔唔唔呜呜！♥ 啊呜、呜呜……呼呜呜呜！♥♥"
     },
@@ -905,7 +905,7 @@
       "line_index": 252,
       "inline_index": 0,
       "line_hash": "679afcfe",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うう、これはお仕置きの中出しだ……！！　反省しろっ……！！",
       "zh": "唔……这是给你的惩罚，射在里面了……！！给我反省……！！"
     },
@@ -914,7 +914,7 @@
       "line_index": 256,
       "inline_index": 0,
       "line_hash": "dcff4cf3",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んお゛っ！♥　お……おお……膣内で射精してぇ……！♥　",
       "zh": "嗯哦！♥ 哦……哦哦……射在里面了……！♥"
     },
@@ -923,7 +923,7 @@
       "line_index": 256,
       "inline_index": 2,
       "line_hash": "dcff4cf3",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "クソ人間のクセにぃ……生意気ぃ……ううう……！！♥",
       "zh": "臭人类，你居然……呜……！！♥"
     },
@@ -959,7 +959,7 @@
       "line_index": 263,
       "inline_index": 0,
       "line_hash": "9d30cd26",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "こんなか弱い悪魔に……お前絶対に許さないからな……！",
       "zh": "对一个这么柔弱的恶魔……我绝不会饶了你的……！"
     },
@@ -968,7 +968,7 @@
       "line_index": 263,
       "inline_index": 2,
       "line_hash": "9d30cd26",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "絶対に復讐してやる……！　街の連中にもお前にも悪戯しまくってやるぅ！",
       "zh": "我一定会报复的……！对街上那些人，还有你，我要恶作剧到底！"
     },
@@ -977,7 +977,7 @@
       "line_index": 266,
       "inline_index": 0,
       "line_hash": "ba2555e9",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "お前、ここまでされてまだそんなことが言えるのか……。",
       "zh": "你这家伙，都这样了还这么嘴硬……"
     },
@@ -986,7 +986,7 @@
       "line_index": 266,
       "inline_index": 2,
       "line_hash": "ba2555e9",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "まだ反省が足りないようだな……こうなりゃとことんやってやるっ！",
       "zh": "果然是不见棺材不掉泪……那我就干到你服为止！"
     },
@@ -995,7 +995,7 @@
       "line_index": 275,
       "inline_index": 0,
       "line_hash": "1749a6e",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んおおっ！♥　んくっ！♥　や、やめ……あう゛っ！♥",
       "zh": "嗯哦哦！♥ 嗯咕！♥ 住、住手……啊呜！♥"
     },
@@ -1040,7 +1040,7 @@
       "line_index": 282,
       "inline_index": 0,
       "line_hash": "28903bbc",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "やめ……はげしいのダメぇ！♥　も、もっと優しくぅ……あうっ！！♥",
       "zh": "住手……这么激烈不行！♥ 轻、轻一点啊……啊呜！！♥"
     },
@@ -1049,7 +1049,7 @@
       "line_index": 285,
       "inline_index": 0,
       "line_hash": "3e4f47a1",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "それなら反省するかっ？　もう二度と人間に悪さしないか！？",
       "zh": "那你愿意反省吗？不会再对人搞恶作剧了吗！？"
     },
@@ -1058,7 +1058,7 @@
       "line_index": 289,
       "inline_index": 0,
       "line_hash": "c446d9a7",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "は、反省なんかしないぃぃぃ……！　",
       "zh": "哈、我才不要反省……！"
     },
@@ -1067,7 +1067,7 @@
       "line_index": 289,
       "inline_index": 2,
       "line_hash": "c446d9a7",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "はおおおっ！！♥　奥ばっかりぃ……息詰まるぅぅっ……あぐっ！♥",
       "zh": "哈哦哦哦！！♥ 一直顶到里面……透不过气了……啊咕！♥"
     },
@@ -1094,7 +1094,7 @@
       "line_index": 295,
       "inline_index": 0,
       "line_hash": "f2f0ee1f",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（ここまで頑固だと思わなかった……。でも絶対に反省させないと……",
       "zh": "（没想到她这么犟……。但一定要让她认错……"
     },
@@ -1103,7 +1103,7 @@
       "line_index": 295,
       "inline_index": 2,
       "line_hash": "f2f0ee1f",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そうしないといつか街を追い出される……）",
       "zh": "不然的话，总有一天会被赶出这条街的……）"
     },
@@ -1112,7 +1112,7 @@
       "line_index": 299,
       "inline_index": 0,
       "line_hash": "571de5a7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（根は良いヤツなんだ……",
       "zh": "（她本性不坏……"
     },
@@ -1121,7 +1121,7 @@
       "line_index": 299,
       "inline_index": 2,
       "line_hash": "571de5a7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "みんなに好かれるヤツなんだ。気遣いできる可愛い子なんだ……",
       "zh": "是那种大家都会喜欢的家伙。会关心人，是个可爱的孩子……"
     },
@@ -1130,7 +1130,7 @@
       "line_index": 299,
       "inline_index": 4,
       "line_hash": "571de5a7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "だから嫌われるような存在になってほしくないんだっ）",
       "zh": "所以我不想让她变成被人讨厌的家伙）"
     },
@@ -1139,7 +1139,7 @@
       "line_index": 303,
       "inline_index": 0,
       "line_hash": "616ad554",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んああぁっ！♥　やめ、ろぉ！♥　おまんこおかしくなるぅ！♥",
       "zh": "嗯啊啊！♥ 住、手！♥ 下面要坏掉了！♥"
     },
@@ -1148,7 +1148,7 @@
       "line_index": 303,
       "inline_index": 2,
       "line_hash": "616ad554",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "　うう、ふあ、ああ……ダメ……また……すごいの……迫ってぇええっ！♥",
       "zh": "呜呜、呼啊、啊啊……不行……又要……厉害的要来了！♥"
     },
@@ -1157,7 +1157,7 @@
       "line_index": 306,
       "inline_index": 0,
       "line_hash": "3106d505",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "これ以上中に出されたくないだろう？",
       "zh": "不想再被射在里面了吧？"
     },
@@ -1166,7 +1166,7 @@
       "line_index": 306,
       "inline_index": 2,
       "line_hash": "3106d505",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "だからもう二度と悪戯しないと誓うんだっ",
       "zh": "那就发誓再也不搞恶作剧了。"
     },
@@ -1175,7 +1175,7 @@
       "line_index": 310,
       "inline_index": 0,
       "line_hash": "e1e532cf",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "誰がそんなの……誓うかぁぁっ！♥",
       "zh": "谁……谁会发那种誓啊！♥"
     },
@@ -1184,7 +1184,7 @@
       "line_index": 313,
       "inline_index": 0,
       "line_hash": "5cc5726e",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "それならもう一度中出ししてやるっ！！",
       "zh": "那我就再射你一次！！"
     },
@@ -1193,7 +1193,7 @@
       "line_index": 317,
       "inline_index": 0,
       "line_hash": "5eb1d7be",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "やめ……やめろぉぉおっ！♥　",
       "zh": "住手……快住手啊！！♥"
     },
@@ -1202,7 +1202,7 @@
       "line_index": 317,
       "inline_index": 2,
       "line_hash": "5eb1d7be",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ふ、ふあっ！♥　あっ♥　あああーーーっ！！♥♥",
       "zh": "呼、呼啊！♥ 啊♥ 啊啊啊——！！♥♥"
     },
@@ -1211,7 +1211,7 @@
       "line_index": 328,
       "inline_index": 0,
       "line_hash": "5c43521c",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んひぃぃぃっ！♥　また中にぃ……う、ううううっ！！♥",
       "zh": "嗯嘻……！♥ 又射在里面了……呜、呜呜……！！♥"
     },
@@ -1220,7 +1220,7 @@
       "line_index": 331,
       "inline_index": 0,
       "line_hash": "f763870d",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うう……！　どうだ、これで懲りただろうっ！？",
       "zh": "呜……！ 怎么样，这下该怕了吧！？"
     },
@@ -1229,7 +1229,7 @@
       "line_index": 335,
       "inline_index": 0,
       "line_hash": "b0c39778",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "んひぃ……ひぃっ！♥　だ、誰が……懲りたりするかぁ……んおおっ！♥",
       "zh": "嗯嘻……嘻！♥ 谁、谁怕了……嗯哦哦！♥"
     },
@@ -1256,7 +1256,7 @@
       "line_index": 341,
       "inline_index": 0,
       "line_hash": "ce5bd239",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "何でわかってくれないんだ……みんなに嫌われてもいいのか？",
       "zh": "你怎么就不明白呢……被大家讨厌也无所谓吗？"
     },
@@ -1265,7 +1265,7 @@
       "line_index": 345,
       "inline_index": 0,
       "line_hash": "191293f",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "フン……んぅ！♥　ブルームは悪魔なんだ……",
       "zh": "哼……嗯！♥ 布露姆是恶魔……"
     },
@@ -1274,7 +1274,7 @@
       "line_index": 345,
       "inline_index": 2,
       "line_hash": "191293f",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "人間に好かれる必要なんてないんだぁ……♥",
       "zh": "才不需要人类的喜欢……♥"
     },
@@ -1283,7 +1283,7 @@
       "line_index": 348,
       "inline_index": 0,
       "line_hash": "192935e0",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "悪戯は絶対にやめない……一生続けてやるぅぅぅ……♥",
       "zh": "恶作剧我绝对不会停……我要做一辈子……♥"
     },
@@ -1292,7 +1292,7 @@
       "line_index": 351,
       "inline_index": 0,
       "line_hash": "a1ad5de0",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "はぁ～……これは思いのほか時間がかかりそうだ……。",
       "zh": "唉～……看来比我想的还要花时间……"
     },
@@ -1301,7 +1301,7 @@
       "line_index": 351,
       "inline_index": 2,
       "line_hash": "a1ad5de0",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "でも俺が絶対にお前を変えてやる……",
       "zh": "但我一定会让你改变……"
     },
@@ -1310,7 +1310,7 @@
       "line_index": 351,
       "inline_index": 4,
       "line_hash": "a1ad5de0",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "みんなから好かれる悪魔にしてやるからっ",
       "zh": "我会把你变成大家都喜欢的恶魔的。"
     },
@@ -1319,7 +1319,7 @@
       "line_index": 355,
       "inline_index": 0,
       "line_hash": "4ab974c6",
-      "speaker": "",
+      "speaker": "ブルーム",
       "ja": "ひいいっ！？♥　もうやめ……ああ、ふあああぁぁぁっ♥",
       "zh": "咿呀！？♥ 已经不行了……啊啊、呼啊啊啊啊♥"
     },

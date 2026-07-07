@@ -5,7 +5,7 @@
       "line_index": 17,
       "inline_index": 1,
       "line_hash": "a8a680f3",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ふふふ～ん……♪　ふ～ん……♪",
       "zh": "哼哼～嗯……♪ 哼～嗯……♪"
     },
@@ -14,7 +14,7 @@
       "line_index": 21,
       "inline_index": 0,
       "line_hash": "43c66185",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " ルミナ、掃除しているのか？",
       "zh": "露米娜，你在打扫吗？"
     },
@@ -23,7 +23,7 @@
       "line_index": 25,
       "inline_index": 1,
       "line_hash": "967455bc",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "あ……{G_PlayerName}くん。うん……少し汚れが気になって……",
       "zh": "啊……{G_PlayerName}……嗯，稍微有点在意这些脏东西……"
     },
@@ -32,7 +32,7 @@
       "line_index": 28,
       "inline_index": 0,
       "line_hash": "20b6d1df",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "何度も通ってるのに気づかなくてごめん。",
       "zh": "抱歉，我来了这么多次居然没注意到。"
     },
@@ -41,7 +41,7 @@
       "line_index": 28,
       "inline_index": 2,
       "line_hash": "20b6d1df",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "どうも掃除とか苦手でさ……つい見落としてしまうんだよな",
       "zh": "我对打扫什么的实在是不擅长……总会不小心忽略了。"
     },
@@ -50,7 +50,7 @@
       "line_index": 32,
       "inline_index": 1,
       "line_hash": "50421f29",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ふふっ、いいよ……このくらい。それにお掃除は好きだから……",
       "zh": "呵呵，没事的……这点活。而且我还挺喜欢打扫的……"
     },
@@ -59,7 +59,7 @@
       "line_index": 35,
       "inline_index": 1,
       "line_hash": "f15d078b",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "このくらい私に任せて……♪",
       "zh": "这点小事就交给我吧……♪"
     },
@@ -68,7 +68,7 @@
       "line_index": 38,
       "inline_index": 0,
       "line_hash": "28ae9d73",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " ありがとう、ルミナ",
       "zh": "谢谢你，露米娜。"
     },
@@ -77,7 +77,7 @@
       "line_index": 42,
       "inline_index": 1,
       "line_hash": "49338677",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "それで……今日はこの後、予定とかある……？",
       "zh": "那……今天接下来有什么安排吗……？"
     },
@@ -86,7 +86,7 @@
       "line_index": 45,
       "inline_index": 0,
       "line_hash": "1c995666",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "今のところは特に無いな～……",
       "zh": "目前倒是没什么特别的啊～……"
     },
@@ -95,7 +95,7 @@
       "line_index": 45,
       "inline_index": 2,
       "line_hash": "1c995666",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "今日の仕事は終わったし、緊急事態でもなければ特に予定は無し",
       "zh": "今天的工作已经结束了，只要没有什么紧急状况，就没什么特别安排。"
     },
@@ -104,7 +104,7 @@
       "line_index": 49,
       "inline_index": 0,
       "line_hash": "5a81668",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " まぁ昼寝でもしようかな～って思っていたところかな",
       "zh": "我正想，是不是该睡个午觉呢～"
     },
@@ -113,7 +113,7 @@
       "line_index": 53,
       "inline_index": 1,
       "line_hash": "cb459df6",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "それなら、私の部屋に来ない……？　暇なら、お茶……一緒にどうかな……？",
       "zh": "那，要不要来我房间……？ 有空的话，一起喝杯茶……怎么样……？"
     },
@@ -122,7 +122,7 @@
       "line_index": 56,
       "inline_index": 0,
       "line_hash": "98eba152",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " ──えっ！？　ルミナの部屋っ！？",
       "zh": "——诶！？ 露米娜的房间！？"
     },
@@ -131,7 +131,7 @@
       "line_index": 60,
       "inline_index": 1,
       "line_hash": "322ca39",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "う、うん……そうだけど、そ、そんなに驚く、ことかな……？",
       "zh": "嗯、嗯……是啊，不过，有、有那么惊讶吗……？"
     },
@@ -140,7 +140,7 @@
       "line_index": 63,
       "inline_index": 0,
       "line_hash": "2a20ecc7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " あー……いや、その……ちょっと想定していなかったかな～って……",
       "zh": "啊——……不，那个……有点出乎意料呢……"
     },
@@ -149,7 +149,7 @@
       "line_index": 67,
       "inline_index": 0,
       "line_hash": "b0d63546",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "（まさか部屋に誘われるとは……べ、別にヘンな意味で誘ったんじゃないよな？",
       "zh": "（没想到会被邀请去房间……该、该不会是什么奇怪的意思吧？"
     },
@@ -158,7 +158,7 @@
       "line_index": 67,
       "inline_index": 2,
       "line_hash": "b0d63546",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ルミナに限ってそんなことはないと思うし……）",
       "zh": "露米娜的话，我想不会的……）"
     },
@@ -167,7 +167,7 @@
       "line_index": 71,
       "inline_index": 1,
       "line_hash": "9155e29d",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "それで……どう？　お昼寝がしたいなら、無理にはお誘いしないけど……",
       "zh": "那么……怎么样？ 你要是想睡午觉的话，我就不勉强你了……"
     },
@@ -176,7 +176,7 @@
       "line_index": 74,
       "inline_index": 0,
       "line_hash": "5ae3b994",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " あ、ああ……それじゃあせっかくだし……ごちそうになろうかな",
       "zh": "啊、嗯……那既然你这么说……我就恭敬不如从命了。"
     },
@@ -185,7 +185,7 @@
       "line_index": 78,
       "inline_index": 1,
       "line_hash": "254d53e1",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ふふっ、よかった、じゃあ行こう……♪",
       "zh": "呵呵，太好了，那我们走吧……♪"
     },
@@ -194,7 +194,7 @@
       "line_index": 96,
       "inline_index": 1,
       "line_hash": "da9e7c7c",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "さあどうぞ、入って……♪",
       "zh": "来吧，请进……♪"
     },
@@ -203,7 +203,7 @@
       "line_index": 99,
       "inline_index": 0,
       "line_hash": "3bd4013",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " それじゃあおじゃましま～す……おお……",
       "zh": "那我就打扰了……哇啊……"
     },
@@ -212,7 +212,7 @@
       "line_index": 103,
       "inline_index": 1,
       "line_hash": "f71ddc9a",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ん？　どうかしたかな……？",
       "zh": "嗯？ 怎么了……？"
     },
@@ -221,7 +221,7 @@
       "line_index": 106,
       "inline_index": 0,
       "line_hash": "3c22f3d8",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "あ、い、いや、何でもないよ……俺の部屋と全然違って……可愛い部屋だな",
       "zh": "啊，没、没事……你的房间跟我的完全不一样……好可爱啊。"
     },
@@ -230,7 +230,7 @@
       "line_index": 110,
       "inline_index": 1,
       "line_hash": "2a0be886",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ありがとう、それじゃあそこに座って、今お茶を淹れるから",
       "zh": "谢谢，那你先坐那边，我这就去泡茶。"
     },
@@ -239,7 +239,7 @@
       "line_index": 113,
       "inline_index": 0,
       "line_hash": "a7ee1701",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "あ、ああ……お構いなく……",
       "zh": "啊、嗯……你不用忙……"
     },
@@ -266,7 +266,7 @@
       "line_index": 135,
       "inline_index": 1,
       "line_hash": "a5daf7da",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "さあどうぞ……ん？　目なんて瞑ってどうかした……？",
       "zh": "来，请用……嗯？ 你怎么闭着眼睛……？"
     },
@@ -275,7 +275,7 @@
       "line_index": 138,
       "inline_index": 0,
       "line_hash": "ef02ecd4",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "あー……うん、あまり部屋の中をジロジロ見るのは失礼かなって思って……",
       "zh": "啊——……嗯，我觉得在房间里东张西望不太礼貌……"
     },
@@ -284,7 +284,7 @@
       "line_index": 142,
       "inline_index": 1,
       "line_hash": "108b707",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "くすくす♪　そんなこと気にしなくてもいいのに……♪",
       "zh": "嘻嘻♪ 那种事不用在意啦……♪"
     },
@@ -293,7 +293,7 @@
       "line_index": 145,
       "inline_index": 1,
       "line_hash": "e7b2bb0c",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "さぁ冷めないうちにどうぞ",
       "zh": "来，趁热喝吧。"
     },
@@ -302,7 +302,7 @@
       "line_index": 148,
       "inline_index": 0,
       "line_hash": "c4aebb70",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ああ、それじゃあいただきます……ズズズ……おっ？",
       "zh": "啊，那我就不客气了……（吸）……哦！？"
     },
@@ -311,7 +311,7 @@
       "line_index": 152,
       "inline_index": 1,
       "line_hash": "9223bf9e",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ん……？　お口に合わなかった……？",
       "zh": "嗯……？ 不合你口味吗……？"
     },
@@ -320,7 +320,7 @@
       "line_index": 155,
       "inline_index": 0,
       "line_hash": "fc3f800b",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "いや、その逆。お茶美味いなって思ってさ。ルミナってお茶淹れるの上手いんだな",
       "zh": "不，正好相反。我是觉得这茶真好喝。露米娜你很会泡茶啊。"
     },
@@ -329,7 +329,7 @@
       "line_index": 159,
       "inline_index": 1,
       "line_hash": "4f62b601",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ふふっ、ありがとう。でも普段飲んでいるお茶と変わらないと思うよ……？",
       "zh": "呵呵，谢谢。不过我觉得跟平时喝的茶没什么区别哦……？"
     },
@@ -338,7 +338,7 @@
       "line_index": 162,
       "inline_index": 0,
       "line_hash": "d35551aa",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そうかもしれなけどね……でもやっぱり俺が淹れるよりは絶対に美味いと思う",
       "zh": "也许是这样……不过肯定比我泡的好喝多了。"
     },
@@ -347,7 +347,7 @@
       "line_index": 166,
       "inline_index": 0,
       "line_hash": "6b7cd420",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ルミナの物腰の柔らかい雰囲気がお茶を美味くしているのかも",
       "zh": "也许是露米娜这柔和的气质让茶变得更香了吧。"
     },
@@ -356,7 +356,7 @@
       "line_index": 170,
       "inline_index": 1,
       "line_hash": "befa7d2b",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "ふふっ♪　確かに今日のお茶は一味ちがうかもしれないね……",
       "zh": "呵呵♪ 的确，今天的茶可能味道有些不一样呢……"
     },
@@ -365,7 +365,7 @@
       "line_index": 173,
       "inline_index": 1,
       "line_hash": "160d804c",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "特別な人と二人っきりでお茶を楽しむ……",
       "zh": "和特别的人单独在一起喝茶……"
     },
@@ -374,7 +374,7 @@
       "line_index": 173,
       "inline_index": 3,
       "line_hash": "160d804c",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "それだけで普段の何倍も美味しく感じられるかも……♥",
       "zh": "光是这样，感觉就比平时美味了好几倍……♥"
     },
@@ -383,7 +383,7 @@
       "line_index": 176,
       "inline_index": 1,
       "line_hash": "8c22224b",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "でもやっぱり味はいつも飲んでいるお茶の味と変わらない……",
       "zh": "不过味道果然还是跟平时喝的茶没什么两样……"
     },
@@ -392,7 +392,7 @@
       "line_index": 179,
       "inline_index": 1,
       "line_hash": "de8b1052",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "この部屋もそうだけど、見た目が違うだけで{G_PlayerName}くんの部屋と違いはないと思うし……",
       "zh": "这房间也一样，只是看起来不同，其实和{G_PlayerName}你的房间没什么区别嘛……"
     },
@@ -401,7 +401,7 @@
       "line_index": 182,
       "inline_index": 1,
       "line_hash": "33dfd0f9",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "身分が違っても、リリアンだったとしても、",
       "zh": "就算身份不同，就算我是莉莉安，"
     },
@@ -410,7 +410,7 @@
       "line_index": 182,
       "inline_index": 3,
       "line_hash": "33dfd0f9",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "あなたも私も、同じ人間であることに変わりはないから……",
       "zh": "你和我都是同样的人，这点不会变……"
     },
@@ -419,7 +419,7 @@
       "line_index": 185,
       "inline_index": 0,
       "line_hash": "d46d26f8",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "そう、かもな……ルミナの部屋に来て、ヘンに意識してしまっていたのかも……",
       "zh": "说的也是……可能是我来到露米娜的房间，就莫名其妙地在意起来了……"
     },
@@ -428,7 +428,7 @@
       "line_index": 189,
       "inline_index": 1,
       "line_hash": "3705f504",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "それはちょっと、嬉しい……かも？　でも緊張ばかりされても困っちゃう……",
       "zh": "这让我有点，高兴……吧？ 但是你老是这么紧张，我也很为难……"
     },
@@ -437,7 +437,7 @@
       "line_index": 192,
       "inline_index": 1,
       "line_hash": "366cfb45",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "だから今後は時間がある時は、できれば一緒にお茶したいかな……♪",
       "zh": "所以，以后有时间的话，希望我们能一起喝茶……♪"
     },
@@ -446,7 +446,7 @@
       "line_index": 195,
       "inline_index": 0,
       "line_hash": "c7807c4c",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ああ、そうだな……ルミナと二人でお茶を飲むは賛成だよ。",
       "zh": "嗯，是啊……我赞成和露米娜两个人一起喝茶。"
     },
@@ -455,7 +455,7 @@
       "line_index": 195,
       "inline_index": 2,
       "line_hash": "c7807c4c",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "なるべく時間を作ってこの雰囲気を大事にしたいな",
       "zh": "要尽量抽出时间，珍视这份氛围啊。"
     },
@@ -464,7 +464,7 @@
       "line_index": 199,
       "inline_index": 1,
       "line_hash": "df5741e8",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "うん。これからも、仲良くしてくれると嬉しい……♪",
       "zh": "嗯。以后也能一直跟我好好相处，我会很开心的……♪"
     },
@@ -473,7 +473,7 @@
       "line_index": 202,
       "inline_index": 1,
       "line_hash": "6fb96899",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "何も意識しなくなるくらい、通ってほしいな……",
       "zh": "希望你多来几次，直到你完全不会在意为止……"
     },
@@ -482,7 +482,7 @@
       "line_index": 205,
       "inline_index": 0,
       "line_hash": "273533c7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "うーん……そんな日が来るんだろうか？",
       "zh": "唔……会有那么一天吗？"
     },
@@ -491,7 +491,7 @@
       "line_index": 205,
       "inline_index": 2,
       "line_hash": "273533c7",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "やっぱりルミナの部屋って俺には眩しいというか……",
       "zh": "果然露米娜的房间对我来说还是太耀眼了……"
     },
@@ -500,7 +500,7 @@
       "line_index": 209,
       "inline_index": 0,
       "line_hash": "19073dd1",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": " 俺も少しはインテリアとか考えてみようかな……",
       "zh": "我也稍微考虑一下家居布置什么的吧……"
     },
@@ -509,7 +509,7 @@
       "line_index": 213,
       "inline_index": 1,
       "line_hash": "7aa54074",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "いつでも言ってね……一緒にインテリアを考えるお手伝い、するから……",
       "zh": "随时都可以跟我说……我会帮你一起考虑布置的……"
     },
@@ -518,7 +518,7 @@
       "line_index": 216,
       "inline_index": 0,
       "line_hash": "aeab9dc2",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "でもインテリアとかって考えたことあまりなんだよなぁ～……",
       "zh": "不过家居布置什么的，我几乎没考虑过呢……"
     },
@@ -527,7 +527,7 @@
       "line_index": 216,
       "inline_index": 2,
       "line_hash": "aeab9dc2",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "最初にまず何をすればいいのか……",
       "zh": "首先该做些什么好呢……"
     },
@@ -536,7 +536,7 @@
       "line_index": 220,
       "inline_index": 1,
       "line_hash": "c4f98b55",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "そう、だね……いきなり大きな変化は、",
       "zh": "是啊……突然来个翻天覆地的变化，"
     },
@@ -545,7 +545,7 @@
       "line_index": 220,
       "inline_index": 3,
       "line_hash": "c4f98b55",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "難しいと思うから……まずは小さいところから……",
       "zh": "我觉得太难了……不如先从小的方面着手……"
     },
@@ -554,7 +554,7 @@
       "line_index": 222,
       "inline_index": 0,
       "line_hash": "1d3b7f79",
-      "speaker": "",
+      "speaker": "雫",
       "ja": "ルミナ様～！　ルミナ様～！　どこにいらっしゃるのですかーっ！？",
       "zh": "露米娜大人～！ 露米娜大人～！ 您在哪里啊——！？"
     },
@@ -563,7 +563,7 @@
       "line_index": 225,
       "inline_index": 0,
       "line_hash": "ccf04333",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "ゲッ！？　この声……雫！？　やばい！　ルミナの部屋にいるなんてバレたら……！",
       "zh": "呃！？ 这个声音……是雫！？ 糟了！ 要是被她发现我在露米娜的房间……！"
     },
@@ -572,7 +572,7 @@
       "line_index": 234,
       "inline_index": 0,
       "line_hash": "eead438c",
-      "speaker": "",
+      "speaker": "{G_PlayerName}",
       "ja": "悪いルミナ！　話の途中ですまない！　雫に何か言われる前に俺行くわっ！　お茶ご馳走様！　また今度一緒にお茶しようなっ！",
       "zh": "抱歉露米娜！ 话说到一半真对不起！ 趁雫还没说什么我先闪了！ 谢谢你的茶！ 下次再一起喝茶吧！"
     },
@@ -581,7 +581,7 @@
       "line_index": 238,
       "inline_index": 1,
       "line_hash": "75e951bc",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "…………",
       "zh": "…………"
     },
@@ -590,7 +590,7 @@
       "line_index": 241,
       "inline_index": 1,
       "line_hash": "a85baacf",
-      "speaker": "",
+      "speaker": "ルミナ",
       "ja": "少しいい雰囲気、だったかな……？また今度……楽しみに、してるね……{G_PlayerName}くん……",
       "zh": "刚才气氛还挺不错的呢……？那下次……我很期待哦……{G_PlayerName}……"
     }

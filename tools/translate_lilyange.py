@@ -44,6 +44,15 @@ JP_STORY_NAME_TO_ZH = {
     "H\u30b9\u30c8\u30fc\u30ea\u30fc\u2461": "H\u5267\u60c5\u2461",
     "\u8ffd\u52a0\u30b9\u30c8\u30fc\u30ea\u30fc\u2460": "\u8ffd\u52a0\u5267\u60c5\u2460",
 }
+DISPLAY_NAME_ZH = {
+    "リリアン": "莉安",
+    "謎の少女": "神秘少女",
+    "女性": "女性",
+    "女": "女性",
+    "男": "男性",
+}
+
+
 def read_json(path: pathlib.Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8-sig"))
 
@@ -290,7 +299,7 @@ def load_name_rows(repo_root: pathlib.Path) -> Dict[int, Dict[str, str]]:
 
 
 def load_name_glossary(repo_root: pathlib.Path) -> Dict[str, str]:
-    result: Dict[str, str] = {}
+    result: Dict[str, str] = dict(DISPLAY_NAME_ZH)
     for item in load_name_rows(repo_root).values():
         ja = item.get("ja", "")
         zh = item.get("zh", "")
@@ -311,7 +320,7 @@ def write_name_markdown(path: pathlib.Path, rows: List[Dict[str, Any]]) -> None:
     lines = [
         "# Character Name Glossary",
         "",
-        "`zh` 是剧情翻译会优先使用的人名；不确定时先留空，游戏文本会保留日文名。",
+        "`zh` 是剧情翻译和名牌显示优先使用的中文名；不确定时先留空，游戏文本会保留日文名。",
         "",
         "| id | ja | zh | note |",
         "| --- | --- | --- | --- |",
@@ -538,11 +547,23 @@ def set_command_text(data: Dict[str, Any], text: str) -> bool:
     return False
 
 
-def command_speaker(data: Dict[str, Any]) -> str:
-    speaker_node = data.get("Speaker")
-    if isinstance(speaker_node, dict) and isinstance(speaker_node.get("value"), str):
-        return speaker_node.get("value") or ""
+def nullable_text_value(node: Any) -> str:
+    if not isinstance(node, dict) or not node.get("hasValue"):
+        return ""
+    value = node.get("value")
+    if isinstance(value, str) and value:
+        return value
+    dynamic_value = node.get("dynamicValue")
+    if isinstance(dynamic_value, dict) and isinstance(dynamic_value.get("ValueText"), str):
+        return dynamic_value.get("ValueText") or ""
     return ""
+
+
+def command_speaker(data: Dict[str, Any]) -> str:
+    speaker = nullable_text_value(data.get("Speaker"))
+    if speaker:
+        return speaker
+    return nullable_text_value(data.get("AuthorId"))
 
 
 def replace_name_value(node: Any, name_glossary: Dict[str, str]) -> bool:
@@ -557,10 +578,19 @@ def replace_name_value(node: Any, name_glossary: Dict[str, str]) -> bool:
 
 
 def replace_display_names(data: Dict[str, Any], name_glossary: Dict[str, str]) -> int:
-    # Keep Naninovel speaker identifiers intact. The game uses AuthorId/Speaker
-    # to bind dialogue to character presentation state; translating them breaks
-    # active-character lighting and fade transitions.
-    return 0
+    # AuthorId is the Naninovel actor key. Keep it intact for actor lighting,
+    # fade, voice and pose binding; write only Speaker as a display-name
+    # override for the dialogue nameplate.
+    author = nullable_text_value(data.get("AuthorId"))
+    replacement = name_glossary.get(author) if author else None
+    speaker_node = data.get("Speaker")
+    if not replacement or not isinstance(speaker_node, dict):
+        return 0
+    if speaker_node.get("value") == replacement and speaker_node.get("hasValue"):
+        return 0
+    speaker_node["value"] = replacement
+    speaker_node["hasValue"] = 1
+    return 1
 
 
 def command_spot(data: Dict[str, Any]) -> Dict[str, Any]:
