@@ -80,11 +80,33 @@ def patch_font_bundle(
         tree["m_FontNames"] = [font_name]
         obj.save_typetree(tree)
         changed += 1
+
+    tmp_changed = 0
+    for obj in env.objects:
+        if obj.type.name != "MonoBehaviour":
+            continue
+        tree = obj.read_typetree()
+        if "m_SourceFontFile" not in tree or "m_CharacterTable" not in tree or "m_GlyphTable" not in tree:
+            continue
+        # Naninovel dialogue uses TextMeshPro, not UnityEngine.Font directly.
+        # Keep the existing atlas, but allow TMP to allocate additional dynamic atlases
+        # when Simplified Chinese glyphs are requested at runtime.
+        if tree.get("m_AtlasPopulationMode") != 1:
+            tree["m_AtlasPopulationMode"] = 1
+        if tree.get("m_IsMultiAtlasTexturesEnabled") != 1:
+            tree["m_IsMultiAtlasTexturesEnabled"] = 1
+        creation = tree.get("m_CreationSettings")
+        if isinstance(creation, dict):
+            creation["characterSetSelectionMode"] = 7
+            creation["characterSequence"] = ""
+        obj.save_typetree(tree)
+        tmp_changed += 1
+
     if not changed:
         raise RuntimeError(f"No matching Unity Font objects were found in {source_bundle.name}")
     output_bundle.parent.mkdir(parents=True, exist_ok=True)
     output_bundle.write_bytes(env.file.save())
-    return changed
+    return changed + tmp_changed
 
 
 def main() -> int:
@@ -109,7 +131,7 @@ def main() -> int:
     target_names = [name for name in args.targets.split(",")] if args.targets else []
     changed = patch_font_bundle(source_bundle, output_bundle, font_path, args.font_name, target_names)
     refresh_translated_index(args.repo_root)
-    print(f"patched {changed} font object(s): {source_bundle.name}")
+    print(f"patched {changed} font/TMP object(s): {source_bundle.name}")
     print(f"output: {output_bundle}")
     return 0
 
