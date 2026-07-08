@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "9460062",
+      "speaker": "",
+      "ja": "きらびやかな照明に照らされたカジノホールに{G_PlayerName}はやって来ていた。",
+      "zh": "在璀璨灯光照耀下的赌场大厅里，{G_PlayerName}现身了。"
+    },
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "9d45ceae",
+      "speaker": "{G_PlayerName}",
+      "ja": "相変わらず……すごい賑わいだな……",
+      "zh": "还是老样子……真够热闹的啊……"
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "48ad4d54",
+      "speaker": "",
+      "ja": "スロットマシンの音や人々の歓声に若干圧され気味の{G_PlayerName}だったが、ふと何かに気づいて振り返る。",
+      "zh": "老虎机的噪音和人群的欢呼让{G_PlayerName}有点喘不过气，但他突然察觉到了什么，转过身去。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "f9d685c4",
+      "speaker": "",
+      "ja": "するとそこには真っ赤な顔でうつむいているフニの姿があった。",
+      "zh": "只见芙妮满脸通红地低着头站在那里。"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "a8c1cdde",
+      "speaker": "{G_PlayerName}",
+      "ja": "フニ、なにやってんだ",
+      "zh": "芙妮，你在干嘛？"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "278509bb",
+      "speaker": "フニ",
+      "ja": "せ、せせせ、生者ちゃんっ！？　な、なんでここにぃ～！？",
+      "zh": "学、学学学生妹妹！？为、为什么你会在这儿啊～！？"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "2308fa13",
+      "speaker": "",
+      "ja": "{G_PlayerName}に声をかけられたフニは、慌てて胸元を隠しぷるぷると震えていた。",
+      "zh": "被{G_PlayerName}出声一叫，芙妮慌忙遮住胸口，浑身瑟瑟发抖。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "e73b6ff5",
+      "speaker": "",
+      "ja": "顔は耳まで真っ赤に染まり、体を隠そうとぐるぐる回っているその姿は、なんとも滑稽で……",
+      "zh": "她脸红到了耳根，为了藏住身体不停地转来转去，那模样别提多滑稽了……"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "3b31a68f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか可愛らしいな……守ってやりたくなる……）",
+      "zh": "（总觉得她好可爱啊……让人忍不住想护着她……）"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "681d5b32",
+      "speaker": "",
+      "ja": "そう思いつつも{G_PlayerName}はあえてからかうような言葉を口にしてしまう。",
+      "zh": "虽然这么想，可{G_PlayerName}还是故意说出了戏弄她的话。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "7c944073",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　いつもみたいにからかってこないのか？",
+      "zh": "怎么了？今天不来逗我啦？"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "5cb4584e",
+      "speaker": "フニ",
+      "ja": "むぅぅぅぅ～～～～～！",
+      "zh": "唔～～～～～～～！"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "29e256a",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉にフニはうつむき頬を膨らませながら小さく肩をふるわせていた。",
+      "zh": "听了{G_PlayerName}的话，芙妮低下头，鼓着腮帮子，肩膀微微抖动。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "4b914096",
+      "speaker": "",
+      "ja": "ちょっぴり拗ねているフニに歩み寄った{G_PlayerName}は、その頭を優しく撫でる。",
+      "zh": "{G_PlayerName}走近正闹别扭的芙妮，温柔地摸了摸她的头。"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "782c97c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "悪い悪い",
+      "zh": "哎哟，好可怕好可怕～"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "59c3a26d",
+      "speaker": "",
+      "ja": "不意に頭を撫でられたフニは一瞬固まったかと思うと、ふわっと浮かび上がって、くるくると回り始めた。",
+      "zh": "冷不丁被摸头的芙妮先是僵了一瞬，接着便轻飘飘浮起来，开始滴溜溜地转圈。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "83083377",
+      "speaker": "フニ",
+      "ja": "もぉ～、この格好本当に恥ずかしいんだからぁ……",
+      "zh": "真是的～，我现在这个样子真的超难为情的啦……"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "33216716",
+      "speaker": "フニ",
+      "ja": "そうやって生者ちゃんは、すぐに幽霊をいじめる～っ！",
+      "zh": "学生妹妹你总是这样，动不动就欺负幽灵～！"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "d1018238",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから悪かったって謝っただろ？　機嫌直せよ",
+      "zh": "所以我这不是说了好可怕道歉了吗？别赌气啦。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "5eb30d5f",
+      "speaker": "フニ",
+      "ja": "む～～～～～っ……",
+      "zh": "唔～～～～～……"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "a224418e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな恥ずかしい格好しながら、しっかり働いて偉いな。お疲れ様",
+      "zh": "穿成那样还认真工作，真了不起。辛苦啦。"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "adc3aae8",
+      "speaker": "フニ",
+      "ja": "心がこもってなーい！　……でも、ここのキラキラ、ちょっとだけ好きかも♥",
+      "zh": "根本没用心嘛～！……不过，这些亮晶晶的，可能有一点点喜欢♥"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "4127c38c",
+      "speaker": "フニ",
+      "ja": "賑やかだし……今はフニの姿が皆に見えてて……なんか楽しいかも",
+      "zh": "挺热闹的……现在大家都能看见芙妮的样子……感觉还挺开心的。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "a5d46067",
+      "speaker": "",
+      "ja": "少し恥ずかしそうに小声でそう呟きながら、フニはバニーの尻尾の部分を指で摘まみ小さく揺らした。",
+      "zh": "芙妮有点害羞地小声嘀咕着，用手指捏着兔尾巴，轻轻晃了晃。"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "e920ef18",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……なんだか幽霊じゃなくてただの可愛い女の子に見えてきたな）",
+      "zh": "（……怎么搞的，现在看起来不像幽灵，只是个可爱的女孩子嘛）"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "c6f18116",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……それならいいんだけど……それじゃあ俺はそろそろ戻るよ",
+      "zh": "这样啊……那就好……那我先走了。"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "906f6938",
+      "speaker": "フニ",
+      "ja": "えっ？　あっ……ちょ、ちょっと……",
+      "zh": "诶？……啊，等等……等一下……"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "9042356d",
+      "speaker": "",
+      "ja": "背を向けて帰ろうとしている{G_PlayerName}をフニは名残惜しそうに見送るが、その口元には悪戯っ子のようなニヤリとした笑みが浮かんでいる。",
+      "zh": "芙妮依依不舍地望着转身离去的{G_PlayerName}，嘴角却扬起一抹恶作剧般的坏笑。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "9e6d4961",
+      "speaker": "",
+      "ja": "そしてその姿はカジノホールの影にすーっと消えていってしまった。",
+      "zh": "随后，她的身影嗖地一下消失在了赌场大厅的阴影中。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "86efad5f",
+      "speaker": "フニ",
+      "ja": "ふふふっ、生者ちゃん……わたしをからかった罰、受けてもらうんだから……！",
+      "zh": "哼哼哼，活人……敢捉弄我，非要让你受罚不可……！"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "e1435809",
+      "speaker": "フニ",
+      "ja": "今夜は、びっくり幽霊アタックを仕掛けてやる～！　ア、アタックっていっても攻撃じゃなくて……ちょっと驚かしてやる～っ！",
+      "zh": "今晚，要来一次惊吓幽灵攻击～！啊，说是攻击，可不是要打你哦……只是稍微吓吓你～！"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "afa8eb04",
+      "speaker": "",
+      "ja": "そう決意を固めたフニ。ニヤニヤ微笑みながらふわりと浮かび上がる彼女の背中からは、いつもの”マスコット幽霊”とは違う、いたずらっ子のような気配が漂っていた。",
+      "zh": "下定决心的芙妮，带着坏笑轻盈地浮了起来。从她背上飘出的气息，不同于平时的“吉祥物幽灵”，更像是个喜欢恶作剧的小丫头。"
+    }
+  ]
+}
