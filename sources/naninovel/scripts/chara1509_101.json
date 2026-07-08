@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "9e82a431",
+      "speaker": "",
+      "ja": "ある日の放課後、授業が終わった放課後の教室で{G_PlayerName}はたまたまつばめと二人っきりになっていた。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "9464e144",
+      "speaker": "つばめ",
+      "ja": "……機械士は、まだ帰らないの？",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2753802b",
+      "speaker": "",
+      "ja": "{G_PlayerName}の方に体を向けつつ、つばめは下に目線を落としながらそう聞いてくる。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "aad3084d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、ちょっと気になることがあってな……この本を読んだら帰るよ",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "29ba519f",
+      "speaker": "つばめ",
+      "ja": "ふ～ん、暇人だな",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "be3f9ef9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほっとけ",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "2b3a9e59",
+      "speaker": "",
+      "ja": "つばめの煽るような言葉にそこ答えつつ、{G_PlayerName}は本を読み耽っていた。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "31c3be5c",
+      "speaker": "",
+      "ja": "だが少し気になった{G_PlayerName}は本を読みながらつばめに声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a273f27f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば、つばめはまだ帰らないのか？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "2e3e68e2",
+      "speaker": "",
+      "ja": "その問いかけにつばめは答えなかった。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "da584b73",
+      "speaker": "",
+      "ja": "沈黙に不信感を抱いた{G_PlayerName}は本から顔を上げて彼女の方へと目をやる。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "440315a",
+      "speaker": "",
+      "ja": "そこには夕日に横顔を照らされているつばめの姿があった。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "6222c289",
+      "speaker": "",
+      "ja": "その横顔が普段よりもやけに大人っぽく見えて、{G_PlayerName}の胸が少しざわつく。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "3446a1fe",
+      "speaker": "",
+      "ja": "思わずその横顔に見とれていると、不意につばめが口を開いた。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "b490fd61",
+      "speaker": "つばめ",
+      "ja": "……ねえ、機械士",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "dfbc20f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "9ecb0144",
+      "speaker": "つばめ",
+      "ja": "……{G_PlayerName}",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "dbb3ec88",
+      "speaker": "",
+      "ja": "彼女の口から漏れたのは自分の下の名前。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "910d313a",
+      "speaker": "",
+      "ja": "つばめから名前など呼ばれたことがない{G_PlayerName}は、その聞き慣れない音の並びに脳の反応が一拍遅れた。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "23d51c62",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、なんて？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "6916867d",
+      "speaker": "",
+      "ja": "確認するように{G_PlayerName}が聞き返すと、つばめの顔が一気に赤く染まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "59ec1519",
+      "speaker": "",
+      "ja": "それは夕日に照らされているからという訳じゃなかった。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "9933609b",
+      "speaker": "つばめ",
+      "ja": "べ、別に！　なんでもない！",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "8898a51f",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……今お前……名前……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "8c7b723",
+      "speaker": "",
+      "ja": "照れを隠すように声を荒げたつばめに、{G_PlayerName}はついつい食い下がる。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "8e706b60",
+      "speaker": "",
+      "ja": "するとつばめの顔は更に赤くなって、肩口辺りまで紅潮してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2acabf27",
+      "speaker": "つばめ",
+      "ja": "き、聞き間違いだろ！　お前の耳がおかしくなったんじゃないか！",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "3166324a",
+      "speaker": "",
+      "ja": "ギュッと拳を握りしめながら必死に否定するつばめが妙に可愛らしく思えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "3edb524",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "7f716c3b",
+      "speaker": "",
+      "ja": "思わず苦笑しながら{G_PlayerName}がそう答えると、つばめは少しだけ安心したような表情を浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "8431d0aa",
+      "speaker": "",
+      "ja": "でもすぐに何か思うところがあったのか、悔しそうな感じで唇を噛みしめる。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "3b467fd2",
+      "speaker": "",
+      "ja": "そんなつばめの反応を見て、{G_PlayerName}はくすっと笑いながら呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9b4fd831",
+      "speaker": "{G_PlayerName}",
+      "ja": "……つばめ",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "bcfb569e",
+      "speaker": "",
+      "ja": "今度は{G_PlayerName}がつばめの名を呼ぶと、彼女は赤面したまま激しく動揺する。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "1d2d0244",
+      "speaker": "つばめ",
+      "ja": "な、なんだよ！　今なんで名前を呼んだんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "2eef65b9",
+      "speaker": "",
+      "ja": "焦ってそう言うつばめに、{G_PlayerName}は笑みを浮かべながら答えた。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "1c810289",
+      "speaker": "{G_PlayerName}",
+      "ja": "聞き間違いじゃないのか？　お前も耳がおかしくなったか？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "7a5c8790",
+      "speaker": "",
+      "ja": "からかうような{G_PlayerName}の言葉につばめは頬を膨らませてむくれる。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2fc9f3a9",
+      "speaker": "つばめ",
+      "ja": "き、聞き間違いなんかじゃねーよ！　絶対に名前呼んだだろ！",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "b56b5b3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "さあな～、聞き間違い聞き間違い",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "d87dabc4",
+      "speaker": "つばめ",
+      "ja": "き～さ～ま～！！　からかうのもいい加減にしろよ！",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "3c488e1",
+      "speaker": "",
+      "ja": "声を荒げて文句を言うつばめだが、さっきよりも少し元気になっているように見え、{G_PlayerName}は思わず微笑んでしまっていた。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "9e82a431",
+      "speaker": "",
+      "ja": "ある日の放課後、授業が終わった放課後の教室で{G_PlayerName}はたまたまつばめと二人っきりになっていた。",
+      "zh": "某天放学后，教室里只剩我和燕两个人。"
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "9464e144",
+      "speaker": "つばめ",
+      "ja": "……機械士は、まだ帰らないの？",
+      "zh": "……机械师，你还不回去吗？"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2753802b",
+      "speaker": "",
+      "ja": "{G_PlayerName}の方に体を向けつつ、つばめは下に目線を落としながらそう聞いてくる。",
+      "zh": "燕转向我，垂下目光问道。"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "aad3084d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、ちょっと気になることがあってな……この本を読んだら帰るよ",
+      "zh": "嗯，有段剧情有点在意……等我看完这本书就回去。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "29ba519f",
+      "speaker": "つばめ",
+      "ja": "ふ～ん、暇人だな",
+      "zh": "哼～，你可真闲啊。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "be3f9ef9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほっとけ",
+      "zh": "不要你管。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "2b3a9e59",
+      "speaker": "",
+      "ja": "つばめの煽るような言葉にそこ答えつつ、{G_PlayerName}は本を読み耽っていた。",
+      "zh": "我随口应着燕带着挑衅的话，继续埋头看书。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "31c3be5c",
+      "speaker": "",
+      "ja": "だが少し気になった{G_PlayerName}は本を読みながらつばめに声をかける。",
+      "zh": "不过我还是有点在意，于是看着书搭话道。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a273f27f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば、つばめはまだ帰らないのか？",
+      "zh": "话说回来，燕你不回去吗？"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "2e3e68e2",
+      "speaker": "",
+      "ja": "その問いかけにつばめは答えなかった。",
+      "zh": "燕没有回答这个问题。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "da584b73",
+      "speaker": "",
+      "ja": "沈黙に不信感を抱いた{G_PlayerName}は本から顔を上げて彼女の方へと目をやる。",
+      "zh": "这阵沉默让我觉得有点不对劲，于是从书本上抬起头，看向她。"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "440315a",
+      "speaker": "",
+      "ja": "そこには夕日に横顔を照らされているつばめの姿があった。",
+      "zh": "夕阳照亮了她的侧脸。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "6222c289",
+      "speaker": "",
+      "ja": "その横顔が普段よりもやけに大人っぽく見えて、{G_PlayerName}の胸が少しざわつく。",
+      "zh": "那侧脸比平时看起来更成熟，让我心里一阵躁动。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "3446a1fe",
+      "speaker": "",
+      "ja": "思わずその横顔に見とれていると、不意につばめが口を開いた。",
+      "zh": "我不禁看得入迷，这时燕突然开口了。"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "b490fd61",
+      "speaker": "つばめ",
+      "ja": "……ねえ、機械士",
+      "zh": "……呐，机械师。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "dfbc20f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？",
+      "zh": "嗯？"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "9ecb0144",
+      "speaker": "つばめ",
+      "ja": "……{G_PlayerName}",
+      "zh": "……{G_PlayerName}。"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "dbb3ec88",
+      "speaker": "",
+      "ja": "彼女の口から漏れたのは自分の下の名前。",
+      "zh": "她叫的是我的名字。"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "910d313a",
+      "speaker": "",
+      "ja": "つばめから名前など呼ばれたことがない{G_PlayerName}は、その聞き慣れない音の並びに脳の反応が一拍遅れた。",
+      "zh": "燕从来没直呼过我的名字，这陌生的称呼让我大脑一时间没反应过来。"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "23d51c62",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、なんて？",
+      "zh": "咦，怎么了？"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "6916867d",
+      "speaker": "",
+      "ja": "確認するように{G_PlayerName}が聞き返すと、つばめの顔が一気に赤く染まっていく。",
+      "zh": "{G_PlayerName}试探着再问了一次，燕的脸顿时涨得通红。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "59ec1519",
+      "speaker": "",
+      "ja": "それは夕日に照らされているからという訳じゃなかった。",
+      "zh": "那可不是因为夕阳映照的缘故。"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "9933609b",
+      "speaker": "つばめ",
+      "ja": "べ、別に！　なんでもない！",
+      "zh": "才、才没有！什么事都没有！"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "8898a51f",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……今お前……名前……",
+      "zh": "可是……刚才你……叫我名字了……？"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "8c7b723",
+      "speaker": "",
+      "ja": "照れを隠すように声を荒げたつばめに、{G_PlayerName}はついつい食い下がる。",
+      "zh": "燕抬高嗓门想掩饰害羞，{G_PlayerName}却忍不住继续追问。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "8e706b60",
+      "speaker": "",
+      "ja": "するとつばめの顔は更に赤くなって、肩口辺りまで紅潮してしまった。",
+      "zh": "这下燕的脸更红了，连脖子都红透了。"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2acabf27",
+      "speaker": "つばめ",
+      "ja": "き、聞き間違いだろ！　お前の耳がおかしくなったんじゃないか！",
+      "zh": "你、你听错了吧！是你耳朵有问题吧！"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "3166324a",
+      "speaker": "",
+      "ja": "ギュッと拳を握りしめながら必死に否定するつばめが妙に可愛らしく思えてしまう。",
+      "zh": "燕攥紧拳头拼命否认的样子，莫名让人觉得可爱。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "3edb524",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "7f716c3b",
+      "speaker": "",
+      "ja": "思わず苦笑しながら{G_PlayerName}がそう答えると、つばめは少しだけ安心したような表情を浮かべた。",
+      "zh": "{G_PlayerName}不由苦笑一声这么答道，燕的表情这才稍稍放松了些。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "8431d0aa",
+      "speaker": "",
+      "ja": "でもすぐに何か思うところがあったのか、悔しそうな感じで唇を噛みしめる。",
+      "zh": "但很快又像是想起了什么，不甘地咬住了嘴唇。"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "3b467fd2",
+      "speaker": "",
+      "ja": "そんなつばめの反応を見て、{G_PlayerName}はくすっと笑いながら呟いた。",
+      "zh": "看着燕这副反应，{G_PlayerName}噗嗤一笑，低声说道。"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9b4fd831",
+      "speaker": "{G_PlayerName}",
+      "ja": "……つばめ",
+      "zh": "……燕"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "bcfb569e",
+      "speaker": "",
+      "ja": "今度は{G_PlayerName}がつばめの名を呼ぶと、彼女は赤面したまま激しく動揺する。",
+      "zh": "这次轮到{G_PlayerName}叫了燕的名字，她涨红了脸，慌乱得不行。"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "1d2d0244",
+      "speaker": "つばめ",
+      "ja": "な、なんだよ！　今なんで名前を呼んだんだよ！",
+      "zh": "你、你干嘛啊！突然叫我名字干什么！"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "2eef65b9",
+      "speaker": "",
+      "ja": "焦ってそう言うつばめに、{G_PlayerName}は笑みを浮かべながら答えた。",
+      "zh": "面对急得大喊的燕，{G_PlayerName}笑着回答。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "1c810289",
+      "speaker": "{G_PlayerName}",
+      "ja": "聞き間違いじゃないのか？　お前も耳がおかしくなったか？",
+      "zh": "不是听错了吗？你的耳朵也出毛病了？"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "7a5c8790",
+      "speaker": "",
+      "ja": "からかうような{G_PlayerName}の言葉につばめは頬を膨らませてむくれる。",
+      "zh": "被{G_PlayerName}这么一逗，燕鼓起腮帮子，气鼓鼓的。"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2fc9f3a9",
+      "speaker": "つばめ",
+      "ja": "き、聞き間違いなんかじゃねーよ！　絶対に名前呼んだだろ！",
+      "zh": "才、才不是什么听错！你肯定叫了我名字！"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "b56b5b3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "さあな～、聞き間違い聞き間違い",
+      "zh": "谁知道呢～，听错了听错了～"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "d87dabc4",
+      "speaker": "つばめ",
+      "ja": "き～さ～ま～！！　からかうのもいい加減にしろよ！",
+      "zh": "你、这、家、伙！！开玩笑也得有个限度吧！"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "3c488e1",
+      "speaker": "",
+      "ja": "声を荒げて文句を言うつばめだが、さっきよりも少し元気になっているように見え、{G_PlayerName}は思わず微笑んでしまっていた。",
+      "zh": "燕虽然还是没好气地抱怨着，但看样子比刚才精神了些，{G_PlayerName}忍不住微笑起来。"
+    }
+  ]
+}

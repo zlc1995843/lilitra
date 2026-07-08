@@ -1,0 +1,1183 @@
+{
+  "lines": [
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "76f9f553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "772cda5c",
+      "speaker": "",
+      "ja": "放課後の教室、椅子に座って{G_PlayerName}は本を読んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "2579825a",
+      "speaker": "つばめ",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "fce3bd7d",
+      "speaker": "",
+      "ja": "その側でつばめも同じく本を読んでいる。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "9f7f50a8",
+      "speaker": "",
+      "ja": "しばらく2人各々本を読んでいたのだが、かまってもらいたいつばめは気を引こうと{G_PlayerName}の周囲をウロウロし始めた。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "78c88da1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んっ？　何か用事でもあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "ecebc5d1",
+      "speaker": "",
+      "ja": "気になった{G_PlayerName}がそう声をかけると、つばめはどこか不機嫌な雰囲気を出しつつツンとした感じで答える。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "9a4453d7",
+      "speaker": "つばめ",
+      "ja": "別に……用なんてないから",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "970144be",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……なんだ",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5b580bf0",
+      "speaker": "",
+      "ja": "気になりつつもまた読書にふける{G_PlayerName}だが、つばめは変わらずに周囲を歩き回り続けた。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "5ccce610",
+      "speaker": "",
+      "ja": "そんなつばめをあえて無視して本を読んでいると彼女はさらにちょっかいをかけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "ff6eaac7",
+      "speaker": "つばめ",
+      "ja": "つんつん……つんつんつん……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "8026856",
+      "speaker": "",
+      "ja": "背後から体を指先で突いてみたり、抱きしめてきたり。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "e32c464a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……っ！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "425a91c5",
+      "speaker": "",
+      "ja": "さすがに{G_PlayerName}は読書に集中できなくなり、たまらず椅子から立ち上がった。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "f61a66f1",
+      "speaker": "",
+      "ja": "今更気恥ずかしくなったのか、つばめは誤魔化すかのように目を泳がせる。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "e66356b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んっ？　その本は……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "f38bbe1b",
+      "speaker": "",
+      "ja": "{G_PlayerName}は偶然つばめがさっきまで読んでいた本のタイトルに目が留まった。",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "372f2101",
+      "speaker": "",
+      "ja": "それは前に{G_PlayerName}が読んだことがある本と同じタイトルで、ベッドシーンがいくつか挟まる内容だ。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "7d464070",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なるほど……ベッドシーンを読んでいてムラムラしてきたんだな……。）",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "13d5f8c0",
+      "speaker": "",
+      "ja": "{G_PlayerName}はつばめの考えを勝手に理解した気になって納得した。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "adb9782d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それにしても、こんな誘い方をしてくるなんて……。）",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "f9f1340a",
+      "speaker": "",
+      "ja": "そう思うと{G_PlayerName}も妙に興奮してきてしまい、股間で陰茎がどんどん勃起してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "6b4091d8",
+      "speaker": "",
+      "ja": "こうなってしまっては、もう気持ちが止められなくなってしまい、かなり強引に{G_PlayerName}はつばめを机の上に押し倒そうとした。",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "c1ac55c",
+      "speaker": "つばめ",
+      "ja": "ちょっ！　なに？　なにするんだよっ！",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "6407e29a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、お前だってその気だったんだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "69c8ae30",
+      "speaker": "つばめ",
+      "ja": "なんのこと言ってるんだよっ！　ちょっと、やめろって！",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "8e448eca",
+      "speaker": "",
+      "ja": "もみ合っているうちにつばめの服は乱れ、ポロリと胸が露出する。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "62631508",
+      "speaker": "",
+      "ja": "それを見た{G_PlayerName}の興奮は更に高まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "c4caacc5",
+      "speaker": "つばめ",
+      "ja": "やだっ……ちょっと……っ！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "16635dde",
+      "speaker": "",
+      "ja": "慌てて乱れた服を整えようとするつばめだが、気持ちが高ぶった{G_PlayerName}は力任せに彼女を机の上に押さえ付けると膨らんだおちんちんを露わにさせた。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "f6a21c29",
+      "speaker": "{G_PlayerName}",
+      "ja": "お望み通りにしてやるっ！",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "27120482",
+      "speaker": "つばめ",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "a502faa3",
+      "speaker": "",
+      "ja": "強引な{G_PlayerName}につばめは激しく動揺する。",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "d7bd24b5",
+      "speaker": "",
+      "ja": "だがそんなつばめにお構いなしで、{G_PlayerName}は自らの陰茎を彼女の顔の前に突き付けた。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "143b190a",
+      "speaker": "つばめ",
+      "ja": "や、やめろ！　何するつもりだよ！",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "48b2e874",
+      "speaker": "",
+      "ja": "激しく動揺するつばめの姿に{G_PlayerName}は妙な興奮に襲われておちんぽを更に太く硬く勃起させてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "4a8b1ed7",
+      "speaker": "",
+      "ja": "目の前でむくむくと怒張していく肉塊を目の当たりにしてつばめの顔から血の気が引いていった。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "550b979",
+      "speaker": "つばめ",
+      "ja": "な、なにおちんぽを大きくさせてるんだ！　おい！　落ち着けって！",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "d6fac9e7",
+      "speaker": "",
+      "ja": "必死にそう訴えるが{G_PlayerName}はすっかり頭に血が上ってしまっている。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "5a38c70a",
+      "speaker": "",
+      "ja": "そして暴走した興奮のままに、すっかり硬く反り返った陰茎を半ば強引な感じで{G_PlayerName}はつばめの口へとねじ込んでいった。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "6bd8f58c",
+      "speaker": "つばめ",
+      "ja": "やめろぉ！　んぐぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "5b1f297a",
+      "speaker": "",
+      "ja": "深々と勃起した陰茎を咥えさせられたつばめは、目を白黒させてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "18009dfa",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は気にすることなく根本までおちんぽをねじ込んでいった。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "6617f6dd",
+      "speaker": "つばめ",
+      "ja": "んむぅぅぅ！　んっ！　んぐぅぅぅぅ！　ううっ！　うぅぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "4286f00b",
+      "speaker": "",
+      "ja": "苦しそうな声を上げてじたばたするつばめだが、両肩を押さえ込まれていて抵抗ができない。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "509d965",
+      "speaker": "",
+      "ja": "それをいいことに{G_PlayerName}は腰を前後させて、つばめの口を犯し始めた。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "cdd92526",
+      "speaker": "つばめ",
+      "ja": "んぷぅ！　んぐんぐぅ！　うっ、うううっ！　うむぅ！　うぢゅるぅ！",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "83b755bd",
+      "speaker": "",
+      "ja": "出し入れされる度につばめの口からは苦しげな声が溢れ出る。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "f1a767dc",
+      "speaker": "",
+      "ja": "その声に興奮が煽られた{G_PlayerName}は息を荒くしながら何度も腰を突き出した。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "94e07cdf",
+      "speaker": "つばめ",
+      "ja": "（な、なんでこんなことに？！　い、息が……苦しい……っ！　いやだっ！）",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "385db408",
+      "speaker": "",
+      "ja": "好きな人に無理矢理おちんぽを咥え込まされたつばめは激しく動揺してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "e44bc5b8",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそんなつばめの口を犯しながら乱暴な口調で言った。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "3cb2468a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前！　こんな風に男を誘って、ただで済むと思うなよ！",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "dadd54da",
+      "speaker": "つばめ",
+      "ja": "（えっ？！　誘ったって……なにっ？！）",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "182d0735",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヤンキーだからって、やっていいことと悪いことがあるんだぞ！",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "e59a440b",
+      "speaker": "つばめ",
+      "ja": "（なにを言ってるんだ？！　もしかして勘違いされているっ？！）",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "9b15964d",
+      "speaker": "",
+      "ja": "かなり動揺していたつばめだが、{G_PlayerName}の言葉で勘違いされていることに気がつき、別に嫌われたわけじゃなさそうなことに一安心する。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "1e8366c",
+      "speaker": "",
+      "ja": "しかし口を塞がれてしまっていては、その勘違いを解くこともできずに、つばめはかなり困惑してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "52f241d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前が誘ったからこうなっているんだ！　しっかり責任とれよ！",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "a77d2ab5",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう言いながら何度も腰を振って、勃起した陰茎を深くしゃぶらせていく。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "feac773e",
+      "speaker": "つばめ",
+      "ja": "うっぷっ！　うぅぅっ！　んっ、むぐぅぅ！　ぢゅるるぅ……ぐっ、んんんっ！",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "4bbf2014",
+      "speaker": "",
+      "ja": "苦しさと混乱につばめはバタバタと足をばたつかせるが、{G_PlayerName}はお構いなしで腰を前後させ続けた。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "6d2980ba",
+      "speaker": "",
+      "ja": "するとおちんぽの先からは興奮に伴ってねっとりとした汁がじわじわと溢れ出てくる。",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "e559ac84",
+      "speaker": "つばめ",
+      "ja": "むふぅぅ！　うっ、うむぅぅぅ！　んぐんぐっ、んぐふぅぅぅ！",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "4d611ef2",
+      "speaker": "",
+      "ja": "独特な味と匂いが口内に充満して、つばめは頭がクラクラしてきていた。",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "eb979984",
+      "speaker": "つばめ",
+      "ja": "（こ、この匂い……この味……こ、これが男の……機械士の味……あぁぁ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "98807f7c",
+      "speaker": "",
+      "ja": "息苦しさとクラクラする感覚にまともな思考が阻害されたつばめは、徐々に妙な高揚感に襲われていく。",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "eb95b74c",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}から淫らな事を強要されている事実にドキドキしてしまい、体が熱く火照ってきていた。",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "b9908d53",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅっ！　どうだ！　こういうことをされたかったんだろ！",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "a9d41116",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう言いながら何度も大きく腰を突き出して、勃起した陰茎を喉元までねじ込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "e306d284",
+      "speaker": "",
+      "ja": "その度につばめは体を震わせながら呻くような声を漏らした。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "4ae84a97",
+      "speaker": "つばめ",
+      "ja": "うっくっ♥　うむぅぅ♥　あっ、あうあうぅ♥　んっ、ぢゅるぅ♥　ちゅっ、むちゅるぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "580e79fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……うぅ……舌に擦れる感覚が……す、すごく気持ちいい……",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "83222197",
+      "speaker": "",
+      "ja": "興奮した口調でそう呟きながら、{G_PlayerName}は陰茎の先をつばめの舌に擦りつける。",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "6df8d01f",
+      "speaker": "",
+      "ja": "その度に我慢汁の味が強くなって、つばめは瞳を潤ませながら唇を震わせて悶えた。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "1ee7ebbb",
+      "speaker": "つばめ",
+      "ja": "（ああ、こんなの望んでいなかった筈なのに……頭の中が真っ白になって……おまんこが疼いてきてしまうっ♥）",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "558eb1b6",
+      "speaker": "",
+      "ja": "つばめの興奮が高まるのと同じように、{G_PlayerName}もすっかり高ぶって込み上げてくる感覚に襲われる。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "70a2952c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そろそろ……が、我慢できない……っ！",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "a68721ae",
+      "speaker": "",
+      "ja": "射精が近づいてきているのを感じた{G_PlayerName}は、ラストスパートをかけるように激しいピストンを続けた。",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "fdbb488e",
+      "speaker": "",
+      "ja": "脈打つおちんぽが口の中で跳ねる感触に、つばめも小さく体を震わせる。",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "88871adc",
+      "speaker": "つばめ",
+      "ja": "むぐぅぅぅ♥　うぐうぐぅ♥　んっ、んんっ♥　ぢゅるぅ♥　ぢゅぷぢゅぷ……ぢゅるるぅぅ♥　んぷっ……あむあむぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "9f6bc82b",
+      "speaker": "",
+      "ja": "ついつい出入りするおちんちんを、つばめは舐めるように舌を動かしてしまい、その刺激に一気に高まった{G_PlayerName}は腰の動きを止めて呻き声を漏らす。",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "cb241af1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうっ……うっ……ううっ……",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "2fb619e7",
+      "speaker": "",
+      "ja": "高ぶった{G_PlayerName}は堪えきれなくなり、呻き声を漏らしながら腰を突き出して、つばめの口に熱い精液をほとばしらせた。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "c0839ec9",
+      "speaker": "つばめ",
+      "ja": "う、おぇ♥　やめ、ろぉ……んっ……んんんっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "4c4167dd",
+      "speaker": "",
+      "ja": "苦しげにそう呟きつつも注ぎ込まれる精液をつばめは必死に飲み込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "7733589c",
+      "speaker": "",
+      "ja": "それでも流し込まれる精液にむせ返り、噴き出した白濁が彼女の顔を汚した。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "800a92fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……つばめ……",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "4d8e375f",
+      "speaker": "",
+      "ja": "精液で汚れたエロい顔を見て、{G_PlayerName}は更に陰茎を脈打たせながら何度も射精してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "7632a5cc",
+      "speaker": "つばめ",
+      "ja": "うっぷっ♥　んぐうむぅ♥　んっ、んっ、ごくごくぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "b98a5460",
+      "speaker": "",
+      "ja": "顔を赤らめ蕩けた目をしているつばめの口に、{G_PlayerName}はそのまま全ての精液を注ぎ込んで果てた。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "9aa80573",
+      "speaker": "つばめ",
+      "ja": "（ううっ……こ、これが精液の……味……変な味だけど……でも……♥）",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "89692467",
+      "speaker": "",
+      "ja": "すっかり体が火照ってきたつばめは、全ての精液を受け止めた後もおちんぽを咥えたまま唇を震わせる。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "e0003d6d",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}はまた気持ちが高まってしまい、射精した陰茎は萎えずに小さく跳ねていた。",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "d39a9252",
+      "speaker": "{G_PlayerName}",
+      "ja": "つ、つばめっ……！",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "293e9106",
+      "speaker": "",
+      "ja": "興奮が冷めやらない{G_PlayerName}は、そのまままた腰を振り始めてつばめの口を犯していく。",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "7614509e",
+      "speaker": "つばめ",
+      "ja": "んふぅぅぅ♥　んっ♥　むぐぅぅ♥　ぢゅるるっ……ぢゅぽじゅぽぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "d3c3c9bb",
+      "speaker": "",
+      "ja": "{G_PlayerName}の肉棒が出入りする度に口の中に残った精液と唾液が混ざりあった汁に絡みついて、じゅぽじゅぽという音を立てた。",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "ced2c604",
+      "speaker": "",
+      "ja": "その音が{G_PlayerName}の興奮を煽りさらにピストンが激しくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "dfc4713b",
+      "speaker": "つばめ",
+      "ja": "うっぷっ♥　うむぅぅ♥　んぐぅぅ♥　ぢゅるぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "bf8d58d",
+      "speaker": "",
+      "ja": "あまりにも激しい抽送に頭の中が真っ白になりながらも、つばめはもっとされたそうな表情を浮かべてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "f9c4ca1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな顔されたら……俺っ……くっ、ううっ！",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "738e502b",
+      "speaker": "",
+      "ja": "誘うようなつばめの表情に興奮した{G_PlayerName}は腰を振って亀頭を舌に擦り付ける。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "c23688a0",
+      "speaker": "つばめ",
+      "ja": "んぐんぐぅぅ♥　ぢゅるぢゅるぅ♥　うっぷっ、うむぅぅ♥　あむぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "df785e2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……す、すごく気持ちいい……あぁぁ……",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "5d915220",
+      "speaker": "",
+      "ja": "高まる興奮に{G_PlayerName}は声を震わせながら何度も何度も腰を突き出した。",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "40c1660b",
+      "speaker": "",
+      "ja": "ぞろりぞろりと擦れる舌の感触に込み上げてくる感覚は強くなる一方。",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "3fd0d2b8",
+      "speaker": "つばめ",
+      "ja": "はむぅぅ♥　あうあむぅぅ♥　んちゅるぅ……ずちゅるぅ……ぢゅる……うぐふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "84fb9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……すごくいいっ……また……で、出そうだ……うぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "7219cd12",
+      "speaker": "",
+      "ja": "再び高まってくる射精感に{G_PlayerName}のピストンはどんどん激しく速くなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "6f93788e",
+      "speaker": "",
+      "ja": "喉元まで押し込まれてくるおちんぽの刺激に、つばめもすっかり恍惚の表情を浮かべて無意識のうちに舌を絡めてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "66162c84",
+      "speaker": "つばめ",
+      "ja": "ぢゅっぷぢゅっぷ♥　れろぉ♥　ぢゅるるぅ♥　ちゅばちゅばっ……んぢゅるぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "38a73a04",
+      "speaker": "",
+      "ja": "激しく舐め回された{G_PlayerName}の快感は一気に高まって、勃起している陰茎がどくんどくんと脈動した。",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "fe4bb024",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は腰の動きを止めずに、射精に向けて夢中で抽送を繰り返していく。",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "9235021d",
+      "speaker": "つばめ",
+      "ja": "あむぅぅ♥　あぐあぐぅ♥　うっ、ううっ♥　ぢゅるぅ、ぢゅぼぢゅぼぉ♥　ぢゅるぢゅるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "201055f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅっ！　ま、また出る……んっ！　んんんっ！",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "f7978123",
+      "speaker": "",
+      "ja": "再び込み上げてきた感覚に{G_PlayerName}は脈打つ肉塊を根本まで挿入すると、つばめの口内にどろどろの精液を放った。",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "3c04ebba",
+      "speaker": "つばめ",
+      "ja": "んふぅぅぅ♥　んぐっ、んぐぅぅっ♥　ごきゅるごきゅる……ぢゅるぢゅる……あむぅぅ……ちゅるちゅるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "133a99cf",
+      "speaker": "",
+      "ja": "どくんどくんと注ぎ込まれる熱い精液を、つばめは恍惚の表情を浮かべながら飲み干していく。",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "4315446d",
+      "speaker": "",
+      "ja": "その淫らな表情に興奮した{G_PlayerName}はありったけの精液をつばめの口へと出し続けた。",
+      "zh": ""
+    },
+    {
+      "key": "378.0",
+      "line_index": 378,
+      "inline_index": 0,
+      "line_hash": "455495ef",
+      "speaker": "つばめ",
+      "ja": "あふぅぅ♥　んっ、あぁぁ♥　どぴゅどぴゅ……出てるぅ♥　あ、あついぃぃ……♥　ふああぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "9e7af25e",
+      "speaker": "",
+      "ja": "つばめの口からズルリと抜けた{G_PlayerName}のおちんぽは、びゅびゅっと精液を放ち口の中だけではなく顔までどろどろに汚していく。",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "300d9b35",
+      "speaker": "",
+      "ja": "その熱さと匂いにすっかり意識は混濁してしまい、つばめは恍惚の表情を浮かべていた。",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "52a7df87",
+      "speaker": "つばめ",
+      "ja": "はぁぁ……♥　こ、こんなに……ぬるぬるぅ……♥　せ、せーえき……いっぱい……んふぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "94f08e7b",
+      "speaker": "",
+      "ja": "自分が何を口走っているかもよくわからないまま、つばめは口の中の精液を舌で転がし味わっていく。",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "537ec869",
+      "speaker": "つばめ",
+      "ja": "んぢゅる……♥　んぐんぐっ……♥　うっ、んむぅ……♥　はぁ……♥　はぁぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "436792b7",
+      "speaker": "",
+      "ja": "精液の味や匂いに理性が崩壊してしまったつばめは、うっとりとした目で脈打つ{G_PlayerName}のおちんぽを見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "614cf20d",
+      "speaker": "",
+      "ja": "そして無意識のうちに甘い声で呟く。",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "5d1d5490",
+      "speaker": "つばめ",
+      "ja": "えへっ♥　えへっ♥　おちんちん、すきぃ♥",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "533cea7f",
+      "speaker": "",
+      "ja": "すっかり蕩けきった表情を浮かべながらそう言ったつばめは、目の前でびくんびくんと小さく跳ねている精液まみれの陰茎にいやらしく舌を這わせ続けていた。",
+      "zh": ""
+    }
+  ]
+}
