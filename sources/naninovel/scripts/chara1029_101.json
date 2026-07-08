@@ -1,0 +1,562 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "cabb36d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（目的地までもうしばらくかかりそうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "7721df21",
+      "speaker": "{G_PlayerName}",
+      "ja": "（かと言って外を眺めていてもほぼ変化無し……",
+      "zh": ""
+    },
+    {
+      "key": "21.2",
+      "line_index": 21,
+      "inline_index": 2,
+      "line_hash": "7721df21",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ宇宙なんだし当たり前のことか……）",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "bb378d3e",
+      "speaker": "シーシャ",
+      "ja": "おーイっ！　{G_PlayerName}！！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "380a0964",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うわっ！？　シーシャ！？　い、いきなり背中に飛びついてきたら危ないだろっ",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "6345500d",
+      "speaker": "シーシャ",
+      "ja": "暇だから狩りに出かけるゾ！　早く準備しロっ！",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "e0e98655",
+      "speaker": "{G_PlayerName}",
+      "ja": "狩り……？　しばらくほかの星に降りる予定はないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "3e3eb5b6",
+      "speaker": "シーシャ",
+      "ja": "違ウ、宇宙船の外で狩りをするんダ！",
+      "zh": ""
+    },
+    {
+      "key": "55.3",
+      "line_index": 55,
+      "inline_index": 3,
+      "line_hash": "3e3eb5b6",
+      "speaker": "シーシャ",
+      "ja": "獲物は見当たらないが、アタシが必ず見つけてやルっ！",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "77c00366",
+      "speaker": "シーシャ",
+      "ja": "だから準備しロっ！　宇宙ではどんな獲物が見つかるノカ……ワクワクするゾ！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "4393486",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……あのな、シーシャ、宇宙船の外に出ることは出来ないんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2588f365",
+      "speaker": "シーシャ",
+      "ja": "なんでダ？　夜だからって不安にならなくてもいいゾ？　アタシは夜目が効くからナっ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "1939984e",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに宇宙は真っ暗だけど、夜とは違って……んー……なんて説明すればいいだろうか",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "492336aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙船の外には空気が無いから息できなくなるし、",
+      "zh": ""
+    },
+    {
+      "key": "72.2",
+      "line_index": 72,
+      "inline_index": 2,
+      "line_hash": "492336aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "このままの格好で出たら死んじゃうぞ？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "f636a823",
+      "speaker": "シーシャ",
+      "ja": "よくわからないゾ……今息しているシ……。外を探せば獲物はいるダロウ？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "1badd0f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……宇宙船の中と外の区別がついていないのか……",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "829fc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "とにかく、だな、このあたりはシーシャがいたところとは全然違うんだ",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "b82a175b",
+      "speaker": "{G_PlayerName}",
+      "ja": "森も無いし、獲物もいない、ましてや宇宙船の外に出るのもダメ。",
+      "zh": ""
+    },
+    {
+      "key": "87.2",
+      "line_index": 87,
+      "inline_index": 2,
+      "line_hash": "b82a175b",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙ってそういうもんなんだよ",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "88d948d7",
+      "speaker": "シーシャ",
+      "ja": "なんでダ？　アタシが必ず獲物を見つけるから、早く狩りをさせてくレっ",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "5fe41328",
+      "speaker": "シーシャ",
+      "ja": "じっとしていると身体が鈍ってしまうシ、暇なんダっ",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "c59e6201",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから外に獲物なんて……あー……なんて言えば通じるんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "e7b3e8a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "例えばシーシャが水に潜っているとするだろ？　当然だけど息ができない、そうだよな？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "5f82ebce",
+      "speaker": "シーシャ",
+      "ja": "そんなの当たり前だロウ。でもアタシは結構息を長く止められているゾ？",
+      "zh": ""
+    },
+    {
+      "key": "105.3",
+      "line_index": 105,
+      "inline_index": 3,
+      "line_hash": "5f82ebce",
+      "speaker": "シーシャ",
+      "ja": "村で一番息を止められていられるからナっ",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "4b168c9a",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙ってそういう場所なんだよ。水の中に潜っているって考えてくれ",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "eca2b6e1",
+      "speaker": "シーシャ",
+      "ja": "そう、なのか……？　水の中っぽくないガ……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "6404d80a",
+      "speaker": "シーシャ",
+      "ja": "じゃあ獲れるのは魚なんだナ！？　アタシは魚を獲るもの得意だゾ！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "4a7e721",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、残念ながら魚もいなんだよ。宇宙ってのは生命が存在しない世界なんだよ",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "8b28c87",
+      "speaker": "{G_PlayerName}",
+      "ja": "外見ても全然魚とかいないだろ？",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "17fcb6ea",
+      "speaker": "シーシャ",
+      "ja": "たしかになにもいなイ……どこまでも真っ暗デ……",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "974336a6",
+      "speaker": "シーシャ",
+      "ja": "本当に獲物はいないのカ……？　それは悲しいゾ……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "8b814776",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう場所だからな……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "be2c9e3d",
+      "speaker": "シーシャ",
+      "ja": "寂しい世界なんだナ……宇宙っテ……",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "20dc5556",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……そうだな。寂しいといえば寂しい世界なのかも",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "eaa4e8ca",
+      "speaker": "シーシャ",
+      "ja": "とにかくわかっタ！　宇宙には獲物はいない！　外に出るのは危険！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "6bb3bed0",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかってくれたか。まぁ暇なら俺が付き合うから一緒に何かしよっか？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "4a58b7c3",
+      "speaker": "シーシャ",
+      "ja": "本当カっ！？",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "7d47877f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺も暇だしな",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "458dd823",
+      "speaker": "シーシャ",
+      "ja": "よシ！　じゃあ狩りの練習ダ！　付き合ってくレ！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "7883aa95",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう、いいぜ。俺は何をすればいい？",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "e8202c9f",
+      "speaker": "シーシャ",
+      "ja": "んー……そうだナ。まずはお前が獲物ダ！　とにかく逃げロ！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "e3ebe28",
+      "speaker": "{G_PlayerName}",
+      "ja": "──は？　獲物……？　うわっ！？　ちょ……！",
+      "zh": ""
+    },
+    {
+      "key": "167.2",
+      "line_index": 167,
+      "inline_index": 2,
+      "line_hash": "e3ebe28",
+      "speaker": "{G_PlayerName}",
+      "ja": "武器持ち出すなよっ！　危ないだろっ！！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "bb8abc7c",
+      "speaker": "シーシャ",
+      "ja": "あはははっ♪　心配しなくても怪我なんてさせないかラ！　ほら逃げロ、逃げロ！！",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "1d31ffd8",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁぁっ！　け、剣ぶん回すなって！　当たったら死ぬ！　絶対に死ぬっ！！",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "7bcdcb2e",
+      "speaker": "シーシャ",
+      "ja": "だいじょうぶダっ！　ほらほら、もっと逃げロ！",
+      "zh": ""
+    },
+    {
+      "key": "178.3",
+      "line_index": 178,
+      "inline_index": 3,
+      "line_hash": "7bcdcb2e",
+      "speaker": "シーシャ",
+      "ja": "野生の動物はそんなにトロトロ逃げないゾ！",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "ad39933c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（マジでヤバイ……！　これ本気で逃げないと怪我してしまう……！！）",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "83ffee1c",
+      "speaker": "シーシャ",
+      "ja": "おっ！？　やればできるじゃないカ！　待テ待テ待テー！",
+      "zh": ""
+    },
+    {
+      "key": "188.3",
+      "line_index": 188,
+      "inline_index": 3,
+      "line_hash": "83ffee1c",
+      "speaker": "シーシャ",
+      "ja": "シーシャ様から逃げられると思うなヨーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "396018be",
+      "speaker": "{G_PlayerName}",
+      "ja": "うげっ！？　な、なんて速さだ……！　うわぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "7d38584b",
+      "speaker": "シーシャ",
+      "ja": "おおっ！？　今の一撃を避けるのカ！？　なかなかやるじゃなイカ！　{G_PlayerName}！",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "c7b09928",
+      "speaker": "{G_PlayerName}",
+      "ja": "あぶっ！　あぶっ！　あぶねーっ！　今髪カスったぞ！？　マジでヤバいだろ今の！！",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "99addb19",
+      "speaker": "シーシャ",
+      "ja": "だからだいじょうぶだと言っているダロっ！",
+      "zh": ""
+    },
+    {
+      "key": "220.3",
+      "line_index": 220,
+      "inline_index": 3,
+      "line_hash": "99addb19",
+      "speaker": "シーシャ",
+      "ja": "ちゃんと手を抜いてるから怪我はしないゾ！",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "f565c546",
+      "speaker": "{G_PlayerName}",
+      "ja": "（だ、ダメだ……シーシャ基準で手を抜いたからって、俺が安全なわけじゃない……！）",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "19fbd591",
+      "speaker": "{G_PlayerName}",
+      "ja": "（マジでシャレにならない事態になってしまう……！　とにかく逃げないと……！！）",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "88acc2b7",
+      "speaker": "シーシャ",
+      "ja": "オオオ！　良い逃げっぷりだゾ♪　それでこそアタシの獲物の相応しイ！",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "916eb48b",
+      "speaker": "シーシャ",
+      "ja": "待テ待テ待テーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "69f0eca7",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうマジで勘弁してくれぇぇぇっ！　誰かお助けをーーーーっ！！",
+      "zh": ""
+    }
+  ]
+}

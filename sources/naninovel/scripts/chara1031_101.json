@@ -1,0 +1,517 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "c162e69b",
+      "speaker": "オーロラ",
+      "ja": "ここ広いねーっ！　あたしのお部屋の何倍も広いよーっ！",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "e25418ab",
+      "speaker": "オーロラ",
+      "ja": "お外もばっちり見えるっ！　宇宙って本当に真っ暗だよねーっ！",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "b4a57c57",
+      "speaker": "{G_PlayerName}",
+      "ja": "（すごいはしゃぎようだなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "25.2",
+      "line_index": 25,
+      "inline_index": 2,
+      "line_hash": "b4a57c57",
+      "speaker": "{G_PlayerName}",
+      "ja": "オーロラにとっては見たことのない物ばっかりなんだろうな）",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "ce1be9d5",
+      "speaker": "オーロラ",
+      "ja": "ねぇねぇ、この画面の数字って何なのかな？",
+      "zh": ""
+    },
+    {
+      "key": "29.3",
+      "line_index": 29,
+      "inline_index": 3,
+      "line_hash": "ce1be9d5",
+      "speaker": "オーロラ",
+      "ja": "色々動いているけど……気温とか湿度とかそういうのではないみたいだけど",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "43fd3788",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……何だろう……俺にもよくわからないんだよな。",
+      "zh": ""
+    },
+    {
+      "key": "32.2",
+      "line_index": 32,
+      "inline_index": 2,
+      "line_hash": "43fd3788",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロやルミナに聞けばわかると思うけど",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "3b200c88",
+      "speaker": "オーロラ",
+      "ja": "そうなんだ、それじゃああとで聞いてみよっと♪",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "76819e92",
+      "speaker": "オーロラ",
+      "ja": "あっ！　あれなんだろう！！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "9dc4cce0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに走ったら危ないぞ……！！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "a26d0505",
+      "speaker": "オーロラ",
+      "ja": "へーきへーきっ♪　うわぁっ！　こっちも数字が色々……！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "cb804d9c",
+      "speaker": "オーロラ",
+      "ja": "あっ！　あっちにも面白そうなのが……！！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "15024394",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やれやれ……見たことの無い物がいっぱいでテンションが爆上がりしちゃっているな）",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "5042d691",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも落ち込むとか、そういうのよりは全然良いな。",
+      "zh": ""
+    },
+    {
+      "key": "64.2",
+      "line_index": 64,
+      "inline_index": 2,
+      "line_hash": "5042d691",
+      "speaker": "{G_PlayerName}",
+      "ja": "その方が宇宙船の環境に早く慣れると思うし）",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "77e95f5d",
+      "speaker": "オーロラ",
+      "ja": "ねーねーっ！　ちょっとこっち来てよーっ",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "858099dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、今行くーっ",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "24fd5ad6",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　外なんて見て。何か見えるのか？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "98ddfd5a",
+      "speaker": "オーロラ",
+      "ja": "うん、あたしの星って今どこなのかなって思って……もう見えないのかな？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "29272beb",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう見えないと思う。寂しい……？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "fc0f8225",
+      "speaker": "オーロラ",
+      "ja": "んー……少しだけ♪　宇宙船の中の環境って密閉はされているくらいで、",
+      "zh": ""
+    },
+    {
+      "key": "91.3",
+      "line_index": 91,
+      "inline_index": 3,
+      "line_hash": "fc0f8225",
+      "speaker": "オーロラ",
+      "ja": "普段の生活とは全然変わらないし",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "9e99338e",
+      "speaker": "オーロラ",
+      "ja": "だからそんなに寂しさはないかな♪　あなたも一緒にいるしね♪",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "9e10e582",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら良かった。ホームシックとかになる場合もあるしな",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "360380ce",
+      "speaker": "オーロラ",
+      "ja": "あたしそんなに子供じゃないよーっ！　もう一人でもやっていける”大人”だもんっ！",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "407aeae2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな、ごめんごめん",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "b3e00aeb",
+      "speaker": "オーロラ",
+      "ja": "それにしても……ぜーんぶ自動で動いているんだよね？　この宇宙船って",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "77cd11ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "定期的な点検は必要だけど、",
+      "zh": ""
+    },
+    {
+      "key": "114.2",
+      "line_index": 114,
+      "inline_index": 2,
+      "line_hash": "77cd11ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "温度調整から目的地までの移動とかすべて自動でやってくれているはずだよ",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "592e41a1",
+      "speaker": "オーロラ",
+      "ja": "すべてが魔法じゃない動力で動いている……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "8a81135",
+      "speaker": "オーロラ",
+      "ja": "何だか魔法なんて要らないんじゃないかな～って思えてくるよ",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "3405441",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことはないと思うよ？　魔法は魔法、機械は機械、それぞれ良い点があると思うし",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ae635962",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから落ち込む必要なんてないって",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "bfd70ac5",
+      "speaker": "オーロラ",
+      "ja": "えっ？　あたし別に落ち込んでなんていないよ？",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "7a2e0386",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなの？　魔法とか要らないとか言ってたから、",
+      "zh": ""
+    },
+    {
+      "key": "135.2",
+      "line_index": 135,
+      "inline_index": 2,
+      "line_hash": "7a2e0386",
+      "speaker": "{G_PlayerName}",
+      "ja": "ショックでも受けていたのかなって思ってた……",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "120f9264",
+      "speaker": "オーロラ",
+      "ja": "あははっ♪　ショックどころか、",
+      "zh": ""
+    },
+    {
+      "key": "140.3",
+      "line_index": 140,
+      "inline_index": 3,
+      "line_hash": "120f9264",
+      "speaker": "オーロラ",
+      "ja": "色々と見て新しい魔法のアイディアが浮かんできているよっ",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "b656c31e",
+      "speaker": "オーロラ",
+      "ja": "便利なもののその一歩先を行く魔法……もっともっと面白い魔法が作れるかもっ",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "1c1cb811",
+      "speaker": "{G_PlayerName}",
+      "ja": "例えばどんな魔法？　ちょっと興味があるな",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "918a6410",
+      "speaker": "オーロラ",
+      "ja": "そうだね～……頭の中で想像するだけで、目の前にいろんな食べ物が出てくる魔法とかっ",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "a1f5b6a5",
+      "speaker": "オーロラ",
+      "ja": "あとは寝たままお風呂に入れる魔法！",
+      "zh": ""
+    },
+    {
+      "key": "155.3",
+      "line_index": 155,
+      "inline_index": 3,
+      "line_hash": "a1f5b6a5",
+      "speaker": "オーロラ",
+      "ja": "あとはごろごろしていてもたくさんの運動ができちゃう魔法とか！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "36cb5138",
+      "speaker": "{G_PlayerName}",
+      "ja": "……何だかズボラな魔法が多くないか？",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "15dc4bea",
+      "speaker": "オーロラ",
+      "ja": "えーっ、そうかな～？　でも夢はない？",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "be8610d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ夢はあると思うけど、ヘンに現実的というか、ぐーたらしたいだけというか……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "cce751b3",
+      "speaker": "オーロラ",
+      "ja": "うーん……そう言われちゃうと、そう思えてきちゃう……",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "149dd8b",
+      "speaker": "オーロラ",
+      "ja": "あっ！　そうか！　これが機械が普及したら人がダメになるってことなんだねっ！",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "f7fe6998",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　何それ？",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "7156e905",
+      "speaker": "オーロラ",
+      "ja": "あたしの星ではそんな風に言われているんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "182.3",
+      "line_index": 182,
+      "inline_index": 3,
+      "line_hash": "7156e905",
+      "speaker": "オーロラ",
+      "ja": "だから一生懸命魔法を研究して機械に頼って堕落しないようにって思っているんだよ",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "1bc857a5",
+      "speaker": "オーロラ",
+      "ja": "それってこういうことなんだね～♪　勉強になるなぁ～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "c9d175df",
+      "speaker": "オーロラ",
+      "ja": "あっ！　あれなんだろっ！？　ちょっと見てくるねっ！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "858ee51e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　オーロラっ！　……行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "810c6686",
+      "speaker": "{G_PlayerName}",
+      "ja": "機械で堕落する……なんか違う気がするけどなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "202.2",
+      "line_index": 202,
+      "inline_index": 2,
+      "line_hash": "810c6686",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、オーロラがそう思うならそうなのかもしれない",
+      "zh": ""
+    }
+  ]
+}

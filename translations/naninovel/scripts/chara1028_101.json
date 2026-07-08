@@ -1,0 +1,742 @@
+{
+  "lines": [
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "dc497f1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかし何度訪れてもティルの村はのどかでいい村だな～）",
+      "zh": "（不过不管来多少次，蒂尔的村子都这么宁静，真是个好地方啊～）"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "20c82549",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり散歩はこういう自然豊かなところが一番だな）",
+      "zh": "（果然散步还是在这种自然丰富的地方最棒啊）"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "aa036025",
+      "speaker": "？？？",
+      "ja": " ──グアァアアアアっ！！",
+      "zh": "——呃啊啊啊啊啊！！"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "a493178b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──んおおおっ！？　な、なななっ、なんだ今の叫び声はっ！？",
+      "zh": "——嗯哦哦哦！！？ 什、什么呀刚才的叫声！？"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "a82d68a",
+      "speaker": "ティル",
+      "ja": "あはははっ♥　ドラぴ元気良過ぎっ♥",
+      "zh": "啊哈哈哈♥ 多拉皮精神过头了吧♥"
+    },
+    {
+      "key": "38.3",
+      "line_index": 38,
+      "inline_index": 3,
+      "line_hash": "a82d68a",
+      "speaker": "ティル",
+      "ja": "テンション高すぎっ♥　何か良いことあったん？♥",
+      "zh": "情绪也太高了吧♥ 有什么好事发生吗？♥"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "2f81a8ac",
+      "speaker": "ドラゴン",
+      "ja": "グアアーーッ！",
+      "zh": "咕啊啊——！"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "751be8b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ドラゴン！？　なっ、なんでそんなものがいるんだよっ！？",
+      "zh": "——龙！？ 为、为什么会有那种东西在啊！？"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "ae513bc8",
+      "speaker": "ティル",
+      "ja": "あ、キカイっちじゃん♪　なんでそんな驚いてんの？",
+      "zh": "啊，小奇凯♪ 你干嘛这么惊讶？"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "5daa356a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ティル！？　うあっ！？　ど、どこ座って……！　は、早く離れろ！　危ないぞ！！",
+      "zh": "蒂尔！？ 呜哇！？ 坐、坐在哪里……！ 快、快离开！ 危险啊！！"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "ae3358c8",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ！",
+      "zh": "咕啊——！"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "9575f09d",
+      "speaker": "{G_PlayerName}",
+      "ja": "やややややめろぉぉぉっ！　お、俺を食っても美味くないぞ！　あっちいけぇえっ！！",
+      "zh": "住、住手啊啊啊！ 吃、吃我可不好吃啊！ 到那边去！！"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "fbdd2f62",
+      "speaker": "ティル",
+      "ja": "キカイっちさっきから何言ってんの？　ドラぴがキカイっち食べるわけないじゃん♥",
+      "zh": "小奇凯你从刚才开始说什么呢？ 多拉皮怎么可能吃小奇凯嘛♥"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "da8987fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラ……ぴ……？",
+      "zh": "多拉……皮……？"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "ac90603f",
+      "speaker": "ティル",
+      "ja": "あれ？　キカイっちってドラぴ見るの初めて？",
+      "zh": "咦？ 小奇凯你是第一次见到多拉皮吗？"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "8a6ccaba",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、初めて……だけど……というか、ティルはなんか平気そうだな……",
+      "zh": "啊、嗯，是第一次……不过……话说回来，蒂尔你倒是很镇定啊……"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "e5f7341e",
+      "speaker": "ティル",
+      "ja": "そりゃ小っちゃい頃から一緒に暮らしている仲だし。ね、ドラぴっ？",
+      "zh": "那是当然啦，我们是从小一起长大的伙伴嘛。对吧，多拉皮？"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "2b760fac",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ！　グオオオッ！",
+      "zh": "咕啊——！ 咕哦哦哦！"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "89c2cd35",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、なのか……？　危険はないのか……？",
+      "zh": "是、这样吗……？ 没有危险吗……？"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "ef7a8f13",
+      "speaker": "ティル",
+      "ja": "あるわけないって♪",
+      "zh": "怎么可能会有嘛♪"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "6b8ae4",
+      "speaker": "{G_PlayerName}",
+      "ja": "だったらいいんだけど……",
+      "zh": "那就好……可是……"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "e7b85f8e",
+      "speaker": "ティル",
+      "ja": "ほら、キカイっちもこっち来て座りなよ",
+      "zh": "来，小奇凯也过来坐下吧"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "76bfc835",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、座れって……ティルの座っている場所、",
+      "zh": "让、让我坐下……蒂尔坐的地方，"
+    },
+    {
+      "key": "97.2",
+      "line_index": 97,
+      "inline_index": 2,
+      "line_hash": "76bfc835",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴンの尻尾なんだけど……だいじょうぶなのか……？",
+      "zh": "是龙的尾巴啊……不要紧吗……？"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "53a0cd80",
+      "speaker": "ティル",
+      "ja": "へーきだって♪　ほらほら、早くこっちおいで♪",
+      "zh": "没关系的啦♪ 来来，快过来呀♪"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "adfecec9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……それなら……し、失礼しま～す……",
+      "zh": "啊、嗯……那就……失、失礼了……"
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "6e59b19",
+      "speaker": "ティル",
+      "ja": "あははははっ♪　なんでそんなビクビクしてんの♪　おもしろっ♥　あはははははっ",
+      "zh": "啊哈哈哈哈哈♪ 干嘛那么瑟瑟发抖啊♪ 真有趣♥ 啊哈哈哈哈哈"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "1b63852",
+      "speaker": "{G_PlayerName}",
+      "ja": "だってほら……ドラゴン、だしなぁ……うわっ？",
+      "zh": "因为你看……这可是龙啊……哇啊！？"
+    },
+    {
+      "key": "111.2",
+      "line_index": 111,
+      "inline_index": 2,
+      "line_hash": "1b63852",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴンの尻尾って思っている以上に硬いんだな",
+      "zh": "龙的尾巴比想象中还要硬啊"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "688938d",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙船の装甲並みに硬いかも",
+      "zh": "说不定跟宇宙飞船的装甲一样硬"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2d8ad3bb",
+      "speaker": "ティル",
+      "ja": "この硬さがイイ感じに椅子になるんだよね～♪",
+      "zh": "这种硬度坐起来很舒服的，正好当椅子呢～♪"
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "d2ae8569",
+      "speaker": "ティル",
+      "ja": "ていうかキカイっちってドラぴ見るの初めてなのに、",
+      "zh": "话说小奇凯你是第一次见到多拉皮，"
+    },
+    {
+      "key": "122.3",
+      "line_index": 122,
+      "inline_index": 3,
+      "line_hash": "d2ae8569",
+      "speaker": "ティル",
+      "ja": "なんでそんなにおっかなびっくりしてんの？",
+      "zh": "为什么那么战战兢兢的啊？"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "8f0e71e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、俺の星じゃドラゴンとかほぼ伝説のような生き物だし、",
+      "zh": "啊、嗯，在我星球上龙几乎像传说生物一样，"
+    },
+    {
+      "key": "125.2",
+      "line_index": 125,
+      "inline_index": 2,
+      "line_hash": "8f0e71e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "話によればすげー狂暴で一緒に暮らしたなんて話も皆無だからなぁ～……",
+      "zh": "而且传说里是非常狂暴的，根本没人会一起生活啊～……"
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "ea1e9aa0",
+      "speaker": "ティル",
+      "ja": "ふーん、そうなんだ？　そんじゃ仲良くしているあーしって結構すごかったりする？",
+      "zh": "嗯——，是这样啊？ 那跟龙关系这么好的我，岂不是挺厉害的？"
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "4af03f65",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃすごいだろうな……俺の星の人間が見たら、",
+      "zh": "那当然很厉害啊……要是我星球的人看到了，"
+    },
+    {
+      "key": "132.2",
+      "line_index": 132,
+      "inline_index": 2,
+      "line_hash": "4af03f65",
+      "speaker": "{G_PlayerName}",
+      "ja": "ティルをドラゴンを手なずける神様か何かに勘違いするかも",
+      "zh": "说不定会把蒂尔当成什么驯服了龙的神明大人来崇拜呢"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "34065e99",
+      "speaker": "ティル",
+      "ja": "あはははっ♪　何それっ♪",
+      "zh": "啊哈哈哈♪ 什么嘛♪"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "794aa86",
+      "speaker": "ティル",
+      "ja": "でも案外こっちのドラぴと、キカイっちの星のドラぴって仲良くなれるかもしれないよ？",
+      "zh": "不过说不定这边的多拉皮，和小奇凯星球上的龙也能成为好朋友呢？"
+    },
+    {
+      "key": "139.3",
+      "line_index": 139,
+      "inline_index": 3,
+      "line_hash": "794aa86",
+      "speaker": "ティル",
+      "ja": "同じドラぴ同士だしさ、ね？",
+      "zh": "都是龙嘛，对吧？"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "ae3358c8",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ！",
+      "zh": "咕啊——！"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "24312748",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、どうなんだろう……。人間同士でも星が違えば色々あるしなぁ～……",
+      "zh": "嗯——，会怎么样呢……。就算是人类之间，不同星球也有各种不同啊～……"
+    },
+    {
+      "key": "144.2",
+      "line_index": 144,
+      "inline_index": 2,
+      "line_hash": "24312748",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴン同士だと果たしてどうなることやら……",
+      "zh": "龙和龙之间究竟会怎么样呢……"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "1ce6b983",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば小さい頃から一緒だって言ってたよな？",
+      "zh": "说起来，你说过从小就一起对吧？"
+    },
+    {
+      "key": "148.2",
+      "line_index": 148,
+      "inline_index": 2,
+      "line_hash": "1ce6b983",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでドラゴンと一緒に暮らすことになったんだ？",
+      "zh": "为什么会和龙一起生活呢？"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "7f6b9888",
+      "speaker": "ティル",
+      "ja": "あーしがドラぴの卵を拾ったのがきっかけかな",
+      "zh": "大概是因为我捡到了多拉皮的蛋吧"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "7a7003ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "拾う！？　そんな簡単に拾えるものなのかっ？　ドラゴンだし、卵も大きそうだけど",
+      "zh": "捡到的！？ 那种东西能这么容易捡到吗！？ 而且龙蛋应该很大吧"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "c7bdbed0",
+      "speaker": "ティル",
+      "ja": "おっきかったね～♪　だからゴロゴロ転がして家に持って帰ったんだよっ",
+      "zh": "可大了呢～♪ 所以就咕噜咕噜滚着带回家啦"
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "b8dd8f7",
+      "speaker": "ティル",
+      "ja": "そしたら両親がすんごいビックリしてさぁ～♪",
+      "zh": "结果我爸妈吓了一大跳呢～♪"
+    },
+    {
+      "key": "162.3",
+      "line_index": 162,
+      "inline_index": 3,
+      "line_hash": "b8dd8f7",
+      "speaker": "ティル",
+      "ja": "でもまぁ母ドラぴはどこ行ったかわかんないし、",
+      "zh": "不过母龙也不知道去哪儿了，"
+    },
+    {
+      "key": "162.5",
+      "line_index": 162,
+      "inline_index": 5,
+      "line_hash": "b8dd8f7",
+      "speaker": "ティル",
+      "ja": "捨てるのも忍びないって家で育てることにしたんだよね",
+      "zh": "舍不得扔掉，最后决定就在家里养了"
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "2ade0003",
+      "speaker": "ティル",
+      "ja": "で、色々あったけど、今も一緒に暮らしているってわけ",
+      "zh": "虽然发生了很多事，但现在还是生活在一起啦"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "cf804cb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほどな……",
+      "zh": "原来如此……"
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "225e48c3",
+      "speaker": "ティル",
+      "ja": "ドラぴのこともっと知りたきゃ色々教えるよ？",
+      "zh": "如果你想知道多拉皮的事情，我可以告诉你很多哦？"
+    },
+    {
+      "key": "172.3",
+      "line_index": 172,
+      "inline_index": 3,
+      "line_hash": "225e48c3",
+      "speaker": "ティル",
+      "ja": "さぁさぁ遠慮なく聞きたまえ♪　あははっ♪",
+      "zh": "来来，别客气尽管问♪ 啊哈哈♪"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "d47910b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……危険が無ければ特に聞きたいこともなぁ……",
+      "zh": "嗯……只要没危险，倒也没什么特别想问的……"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "6dcac938",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだ、ティルのことを教えてくれよ",
+      "zh": "啊，对了，跟我说说你的事情吧"
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "28f6819e",
+      "speaker": "ティル",
+      "ja": "──へ？　あーしっ！？",
+      "zh": "——呃？ 我吗！？"
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "d668dce3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、せっかくの機会だしな",
+      "zh": "啊，难得的机会嘛"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "1a8416cd",
+      "speaker": "ティル",
+      "ja": "あ、あーしの話なんて特に面白くもないよっ？",
+      "zh": "啊、我的事没什么好有趣的啦！？"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "a453b64d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ずいぶんと焦っているな……この質問は想定していなかったのか）",
+      "zh": "（相当慌张啊……这个问题是没料到的吗）"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "615c9fb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもティルと仲良くなれるチャンスだ、色々聞いてみよう）",
+      "zh": "（不过这是和蒂尔变熟的机会，就多问问吧）"
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "2db3c7f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、ティルって好き嫌いとかある？　一番の好物は？",
+      "zh": "那，蒂尔你有什么喜欢讨厌的吗？最爱吃的是什么？"
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "f4ec6862",
+      "speaker": "ティル",
+      "ja": "あー……うん、その……嫌いなものは特に……ドラぴが捕ってきたイノシシ肉が好物……",
+      "zh": "啊……嗯，那个……讨厌的东西倒是没有特别……最喜欢多拉皮抓回来的野猪肉……"
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "edd4c72",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……新鮮なイノシシ肉、美味そうだな",
+      "zh": "原来如此……新鲜的野猪肉，听起来很好吃啊"
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "4a8bd5b0",
+      "speaker": "ティル",
+      "ja": "う、うん……いくらでも食べられちゃんだよね",
+      "zh": "嗯、嗯……再多也吃得下呢"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "ab8d278c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そういえばティルの趣味も知らないな。教えてくれないか？",
+      "zh": "啊，说起来我也不知道蒂尔的爱好。能告诉我吗？"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "89778bca",
+      "speaker": "ティル",
+      "ja": "趣味……？　あー……木の実でネイルを塗る、かな……",
+      "zh": "爱好……？ 啊——……用树果涂指甲，吧……"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "c1e20c5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのネイルって木の実からなのか……綺麗な色しているよな",
+      "zh": "那个指甲是用树果做的吗……颜色很漂亮啊"
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "4a1f63ac",
+      "speaker": "ティル",
+      "ja": "う、うん……この色結構お気に入り……うう、そ、そんなジロジロ見るなって……！",
+      "zh": "嗯、嗯……这个颜色我蛮喜欢的……唔，别、别那么直盯着看啦……！"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "871f1a32",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うわ……！　照れるティル、かなり可愛くないか……？",
+      "zh": "（哇……！ 害羞的蒂尔，相当可爱不是吗……？）"
+    },
+    {
+      "key": "229.2",
+      "line_index": 229,
+      "inline_index": 2,
+      "line_hash": "871f1a32",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは思わぬ副産物だ……もっと色々聞いてみよう）",
+      "zh": "这是意外的收获啊……再多问些吧）"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "3f031be",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとさ──",
+      "zh": "还有啊——"
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "8aaab7de",
+      "speaker": "ティル",
+      "ja": "──うう！　も、もう質問は終わり！",
+      "zh": "——唔！ 问、问题到此为止！"
+    },
+    {
+      "key": "237.3",
+      "line_index": 237,
+      "inline_index": 3,
+      "line_hash": "8aaab7de",
+      "speaker": "ティル",
+      "ja": "そ、そういえばあーし用事があるんだった！　もう行かなきゃ！",
+      "zh": "对、对了，我还有事！ 得走了！"
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "f81ab9cb",
+      "speaker": "ティル",
+      "ja": "じゃ、じゃあねっ！　バイバイっ！",
+      "zh": "那、那再见啦！ 拜拜！"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "bd1c930e",
+      "speaker": "{G_PlayerName}",
+      "ja": "行っちまった……。ドラゴンを置いていくとか……",
+      "zh": "走了……。把龙丢在这里……"
+    },
+    {
+      "key": "248.2",
+      "line_index": 248,
+      "inline_index": 2,
+      "line_hash": "bd1c930e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴンの話は慣れていても、自分のことを言うのは慣れていないのかな",
+      "zh": "虽然对龙的话题很习惯，但说自己的事还不习惯吧"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "d5fc8d49",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうなんだろ？　ドラゴンさん",
+      "zh": "怎么样呢？ 龙先生"
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "121904de",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ？",
+      "zh": "咕啊——！？"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "94430065",
+      "speaker": "{G_PlayerName}",
+      "ja": "この続きは次の機会に……だな",
+      "zh": "后续就等下次机会……吧"
+    }
+  ]
+}

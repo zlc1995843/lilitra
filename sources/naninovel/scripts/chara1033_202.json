@@ -1,0 +1,1624 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "26fdf8ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここに伝説の霊薬が……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "5ab06eb5",
+      "speaker": "ミキュナ",
+      "ja": "うん……！　今度こそ霊薬を手に入れたいです……！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "2fd4b593",
+      "speaker": "",
+      "ja": "ミキュナに頼まれ、伝説の霊薬がある洞窟にやってきた。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "d36c5baf",
+      "speaker": "",
+      "ja": "前回一人で来た時は探索に失敗して",
+      "zh": ""
+    },
+    {
+      "key": "24.2",
+      "line_index": 24,
+      "inline_index": 2,
+      "line_hash": "d36c5baf",
+      "speaker": "",
+      "ja": "引き返す事になったと言っていたが、その原因は話してくれなかった。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "24d4de65",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも何て言うか……雰囲気があるな……。",
+      "zh": ""
+    },
+    {
+      "key": "27.2",
+      "line_index": 27,
+      "inline_index": 2,
+      "line_hash": "24d4de65",
+      "speaker": "{G_PlayerName}",
+      "ja": "前回来た時はここに一人で入ったの？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7c7931ee",
+      "speaker": "ミキュナ",
+      "ja": "そうですよ。",
+      "zh": ""
+    },
+    {
+      "key": "32.2",
+      "line_index": 32,
+      "inline_index": 2,
+      "line_hash": "7c7931ee",
+      "speaker": "ミキュナ",
+      "ja": "ちょっと怖かったですけど、霊薬がどうしても欲しくて……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "8f34ce15",
+      "speaker": "{G_PlayerName}",
+      "ja": "勇気があるんだな、ミキュナは。",
+      "zh": ""
+    },
+    {
+      "key": "35.2",
+      "line_index": 35,
+      "inline_index": 2,
+      "line_hash": "8f34ce15",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、それじゃあ今度こそその霊薬を手に入れような",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "dce20384",
+      "speaker": "ミキュナ",
+      "ja": "うんっ！　お兄さんがいれば絶対に手に入れられるはずですっ！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "e041e5f6",
+      "speaker": "",
+      "ja": "洞窟に入ると、",
+      "zh": ""
+    },
+    {
+      "key": "45.2",
+      "line_index": 45,
+      "inline_index": 2,
+      "line_hash": "e041e5f6",
+      "speaker": "",
+      "ja": "岩が剥き出しのジメジメした薄暗い空間が目の前に広がる。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "1aec07a8",
+      "speaker": "",
+      "ja": "しかししばらく歩を進めると、",
+      "zh": ""
+    },
+    {
+      "key": "46.2",
+      "line_index": 46,
+      "inline_index": 2,
+      "line_hash": "1aec07a8",
+      "speaker": "",
+      "ja": "石造りの明らかに人工物である通路にたどり着く。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "4bf8f99b",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか雰囲気変わったな……洞窟って言うよりもダンジョンって感じ",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "67da8a6a",
+      "speaker": "ミキュナ",
+      "ja": "地図の通りです……！",
+      "zh": ""
+    },
+    {
+      "key": "54.2",
+      "line_index": 54,
+      "inline_index": 2,
+      "line_hash": "67da8a6a",
+      "speaker": "ミキュナ",
+      "ja": "このダンジョンを越えた先に霊薬があるはずですっ",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "4bb4e149",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　走ったら危ないって！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "d9447933",
+      "speaker": "",
+      "ja": "ミキュナは興奮を抑えられないのか、小走りにダンジョンを駆ける。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "4f49aab2",
+      "speaker": "ミキュナ",
+      "ja": "あれ～……？　地図だとこの先に道があるはずなのですけど……",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "36e03968",
+      "speaker": "{G_PlayerName}",
+      "ja": "行き止まりだな……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "587dcdd7",
+      "speaker": "",
+      "ja": "角を曲がると目の前に広がる一面の壁。",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "c287a179",
+      "speaker": "",
+      "ja": "道らしき道も見つからず二人で立ち尽くす。",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "29841a9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "道間違えたってことはない……？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "fe5eb0cb",
+      "speaker": "ミキュナ",
+      "ja": "うーん……間違えてはいないと思いますけど……",
+      "zh": ""
+    },
+    {
+      "key": "79.3",
+      "line_index": 79,
+      "inline_index": 3,
+      "line_hash": "fe5eb0cb",
+      "speaker": "ミキュナ",
+      "ja": "きゃうっ！？",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "367d4fa7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、危ないっ！！",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "737f77ff",
+      "speaker": "",
+      "ja": "ミキュナは石に躓き、身を守る様に壁に手をつく。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "4467e54",
+      "speaker": "",
+      "ja": "すると壁がガラガラと音を立て穴が開いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "e30bc75c",
+      "speaker": "ミキュナ",
+      "ja": "はうううっ！　み、道ありました……！！",
+      "zh": ""
+    },
+    {
+      "key": "90.2",
+      "line_index": 90,
+      "inline_index": 2,
+      "line_hash": "e30bc75c",
+      "speaker": "ミキュナ",
+      "ja": "この先に道がありますっ！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "d59b5d3c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう、か……ところで大丈夫？　頭とかぶつけなかった？",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "9129e9b3",
+      "speaker": "ミキュナ",
+      "ja": "大丈夫ですっ、特にどこかにぶつけては……",
+      "zh": ""
+    },
+    {
+      "key": "98.4",
+      "line_index": 98,
+      "inline_index": 4,
+      "line_hash": "9129e9b3",
+      "speaker": "ミキュナ",
+      "ja": "あ、あれ……？か、身体がすっぽりハマって……",
+      "zh": ""
+    },
+    {
+      "key": "98.6",
+      "line_index": 98,
+      "inline_index": 6,
+      "line_hash": "9129e9b3",
+      "speaker": "ミキュナ",
+      "ja": "う、動けないですぅ……！",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "8657672c",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　マジ！？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "16f0c3bf",
+      "speaker": "ミキュナ",
+      "ja": "ま、まじ、ですぅ……！　ううう、腰引っ掛かって……あうっ！",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "5533d5c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "待ってて、すぐにどうにかするから……！！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "c4e0ac19",
+      "speaker": "",
+      "ja": "慌ててミキュナの周りの壁を叩いてみるが、",
+      "zh": ""
+    },
+    {
+      "key": "113.2",
+      "line_index": 113,
+      "inline_index": 2,
+      "line_hash": "c4e0ac19",
+      "speaker": "",
+      "ja": "とてもじゃないが素手で壊れそうにない。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "5e4f8382",
+      "speaker": "",
+      "ja": "たまたまミキュナが押したところだけが",
+      "zh": ""
+    },
+    {
+      "key": "115.2",
+      "line_index": 115,
+      "inline_index": 2,
+      "line_hash": "5e4f8382",
+      "speaker": "",
+      "ja": "脆くなってしまっていたみたいだ。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "5e31af1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと待っててくれ、何か壁壊せるもの探してくるから",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "902bb267",
+      "speaker": "ミキュナ",
+      "ja": "は、はい～……お手間お掛けしますぅ～……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "372a4f16",
+      "speaker": "",
+      "ja": "そうミキュナに伝えたものの、",
+      "zh": ""
+    },
+    {
+      "key": "124.2",
+      "line_index": 124,
+      "inline_index": 2,
+      "line_hash": "372a4f16",
+      "speaker": "",
+      "ja": "俺の視線はある一点に注がれてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "41e417f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（カワイイお尻だな……",
+      "zh": ""
+    },
+    {
+      "key": "127.2",
+      "line_index": 127,
+      "inline_index": 2,
+      "line_hash": "41e417f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "小ぶりだけど丸みがあって肉付きが良くて……）",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "6a4146dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（い、いかんいかん……！",
+      "zh": ""
+    },
+    {
+      "key": "131.2",
+      "line_index": 131,
+      "inline_index": 2,
+      "line_hash": "6a4146dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺はこんな時にいったい何を考えているんだ……！）",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "b5503dd",
+      "speaker": "",
+      "ja": "ミキュナの壁尻の姿に胸がヘンに高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "de0d8fb8",
+      "speaker": "",
+      "ja": "少しくらいなら……",
+      "zh": ""
+    },
+    {
+      "key": "135.2",
+      "line_index": 135,
+      "inline_index": 2,
+      "line_hash": "de0d8fb8",
+      "speaker": "",
+      "ja": "そんな邪な願望がそっと目の前のお尻に手を伸ばしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "a7c3d635",
+      "speaker": "ミキュナ",
+      "ja": "──ひゃうっ！？　だ、誰……！？",
+      "zh": ""
+    },
+    {
+      "key": "138.2",
+      "line_index": 138,
+      "inline_index": 2,
+      "line_hash": "a7c3d635",
+      "speaker": "ミキュナ",
+      "ja": "ま、まさかこの前の触手さんっ！？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "6ef1f94c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（触手……？　触っているの俺だって気がついていない……？）",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "d45950dd",
+      "speaker": "ミキュナ",
+      "ja": "こんな時にダメですぅ……！　お兄さんが戻ってきちゃいますぅ……！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "9f933381",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もしかして前回探索に失敗したのって、その触手が原因……？",
+      "zh": ""
+    },
+    {
+      "key": "148.2",
+      "line_index": 148,
+      "inline_index": 2,
+      "line_hash": "9f933381",
+      "speaker": "{G_PlayerName}",
+      "ja": "触手に襲われて……そ、それなら言えないわけだよな……）",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "d9d1829b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもこれって……このまま続けても勘違いしてくれるんじゃ……。",
+      "zh": ""
+    },
+    {
+      "key": "152.2",
+      "line_index": 152,
+      "inline_index": 2,
+      "line_hash": "d9d1829b",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、ダメだダメだ……！　いったい何を考えているんだ俺は……！！）",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "908d6f51",
+      "speaker": "{G_PlayerName}",
+      "ja": "（すぐにミキュナを助け出さないと……そうしないと……）",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "20113ad8",
+      "speaker": "ミキュナ",
+      "ja": "──ひぎぃ！？　んあ、う、ううう……！！　だ、ダメぇ……！！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "96a4cc47",
+      "speaker": "",
+      "ja": "突然の挿入に驚きの声をあげるミキュナ。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "4761e12d",
+      "speaker": "",
+      "ja": "苦しそうな声をあげ、動けない身体で必死に逃れようともがく。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "e1737b41",
+      "speaker": "ミキュナ",
+      "ja": "うう……ダメ、ですぅ……お兄さんに見られちゃいますぅ……！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "33a743ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "（お、俺はなんてことを……！　動けない女の子に一方的に……！！）",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "1d695a8a",
+      "speaker": "",
+      "ja": "すぐに肉棒を抜かないと、そう思うものの、",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "cb8f6715",
+      "speaker": "",
+      "ja": "ミキュナの僅かに湿った狭い膣の心地良さに動けずにいた。",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "2237a2a5",
+      "speaker": "ミキュナ",
+      "ja": "どうしてこんなときに触手さんが……んぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "187.2",
+      "line_index": 187,
+      "inline_index": 2,
+      "line_hash": "2237a2a5",
+      "speaker": "ミキュナ",
+      "ja": "ぬ、抜いて……くださいぃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "187.4",
+      "line_index": 187,
+      "inline_index": 4,
+      "line_hash": "2237a2a5",
+      "speaker": "ミキュナ",
+      "ja": "もうあそこイジメないでくださいぃ～♥",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "91e32523",
+      "speaker": "",
+      "ja": "ミキュナの声に背徳感を覚え、ヘンに興奮が高ぶる。",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "1733c127",
+      "speaker": "",
+      "ja": "肉棒が狭い膣の中で何度も跳ねあがり、",
+      "zh": ""
+    },
+    {
+      "key": "190.2",
+      "line_index": 190,
+      "inline_index": 2,
+      "line_hash": "1733c127",
+      "speaker": "",
+      "ja": "ミキュナの小さなお尻がビクンと反応する。",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "8622e933",
+      "speaker": "ミキュナ",
+      "ja": "うう……わたし、初めてなのに……それなのにこんな形で……。",
+      "zh": ""
+    },
+    {
+      "key": "193.2",
+      "line_index": 193,
+      "inline_index": 2,
+      "line_hash": "8622e933",
+      "speaker": "ミキュナ",
+      "ja": "初めてはお兄さんにって決めていたのにぃ……あうっ♥",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "265497f4",
+      "speaker": "",
+      "ja": "ミキュナのそんな告白に俺の胸がさらに高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "c4d18378",
+      "speaker": "",
+      "ja": "そして興奮の任せるままに俺は腰を動かしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "288992b4",
+      "speaker": "ミキュナ",
+      "ja": "いや……いやですぅ♥　動かないでぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "204.2",
+      "line_index": 204,
+      "inline_index": 2,
+      "line_hash": "288992b4",
+      "speaker": "ミキュナ",
+      "ja": "わたしの初めて奪わないでぇ……あうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "d1444b2b",
+      "speaker": "",
+      "ja": "自分の初めてを触手に奪われたと勘違いしているミキュナ。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "eaa949c1",
+      "speaker": "",
+      "ja": "その声は悲しみに溢れていたが、",
+      "zh": ""
+    },
+    {
+      "key": "208.2",
+      "line_index": 208,
+      "inline_index": 2,
+      "line_hash": "eaa949c1",
+      "speaker": "",
+      "ja": "腰を動かすたびに徐々にではあるが、喘ぎ声が混じり始める。",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "58a1a05e",
+      "speaker": "ミキュナ",
+      "ja": "うう……そこ、ダメぇ……あう♥　ふあ、あ……あああ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "6fe53d77",
+      "speaker": "",
+      "ja": "狭い膣がきゅっと締まり、思わず声が出そうになる。",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "4d7a8039",
+      "speaker": "",
+      "ja": "無数のヒダが肉棒に絡みつき、",
+      "zh": ""
+    },
+    {
+      "key": "214.2",
+      "line_index": 214,
+      "inline_index": 2,
+      "line_hash": "4d7a8039",
+      "speaker": "",
+      "ja": "その気持ち良さに動きがどんどん大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "be16ca8d",
+      "speaker": "ミキュナ",
+      "ja": "ダメぇ……そんなに強くしないでぇ……んんぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "217.2",
+      "line_index": 217,
+      "inline_index": 2,
+      "line_hash": "be16ca8d",
+      "speaker": "ミキュナ",
+      "ja": "き、気持ち、良い……♥",
+      "zh": ""
+    },
+    {
+      "key": "217.4",
+      "line_index": 217,
+      "inline_index": 4,
+      "line_hash": "be16ca8d",
+      "speaker": "ミキュナ",
+      "ja": "触手さんの、なんでこんなに気持ち良いんですかぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "9d9cd8a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（触手にずいぶんと感じさせられたみたいだな……。",
+      "zh": ""
+    },
+    {
+      "key": "220.2",
+      "line_index": 220,
+      "inline_index": 2,
+      "line_hash": "9d9cd8a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんて羨ましい触手だ……",
+      "zh": ""
+    },
+    {
+      "key": "220.4",
+      "line_index": 220,
+      "inline_index": 4,
+      "line_hash": "9d9cd8a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも今ミキュナを感じさせているのは俺だ……）",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "daac999c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（すぐに触手のことなんて忘れさせてやる……。",
+      "zh": ""
+    },
+    {
+      "key": "224.2",
+      "line_index": 224,
+      "inline_index": 2,
+      "line_hash": "daac999c",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺のちんぽでそんな記憶上書きさせてやる……っ）",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "ee4605c6",
+      "speaker": "",
+      "ja": "触手に嫉妬感を覚え、さらに大きく大胆に腰を打ち付ける。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "12fa5c7d",
+      "speaker": "",
+      "ja": "ミキュナの小さなお尻がパンパンと叩かれ、",
+      "zh": ""
+    },
+    {
+      "key": "228.2",
+      "line_index": 228,
+      "inline_index": 2,
+      "line_hash": "12fa5c7d",
+      "speaker": "",
+      "ja": "その音がダンジョン内に反響する。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "b15b8a44",
+      "speaker": "ミキュナ",
+      "ja": "あああ……そんな激しいのダメですぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "231.2",
+      "line_index": 231,
+      "inline_index": 2,
+      "line_hash": "b15b8a44",
+      "speaker": "ミキュナ",
+      "ja": "ううっ！♥おまんこ感じちゃう……♥",
+      "zh": ""
+    },
+    {
+      "key": "231.4",
+      "line_index": 231,
+      "inline_index": 4,
+      "line_hash": "b15b8a44",
+      "speaker": "ミキュナ",
+      "ja": "エッチな音お兄さんに聞かれちゃいますぅ！♥",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "e1427a9",
+      "speaker": "",
+      "ja": "いくらでも聞かせてくれ、",
+      "zh": ""
+    },
+    {
+      "key": "233.2",
+      "line_index": 233,
+      "inline_index": 2,
+      "line_hash": "e1427a9",
+      "speaker": "",
+      "ja": "そんな思いでミキュナの真っ白なお尻を撫で回す。",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "883a8cf7",
+      "speaker": "ミキュナ",
+      "ja": "ひあぁっ！？♥　ああ、それダメっ！♥　ゾクゾクしちゃいますぅ！♥んあああ、やめ……これ以上続けられると……あ、あああぁ～っ！♥",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "b3b00a39",
+      "speaker": "ミキュナ",
+      "ja": "ダメ……ダメっ！♥　も、もうこれ以上は……ああああっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "239.2",
+      "line_index": 239,
+      "inline_index": 2,
+      "line_hash": "b3b00a39",
+      "speaker": "ミキュナ",
+      "ja": "おまんこイっちゃう……♥　触手さんにイかされちゃうぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "f8517d4d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ミキュナをイかせるのは触手じゃない……俺だ……！",
+      "zh": ""
+    },
+    {
+      "key": "242.2",
+      "line_index": 242,
+      "inline_index": 2,
+      "line_hash": "f8517d4d",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺のチンポでイクんだよミキュナ……！！）",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "a1dd74b8",
+      "speaker": "ミキュナ",
+      "ja": "はぐぅ！♥　奥ぅ！♥　これダメ……",
+      "zh": ""
+    },
+    {
+      "key": "246.2",
+      "line_index": 246,
+      "inline_index": 2,
+      "line_hash": "a1dd74b8",
+      "speaker": "ミキュナ",
+      "ja": "ああ、イっちゃう！♥　イっちゃう！♥",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "5dd040d3",
+      "speaker": "",
+      "ja": "奥まで捻じ込むほどに膣肉の締め付けが強くなる。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "d4ae9c00",
+      "speaker": "",
+      "ja": "肉棒から精液を搾り取ろうと蠢き、俺も限界を迎える。",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "f6d54d82",
+      "speaker": "ミキュナ",
+      "ja": "イク……イクぅ！♥　おまんこ、イっくぅぅ！♥",
+      "zh": ""
+    },
+    {
+      "key": "252.2",
+      "line_index": 252,
+      "inline_index": 2,
+      "line_hash": "f6d54d82",
+      "speaker": "ミキュナ",
+      "ja": "ふぅ、ふあぁぁっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "49243ac7",
+      "speaker": "ミキュナ",
+      "ja": "んあ゛っ！♥　ああぁ、ああああーーっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "859447c5",
+      "speaker": "",
+      "ja": "興奮に任せ、ミキュナの一番深いところでそのまま果てる。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "49866b5c",
+      "speaker": "",
+      "ja": "大量の精液が注ぎ込まれると、",
+      "zh": ""
+    },
+    {
+      "key": "263.2",
+      "line_index": 263,
+      "inline_index": 2,
+      "line_hash": "49866b5c",
+      "speaker": "",
+      "ja": "ミキュナの甘い悲鳴が洞窟内に響き渡る。",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "15a339f6",
+      "speaker": "ミキュナ",
+      "ja": "あ、ついぃ……ううう！♥　何か、出て……あああっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "266.2",
+      "line_index": 266,
+      "inline_index": 2,
+      "line_hash": "15a339f6",
+      "speaker": "ミキュナ",
+      "ja": "ダメ……イクのっ、止まらないですぅ……んぅ、ふぅぅぅぅっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "aa13312",
+      "speaker": "",
+      "ja": "甘く蕩けるような声を上げながら、",
+      "zh": ""
+    },
+    {
+      "key": "268.2",
+      "line_index": 268,
+      "inline_index": 2,
+      "line_hash": "aa13312",
+      "speaker": "",
+      "ja": "お尻をビクビクと跳ねらせ絶頂を繰り返すミキュナ。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "2dfc3607",
+      "speaker": "",
+      "ja": "その可愛らしい声にドキドキしてしまい、",
+      "zh": ""
+    },
+    {
+      "key": "270.2",
+      "line_index": 270,
+      "inline_index": 2,
+      "line_hash": "2dfc3607",
+      "speaker": "",
+      "ja": "さらにミキュナが欲しくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "2b339036",
+      "speaker": "ミキュナ",
+      "ja": "うぅ……♥　いっぱいイっちゃいましたぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "273.2",
+      "line_index": 273,
+      "inline_index": 2,
+      "line_hash": "2b339036",
+      "speaker": "ミキュナ",
+      "ja": "初めてなのに……何も見えないのにおまんこイっちゃいましたぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "8d8e37c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もっとイかせてあげるよ、ミキュナ……。",
+      "zh": ""
+    },
+    {
+      "key": "276.2",
+      "line_index": 276,
+      "inline_index": 2,
+      "line_hash": "8d8e37c",
+      "speaker": "{G_PlayerName}",
+      "ja": "もっと俺のチンポで喜んでくれ……気持ち良くなってくれ……っ！）",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "18c1473f",
+      "speaker": "ミキュナ",
+      "ja": "ひぐぅっ！♥　んあ、はぁぁっ！♥　んぅぅ！♥　んああぁぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "7cd360fc",
+      "speaker": "ミキュナ",
+      "ja": "らめぇ！♥　パンパンしないでぇ！♥",
+      "zh": ""
+    },
+    {
+      "key": "288.2",
+      "line_index": 288,
+      "inline_index": 2,
+      "line_hash": "7cd360fc",
+      "speaker": "ミキュナ",
+      "ja": "ああ、おまんこまた感じて……あうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "c0346bb4",
+      "speaker": "",
+      "ja": "再度ピストンをすると、精液と愛液が交わる下品な音を立てる。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "864f266a",
+      "speaker": "",
+      "ja": "とろとろの膣中で何度も肉棒を扱くと、",
+      "zh": ""
+    },
+    {
+      "key": "292.2",
+      "line_index": 292,
+      "inline_index": 2,
+      "line_hash": "864f266a",
+      "speaker": "",
+      "ja": "果てたばかりの肉棒が狭い膣内で再び硬くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "ab55615",
+      "speaker": "ミキュナ",
+      "ja": "ひ、ひぃっ！♥　中引っ掻かれて……これダメですぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "295.2",
+      "line_index": 295,
+      "inline_index": 2,
+      "line_hash": "ab55615",
+      "speaker": "ミキュナ",
+      "ja": "こ、こんなの続けられたら……ま、またおまんこイっちゃいますぅ！♥",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "9dc2e1c2",
+      "speaker": "",
+      "ja": "快感に思考を奪われ、",
+      "zh": ""
+    },
+    {
+      "key": "297.2",
+      "line_index": 297,
+      "inline_index": 2,
+      "line_hash": "9dc2e1c2",
+      "speaker": "",
+      "ja": "快楽とミキュナを絶頂させることだしか考えられなくなる。",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "5b1ef229",
+      "speaker": "",
+      "ja": "夢中に腰を押し付け、膣中を押し広げるように腰を回転させる。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "e4ccc3c4",
+      "speaker": "ミキュナ",
+      "ja": "はぁぁんっ♥　おまんこ感じるぅ♥　感じちゃうよぉ！♥",
+      "zh": ""
+    },
+    {
+      "key": "301.2",
+      "line_index": 301,
+      "inline_index": 2,
+      "line_hash": "e4ccc3c4",
+      "speaker": "ミキュナ",
+      "ja": "おまんこの奥きゅんきゅんするぅ♥　あああ、んあああぁぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "c4602202",
+      "speaker": "",
+      "ja": "だだでさえ気持ち良いミキュナの膣内、",
+      "zh": ""
+    },
+    {
+      "key": "303.2",
+      "line_index": 303,
+      "inline_index": 2,
+      "line_hash": "c4602202",
+      "speaker": "",
+      "ja": "その膣がさらに強く締め付け、再び限界が近づきつつある。",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "66f16dab",
+      "speaker": "",
+      "ja": "少しでもミキュナを感じさせたい、",
+      "zh": ""
+    },
+    {
+      "key": "305.2",
+      "line_index": 305,
+      "inline_index": 2,
+      "line_hash": "66f16dab",
+      "speaker": "",
+      "ja": "その一心でトロトロの膣奥を執拗に突き上げていく。",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "438bae12",
+      "speaker": "ミキュナ",
+      "ja": "あああああっ！♥　また……絶頂が……うあ、ああぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "308.2",
+      "line_index": 308,
+      "inline_index": 2,
+      "line_hash": "438bae12",
+      "speaker": "ミキュナ",
+      "ja": "イっちゃう……またおまんこイク……♥　イかされちゃうぅ～！♥",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "1ba1b67",
+      "speaker": "ミキュナ",
+      "ja": "あああ……！！♥♥　イクぅ……！！",
+      "zh": ""
+    },
+    {
+      "key": "311.2",
+      "line_index": 311,
+      "inline_index": 2,
+      "line_hash": "1ba1b67",
+      "speaker": "ミキュナ",
+      "ja": "ふ、ふあ、あああぁぁっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "94a86c81",
+      "speaker": "ミキュナ",
+      "ja": "ふぎぃぃい！！♥",
+      "zh": ""
+    },
+    {
+      "key": "322.2",
+      "line_index": 322,
+      "inline_index": 2,
+      "line_hash": "94a86c81",
+      "speaker": "ミキュナ",
+      "ja": "ああ、また熱いの……う、あ……んぅぅぅぅーっ！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "c3cfe64c",
+      "speaker": "ミキュナ",
+      "ja": "これ、ダメぇ……熱いの……気持ち良いぃ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "325.2",
+      "line_index": 325,
+      "inline_index": 2,
+      "line_hash": "c3cfe64c",
+      "speaker": "ミキュナ",
+      "ja": "おまんこ蕩けちゃいますぅ……はぁぁ、んはぁぁぁっ～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "2f27f04a",
+      "speaker": "",
+      "ja": "男の欲望の塊を何度もミキュナの膣奥にドクドクと吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "e878e2d1",
+      "speaker": "",
+      "ja": "熱い飛沫を無抵抗で受け止め、ミキュナは何度も絶頂を繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "8438f766",
+      "speaker": "ミキュナ",
+      "ja": "う、あ……♥　はぁ……はぁぁっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "cc2366ca",
+      "speaker": "",
+      "ja": "息を荒げぐったりとした声をあげるミキュナ。",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "af0d4578",
+      "speaker": "",
+      "ja": "その声に快感に支配されていた思考が我に返る。",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "22d3bb07",
+      "speaker": "{G_PlayerName}",
+      "ja": "み、ミキュナ……？　ご、ごめん、やり過ぎたかも……",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "faee86b8",
+      "speaker": "ミキュナ",
+      "ja": "──ぅえ？♥　そ、その声……お兄さん……？♥",
+      "zh": ""
+    },
+    {
+      "key": "341.2",
+      "line_index": 341,
+      "inline_index": 2,
+      "line_hash": "faee86b8",
+      "speaker": "ミキュナ",
+      "ja": "ど、どうして……そ、その……触手さんは……？♥",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "7996222d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……その、ミキュナとエッチしたの俺で……。",
+      "zh": ""
+    },
+    {
+      "key": "344.2",
+      "line_index": 344,
+      "inline_index": 2,
+      "line_hash": "7996222d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ミキュナのお尻を見ていたらムラムラして思わず……",
+      "zh": ""
+    },
+    {
+      "key": "344.4",
+      "line_index": 344,
+      "inline_index": 4,
+      "line_hash": "7996222d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほ、本当にごめん……！",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "a9efd40d",
+      "speaker": "ミキュナ",
+      "ja": "ううん、いいんです……わたし、ずっと不運だと思っていたんです。",
+      "zh": ""
+    },
+    {
+      "key": "355.2",
+      "line_index": 355,
+      "inline_index": 2,
+      "line_hash": "a9efd40d",
+      "speaker": "ミキュナ",
+      "ja": "さっきのだって触手さんに初めてを奪われてってそう思ってて……",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "fda9eb5f",
+      "speaker": "ミキュナ",
+      "ja": "でもわたしの初めての相手はお兄さんですごく嬉しいです……♥",
+      "zh": ""
+    },
+    {
+      "key": "358.2",
+      "line_index": 358,
+      "inline_index": 2,
+      "line_hash": "fda9eb5f",
+      "speaker": "ミキュナ",
+      "ja": "こんな形でしたけど、幸運だったかもしれません……♥",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "aa520703",
+      "speaker": "{G_PlayerName}",
+      "ja": "ミキュナ……",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "d2712a1b",
+      "speaker": "ミキュナ",
+      "ja": "でも……早く助けて欲しいです……動けないですぅ……",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "3b93dbb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ！　わかった！",
+      "zh": ""
+    },
+    {
+      "key": "368.2",
+      "line_index": 368,
+      "inline_index": 2,
+      "line_hash": "3b93dbb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "今度こそ何か壊せるもの探してくるから！だから待っていてくれ！！",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "12ac47e3",
+      "speaker": "",
+      "ja": "その後、ダンジョン内に落ちていたつるはしを使い、",
+      "zh": ""
+    },
+    {
+      "key": "373.2",
+      "line_index": 373,
+      "inline_index": 2,
+      "line_hash": "12ac47e3",
+      "speaker": "",
+      "ja": "どうにかミキュナを助け出せた。",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "a9be3f92",
+      "speaker": "",
+      "ja": "結局霊薬はすでに誰かが持って行ったのか、影も形も無かった。",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "8962b599",
+      "speaker": "",
+      "ja": "それでもお互い尊いものを手に入れられた……",
+      "zh": ""
+    },
+    {
+      "key": "377.2",
+      "line_index": 377,
+      "inline_index": 2,
+      "line_hash": "8962b599",
+      "speaker": "",
+      "ja": "そのことを確かめ合うように俺達は手を繋ぎダンジョンを後にした。",
+      "zh": ""
+    }
+  ]
+}

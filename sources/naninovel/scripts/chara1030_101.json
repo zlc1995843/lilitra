@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "aefc4ea",
+      "speaker": "ルルハ",
+      "ja": "──ハッ！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "2f41e2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……！　お見事……！　一発で鳥を仕留めた……！　すごいな……ルルハ",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "3c5e592e",
+      "speaker": "ルルハ",
+      "ja": "ふぅ……ふふっ♥　このくらいは慣れているからね～♥",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "ceb87665",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし本当に日常的に狩りをしていたんだな……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "6241326f",
+      "speaker": "ルルハ",
+      "ja": "きみってば最初全然あたしの話信じていなかったよね～",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "4e9a27cc",
+      "speaker": "ルルハ",
+      "ja": "そんなにあたしって狩りしなさそうに見えてたの？",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "71976ec9",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……正直な話、半信半疑だったよ。まぁその……恰好とかでそう見えていたかも……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "4095c07",
+      "speaker": "ルルハ",
+      "ja": "あっ♥　また胸見てる～♥",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "bb7ba057",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　つい視線が……！！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "a8a2c148",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもこんなにあっさりと獲物を仕留められるなんて、すごい腕前だよ",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "63a0eefc",
+      "speaker": "ルルハ",
+      "ja": "ふふっ♥　ありがと♥",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "11941a22",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうどのくらい狩りやってたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "f9e47b50",
+      "speaker": "ルルハ",
+      "ja": "んー……物心ついた時にはすでに弓を片手に狩りをしていたよ",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "37d812ef",
+      "speaker": "ルルハ",
+      "ja": "あたしの村じゃそれが日常だったし、",
+      "zh": ""
+    },
+    {
+      "key": "64.3",
+      "line_index": 64,
+      "inline_index": 3,
+      "line_hash": "37d812ef",
+      "speaker": "ルルハ",
+      "ja": "狩りに失敗したら最悪その日はご飯抜きになっちゃうからね",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "d26cc32",
+      "speaker": "ルルハ",
+      "ja": "だから自然と狩りが上手くなっていった……そんなところかな～",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "d010a150",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……生きるための術なんだな……。",
+      "zh": ""
+    },
+    {
+      "key": "70.2",
+      "line_index": 70,
+      "inline_index": 2,
+      "line_hash": "d010a150",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃ俺には一生掛かってもルルハのようにはなれそうにないな……",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "ecbd75b7",
+      "speaker": "ルルハ",
+      "ja": "でもきみはきみで機械いじりは誰よりも得意じゃない",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "cb7eca22",
+      "speaker": "ルルハ",
+      "ja": "一朝一夕で覚えられることじゃないよね？",
+      "zh": ""
+    },
+    {
+      "key": "77.3",
+      "line_index": 77,
+      "inline_index": 3,
+      "line_hash": "cb7eca22",
+      "speaker": "ルルハ",
+      "ja": "やっぱり子供の頃から機械いじりはしていたの？",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "6e7090cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、子供の頃から色々分解しては組み直したりとかしていたなぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "cf13dae2",
+      "speaker": "ルルハ",
+      "ja": "好きこそ物の上手なれってとこだねぇ～♪",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "b7d9498a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……で、仕留めた鳥はどうするんだ？　村に持って帰るの？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "25b98166",
+      "speaker": "ルルハ",
+      "ja": "んー……普段なら持って帰るけど、今仕留めた鳥はすぐに食べた方が美味しいのよね",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "bfbe8c51",
+      "speaker": "ルルハ",
+      "ja": "どう？　一緒に食べない？",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "80d5d1ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいのか？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "c61303b3",
+      "speaker": "ルルハ",
+      "ja": "もちろんよ♪　じゃあすぐに捌くから少し待っててね",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "de32ab20",
+      "speaker": "{G_PlayerName}",
+      "ja": "（手慣れているな……狩りだけじゃなくて、鳥を捌くのも日常的にしていたんだな）",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "2a21a2f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　もしかして火とか必要だったりする？",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "3dae3fd4",
+      "speaker": "ルルハ",
+      "ja": "ええ、串焼きにしようと思っていたから",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "3d96cb77",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも料理するっていっても道具とか全然無いけど、どうするんだ？",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2489c2e8",
+      "speaker": "ルルハ",
+      "ja": "枝を串代わりにして、塩で軽く味付けして焚火で焼けばだいじょうぶ♥",
+      "zh": ""
+    },
+    {
+      "key": "119.3",
+      "line_index": 119,
+      "inline_index": 3,
+      "line_hash": "2489c2e8",
+      "speaker": "ルルハ",
+      "ja": "この鳥はそれが一番美味しいんだから",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "7a721224",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった、それじゃその辺で木集めてくる",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "a91682ca",
+      "speaker": "ルルハ",
+      "ja": "よろしくね～♪",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "8c851438",
+      "speaker": "{G_PlayerName}",
+      "ja": "こういうのは乾いている木の方がいいよな……お、結構落ちているじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "ab6a61b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "拾えるだけ拾って行こう、多いに越したことはないと思うし",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "dcc98317",
+      "speaker": "ルルハ",
+      "ja": "おお、結構拾ってきたんだね♪",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "8912459d",
+      "speaker": "{G_PlayerName}",
+      "ja": "多い方がいいかなって思ってさ。",
+      "zh": ""
+    },
+    {
+      "key": "148.2",
+      "line_index": 148,
+      "inline_index": 2,
+      "line_hash": "8912459d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルルハもう鳥捌き終わったのか……ずいぶんと手慣れているんだな",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "dde8737",
+      "speaker": "ルルハ",
+      "ja": "こっちもこっちで狩り同様にずっとしていたからね～",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "f2df95ea",
+      "speaker": "ルルハ",
+      "ja": "それじゃあ火つけてもらえる？　すぐに焼くからさ",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "3aadab4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "19291f2b",
+      "speaker": "ルルハ",
+      "ja": "森の中で焚火……こういうのずいぶんと久しぶりかも……",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "89cdb347",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょっちゅう森の中で何かしているわけでもないのか",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "7852b98a",
+      "speaker": "ルルハ",
+      "ja": "ええ、狩りが終わったらすぐに村に戻る生活だったからねぇ～",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "9bdee745",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そ、それにしても焼き方が思っていたのと違ってずいぶんと豪快だな……）",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "941635e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（火の横でジリジリ焼くのかと思っていたら、",
+      "zh": ""
+    },
+    {
+      "key": "176.2",
+      "line_index": 176,
+      "inline_index": 2,
+      "line_hash": "941635e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "火の上でぐるんぐるん回しながら焼くとは……というか熱くないのか……）",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "ef5a1907",
+      "speaker": "ルルハ",
+      "ja": "よし、こんなものかなっ♪",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "1a582dc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　もう？　なんか表面しか焼いていないように見えたんだけど",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "2f56903",
+      "speaker": "ルルハ",
+      "ja": "でも中までちゃんと熱は通っているから。",
+      "zh": ""
+    },
+    {
+      "key": "187.3",
+      "line_index": 187,
+      "inline_index": 3,
+      "line_hash": "2f56903",
+      "speaker": "ルルハ",
+      "ja": "それにあまり火を入れすぎるとパサパサになっちゃからね",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "8138d2ac",
+      "speaker": "ルルハ",
+      "ja": "さぁ召し上がれ♪",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "5bb28a9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお、わかった……それじゃあいただきますっ",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "2946ad5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（生っぽい気がするが……ルルハが言うんだしだいじょうぶだろう）",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "93b09e4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あむ……ん？　おお……！　美味いな……！",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "4ea7c3c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "表面はパリっとして、中に絶妙に火が通って……",
+      "zh": ""
+    },
+    {
+      "key": "205.2",
+      "line_index": 205,
+      "inline_index": 2,
+      "line_hash": "4ea7c3c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "塩でしか味付けしていないのに、なんていうか味に深みがある……",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "a9ae79c8",
+      "speaker": "ルルハ",
+      "ja": "ふふっ♪　この鳥は新鮮な状態だと味が濃いんだよね♪",
+      "zh": ""
+    },
+    {
+      "key": "209.3",
+      "line_index": 209,
+      "inline_index": 3,
+      "line_hash": "a9ae79c8",
+      "speaker": "ルルハ",
+      "ja": "鮮度とともに味の濃さも落ちちゃうの",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "c7dcfe1d",
+      "speaker": "ルルハ",
+      "ja": "だからその場で捌いてすぐに食べるのが一番♪",
+      "zh": ""
+    },
+    {
+      "key": "212.3",
+      "line_index": 212,
+      "inline_index": 3,
+      "line_hash": "c7dcfe1d",
+      "speaker": "ルルハ",
+      "ja": "あ～……やっぱり何度食べても美味しい♪　あむあむあむっ♪",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "aabb6212",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー！　食った食った！　結構量があったな！　ごちそうさまでした",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "4a39c38e",
+      "speaker": "ルルハ",
+      "ja": "お粗末さまでした♪",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "f3d56ecf",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても美味かったなぁ～……ルルハの絶妙な焼き加減が最高だったよ",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "63a0eefc",
+      "speaker": "ルルハ",
+      "ja": "ふふっ♥　ありがと♥",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "3eba8d7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "こういうの毎日食えたら幸せだろうなぁ～……そのくらい美味かったよ",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "db21ae22",
+      "speaker": "ルルハ",
+      "ja": "毎日食べたいの？　だったら簡単な方法があるよ？",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "665bff91",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　マジ？　どんな方法が？",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "5d004810",
+      "speaker": "ルルハ",
+      "ja": "それはあたしをお嫁さんにすること♥　ね？　簡単な方法でしょ？♥",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "e0c7246a",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うぇっ！？　た、確かに簡単だけど……で、でもそういうのは……！",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "82c1d32f",
+      "speaker": "ルルハ",
+      "ja": "ふふふっ♥　きみの顔、焚火の火より真っ赤♥　動揺しすぎだって♥",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "d7a1a0f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルルハにそんなこと言われたら誰だって動揺してしまうって……！",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "5aeff532",
+      "speaker": "ルルハ",
+      "ja": "ま、その話は追々、ね？",
+      "zh": ""
+    },
+    {
+      "key": "262.3",
+      "line_index": 262,
+      "inline_index": 3,
+      "line_hash": "5aeff532",
+      "speaker": "ルルハ",
+      "ja": "それじゃあ火の始末をしちゃいましょ。火事にするわけにはいかないからね",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "48cde5fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そうだな。火の始末は大事だな……！",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "42704a0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今の話……どこまで本気だったんだろう……？",
+      "zh": ""
+    },
+    {
+      "key": "269.2",
+      "line_index": 269,
+      "inline_index": 2,
+      "line_hash": "42704a0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう……胸のドキドキが止まらない……！　静まれ！　静まれぇ……！）",
+      "zh": ""
+    }
+  ]
+}

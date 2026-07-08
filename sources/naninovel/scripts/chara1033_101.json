@@ -1,0 +1,616 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "a6a4302",
+      "speaker": "教師",
+      "ja": "それでは……この材料の性質について……ミキュナさん、説明して下さい。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "186a8ea0",
+      "speaker": "ミキュナ",
+      "ja": "は、はい！　え、え～っと……この材料の……せ、性質は……ですね……。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "77a716f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ～……ミキュナ、すごくあがっちゃってるな。",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "3391b0a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "声が震えちゃってるし、上手く喋れていないし、大丈夫かな。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "6f431b89",
+      "speaker": "ミキュナ",
+      "ja": "え～っとですね……こ、この材料が採れるのは……湿地帯などで……。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "fff69429",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい……素材の性質を聞かれているのに産出場所に答えが変わってるよ。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "f2dcc64a",
+      "speaker": "ミキュナ",
+      "ja": "そしてこの材料が入手できない場合は……",
+      "zh": ""
+    },
+    {
+      "key": "39.3",
+      "line_index": 39,
+      "inline_index": 3,
+      "line_hash": "f2dcc64a",
+      "speaker": "ミキュナ",
+      "ja": "べ、別の材料で代替えすることができまして……その素材というのが……。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "de8fe03",
+      "speaker": "{G_PlayerName}",
+      "ja": "だめだ……聞かれたことと別のことを話してしまっている……。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "2de2e446",
+      "speaker": "教師",
+      "ja": "ミキュナさん、私が質問したのは素材の性質に関してですよ。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "9d45ddcc",
+      "speaker": "ミキュナ",
+      "ja": "あわわ……す、すみません……素材の性質ですよね……え、えっと……。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "4c557df6",
+      "speaker": "教師",
+      "ja": "もう結構です、それでは次の人……。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "d6543150",
+      "speaker": "ミキュナ",
+      "ja": "はうう～……ぐっすん……。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "bdb8360b",
+      "speaker": "ミキュナ",
+      "ja": "うううう……失敗してしまいました……。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "bdb33e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ミキュナ……大丈夫かい？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "f3c59b60",
+      "speaker": "ミキュナ",
+      "ja": "ほえぇ～？　なんでお兄さんがこんなところにいるのですか？！　生徒でもないのに？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "395f861",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、見学してもいいかって聞いたらＯＫ貰ったんで、",
+      "zh": ""
+    },
+    {
+      "key": "75.2",
+      "line_index": 75,
+      "inline_index": 2,
+      "line_hash": "395f861",
+      "speaker": "{G_PlayerName}",
+      "ja": "丁度ミキュナの授業を見学することになったんだよ。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "a6b9eb18",
+      "speaker": "ミキュナ",
+      "ja": "あわわっ！　お、お恥ずかしい姿をお目にかけてしまって……",
+      "zh": ""
+    },
+    {
+      "key": "79.3",
+      "line_index": 79,
+      "inline_index": 3,
+      "line_hash": "a6b9eb18",
+      "speaker": "ミキュナ",
+      "ja": "ああ、穴があったら入りたいです……。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "721e0f58",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに落ち込まないで……失敗は誰にでもあることだよ。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "e51a915e",
+      "speaker": "ミキュナ",
+      "ja": "それはそうかもしれませんが……",
+      "zh": ""
+    },
+    {
+      "key": "86.3",
+      "line_index": 86,
+      "inline_index": 3,
+      "line_hash": "e51a915e",
+      "speaker": "ミキュナ",
+      "ja": "あんな失態をお兄さんに見られてしまうなんて……。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "98509a99",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても、博学なミキュナがあんな状態になってしまうなんて、調子悪いのかい？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "c53aad77",
+      "speaker": "ミキュナ",
+      "ja": "そうではなくて、知識があっても急に当てられると焦ってしまって、",
+      "zh": ""
+    },
+    {
+      "key": "93.3",
+      "line_index": 93,
+      "inline_index": 3,
+      "line_hash": "c53aad77",
+      "speaker": "ミキュナ",
+      "ja": "頭の中で情報がグチャグチャになってしまって、上手く答えられなくなるんです。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "eb99ec2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……それなら普段から頭の中の情報を整理して",
+      "zh": ""
+    },
+    {
+      "key": "96.2",
+      "line_index": 96,
+      "inline_index": 2,
+      "line_hash": "eb99ec2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "話す練習をすればいいんじゃないかな。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "5419c304",
+      "speaker": "ミキュナ",
+      "ja": "練習ですか……それで上手く話せるようになるでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "b1abbc0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは保証できないけれど、やってみる価値はあるんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "a4139e8c",
+      "speaker": "ミキュナ",
+      "ja": "それもそうですね、わたしやってみます！　頑張ってみます！",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "3f0a70d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのいきだよ、俺も協力するから特訓しよう。",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "e586158a",
+      "speaker": "ミキュナ",
+      "ja": "はい！　よろしくお願いします！",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "5cd78cf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ、まずは当てられる予測をすることから始めてみようか。",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "e0dad875",
+      "speaker": "ミキュナ",
+      "ja": "当てられる予測……？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "e83d9ac2",
+      "speaker": "{G_PlayerName}",
+      "ja": "指名される時って、相手と目があったり逆に油断していたりしている時が多いだろ。",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "7e101916",
+      "speaker": "ミキュナ",
+      "ja": "確かにそうかもしれないですね、",
+      "zh": ""
+    },
+    {
+      "key": "128.3",
+      "line_index": 128,
+      "inline_index": 3,
+      "line_hash": "7e101916",
+      "speaker": "ミキュナ",
+      "ja": "油断している時に当てられるとすごくビックリしてパニックになっちゃって。",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "4cd63846",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうならないように、先生の動きをしっかり観察しておかないと。",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "c81482f7",
+      "speaker": "ミキュナ",
+      "ja": "なるほど～……それで当てられても慌てずに済むんですね。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "2d66b9c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "当てられた後は、すぐに話し始めるんじゃなくて、",
+      "zh": ""
+    },
+    {
+      "key": "138.2",
+      "line_index": 138,
+      "inline_index": 2,
+      "line_hash": "2d66b9c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "一回深呼吸をして頭の中で少し話をまとめてから口を開くのがいいんじゃないかな。",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "3576f51",
+      "speaker": "ミキュナ",
+      "ja": "一回落ち着くということですね、なるほど……。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "92d5a7db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ではミキュナさん、オリハルコンに関しての説明をしてください。",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "9ebfcc05",
+      "speaker": "ミキュナ",
+      "ja": "えっ？！　いきなりそんなこと言われても！　えっと！　えっと！",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "a705d4db",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからそこで慌てちゃうのがいけないんだよ、",
+      "zh": ""
+    },
+    {
+      "key": "152.2",
+      "line_index": 152,
+      "inline_index": 2,
+      "line_hash": "a705d4db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら当てられたら落ち着くように深呼吸して。",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "fb130649",
+      "speaker": "ミキュナ",
+      "ja": "そ、そうでした！　す～は～……うん、落ち着いて……",
+      "zh": ""
+    },
+    {
+      "key": "156.3",
+      "line_index": 156,
+      "inline_index": 3,
+      "line_hash": "fb130649",
+      "speaker": "ミキュナ",
+      "ja": "話し出す前に頭の中で少しまとめて……。",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "8d570f87",
+      "speaker": "ミキュナ",
+      "ja": "……うん……オリハルコンというのはですね、",
+      "zh": ""
+    },
+    {
+      "key": "159.3",
+      "line_index": 159,
+      "inline_index": 3,
+      "line_hash": "8d570f87",
+      "speaker": "ミキュナ",
+      "ja": "希少金属で非常に産出量が少なく一部の地域でしか採れない金属です。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "869c6485",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうそう、いい感じじゃないか、",
+      "zh": ""
+    },
+    {
+      "key": "162.2",
+      "line_index": 162,
+      "inline_index": 2,
+      "line_hash": "869c6485",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあこれから時々不意に質問するからそれに答えてみて。",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "e6731f1b",
+      "speaker": "ミキュナ",
+      "ja": "それが特訓ですね、頑張ってみます！",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "9603ddb1",
+      "speaker": "教師",
+      "ja": "それでは……この魔法薬の材料に関して……ミキュナさん、説明してみて下さい。",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "6abb475f",
+      "speaker": "ミキュナ",
+      "ja": "は、はいっ！　この魔法薬はですね、主な材料としてマンドラゴラを使用しています。",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "1810a1a2",
+      "speaker": "ミキュナ",
+      "ja": "他にもヒソプ等が使用されていて、それにより効果を大きくさせます。",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "a275ffb9",
+      "speaker": "ミキュナ",
+      "ja": "（やった！　お兄さんとの特訓がちゃんと生かされている！）",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "3296ba8f",
+      "speaker": "ミキュナ",
+      "ja": "それにモーリュを配合することにより、",
+      "zh": ""
+    },
+    {
+      "key": "190.3",
+      "line_index": 190,
+      "inline_index": 3,
+      "line_hash": "3296ba8f",
+      "speaker": "ミキュナ",
+      "ja": "全く別の魔法の薬になります。この薬の特徴は……。",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "72d4a15e",
+      "speaker": "ミキュナ",
+      "ja": "（あれ？",
+      "zh": ""
+    },
+    {
+      "key": "193.3",
+      "line_index": 193,
+      "inline_index": 3,
+      "line_hash": "72d4a15e",
+      "speaker": "ミキュナ",
+      "ja": "スラスラ答えられたのに話が別の方向にいってしまって、でも止められないよぉ）",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "494550b8",
+      "speaker": "ミキュナ",
+      "ja": "（ああ、こんなこと聞かれていないのになに言ってるんだろう？",
+      "zh": ""
+    },
+    {
+      "key": "196.3",
+      "line_index": 196,
+      "inline_index": 3,
+      "line_hash": "494550b8",
+      "speaker": "ミキュナ",
+      "ja": "ど、どうしたらいいの？　こんなの想定外だよぉ）",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "e51a6582",
+      "speaker": "ミキュナ",
+      "ja": "（ああ、パニックになったらどんどん話が違う方にいっちゃって、何とかしようとすればする程話が止められなくなっちゃってる！）",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "2d3043b",
+      "speaker": "教師",
+      "ja": "ミキュナさん……もういいです……座って下さい。",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "40316d11",
+      "speaker": "ミキュナ",
+      "ja": "はい……すみませんでした……。",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "a51b19c",
+      "speaker": "ミキュナ",
+      "ja": "（せっかくお兄さんと特訓したのに、あがり症は治ってないです……とほほぉ～。）",
+      "zh": ""
+    }
+  ]
+}

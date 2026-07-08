@@ -1,0 +1,517 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "c162e69b",
+      "speaker": "オーロラ",
+      "ja": "ここ広いねーっ！　あたしのお部屋の何倍も広いよーっ！",
+      "zh": "这里好大啊！比我的房间大好几倍呢！"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "e25418ab",
+      "speaker": "オーロラ",
+      "ja": "お外もばっちり見えるっ！　宇宙って本当に真っ暗だよねーっ！",
+      "zh": "外面也能看得一清二楚！宇宙真是漆黑一片呢！"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "b4a57c57",
+      "speaker": "{G_PlayerName}",
+      "ja": "（すごいはしゃぎようだなぁ……",
+      "zh": "（真是兴奋得不得了啊……）"
+    },
+    {
+      "key": "25.2",
+      "line_index": 25,
+      "inline_index": 2,
+      "line_hash": "b4a57c57",
+      "speaker": "{G_PlayerName}",
+      "ja": "オーロラにとっては見たことのない物ばっかりなんだろうな）",
+      "zh": "（对奥罗拉来说，全都是没见过的玩意儿吧）"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "ce1be9d5",
+      "speaker": "オーロラ",
+      "ja": "ねぇねぇ、この画面の数字って何なのかな？",
+      "zh": "哎哎，这屏幕上的数字是什么啊？"
+    },
+    {
+      "key": "29.3",
+      "line_index": 29,
+      "inline_index": 3,
+      "line_hash": "ce1be9d5",
+      "speaker": "オーロラ",
+      "ja": "色々動いているけど……気温とか湿度とかそういうのではないみたいだけど",
+      "zh": "各种东西都在动……不过好像不是气温湿度之类的呢"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "43fd3788",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……何だろう……俺にもよくわからないんだよな。",
+      "zh": "啊……是什么呢……我也不太懂啊。"
+    },
+    {
+      "key": "32.2",
+      "line_index": 32,
+      "inline_index": 2,
+      "line_hash": "43fd3788",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロやルミナに聞けばわかると思うけど",
+      "zh": "问阿波罗或者露米娜的话应该知道吧"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "3b200c88",
+      "speaker": "オーロラ",
+      "ja": "そうなんだ、それじゃああとで聞いてみよっと♪",
+      "zh": "是吗，那回头问问看♪"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "76819e92",
+      "speaker": "オーロラ",
+      "ja": "あっ！　あれなんだろう！！",
+      "zh": "啊！那是什么！！"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "9dc4cce0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに走ったら危ないぞ……！！",
+      "zh": "跑那么快很危险啊……！！"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "a26d0505",
+      "speaker": "オーロラ",
+      "ja": "へーきへーきっ♪　うわぁっ！　こっちも数字が色々……！",
+      "zh": "没事没事♪ 哇啊！这边也有各种数字……！"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "cb804d9c",
+      "speaker": "オーロラ",
+      "ja": "あっ！　あっちにも面白そうなのが……！！",
+      "zh": "啊！那边看起来也有有趣的……！！"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "15024394",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やれやれ……見たことの無い物がいっぱいでテンションが爆上がりしちゃっているな）",
+      "zh": "（唉……从没见过的东西一大堆，情绪高涨得不行啊）"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "5042d691",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも落ち込むとか、そういうのよりは全然良いな。",
+      "zh": "（不过比闷闷不乐什么的要好多了。"
+    },
+    {
+      "key": "64.2",
+      "line_index": 64,
+      "inline_index": 2,
+      "line_hash": "5042d691",
+      "speaker": "{G_PlayerName}",
+      "ja": "その方が宇宙船の環境に早く慣れると思うし）",
+      "zh": "那样还能更快适应飞船环境）"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "77e95f5d",
+      "speaker": "オーロラ",
+      "ja": "ねーねーっ！　ちょっとこっち来てよーっ",
+      "zh": "喂喂！快过来这边一下！"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "858099dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、今行くーっ",
+      "zh": "啊啊，马上来！"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "24fd5ad6",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　外なんて見て。何か見えるのか？",
+      "zh": "怎么了？看着外面。能看到什么吗？"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "98ddfd5a",
+      "speaker": "オーロラ",
+      "ja": "うん、あたしの星って今どこなのかなって思って……もう見えないのかな？",
+      "zh": "嗯，我在想我的星球现在在哪儿呢……是不是已经看不见了？"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "29272beb",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう見えないと思う。寂しい……？",
+      "zh": "我想已经看不见了。寂寞吗……？"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "fc0f8225",
+      "speaker": "オーロラ",
+      "ja": "んー……少しだけ♪　宇宙船の中の環境って密閉はされているくらいで、",
+      "zh": "嗯…有一点点♪ 虽说飞船里的环境是密封的，"
+    },
+    {
+      "key": "91.3",
+      "line_index": 91,
+      "inline_index": 3,
+      "line_hash": "fc0f8225",
+      "speaker": "オーロラ",
+      "ja": "普段の生活とは全然変わらないし",
+      "zh": "而且和平时生活没什么两样"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "9e99338e",
+      "speaker": "オーロラ",
+      "ja": "だからそんなに寂しさはないかな♪　あなたも一緒にいるしね♪",
+      "zh": "所以也没那么寂寞啦♪ 还有你也在呢♪"
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "9e10e582",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら良かった。ホームシックとかになる場合もあるしな",
+      "zh": "那就好。搞不好还会想家呢"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "360380ce",
+      "speaker": "オーロラ",
+      "ja": "あたしそんなに子供じゃないよーっ！　もう一人でもやっていける”大人”だもんっ！",
+      "zh": "我才不是小孩子呢！已经是能独当一面的“大人”了！"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "407aeae2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな、ごめんごめん",
+      "zh": "是啊，抱歉抱歉"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "b3e00aeb",
+      "speaker": "オーロラ",
+      "ja": "それにしても……ぜーんぶ自動で動いているんだよね？　この宇宙船って",
+      "zh": "不过话说回来……一切都是在自动运行吧？这艘飞船"
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "77cd11ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "定期的な点検は必要だけど、",
+      "zh": "虽然需要定期检查，"
+    },
+    {
+      "key": "114.2",
+      "line_index": 114,
+      "inline_index": 2,
+      "line_hash": "77cd11ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "温度調整から目的地までの移動とかすべて自動でやってくれているはずだよ",
+      "zh": "从温度调节到前往目的地的航行，应该全都是自动的"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "592e41a1",
+      "speaker": "オーロラ",
+      "ja": "すべてが魔法じゃない動力で動いている……",
+      "zh": "全都是用非魔法的动力在运转……"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "8a81135",
+      "speaker": "オーロラ",
+      "ja": "何だか魔法なんて要らないんじゃないかな～って思えてくるよ",
+      "zh": "总觉得魔法是不是都不需要了～"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "3405441",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことはないと思うよ？　魔法は魔法、機械は機械、それぞれ良い点があると思うし",
+      "zh": "我觉得没那回事哦？魔法归魔法，机械归机械，各自都有优点"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ae635962",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから落ち込む必要なんてないって",
+      "zh": "所以没必要消沉啊"
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "bfd70ac5",
+      "speaker": "オーロラ",
+      "ja": "えっ？　あたし別に落ち込んでなんていないよ？",
+      "zh": "诶？我没消沉啊？"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "7a2e0386",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなの？　魔法とか要らないとか言ってたから、",
+      "zh": "是吗？因为你说了魔法不需要什么的，"
+    },
+    {
+      "key": "135.2",
+      "line_index": 135,
+      "inline_index": 2,
+      "line_hash": "7a2e0386",
+      "speaker": "{G_PlayerName}",
+      "ja": "ショックでも受けていたのかなって思ってた……",
+      "zh": "我还以为你受到了打击……"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "120f9264",
+      "speaker": "オーロラ",
+      "ja": "あははっ♪　ショックどころか、",
+      "zh": "啊哈哈♪ 岂止是打击，"
+    },
+    {
+      "key": "140.3",
+      "line_index": 140,
+      "inline_index": 3,
+      "line_hash": "120f9264",
+      "speaker": "オーロラ",
+      "ja": "色々と見て新しい魔法のアイディアが浮かんできているよっ",
+      "zh": "看着这些，新魔法的点子一个个冒出来呢！"
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "b656c31e",
+      "speaker": "オーロラ",
+      "ja": "便利なもののその一歩先を行く魔法……もっともっと面白い魔法が作れるかもっ",
+      "zh": "超越那些便利之物的魔法……说不定能创造出更有趣的魔法！"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "1c1cb811",
+      "speaker": "{G_PlayerName}",
+      "ja": "例えばどんな魔法？　ちょっと興味があるな",
+      "zh": "比如什么样的魔法？我有点兴趣呢"
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "918a6410",
+      "speaker": "オーロラ",
+      "ja": "そうだね～……頭の中で想像するだけで、目の前にいろんな食べ物が出てくる魔法とかっ",
+      "zh": "这个嘛～……只要在脑子里想象，眼前就会出现各种食物的魔法之类的！"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "a1f5b6a5",
+      "speaker": "オーロラ",
+      "ja": "あとは寝たままお風呂に入れる魔法！",
+      "zh": "还有睡着觉就能泡澡的魔法！"
+    },
+    {
+      "key": "155.3",
+      "line_index": 155,
+      "inline_index": 3,
+      "line_hash": "a1f5b6a5",
+      "speaker": "オーロラ",
+      "ja": "あとはごろごろしていてもたくさんの運動ができちゃう魔法とか！",
+      "zh": "还有就算懒洋洋地也能充分运动的魔法！"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "36cb5138",
+      "speaker": "{G_PlayerName}",
+      "ja": "……何だかズボラな魔法が多くないか？",
+      "zh": "……怎么尽是些偷懒的魔法啊？"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "15dc4bea",
+      "speaker": "オーロラ",
+      "ja": "えーっ、そうかな～？　でも夢はない？",
+      "zh": "诶——，是吗～？不过没有梦想吗？"
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "be8610d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ夢はあると思うけど、ヘンに現実的というか、ぐーたらしたいだけというか……",
+      "zh": "嗯，梦想是有的，不过总觉得有点现实，或者不如说只是想偷懒……"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "cce751b3",
+      "speaker": "オーロラ",
+      "ja": "うーん……そう言われちゃうと、そう思えてきちゃう……",
+      "zh": "唔……被你这么一说，我也觉得是……"
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "149dd8b",
+      "speaker": "オーロラ",
+      "ja": "あっ！　そうか！　これが機械が普及したら人がダメになるってことなんだねっ！",
+      "zh": "啊！原来如此！这就是机械普及了人就会废掉的意思吧！"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "f7fe6998",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　何それ？",
+      "zh": "诶？什么？"
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "7156e905",
+      "speaker": "オーロラ",
+      "ja": "あたしの星ではそんな風に言われているんだよ？",
+      "zh": "在我的星球上大家都这么说哦？"
+    },
+    {
+      "key": "182.3",
+      "line_index": 182,
+      "inline_index": 3,
+      "line_hash": "7156e905",
+      "speaker": "オーロラ",
+      "ja": "だから一生懸命魔法を研究して機械に頼って堕落しないようにって思っているんだよ",
+      "zh": "所以我才拼命研究魔法，以免依赖机械而堕落呢"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "1bc857a5",
+      "speaker": "オーロラ",
+      "ja": "それってこういうことなんだね～♪　勉強になるなぁ～っ♪",
+      "zh": "原来是这么一回事啊～♪ 学到了学到了～♪"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "c9d175df",
+      "speaker": "オーロラ",
+      "ja": "あっ！　あれなんだろっ！？　ちょっと見てくるねっ！",
+      "zh": "啊！那是什么！？我去看看！"
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "858ee51e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　オーロラっ！　……行ってしまった。",
+      "zh": "啊！奥罗拉！……跑掉了。"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "810c6686",
+      "speaker": "{G_PlayerName}",
+      "ja": "機械で堕落する……なんか違う気がするけどなぁ……",
+      "zh": "依靠机械就会堕落……总觉得不太对劲啊……"
+    },
+    {
+      "key": "202.2",
+      "line_index": 202,
+      "inline_index": 2,
+      "line_hash": "810c6686",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、オーロラがそう思うならそうなのかもしれない",
+      "zh": "嘛，既然奥罗拉这么想，也许就是这样吧"
+    }
+  ]
+}

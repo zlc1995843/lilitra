@@ -1,0 +1,535 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "304f92a",
+      "speaker": "{G_PlayerName}",
+      "ja": "パンって美味しいよな、俺にも作れるかな？",
+      "zh": "面包可真好吃啊，不知道我能不能也做出来？"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "6e017bc3",
+      "speaker": "シーシャ",
+      "ja": "ナンだ？　オマエ、パン作るのカ？",
+      "zh": "啥？你要做面包？"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "3a79a2a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……作れないかなって思っただけだよ、パン作るのって大変そうだし。",
+      "zh": "没……我就是想想自己能不能做，毕竟做面包好像挺麻烦的。"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "c3460003",
+      "speaker": "コルト",
+      "ja": "あらあら、パン作りに興味がありますの？",
+      "zh": "哎呀，你对做面包有兴趣吗？"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "bdfcf210",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、コルト……まあ興味があるといえばあるかな。",
+      "zh": "啊，柯尔特……要说兴趣嘛，也算有点吧。"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "b5266530",
+      "speaker": "コルト",
+      "ja": "まあまあ♥　パン作りに興味を持って貰えるなんて、嬉しい限りです♥",
+      "zh": "哎呀❤ 能让你对做面包感兴趣，我真是太开心了❤"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "a7cc6a34",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……そんなに喜ばれることでは……。",
+      "zh": "呃……我没做什么值得你这么高兴的事啊……"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "e1adc7b3",
+      "speaker": "コルト",
+      "ja": "よろしければ、わたしがパン作りを教えましょうか♥",
+      "zh": "可以的话，我来教你做面包吧❤"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "741043a",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいんですか？　というか俺に作れるだろうか……。",
+      "zh": "可以吗？不过……我能学会吗……"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "14bbbc66",
+      "speaker": "コルト",
+      "ja": "大丈夫大丈夫♥　わたしの教える通りに作れば、美味しいパンが焼けますよ♥",
+      "zh": "放心放心❤ 只要照我说的做，保证能烤出好吃的面包❤"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f6fdff57",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうですか……それじゃあお願いしようかな。",
+      "zh": "是吗……那，就拜托你啦。"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "2ec83bc0",
+      "speaker": "シーシャ",
+      "ja": "アタシもパン作ル！　オモシロそう！",
+      "zh": "我也要做面包！好像很好玩！"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "1d90aa61",
+      "speaker": "コルト",
+      "ja": "はいはい♥　それじゃあみんなで作りましょう♥",
+      "zh": "好好❤ 那大家一起来做吧❤"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "4af00d75",
+      "speaker": "シーシャ",
+      "ja": "オーッ！　アタシ、ガンバルぞっ！",
+      "zh": "噢！我会努力的！"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "253ae062",
+      "speaker": "コルト",
+      "ja": "それじゃあパン作りをはじめますよ～♥　まずは生地づくりからです♥",
+      "zh": "那咱们开始做面包啦～❤ 首先，从揉面团开始❤"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "557e5405",
+      "speaker": "{G_PlayerName}",
+      "ja": "生地づくりか……ここで失敗するとパンがふっくら焼き上がらないんだよな。",
+      "zh": "和面啊……这一步搞砸了，面包就烤不松软了。"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "e2e4c599",
+      "speaker": "コルト",
+      "ja": "よくわかってますね♥　その通りです、生地づくりが大事ですから頑張ってくださいねっ♥",
+      "zh": "你很懂嘛❤ 没错，和面是关键，要好好加油哦❤"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "bf0163f1",
+      "speaker": "シーシャ",
+      "ja": "アタシガンバル！　どうすれバいいンダ？",
+      "zh": "我会努力的！该怎么做？"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "5f5c2d70",
+      "speaker": "コルト",
+      "ja": "まずは強力粉とお砂糖、そしてお塩をしっかり計ってくださいね♥　分量を間違えないように慎重に、ね♥",
+      "zh": "先把高筋面粉、糖和盐都称好哦❤ 分量要准确，小心一点哦❤"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "2572f97c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……分量は……正確に、と……。",
+      "zh": "嗯……分量……要准确称量啊……"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "640ac036",
+      "speaker": "シーシャ",
+      "ja": "アタシ、細かいノキライ！　オマエ、アタシのブンもハカッてクレ！",
+      "zh": "我讨厌这种精细活！你帮我把我的那份也量了吧！"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "e2886072",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……仕方ないな……よし、ちゃんと正確に計ったぞ。",
+      "zh": "真是的……拿你没办法……好了，我仔细量好了。"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "26e88300",
+      "speaker": "コルト",
+      "ja": "よくできました♥",
+      "zh": "做得好❤"
+    },
+    {
+      "key": "100.3",
+      "line_index": 100,
+      "inline_index": 3,
+      "line_hash": "26e88300",
+      "speaker": "コルト",
+      "ja": "そこにドライイーストもしっかり計って入れて……ふるいにかけてください♥",
+      "zh": "然后加入称好的干酵母……再过一下筛哦❤"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "144c8d48",
+      "speaker": "シーシャ",
+      "ja": "コレぐらいはアタシでもデキるぞ！　ほらほらほらっ！",
+      "zh": "这点小事我也能干！瞧好了，嘿！"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "e92fee91",
+      "speaker": "コルト",
+      "ja": "ふるいにかけたら、そこにぬるま湯を入れて混ぜていきます。",
+      "zh": "筛好以后，加入温水开始搅拌。"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "a5a295c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ……かなりベトベトする……。",
+      "zh": "哇……好粘手……"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "13545892",
+      "speaker": "コルト",
+      "ja": "ある程度混ざったら、そこにバターを少しずつ加えて、ひとまとまりにしていきますよ♥",
+      "zh": "搅得差不多了，就一点点加黄油，慢慢揉成面团哦❤"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "6e9e9884",
+      "speaker": "シーシャ",
+      "ja": "あははははっ♥　ナンダかオモシロいゾ♥",
+      "zh": "啊哈哈哈❤ 感觉好好玩啊❤"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "fc7f4ed2",
+      "speaker": "コルト",
+      "ja": "そうそう♥　しっかり捏ねてくださいね♪",
+      "zh": "对对❤ 使劲揉哦♪"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "297d6c27",
+      "speaker": "{G_PlayerName}",
+      "ja": "むむっ……なかなかまとまらないな。",
+      "zh": "嗯……怎么也揉不成团啊。"
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "22ad0263",
+      "speaker": "シーシャ",
+      "ja": "もっと力入れロー！　アタシはコンナのすぐにツブせるゾ！",
+      "zh": "再使点劲！这种东西我一下子就捏碎了！"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "b7d29ced",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……潰すんじゃなくて捏ねるんだけど……くそ、なかなかまとまらない……。",
+      "zh": "我说……又不是要捏碎，是揉面啊……可恶，怎么都揉不成团……"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "fc1ba7c",
+      "speaker": "コルト",
+      "ja": "ふふっ♥　仕方ありませんね～♪　{G_PlayerName}さんの生地は、わたしがお手伝いしましょ～♪",
+      "zh": "哼哼❤ 真拿你没办法呢～♪ {PlayerName}的面团，我来帮你吧～♪"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "8d3e8d18",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ありがとう！　って……んわぁ！",
+      "zh": "啊，谢谢！……咦，哇啊！"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "7a6024a6",
+      "speaker": "コルト",
+      "ja": "あらあら♥　どうかしましたか～？　一生懸命こねこねしましょうね～♥",
+      "zh": "哎呀❤ 怎么啦～？我们来好好揉一揉吧～❤"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "194cd465",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おいっ、何をしてるんだよっ……やめろってっ。",
+      "zh": "喂、喂！你在干什么啦……住手啦。"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "f2420a41",
+      "speaker": "コルト",
+      "ja": "何をしているって……こねこねしてるんですよ～♥　{G_PlayerName}さんの乳首を♥",
+      "zh": "你说在干什么……我在揉啊～❤ 揉你的乳头❤"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "385b498d",
+      "speaker": "{G_PlayerName}",
+      "ja": "捏ねるのはち、乳首……じゃなくて！　うく……こら、や、やめてくれっ",
+      "zh": "揉的不是乳……乳头！呃……喂、住手啦！"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "bccc9572",
+      "speaker": "コルト",
+      "ja": "ではこの太ももをすりすり～♥　ああパン生地みたいにすべすべ～♥",
+      "zh": "那再蹭蹭你的大腿～❤ 啊，滑滑嫩嫩的，就像面团一样～❤"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "41c9db7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あううっ……だめぇ……やめて……コルト……うっ……ううっ……。",
+      "zh": "啊呜……不行……快住手……柯尔特……呜……呜呜……"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "f093d130",
+      "speaker": "コルト",
+      "ja": "そして乳首もしっかりこねこね～♥",
+      "zh": "乳头也要好好揉一揉～❤"
+    },
+    {
+      "key": "161.3",
+      "line_index": 161,
+      "inline_index": 3,
+      "line_hash": "f093d130",
+      "speaker": "コルト",
+      "ja": "うふふっ、すごく固くなってきましたね～♥　こねこね～♥　こねこね～♥",
+      "zh": "唔呵呵，变得好硬了呢～❤ 揉揉～❤ 揉揉～❤"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "67be72c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ……ほら、パン作るんだろ？　もうやめろって……くっ……ううっ……",
+      "zh": "呜……喂，不是要做面包吗？！快住手啊……呃……呜呜……"
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "7ac13c2b",
+      "speaker": "コルト",
+      "ja": "はぁはぁ……♥",
+      "zh": "哈啊……哈啊……❤"
+    },
+    {
+      "key": "168.3",
+      "line_index": 168,
+      "inline_index": 3,
+      "line_hash": "7ac13c2b",
+      "speaker": "コルト",
+      "ja": "こういう拒否できないシチュエーションって……男性でもエッチですよねぇ♥",
+      "zh": "这种让人无法拒绝的状况，对男人来说也很刺激吧❤"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "7aecf46b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……んうぅっ……ほんとにだめだって……シーシャにバレちゃうから……っ",
+      "zh": "唔……嗯……真的不行啦……会被希纱发现的……唔"
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "ccb4d787",
+      "speaker": "コルト",
+      "ja": "あぁぁ……そんなしおらしい反応……たまらないです～♥ もっと大きな声を出させてあげたくなっちゃいますよ♥",
+      "zh": "啊啊……你这种害羞的反应，真是让人受不了～❤ 弄得我更想让你大声叫出来了❤"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "baf259b",
+      "speaker": "コルト",
+      "ja": "ほ～ら♥　乳首くりくり～♥　太ももすりすり～♥　んふっ♥",
+      "zh": "来～❤ 乳头揉揉～❤ 大腿蹭蹭～❤ 嗯哼❤"
+    },
+    {
+      "key": "178.3",
+      "line_index": 178,
+      "inline_index": 3,
+      "line_hash": "baf259b",
+      "speaker": "コルト",
+      "ja": "おちんちんがすっかり大きくなってますよ♥",
+      "zh": "小弟弟已经完全硬起来了哦❤"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "214f5f9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ばかっ、言うなって……もうこれ以上は洒落にならないぞっ……！",
+      "zh": "喂、笨蛋，别说了……再这样下去我真要生气了……！"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "4cf3a3ac",
+      "speaker": "コルト",
+      "ja": "そんな顔されると、もっともっとコネコネしたくなっちゃいます♥",
+      "zh": "看你这种表情，就更想揉了呢❤"
+    },
+    {
+      "key": "185.3",
+      "line_index": 185,
+      "inline_index": 3,
+      "line_hash": "4cf3a3ac",
+      "speaker": "コルト",
+      "ja": "んふふっ♥　乳首コネコネでイッちゃいます？",
+      "zh": "嘻嘻❤ 光揉乳头就能让你高潮吗？"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "bb2116fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……はぁっ……コルト……っ！　お、怒るぞ……！",
+      "zh": "嗯……哈啊……柯尔特……！我、要生气了哦……！"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "2d412f5a",
+      "speaker": "シーシャ",
+      "ja": "オイ！　遊んでいないデちゃんとパン作れヨ！",
+      "zh": "喂！别玩了，好好做面包啦！"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "86c21eae",
+      "speaker": "",
+      "ja": "シーシャが食いかかってきたことで、コルトはぱっと手を離し{G_PlayerName}を開放した。",
+      "zh": "希纱凑过来要吃东西，柯尔特立刻松开手，放开了{PlayerName}。"
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "ce38fcaa",
+      "speaker": "コルト",
+      "ja": "いえいえ～、遊んでませんよ～、ちゃんと捏ね上がりました～♥",
+      "zh": "不不～，我可没在玩哦～，面团已经揉好了～❤"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "69080312",
+      "speaker": "{G_PlayerName}",
+      "ja": "（はぁはぁ……2人きりだったらヤバかったかな……）",
+      "zh": "（哈啊哈啊……幸好不是独处，不然真危险啊……）"
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "759fc0f3",
+      "speaker": "コルト",
+      "ja": "うふふっ♥　グチャグチャなのはパン生地だけじゃなくて……パンツの中も……かしら♥",
+      "zh": "唔呵呵❤ 湿答答的可不只是面团……内裤里也……对吧❤"
+    }
+  ]
+}

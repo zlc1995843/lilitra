@@ -1,0 +1,751 @@
+{
+  "lines": [
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "fbf6378a",
+      "speaker": "ラギオラ",
+      "ja": "ムムム……！　これも違うのか……意味がわからん、どうすればよいのだ……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "ef210724",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラギオラさん？　そんなに怒ってどうしたんですか？",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "2632e88b",
+      "speaker": "ラギオラ",
+      "ja": "おお、オマエか。丁度良いところに来てくれた！",
+      "zh": ""
+    },
+    {
+      "key": "28.3",
+      "line_index": 28,
+      "inline_index": 3,
+      "line_hash": "2632e88b",
+      "speaker": "ラギオラ",
+      "ja": "この機械の操作方法を教えてくれるか？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c283f5",
+      "speaker": "ラギオラ",
+      "ja": "言われたとおりに操作しても全然わからなくてな……",
+      "zh": ""
+    },
+    {
+      "key": "31.3",
+      "line_index": 31,
+      "inline_index": 3,
+      "line_hash": "c283f5",
+      "speaker": "ラギオラ",
+      "ja": "アタシが観たい映像が出てこないんだ",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "ce5f8a2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……それで何を観たいんですか？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "3ab2d2e1",
+      "speaker": "ラギオラ",
+      "ja": "緑と獣の星の様子だ。以前アポロにこの装置で見せてもらったことがあってな。",
+      "zh": ""
+    },
+    {
+      "key": "38.3",
+      "line_index": 38,
+      "inline_index": 3,
+      "line_hash": "3ab2d2e1",
+      "speaker": "ラギオラ",
+      "ja": "もう一度見たいと思っていたんだ",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "4fd1ef4",
+      "speaker": "{G_PlayerName}",
+      "ja": "写真のことですか？　そういえばこの機械で見ることができたよな……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "a04b6b63",
+      "speaker": "ラギオラ",
+      "ja": "アタシの代わりにやってくれないか？　オマエならわかるだろう？",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "872454ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "やってみますけど、俺も触ったことのない機能なんですよ。",
+      "zh": ""
+    },
+    {
+      "key": "48.2",
+      "line_index": 48,
+      "inline_index": 2,
+      "line_hash": "872454ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "あまり動画？　とかも観ないですし……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "5ccf6b24",
+      "speaker": "ラギオラ",
+      "ja": "それでもアタシよりはわかるだろう？　頼む！　もう一度アタシの星を見せてくれっ",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "4b083efd",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかりました。とりあえずやってみます",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "9028aa17",
+      "speaker": "ラギオラ",
+      "ja": "頼むぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "65fd2a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと写真は……うわ……なんかいっぱい文字が出てきた……難しいな……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "48bb4eda",
+      "speaker": "ラギオラ",
+      "ja": "しかしアポロは簡単に操作していたぞ？",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "e9895e9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁアポロは人工知能？　らしいんで……ところでなんで自分の星を見たいんですか？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "c5deef31",
+      "speaker": "ラギオラ",
+      "ja": "初めて見た時は少ししか見せてもらわなかったからな。村の周囲を観察してみたいんだ。",
+      "zh": ""
+    },
+    {
+      "key": "73.3",
+      "line_index": 73,
+      "inline_index": 3,
+      "line_hash": "c5deef31",
+      "speaker": "ラギオラ",
+      "ja": "自分の星があのような姿に見えるなんて、想像すらしていなかった",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "7555d220",
+      "speaker": "ラギオラ",
+      "ja": "お前は自分の星を外から見た時感動しなかったのか？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "dd50dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "初めて宇宙から見た時は感動しましたけど……",
+      "zh": ""
+    },
+    {
+      "key": "79.2",
+      "line_index": 79,
+      "inline_index": 2,
+      "line_hash": "dd50dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "何度も見たいかって言われるとそうでもない、かも知れませんね",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e9d905a3",
+      "speaker": "ラギオラ",
+      "ja": "そういうものなのか？　アタシがおかしいのだろうか……",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "3fbe9074",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いえ。俺の場合、星は全体的に見晴らしがよくて、開拓も済んでるので……",
+      "zh": ""
+    },
+    {
+      "key": "86.2",
+      "line_index": 86,
+      "inline_index": 2,
+      "line_hash": "3fbe9074",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラギオラさんの星より予想がつきやすかったんだと思います",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "e92bdeb3",
+      "speaker": "ラギオラ",
+      "ja": "なるほどな……アタシとオマエでは暮らしていた環境が全然違っていたんだな",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "ca53e164",
+      "speaker": "ラギオラ",
+      "ja": "機械の操作とか手慣れているしな。ところでアタシの星の絵はまだか？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "b51040b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "手慣れて……ますかね？",
+      "zh": ""
+    },
+    {
+      "key": "96.2",
+      "line_index": 96,
+      "inline_index": 2,
+      "line_hash": "b51040b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっぱりわからなくて……本当にこの機械で写真見れるのかな……",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "9897b7f9",
+      "speaker": "ラギオラ",
+      "ja": "しょうがない二人で色々やってみよう。そのうち出てくるだろう",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "af34c80d",
+      "speaker": "ラギオラ",
+      "ja": "ここはどうだ？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "63a85595",
+      "speaker": "ラギオラ",
+      "ja": "んおおおっ！？　な、なんだ！？　お、音が……！！",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "d6f14c8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どこを押したんですかラギオラさんっ！？",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "e1f7663f",
+      "speaker": "ラギオラ",
+      "ja": "み、右下のほうの四角い物を……！",
+      "zh": ""
+    },
+    {
+      "key": "120.3",
+      "line_index": 120,
+      "inline_index": 3,
+      "line_hash": "e1f7663f",
+      "speaker": "ラギオラ",
+      "ja": "うう、何なんだこの音楽は……音が大きすぎる、止められるか！？",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "ea64ddf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どれが原因で音楽が鳴ってるかわからなくて……",
+      "zh": ""
+    },
+    {
+      "key": "123.2",
+      "line_index": 123,
+      "inline_index": 2,
+      "line_hash": "ea64ddf",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おかしいな。何かの後ろにいっちゃったのかな",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "8f6ac3bc",
+      "speaker": "ラギオラ",
+      "ja": "ど、どういうことだ？　う、うう……！　鼓膜が破れそうだ……！",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "c1610560",
+      "speaker": "アポロ",
+      "ja": "何をしているのですか、お二人とも。",
+      "zh": ""
+    },
+    {
+      "key": "143.3",
+      "line_index": 143,
+      "inline_index": 3,
+      "line_hash": "c1610560",
+      "speaker": "アポロ",
+      "ja": "そんなに大音量で音楽を流されては他の人に迷惑です。お静かにお願いします",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "5049a943",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ！　ちょうどいいところに！　この音楽止めてくれっ！",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "9ff7b866",
+      "speaker": "アポロ",
+      "ja": "わかりました",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "bea57038",
+      "speaker": "ラギオラ",
+      "ja": "お、おおお……と、止まった……",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "a71a59c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……良かった、止まって……助かったよアポロ",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "a90190a7",
+      "speaker": "アポロ",
+      "ja": "いえ、礼には及びません。ところで何故大音量で音楽を……？",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "39ce45fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、音楽を聴くつもりはなかったんだけど、操作していたらそうなってしまって……",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "b815a4bf",
+      "speaker": "アポロ",
+      "ja": "……これは玩具ではありません。遊びで使わないでください",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "6f3ffed3",
+      "speaker": "ラギオラ",
+      "ja": "あ、遊びでやったわけではないぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "177.3",
+      "line_index": 177,
+      "inline_index": 3,
+      "line_hash": "6f3ffed3",
+      "speaker": "ラギオラ",
+      "ja": "この前見せてくれた、アタシの星の絵をもう一度見たいと思っただけなんだ",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "33a6becb",
+      "speaker": "アポロ",
+      "ja": "緑と獣の星の画像ですか？",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "9c2103d0",
+      "speaker": "ラギオラ",
+      "ja": "うむ、それを見たいのだ！",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "6f8ec1c5",
+      "speaker": "アポロ",
+      "ja": "画像一つ出せないとは……",
+      "zh": ""
+    },
+    {
+      "key": "186.3",
+      "line_index": 186,
+      "inline_index": 3,
+      "line_hash": "6f8ec1c5",
+      "speaker": "アポロ",
+      "ja": "ラギオラ様はともかく、{G_PlayerName}様はどれだけこの船にいると思っているのですか",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "ecd29aed",
+      "speaker": "{G_PlayerName}",
+      "ja": "め、面目ない……！　やり方を教えてくれ、今度からは自分で出来るようにするから！",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "fab64faf",
+      "speaker": "アポロ",
+      "ja": "わかりました。それではお二人とも、しっかりと覚えてください",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "19975c5b",
+      "speaker": "ラギオラ",
+      "ja": "うむ、わかった",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "f18adad2",
+      "speaker": "",
+      "ja": "──５分後",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "20eaf279",
+      "speaker": "アポロ",
+      "ja": "基本的な操作は以上となります。ご不明な点はございますか？",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "e4c479f2",
+      "speaker": "ラギオラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "750b12d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり機械が無い星の人が機械を触るのは無理があるか……）",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "a6e93fe6",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺のほうは結構わかってきたから、多分大丈夫だと思う",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "7c1d460d",
+      "speaker": "アポロ",
+      "ja": "かしこまりました。",
+      "zh": ""
+    },
+    {
+      "key": "215.3",
+      "line_index": 215,
+      "inline_index": 3,
+      "line_hash": "7c1d460d",
+      "speaker": "アポロ",
+      "ja": "……お困りのことがあればまた及びください。くれぐれも誤操作にはお気をつけて",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "1ac291f2",
+      "speaker": "ラギオラ",
+      "ja": "わかった。操作方法を教えてくれてありがとうな",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "c35b07a5",
+      "speaker": "ラギオラ",
+      "ja": "……しかし、本当に大きな星だな。アタシが想像していたよりも世界は広い……。",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "f1646a0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当ですね。森も山も、村の面積の何十倍もずーっと続いてますね……",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "76e50ede",
+      "speaker": "ラギオラ",
+      "ja": "村で資源の奪い合いが起きた時、もっと外に目を向けるべきだった……。",
+      "zh": ""
+    },
+    {
+      "key": "234.3",
+      "line_index": 234,
+      "inline_index": 3,
+      "line_hash": "76e50ede",
+      "speaker": "ラギオラ",
+      "ja": "どうして狭い村の中だけですべてを解決しようと思っていたんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "2272ffc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことがあったんですか？",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "11d7b86f",
+      "speaker": "ラギオラ",
+      "ja": "うむ……。水、作物、木材……色々と奪い合いがあったんだ。",
+      "zh": ""
+    },
+    {
+      "key": "241.3",
+      "line_index": 241,
+      "inline_index": 3,
+      "line_hash": "11d7b86f",
+      "speaker": "ラギオラ",
+      "ja": "時には血が流れるほどの奪い合いがな……",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "8ba99b95",
+      "speaker": "ラギオラ",
+      "ja": "今のところ問題は解決しているが、",
+      "zh": ""
+    },
+    {
+      "key": "244.3",
+      "line_index": 244,
+      "inline_index": 3,
+      "line_hash": "8ba99b95",
+      "speaker": "ラギオラ",
+      "ja": "また何時資源を奪い合うようになってしまうかわからない",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "150bb305",
+      "speaker": "ラギオラ",
+      "ja": "安定と平和のためにはもっと視野を広げないとダメだな",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "ca08c3eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうですね……ラギオラさんの星だけじゃなくて、",
+      "zh": ""
+    },
+    {
+      "key": "250.2",
+      "line_index": 250,
+      "inline_index": 2,
+      "line_hash": "ca08c3eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙にも目を向ければ資源はたくさんありますから",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "b4ebe5c0",
+      "speaker": "ラギオラ",
+      "ja": "むぅ……そこまでは目を向けるつもりはないが……",
+      "zh": ""
+    },
+    {
+      "key": "254.3",
+      "line_index": 254,
+      "inline_index": 3,
+      "line_hash": "b4ebe5c0",
+      "speaker": "ラギオラ",
+      "ja": "アタシにとって宇宙は未知すぎる場所だ",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "7faf97ed",
+      "speaker": "ラギオラ",
+      "ja": "でもそういう広い視野もいずれ必要になるかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "257.3",
+      "line_index": 257,
+      "inline_index": 3,
+      "line_hash": "7faf97ed",
+      "speaker": "ラギオラ",
+      "ja": "その時は{G_PlayerName}、オマエを頼らせてもらうからなっ！",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "ffa30247",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はい……力になれるかはわかりませんけども……",
+      "zh": ""
+    }
+  ]
+}

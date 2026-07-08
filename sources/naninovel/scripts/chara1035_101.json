@@ -1,0 +1,634 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "17d5dd0",
+      "speaker": "コハル",
+      "ja": "あ、あれ！　ベスさんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "fd02bd06",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当だ、相変わらず歩く所作も気品があって、ＴＨＥお嬢様って感じだよなぁ。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "c924da98",
+      "speaker": "コハル",
+      "ja": "そうよねぇ、自分たちの星だったらお目にかかれないような貴族様よね。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "92b747aa",
+      "speaker": "ベス",
+      "ja": "（ふふふ、当然です、毎日貴族として礼儀と所作を磨いているのですから。）",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "2cff7b68",
+      "speaker": "コハル",
+      "ja": "ベスさん、もしかしてこれからごはんですか？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "490e9247",
+      "speaker": "ベス",
+      "ja": "ええ、そろそろ食事にしようかと思いまして。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "e81120c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺達もこれからごはんなんです、ご一緒しませんか？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "62ea0d3f",
+      "speaker": "ベス",
+      "ja": "私は構いませんわよ、それでは参りましょうか。",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "3c04691f",
+      "speaker": "コハル",
+      "ja": "お腹すいたぁ、はやくごはん食べよっ♥",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "93aa32a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだな……。",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "ba5d927a",
+      "speaker": "コハル",
+      "ja": "いただきまーす！　美味しそうなスープ♥　じゅるじゅるる……。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "50640774",
+      "speaker": "{G_PlayerName}",
+      "ja": "ずず～～～っ、うわ、このスープ美味しいな。",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "606028a2",
+      "speaker": "ベス",
+      "ja": "ちょっと！　二人ともスープは音を立てて飲むのはマナー違反ですよ。",
+      "zh": ""
+    },
+    {
+      "key": "66.3",
+      "line_index": 66,
+      "inline_index": 3,
+      "line_hash": "606028a2",
+      "speaker": "ベス",
+      "ja": "それぐらいのことわかるでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "9fe0553",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……す、すみません……。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "384bfeca",
+      "speaker": "コハル",
+      "ja": "ごめんなさい……。",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "b120027f",
+      "speaker": "ベス",
+      "ja": "まったく、同じ食卓を囲むのですから、",
+      "zh": ""
+    },
+    {
+      "key": "76.3",
+      "line_index": 76,
+      "inline_index": 3,
+      "line_hash": "b120027f",
+      "speaker": "ベス",
+      "ja": "最低限のテーブルマナーくらい身につけて欲しいものです。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "913afbf3",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ……ついでというのもなんだけど、",
+      "zh": ""
+    },
+    {
+      "key": "79.2",
+      "line_index": 79,
+      "inline_index": 2,
+      "line_hash": "913afbf3",
+      "speaker": "{G_PlayerName}",
+      "ja": "最低限のテーブルマナーを教えて貰えないかな。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "913a0dca",
+      "speaker": "コハル",
+      "ja": "私も！　お願いします、ベスさん。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "1c3c9d78",
+      "speaker": "ベス",
+      "ja": "仕方ありませんね……スープを飲む時のマナーとして、",
+      "zh": ""
+    },
+    {
+      "key": "86.3",
+      "line_index": 86,
+      "inline_index": 3,
+      "line_hash": "1c3c9d78",
+      "speaker": "ベス",
+      "ja": "まずスプーンの持ち方ですが、スプーンを持つ位置は柄の真ん中から上の部分です。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "f95a4f69",
+      "speaker": "{G_PlayerName}",
+      "ja": "スプーンの持ち方にもマナーがあるのか……知らなかった……。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "65206ac5",
+      "speaker": "ベス",
+      "ja": "スープをすくう時はスプーンの７分目くらいで、",
+      "zh": ""
+    },
+    {
+      "key": "93.3",
+      "line_index": 93,
+      "inline_index": 3,
+      "line_hash": "65206ac5",
+      "speaker": "ベス",
+      "ja": "それは途中でスープをこぼさないように口まで持っていくため。",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "4bfed1c8",
+      "speaker": "コハル",
+      "ja": "なかなか……難しいですね。",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "5775c584",
+      "speaker": "ベス",
+      "ja": "慣れれば普通に出来るようになります、そしてスープは音を立てて啜ってはいけません、",
+      "zh": ""
+    },
+    {
+      "key": "99.3",
+      "line_index": 99,
+      "inline_index": 3,
+      "line_hash": "5775c584",
+      "speaker": "ベス",
+      "ja": "スプーンを傾けて口の中に流し込むようにするのです。",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "7b4c099a",
+      "speaker": "ベス",
+      "ja": "それにスプーンを全部口の中へ入れることもマナー違反ですから、",
+      "zh": ""
+    },
+    {
+      "key": "102.3",
+      "line_index": 102,
+      "inline_index": 3,
+      "line_hash": "7b4c099a",
+      "speaker": "ベス",
+      "ja": "スプーンの先の方だけ口の方へ入れるようにしてください。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "4c9784c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな……感じですか？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "c8df2261",
+      "speaker": "ベス",
+      "ja": "スープをすくう時は、食器に当たって音がしないようにしてください、",
+      "zh": ""
+    },
+    {
+      "key": "109.3",
+      "line_index": 109,
+      "inline_index": 3,
+      "line_hash": "c8df2261",
+      "speaker": "ベス",
+      "ja": "皿の奥を見せるように傾けて、食器も手前から奥へと……。",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "657e8157",
+      "speaker": "コハル",
+      "ja": "はぁぁ……食事のマナーって色々あって大変なんだぁ……",
+      "zh": ""
+    },
+    {
+      "key": "112.3",
+      "line_index": 112,
+      "inline_index": 3,
+      "line_hash": "657e8157",
+      "speaker": "コハル",
+      "ja": "いつもよりも食べ終わるのに時間がかかっちゃった。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "e084b91",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもすごく勉強になりました、ありがとうございます。",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "dff8d6f2",
+      "speaker": "ベス",
+      "ja": "これくらいのこと、ごく普通の所作です。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "46ac2d33",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすが貴族様だ。",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "48e28f8f",
+      "speaker": "コハル",
+      "ja": "あっ、そういえば！　デザートにプリンがあったんだっけ！　今持ってくるね♥",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "280a84d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだ、ベスさんもどうです？　食後のデザートにプリン。",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "d53f564f",
+      "speaker": "ベス",
+      "ja": "ぷりん？　何です……そのぷりんというものは。",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "88f705c3",
+      "speaker": "コハル",
+      "ja": "これがプリンです、美味しそうでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "1074ef90",
+      "speaker": "ベス",
+      "ja": "まあ、プルンプルンしていて不思議なデザートだわ♥",
+      "zh": ""
+    },
+    {
+      "key": "139.3",
+      "line_index": 139,
+      "inline_index": 3,
+      "line_hash": "1074ef90",
+      "speaker": "ベス",
+      "ja": "甘そうな匂いもしているし……それでいて香ばしい香りもして♥",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "d0eec625",
+      "speaker": "{G_PlayerName}",
+      "ja": "甘いですよ、子どもが好むデザートですから。",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "a9a60274",
+      "speaker": "コハル",
+      "ja": "ちょっと！　その言い方だとまるで私がお子ちゃまみたいに聞こえるじゃない！",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "d6b48da0",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そういう意味で言った訳じゃないんだけど。",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "56fba3b4",
+      "speaker": "ベス",
+      "ja": "こほんっ……子どもの食べ物ですか。",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "70d41ef6",
+      "speaker": "ベス",
+      "ja": "（庶民の子どもが好むようなデザートなどに目を奪われるとは……",
+      "zh": ""
+    },
+    {
+      "key": "156.3",
+      "line_index": 156,
+      "inline_index": 3,
+      "line_hash": "70d41ef6",
+      "speaker": "ベス",
+      "ja": "何たる失態でしょうか。）",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "bb2e5e48",
+      "speaker": "コハル",
+      "ja": "あくまでも子どもが好むというだけで、",
+      "zh": ""
+    },
+    {
+      "key": "159.3",
+      "line_index": 159,
+      "inline_index": 3,
+      "line_hash": "bb2e5e48",
+      "speaker": "コハル",
+      "ja": "卵菓子の滑らかでプルンプルンの食感が口当たり良くて、",
+      "zh": ""
+    },
+    {
+      "key": "159.5",
+      "line_index": 159,
+      "inline_index": 5,
+      "line_hash": "bb2e5e48",
+      "speaker": "コハル",
+      "ja": "そして程々の甘みとカラメルに苦みが絶妙なんです。",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "9f77033b",
+      "speaker": "ベス",
+      "ja": "（なんだか、説明を聞いているととても美味しそうな感じで……",
+      "zh": ""
+    },
+    {
+      "key": "162.3",
+      "line_index": 162,
+      "inline_index": 3,
+      "line_hash": "9f77033b",
+      "speaker": "ベス",
+      "ja": "でも、やはり庶民の子どもが好むデザートなど……でもいい匂いですし……。）",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "458b2a9a",
+      "speaker": "{G_PlayerName}",
+      "ja": "取りあえず食べてみませんか？　美味しいですよ。",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "d9633bd2",
+      "speaker": "コハル",
+      "ja": "はい、どうぞ♥",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "dd88f229",
+      "speaker": "ベス",
+      "ja": "……そ、そうですね……せっかく用意して貰った物に手を付けないのは、",
+      "zh": ""
+    },
+    {
+      "key": "172.3",
+      "line_index": 172,
+      "inline_index": 3,
+      "line_hash": "dd88f229",
+      "speaker": "ベス",
+      "ja": "貴族として礼儀に反しますし。それでは、いただきます……ぱくっ……っ！？",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "4ff0a096",
+      "speaker": "ベス",
+      "ja": "まあ♥　なんと滑らかな食感♥　想像以上です♥",
+      "zh": ""
+    },
+    {
+      "key": "175.3",
+      "line_index": 175,
+      "inline_index": 3,
+      "line_hash": "4ff0a096",
+      "speaker": "ベス",
+      "ja": "それに本当に甘すぎずにカラメルの苦みととても合っていて、美味しい♥",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "1b8df028",
+      "speaker": "ベス",
+      "ja": "こんなに美味しいデザートを侮っていたことが申し訳ないわ♥",
+      "zh": ""
+    },
+    {
+      "key": "178.3",
+      "line_index": 178,
+      "inline_index": 3,
+      "line_hash": "1b8df028",
+      "speaker": "ベス",
+      "ja": "う～ん♥　とても美味しい♥",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "9ceb1e6f",
+      "speaker": "コハル",
+      "ja": "喜んでいただけて嬉しいです♥",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "c4a20b38",
+      "speaker": "ベス",
+      "ja": "こちらこそ、こんなに美味しい食後のデザートありがとうございます♥",
+      "zh": ""
+    },
+    {
+      "key": "184.3",
+      "line_index": 184,
+      "inline_index": 3,
+      "line_hash": "c4a20b38",
+      "speaker": "ベス",
+      "ja": "はむっ♥　本当に美味しい♥　プリンというデザート、覚えておきましょ♥",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "5b755585",
+      "speaker": "コハル",
+      "ja": "それじゃあまた用意しておきますね♥",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "8ea2672e",
+      "speaker": "ベス",
+      "ja": "まあ、それはとても楽しみですわ♥　んふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "b0316b79",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだか……ベスって貴族らしくない時の方が可愛いな……。）",
+      "zh": ""
+    }
+  ]
+}

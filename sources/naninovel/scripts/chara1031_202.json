@@ -1,0 +1,1489 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2d290205",
+      "speaker": "オーロラ",
+      "ja": "あちゃ～……また実験失敗……やり直しだね",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "ac9b4042",
+      "speaker": "",
+      "ja": "最近オーロラは上の空であることが増えた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "bf7c005a",
+      "speaker": "",
+      "ja": "実験の失敗の数も増え、",
+      "zh": ""
+    },
+    {
+      "key": "20.2",
+      "line_index": 20,
+      "inline_index": 2,
+      "line_hash": "bf7c005a",
+      "speaker": "",
+      "ja": "今も目の前にモクモクと黒い煙が立ち込めていた。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "859d18b8",
+      "speaker": "オーロラ",
+      "ja": "ごめんね、今日も実験失敗しちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "dbffed68",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いや、いいんだよ、実験に失敗は付き物だと思うしさ。",
+      "zh": ""
+    },
+    {
+      "key": "28.2",
+      "line_index": 28,
+      "inline_index": 2,
+      "line_hash": "dbffed68",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺が片づけるから、オーロラは休んでて",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "7fd3d3be",
+      "speaker": "オーロラ",
+      "ja": "うん……ありがとう",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b61e76ad",
+      "speaker": "",
+      "ja": "オーロラが上の空の原因、それは何となくわかっている。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "4f27f30e",
+      "speaker": "",
+      "ja": "毎日俺を潤んだ瞳で見つめてくるオーロラ。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "f6f7f8da",
+      "speaker": "",
+      "ja": "その瞳は何かを求めている、",
+      "zh": ""
+    },
+    {
+      "key": "38.2",
+      "line_index": 38,
+      "inline_index": 2,
+      "line_hash": "f6f7f8da",
+      "speaker": "",
+      "ja": "ただ何を求めているのかそれがわからなかった。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "cd9785a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もういっそのこと本人に直接聞くのがいいのかな……。",
+      "zh": ""
+    },
+    {
+      "key": "41.2",
+      "line_index": 41,
+      "inline_index": 2,
+      "line_hash": "cd9785a",
+      "speaker": "{G_PlayerName}",
+      "ja": "この前のお礼もしたいし、俺にできることは何でもやろう）",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "df4c18ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "あのさ、オーロラ、何か俺にして欲しいこととかない？",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "9724d6c6",
+      "speaker": "オーロラ",
+      "ja": "ん……？　どうしたの突然そんなこと聞いてきて",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "a7a252d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いや……なんとなく、ね……。",
+      "zh": ""
+    },
+    {
+      "key": "53.2",
+      "line_index": 53,
+      "inline_index": 2,
+      "line_hash": "a7a252d",
+      "speaker": "{G_PlayerName}",
+      "ja": "オーロラが俺に何か求めているんじゃないかって……",
+      "zh": ""
+    },
+    {
+      "key": "53.4",
+      "line_index": 53,
+      "inline_index": 4,
+      "line_hash": "a7a252d",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして俺の己惚れだったのかな……",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "f709753e",
+      "speaker": "オーロラ",
+      "ja": "己惚れなんかじゃないよ。",
+      "zh": ""
+    },
+    {
+      "key": "58.2",
+      "line_index": 58,
+      "inline_index": 2,
+      "line_hash": "f709753e",
+      "speaker": "オーロラ",
+      "ja": "あなたの言っていること、間違っていないから",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "41b4700e",
+      "speaker": "オーロラ",
+      "ja": "あたしが今一番求めているのはあなた……",
+      "zh": ""
+    },
+    {
+      "key": "62.2",
+      "line_index": 62,
+      "inline_index": 2,
+      "line_hash": "41b4700e",
+      "speaker": "オーロラ",
+      "ja": "ううん、あなたとセックス、したい……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "346993d",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっオーロラっ！？",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "5a62c630",
+      "speaker": "",
+      "ja": "オーロラはそう告げると立ち上がり、衣服を脱ぎだす。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "cb8af3d8",
+      "speaker": "",
+      "ja": "そして生まれたままの姿になると、俺の目の前にやってくる。",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "2de8fbfa",
+      "speaker": "",
+      "ja": "真っ白な肌、そして僅かに主張する小さな乳房。",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "b7f3a9",
+      "speaker": "",
+      "ja": "無毛なあそこに閉じた割れ目が僅かに見え、",
+      "zh": ""
+    },
+    {
+      "key": "72.2",
+      "line_index": 72,
+      "inline_index": 2,
+      "line_hash": "b7f3a9",
+      "speaker": "",
+      "ja": "その麗しくも可愛らしい裸に、心臓がバクバクと音を立てた。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "3c61401e",
+      "speaker": "オーロラ",
+      "ja": "ダメ……かな……？",
+      "zh": ""
+    },
+    {
+      "key": "76.2",
+      "line_index": 76,
+      "inline_index": 2,
+      "line_hash": "3c61401e",
+      "speaker": "オーロラ",
+      "ja": "こんな小さいあたしじゃセックスできないかな……？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "e0261d3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……いや、その……！　で、できる、と思うけど……。",
+      "zh": ""
+    },
+    {
+      "key": "79.2",
+      "line_index": 79,
+      "inline_index": 2,
+      "line_hash": "e0261d3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ただ、なんで……？　理由教えてくれるかな……？",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "f86e2469",
+      "speaker": "オーロラ",
+      "ja": "最近あなたがほかの娘と話しているのを見ると、",
+      "zh": ""
+    },
+    {
+      "key": "85.2",
+      "line_index": 85,
+      "inline_index": 2,
+      "line_hash": "f86e2469",
+      "speaker": "オーロラ",
+      "ja": "なんかこう……胸がもやもやしちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "91620e8c",
+      "speaker": "オーロラ",
+      "ja": "嫉妬、しているんだなっていうのは何となくわかるんだけどね……。",
+      "zh": ""
+    },
+    {
+      "key": "89.2",
+      "line_index": 89,
+      "inline_index": 2,
+      "line_hash": "91620e8c",
+      "speaker": "オーロラ",
+      "ja": "重いかな？　こんなこと言われて……",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "d9a3dd1f",
+      "speaker": "オーロラ",
+      "ja": "でも一度だけでいいの……お願いしたいな……。",
+      "zh": ""
+    },
+    {
+      "key": "92.2",
+      "line_index": 92,
+      "inline_index": 2,
+      "line_hash": "d9a3dd1f",
+      "speaker": "オーロラ",
+      "ja": "あなたに抱いて欲しい……あなたと一つになりたいの……",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "6552ec3e",
+      "speaker": "",
+      "ja": "普段のふわふわした態度ではなく、真剣な眼差しを向けるオーロラ。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "93e7389f",
+      "speaker": "",
+      "ja": "その真摯な態度に断れるはずもなく、",
+      "zh": ""
+    },
+    {
+      "key": "96.2",
+      "line_index": 96,
+      "inline_index": 2,
+      "line_hash": "93e7389f",
+      "speaker": "",
+      "ja": "俺はベルトを外し、ズボンを勢いよく脱ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "53a46c8",
+      "speaker": "オーロラ",
+      "ja": "──ひゃっ！？　お、おちんちん……すごいおっきくなってる、ね……",
+      "zh": ""
+    },
+    {
+      "key": "102.2",
+      "line_index": 102,
+      "inline_index": 2,
+      "line_hash": "53a46c8",
+      "speaker": "オーロラ",
+      "ja": "この前見た時よりなんかすごい感じ……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "553f0dc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうここまでなったら後戻りできないよ。俺で本当にいい？",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "69e4730f",
+      "speaker": "オーロラ",
+      "ja": "うん、あなただからいいの♥　だから抱いて……♥",
+      "zh": ""
+    },
+    {
+      "key": "112.2",
+      "line_index": 112,
+      "inline_index": 2,
+      "line_hash": "69e4730f",
+      "speaker": "オーロラ",
+      "ja": "あたしをあなたので”女”にして……♥",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "528dbba6",
+      "speaker": "オーロラ",
+      "ja": "あうう♥　お尻、熱いぃ……あうっ♥",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "ef2477c1",
+      "speaker": "オーロラ",
+      "ja": "（ううう……勢いに任せて言っちゃったけど、",
+      "zh": ""
+    },
+    {
+      "key": "129.2",
+      "line_index": 129,
+      "inline_index": 2,
+      "line_hash": "ef2477c1",
+      "speaker": "オーロラ",
+      "ja": "いざ本番となると、やっぱり恥ずかしい……）",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "787fd21c",
+      "speaker": "",
+      "ja": "オーロラは向き合うのが恥ずかしいのか、",
+      "zh": ""
+    },
+    {
+      "key": "131.2",
+      "line_index": 131,
+      "inline_index": 2,
+      "line_hash": "787fd21c",
+      "speaker": "",
+      "ja": "身体を隠すようにぎゅっと枕を抱きかかえる。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "b4f36ac1",
+      "speaker": "",
+      "ja": "そんな恥じらう姿を見せられ、",
+      "zh": ""
+    },
+    {
+      "key": "133.2",
+      "line_index": 133,
+      "inline_index": 2,
+      "line_hash": "b4f36ac1",
+      "speaker": "",
+      "ja": "肉棒がさらにムクムクと勃起してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "cdf2cd72",
+      "speaker": "オーロラ",
+      "ja": "（す、ごい……まだ大きくなってる……。",
+      "zh": ""
+    },
+    {
+      "key": "136.2",
+      "line_index": 136,
+      "inline_index": 2,
+      "line_hash": "cdf2cd72",
+      "speaker": "オーロラ",
+      "ja": "それだけあたしで興奮しているのかな……？　",
+      "zh": ""
+    },
+    {
+      "key": "136.4",
+      "line_index": 136,
+      "inline_index": 4,
+      "line_hash": "cdf2cd72",
+      "speaker": "オーロラ",
+      "ja": "それなら嬉しいけど……。でもあんなに大きいの本当に入るの……？）",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "10294726",
+      "speaker": "",
+      "ja": "オーロラは肉棒に目を向けると、不安そうな表情を見せる。",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "d2b01888",
+      "speaker": "",
+      "ja": "少しでも落ち着かせようと、柔らかな髪を優しく撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "a24d41a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "優しくするから……もし無理だったら我慢しないで言って",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "eddb8117",
+      "speaker": "オーロラ",
+      "ja": "あ、うん……ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "b4330172",
+      "speaker": "",
+      "ja": "耳元で優しく囁くと、不安げな表情が消える。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "3d1161f0",
+      "speaker": "",
+      "ja": "そして同時に僅かに開いている割れ目から、大量の蜜が溢れてきた。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "c1349bf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ……行くよ、オーロラ。身体の力を抜いて",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "6971258e",
+      "speaker": "オーロラ",
+      "ja": "うん……来て……♥",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "12f1ee55",
+      "speaker": "オーロラ",
+      "ja": "はぎゅぅぅ……！　うあ、んぅ……んんんんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "302d03ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "うく……きつい……！！",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "ad47e55d",
+      "speaker": "",
+      "ja": "肉棒の先端を僅かに差し込むも、",
+      "zh": ""
+    },
+    {
+      "key": "170.2",
+      "line_index": 170,
+      "inline_index": 2,
+      "line_hash": "ad47e55d",
+      "speaker": "",
+      "ja": "小さな膣穴が肉棒を押し戻そうとしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "6c2f8d65",
+      "speaker": "",
+      "ja": "腰にぐっと力を入れると、膣肉をこじ開けるように肉棒を捻じ込む。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "4e9abd2a",
+      "speaker": "オーロラ",
+      "ja": "あ、う……く、う、んぅ……ふ、ふぅぅぅ……！！",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "cae25e34",
+      "speaker": "オーロラ",
+      "ja": "（大きいの……入って……これ、すごい圧迫感……！！",
+      "zh": ""
+    },
+    {
+      "key": "178.2",
+      "line_index": 178,
+      "inline_index": 2,
+      "line_hash": "cae25e34",
+      "speaker": "オーロラ",
+      "ja": "息が詰まっちゃう……思っていたより全然大きすぎるぅ……！！）",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "5f852398",
+      "speaker": "オーロラ",
+      "ja": "（でも痛くないし、これなら耐えられる……。",
+      "zh": ""
+    },
+    {
+      "key": "181.2",
+      "line_index": 181,
+      "inline_index": 2,
+      "line_hash": "5f852398",
+      "speaker": "オーロラ",
+      "ja": "あ、あ……まだ奥に……く、るぅ……！！）",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "ed874c",
+      "speaker": "オーロラ",
+      "ja": "あああ……こ、これ……一番奥にぃ……！",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "4cfa7a32",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、入ったよ",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "bb0a08e4",
+      "speaker": "オーロラ",
+      "ja": "ああ、よかった……ちゃんと奥まで入ってくれて……",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "35e52bfd",
+      "speaker": "",
+      "ja": "そっとオーロラの頭を撫でると、嬉しそうに微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "d65bbeac",
+      "speaker": "",
+      "ja": "そして僅かに力が抜けたのか、肉棒の締め付けが少し緩やかになる。",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "30ddbbbb",
+      "speaker": "{G_PlayerName}",
+      "ja": "このまま動くけど……大丈夫そう？",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "c47d0e16",
+      "speaker": "オーロラ",
+      "ja": "うん……♥　多分へーき♥　痛くないし……♥",
+      "zh": ""
+    },
+    {
+      "key": "201.2",
+      "line_index": 201,
+      "inline_index": 2,
+      "line_hash": "c47d0e16",
+      "speaker": "オーロラ",
+      "ja": "だからいっぱい動いて♥　あたしの中でおちんちん気持ち良くして♥",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "d0f41c8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうさせてもらうよ。でもオーロラも感じてくれなきゃイヤだ、一緒に気持ち良くなろう",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "1d8404ca",
+      "speaker": "オーロラ",
+      "ja": "うん♥　いっぱい感じさせて……♥",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "2fb7a09",
+      "speaker": "オーロラ",
+      "ja": "んぅぅ！♥　ふ、んっ！♥　んぅ……ふぅぅぅ！♥",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "ad1d2f25",
+      "speaker": "",
+      "ja": "ゆっくりと腰を動かしと、オーロラの口から甘い喘ぎ声が漏れる。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "3e3413a9",
+      "speaker": "オーロラ",
+      "ja": "ぅぅんっ！♥　奥ぅ……あうっ！♥　だ、めぇ……はうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "d9e677b7",
+      "speaker": "",
+      "ja": "膣が強く締まり、無数の肉ヒダが肉棒に絡みつく。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "240e97e5",
+      "speaker": "",
+      "ja": "それを強引に掻き分ける感触に、思わず全身を震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "e93464b1",
+      "speaker": "オーロラ",
+      "ja": "中……ぐりぐりって……あうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "252.2",
+      "line_index": 252,
+      "inline_index": 2,
+      "line_hash": "e93464b1",
+      "speaker": "オーロラ",
+      "ja": "これ、思った以上に……気持ち、いい、かもぉ……んんんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "50575371",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら声ガマンしなくても大丈夫だよ。",
+      "zh": ""
+    },
+    {
+      "key": "255.2",
+      "line_index": 255,
+      "inline_index": 2,
+      "line_hash": "50575371",
+      "speaker": "{G_PlayerName}",
+      "ja": "もっとオーロラの可愛い声聞かせて",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "ae910357",
+      "speaker": "オーロラ",
+      "ja": "ひうっ！♥　あっ♥　あぁっ♥　そ、そんなに早く動いちゃダメぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "9b939628",
+      "speaker": "",
+      "ja": "肉棒を押し込むたびに、",
+      "zh": ""
+    },
+    {
+      "key": "261.2",
+      "line_index": 261,
+      "inline_index": 2,
+      "line_hash": "9b939628",
+      "speaker": "",
+      "ja": "下腹部にオーロラの柔らかく小さなお尻が当たる。",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "919932ba",
+      "speaker": "",
+      "ja": "その弾力がとても心地良く、",
+      "zh": ""
+    },
+    {
+      "key": "262.2",
+      "line_index": 262,
+      "inline_index": 2,
+      "line_hash": "919932ba",
+      "speaker": "",
+      "ja": "腰を打ち付ける回数がどんどん増えていく。",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "df4e9c4a",
+      "speaker": "オーロラ",
+      "ja": "おちんちん、おちんちんすごいよぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "265.2",
+      "line_index": 265,
+      "inline_index": 2,
+      "line_hash": "df4e9c4a",
+      "speaker": "オーロラ",
+      "ja": "んんぅぅぅ♥気持ち良いの……もっと……もっとパンパンしてぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "4c2d89d1",
+      "speaker": "",
+      "ja": "オーロラは無意識に腰を押し付けおねだりをしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "cbb3eb43",
+      "speaker": "",
+      "ja": "そんな彼女に応えるように、さらに腰を前に突き出す。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "5849d335",
+      "speaker": "",
+      "ja": "ぐちゅぐちゅといやらしい水音が部屋中に響き渡り、",
+      "zh": ""
+    },
+    {
+      "key": "270.2",
+      "line_index": 270,
+      "inline_index": 2,
+      "line_hash": "5849d335",
+      "speaker": "",
+      "ja": "オーロラの喘ぎ声もどんどん高くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "a0469e8d",
+      "speaker": "オーロラ",
+      "ja": "はうっ！♥　あ、あああぁっ！♥　お、おちんちん跳ねて……あうっ♥も、もうイっちゃう？♥　イっちゃうの？♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "59a57fbc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、もう限界かも……だからオーロラも一緒にっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "902b9c99",
+      "speaker": "オーロラ",
+      "ja": "ひあぁっ！？　あっ！♥　んあぁっ！♥　そんな奥ぅ、ばっかりぃ！♥",
+      "zh": ""
+    },
+    {
+      "key": "280.2",
+      "line_index": 280,
+      "inline_index": 2,
+      "line_hash": "902b9c99",
+      "speaker": "オーロラ",
+      "ja": "ふあぁっ！♥　あ、あぁぁっ！　んああぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "4b6fc406",
+      "speaker": "",
+      "ja": "オーロラを絶頂させようと執拗に膣奥を突きあげる。",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "8d8c8cbe",
+      "speaker": "",
+      "ja": "彼女の全身がビクンと何度も跳ね、膣がきゅっと締まる。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "690611fe",
+      "speaker": "オーロラ",
+      "ja": "あっ♥　目の奥チカチカして……これなにぃ……あうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "286.2",
+      "line_index": 286,
+      "inline_index": 2,
+      "line_hash": "690611fe",
+      "speaker": "オーロラ",
+      "ja": "ああ、ダメ……何か……あっ！♥　あああぁっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "9021af19",
+      "speaker": "{G_PlayerName}",
+      "ja": "くう……もうダメ……！　出るっ……！　く、うううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "a82527d5",
+      "speaker": "オーロラ",
+      "ja": "ふあああぁぁっ♥　あ、熱いぃぃ……んぅ♥　ふ、うううっ♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "d53dec14",
+      "speaker": "",
+      "ja": "限界まで我慢を重ねた欲望の塊りを一気に開放する。",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "df19bea7",
+      "speaker": "",
+      "ja": "それと同時にオーロラも絶頂し、",
+      "zh": ""
+    },
+    {
+      "key": "302.2",
+      "line_index": 302,
+      "inline_index": 2,
+      "line_hash": "df19bea7",
+      "speaker": "",
+      "ja": "小さな身体がビクンと大きく跳ね上がる。",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "bc6f3986",
+      "speaker": "オーロラ",
+      "ja": "んぅ、ふあ……ああ……あなたの……いっぱい出て……んぅぅう♥",
+      "zh": ""
+    },
+    {
+      "key": "305.2",
+      "line_index": 305,
+      "inline_index": 2,
+      "line_hash": "bc6f3986",
+      "speaker": "オーロラ",
+      "ja": "背中あったかいぃ……はぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "c20ed9c2",
+      "speaker": "オーロラ",
+      "ja": "（まだ出てる……この前お口でしたときよりもいっぱい……♥",
+      "zh": ""
+    },
+    {
+      "key": "308.2",
+      "line_index": 308,
+      "inline_index": 2,
+      "line_hash": "c20ed9c2",
+      "speaker": "オーロラ",
+      "ja": "あたしのちっちゃな身体でも気持ち良くなってくれた……",
+      "zh": ""
+    },
+    {
+      "key": "308.4",
+      "line_index": 308,
+      "inline_index": 4,
+      "line_hash": "c20ed9c2",
+      "speaker": "オーロラ",
+      "ja": "嬉しい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "deadbc83",
+      "speaker": "",
+      "ja": "オーロラの傷一つない綺麗で真っ白な背中を自分のモノで汚す……。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "95432c26",
+      "speaker": "",
+      "ja": "その背徳感にこれだけ射精したにも関わらず、",
+      "zh": ""
+    },
+    {
+      "key": "311.2",
+      "line_index": 311,
+      "inline_index": 2,
+      "line_hash": "95432c26",
+      "speaker": "",
+      "ja": "勃起が静まる気配がない。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "7298b83c",
+      "speaker": "",
+      "ja": "そんな俺を察したのか、",
+      "zh": ""
+    },
+    {
+      "key": "313.2",
+      "line_index": 313,
+      "inline_index": 2,
+      "line_hash": "7298b83c",
+      "speaker": "",
+      "ja": "オーロラはお尻を肉棒に押し当て腰をフリフリと振る。",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "72dd931d",
+      "speaker": "オーロラ",
+      "ja": "まだおちんちん硬いままだよ……♥　もう一回……する……？♥",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "20f384b8",
+      "speaker": "",
+      "ja": "そんなことを可愛い声で言われ、肉棒がビクンと跳ねてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "5c99e07c",
+      "speaker": "オーロラ",
+      "ja": "えへへ♥　おちんちんはしたいみたいだね♥",
+      "zh": ""
+    },
+    {
+      "key": "321.2",
+      "line_index": 321,
+      "inline_index": 2,
+      "line_hash": "5c99e07c",
+      "speaker": "オーロラ",
+      "ja": "あたしももっとしたい……だから来て♥　またたくさんパンパンして♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "501b36b6",
+      "speaker": "オーロラ",
+      "ja": "ふあぁぁっ！♥　おちんちん気持ち良いよぉ♥　あああぁぁん♥",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "773419a9",
+      "speaker": "",
+      "ja": "最初とは違い、するりと肉棒を受け入れる膣。",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "713f92b0",
+      "speaker": "",
+      "ja": "とろとろに蕩け切った膣肉を興奮に任せ擦り上げる。",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "cc340122",
+      "speaker": "オーロラ",
+      "ja": "すきぃ……大好きぃ……♥　あなたのこと……好きになって良かったよぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "a7b618aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もオーロラのこと、好きだ、愛してる……！！",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "13daa69f",
+      "speaker": "オーロラ",
+      "ja": "嬉しい……嬉しいよぉ♥　ああぁっ♥　ふあああぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "c826a588",
+      "speaker": "",
+      "ja": "奥をピストンするたびに、子宮口が肉棒の先端に吸い付く。",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "4a2cb26f",
+      "speaker": "",
+      "ja": "その吸い付きの気持ち良さに、俺はさらに腰の動きを加速させる。",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "201223e3",
+      "speaker": "オーロラ",
+      "ja": "奥気持ち良いぃ♥　あああ♥　あたし、またすぐに……あううっ♥",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "3822d07e",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もだ……また二人で一緒に絶頂しよう……！",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "bfbf8118",
+      "speaker": "オーロラ",
+      "ja": "うん♥　次は膣内が良い♥　おまんこの中でイって♥",
+      "zh": ""
+    },
+    {
+      "key": "353.2",
+      "line_index": 353,
+      "inline_index": 2,
+      "line_hash": "bfbf8118",
+      "speaker": "オーロラ",
+      "ja": "あなたの精液でいっぱいに満たしてっ♥",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "b95d078c",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……全部オーロラの中に……！！",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "903efbfb",
+      "speaker": "オーロラ",
+      "ja": "んぅぅぅ♥　ああぁっ♥　イって！♥　びゅるびゅるしてっ♥",
+      "zh": ""
+    },
+    {
+      "key": "360.2",
+      "line_index": 360,
+      "inline_index": 2,
+      "line_hash": "903efbfb",
+      "speaker": "オーロラ",
+      "ja": "あたしはあなたのモノなんだって印……",
+      "zh": ""
+    },
+    {
+      "key": "360.4",
+      "line_index": 360,
+      "inline_index": 4,
+      "line_hash": "903efbfb",
+      "speaker": "オーロラ",
+      "ja": "おまんこの中に刻み込んでぇぇっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "813f1cd3",
+      "speaker": "オーロラ",
+      "ja": "はうううっ！♥　ああぁぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "368.2",
+      "line_index": 368,
+      "inline_index": 2,
+      "line_hash": "813f1cd3",
+      "speaker": "オーロラ",
+      "ja": "中で……出……んあああぁぁっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "c461fd6a",
+      "speaker": "",
+      "ja": "俺の射精で絶頂してしまうオーロラ。",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "ee98a02a",
+      "speaker": "",
+      "ja": "可愛い悲鳴を何度も上げながら、",
+      "zh": ""
+    },
+    {
+      "key": "371.2",
+      "line_index": 371,
+      "inline_index": 2,
+      "line_hash": "ee98a02a",
+      "speaker": "",
+      "ja": "ビクンビクンと身体を大きく震わせる。",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "e909f000",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、あ……止まらない……くぅ……！！",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "fbf56a66",
+      "speaker": "",
+      "ja": "膣肉が何度も肉棒を扱き、その都度肉竿を熱いモノが駆け上がる。",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "90f6b309",
+      "speaker": "オーロラ",
+      "ja": "ああぁ♥　お腹の奥、あなたのでいっぱい……嬉しいよぉ♥　はぁ～♥",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "8531a32",
+      "speaker": "",
+      "ja": "ようやく射精を終え、結合部から大量の精液が溢れる。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "f05c8a0a",
+      "speaker": "",
+      "ja": "オーロラは肩で息をしながらも、幸せそうな笑みを見せる。",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "c883442c",
+      "speaker": "",
+      "ja": "そんなオーロラを愛しく感じ、また優しく頭を撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "e17417ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとうオーロラ、すごく気持ち良かった",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "5da0a2c6",
+      "speaker": "オーロラ",
+      "ja": "あたしもすごくよかったよ♥　初めてがあなたでよかった♥　えへへ♥",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "8eba4a00",
+      "speaker": "オーロラ",
+      "ja": "ねぇこれからもあたしとセックスしてくれる……？♥",
+      "zh": ""
+    },
+    {
+      "key": "395.2",
+      "line_index": 395,
+      "inline_index": 2,
+      "line_hash": "8eba4a00",
+      "speaker": "オーロラ",
+      "ja": "ずっとずっと一緒にいてくれる……？♥",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "56ae2d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、もちろん傍にいるよ。何があってもずっと一緒にいる……約束だ",
+      "zh": ""
+    },
+    {
+      "key": "402.0",
+      "line_index": 402,
+      "inline_index": 0,
+      "line_hash": "2dc15f2c",
+      "speaker": "オーロラ",
+      "ja": "ふへへ……ありがと♥　大好きだよ♥",
+      "zh": ""
+    }
+  ]
+}

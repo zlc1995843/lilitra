@@ -1,0 +1,616 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "a6a4302",
+      "speaker": "教師",
+      "ja": "それでは……この材料の性質について……ミキュナさん、説明して下さい。",
+      "zh": "那么……关于这种材料的特性……米丘娜同学，请你来讲解一下。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "186a8ea0",
+      "speaker": "ミキュナ",
+      "ja": "は、はい！　え、え～っと……この材料の……せ、性質は……ですね……。",
+      "zh": "好、好的！呃，那个……这个材料的……性、性质是……呢……"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "77a716f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ～……ミキュナ、すごくあがっちゃってるな。",
+      "zh": "哇……米丘娜也太紧张了吧。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "3391b0a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "声が震えちゃってるし、上手く喋れていないし、大丈夫かな。",
+      "zh": "声音都在抖，话也说不利索，她没事吧？"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "6f431b89",
+      "speaker": "ミキュナ",
+      "ja": "え～っとですね……こ、この材料が採れるのは……湿地帯などで……。",
+      "zh": "呃，那个……这、这种材料是……在湿地之类的地方……采的。"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "fff69429",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい……素材の性質を聞かれているのに産出場所に答えが変わってるよ。",
+      "zh": "喂喂……人家问的是性质，她怎么答成产地了。"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "f2dcc64a",
+      "speaker": "ミキュナ",
+      "ja": "そしてこの材料が入手できない場合は……",
+      "zh": "然后，如果这种材料弄不到的话……"
+    },
+    {
+      "key": "39.3",
+      "line_index": 39,
+      "inline_index": 3,
+      "line_hash": "f2dcc64a",
+      "speaker": "ミキュナ",
+      "ja": "べ、別の材料で代替えすることができまして……その素材というのが……。",
+      "zh": "可、可以用别的材料来代替……那种材料呢就是……"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "de8fe03",
+      "speaker": "{G_PlayerName}",
+      "ja": "だめだ……聞かれたことと別のことを話してしまっている……。",
+      "zh": "完了……完全答非所问了……"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "2de2e446",
+      "speaker": "教師",
+      "ja": "ミキュナさん、私が質問したのは素材の性質に関してですよ。",
+      "zh": "米丘娜同学，我问的是这种材料的性质哦。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "9d45ddcc",
+      "speaker": "ミキュナ",
+      "ja": "あわわ……す、すみません……素材の性質ですよね……え、えっと……。",
+      "zh": "哇哇……对、对不起……性质，是性质对吧……呃，嗯……"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "4c557df6",
+      "speaker": "教師",
+      "ja": "もう結構です、それでは次の人……。",
+      "zh": "可以了，下一位同学……"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "d6543150",
+      "speaker": "ミキュナ",
+      "ja": "はうう～……ぐっすん……。",
+      "zh": "呜呜……（抽泣）……"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "bdb8360b",
+      "speaker": "ミキュナ",
+      "ja": "うううう……失敗してしまいました……。",
+      "zh": "呜呜……我搞砸了……"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "bdb33e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ミキュナ……大丈夫かい？",
+      "zh": "米丘娜……你还好吗？"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "f3c59b60",
+      "speaker": "ミキュナ",
+      "ja": "ほえぇ～？　なんでお兄さんがこんなところにいるのですか？！　生徒でもないのに？",
+      "zh": "咦～！？为什么大哥哥会在这里！？你又不是学生！"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "395f861",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、見学してもいいかって聞いたらＯＫ貰ったんで、",
+      "zh": "不，我问能不能旁听，就得到了允许，"
+    },
+    {
+      "key": "75.2",
+      "line_index": 75,
+      "inline_index": 2,
+      "line_hash": "395f861",
+      "speaker": "{G_PlayerName}",
+      "ja": "丁度ミキュナの授業を見学することになったんだよ。",
+      "zh": "正好就来旁听你的课了。"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "a6b9eb18",
+      "speaker": "ミキュナ",
+      "ja": "あわわっ！　お、お恥ずかしい姿をお目にかけてしまって……",
+      "zh": "哇哇！被、被你看到这么丢人的样子了……"
+    },
+    {
+      "key": "79.3",
+      "line_index": 79,
+      "inline_index": 3,
+      "line_hash": "a6b9eb18",
+      "speaker": "ミキュナ",
+      "ja": "ああ、穴があったら入りたいです……。",
+      "zh": "啊，真想找个地缝钻进去……"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "721e0f58",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに落ち込まないで……失敗は誰にでもあることだよ。",
+      "zh": "别这么消沉……谁都有失败的时候。"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "e51a915e",
+      "speaker": "ミキュナ",
+      "ja": "それはそうかもしれませんが……",
+      "zh": "话是这么说没错……"
+    },
+    {
+      "key": "86.3",
+      "line_index": 86,
+      "inline_index": 3,
+      "line_hash": "e51a915e",
+      "speaker": "ミキュナ",
+      "ja": "あんな失態をお兄さんに見られてしまうなんて……。",
+      "zh": "结果被你看到我那么丢脸……"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "98509a99",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても、博学なミキュナがあんな状態になってしまうなんて、調子悪いのかい？",
+      "zh": "不过话说回来，你平时那么博学，怎么会那样？是不是不舒服啊？"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "c53aad77",
+      "speaker": "ミキュナ",
+      "ja": "そうではなくて、知識があっても急に当てられると焦ってしまって、",
+      "zh": "不是，就算知道，突然被问到就会慌了神，"
+    },
+    {
+      "key": "93.3",
+      "line_index": 93,
+      "inline_index": 3,
+      "line_hash": "c53aad77",
+      "speaker": "ミキュナ",
+      "ja": "頭の中で情報がグチャグチャになってしまって、上手く答えられなくなるんです。",
+      "zh": "脑子里的东西就搅成一团，没办法好好回答了。"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "eb99ec2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……それなら普段から頭の中の情報を整理して",
+      "zh": "这样啊……那平时就多整理整理脑子里的知识，"
+    },
+    {
+      "key": "96.2",
+      "line_index": 96,
+      "inline_index": 2,
+      "line_hash": "eb99ec2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "話す練習をすればいいんじゃないかな。",
+      "zh": "练练怎么表达，应该会好点吧。"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "5419c304",
+      "speaker": "ミキュナ",
+      "ja": "練習ですか……それで上手く話せるようになるでしょうか？",
+      "zh": "练习……那样就能让我好好说话了吗？"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "b1abbc0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは保証できないけれど、やってみる価値はあるんじゃないか？",
+      "zh": "这我可不敢打包票，但总值得试试看吧？"
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "a4139e8c",
+      "speaker": "ミキュナ",
+      "ja": "それもそうですね、わたしやってみます！　頑張ってみます！",
+      "zh": "说的也是，我试试看！我会努力的！"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "3f0a70d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのいきだよ、俺も協力するから特訓しよう。",
+      "zh": "这才对嘛，我也会帮你的，咱们特训吧。"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "e586158a",
+      "speaker": "ミキュナ",
+      "ja": "はい！　よろしくお願いします！",
+      "zh": "好的！请多指教！"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "5cd78cf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ、まずは当てられる予測をすることから始めてみようか。",
+      "zh": "那好，咱们就先从预判会被点到开始练吧。"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "e0dad875",
+      "speaker": "ミキュナ",
+      "ja": "当てられる予測……？",
+      "zh": "预判被点到……？"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "e83d9ac2",
+      "speaker": "{G_PlayerName}",
+      "ja": "指名される時って、相手と目があったり逆に油断していたりしている時が多いだろ。",
+      "zh": "被叫到回答的时候，经常是跟老师对上了眼，或者刚好放松警惕的时候吧。"
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "7e101916",
+      "speaker": "ミキュナ",
+      "ja": "確かにそうかもしれないですね、",
+      "zh": "确实有可能呢，"
+    },
+    {
+      "key": "128.3",
+      "line_index": 128,
+      "inline_index": 3,
+      "line_hash": "7e101916",
+      "speaker": "ミキュナ",
+      "ja": "油断している時に当てられるとすごくビックリしてパニックになっちゃって。",
+      "zh": "一不留神被叫到，就会吓一跳，然后就乱了阵脚。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "4cd63846",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうならないように、先生の動きをしっかり観察しておかないと。",
+      "zh": "所以，为了避免这种情况，得注意观察老师的动作。"
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "c81482f7",
+      "speaker": "ミキュナ",
+      "ja": "なるほど～……それで当てられても慌てずに済むんですね。",
+      "zh": "原来如此～……这样一来，就算被点名也不会慌了呢。"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "2d66b9c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "当てられた後は、すぐに話し始めるんじゃなくて、",
+      "zh": "被点名之后，别急着开口，"
+    },
+    {
+      "key": "138.2",
+      "line_index": 138,
+      "inline_index": 2,
+      "line_hash": "2d66b9c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "一回深呼吸をして頭の中で少し話をまとめてから口を開くのがいいんじゃないかな。",
+      "zh": "先深呼吸一下，脑子里略微组织一下语言，然后再说话。"
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "3576f51",
+      "speaker": "ミキュナ",
+      "ja": "一回落ち着くということですね、なるほど……。",
+      "zh": "就是要先冷静下来是吧，有道理……"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "92d5a7db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ではミキュナさん、オリハルコンに関しての説明をしてください。",
+      "zh": "那么，米丘娜同学，请你说明一下奥利哈刚。"
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "9ebfcc05",
+      "speaker": "ミキュナ",
+      "ja": "えっ？！　いきなりそんなこと言われても！　えっと！　えっと！",
+      "zh": "诶！？怎么突然又叫我回答啊！呃，呃！"
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "a705d4db",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからそこで慌てちゃうのがいけないんだよ、",
+      "zh": "所以说，你就在那种时候慌张可不行啊，"
+    },
+    {
+      "key": "152.2",
+      "line_index": 152,
+      "inline_index": 2,
+      "line_hash": "a705d4db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら当てられたら落ち着くように深呼吸して。",
+      "zh": "来，被点名了就要沉住气，先深呼吸。"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "fb130649",
+      "speaker": "ミキュナ",
+      "ja": "そ、そうでした！　す～は～……うん、落ち着いて……",
+      "zh": "对、对没错！吸～呼～……嗯，冷静下来……"
+    },
+    {
+      "key": "156.3",
+      "line_index": 156,
+      "inline_index": 3,
+      "line_hash": "fb130649",
+      "speaker": "ミキュナ",
+      "ja": "話し出す前に頭の中で少しまとめて……。",
+      "zh": "在开始说之前，先在脑子里稍微组织一下……"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "8d570f87",
+      "speaker": "ミキュナ",
+      "ja": "……うん……オリハルコンというのはですね、",
+      "zh": "……嗯……奥利哈刚呢，"
+    },
+    {
+      "key": "159.3",
+      "line_index": 159,
+      "inline_index": 3,
+      "line_hash": "8d570f87",
+      "speaker": "ミキュナ",
+      "ja": "希少金属で非常に産出量が少なく一部の地域でしか採れない金属です。",
+      "zh": "是一种稀有金属，产量极少，只有部分地区才能开采到的金属。"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "869c6485",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうそう、いい感じじゃないか、",
+      "zh": "很好，这感觉不错。"
+    },
+    {
+      "key": "162.2",
+      "line_index": 162,
+      "inline_index": 2,
+      "line_hash": "869c6485",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあこれから時々不意に質問するからそれに答えてみて。",
+      "zh": "那接下来我会时不时突然提问，你试着回答。"
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "e6731f1b",
+      "speaker": "ミキュナ",
+      "ja": "それが特訓ですね、頑張ってみます！",
+      "zh": "这就是特训啊，我会加油的！"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "9603ddb1",
+      "speaker": "教師",
+      "ja": "それでは……この魔法薬の材料に関して……ミキュナさん、説明してみて下さい。",
+      "zh": "那么……关于这种魔法药的材料……米丘娜同学，请说明一下。"
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "6abb475f",
+      "speaker": "ミキュナ",
+      "ja": "は、はいっ！　この魔法薬はですね、主な材料としてマンドラゴラを使用しています。",
+      "zh": "是、是的！这种魔法药呢，主要材料使用的是曼德拉草。"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "1810a1a2",
+      "speaker": "ミキュナ",
+      "ja": "他にもヒソプ等が使用されていて、それにより効果を大きくさせます。",
+      "zh": "其他还添加了牛膝草之类的材料，用来提升药效。"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "a275ffb9",
+      "speaker": "ミキュナ",
+      "ja": "（やった！　お兄さんとの特訓がちゃんと生かされている！）",
+      "zh": "（太好了！跟大哥哥的特训真的起作用了！）"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "3296ba8f",
+      "speaker": "ミキュナ",
+      "ja": "それにモーリュを配合することにより、",
+      "zh": "而且，通过配入莫琉，"
+    },
+    {
+      "key": "190.3",
+      "line_index": 190,
+      "inline_index": 3,
+      "line_hash": "3296ba8f",
+      "speaker": "ミキュナ",
+      "ja": "全く別の魔法の薬になります。この薬の特徴は……。",
+      "zh": "就会变成完全不同的魔法药。这种药的特征是……"
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "72d4a15e",
+      "speaker": "ミキュナ",
+      "ja": "（あれ？",
+      "zh": "（咦？"
+    },
+    {
+      "key": "193.3",
+      "line_index": 193,
+      "inline_index": 3,
+      "line_hash": "72d4a15e",
+      "speaker": "ミキュナ",
+      "ja": "スラスラ答えられたのに話が別の方向にいってしまって、でも止められないよぉ）",
+      "zh": "明明答得那么顺，话题却跑偏了，可就是停不下来啊）"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "494550b8",
+      "speaker": "ミキュナ",
+      "ja": "（ああ、こんなこと聞かれていないのになに言ってるんだろう？",
+      "zh": "（啊啊，都没被问到这个，我在说什么啊？"
+    },
+    {
+      "key": "196.3",
+      "line_index": 196,
+      "inline_index": 3,
+      "line_hash": "494550b8",
+      "speaker": "ミキュナ",
+      "ja": "ど、どうしたらいいの？　こんなの想定外だよぉ）",
+      "zh": "怎、怎么办啊！这完全超出预料了啊）"
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "e51a6582",
+      "speaker": "ミキュナ",
+      "ja": "（ああ、パニックになったらどんどん話が違う方にいっちゃって、何とかしようとすればする程話が止められなくなっちゃってる！）",
+      "zh": "（啊，一慌神就越说越跑题，越急越刹不住车了！）"
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "2d3043b",
+      "speaker": "教師",
+      "ja": "ミキュナさん……もういいです……座って下さい。",
+      "zh": "米丘娜同学……可以了……请坐下吧。"
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "40316d11",
+      "speaker": "ミキュナ",
+      "ja": "はい……すみませんでした……。",
+      "zh": "是……对不起……"
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "a51b19c",
+      "speaker": "ミキュナ",
+      "ja": "（せっかくお兄さんと特訓したのに、あがり症は治ってないです……とほほぉ～。）",
+      "zh": "（明明都跟大哥哥特训过了，爱紧张的毛病还是没好……唉～。）"
+    }
+  ]
+}

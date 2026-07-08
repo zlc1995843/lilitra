@@ -1,0 +1,742 @@
+{
+  "lines": [
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "dc497f1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかし何度訪れてもティルの村はのどかでいい村だな～）",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "20c82549",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり散歩はこういう自然豊かなところが一番だな）",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "aa036025",
+      "speaker": "？？？",
+      "ja": " ──グアァアアアアっ！！",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "a493178b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──んおおおっ！？　な、なななっ、なんだ今の叫び声はっ！？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "a82d68a",
+      "speaker": "ティル",
+      "ja": "あはははっ♥　ドラぴ元気良過ぎっ♥",
+      "zh": ""
+    },
+    {
+      "key": "38.3",
+      "line_index": 38,
+      "inline_index": 3,
+      "line_hash": "a82d68a",
+      "speaker": "ティル",
+      "ja": "テンション高すぎっ♥　何か良いことあったん？♥",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "2f81a8ac",
+      "speaker": "ドラゴン",
+      "ja": "グアアーーッ！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "751be8b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ドラゴン！？　なっ、なんでそんなものがいるんだよっ！？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "ae513bc8",
+      "speaker": "ティル",
+      "ja": "あ、キカイっちじゃん♪　なんでそんな驚いてんの？",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "5daa356a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ティル！？　うあっ！？　ど、どこ座って……！　は、早く離れろ！　危ないぞ！！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "ae3358c8",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "9575f09d",
+      "speaker": "{G_PlayerName}",
+      "ja": "やややややめろぉぉぉっ！　お、俺を食っても美味くないぞ！　あっちいけぇえっ！！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "fbdd2f62",
+      "speaker": "ティル",
+      "ja": "キカイっちさっきから何言ってんの？　ドラぴがキカイっち食べるわけないじゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "da8987fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラ……ぴ……？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "ac90603f",
+      "speaker": "ティル",
+      "ja": "あれ？　キカイっちってドラぴ見るの初めて？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "8a6ccaba",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、初めて……だけど……というか、ティルはなんか平気そうだな……",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "e5f7341e",
+      "speaker": "ティル",
+      "ja": "そりゃ小っちゃい頃から一緒に暮らしている仲だし。ね、ドラぴっ？",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "2b760fac",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ！　グオオオッ！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "89c2cd35",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、なのか……？　危険はないのか……？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "ef7a8f13",
+      "speaker": "ティル",
+      "ja": "あるわけないって♪",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "6b8ae4",
+      "speaker": "{G_PlayerName}",
+      "ja": "だったらいいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "e7b85f8e",
+      "speaker": "ティル",
+      "ja": "ほら、キカイっちもこっち来て座りなよ",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "76bfc835",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、座れって……ティルの座っている場所、",
+      "zh": ""
+    },
+    {
+      "key": "97.2",
+      "line_index": 97,
+      "inline_index": 2,
+      "line_hash": "76bfc835",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴンの尻尾なんだけど……だいじょうぶなのか……？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "53a0cd80",
+      "speaker": "ティル",
+      "ja": "へーきだって♪　ほらほら、早くこっちおいで♪",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "adfecec9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……それなら……し、失礼しま～す……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "6e59b19",
+      "speaker": "ティル",
+      "ja": "あははははっ♪　なんでそんなビクビクしてんの♪　おもしろっ♥　あはははははっ",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "1b63852",
+      "speaker": "{G_PlayerName}",
+      "ja": "だってほら……ドラゴン、だしなぁ……うわっ？",
+      "zh": ""
+    },
+    {
+      "key": "111.2",
+      "line_index": 111,
+      "inline_index": 2,
+      "line_hash": "1b63852",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴンの尻尾って思っている以上に硬いんだな",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "688938d",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙船の装甲並みに硬いかも",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2d8ad3bb",
+      "speaker": "ティル",
+      "ja": "この硬さがイイ感じに椅子になるんだよね～♪",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "d2ae8569",
+      "speaker": "ティル",
+      "ja": "ていうかキカイっちってドラぴ見るの初めてなのに、",
+      "zh": ""
+    },
+    {
+      "key": "122.3",
+      "line_index": 122,
+      "inline_index": 3,
+      "line_hash": "d2ae8569",
+      "speaker": "ティル",
+      "ja": "なんでそんなにおっかなびっくりしてんの？",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "8f0e71e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、俺の星じゃドラゴンとかほぼ伝説のような生き物だし、",
+      "zh": ""
+    },
+    {
+      "key": "125.2",
+      "line_index": 125,
+      "inline_index": 2,
+      "line_hash": "8f0e71e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "話によればすげー狂暴で一緒に暮らしたなんて話も皆無だからなぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "ea1e9aa0",
+      "speaker": "ティル",
+      "ja": "ふーん、そうなんだ？　そんじゃ仲良くしているあーしって結構すごかったりする？",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "4af03f65",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃすごいだろうな……俺の星の人間が見たら、",
+      "zh": ""
+    },
+    {
+      "key": "132.2",
+      "line_index": 132,
+      "inline_index": 2,
+      "line_hash": "4af03f65",
+      "speaker": "{G_PlayerName}",
+      "ja": "ティルをドラゴンを手なずける神様か何かに勘違いするかも",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "34065e99",
+      "speaker": "ティル",
+      "ja": "あはははっ♪　何それっ♪",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "794aa86",
+      "speaker": "ティル",
+      "ja": "でも案外こっちのドラぴと、キカイっちの星のドラぴって仲良くなれるかもしれないよ？",
+      "zh": ""
+    },
+    {
+      "key": "139.3",
+      "line_index": 139,
+      "inline_index": 3,
+      "line_hash": "794aa86",
+      "speaker": "ティル",
+      "ja": "同じドラぴ同士だしさ、ね？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "ae3358c8",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ！",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "24312748",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、どうなんだろう……。人間同士でも星が違えば色々あるしなぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "144.2",
+      "line_index": 144,
+      "inline_index": 2,
+      "line_hash": "24312748",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴン同士だと果たしてどうなることやら……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "1ce6b983",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば小さい頃から一緒だって言ってたよな？",
+      "zh": ""
+    },
+    {
+      "key": "148.2",
+      "line_index": 148,
+      "inline_index": 2,
+      "line_hash": "1ce6b983",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでドラゴンと一緒に暮らすことになったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "7f6b9888",
+      "speaker": "ティル",
+      "ja": "あーしがドラぴの卵を拾ったのがきっかけかな",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "7a7003ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "拾う！？　そんな簡単に拾えるものなのかっ？　ドラゴンだし、卵も大きそうだけど",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "c7bdbed0",
+      "speaker": "ティル",
+      "ja": "おっきかったね～♪　だからゴロゴロ転がして家に持って帰ったんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "b8dd8f7",
+      "speaker": "ティル",
+      "ja": "そしたら両親がすんごいビックリしてさぁ～♪",
+      "zh": ""
+    },
+    {
+      "key": "162.3",
+      "line_index": 162,
+      "inline_index": 3,
+      "line_hash": "b8dd8f7",
+      "speaker": "ティル",
+      "ja": "でもまぁ母ドラぴはどこ行ったかわかんないし、",
+      "zh": ""
+    },
+    {
+      "key": "162.5",
+      "line_index": 162,
+      "inline_index": 5,
+      "line_hash": "b8dd8f7",
+      "speaker": "ティル",
+      "ja": "捨てるのも忍びないって家で育てることにしたんだよね",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "2ade0003",
+      "speaker": "ティル",
+      "ja": "で、色々あったけど、今も一緒に暮らしているってわけ",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "cf804cb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほどな……",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "225e48c3",
+      "speaker": "ティル",
+      "ja": "ドラぴのこともっと知りたきゃ色々教えるよ？",
+      "zh": ""
+    },
+    {
+      "key": "172.3",
+      "line_index": 172,
+      "inline_index": 3,
+      "line_hash": "225e48c3",
+      "speaker": "ティル",
+      "ja": "さぁさぁ遠慮なく聞きたまえ♪　あははっ♪",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "d47910b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……危険が無ければ特に聞きたいこともなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "6dcac938",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだ、ティルのことを教えてくれよ",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "28f6819e",
+      "speaker": "ティル",
+      "ja": "──へ？　あーしっ！？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "d668dce3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、せっかくの機会だしな",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "1a8416cd",
+      "speaker": "ティル",
+      "ja": "あ、あーしの話なんて特に面白くもないよっ？",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "a453b64d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ずいぶんと焦っているな……この質問は想定していなかったのか）",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "615c9fb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもティルと仲良くなれるチャンスだ、色々聞いてみよう）",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "2db3c7f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、ティルって好き嫌いとかある？　一番の好物は？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "f4ec6862",
+      "speaker": "ティル",
+      "ja": "あー……うん、その……嫌いなものは特に……ドラぴが捕ってきたイノシシ肉が好物……",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "edd4c72",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……新鮮なイノシシ肉、美味そうだな",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "4a8bd5b0",
+      "speaker": "ティル",
+      "ja": "う、うん……いくらでも食べられちゃんだよね",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "ab8d278c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そういえばティルの趣味も知らないな。教えてくれないか？",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "89778bca",
+      "speaker": "ティル",
+      "ja": "趣味……？　あー……木の実でネイルを塗る、かな……",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "c1e20c5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのネイルって木の実からなのか……綺麗な色しているよな",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "4a1f63ac",
+      "speaker": "ティル",
+      "ja": "う、うん……この色結構お気に入り……うう、そ、そんなジロジロ見るなって……！",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "871f1a32",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うわ……！　照れるティル、かなり可愛くないか……？",
+      "zh": ""
+    },
+    {
+      "key": "229.2",
+      "line_index": 229,
+      "inline_index": 2,
+      "line_hash": "871f1a32",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは思わぬ副産物だ……もっと色々聞いてみよう）",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "3f031be",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとさ──",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "8aaab7de",
+      "speaker": "ティル",
+      "ja": "──うう！　も、もう質問は終わり！",
+      "zh": ""
+    },
+    {
+      "key": "237.3",
+      "line_index": 237,
+      "inline_index": 3,
+      "line_hash": "8aaab7de",
+      "speaker": "ティル",
+      "ja": "そ、そういえばあーし用事があるんだった！　もう行かなきゃ！",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "f81ab9cb",
+      "speaker": "ティル",
+      "ja": "じゃ、じゃあねっ！　バイバイっ！",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "bd1c930e",
+      "speaker": "{G_PlayerName}",
+      "ja": "行っちまった……。ドラゴンを置いていくとか……",
+      "zh": ""
+    },
+    {
+      "key": "248.2",
+      "line_index": 248,
+      "inline_index": 2,
+      "line_hash": "bd1c930e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ドラゴンの話は慣れていても、自分のことを言うのは慣れていないのかな",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "d5fc8d49",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうなんだろ？　ドラゴンさん",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "121904de",
+      "speaker": "ドラゴン",
+      "ja": "グアーッ？",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "94430065",
+      "speaker": "{G_PlayerName}",
+      "ja": "この続きは次の機会に……だな",
+      "zh": ""
+    }
+  ]
+}

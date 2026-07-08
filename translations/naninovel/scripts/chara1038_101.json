@@ -1,0 +1,517 @@
+{
+  "lines": [
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "68617610",
+      "speaker": "{G_PlayerName}",
+      "ja": "次の目的地までまだ時間かかりそうだな……",
+      "zh": "到下一个目的地好像还要一阵子啊……"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "8c5d98f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "この空き時間を活かして何か新しいことでも……ん？　ヴァイン？",
+      "zh": "趁着这段空闲搞点什么新鲜事……嗯？维因？"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "e0dfe1a5",
+      "speaker": "ヴァイン",
+      "ja": "あら？　{G_PlayerName}様、こんにちは",
+      "zh": "哎呀？{G_PlayerName}先生，您好。"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "b4683ed7",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんにちはヴァイン、こんなとこに突っ立って何していたんだ？",
+      "zh": "你好啊维因，杵在这儿干嘛呢？"
+    },
+    {
+      "key": "31.2",
+      "line_index": 31,
+      "inline_index": 2,
+      "line_hash": "b4683ed7",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして何か困り事？",
+      "zh": "难道有什么难处？"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "c7afa959",
+      "speaker": "ヴァイン",
+      "ja": "いえ、困ったことは特に……皆さん大変良くしてくれますし、",
+      "zh": "没有，困难倒是没有……大家都待我很好，"
+    },
+    {
+      "key": "35.3",
+      "line_index": 35,
+      "inline_index": 3,
+      "line_hash": "c7afa959",
+      "speaker": "ヴァイン",
+      "ja": "アポロ様からいただいたナビゲーションボイスがありますので……",
+      "zh": "还有阿波罗大人给的导航语音……"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "b3f86f30",
+      "speaker": "ヴァイン",
+      "ja": "目が見えずとも、問題無く宇宙船の中を歩くことができていますから",
+      "zh": "所以就算眼睛看不见，我也能在船里自由走动，不碍事的。"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "f578b27c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、それなら良かった。でも何か困ったことがあったら遠慮なく言ってくれよ？",
+      "zh": "是嘛，那就好。不过要是遇上麻烦，可别跟我客气！"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "f242fc4b",
+      "speaker": "ヴァイン",
+      "ja": "はい、お気遣いありがとうございます。",
+      "zh": "嗯，谢谢你的关心。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "b3583997",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで何をしていたんだ？",
+      "zh": "那你刚才在做什么？"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "fdb6eb2d",
+      "speaker": "ヴァイン",
+      "ja": "宇宙船の外を見ておりました",
+      "zh": "我在看飞船外面。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "9765fd5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ？　見る……？　でも見えないんじゃ……？",
+      "zh": "——诶！？看……！？可你不是看不见吗……！？"
+    },
+    {
+      "key": "55.2",
+      "line_index": 55,
+      "inline_index": 2,
+      "line_hash": "9765fd5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　ご、ごめん……つい……！",
+      "zh": "啊……！对、对不起……顺嘴就……！"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "9c2b86ab",
+      "speaker": "ヴァイン",
+      "ja": "お気になさらないでください。でも星空が見えているのは本当ですよ",
+      "zh": "请别放在心上。不过，我真的能看见星空。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "d617d4fe",
+      "speaker": "ヴァイン",
+      "ja": "肌で感じますから。目が見えない代償に、鋭敏になる感覚はあるものです",
+      "zh": "是用肌肤感受的。眼睛看不见了，别的感觉反而会变敏锐，也算一种补偿吧。"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "a32e8341",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴァインの目……いつか見えるようになると良いんだけどな……",
+      "zh": "维因的眼睛……要是哪天能好起来就好了……"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "e0aa7f84",
+      "speaker": "ヴァイン",
+      "ja": "そうですね、そうなってくれたら声や匂いだけでなく",
+      "zh": "是啊，要是能看见，就不光是听声音、闻气味了，"
+    },
+    {
+      "key": "69.3",
+      "line_index": 69,
+      "inline_index": 3,
+      "line_hash": "e0aa7f84",
+      "speaker": "ヴァイン",
+      "ja": "{G_PlayerName}様を視界で確認することができますしね",
+      "zh": "还能亲眼确认{G_PlayerName}先生的样子。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "5b5b0ef7",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもそれはそれで少し怖いな……",
+      "zh": "不过那样也有点吓人……"
+    },
+    {
+      "key": "72.2",
+      "line_index": 72,
+      "inline_index": 2,
+      "line_hash": "5b5b0ef7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴァインが俺の顔を見て、幻滅するんじゃないかって……",
+      "zh": "怕维因看到我的脸，直接幻灭了……"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "743e51ef",
+      "speaker": "ヴァイン",
+      "ja": "ふふふ……安心してください、そんなことありえませんから",
+      "zh": "呵呵……放心，绝不会有那种事的。"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "8e181ae4",
+      "speaker": "ヴァイン",
+      "ja": "でも、例えば……ですけど、",
+      "zh": "不过，比方说……"
+    },
+    {
+      "key": "79.3",
+      "line_index": 79,
+      "inline_index": 3,
+      "line_hash": "8e181ae4",
+      "speaker": "ヴァイン",
+      "ja": "私の視力の回復の引き換えに、人が住む星を一つ消滅させる……",
+      "zh": "要让我恢复视力，就得毁掉一颗有人住的星球……"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "1bc6d2cc",
+      "speaker": "ヴァイン",
+      "ja": "もしそのような選択肢を迫れたら{G_PlayerName}様はどうなさいます？",
+      "zh": "要是被迫做这种选择，{G_PlayerName}先生会怎么办？"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "daf2c3f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……？　そ、それは……",
+      "zh": "诶……！？这、这个……"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "a0c0b482",
+      "speaker": "ヴァイン",
+      "ja": "ふふ……ごめんなさい、困らせるような質問をしてしまって……",
+      "zh": "呵呵……抱歉，问了这么为难人的问题……"
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "1b5873f7",
+      "speaker": "ヴァイン",
+      "ja": "でも少し思うところがありまして……",
+      "zh": "不过我也想了想……"
+    },
+    {
+      "key": "92.3",
+      "line_index": 92,
+      "inline_index": 3,
+      "line_hash": "1b5873f7",
+      "speaker": "ヴァイン",
+      "ja": "無数の光る星には、私達のように暮らす生命がいくつもあるんですよね……",
+      "zh": "浩瀚星海里，像我们一样生活的生命，应该有好多个吧……"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "1caa8cda",
+      "speaker": "{G_PlayerName}",
+      "ja": "すべてがそうだってわけでもないらしいけど、ね",
+      "zh": "也未必全都是这样，不过嘛。"
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "79ca4282",
+      "speaker": "ヴァイン",
+      "ja": "もしこの多くの星を全て滅ばさなければ、宇宙船にいる私たちが死んでしまう……",
+      "zh": "要是不把那些星星都毁掉，船上的我们就会死……"
+    },
+    {
+      "key": "99.3",
+      "line_index": 99,
+      "inline_index": 3,
+      "line_hash": "79ca4282",
+      "speaker": "ヴァイン",
+      "ja": "そのような事態になってしまったら、皆さんどのような選択をするでしょう",
+      "zh": "真落到那种地步，大家会怎么选呢？"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "4e74982a",
+      "speaker": "ヴァイン",
+      "ja": "ごめんなさい、こんなイヤな話ばかりしてしまって……",
+      "zh": "对不起，老说这些扫兴的话……"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "20fefdba",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、別にいいんだけど、でもそういうこと全然考えたことなかったよ……",
+      "zh": "不，倒没什么。只是这种事我还真从没想过……"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "1e620b49",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺はどういう選択をするんだろ……考えるのが怖いな",
+      "zh": "我会怎么选呢……光想想就害怕。"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "a9bb6af8",
+      "speaker": "ヴァイン",
+      "ja": "ふふ……そんなに考え込まないでください",
+      "zh": "呵呵……别这么钻牛角尖。"
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "53473ea1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、だな……考えるのはやめよう",
+      "zh": "也是啊……不想了。"
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "adada79c",
+      "speaker": "ヴァイン",
+      "ja": "でもこんな私の戯言に真剣に向き合ってくれて、{G_PlayerName}様の誠実さがよくわかります",
+      "zh": "不过，我这么随口胡说您都认真对待，看得出{G_PlayerName}先生很诚实。"
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "1c4ff9e0",
+      "speaker": "ヴァイン",
+      "ja": "本当にいつも色々と優しくしていただき、ありがとうございます",
+      "zh": "真的，一直承蒙您多方照顾，谢谢您。"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "5d5b138c",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に礼を言われるほどのことでもないって",
+      "zh": "没什么好谢的啦。"
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "3fd7f266",
+      "speaker": "ヴァイン",
+      "ja": "いえ、本当に助かっていますから。やはり目が見えないとできないことも多いですからね",
+      "zh": "不，真的帮大忙了。毕竟看不见的话，很多事情都做不了。"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "9feb710",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、やっぱりヴァインの目、何とかならないものかな……",
+      "zh": "嗯……果然维因的眼睛，能不能想想办法……"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "61c87e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "医学がめちゃくちゃ発展している星でもあれば、",
+      "zh": "要是哪个星球医学超级发达，"
+    },
+    {
+      "key": "137.2",
+      "line_index": 137,
+      "inline_index": 2,
+      "line_hash": "61c87e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "目を治してくれるかもしれないな……そんな星がないか後で聞いてみるか",
+      "zh": "说不定就能治好眼睛……回头我问问有没有这种星球。"
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "feceaa1b",
+      "speaker": "ヴァイン",
+      "ja": "そんなに気を遣わないでください。本当に今のままでも大丈夫ですから",
+      "zh": "别这么费心。真的，现在这样我也完全没关系。"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "8680572f",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、なぁ……",
+      "zh": "可是，唉……"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "febafcdf",
+      "speaker": "ヴァイン",
+      "ja": "あなた様のそんなお心遣いだけですごく嬉しいです",
+      "zh": "光是有您这份心意，我就很高兴了。"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "b3b76c0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……でもさっきヴァインが言ってた選択って、",
+      "zh": "……不过刚才维因说的选择，"
+    },
+    {
+      "key": "151.2",
+      "line_index": 151,
+      "inline_index": 2,
+      "line_hash": "b3b76c0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "どんな時に選ばなきゃいけないんだろうな？　俺には想像もできないよ",
+      "zh": "到底什么时候才需要做啊？我根本想象不出来。"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "36846f73",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな状況になるなんて、まずありえないと思うし",
+      "zh": "我想那种情况应该不会发生吧。"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "2a9cfaf1",
+      "speaker": "ヴァイン",
+      "ja": "……案外その時は近いかも知れませんよ",
+      "zh": "……说不定那一刻其实很近呢。"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "46df3e00",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ？",
+      "zh": "——诶！？"
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "4a759264",
+      "speaker": "ヴァイン",
+      "ja": "似たような選択をいつか迫られるかもしれません……",
+      "zh": "也许哪天就会面临类似的选择……"
+    },
+    {
+      "key": "166.3",
+      "line_index": 166,
+      "inline_index": 3,
+      "line_hash": "4a759264",
+      "speaker": "ヴァイン",
+      "ja": "あなた様に私たちのすべてを委ねる、そんな日が……",
+      "zh": "将我们的一切全都托付给您的那一天……"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "15d04800",
+      "speaker": "ヴァイン",
+      "ja": "もしその日が来た時は、頼りにさせてもらいますね、{G_PlayerName}様",
+      "zh": "要是那天真的来了，我可要依靠您了，{G_PlayerName}。"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "9c63254e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ヴァイン……行ってしまった……",
+      "zh": "啊，维因……走掉了……"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "f12608df",
+      "speaker": "{G_PlayerName}",
+      "ja": "意味深と言うかなんていうか……なんかミステリアスな人だな",
+      "zh": "该说是意味深长还是什么……真是个神秘的人啊。"
+    }
+  ]
+}

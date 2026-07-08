@@ -1,0 +1,823 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "48053adc",
+      "speaker": "フォニー",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "26fae0ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何だか難しい顔して本読み漁っているな……）",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "c137a671",
+      "speaker": "フォニー",
+      "ja": "もう何なのよこれ……！　全然わからないわ……！！",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "b0749da4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（自棄に荒れているな……研究か何かに行き詰っているのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "ab43cedb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかしまぁ魔法とか門外漢だし、触らぬ神になんとやらだ、邪魔しないでおこう）",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "c6bab632",
+      "speaker": "フォニー",
+      "ja": "──ん？　あっ、ちょうどいいところに！　ちょっとこっちに来なさい！　{G_PlayerName}！",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "3f98130d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ゲッ！？　見つかった！",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "dc6dc4e7",
+      "speaker": "フォニー",
+      "ja": "何よその”ゲッ”って！　失礼しちゃうわねっ！！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "e9b05686",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　つい本音が……！",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "a72702ca",
+      "speaker": "フォニー",
+      "ja": "いいからこっち来てくる？　あなたに教えてほしいことがあるのよ",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "29e4871f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、わかった",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "2536ad75",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、教えてほしいことって何？　俺魔法のこととか全然わからないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "defeea5b",
+      "speaker": "フォニー",
+      "ja": "そんなこと知っているわよっ。私が教えてほしいのはお風呂の使い方よ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "b0e014f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……？　風呂……？　魔法の研究に行き詰っていたとかそういう話じゃないの？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "f6e5e97d",
+      "speaker": "フォニー",
+      "ja": "違うわよ。ほら、お風呂の説明書でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "eeea2b0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当だ……だったらなんでそんな難しい顔していたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "8f630774",
+      "speaker": "フォニー",
+      "ja": "読んでも全然意味がわからないのよっ。なんか専門的な用語？　ばかりだし",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "68c474b7",
+      "speaker": "フォニー",
+      "ja": "昨日は説明書片手にあれこれ頑張ったけど、水しか出なかったのよ……！",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "4fd5c3a",
+      "speaker": "フォニー",
+      "ja": "オーロラはちゃんと使いこなして、",
+      "zh": ""
+    },
+    {
+      "key": "85.3",
+      "line_index": 85,
+      "inline_index": 3,
+      "line_hash": "4fd5c3a",
+      "speaker": "フォニー",
+      "ja": "虹色の泡風呂やハーブのお風呂に入ってご満悦なのに……！！",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "30d51c82",
+      "speaker": "フォニー",
+      "ja": "どうして私には水しか出せないの！　教えなさいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "3585ffa",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、教えろって……そこまで難しいものでもなくないか……？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "58a7bcdd",
+      "speaker": "フォニー",
+      "ja": "あなたは使い方に慣れているからそんなこと言えるのよっ",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "efb7fb2b",
+      "speaker": "フォニー",
+      "ja": "私が今まで暮らしていた環境では、",
+      "zh": ""
+    },
+    {
+      "key": "99.3",
+      "line_index": 99,
+      "inline_index": 3,
+      "line_hash": "efb7fb2b",
+      "speaker": "フォニー",
+      "ja": "あれこれとスイッチを押す必要なんてなかったんだから……！！",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "bf613a24",
+      "speaker": "フォニー",
+      "ja": "本当に宇宙船って不便ですわね！　何をするにしても、瞳？",
+      "zh": ""
+    },
+    {
+      "key": "102.3",
+      "line_index": 102,
+      "inline_index": 3,
+      "line_hash": "bf613a24",
+      "speaker": "フォニー",
+      "ja": "での認証とか、スイッチとか、数字とか色々入れなきゃいけないのが多いし……！",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "379d1d76",
+      "speaker": "フォニー",
+      "ja": "もうイヤになっちゃうわ……！！",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "5728af78",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……そこまで色々と違うと確かに大変だな……",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "f972083b",
+      "speaker": "フォニー",
+      "ja": "わかってくれた？　じゃ、お風呂の使い方を教えてくれる？",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "7b1fec9f",
+      "speaker": "フォニー",
+      "ja": "水で身体を洗っていたら、そのうち風邪を引いてしまうかもしれないし",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "1ce710ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは確かに一大事だ。",
+      "zh": ""
+    },
+    {
+      "key": "120.2",
+      "line_index": 120,
+      "inline_index": 2,
+      "line_hash": "1ce710ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかしさっき言ってた虹色の泡風呂とかハーブのお風呂とかって何なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "c3f0895e",
+      "speaker": "フォニー",
+      "ja": "さぁ？　オーロラは蛇口から普通に出してたけど……？",
+      "zh": ""
+    },
+    {
+      "key": "124.3",
+      "line_index": 124,
+      "inline_index": 3,
+      "line_hash": "c3f0895e",
+      "speaker": "フォニー",
+      "ja": "元々備わっている機能じゃあないの？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "c4201a08",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そんな話聞いたことないけど……もしかしたらあるのかも……。",
+      "zh": ""
+    },
+    {
+      "key": "128.2",
+      "line_index": 128,
+      "inline_index": 2,
+      "line_hash": "c4201a08",
+      "speaker": "{G_PlayerName}",
+      "ja": "だったとしたら俺よりも全然使いこなしているな……",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "67084026",
+      "speaker": "フォニー",
+      "ja": "なんなのそれ……もしかしてあなたもお風呂では水しか出せなかったりするの？",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "d3dfc5b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "お湯くらいは出せるって！　とりあえず風呂に行こうか、基本的な使い方教えるからさ",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "76550a91",
+      "speaker": "フォニー",
+      "ja": "ええ、よろしくお願いね",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "64caab1c",
+      "speaker": "フォニー",
+      "ja": "で、どこをどう操作すればお湯が出せるようになるの？",
+      "zh": ""
+    },
+    {
+      "key": "160.3",
+      "line_index": 160,
+      "inline_index": 3,
+      "line_hash": "64caab1c",
+      "speaker": "フォニー",
+      "ja": "いくら蛇口をひねっても水しか出ないし",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "21e0bdce",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、ここを押すんだよ",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "b957dae9",
+      "speaker": "フォニー",
+      "ja": "あ……本当に水がお湯に……な、なんでそんなにあっさりと……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "899d3e07",
+      "speaker": "フォニー",
+      "ja": "コレに触れただけなのに……もしかして今のがスイッチなの？",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "3ae255b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだけど……もしかしてタッチパネルを理解していなかった……？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "1f7a1d51",
+      "speaker": "フォニー",
+      "ja": "え……これ、映像が写って人を楽しませる道具なんでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "179.3",
+      "line_index": 179,
+      "inline_index": 3,
+      "line_hash": "1f7a1d51",
+      "speaker": "フォニー",
+      "ja": "なんでそんなのがスイッチになっているのよっ",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "b9fcd8b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう言われてもなぁ……ラウンジの娯楽用のヤツとは別なんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "1611234",
+      "speaker": "フォニー",
+      "ja": "もう……！　なんて不便なの……！",
+      "zh": ""
+    },
+    {
+      "key": "187.3",
+      "line_index": 187,
+      "inline_index": 3,
+      "line_hash": "1611234",
+      "speaker": "フォニー",
+      "ja": "そもそも画面をタッチするなんて説明書に書いてなかったわ！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "dce4bbac",
+      "speaker": "{G_PlayerName}",
+      "ja": "それを知っている前提で説明書を書いたのかもしれない……",
+      "zh": ""
+    },
+    {
+      "key": "191.2",
+      "line_index": 191,
+      "inline_index": 2,
+      "line_hash": "dce4bbac",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのあたりはアポロに言っておいた方がいいな",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "3583f2d0",
+      "speaker": "フォニー",
+      "ja": "お願いねっ！",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "44475a23",
+      "speaker": "フォニー",
+      "ja": "でもこれでやっと水のお風呂から解放されるわ♪",
+      "zh": ""
+    },
+    {
+      "key": "198.3",
+      "line_index": 198,
+      "inline_index": 3,
+      "line_hash": "44475a23",
+      "speaker": "フォニー",
+      "ja": "それで……シャワーというのものはどうすれば出せるのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "52c793b0",
+      "speaker": "フォニー",
+      "ja": "このハス口からお湯が出せるんでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "ac9ad872",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはここを押して切り替えるんだよ",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "ad28f72d",
+      "speaker": "フォニー",
+      "ja": "なるほど……確かに切り替わったわね",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "27f60b8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "な？　簡単だろう？",
+      "zh": ""
+    },
+    {
+      "key": "215.2",
+      "line_index": 215,
+      "inline_index": 2,
+      "line_hash": "27f60b8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "というかタッチパネルを理解したのなら、もう操作自体は簡単だと思うよ",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "69cbd1a1",
+      "speaker": "フォニー",
+      "ja": "確かにそうね♪　それならオーロラがやっていたハーブの湯を試してみましょ",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "e2e17e61",
+      "speaker": "{G_PlayerName}",
+      "ja": "それ俺も気になっているんだよな……パネルを観てもそれらしい項目は無いし",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "ffbf6743",
+      "speaker": "フォニー",
+      "ja": "少々お待ちになって……今確認しますから……どれどれ……",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "6fdc25d6",
+      "speaker": "フォニー",
+      "ja": "あ、説明書の最後の方に書いてあるわ。色々な湯を楽しめるようになっているみたい",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "68b1ef0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "どれどれ……へー……本当にあるんだな。知らなかったよ",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "9372caf0",
+      "speaker": "フォニー",
+      "ja": "ハーブにバラ湯に泡風呂に……ん？　なんですの、この黒湯って……",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "fe42909d",
+      "speaker": "{G_PlayerName}",
+      "ja": "黒湯……？　なんだそれ、聞いたことないぞ",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "9ca5d08b",
+      "speaker": "フォニー",
+      "ja": "まぁそれはあとで試してみるとして、今はハーブでリラックスしたい気分ね",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "98e08c5c",
+      "speaker": "フォニー",
+      "ja": "えっと……湯の切り替えは……ここを押した後に、こっちを……",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "68c5eeb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ぶわっ！？",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "9399dffc",
+      "speaker": "フォニー",
+      "ja": "──きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "30ebaaaf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ななっ！　なんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "259.2",
+      "line_index": 259,
+      "inline_index": 2,
+      "line_hash": "30ebaaaf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっちこっちからシャワーが出ているぞ！？　どういうことなんだよっ？",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "f27cca60",
+      "speaker": "フォニー",
+      "ja": "わ、わからないわっ！　え、えっとどこを押したのかしら……きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "263.3",
+      "line_index": 263,
+      "inline_index": 3,
+      "line_hash": "f27cca60",
+      "speaker": "フォニー",
+      "ja": "何だかどんどんシャワーの勢いが強くなって……！！",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "11a3db99",
+      "speaker": "{G_PlayerName}",
+      "ja": "あちっ！　あちっ！　なんかこのお湯、すげー熱いぞ！　本当に何をしたんだよっ！？",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "69c55e6",
+      "speaker": "フォニー",
+      "ja": "だっ、だからわからないって！　と、とりあえずこのシャワーを止めてっ！！",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "393ab683",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった！",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "fa782dac",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ～……と、止まった……",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "b537280a",
+      "speaker": "フォニー",
+      "ja": "ううう……もうびしょびしょですわ……",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "6fbe3a9d",
+      "speaker": "オーロラ",
+      "ja": "あれぇ～？　なんか声がすると思ったら、オーロラさんと{G_PlayerName}さんが入っていたんだ～",
+      "zh": ""
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "51f79e1e",
+      "speaker": "オーロラ",
+      "ja": "それにしても二人で一緒にお風呂なんて……",
+      "zh": ""
+    },
+    {
+      "key": "295.3",
+      "line_index": 295,
+      "inline_index": 3,
+      "line_hash": "51f79e1e",
+      "speaker": "オーロラ",
+      "ja": "仲がいいんですね♪　それじゃあお邪魔するわけにもいかないし、お幸せに～♪",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "7d2a16fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんかオーロラ、ヘンな勘違いしていなかった？",
+      "zh": ""
+    },
+    {
+      "key": "308.1",
+      "line_index": 308,
+      "inline_index": 1,
+      "line_hash": "2ea39aaf",
+      "speaker": "フォニー",
+      "ja": "え、ええ……お幸せに、とか……",
+      "zh": ""
+    },
+    {
+      "key": "311.1",
+      "line_index": 311,
+      "inline_index": 1,
+      "line_hash": "4d3f38c",
+      "speaker": "フォニー",
+      "ja": "なんて勘違いをしているの！　あの子は……！　誰がこんな下々のバカそうな男と……！",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "431f27d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "バカってなんだよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "cf623b8b",
+      "speaker": "フォニー",
+      "ja": "そ、それは言葉の綾よっ……！",
+      "zh": ""
+    },
+    {
+      "key": "318.3",
+      "line_index": 318,
+      "inline_index": 3,
+      "line_hash": "cf623b8b",
+      "speaker": "フォニー",
+      "ja": "と、とりあえずオーロラを追いかけて誤解を解かないと……！！",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "8468e99b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだな……！",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "304f92a",
+      "speaker": "{G_PlayerName}",
+      "ja": "パンって美味しいよな、俺にも作れるかな？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "6e017bc3",
+      "speaker": "シーシャ",
+      "ja": "ナンだ？　オマエ、パン作るのカ？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "3a79a2a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……作れないかなって思っただけだよ、パン作るのって大変そうだし。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "c3460003",
+      "speaker": "コルト",
+      "ja": "あらあら、パン作りに興味がありますの？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "bdfcf210",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、コルト……まあ興味があるといえばあるかな。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "b5266530",
+      "speaker": "コルト",
+      "ja": "まあまあ♥　パン作りに興味を持って貰えるなんて、嬉しい限りです♥",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "a7cc6a34",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……そんなに喜ばれることでは……。",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "e1adc7b3",
+      "speaker": "コルト",
+      "ja": "よろしければ、わたしがパン作りを教えましょうか♥",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "741043a",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいんですか？　というか俺に作れるだろうか……。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "14bbbc66",
+      "speaker": "コルト",
+      "ja": "大丈夫大丈夫♥　わたしの教える通りに作れば、美味しいパンが焼けますよ♥",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f6fdff57",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうですか……それじゃあお願いしようかな。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "2ec83bc0",
+      "speaker": "シーシャ",
+      "ja": "アタシもパン作ル！　オモシロそう！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "1d90aa61",
+      "speaker": "コルト",
+      "ja": "はいはい♥　それじゃあみんなで作りましょう♥",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "4af00d75",
+      "speaker": "シーシャ",
+      "ja": "オーッ！　アタシ、ガンバルぞっ！",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "253ae062",
+      "speaker": "コルト",
+      "ja": "それじゃあパン作りをはじめますよ～♥　まずは生地づくりからです♥",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "557e5405",
+      "speaker": "{G_PlayerName}",
+      "ja": "生地づくりか……ここで失敗するとパンがふっくら焼き上がらないんだよな。",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "e2e4c599",
+      "speaker": "コルト",
+      "ja": "よくわかってますね♥　その通りです、生地づくりが大事ですから頑張ってくださいねっ♥",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "bf0163f1",
+      "speaker": "シーシャ",
+      "ja": "アタシガンバル！　どうすれバいいンダ？",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "5f5c2d70",
+      "speaker": "コルト",
+      "ja": "まずは強力粉とお砂糖、そしてお塩をしっかり計ってくださいね♥　分量を間違えないように慎重に、ね♥",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "2572f97c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……分量は……正確に、と……。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "640ac036",
+      "speaker": "シーシャ",
+      "ja": "アタシ、細かいノキライ！　オマエ、アタシのブンもハカッてクレ！",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "e2886072",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……仕方ないな……よし、ちゃんと正確に計ったぞ。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "26e88300",
+      "speaker": "コルト",
+      "ja": "よくできました♥",
+      "zh": ""
+    },
+    {
+      "key": "100.3",
+      "line_index": 100,
+      "inline_index": 3,
+      "line_hash": "26e88300",
+      "speaker": "コルト",
+      "ja": "そこにドライイーストもしっかり計って入れて……ふるいにかけてください♥",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "144c8d48",
+      "speaker": "シーシャ",
+      "ja": "コレぐらいはアタシでもデキるぞ！　ほらほらほらっ！",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "e92fee91",
+      "speaker": "コルト",
+      "ja": "ふるいにかけたら、そこにぬるま湯を入れて混ぜていきます。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "a5a295c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ……かなりベトベトする……。",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "13545892",
+      "speaker": "コルト",
+      "ja": "ある程度混ざったら、そこにバターを少しずつ加えて、ひとまとまりにしていきますよ♥",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "6e9e9884",
+      "speaker": "シーシャ",
+      "ja": "あははははっ♥　ナンダかオモシロいゾ♥",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "fc7f4ed2",
+      "speaker": "コルト",
+      "ja": "そうそう♥　しっかり捏ねてくださいね♪",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "297d6c27",
+      "speaker": "{G_PlayerName}",
+      "ja": "むむっ……なかなかまとまらないな。",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "22ad0263",
+      "speaker": "シーシャ",
+      "ja": "もっと力入れロー！　アタシはコンナのすぐにツブせるゾ！",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "b7d29ced",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……潰すんじゃなくて捏ねるんだけど……くそ、なかなかまとまらない……。",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "fc1ba7c",
+      "speaker": "コルト",
+      "ja": "ふふっ♥　仕方ありませんね～♪　{G_PlayerName}さんの生地は、わたしがお手伝いしましょ～♪",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "8d3e8d18",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ありがとう！　って……んわぁ！",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "7a6024a6",
+      "speaker": "コルト",
+      "ja": "あらあら♥　どうかしましたか～？　一生懸命こねこねしましょうね～♥",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "194cd465",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おいっ、何をしてるんだよっ……やめろってっ。",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "f2420a41",
+      "speaker": "コルト",
+      "ja": "何をしているって……こねこねしてるんですよ～♥　{G_PlayerName}さんの乳首を♥",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "385b498d",
+      "speaker": "{G_PlayerName}",
+      "ja": "捏ねるのはち、乳首……じゃなくて！　うく……こら、や、やめてくれっ",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "bccc9572",
+      "speaker": "コルト",
+      "ja": "ではこの太ももをすりすり～♥　ああパン生地みたいにすべすべ～♥",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "41c9db7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あううっ……だめぇ……やめて……コルト……うっ……ううっ……。",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "f093d130",
+      "speaker": "コルト",
+      "ja": "そして乳首もしっかりこねこね～♥",
+      "zh": ""
+    },
+    {
+      "key": "161.3",
+      "line_index": 161,
+      "inline_index": 3,
+      "line_hash": "f093d130",
+      "speaker": "コルト",
+      "ja": "うふふっ、すごく固くなってきましたね～♥　こねこね～♥　こねこね～♥",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "67be72c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ……ほら、パン作るんだろ？　もうやめろって……くっ……ううっ……",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "7ac13c2b",
+      "speaker": "コルト",
+      "ja": "はぁはぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "168.3",
+      "line_index": 168,
+      "inline_index": 3,
+      "line_hash": "7ac13c2b",
+      "speaker": "コルト",
+      "ja": "こういう拒否できないシチュエーションって……男性でもエッチですよねぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "7aecf46b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……んうぅっ……ほんとにだめだって……シーシャにバレちゃうから……っ",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "ccb4d787",
+      "speaker": "コルト",
+      "ja": "あぁぁ……そんなしおらしい反応……たまらないです～♥ もっと大きな声を出させてあげたくなっちゃいますよ♥",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "baf259b",
+      "speaker": "コルト",
+      "ja": "ほ～ら♥　乳首くりくり～♥　太ももすりすり～♥　んふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "178.3",
+      "line_index": 178,
+      "inline_index": 3,
+      "line_hash": "baf259b",
+      "speaker": "コルト",
+      "ja": "おちんちんがすっかり大きくなってますよ♥",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "214f5f9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ばかっ、言うなって……もうこれ以上は洒落にならないぞっ……！",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "4cf3a3ac",
+      "speaker": "コルト",
+      "ja": "そんな顔されると、もっともっとコネコネしたくなっちゃいます♥",
+      "zh": ""
+    },
+    {
+      "key": "185.3",
+      "line_index": 185,
+      "inline_index": 3,
+      "line_hash": "4cf3a3ac",
+      "speaker": "コルト",
+      "ja": "んふふっ♥　乳首コネコネでイッちゃいます？",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "bb2116fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……はぁっ……コルト……っ！　お、怒るぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "2d412f5a",
+      "speaker": "シーシャ",
+      "ja": "オイ！　遊んでいないデちゃんとパン作れヨ！",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "86c21eae",
+      "speaker": "",
+      "ja": "シーシャが食いかかってきたことで、コルトはぱっと手を離し{G_PlayerName}を開放した。",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "ce38fcaa",
+      "speaker": "コルト",
+      "ja": "いえいえ～、遊んでませんよ～、ちゃんと捏ね上がりました～♥",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "69080312",
+      "speaker": "{G_PlayerName}",
+      "ja": "（はぁはぁ……2人きりだったらヤバかったかな……）",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "759fc0f3",
+      "speaker": "コルト",
+      "ja": "うふふっ♥　グチャグチャなのはパン生地だけじゃなくて……パンツの中も……かしら♥",
+      "zh": ""
+    }
+  ]
+}

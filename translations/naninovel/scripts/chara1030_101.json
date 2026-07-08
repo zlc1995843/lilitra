@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "aefc4ea",
+      "speaker": "ルルハ",
+      "ja": "──ハッ！",
+      "zh": "——哈！"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "2f41e2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……！　お見事……！　一発で鳥を仕留めた……！　すごいな……ルルハ",
+      "zh": "哦哦……！漂亮……！一箭就射中了鸟……！好厉害啊……露露哈"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "3c5e592e",
+      "speaker": "ルルハ",
+      "ja": "ふぅ……ふふっ♥　このくらいは慣れているからね～♥",
+      "zh": "呼……呵呵♥ 这点小事，我都习惯了啦～♥"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "ceb87665",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし本当に日常的に狩りをしていたんだな……",
+      "zh": "不过真没想到，她平时就在狩猎啊……"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "6241326f",
+      "speaker": "ルルハ",
+      "ja": "きみってば最初全然あたしの話信じていなかったよね～",
+      "zh": "你呀，一开始完全不信我说的话对吧～？"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "4e9a27cc",
+      "speaker": "ルルハ",
+      "ja": "そんなにあたしって狩りしなさそうに見えてたの？",
+      "zh": "我看起来就那么不像个猎人吗？"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "71976ec9",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……正直な話、半信半疑だったよ。まぁその……恰好とかでそう見えていたかも……",
+      "zh": "嗯……老实说，我半信半疑。嗯，可能……是你这身打扮，让我看起来像那样吧……"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "4095c07",
+      "speaker": "ルルハ",
+      "ja": "あっ♥　また胸見てる～♥",
+      "zh": "啊♥ 又在盯着人家的胸看～♥"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "bb7ba057",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　つい視線が……！！",
+      "zh": "抱、抱歉……！不自觉眼睛就……！！"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "a8a2c148",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもこんなにあっさりと獲物を仕留められるなんて、すごい腕前だよ",
+      "zh": "不过，能这么轻松地打到猎物，你的身手真厉害啊。"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "63a0eefc",
+      "speaker": "ルルハ",
+      "ja": "ふふっ♥　ありがと♥",
+      "zh": "嘿嘿♥ 谢谢♥"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "11941a22",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうどのくらい狩りやってたんだ？",
+      "zh": "你打猎多久了？"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "f9e47b50",
+      "speaker": "ルルハ",
+      "ja": "んー……物心ついた時にはすでに弓を片手に狩りをしていたよ",
+      "zh": "嗯……我从记事起，就已经拿着弓打猎了。"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "37d812ef",
+      "speaker": "ルルハ",
+      "ja": "あたしの村じゃそれが日常だったし、",
+      "zh": "在我们村里，打猎就是家常便饭，"
+    },
+    {
+      "key": "64.3",
+      "line_index": 64,
+      "inline_index": 3,
+      "line_hash": "37d812ef",
+      "speaker": "ルルハ",
+      "ja": "狩りに失敗したら最悪その日はご飯抜きになっちゃうからね",
+      "zh": "要是打不到猎物，搞不好那天就得饿肚子呢。"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "d26cc32",
+      "speaker": "ルルハ",
+      "ja": "だから自然と狩りが上手くなっていった……そんなところかな～",
+      "zh": "所以打猎的本事就这么练出来了……大概就这样吧～"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "d010a150",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……生きるための術なんだな……。",
+      "zh": "原来如此……这是为了活下去的本事啊……。"
+    },
+    {
+      "key": "70.2",
+      "line_index": 70,
+      "inline_index": 2,
+      "line_hash": "d010a150",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃ俺には一生掛かってもルルハのようにはなれそうにないな……",
+      "zh": "看来我花一辈子，也做不到像露露哈那样啊……"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "ecbd75b7",
+      "speaker": "ルルハ",
+      "ja": "でもきみはきみで機械いじりは誰よりも得意じゃない",
+      "zh": "不过，你也有你的长处啊，摆弄机械不就比谁都厉害嘛。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "cb7eca22",
+      "speaker": "ルルハ",
+      "ja": "一朝一夕で覚えられることじゃないよね？",
+      "zh": "那可不是一朝一夕能学会的，对吧？"
+    },
+    {
+      "key": "77.3",
+      "line_index": 77,
+      "inline_index": 3,
+      "line_hash": "cb7eca22",
+      "speaker": "ルルハ",
+      "ja": "やっぱり子供の頃から機械いじりはしていたの？",
+      "zh": "你是不是从小就在鼓捣机械了？"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "6e7090cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、子供の頃から色々分解しては組み直したりとかしていたなぁ～……",
+      "zh": "是啊，从小我就喜欢拆这拆那，再装回去～……"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "cf13dae2",
+      "speaker": "ルルハ",
+      "ja": "好きこそ物の上手なれってとこだねぇ～♪",
+      "zh": "这就是所谓的“兴趣是最好的老师”吧～♪"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "b7d9498a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……で、仕留めた鳥はどうするんだ？　村に持って帰るの？",
+      "zh": "是啊……话说，这打到的鸟怎么办？要带回村子吗？"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "25b98166",
+      "speaker": "ルルハ",
+      "ja": "んー……普段なら持って帰るけど、今仕留めた鳥はすぐに食べた方が美味しいのよね",
+      "zh": "嗯……平常是会带回去的，不过刚打下来的鸟，立刻吃了才最美味呢。"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "bfbe8c51",
+      "speaker": "ルルハ",
+      "ja": "どう？　一緒に食べない？",
+      "zh": "怎么样？一起尝尝？"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "80d5d1ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいのか？",
+      "zh": "可以吗？"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "c61303b3",
+      "speaker": "ルルハ",
+      "ja": "もちろんよ♪　じゃあすぐに捌くから少し待っててね",
+      "zh": "当然啦♪ 那我这就收拾一下，你等一会儿。"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "de32ab20",
+      "speaker": "{G_PlayerName}",
+      "ja": "（手慣れているな……狩りだけじゃなくて、鳥を捌くのも日常的にしていたんだな）",
+      "zh": "（手法真熟练……看来不只是打猎，收拾鸟也是家常便饭啊。）"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "2a21a2f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　もしかして火とか必要だったりする？",
+      "zh": "啊！是不是需要生火什么的？"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "3dae3fd4",
+      "speaker": "ルルハ",
+      "ja": "ええ、串焼きにしようと思っていたから",
+      "zh": "对，我正打算做成串烧呢。"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "3d96cb77",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも料理するっていっても道具とか全然無いけど、どうするんだ？",
+      "zh": "不过虽说要做饭，可咱们什么工具都没有，怎么办？"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2489c2e8",
+      "speaker": "ルルハ",
+      "ja": "枝を串代わりにして、塩で軽く味付けして焚火で焼けばだいじょうぶ♥",
+      "zh": "用树枝当签子，撒点盐调调味，拿篝火一烤就没问题啦♥"
+    },
+    {
+      "key": "119.3",
+      "line_index": 119,
+      "inline_index": 3,
+      "line_hash": "2489c2e8",
+      "speaker": "ルルハ",
+      "ja": "この鳥はそれが一番美味しいんだから",
+      "zh": "这种鸟这么吃最香了。"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "7a721224",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった、それじゃその辺で木集めてくる",
+      "zh": "好，那我去周围捡些柴火。"
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "a91682ca",
+      "speaker": "ルルハ",
+      "ja": "よろしくね～♪",
+      "zh": "麻烦你啦～♪"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "8c851438",
+      "speaker": "{G_PlayerName}",
+      "ja": "こういうのは乾いている木の方がいいよな……お、結構落ちているじゃないか",
+      "zh": "这种得用干木头才行吧……哦，地上掉了不少嘛。"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "ab6a61b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "拾えるだけ拾って行こう、多いに越したことはないと思うし",
+      "zh": "能捡多少就捡多少吧，多总比少好。"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "dcc98317",
+      "speaker": "ルルハ",
+      "ja": "おお、結構拾ってきたんだね♪",
+      "zh": "哇，捡了这么多呢♪"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "8912459d",
+      "speaker": "{G_PlayerName}",
+      "ja": "多い方がいいかなって思ってさ。",
+      "zh": "我想着，多捡点总没错。"
+    },
+    {
+      "key": "148.2",
+      "line_index": 148,
+      "inline_index": 2,
+      "line_hash": "8912459d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルルハもう鳥捌き終わったのか……ずいぶんと手慣れているんだな",
+      "zh": "露露哈你鸟也收拾好了啊……手法真是熟练。"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "dde8737",
+      "speaker": "ルルハ",
+      "ja": "こっちもこっちで狩り同様にずっとしていたからね～",
+      "zh": "我这也是，就像打猎一样，一直干这活儿呢～。"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "f2df95ea",
+      "speaker": "ルルハ",
+      "ja": "それじゃあ火つけてもらえる？　すぐに焼くからさ",
+      "zh": "那，能帮我点个火吗？我这就开烤。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "3aadab4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった",
+      "zh": "好，交给我。"
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "19291f2b",
+      "speaker": "ルルハ",
+      "ja": "森の中で焚火……こういうのずいぶんと久しぶりかも……",
+      "zh": "在森林里生篝火……这种事真是好久没干了呢……"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "89cdb347",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょっちゅう森の中で何かしているわけでもないのか",
+      "zh": "你也不是老在森林里待着吧？"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "7852b98a",
+      "speaker": "ルルハ",
+      "ja": "ええ、狩りが終わったらすぐに村に戻る生活だったからねぇ～",
+      "zh": "是啊，以前过的是打完猎就回村子的日子嘛～。"
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "9bdee745",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そ、それにしても焼き方が思っていたのと違ってずいぶんと豪快だな……）",
+      "zh": "（不过，她这烤法跟我想的还真不一样，够豪放的……）"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "941635e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（火の横でジリジリ焼くのかと思っていたら、",
+      "zh": "（我还以为会在火旁边慢慢烤呢，"
+    },
+    {
+      "key": "176.2",
+      "line_index": 176,
+      "inline_index": 2,
+      "line_hash": "941635e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "火の上でぐるんぐるん回しながら焼くとは……というか熱くないのか……）",
+      "zh": "结果她是直接在火上转着烤……说起来，不烫吗……）"
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "ef5a1907",
+      "speaker": "ルルハ",
+      "ja": "よし、こんなものかなっ♪",
+      "zh": "好啦，这样就差不多了♪"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "1a582dc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　もう？　なんか表面しか焼いていないように見えたんだけど",
+      "zh": "诶？这就好了？感觉只烤了表皮啊。"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "2f56903",
+      "speaker": "ルルハ",
+      "ja": "でも中までちゃんと熱は通っているから。",
+      "zh": "但里面已经熟透了哦。"
+    },
+    {
+      "key": "187.3",
+      "line_index": 187,
+      "inline_index": 3,
+      "line_hash": "2f56903",
+      "speaker": "ルルハ",
+      "ja": "それにあまり火を入れすぎるとパサパサになっちゃからね",
+      "zh": "而且烤过了头，肉就柴了。"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "8138d2ac",
+      "speaker": "ルルハ",
+      "ja": "さぁ召し上がれ♪",
+      "zh": "来，尝尝吧♪"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "5bb28a9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお、わかった……それじゃあいただきますっ",
+      "zh": "哦、哦哦，好……那我不客气了。"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "2946ad5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（生っぽい気がするが……ルルハが言うんだしだいじょうぶだろう）",
+      "zh": "（感觉还有点生……不过露露哈说行，应该没问题吧。）"
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "93b09e4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あむ……ん？　おお……！　美味いな……！",
+      "zh": "嚼嚼……嗯？ 哦哦……！好吃啊……！"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "4ea7c3c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "表面はパリっとして、中に絶妙に火が通って……",
+      "zh": "外皮酥脆，里面熟得恰到好处……"
+    },
+    {
+      "key": "205.2",
+      "line_index": 205,
+      "inline_index": 2,
+      "line_hash": "4ea7c3c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "塩でしか味付けしていないのに、なんていうか味に深みがある……",
+      "zh": "明明只撒了盐，可这味道就是有深度……"
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "a9ae79c8",
+      "speaker": "ルルハ",
+      "ja": "ふふっ♪　この鳥は新鮮な状態だと味が濃いんだよね♪",
+      "zh": "嘿嘿♪ 这种鸟趁新鲜吃，味道才浓呢♪"
+    },
+    {
+      "key": "209.3",
+      "line_index": 209,
+      "inline_index": 3,
+      "line_hash": "a9ae79c8",
+      "speaker": "ルルハ",
+      "ja": "鮮度とともに味の濃さも落ちちゃうの",
+      "zh": "一旦不新鲜了，味道就差了。"
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "c7dcfe1d",
+      "speaker": "ルルハ",
+      "ja": "だからその場で捌いてすぐに食べるのが一番♪",
+      "zh": "所以现宰现吃，才是最棒的♪"
+    },
+    {
+      "key": "212.3",
+      "line_index": 212,
+      "inline_index": 3,
+      "line_hash": "c7dcfe1d",
+      "speaker": "ルルハ",
+      "ja": "あ～……やっぱり何度食べても美味しい♪　あむあむあむっ♪",
+      "zh": "啊～……果然吃多少次都美味♪ 啊呜啊呜♪"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "aabb6212",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー！　食った食った！　結構量があったな！　ごちそうさまでした",
+      "zh": "啊——！吃完了吃完了！分量还挺足的！多谢款待。"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "4a39c38e",
+      "speaker": "ルルハ",
+      "ja": "お粗末さまでした♪",
+      "zh": "招待不周啦♪"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "f3d56ecf",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても美味かったなぁ～……ルルハの絶妙な焼き加減が最高だったよ",
+      "zh": "不过说真的，太好吃了～……露露哈你对火候的掌控真是绝了。"
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "63a0eefc",
+      "speaker": "ルルハ",
+      "ja": "ふふっ♥　ありがと♥",
+      "zh": "嘿嘿♥ 谢谢♥"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "3eba8d7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "こういうの毎日食えたら幸せだろうなぁ～……そのくらい美味かったよ",
+      "zh": "要是每天都能吃到这个，那可就太幸福了～……好吃到这种程度了。"
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "db21ae22",
+      "speaker": "ルルハ",
+      "ja": "毎日食べたいの？　だったら簡単な方法があるよ？",
+      "zh": "想天天吃？那有个简单的办法哦？"
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "665bff91",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　マジ？　どんな方法が？",
+      "zh": "诶？真的假的？什么方法？"
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "5d004810",
+      "speaker": "ルルハ",
+      "ja": "それはあたしをお嫁さんにすること♥　ね？　簡単な方法でしょ？♥",
+      "zh": "那就是让我当你老婆呀♥ 怎么样？这办法简单吧？♥"
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "e0c7246a",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うぇっ！？　た、確かに簡単だけど……で、でもそういうのは……！",
+      "zh": "——哇！！？ 的、的确很简单……不、不过这种事……！！"
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "82c1d32f",
+      "speaker": "ルルハ",
+      "ja": "ふふふっ♥　きみの顔、焚火の火より真っ赤♥　動揺しすぎだって♥",
+      "zh": "呵呵呵♥ 你的脸，比这篝火还红♥ 也太慌了吧♥"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "d7a1a0f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルルハにそんなこと言われたら誰だって動揺してしまうって……！",
+      "zh": "露露哈你这么一说，任谁都会慌的啊……！！"
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "5aeff532",
+      "speaker": "ルルハ",
+      "ja": "ま、その話は追々、ね？",
+      "zh": "好啦，那件事以后再说，行吗？"
+    },
+    {
+      "key": "262.3",
+      "line_index": 262,
+      "inline_index": 3,
+      "line_hash": "5aeff532",
+      "speaker": "ルルハ",
+      "ja": "それじゃあ火の始末をしちゃいましょ。火事にするわけにはいかないからね",
+      "zh": "那先把火灭了吧，可别引起火灾。"
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "48cde5fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そうだな。火の始末は大事だな……！",
+      "zh": "啊、嗯……说得对。灭火是得注意……！！"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "42704a0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今の話……どこまで本気だったんだろう……？",
+      "zh": "（刚才那话……她到底有几分当真……？）"
+    },
+    {
+      "key": "269.2",
+      "line_index": 269,
+      "inline_index": 2,
+      "line_hash": "42704a0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう……胸のドキドキが止まらない……！　静まれ！　静まれぇ……！）",
+      "zh": "（唔……心跳得好快，停不下来……！冷静！给我冷静……！！）"
+    }
+  ]
+}

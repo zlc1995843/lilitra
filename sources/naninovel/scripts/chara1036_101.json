@@ -1,0 +1,679 @@
+{
+  "lines": [
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "172afa8a",
+      "speaker": "エリィ",
+      "ja": "う～～～～～～……！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "51c3a6f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだなんだ何事だ？　ってエリィ？　どうかしたのかい？",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "4e1db3e8",
+      "speaker": "エリィ",
+      "ja": "お兄さん！　なんでこの宇宙船には汚れがなさすぎるんですか～！",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "50a903f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　確かに……そう言えば……いつもキレイだな。",
+      "zh": ""
+    },
+    {
+      "key": "31.2",
+      "line_index": 31,
+      "inline_index": 2,
+      "line_hash": "50a903f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "掃除ロボットとかが常に動いているからチリ一つ無いのかも。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "396f277d",
+      "speaker": "{G_PlayerName}",
+      "ja": "だけど、キレイなことはいいことじゃないか。",
+      "zh": ""
+    },
+    {
+      "key": "35.2",
+      "line_index": 35,
+      "inline_index": 2,
+      "line_hash": "396f277d",
+      "speaker": "{G_PlayerName}",
+      "ja": "生活の場所が常に清潔であるというのは素晴らしいことだと思うんだけど。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "ed3df686",
+      "speaker": "エリィ",
+      "ja": "確かに良いことですけど、素晴らしいことです、だけど……だけど！",
+      "zh": ""
+    },
+    {
+      "key": "39.3",
+      "line_index": 39,
+      "inline_index": 3,
+      "line_hash": "ed3df686",
+      "speaker": "エリィ",
+      "ja": "キレイだとあたしがお掃除ができないじゃないですか！",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "b7020b97",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……そうだね……キレイだったら掃除の必要はないよね。",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "aa7d901d",
+      "speaker": "エリィ",
+      "ja": "それじゃあ困るんです！　あたしは掃除がしたいんです！",
+      "zh": ""
+    },
+    {
+      "key": "46.3",
+      "line_index": 46,
+      "inline_index": 3,
+      "line_hash": "aa7d901d",
+      "speaker": "エリィ",
+      "ja": "掃除をしていないと落ち着かないんです！　ああ、お掃除がしたいっ！",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "f544a16c",
+      "speaker": "{G_PlayerName}",
+      "ja": "き、禁断症状か？　しかし何だろう……このもの凄い本末転倒感……。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "f29b78e8",
+      "speaker": "エリィ",
+      "ja": "大体あの自動で掃除をする機械！　あれは何なんですか！",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "861424e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "何って言われても……お掃除ロボットだよ。",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "66b3fdb9",
+      "speaker": "エリィ",
+      "ja": "そうじゃないです！　あの円盤状でクルクル回って勝手に掃除をするとかふざけてます！",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "8dcbd098",
+      "speaker": "エリィ",
+      "ja": "私の許可無く勝手にお掃除をして回って、許せる存在ではありません！",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "d50f88ff",
+      "speaker": "エリィ",
+      "ja": "だいたい私がいるというのに、なんで機械が掃除するんですか！",
+      "zh": ""
+    },
+    {
+      "key": "66.3",
+      "line_index": 66,
+      "inline_index": 3,
+      "line_hash": "d50f88ff",
+      "speaker": "エリィ",
+      "ja": "私だってピッカピカにお掃除できるんです！　あんな機械リストラしましょう！",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "ff57ee11",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……それを俺に言われても……。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "3c54f1f",
+      "speaker": "エリィ",
+      "ja": "しかも機械の分際でちゃんとキレイに掃除するとか、とんでもないじゃないですか！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "537fa1ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも自動でお掃除してくれるとか、楽でいいじゃないか。",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "31e24a30",
+      "speaker": "エリィ",
+      "ja": "よくないです！　あたしのお掃除を返して欲しいです！",
+      "zh": ""
+    },
+    {
+      "key": "80.3",
+      "line_index": 80,
+      "inline_index": 3,
+      "line_hash": "31e24a30",
+      "speaker": "エリィ",
+      "ja": "あれはあたしの敵です！　いつか駆除しなければ……。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "468ae552",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうどうどう、エリィ少し落ち着いて。",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "b2b485a2",
+      "speaker": "エリィ",
+      "ja": "お掃除が出来ないんですよ、汚れが無いんですよ、こんな状況じゃ落ち着けません。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "6802a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "やれやれ……難儀な性格だなぁ……。",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "c155e0d2",
+      "speaker": "エリィ",
+      "ja": "う～……お掃除～……どこかに汚れはないのですか……。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "1a83081f",
+      "speaker": "雫",
+      "ja": "ふぅぅ……まったく……",
+      "zh": ""
+    },
+    {
+      "key": "106.3",
+      "line_index": 106,
+      "inline_index": 3,
+      "line_hash": "1a83081f",
+      "speaker": "雫",
+      "ja": "わたくしが少し手こずらせられるなんて……こんなところに汚れが……。",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "776df4a9",
+      "speaker": "エリィ",
+      "ja": "はっ！！",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "132a0917",
+      "speaker": "雫",
+      "ja": "な、なんですか？　わたくしに何か付いてます？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "6be1d0a3",
+      "speaker": "雫",
+      "ja": "まあ戦闘後だから、少し服が汚れてしまいましたけれど。",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "ad4267cc",
+      "speaker": "エリィ",
+      "ja": "よ、汚れ……新鮮な……汚れ……っ！",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "f8392895",
+      "speaker": "雫",
+      "ja": "ちょっと！　なんですのっ！　急に飛びついて来ないでください！",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "3bdd1d56",
+      "speaker": "エリィ",
+      "ja": "あたしがその汚れ、お掃除します！　いやお掃除させて下さい！　お願いします！",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "7ec0f514",
+      "speaker": "雫",
+      "ja": "結構ですっ！　こんなの機械に任せればすぐにキレイになりますからっ！",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "871da5dd",
+      "speaker": "エリィ",
+      "ja": "ダメです！　その汚れはあたしの獲物！　機械などに譲れません！",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "e40c372d",
+      "speaker": "雫",
+      "ja": "あ、あなたは何をほざいているのですっ？！　やめてくださいっ！",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "de188fbc",
+      "speaker": "エリィ",
+      "ja": "いいえ！　お掃除させてくれるまで引き下がれません！",
+      "zh": ""
+    },
+    {
+      "key": "139.3",
+      "line_index": 139,
+      "inline_index": 3,
+      "line_hash": "de188fbc",
+      "speaker": "エリィ",
+      "ja": "その汚れはあたしが落とします！　素直にお掃除させて下さい！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "5c5e9235",
+      "speaker": "雫",
+      "ja": "あ～！　うるさいっ！",
+      "zh": ""
+    },
+    {
+      "key": "142.3",
+      "line_index": 142,
+      "inline_index": 3,
+      "line_hash": "5c5e9235",
+      "speaker": "雫",
+      "ja": "こっちは戦いで疲れて帰ってきているんですから、放っておいてっ！",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "2839a045",
+      "speaker": "エリィ",
+      "ja": "ダメです！　あたしも掃除が出来ずにストレスが溜まっているんです！",
+      "zh": ""
+    },
+    {
+      "key": "145.3",
+      "line_index": 145,
+      "inline_index": 3,
+      "line_hash": "2839a045",
+      "speaker": "エリィ",
+      "ja": "だからお掃除させて下さい！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "fdf857",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは……このまま丸投げしてしまおうかな……。",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "695ce477",
+      "speaker": "雫",
+      "ja": "あなた！　何わたくしに全て任せようとしているのですっ！　そんなの許しませんっ！",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "e1614584",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、えっと……それじゃあ俺は風呂に入ってくるから、あとよろしくね。",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "182e47bc",
+      "speaker": "雫",
+      "ja": "ちょっとお待ちなさい！",
+      "zh": ""
+    },
+    {
+      "key": "159.3",
+      "line_index": 159,
+      "inline_index": 3,
+      "line_hash": "182e47bc",
+      "speaker": "雫",
+      "ja": "あなた！　これを何とかしなさいっ！　こら！　逃げるなぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "e52a0de8",
+      "speaker": "エリィ",
+      "ja": "逃がしませんよ、あたしの汚れ……お掃除です！",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "b1f5776e",
+      "speaker": "雫",
+      "ja": "きゃあ～！　助けてよっ！　この状況を何とかしてっ！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "9884a54e",
+      "speaker": "エリィ",
+      "ja": "安心して下さい、すぐに終わりますから、",
+      "zh": ""
+    },
+    {
+      "key": "171.3",
+      "line_index": 171,
+      "inline_index": 3,
+      "line_hash": "9884a54e",
+      "speaker": "エリィ",
+      "ja": "怖いのは最初だけです、終わる頃にはすごく気持ちよくなっていますから♪",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "fdceb35",
+      "speaker": "雫",
+      "ja": "いっ、いやぁぁ～～～～～！",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "b1eca3c",
+      "speaker": "雫",
+      "ja": "はぁ……はぁ……はぁ……はぁ……え、えらい目に遭ってしまったわ……。",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "1e3917d2",
+      "speaker": "エリィ",
+      "ja": "でもキレイになったら気持ちがいいものですよね♪",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "fd9ddfac",
+      "speaker": "雫",
+      "ja": "それよりも疲労と恐怖でもう……",
+      "zh": ""
+    },
+    {
+      "key": "195.3",
+      "line_index": 195,
+      "inline_index": 3,
+      "line_hash": "fd9ddfac",
+      "speaker": "雫",
+      "ja": "精神がすり減ってしまって……わたくし、もう行きますから……。",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "63d9eeb9",
+      "speaker": "エリィ",
+      "ja": "また汚れたらあたしがお掃除しますね～♪",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "9c08730a",
+      "speaker": "雫",
+      "ja": "二度とゴメンですっ！　それじゃあ！",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "b8d205d0",
+      "speaker": "エリィ",
+      "ja": "あらあら……せっかくキレイにお掃除してあげましたのに……",
+      "zh": ""
+    },
+    {
+      "key": "214.3",
+      "line_index": 214,
+      "inline_index": 3,
+      "line_hash": "b8d205d0",
+      "speaker": "エリィ",
+      "ja": "何が気に入らなかったのでしょう。",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "a6b2914a",
+      "speaker": "エリィ",
+      "ja": "それにしても、もう掃除が終わってしまいました……他に汚れているところは……。",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "9d605b9d",
+      "speaker": "エリィ",
+      "ja": "そうだ！　今お兄さんがお風呂に入っている！",
+      "zh": ""
+    },
+    {
+      "key": "220.3",
+      "line_index": 220,
+      "inline_index": 3,
+      "line_hash": "9d605b9d",
+      "speaker": "エリィ",
+      "ja": "と言うことは出た後のお風呂は汚れている！　お掃除ができるじゃないですか！",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "c4406a7f",
+      "speaker": "エリィ",
+      "ja": "そうと決まれば、お風呂場に突撃です！",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "431840ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅぅ……さっぱりした……。",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "4a35ea3c",
+      "speaker": "エリィ",
+      "ja": "お兄さん！　お風呂終わりましたか！",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "6ad6e549",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁぁ！　お風呂からは上がったけど、俺まだ服着てない！",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "75edbcec",
+      "speaker": "エリィ",
+      "ja": "あたしは平気ですから！　もう湯船のお湯を抜いてもいいですよね！",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "12d25c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ま、まあ……いいけど……。",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "f1d01821",
+      "speaker": "エリィ",
+      "ja": "よ～し！　早速お掃除始めますね！　ふんふ～ん♪",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "7bcf4486",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……やれやれだなぁ……。",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "756caceb",
+      "speaker": "エリィ",
+      "ja": "お掃除♪　お掃除♪　あたしが浴槽も床も何もかもピッカピカに磨きますからねっ♪",
+      "zh": ""
+    }
+  ]
+}

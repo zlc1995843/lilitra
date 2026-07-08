@@ -1,0 +1,571 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "4ed90ffb",
+      "speaker": "コハル",
+      "ja": "あ、{G_PlayerName}～、ちょっといい？",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "c09e9482",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう、どうかしたか？",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "68f40fcd",
+      "speaker": "ルミナ",
+      "ja": "今日の、お昼ごはん……どうしようかって……相談、してたの……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "5a99a5dd",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、この中だとどれがいい？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "de89f32",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……そうだな……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "1897ca91",
+      "speaker": "コハル",
+      "ja": "最近辛い物を食べてないから、コレとか？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "7241441e",
+      "speaker": "ルミナ",
+      "ja": "あ……いい、かも……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "9177026a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうだな、確かに",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "36121ff",
+      "speaker": "コハル",
+      "ja": "じゃ、これで決定ね！　楽しみにしとこ～！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "91d4bf76",
+      "speaker": "？？？",
+      "ja": "………………違う",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "56a7ac6b",
+      "speaker": "メア",
+      "ja": "{G_PlayerName}くんは、昨日の夜お部屋でこっそり辛い物を食べてたのに……！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "e577cc5d",
+      "speaker": "",
+      "ja": "常に傍にいるリリアン、メア。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "77ab56d2",
+      "speaker": "",
+      "ja": "{G_PlayerName}に対し並々ならぬ執着を見せており、いつも陰から見守っている。",
+      "zh": ""
+    },
+    {
+      "key": "85.2",
+      "line_index": 85,
+      "inline_index": 2,
+      "line_hash": "77ab56d2",
+      "speaker": "",
+      "ja": "誰もいないのに見られてるような気がしたら、大体メアの物と思っていい。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "cd493558",
+      "speaker": "メア",
+      "ja": "やっぱり、{G_PlayerName}くんの傍にいるのはメアが一番相応しいよぉ……",
+      "zh": ""
+    },
+    {
+      "key": "100.3",
+      "line_index": 100,
+      "inline_index": 3,
+      "line_hash": "cd493558",
+      "speaker": "メア",
+      "ja": "メアだったら、あんな我慢、{G_PlayerName}くんにさせないのに……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "f8a62c07",
+      "speaker": "メア",
+      "ja": "……そうだぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "788db22e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、昼ごはん用意出来たのか",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "4640a046",
+      "speaker": "コハル",
+      "ja": "そうみたい！　じゃ、食べましょ！",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "c02d1558",
+      "speaker": "ルミナ",
+      "ja": "いた、だき、ます……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "e0a5901a",
+      "speaker": "コハル",
+      "ja": "ん～！　から～い！",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "bf27df7f",
+      "speaker": "ルミナ",
+      "ja": "けほっ……からい、けど、美味しい……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "4078efd9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　これ、辛いか？　いや、美味しいけど……",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "4adc26f5",
+      "speaker": "コハル",
+      "ja": "辛いでしょ、十分。もしかして舌壊れちゃったの？",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "e5f440ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……そうか。いつの間にかもしかして耐性がついたのかな……？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "101f5680",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、どんな、味……？",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "650a415e",
+      "speaker": "{G_PlayerName}",
+      "ja": "どっちかっていうと……甘い？",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "3d5df051",
+      "speaker": "コハル",
+      "ja": "あははっ！　そんなわけないでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "371616fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことないって！　食べてみろよ！",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "59e7ace3",
+      "speaker": "ルミナ",
+      "ja": "ぜんぶ、同じメニューだよ……",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "77697ae5",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……？　まあ、旨いからいいか……",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "1449f702",
+      "speaker": "メア",
+      "ja": "（あはぁ……♥　{G_PlayerName}くん、メアの作ったお料理、食べてくれてる……♥",
+      "zh": ""
+    },
+    {
+      "key": "170.3",
+      "line_index": 170,
+      "inline_index": 3,
+      "line_hash": "1449f702",
+      "speaker": "メア",
+      "ja": "美味しいって言ってくれたぁ♥）",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "d5fdfb33",
+      "speaker": "メア",
+      "ja": "（他の２人の料理は機械が作ったものだけど、",
+      "zh": ""
+    },
+    {
+      "key": "173.3",
+      "line_index": 173,
+      "inline_index": 3,
+      "line_hash": "d5fdfb33",
+      "speaker": "メア",
+      "ja": "{G_PlayerName}くんのだけは見た目だけソックリなメアの料理……♥　大成功……♥）",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "c3d2db1b",
+      "speaker": "メア",
+      "ja": "（やっぱり{G_PlayerName}くん、お肉が好きなんだね……♥",
+      "zh": ""
+    },
+    {
+      "key": "176.3",
+      "line_index": 176,
+      "inline_index": 3,
+      "line_hash": "c3d2db1b",
+      "speaker": "メア",
+      "ja": "お野菜は、{G_PlayerName}くんが食べたことない物入れたけど大丈夫そう♥",
+      "zh": ""
+    },
+    {
+      "key": "176.5",
+      "line_index": 176,
+      "inline_index": 5,
+      "line_hash": "c3d2db1b",
+      "speaker": "メア",
+      "ja": "次も入れようっと♥）",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "8fa3996",
+      "speaker": "メア",
+      "ja": "（うふふ……男の人は、胃袋からつかめって聞いたから実践してるけど……",
+      "zh": ""
+    },
+    {
+      "key": "179.3",
+      "line_index": 179,
+      "inline_index": 3,
+      "line_hash": "8fa3996",
+      "speaker": "メア",
+      "ja": "どんどんつかめちゃってるかも……♥）",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "5af128ce",
+      "speaker": "コハル",
+      "ja": "ごちそうさま～！　美味しかった！",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "df02f82c",
+      "speaker": "ルミナ",
+      "ja": "ごちそうさま……食器、運んでおく、ね……",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "27506ef6",
+      "speaker": "コハル",
+      "ja": "えっ、いやいいわよ！　あたしが運んでおくから……！",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "186fc1ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、俺のぶんまで……もう運ぶ物残ってないな。ありがとうな～！",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "30a46a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、メア。どうかしたか？",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "f78ff09a",
+      "speaker": "メア",
+      "ja": "あ、{G_PlayerName}くん……♥　えっと……ご飯、食べた……？　よね……？",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "3bdb8c6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、うん。今ちょうど食べ終わったところだよ",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "311e16e1",
+      "speaker": "メア",
+      "ja": "そ、それでぇ……",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "82530491",
+      "speaker": "{G_PlayerName}",
+      "ja": "メアはもう食べたのか？",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "2bd3a5d5",
+      "speaker": "メア",
+      "ja": "あっ、め、メアっ？　う、うん！　食べたよ♥　メアも……♥",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "d7a2cfdc",
+      "speaker": "メア",
+      "ja": "（{G_PlayerName}くんが、メアのこと気にしてくれてる……♥　幸せで、倒れちゃいそう……♥）",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "efb67144",
+      "speaker": "メア",
+      "ja": "そ、それで……美味しかった、かな……？",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "90e58245",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　ああ、美味しかったぞ。メアも同じやつ食べたらどうだ？　今度",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "939d5461",
+      "speaker": "メア",
+      "ja": "あっ♥　うっ♥　うんっ♥　そ、そうしよっ……かな～♥",
+      "zh": ""
+    },
+    {
+      "key": "246.3",
+      "line_index": 246,
+      "inline_index": 3,
+      "line_hash": "939d5461",
+      "speaker": "メア",
+      "ja": "あのっ……{G_PlayerName}くんも、また、食べたいって思う……？♥",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "51d62787",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだな。……なんか辛くはなかったけど、食べたいな",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "c73c579",
+      "speaker": "メア",
+      "ja": "ああ～～～～～っっ！♥♥♥",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "ab6b26f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "……だ、大丈夫か？　どうした？",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "6f89f0d3",
+      "speaker": "メア",
+      "ja": "だい、じょうぶぅ……♥　ちょっとぉ……風邪、かなぁ……？♥",
+      "zh": ""
+    },
+    {
+      "key": "263.3",
+      "line_index": 263,
+      "inline_index": 3,
+      "line_hash": "6f89f0d3",
+      "speaker": "メア",
+      "ja": "お部屋、戻るねぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "fdbab10b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……お大事にな",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "705b1d20",
+      "speaker": "メア",
+      "ja": "はぁ……♥　{G_PlayerName}くぅん……♥",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "78fdfafa",
+      "speaker": "メア",
+      "ja": "……好きぃ……♥♥♥",
+      "zh": ""
+    }
+  ]
+}
