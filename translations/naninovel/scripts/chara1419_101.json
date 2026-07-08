@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "9c187346",
+      "speaker": "{G_PlayerName}",
+      "ja": "ずず……はあ、美味しいなこのお茶",
+      "zh": "吸溜……哈啊，这茶真好喝。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "371cf791",
+      "speaker": "",
+      "ja": "{G_PlayerName}が縁側でお茶をすすっていると、小脇に何かを抱えた石榴がパタパタと軽い足音と共に現れる。",
+      "zh": "{PlayerName}正在檐廊下喝茶，石椚啪嗒啪嗒地跑了过来，腋下还夹着什么东西。"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "53ad5b62",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、石榴……その抱えている物はなに？",
+      "zh": "啊，石椚……你抱着的是什么？"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "8e567456",
+      "speaker": "石榴",
+      "ja": "そなた、この遊戯を知っているか？",
+      "zh": "你，知道这个游戏吗？"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "57863b66",
+      "speaker": "",
+      "ja": "そう言って石榴が{G_PlayerName}に見せてきたのは変わった形の木の板と、羽が付いた石だった。",
+      "zh": "石椚边说，边给{PlayerName}看了块形状奇怪的木板，还有一块带着羽毛的石头。"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "c7b7a2ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだ？　これ……木の板と……玉？",
+      "zh": "什么？这是……木板和……球？"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "563fdbe4",
+      "speaker": "",
+      "ja": "初めて見る変わった形の物に{G_PlayerName}は興味をそそられる。",
+      "zh": "第一次见到这种形状奇特的东西，{PlayerName}顿时来了兴趣。"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "e0a79e8f",
+      "speaker": "石榴",
+      "ja": "この小さい玉をこっちの木の板で打ち返し会う遊びじゃ、村の子供が遊んでおったじゃろう",
+      "zh": "这小东西是用木板打来打去的游戏，村里的孩子们以前常玩吧。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "c9cd84bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺の故郷じゃそんなことは……",
+      "zh": "不，在我的家乡可没这个……"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "7e72488d",
+      "speaker": "石榴",
+      "ja": "どうじゃ？　これで勝負してみぬか？",
+      "zh": "怎么样？咱们来比划比划？"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "16989c2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "勝負……かぁ……よし、やってみるかな",
+      "zh": "比试啊……好吧，那我就试试。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "b3a4b17c",
+      "speaker": "",
+      "ja": "ちょうど暇を持て余していた{G_PlayerName}は、暇つぶしに石榴の誘いに乗ることにする。",
+      "zh": "{PlayerName}正闲得发慌，就顺势答应了石椚的邀请，打发打发时间。"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "3c49266",
+      "speaker": "石榴",
+      "ja": "そうこなくてはな♪　だが、ただの遊戯ではの……負けた方が勝った方の願いを何でも一つだけ聞くというのはどうじゃ？",
+      "zh": "这才对嘛♪　不过，光玩就太没意思了……输的要答应赢的人任意一个要求，怎么样？"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "bed6348c",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何でもって……",
+      "zh": "什……什么都答应？"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "b720b82b",
+      "speaker": "",
+      "ja": "何を要求されるのか一瞬ドキッとした{G_PlayerName}だが……。",
+      "zh": "{PlayerName}一下子紧张起来，心想不知会被要求做什么……"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "b4a0c349",
+      "speaker": "石榴",
+      "ja": "わえが勝ったら、そうじゃな……肩たたきでもして貰おうか",
+      "zh": "我要是赢了，那就……让你给我捶捶肩吧。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "13ecb818",
+      "speaker": "{G_PlayerName}",
+      "ja": "か、肩たたき……",
+      "zh": "捶……捶肩？"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "21d71012",
+      "speaker": "",
+      "ja": "神様からの洒落にならない要求を覚悟していた{G_PlayerName}は、その言葉にホッとした。",
+      "zh": "{PlayerName}本以为神会提出什么不得了的条件，听她这么一说，顿时松了口气。"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "99a01c70",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、神様の石榴が有利すぎるんじゃ？",
+      "zh": "可是，你石椚是神，太占优势了吧？"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "1abb8142",
+      "speaker": "石榴",
+      "ja": "ふむ……では歩数制限のハンデをくれてやろう。打ち返す事に３歩しか動かぬようにする",
+      "zh": "唔……那就让让你，加上步数限制。我每次回球后，最多只能移动三步。"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "ae4b30eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら何とか……勝負になるかな",
+      "zh": "既然这样……说不定能决个胜负。"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "87b3c5dc",
+      "speaker": "石榴",
+      "ja": "では早速勝負じゃ！　先に１０回取った方の勝ちじゃぞ",
+      "zh": "那就马上开始一决胜负！谁先拿下十回合就算赢噢。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "ddbfec03",
+      "speaker": "{G_PlayerName}",
+      "ja": "よーし、負けないぞ！",
+      "zh": "好，我可不会输！"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "30167b96",
+      "speaker": "",
+      "ja": "こうして勝負が始まった。だが……。",
+      "zh": "就这样，比赛开始了。不过……"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "45de8a4",
+      "speaker": "石榴",
+      "ja": "ほれほれ！　どうした？　歯ごたえがないぞ！",
+      "zh": "来来来！怎么，没劲了吗！"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "3da71624",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそぉ……負けないぞ……それ！",
+      "zh": "可恶……我才不会输呢……看招！"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "76356979",
+      "speaker": "石榴",
+      "ja": "はははっ！　まだまだじゃな！　そぉれ！",
+      "zh": "哈哈哈！你还差得远呢！接招！"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "2c6c502d",
+      "speaker": "",
+      "ja": "試合中、石榴が動く度に短い着物の裾がめくれて下着が見えそうになる。",
+      "zh": "比赛时，石榴每动一下，身上那件短和服的下摆就会翻飞，里面的内衣若隐若现。"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": "啊……"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "36b64032",
+      "speaker": "",
+      "ja": "その度に{G_PlayerName}の集中力が乱されて、結果として最初はハンデでリードしていたのに、気がつくと９対９の同点になってしまっていた。",
+      "zh": "每当这时，{PlayerName}都会分神，结果明明开局靠让分领先，回过神时竟被打成了九比九平。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "95818273",
+      "speaker": "石榴",
+      "ja": "どうした人の子！　油断しておるな？",
+      "zh": "怎么啦小家伙！你分心了吧？"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "ab7f8daf",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……そんな事言われたって……",
+      "zh": "呃……就算你这么说……"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "91bded39",
+      "speaker": "",
+      "ja": "戸惑う{G_PlayerName}の視線に気づいた石榴は、惑わす為にわざと大きく足を広げて動いてみせる。",
+      "zh": "石榴发现{PlayerName}的目光躲躲闪闪，就故意把双腿张得大开，晃给他看。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "835269cc",
+      "speaker": "石榴",
+      "ja": "ほれほれ！　しっかり玉を見ないと打ち返せぬぞ♪",
+      "zh": "来呀来呀！不盯紧球的话可接不回来哦♪"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "d18f4e04",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい……！　そんなに動いたら見え……",
+      "zh": "喂……！你动作那么大，都能看到了……"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "ddec693b",
+      "speaker": "",
+      "ja": "慌てて{G_PlayerName}が注意しようとした瞬間。",
+      "zh": "{PlayerName}慌忙想出声制止，就在那一瞬间。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "d6bafd6c",
+      "speaker": "石榴",
+      "ja": "そこじゃ！　油断するでない！",
+      "zh": "看招！别分心！"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "cf2caa80",
+      "speaker": "",
+      "ja": "そう言って石榴が勝負を決めにかかったが、勢いを付けすぎたのか足を滑らせてしまった。",
+      "zh": "石榴说着就要决出胜负，可或许是用力过猛，脚下竟然打滑了。"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "17564ef8",
+      "speaker": "石榴",
+      "ja": "おわぁっ！？",
+      "zh": "哇啊！？"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "48559d29",
+      "speaker": "",
+      "ja": "そのまま豪快に転倒した石榴の着物の裾は完全に捲れてしまい、下着が丸見えになってしまう。",
+      "zh": "石榴就这么摔了个四仰八叉，和服被彻底撩起，底裤一览无余。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": "啊……"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "c1d28a2b",
+      "speaker": "",
+      "ja": "思わずその下着を{G_PlayerName}が凝視すると、石榴は慌てて起き上がり捲れた着物の裾を直した。",
+      "zh": "{G_PlayerName}的目光不由自主地落在她内衣上，石榴慌忙起身，把翻卷的衣襟重新理好。"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "34b721af",
+      "speaker": "石榴",
+      "ja": "み、み、見るでないぞ！　この変態っ！",
+      "zh": "不、不许看！你这个变态！"
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "785b6d2e",
+      "speaker": "",
+      "ja": "羞恥に顔を真っ赤にさせながら石榴は{G_PlayerName}に罵声を浴びせかける。",
+      "zh": "石榴羞得满脸通红，对着{G_PlayerName}劈头盖脸地骂了起来。"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "d04a6217",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん！　って……今のは石榴の自業自得だろっ！",
+      "zh": "对、对不起！……不过刚才那都是你自找的吧！"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "3cfc0e8",
+      "speaker": "石榴",
+      "ja": "……で、でも、決まっていたから勝負はわえの勝ちじゃ！",
+      "zh": "……可、可是，规矩就是规矩，比试还是我赢了！"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "b06bc8d",
+      "speaker": "",
+      "ja": "その言葉に{G_PlayerName}が辺りを見ると、羽根は確かに石榴が打ち返していたようだ。",
+      "zh": "听到这句话，{G_PlayerName}环顾四周，发现那根羽毛确实被石榴打了回去。"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "d58b4399",
+      "speaker": "{G_PlayerName}",
+      "ja": "……はぁ……確かに、石榴の勝ちか",
+      "zh": "……唉，好吧，确实是石榴赢了。"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "718a1477",
+      "speaker": "石榴",
+      "ja": "よしっ！　じゃあご褒美にもう一回勝負してやろう！",
+      "zh": "好！那我就当奖励，再跟你比一场！"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "7cab0124",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　ご褒美は俺に肩たたきをさせるんじゃなかったか？",
+      "zh": "咦？奖励不是该让我给你捶肩膀吗？"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "6c97aaea",
+      "speaker": "",
+      "ja": "首を傾げる{G_PlayerName}だが、勝った石榴の願いを聞かねばならないので、もう一回勝負をすることになってしまうのだった。",
+      "zh": "{G_PlayerName}歪着头，满心不解，但既然必须照赢家石榴说的做，便只好再比一次了。"
+    }
+  ]
+}
