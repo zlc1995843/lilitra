@@ -1,0 +1,553 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "5b61d7a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "……うーん……どこにいるんだろ。部屋にもいないみたいだし、もしかして出かけてるのか……？",
+      "zh": "……唔……在哪儿呢。房间里也不见人影，会不会是出门了……？"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "b9afd568",
+      "speaker": "",
+      "ja": "聞きたいことがあり、宇宙船の中でコハルを探し回る。が、なかなかコハルを見つけることができずにいた。",
+      "zh": "有件事想问她，便在飞船内到处找小春。可是找了半天也没见到她的影子。"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "ec21c6da",
+      "speaker": "ムルムル",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "1a86eb53",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　ムルムル！",
+      "zh": "啊！穆尔穆尔！"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "7d21bc89",
+      "speaker": "ムルムル",
+      "ja": "ん？　{G_PlayerName}くん、どうしたの？",
+      "zh": "嗯？{ G_PlayerName }，怎么了？"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "20b51733",
+      "speaker": "{G_PlayerName}",
+      "ja": "呼び止めてすまん、コハル見なかった？",
+      "zh": "抱歉叫住你，看见小春了吗？"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "6175fc73",
+      "speaker": "ムルムル",
+      "ja": "あれ？　さっき会ったけど、コハルもきみに用事があるって言ってたよ？",
+      "zh": "咦？刚才还碰见过她，小春也说找你有事呢。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "32d912ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？　用事ってなんだろ……",
+      "zh": "是吗？会是什么事啊……"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "a83577ac",
+      "speaker": "ムルムル",
+      "ja": "さぁ？　そこまでは聞いてないけど……今頃きみの部屋に向かってるんじゃないかな？",
+      "zh": "这我就不清楚了……不过现在说不定正去你房间呢。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "aea83362",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……教えてくれてありがとう。行ってみるよ",
+      "zh": "这样啊……多谢告知，我去看看。"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "9d2303a1",
+      "speaker": "ムルムル",
+      "ja": "うん、それじゃあね",
+      "zh": "嗯，回见。"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "f7d01191",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……でも用事ってなんだろうな……まぁ、とりあえず部屋に戻るか",
+      "zh": "嗯……不过到底什么事呢……算了，先回房间吧。"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "96eb80b5",
+      "speaker": "コハル",
+      "ja": "……うーん",
+      "zh": "……唔……"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "ffb9a278",
+      "speaker": "コハル",
+      "ja": "どんな感じで……",
+      "zh": "该怎么……"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "78f7cf66",
+      "speaker": "コハル",
+      "ja": "渡せば……",
+      "zh": "给他的话……"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "d5e8cc0e",
+      "speaker": "コハル",
+      "ja": "……ここは可愛く……？　いや、ちょっとイタズラっぽく……？",
+      "zh": "……这里要可爱一点……？不，还是调皮一点……？"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "d5376f10",
+      "speaker": "コハル",
+      "ja": "余計な事とか考えずに普通に渡せばいいのかな……",
+      "zh": "别想那么多，普普通通地给他就好了吧……"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "fac087e7",
+      "speaker": "コハル",
+      "ja": "……そもそも普通に渡すって……どんな感じ……？　普通、普通……",
+      "zh": "……话说回来，普通地给，到底是什么感觉啊……？普通……普通……"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "67ed4a0a",
+      "speaker": "コハル",
+      "ja": "ううう……そもそも{G_PlayerName}に何か渡すときってどんな感じで渡してたっけ？",
+      "zh": "呜呜……说到底，平时给{ G_PlayerName }东西的时候，都是怎么给的啊？"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "c9aad8ae",
+      "speaker": "コハル",
+      "ja": "なんでこんな変に緊張しちゃうのよ……！　もう！",
+      "zh": "为什么我会莫名其妙地紧张啊……！真是的！"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "26493ab0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何やってんだ、コハルのヤツ……人の部屋の前をうろうろと……）",
+      "zh": "（小春那家伙，在人家房门口转来转去的……搞什么啊？）"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "fdacf09b",
+      "speaker": "コハル",
+      "ja": "考えても仕方ない……！　こうなったら当たって砕け──",
+      "zh": "想那么多也没用……！事到如今，只能硬着头皮上了──"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "aa75ee10",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル？",
+      "zh": "小春？"
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "287dd769",
+      "speaker": "コハル",
+      "ja": "ひゃあああぁぁぁっ！？",
+      "zh": "呜哇啊啊啊——！！？"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ce867d30",
+      "speaker": "コハル",
+      "ja": "えっ！？　えっ！？　{G_PlayerName}！？　いつの間に！？",
+      "zh": "诶！？诶！？{G_PlayerName}！？什么时候来的！？"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "77ff489f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと前から……？",
+      "zh": "从刚才开始就在了……？"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "87c375b3",
+      "speaker": "コハル",
+      "ja": "そ、そうだったの？　なんなのよ、もう……",
+      "zh": "原、原来你在啊？真是的，搞什么嘛……"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "cb8689f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……なんかすまん",
+      "zh": "啊……抱歉。"
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "98104335",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっきムルムルに会ってさ、俺に用事あるって聞いたんだけど。とりあえず部屋入るか？",
+      "zh": "刚才碰到穆尔穆尔，说你有事找我。总之先进屋吧？"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "8fc5254e",
+      "speaker": "コハル",
+      "ja": "あー……！　は、入らなくても大丈夫……すぐに終わる用事だから……",
+      "zh": "啊……！不、不用进去也行……很快就完事……"
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "40481f3f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？　で、用事って？",
+      "zh": "是吗？那，什么事？"
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "9dc0564e",
+      "speaker": "コハル",
+      "ja": "それは……そのぉ～……",
+      "zh": "这个嘛……那个……"
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "3e040c04",
+      "speaker": "コハル",
+      "ja": "（ううう……！　さっきは覚悟決めたのに、いざ本当に渡すとなると……）",
+      "zh": "（唔唔……！明明刚才下定了决心，真要给的时候又……）"
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "ce8fd4c0",
+      "speaker": "コハル",
+      "ja": "（でも渡さないなんて絶対にイヤ……せっかく作ったんだもん……絶対に絶対に渡さなきゃ……）",
+      "zh": "（但是不给他怎么行……费了这么大功夫……一定、一定要交出去……）"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "ef9c9ec0",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……？　どうしたんだよ、黙っちゃって……",
+      "zh": "小春……？怎么了，忽然不说话了……"
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "315991a5",
+      "speaker": "コハル",
+      "ja": "（勇気、勇気を出して……！　関係を深めるために必要な事なんだから……！）",
+      "zh": "（鼓起勇气……！这是为了加深关系必须做的事……！）"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "c85d2674",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……？　おい、コハル？　なんで黙っちゃうんだよ",
+      "zh": "小春……？喂，小春？怎么不说话了？"
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "a58724c6",
+      "speaker": "コハル",
+      "ja": "こっ、これっ……！　あんたにあげる！",
+      "zh": "这、这个……！给你！"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "76775923",
+      "speaker": "",
+      "ja": "コハルはそう言うと、小さな箱を俺に押し付けるように渡してくる。",
+      "zh": "小春这么说着，把一个像是硬塞过来的小盒子递给了我。"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "5869da5f",
+      "speaker": "",
+      "ja": "綺麗で可愛くラッピングが施された小さな箱。丁寧なラッピングで、見ているだけでコハルの想いが伝わってくるようだ。",
+      "zh": "一个包装得漂亮可爱的小盒子。包装得很用心，光是看着就能感受到小春的心意。"
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "f8aeac2f",
+      "speaker": "コハル",
+      "ja": "そ、その……あんたのために……一生懸命作ったの……",
+      "zh": "那个……这是特地为你……拼命做出来的……"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "72a9135e",
+      "speaker": "{G_PlayerName}",
+      "ja": "作った……？　もしかしてこれ、チョコ？",
+      "zh": "这个……难道是你亲手做的巧克力？"
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "10bc9e04",
+      "speaker": "コハル",
+      "ja": "う、うん……こういうのあたしらしくない気もするけど……でも渡さなきゃって思って……",
+      "zh": "嗯……虽然不太像我会做的事，但总觉得不给你不行……"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "d1a10b9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そんなことないだろ。コハルには昔っから色々貰ってるし",
+      "zh": "……没这回事啦。小春你一直都会送我各种东西啊。"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "e5c9f2c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、すごく嬉しい。大切に食べるよ",
+      "zh": "谢啦，我超开心的。我会慢慢品尝的。"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "3796722e",
+      "speaker": "コハル",
+      "ja": "あー……うん、喜んでくれたなら、あたしも嬉しい……えへへ……",
+      "zh": "啊……嗯，你喜欢就好，我也很开心……嘿嘿……"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "c0955942",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもコハルにはいっつも何か貰ってばっかりな気がする……俺も何か礼ができればいいんだけど",
+      "zh": "不过老是从你那里拿东西……我也该表示点什么才好啊。"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "5b22c468",
+      "speaker": "コハル",
+      "ja": "いいの、いいの！　あたしが渡したかっただけなんだから",
+      "zh": "不用不用！我就是想给你而已啦。"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "48df0f5c",
+      "speaker": "コハル",
+      "ja": "……それにあんたからは昔から色々貰ってるし",
+      "zh": "……再说，你也一直都有送我东西啊。"
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "67e99952",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな渡してたっけ……？",
+      "zh": "我有给过你什么吗……？"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "f840f667",
+      "speaker": "コハル",
+      "ja": "いっぱい貰ってる。だからあんたは余計なことは考えなくても良いの",
+      "zh": "可多了。所以你就别瞎操心了。"
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "b6faf195",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……でもこういう感じで何か貰うのっていいな",
+      "zh": "是吗……不过像这样买点小礼物也挺好的。"
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "a32d4fa1",
+      "speaker": "コハル",
+      "ja": "うん……ちょっと新鮮ね",
+      "zh": "嗯……挺有新鲜感的吧。"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "6611cade",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも貰いっぱなしってのもなぁ……なぁ、やっぱり今日のお礼はさせてくれよ？",
+      "zh": "不过光收不送也不太好吧……那个，今天就让我表示表示，好不好？"
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "cb81c793",
+      "speaker": "コハル",
+      "ja": "んー……あんたがそこまで言うなら……",
+      "zh": "唔——你都这么说了……"
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "1c7ceea1",
+      "speaker": "コハル",
+      "ja": "じゃあさ、明日一緒に買い物に行かない？　しばらくこの星に滞在するってアポロが言ってたし",
+      "zh": "那，明天一起去逛街吧？ 阿波罗说了，我们要在这里待上一阵子。"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "16b9fd5",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいな。たまには二人で出かけようぜ",
+      "zh": "行啊，咱俩也好久没单独出去了。"
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "359992f",
+      "speaker": "コハル",
+      "ja": "うんっ！　じゃあ約束ね！",
+      "zh": "嗯！那就说定啦！"
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "1e6a8ed0",
+      "speaker": "コハル",
+      "ja": "じゃああたし行くね。明日は寝坊禁止だからねっ",
+      "zh": "那我先走啦。明天不准睡过头哦！"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "5be4ce36",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルと出かけるんだぞ、寝坊なんかするわけないだろ",
+      "zh": "要跟你约会诶，我怎么会赖床呢。"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "eb8dc7dd",
+      "speaker": "コハル",
+      "ja": "ふふっ、そうだといいけどねっ",
+      "zh": "哼哼，要是那样就好了呢"
+    }
+  ]
+}
