@@ -1,0 +1,832 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "2a9fd13c",
+      "speaker": "レジーニア",
+      "ja": "機械士様、早くおいでください♥",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "ba9a09b6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　そんな走ったら危ないですよっ！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "4e93b79d",
+      "speaker": "",
+      "ja": "レジーニアは海を見るなり勢いよく走り出す。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "5ba97181",
+      "speaker": "",
+      "ja": "俺の制止も聞かずに海に入ると、にこやかな笑みを浮かべながらこちらに大きく手を振っていた。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "9ae19818",
+      "speaker": "{G_PlayerName}",
+      "ja": "（海は初めてって言ってたけど、想像以上にテンションが上がってるな……）",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "26ac44e9",
+      "speaker": "",
+      "ja": "相手は星の女王、何かあったら大変だ。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "c97e95c9",
+      "speaker": "",
+      "ja": "でもあの笑みを見ていると、あれこれと注意するのが申し訳なく思えてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "a954196d",
+      "speaker": "",
+      "ja": "とにかく彼女の身に何かが起きないように細心の注意を払わないと……そう考えながら彼女の後を追うように俺も海に入っていく。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "dd586011",
+      "speaker": "レジーニア",
+      "ja": "ふふ、こんなに楽しい気分はいつ以来かしら……えいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "ec4dc356",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うぶっ！　ちょっと！？",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "7ef403cf",
+      "speaker": "",
+      "ja": "レジーニアは突然俺に水を掛け、口の中に海水が思いっきり入ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "830f08fb",
+      "speaker": "",
+      "ja": "海水のしょっぱさに顔を歪めながらぺっぺとしていると、レジーニアは楽しそうに何度も俺に水を掛けてくる。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "64b82fba",
+      "speaker": "レジーニア",
+      "ja": "くすくすっ♪　ほらほら、水掛けられっぱなしでいいのですか？",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "328d5ef1",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそぉ……俺だってやられっぱなしじゃないぞ……先に手を出したのはお義母さんなんですからね？　あとで恨み言を言っても──",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "de8c7e87",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ぶはっ！？　勢いが……！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "5b0643b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "やられっぱなしではいられない……！　おりゃっ！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "27d06682",
+      "speaker": "レジーニア",
+      "ja": "──きゃっ！？　そんな顔にばかり……んっ！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "610d1cc7",
+      "speaker": "レジーニア",
+      "ja": "私も負けませんから……えい、えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "ac6edd09",
+      "speaker": "",
+      "ja": "俺たちは両手でお互いに水をじゃばじゃばと掛け合う。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "eaf38b4b",
+      "speaker": "",
+      "ja": "ただそれだけの行為なのに、俺は子供の頃に戻ったような楽しさについ夢中になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "406c6c7",
+      "speaker": "レジーニア",
+      "ja": "あんっ……！　そんな何度も……も、もう参りましたわ……お止めになってくださいまし……",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "751cef4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダメですっ！　恨み言は聞かないって言いましたから……おりゃっ！",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "d76dbf5c",
+      "speaker": "レジーニア",
+      "ja": "んんっ……！　も、もう……！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "77ad39d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "はっはっはっ！　男を本気にさせるからそうなるんですよ！　俺のスペシャル水かけはまだまだ続きますからねっ！　覚悟してくださいよっ！",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "b556080c",
+      "speaker": "レジーニア",
+      "ja": "……あっ！？　危な──",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "37a76c98",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ！？　う、痛っ……！？",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "984567a7",
+      "speaker": "",
+      "ja": "突然腕に痛みが走り視線を向けると、いつの間にか傍に流れてきた流木で腕を切ってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "3845b4df",
+      "speaker": "",
+      "ja": "幸い切り傷程度だったので僅かに血が出たくらいだったが、傷口に海水が染みヒリヒリと痛くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "ef79e59b",
+      "speaker": "レジーニア",
+      "ja": "傷が……手当しませんと……！",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "dda213b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな大げさな……この程度どうってことないですよ",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "74bebbd9",
+      "speaker": "レジーニア",
+      "ja": "ダメです……！　こちらに来てください！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "331ffec2",
+      "speaker": "レジーニア",
+      "ja": "これでもう大丈夫だと思います",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "266005d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "3e99a0ca",
+      "speaker": "",
+      "ja": "レジーニアは救急箱を静かに閉じる。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "2f539e39",
+      "speaker": "",
+      "ja": "流れるような一連の処置、用意してあった救急箱。万が一のために準備してくれていたんだなと思うと、頭が上がらなくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "289976cc",
+      "speaker": "レジーニア",
+      "ja": "はしゃぐのはいいですけど、ちゃんと周りも見ないとダメですよ？",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "a60ef3a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はい……本当にごめんなさい……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "38420e5e",
+      "speaker": "レジーニア",
+      "ja": "はい、お説教はおしまいです♥　幸い傷も深くありませんし、痕は残らないと思いますので安心してください♥",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "b1aaa0f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "海にはもう入らない方がいいですよね……？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "eac2ce6",
+      "speaker": "レジーニア",
+      "ja": "んー……海水が膝下くらいのところまでなら問題はないかと……でも泳ぐのは止めておきましょうね",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "2b7b1dc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかりました……お義母さんの言う通りにします",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "74c737f6",
+      "speaker": "レジーニア",
+      "ja": "くすっ♪　素直で聞き分けの良い子ですわね♪　それじゃあアイスでも食べましょうか？",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "88934a9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……救急箱といい本当に準備いいですね。俺、水だけあればいいって思っていましたから",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "9519c761",
+      "speaker": "レジーニア",
+      "ja": "転ばぬ先のなんとやらと言いますからね",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "280605ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "……水鉄砲まで用意していたんですか",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "386071d0",
+      "speaker": "レジーニア",
+      "ja": "ええ、せっかく海に来たんですもの……めいっぱい楽しまなければ損でしょう？",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "aea12567",
+      "speaker": "",
+      "ja": "俺たちはしばらく休憩したのち再び海に入る。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "3186c078",
+      "speaker": "",
+      "ja": "傷口に海水が触れないようにとレジーニアが配慮してくれたが、身長差のせいか、彼女は肩まで海に浸かってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "98f29f8",
+      "speaker": "レジーニア",
+      "ja": "──えいっ",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "f96637e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ぶわっ！　ま、また不意打ち……！　卑怯ですよっ！",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "18672b6b",
+      "speaker": "レジーニア",
+      "ja": "くすくすっ♪　先手必勝です♪　えい、えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "dc771a17",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそぉっ！　やられっぱなしでなるものか……！　くらえっ！",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "88464487",
+      "speaker": "レジーニア",
+      "ja": "ひゃぁっ！　な、なんて素早い連射っ……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "cd81090f",
+      "speaker": "",
+      "ja": "レジーニアの先制攻撃を合図に俺たちはお互いに水鉄砲で水を掛け合う。",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "e7ec3e53",
+      "speaker": "レジーニア",
+      "ja": "ですが……私もやられっぱなしではありませんからっ",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "8338e162",
+      "speaker": "レジーニア",
+      "ja": "それっ♪　隙アリですっ♥",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "ba492760",
+      "speaker": "",
+      "ja": "無邪気に水鉄砲を撃ち続けるレジーニア。",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "b400ca07",
+      "speaker": "",
+      "ja": "楽しそうな彼女を見ているだけで俺の中でテンションが上がり始め、次第に夢中になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "74b1bead",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそぉっ！　なんて逃げ足の速さだ……！",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "50a79ee7",
+      "speaker": "レジーニア",
+      "ja": "くすくすっ♪　逃げているのではありません、間合いを測っているとおっしゃってください♥　えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "7b4eaa38",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぶへっ！",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "f72af1ea",
+      "speaker": "レジーニア",
+      "ja": "ほら、ほらぁっ、どうしたのですかっ♪　一方的にやられていますよっ♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "b3dfe2e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおおお！　負けるか～～～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "e371d126",
+      "speaker": "レジーニア",
+      "ja": "くすっ♪　勢いだけでは──",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "8f7b3b18",
+      "speaker": "レジーニア",
+      "ja": "──きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "55e169d2",
+      "speaker": "",
+      "ja": "ふとした瞬間、レジーニアの表情から笑みが消え沖に流され始める。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "1fd3f450",
+      "speaker": "",
+      "ja": "遊びに熱中するあまりレジーニアは足がつくかつかないか、ギリギリの深さのところまで進んでしまっており、潮の流れに抵抗できない様子。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "6699e0aa",
+      "speaker": "",
+      "ja": "彼女の焦った表情から俺は異常事態が起こったことを悟り、水鉄砲を投げ捨て、一目散に彼女のもとへと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "feb2ba2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "──レジーニアさんっ！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "bffa2cd0",
+      "speaker": "レジーニア",
+      "ja": "──{G_PlayerName}様っ……うぶっ！",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "cd3114c7",
+      "speaker": "",
+      "ja": "俺は慌てて手を伸ばすが、レジーニアはそれに気づかない。",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "be190a40",
+      "speaker": "",
+      "ja": "もうこうなったら──俺は彼女に体当たりをするような勢いで近づき、そして──",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "849eff2c",
+      "speaker": "レジーニア",
+      "ja": "──きゃっ！？　{G_PlayerName}……様……？　ごほっ、ごほっ……はー、はーっ……",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "8db58c6c",
+      "speaker": "",
+      "ja": "俺はレジーニアをお姫様抱っこする形で抱きかかえる。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "d46da74b",
+      "speaker": "",
+      "ja": "彼女の小さな身体が俺の腕の中にすっぽりと収まり、レジーニアを助けられたことにほっと胸をなで下ろした。",
+      "zh": ""
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "5942ef6b",
+      "speaker": "レジーニア",
+      "ja": "はぁ、はぁ……あ、ありがとう、ございます……",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "7907e726",
+      "speaker": "{G_PlayerName}",
+      "ja": "いえ、このくらいでしたら……ダメですよ、足の届かないところまで行ったりしたら……",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "903b7c27",
+      "speaker": "レジーニア",
+      "ja": "そうですわね……ごめんなさい、今度は私がはしゃぎすぎていましたわね……",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "23d0bd71",
+      "speaker": "レジーニア",
+      "ja": "潮の流れがあれほどとは……",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "d12df143",
+      "speaker": "レジーニア",
+      "ja": "（{G_PlayerName}様がこんなに近くに……なんて逞しいお身体なのかしら……）",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "3cbc18aa",
+      "speaker": "レジーニア",
+      "ja": "（抱きかかえる腕も……こんなに太くて……あ、いけない、助けられたのにいやらしい目でこの人のことを見てしまうなんて……）",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "45ed7f0a",
+      "speaker": "レジーニア",
+      "ja": "（私ったらなんてふしだらな女なのでしょうか……）",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "a87b4409",
+      "speaker": "{G_PlayerName}",
+      "ja": "レジーニアさん……？　顔、赤いですけど……本当に大丈夫ですか……？",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "5910b674",
+      "speaker": "レジーニア",
+      "ja": "……こんな風に抱きかかえられたら……私……",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "679812e8",
+      "speaker": "レジーニア",
+      "ja": "貴方のこと、好きになってしまうではないですか……♥",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "35f153e9",
+      "speaker": "",
+      "ja": "レジーニアのいきなりの告白に俺の心が動揺してしまう。それでも彼女の小さな身体を離すまいとぎゅっと抱きしめると、彼女の柔らかな頬がそっと胸板に当たる。",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "ea5d7e2",
+      "speaker": "レジーニア",
+      "ja": "トクントクン……胸が高鳴っていますね……私を女として見ているのですか……？",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "506f155c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……初めて会ったあの日からずっとあなたのこと、ルミナの母親としてではなく、一人の女性として見ていました……",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "dd733f6b",
+      "speaker": "レジーニア",
+      "ja": "そう、ですか……♥　それならルミナちゃんだけではなく……私も愛してください……♥",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "9c26bcb1",
+      "speaker": "レジーニア",
+      "ja": "貴方に抱かれたい……愛し合いたいですわ……♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "c8443fc7",
+      "speaker": "",
+      "ja": "彼女の言葉に俺は緊張から言葉を失ってしまう。レジーニアも次第に言葉を失い、俺たちは無言でお互いを見つめ合う。",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "3e9c428",
+      "speaker": "",
+      "ja": "次第に大きくなっていく波の音。まるで俺たちの感情を表現するように波の音がどんどん大きくなっていくのであった。",
+      "zh": ""
+    }
+  ]
+}
