@@ -1,0 +1,436 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "a21c576",
+      "speaker": "ジュリア",
+      "ja": "こんにちは、機械士さん",
+      "zh": "你好，机械师先生。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "cc52f1bd",
+      "speaker": "",
+      "ja": "ある日呼び止められた{G_PlayerName}が振り返ると、そこには巫女の姿をしたジュリアが立っていた。",
+      "zh": "某天，{G_PlayerName} 被人叫住，一回头，就看见朱莉亚穿着巫女服站在那儿。"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "c969ab3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　そ、その格好って……",
+      "zh": "诶？！你、你这打扮是……"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "f6f4a18a",
+      "speaker": "ジュリア",
+      "ja": "どうでしょうか？　巫女服、似合ってますか？",
+      "zh": "怎么样？这巫女服，我穿还合适吗？"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "fb8b8cd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……う、うん……",
+      "zh": "啊……呃、嗯……"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "dea1f5a8",
+      "speaker": "",
+      "ja": "普段の制服とは違う姿に{G_PlayerName}は思わず見惚れてしまう。",
+      "zh": "与平时的制服截然不同的模样，让{G_PlayerName}不禁看得入了迷。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "6867256",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の視線にジュリアは少しはにかみながら、手にした竹製の「ぬさ」をゆらゆらと揺らしながら説明を始めた。",
+      "zh": "被{G_PlayerName}这么盯着看，朱莉亚有点害羞，一边轻轻晃着手里的竹制'祓串'，一边解释起来。"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "40b176fb",
+      "speaker": "ジュリア",
+      "ja": "実は小夜さんの巫女として信仰の力を引き出す能力に興味が湧きまして……",
+      "zh": "其实啊，我对小夜小姐身为巫女，能引出信仰之力的能力很感兴趣……"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "603a6942",
+      "speaker": "ジュリア",
+      "ja": "魔法では再現できないか研究レポートを書こうと、また巫女体験をさせて貰っているんです",
+      "zh": "我想写一篇关于能否用魔法重现这种力量的研究报告，所以又拜托她让我体验一下巫女修行。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "3951d7d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ、そうなんだ",
+      "zh": "哦，原来是这样啊。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "13c1afa8",
+      "speaker": "ジュリア",
+      "ja": "もしよろしければ、そのまま神社へご一緒しませんか？",
+      "zh": "如果不介意的话，要不要就这样一起去神社看看？"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "3828060",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、いいよ、一緒に行こうか",
+      "zh": "嗯，行啊，那就一起去吧。"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "9ff7dc71",
+      "speaker": "ジュリア",
+      "ja": "それでは、一緒に行きましょうか",
+      "zh": "那我们走吧。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "76f976ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、でも結構な人出だな",
+      "zh": "嗯，不过人还真多啊。"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "6855b99e",
+      "speaker": "ジュリア",
+      "ja": "はぐれないようにしなければいけませんね",
+      "zh": "可别走散了哦。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "a1834c4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな",
+      "zh": "没错。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "bfc9800d",
+      "speaker": "",
+      "ja": "二人は神社の参道を歩きながら参拝客の様子を眺めていた。",
+      "zh": "两人沿着神社的参道，边走边观察着前来参拜的人们。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "33a9c98b",
+      "speaker": "",
+      "ja": "特にジュリアは真剣な表情をしながら、おみくじや、お守りなどを観察している。",
+      "zh": "特别是朱莉亚，她一脸认真地观察着御神签和护身符。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "aa01b7f4",
+      "speaker": "ジュリア",
+      "ja": "ふむ……このおみくじの吉凶は、一体どのような法則に基づいているのでしょうか？",
+      "zh": "嗯……这御神签的吉凶，到底遵循着什么法则呢？"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "edfd3da2",
+      "speaker": "ジュリア",
+      "ja": "そして、このお守りから感じる力……興味深いですね",
+      "zh": "还有，从这护身符上感受到的力量……真有意思。"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8599da69",
+      "speaker": "",
+      "ja": "ジュリアは目を輝かせながらおみくじを引くと、なんと大吉だった。",
+      "zh": "朱莉亚眼睛发亮地抽了签，竟然抽到了大吉。"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "3f5d6a3f",
+      "speaker": "ジュリア",
+      "ja": "大吉です！　やりました……！",
+      "zh": "大吉！太棒了……！"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "d4d230ab",
+      "speaker": "",
+      "ja": "大吉のおみくじに子供のように喜ぶジュリアを{G_PlayerName}は微笑ましく見つめる。",
+      "zh": "看着朱莉亚像个孩子一样为大吉签而开心，{G_PlayerName}不禁露出了微笑。"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "eaa7da66",
+      "speaker": "ジュリア",
+      "ja": "あなたのおみくじはどうでしたか？",
+      "zh": "那你的签呢？怎么样？"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "14c7ce2",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は末吉だな……えーと、ちょっと微妙な運勢か？",
+      "zh": "我是末吉啊……嗯，这运势有点微妙啊？"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "b44ce22f",
+      "speaker": "",
+      "ja": "そう言いつつ{G_PlayerName}は無邪気に笑うジュリアの姿に心が温かくなる。",
+      "zh": "嘴上这么说，但看着朱莉亚纯真地笑着的模样，{G_PlayerName}心里觉得暖暖的。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "44fca292",
+      "speaker": "",
+      "ja": "そして一通り初詣を済ませるとジュリアは巫女体験の続きとして境内の掃き掃除をすることとなった。",
+      "zh": "等一套新年初诣结束后，朱莉亚作为巫女体验的后续，被安排去打扫神社的院子。"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "42c6f526",
+      "speaker": "",
+      "ja": "おみくじで大吉を引いたジュリアはご機嫌で箒を動かしながら落ち葉を集めていく。",
+      "zh": "抽到大吉的朱莉亚心情愉悦，一边挥着扫帚一边扫拢落叶。"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "bd87a427",
+      "speaker": "ジュリア",
+      "ja": "ふふふっ……こういうお役目も、新鮮で面白いですね……これも巫女としての修行なのでしょうか？",
+      "zh": "呼呼……这样的差事也挺新鲜好玩的呢……这难道也是巫女的修行吗？"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "e1168ab0",
+      "speaker": "",
+      "ja": "そう呟きながら落ち葉を追いかけていたジュリアだが、着慣れない服のためか、石に躓いてしまった。",
+      "zh": "朱莉亚一边嘀咕着一边追赶落叶，可也许是不习惯这身衣服，被石头绊了一跤。"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "e527e398",
+      "speaker": "ジュリア",
+      "ja": "きゃっ！",
+      "zh": "呀啊！"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "e173e881",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　危ない！",
+      "zh": "啊！小心！"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "482cb019",
+      "speaker": "",
+      "ja": "バランスを崩して転びそうになったジュリアだが、咄嗟に{G_PlayerName}が手を伸ばして彼女の体を支える。",
+      "zh": "朱莉亚一个踉跄眼看要摔倒，千钧一发之际{G_PlayerName}伸手扶住了她的身体。"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "1b7b39ee",
+      "speaker": "ジュリア",
+      "ja": "あっ……機械士さん……",
+      "zh": "啊……机械士先生……"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "510398f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅ……危ない危ない……",
+      "zh": "呼……好险，好险……"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "f8177fa7",
+      "speaker": "",
+      "ja": "助けられたジュリアは安堵の表情を浮かべて{G_PlayerName}のことを見上げた。",
+      "zh": "朱莉亚松了口气，抬头看向{G_PlayerName}。"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "f8afef97",
+      "speaker": "",
+      "ja": "だがその時、風が吹きジュリアの巫女服の裾がふわりと舞い上がってしまい、淡い色の下着がチラリと見えてしまう。",
+      "zh": "可就在这时，一阵风拂过，朱莉亚的巫女服下摆随风轻轻扬起，浅色的内衣若隐若现。"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "7a678a81",
+      "speaker": "ジュリア",
+      "ja": "あ、あの……その……ありがとうございます、機械士さん……",
+      "zh": "啊，那个……这个……谢谢你，机械士先生……"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "9904ad4e",
+      "speaker": "",
+      "ja": "ジュリアは恥ずかしそうにそう呟き顔を伏せると顔を赤らめた。",
+      "zh": "朱莉亚害羞地小声说着，低下头，脸上泛起了红晕。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "fb8c1a39",
+      "speaker": "",
+      "ja": "そのリアクションが普段優等生な彼女からは想像もできず、少しドジで可愛らしい一面に{G_PlayerName}は思わず微笑んでしまう。",
+      "zh": "她平时总是一副优等生的模样，很难想象会有这种反应。面对她这有点笨拙又可爱的一面，{G_PlayerName}不由得笑了。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "f01c2bc9",
+      "speaker": "",
+      "ja": "その後、ジュリアと{G_PlayerName}は一緒に帰路についた。",
+      "zh": "之后，朱莉亚和{G_PlayerName}一起踏上了归途。"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "78968e77",
+      "speaker": "ジュリア",
+      "ja": "あの……機械士さん……これ……",
+      "zh": "那个……机械师先生……这个……"
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "1f1e3d8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　これって……お守り？　しかも二つ……",
+      "zh": "咦？这是……护身符？而且还有两个……"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "13778ed8",
+      "speaker": "ジュリア",
+      "ja": "はい……境内の掃除にお守りの授与、それに神事のお手伝いまで……普段からたくさんのお役目を全うする巫女さん達、すごいですよね",
+      "zh": "是啊……打扫神社啦，分发护身符啦，还要帮忙祭典……巫女们平时要做那么多工作，真的很厉害呢。"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "6ddc39be",
+      "speaker": "ジュリア",
+      "ja": "これは私が作った、感謝の気持ちです。厄除けは任せてください！",
+      "zh": "这是我的一点心意，自己做的。驱邪避凶尽管包在我身上！"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "6953e78f",
+      "speaker": "",
+      "ja": "そして二つあるお守りの一つを{G_PlayerName}の手のひらにそっと乗せた。頬を赤らめながらジュリアは{G_PlayerName}に囁きかける。",
+      "zh": "然后，她把其中一个护身符轻轻放在了{G_PlayerName}的手心里。朱莉亚红着脸，对{G_PlayerName}低语。"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "982c4685",
+      "speaker": "ジュリア",
+      "ja": "お揃いのお守りです、私の魔力とこの神社の清らかな力が込められています……これからも、あなたにたくさんの幸福が訪れますように",
+      "zh": "这是一对的护身符，里面灌注了我的魔力和这座神社的清净之力……希望从今往后，也能有好多好多的幸福降临到你身上。"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "8e9e8b09",
+      "speaker": "",
+      "ja": "その笑顔とお守りは{G_PlayerName}にとって、かけがえのない宝物のように感じられるのだった。",
+      "zh": "那个笑容和这份护身符，对{G_PlayerName}而言，就像是无可替代的宝物。"
+    }
+  ]
+}
