@@ -1,0 +1,1048 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "2f85df0",
+      "speaker": "セーヌ",
+      "ja": "（ククク……従業員のバニーさんの正体がまさか世紀の大怪盗なんて、ここにいる人たちは誰一人として気づかないんだろうね～……♪）",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "ed92edf8",
+      "speaker": "セーヌ",
+      "ja": "（おかげで下見もバッチリだよ♪　大怪盗であるわたしの鮮やかで華麗な盗みで、カジノもさらに盛り上がること間違いなしだね！）",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "dd78a284",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あー……今日は全然ダメだ。厄日だなぁ……もうスッカラカンだよ……）",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "a7c0c9b5",
+      "speaker": "",
+      "ja": "今日はとことん運から見放され、どんなゲームをしても負け続けた。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "7e473109",
+      "speaker": "",
+      "ja": "手持ちのお金も無くなってしまったが、何とか負けを取り返したいと考えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "52ab9da9",
+      "speaker": "",
+      "ja": "どこかにコインの一枚でも落ちていれば……そう思いながらカジノの中をグルグルと周っていた。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "3c852c79",
+      "speaker": "セーヌ",
+      "ja": "～～♪　～～～♪",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "756d9a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（セーヌ！？　な、何故ここに！？　って、普通に従業員として働いているだけか……）",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e9ebc2e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや、待て……なんか妙に嬉しそうにしてるぞ……？　そもそも大怪盗を自称しているアイツが普通に働いたりするか……？）",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "66fddf8b",
+      "speaker": "",
+      "ja": "バニー姿のセーヌ、しかし場所がカジノということもあり、その姿に違和感は全くと言っていいほど無い。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "bca0e2a6",
+      "speaker": "",
+      "ja": "だからここでヘンに勘ぐる必要は無いはずだ。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "e8b95654",
+      "speaker": "",
+      "ja": "しかし意気揚々としているセーヌにイヤな予感を覚える。",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "27bfc321",
+      "speaker": "{G_PlayerName}",
+      "ja": "（警戒はしておいた方がいいな……ついこの前も商人の屋敷に盗みに入ってたしな）",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c5d35bf5",
+      "speaker": "",
+      "ja": "俺はそう考え、ゆっくりとセーヌに近づく。",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "31055def",
+      "speaker": "{G_PlayerName}",
+      "ja": "こら！　セーヌ！",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "47a9449d",
+      "speaker": "セーヌ",
+      "ja": "──ひゃぁぁっ！？　な、何だいいきなり！　って、機械士くんじゃないか……どうしたんだい？　いきなり大声出してさぁ～",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "6e868d64",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前がまた何か企んでいるかと思ってな……ここのカジノのオーナーとは知り合いなんだ、盗みなんてさせないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "2776f878",
+      "speaker": "セーヌ",
+      "ja": "やれやれ……いきなり酷いことを言うんだね？　真面目なバニーさんを捕まえてさぁ～",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "ba7481b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "どこが真面目なんだよ？　で、何を盗もうとしてた？　言え、白状しろ！",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "ff2a87a8",
+      "speaker": "セーヌ",
+      "ja": "そんな怒鳴らなくてもいいだろ……まだ何も盗んでいないんだからさぁ～。無実だよ、無実♪",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "7852a1d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "語るに落ちるの早すぎ……今、”まだ”って言っただろ！　それって後で盗みますって言ってるようなもんだ",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "2e474160",
+      "speaker": "セーヌ",
+      "ja": "──えっ！？　そ、そそ、そうかい？　機械士くんの聞き間違いでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "22478073",
+      "speaker": "{G_PlayerName}",
+      "ja": "いーや！　間違いなく言った！　まったくお前はホントどうしようもないヤツだな……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "aef49639",
+      "speaker": "セーヌ",
+      "ja": "むうう……！　で、でも盗みを働いていないのも事実だよっ……！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "2988236e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃそうだな。でも俺がオーナーにお前のことチクったら警戒するだろうな？",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "7f98f7ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "つまりセーヌの計画が成功するか否かは俺次第ってわけだ",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "d12ae44f",
+      "speaker": "セーヌ",
+      "ja": "な、何が言いたいんだい……？　な、なんだか目が妙にエッチなんだけど……？",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "3bcafdef",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃバニーガールのセーヌなんて見てたら、することしたくなっちまうよなぁ～……一応俺も男なわけだし",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "be441235",
+      "speaker": "セーヌ",
+      "ja": "……つまり口止めの”取り引き”ってわけだよね？",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "dc11b0b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "話しが早くて助かるよ。俺も負け続けてどっかで発散したいって思ってたしさ",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "d5c93be8",
+      "speaker": "セーヌ",
+      "ja": "はぁ～……まさか機械士くんの方からそんな提案をされるなんてね～……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "c8e03078",
+      "speaker": "セーヌ",
+      "ja": "でも選択肢なんてあってないようなものだし──",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "4cc17ee8",
+      "speaker": "セーヌ",
+      "ja": "んぅぅぅ、機械士くんのお尻にぃ……♥　あうっ、挟んじゃダメだってぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "a2870b2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "盗みのために身体を売るとか、セーヌってホント根っからの泥棒なんだな",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "9df7ec3e",
+      "speaker": "セーヌ",
+      "ja": "んぅぅぅ……何度も言ってるじゃないか、怪盗はわたしにとっての生きる道なんだって……んっ♥",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "4a07292d",
+      "speaker": "セーヌ",
+      "ja": "機械士くんこそいいのかい？♥　わたしと”取り引き”してさぁ……♥　犯罪を黙認するってことは共犯と同義になってしまうんだよ？♥",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "5334ed92",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだ、心配してくれているのか？　セーヌがヘマして捕まんなきゃ大丈夫なんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "e851cead",
+      "speaker": "セーヌ",
+      "ja": "そうだけどぉ……カジノのオーナーと知り合いなんでしょ？♥　赤の他人なら黙認するってのもわかるんだけど♥",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "14a9a854",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁそれとこれとは話は別ってヤツかな。今日は大損こいたからな……俺の分だけ取り返すのを容認してやるって感じだから",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "46f85a74",
+      "speaker": "セーヌ",
+      "ja": "あんっ……♥　そ、そんな擦りつけないでぇ……♥　この体勢にさせてお尻におちんちん擦りつけるなんて、やっぱ機械士くんってヘンタイなの？♥",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "4ede4099",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、否定はしないよ。犯罪の片棒を担いでまでセックスしようとしてるんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "5f5b8e2f",
+      "speaker": "セーヌ",
+      "ja": "ギャンブルに負けたストレスをわたしにぶつけて、尚且つ盗ませようとしている……機械士くんってわたしが思っているよりも全然鬼畜だね♥　くくくっ♥",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "d9c98e",
+      "speaker": "{G_PlayerName}",
+      "ja": "それを分かった上で取り引きに応じるお前もなっ",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "42ecb112",
+      "speaker": "セーヌ",
+      "ja": "お゛っ！？♥　お、おっ、な、何か、挿って……これっ、まさかあの時の……！？♥",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "8d39439f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、お前が俺の部屋に置いていった物だ",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "892c7376",
+      "speaker": "セーヌ",
+      "ja": "な、なんで……おおうっ！！♥　そんなの、持ってぇ……！！♥　らめぇっ！♥　息が……う、動かないでぇっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "50ee8911",
+      "speaker": "",
+      "ja": "俺は肉棒でローターを押し込むと、セーヌの口から戸惑いの声が漏れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "8ce598",
+      "speaker": "",
+      "ja": "ローターを膣奥にまで押し込むと俺はピストンを始める。",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "64430496",
+      "speaker": "",
+      "ja": "セーヌはすぐに感じ始め、腰をぐいっと持ち上げながら悶え喘ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "b6262c48",
+      "speaker": "セーヌ",
+      "ja": "うう゛っ♥　機械士くんのおちんちんだけでも凶悪なのにぃ……！！♥　ほぉ、お゛っ！♥　らめぇえっ♥　振動がぁ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "b02df61e",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなものを盗んだお前が悪いっ……！　俺と取り引きに応じたお前が悪い……！　全部全部セーヌ自身の行いの結果だっ……！",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "6d1a5eac",
+      "speaker": "セーヌ",
+      "ja": "人のせいに、しないでぇ……！♥　うう、うううううっ！♥　こ、こんなセックスなら取り引きしなかったかもしれないのにぃ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "3de769b7",
+      "speaker": "セーヌ",
+      "ja": "黙ってるなんて卑怯すぎるぅ……！♥　ほおおおっ！♥　おお゛っ！♥　おふうぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "46e1f6a9",
+      "speaker": "セーヌ",
+      "ja": "な、なんか振動が……この前よりも強いぃ……！！♥　一体どうなってぇ……あおっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "e3dfc275",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ちょいと改良したからな……この振動すげぇ気持ち良いよな……",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "1616e1ef",
+      "speaker": "セーヌ",
+      "ja": "気持ち良いなんて……んんぅぅぅっ！♥　レベルじゃ……ふぅ、ふううう、んぅぅっ！♥　ふお、おぉおお゛っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "84cf3a49",
+      "speaker": "",
+      "ja": "俺とセーヌに同時に快感をもたらすローター。",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "41c56fe7",
+      "speaker": "",
+      "ja": "快感にセーヌの膣が歪なまでに締まり、無数のヒダが陰茎に絡む。",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "294c6b01",
+      "speaker": "",
+      "ja": "亀頭を小刻みな振動で震わされ、その刺激が俺に快感と興奮をもたらす。",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "e026bfcd",
+      "speaker": "",
+      "ja": "ぐちゅぐちゅと卑猥な音が少しずつ大きくなり、漏れ出す愛液の量と比例するようにセーヌの淫らな声が強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "af0be63e",
+      "speaker": "セーヌ",
+      "ja": "らめぇっ！♥　ら゛め゛ぇっ！！♥　おまんごっ、おがしくなるりゅうっ！！♥　ふうう、んふうううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "445fe460",
+      "speaker": "セーヌ",
+      "ja": "い゛い゛っ♥　ふーっ、ん゛ふーっ！！♥　し、振動、止めてぇ……！♥　本当に、おまんごっ、壊れぢゃうぅぅ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "480267c6",
+      "speaker": "",
+      "ja": "セーヌの悶絶する悲鳴を無視するように俺はさらにピストンを早める。",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "edb49a81",
+      "speaker": "",
+      "ja": "突き上げるたびに愛液が膣の中で溢れ、狭い膣が吸い付くように締め付ける。",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "766a7069",
+      "speaker": "",
+      "ja": "俺はその抵抗に逆らうように動きを止めず、オスの本能を剥き出しに突き上げ続けた。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "7ae9211",
+      "speaker": "セーヌ",
+      "ja": "ら、らめぇっ！♥　ぎもぢいいの止まらなぃよぉっ！♥　ふぅ、ううぅ、んぉおおっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "d1324f14",
+      "speaker": "セーヌ",
+      "ja": "もうらめぇっ！！♥　い゛、イ゛っ！！♥　んぅぅぅっ！♥　イグ、イグっ！！♥　イっぢゃうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "8d933890",
+      "speaker": "セーヌ",
+      "ja": "あああぁぁっ！！♥　イグイグイグイグぅっ！！♥　イっぢゃうぅ～～～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "6292fcd7",
+      "speaker": "セーヌ",
+      "ja": "お゛ほぉぉっ！♥　お、お゛っ！♥　ふうう、んぅぅぅうぅっ！♥　う゛う゛う゛っ！！♥　んふぅぅっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "aefc85f5",
+      "speaker": "",
+      "ja": "セーヌが身体を大きく跳ねらせると同時に、俺は膣内にこみ上げてきた熱いモノを一気に吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "a56fe4d7",
+      "speaker": "",
+      "ja": "柔らかなお尻を掴みながら限界まで腰を押し付け、強く吸われるような刺激に何度も射精を繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "49442fb9",
+      "speaker": "セーヌ",
+      "ja": "ほぉお゛っ♥　おぉお゛っ！♥　ほおおお゛っ！！♥　熱いの、出てぇ……♥　あおお、おまんこ、イキっぱなしぃ……！♥　んぎいいっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "e584bf80",
+      "speaker": "セーヌ",
+      "ja": "ううっ！♥　ぎもぢいいぃっ！♥　よしゅぎれっ、おまんこバカになっぢゃうぅ～～っ……！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "2ee55aa4",
+      "speaker": "",
+      "ja": "俺はすべてを出し切り果てる。",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "4abf3ee7",
+      "speaker": "",
+      "ja": "しかしセーヌは未だに絶頂を続け、柔膣が肉棒をぎゅっぎゅと締め付ける。",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "b35adf72",
+      "speaker": "",
+      "ja": "僅かに衰えていた肉棒が膣の刺激で再び活力を取り戻し、セーヌを犯したい欲求が俺の中で再び熱く燃え上がってきていた。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "75cf50cb",
+      "speaker": "セーヌ",
+      "ja": "ひぃ、ひぃ……♥　機械士くん、やりしゅぎぃ……♥　こんなに、しゅるなんてぇ……聞いてないよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "68fa580f",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前がエロすぎるからだ……まったく、ただでさえ可愛いのにバニーガールなんてなられた日には誰だってこうなっちまうって",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "e9c110d8",
+      "speaker": "セーヌ",
+      "ja": "そう言われるのは嬉しいけどぉ……限度ってものがあるんだよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "fe507025",
+      "speaker": "セーヌ",
+      "ja": "はー……やっと落ち着いてきたぁ……♥　これで、はぁ、はぁ……♥　取り引きは終了、だよね……？♥",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "788a2018",
+      "speaker": "セーヌ",
+      "ja": "じゃ、わたしは下見があるし、これで──",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "267a6111",
+      "speaker": "セーヌ",
+      "ja": "──ひぎぃいいっ！？♥　な、なんでぇっ！？♥　あ、あっ！♥　らめらめぇえっ！♥　続けるなんて聞いてないよぉっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "cae19ed7",
+      "speaker": "{G_PlayerName}",
+      "ja": "一回だけとは言ってないだろ？　それにやっぱり泥棒なんて良くない……！　これは盗みを働こうとするお前に対するお仕置きセックスだ……甘んじて受けろっ！",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "f28a39aa",
+      "speaker": "セーヌ",
+      "ja": "なにそれぇっ！♥　無茶苦茶だよぉっ！♥　おおっ！！♥　らめ、またローターが……あ、お゛っ、おおおおおおっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "5493ef79",
+      "speaker": "",
+      "ja": "俺がピストンを再開すると同時にローターが膣奥で激しく振動をする。",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "75b3782d",
+      "speaker": "",
+      "ja": "完全に不意を突かれたセーヌは逃げるように腰を捩らせる。",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "1c68cf2f",
+      "speaker": "",
+      "ja": "しかし俺はがっちりと柔らかなお尻を掴むと、子宮口にローターを押し当てるように小刻みにピストンを繰り返していく。",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "9845ca16",
+      "speaker": "セーヌ",
+      "ja": "ううううううっ！！♥♥　らめぇえっ！♥　今、おまんこイってぇ……お゛っ！♥　ほぉ、お、おっ！♥　おまんごっ、壊れりゅぅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "c3948694",
+      "speaker": "セーヌ",
+      "ja": "ゴリゴリ、らめぇえっ！♥　イグの止まらなくなりゅぅっ！！♥　うう、うあ、あ、はぁっ！♥　お、お゛っ、おお゛っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "7ba4de00",
+      "speaker": "",
+      "ja": "俺は腰を突き入れるたびにセーヌは絶頂する。",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "a38e819d",
+      "speaker": "",
+      "ja": "膣がまるでローターのように痙攣し、震える柔膣の刺激に俺は夢中になって腰を振る。",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "8e432676",
+      "speaker": "",
+      "ja": "セーヌは意識が朦朧としているのか、もう逃げる意思すら無くなってきていた。",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "f4842f00",
+      "speaker": "セーヌ",
+      "ja": "んぎぃっ、ひぃ、んんぅぅぅうっ！！♥　死んじゃうぅっ！♥　きもひっ、よしゅぎれっ！♥　あう、あうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "46d1e8b8",
+      "speaker": "セーヌ",
+      "ja": "お゛っ！♥　おっ！♥　お゛ほおぉぉっ！！♥　ぎもりいのっ、どまらないぃっ！♥　もうゆるひてぇええっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "137a89f2",
+      "speaker": "",
+      "ja": "腰を打ち付けるたびに、肌のぶつかり合う音が響く。",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "22eac330",
+      "speaker": "",
+      "ja": "その音すらに俺は昂ってしまい、パンパンパンとリズム良く腰を打ち付ける。",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "ec316fff",
+      "speaker": "",
+      "ja": "俺が快楽を貪るようにピストンを繰り返す間もセーヌはイキ続け、大量の愛液と精液がボタボタと垂れ落ちる。",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "b9c45d4d",
+      "speaker": "",
+      "ja": "グチョグチョになっている膣で何度も肉棒を擦っていると、俺にも少しずつ限界が近づいてくるのを感じてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "1d973a83",
+      "speaker": "セーヌ",
+      "ja": "おまんごっ、ばかに、なりゅううぅ！♥　壊れるぅ、もうやめてぇ……んぅぅっ！！♥　んぉ、おおおっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "ffb15ec8",
+      "speaker": "セーヌ",
+      "ja": "あっ！♥　ローターがまたぁ……！！♥　んぎぎぃっ！♥　う゛ぅ゛っ！♥　ふーっ、んふっ、ふう゛う゛う゛っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "c47d5c70",
+      "speaker": "セーヌ",
+      "ja": "う゛っ♥　う゛っ！♥　んぅう゛！！♥　らめぇ、まら、イギそ！♥　おおおっ！♥　んぅ、んっ、んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "93a72710",
+      "speaker": "セーヌ",
+      "ja": "イグっ♥　イぎゅぅっ！！♥　う゛っ！♥　んう！♥　う、あ、あっ！♥　んんっ、んんんんん～～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "e85961f7",
+      "speaker": "セーヌ",
+      "ja": "おおっ！♥　ふおっ、お゛っ！♥　んふぅ、ふうううううううっ！♥　ふああぁぁぁぁぁっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "c1bf5281",
+      "speaker": "",
+      "ja": "セーヌが何度目かの絶頂を迎え、膣がぎゅうっと締まる。",
+      "zh": ""
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "9e4688d1",
+      "speaker": "",
+      "ja": "俺は締め付けの感触に思わず射精してしまい、再びセーヌの膣奥を精液で真っ白に汚していく。",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "e2731b00",
+      "speaker": "セーヌ",
+      "ja": "う゛♥　あ゛♥　あちゅぅ……♥　せーえきぃ、いっぱいだよぉ……♥　あはぁぁぁ♥　イグの、止まらないぃ……はううう、ううぅっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "d8041352",
+      "speaker": "セーヌ",
+      "ja": "気持ち、良しゅぎるぅ……♥　頭おかしくなりそうだよぉ……あはぁぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "378.0",
+      "line_index": 378,
+      "inline_index": 0,
+      "line_hash": "3ff3e5e7",
+      "speaker": "",
+      "ja": "セーヌは恍惚とした笑みを浮かべながら、絶頂の繰り返しに身体を震わせる。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "5522a01c",
+      "speaker": "",
+      "ja": "すっかりと快楽に溺れたような声を上げながらイキ続け、精液を搾り取るように執拗に肉棒を締め付けてくる。",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "2ecfd4d5",
+      "speaker": "セーヌ",
+      "ja": "はーっ♥　んはぁーっ♥　あぁぁ……激し、すぎぃ……♥　あう、ローターがまたっ……うう゛っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "98a405ac",
+      "speaker": "セーヌ",
+      "ja": "あひぃぃっ、ひぃぃ♥　おまんこ、イキっぱなしぃ……♥　溶けるぅ……おまんこ溶けちゃうぅ……はひぃぃぃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "24bdfe8d",
+      "speaker": "",
+      "ja": "セーヌは絶頂が収まらず、いつでもイキ続ける。",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "c1f44910",
+      "speaker": "",
+      "ja": "さすがに少し心配になり、そっと背後から抱きしめるとセーヌはとろんとした瞳で俺を見つめてくる。",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "66759523",
+      "speaker": "セーヌ",
+      "ja": "機械士くんの……ばかぁ……へんたいぃ……♥　あうっ！♥　おまんこ、おかしくなっちゃったよぉ……あふぅぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "acd5a4c9",
+      "speaker": "",
+      "ja": "俺に文句を言いつつも、幸せそうな笑みを見せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "c78ff74d",
+      "speaker": "",
+      "ja": "そんなセーヌを愛しく感じ、落ち着くまでいつまでも抱きしめ続けているのであった。",
+      "zh": ""
+    }
+  ]
+}

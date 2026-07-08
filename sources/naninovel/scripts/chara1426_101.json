@@ -1,0 +1,706 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "2b94921",
+      "speaker": "{G_PlayerName}",
+      "ja": "……うん？",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "7dd8d9a1",
+      "speaker": "",
+      "ja": "目覚めの良い朝、ふとテーブルに視線を向けると小さな封筒が置いてあった。",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "cb60c96d",
+      "speaker": "",
+      "ja": "封筒にはしっかりと封蝋がされており、なんだか雰囲気のある封筒に思わず身が引き締まる。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "4cc3f8c7",
+      "speaker": "",
+      "ja": "とりあえず中を確認しないと……俺はカッターを取り出し、ゆっくりと封筒を開けていった。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "1ccb3860",
+      "speaker": "{G_PlayerName}",
+      "ja": "……中に紙が一枚……それっぽく封をしていた割にはこれだけしか入っていないのか……どれどれ……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "2a97bc2",
+      "speaker": "",
+      "ja": "『親愛なる{G_PlayerName}くんへ──今夜、あなたの心、奪っちゃうよ～！　怪盗セーヌ』",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "30e7bc59",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだこりゃ……セーヌからの手紙？　予告状なのか？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "1618855c",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく、なんのイタズラだよ……というか、またアイツ、俺の部屋に無断で入って……油断も隙もないヤツだな",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "113a7531",
+      "speaker": "{G_PlayerName}",
+      "ja": "今度会った時に注意しないと……こんな手紙なんて寄越さずに普通に遊びに来いって言ってやらんと",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "c9f4ca5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あー、疲れた……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "bc4acb",
+      "speaker": "",
+      "ja": "今日は雫とアポロにいいように使われた一日だった。宇宙船と街の往復、倉庫の整理といつまでも終わらない作業。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "efca3cff",
+      "speaker": "",
+      "ja": "ようやく解放され、軽い足取りで自分の部屋に向かう。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "78751667",
+      "speaker": "セーヌ",
+      "ja": "──やあ、遅かったね、待ってたよ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "aeebd99e",
+      "speaker": "{G_PlayerName}",
+      "ja": "──セーヌ！？",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "b9c5944d",
+      "speaker": "",
+      "ja": "部屋に入るとベッドの上にちょこんと座っていたセーヌ。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "3e8c6e9a",
+      "speaker": "",
+      "ja": "普段着ている怪盗の服と違い、白いバニー衣装に身を包み、普段のセーヌとは明らかに違う雰囲気を醸し出していた。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "34a219fb",
+      "speaker": "セーヌ",
+      "ja": "……よっと！　それにしても本当に遅かったね～。そんなに忙しかったのかい？",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "1e5c277c",
+      "speaker": "",
+      "ja": "セーヌは華麗にベッドから飛び降りるとテーブルの椅子に軽やかに座る。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "d2d7c13a",
+      "speaker": "",
+      "ja": "予め準備していたのか、テーブルの上にはお菓子やら紅茶などが大量に置いてあった。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "69cb83d8",
+      "speaker": "セーヌ",
+      "ja": "ほらほら、そんなとこに突っ立ってないでこっちにおいでよ♪　今日一日の疲れをティータイムで癒そうじゃないか♪",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "cb1cec65",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そう、だな……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "7434e251",
+      "speaker": "",
+      "ja": "俺はセーヌに促されて椅子に座る。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "cf6b489",
+      "speaker": "セーヌ",
+      "ja": "ふふ、それじゃあ隣、失礼するね～♪",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "45bc2d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい……？　なんでそんなくっつけて……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "d538a261",
+      "speaker": "",
+      "ja": "セーヌはにんまりと笑みを見せると、俺の座っている椅子にくっつけるように自分の座っていた椅子を持ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "56bfe5e2",
+      "speaker": "",
+      "ja": "お互いの身体がくっつき合う形になり、俺の心臓が思わず跳ね上がる。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "871cf6bb",
+      "speaker": "",
+      "ja": "普段の衣装と違うことも相まって、気恥ずかしさからセーヌをまともに見られなくなってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "474a8a47",
+      "speaker": "セーヌ",
+      "ja": "くすくす♪　ずいぶんと普段の{G_PlayerName}くんと態度が違うね～♪　まるで借りてきた猫だよ",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "cceccd3e",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょ、しょうがないだろ……！　普段のセーヌと全然違って……！　なんでそんな格好してんだよ",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "e496c09b",
+      "speaker": "セーヌ",
+      "ja": "ふふん♪　今日は特別仕様の大怪盗セーヌだよ～っ！　{G_PlayerName}くんだけに特別にお披露目してあげているんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "b01fdfa7",
+      "speaker": "セーヌ",
+      "ja": "ねぇねぇ、ちゃんとこっち見てよ！　この服に合ってる？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "c61b85d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……似合ってるぞ……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "20186cf",
+      "speaker": "セーヌ",
+      "ja": "んふふ～♪　ちゃんと”盗めて”いるかなぁ～？",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "227dc17e",
+      "speaker": "{G_PlayerName}",
+      "ja": "盗む……？　何を盗んでいるんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "fd48b75a",
+      "speaker": "セーヌ",
+      "ja": "機械士くんの”ココ”に決まっているじゃないか♪",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "6af30b46",
+      "speaker": "",
+      "ja": "セーヌはそう言うと俺の胸を指先で突っつく。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "c515bd79",
+      "speaker": "",
+      "ja": "ちょうど心臓がある位置……そのことに朝見た予告状の意味を今理解してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ea613d3f",
+      "speaker": "セーヌ",
+      "ja": "ねぇ、ほら、答えてよ～♪　ちゃんと盗めてる？",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "34a61dc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはまぁ……その……というか、距離近すぎだって……！",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "68b9bfdc",
+      "speaker": "セーヌ",
+      "ja": "あ、誤魔化してる……！　ふふん、でもいいんだもん、今の態度で機械士くんの心がはっきりわかっちゃったから♪",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "269de814",
+      "speaker": "セーヌ",
+      "ja": "今日はお菓子いっぱい持ってきたし、一緒に食べよ？　あ、一つ言っておくけど、ちゃんと買った物だからね？",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "6c94d54",
+      "speaker": "{G_PlayerName}",
+      "ja": "買ったのか……なんでもかんでも盗んでいるわけじゃないんだな",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "65494957",
+      "speaker": "セーヌ",
+      "ja": "当たり前だよ♪　それに盗んだ物だと機械士くん食べてくれないでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "7e7fe72e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃそうだろ。被害者に申し訳ないしな",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "b0c26a1a",
+      "speaker": "セーヌ",
+      "ja": "じゃあ安心して食べられるね♪　ほらほら、このクッキー美味しいって有名なんだよ、食べて食べて",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "564343c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃ遠慮なく……もぐもぐ……お、美味いな",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "5bca7cf5",
+      "speaker": "セーヌ",
+      "ja": "ごくん……うん、美味しいね！　評判通り……ううん、評判以上だよっ",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "d0f21eac",
+      "speaker": "セーヌ",
+      "ja": "このカステラも美味しそう♪　ほら、{G_PlayerName}くん、はい、あ～ん♪",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "1b715a01",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひ、一人で食えるって……！",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "df3e23e8",
+      "speaker": "",
+      "ja": "さすがに恥ずかしさから、俺はカステラをセーヌから奪って一口で食ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "c80da88",
+      "speaker": "セーヌ",
+      "ja": "あーっ！　もう！　いいじゃん、あ～んくらいさぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "773c624",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあお前は俺からあ～ん、ってされたら食えるのか？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "8937a411",
+      "speaker": "セーヌ",
+      "ja": "全然食べられるよっ！　あ、じゃあわたしがあ～んされるから、{G_PlayerName}くんもあ～んされて？",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "186b4ed3",
+      "speaker": "{G_PlayerName}",
+      "ja": "やだよ……！　別にいいだろ、食わせ合いっこしなくてもさ",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "663cbc38",
+      "speaker": "セーヌ",
+      "ja": "もう……{G_PlayerName}くんって雰囲気とか考えられない人なんだね～……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "3c16169d",
+      "speaker": "セーヌ",
+      "ja": "ま、その方がきみらしいけどねっ",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "16a77ad1",
+      "speaker": "{G_PlayerName}",
+      "ja": "よくわかってるじゃないか。それにしても美味いお菓子ばっかりだな",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "ada2984c",
+      "speaker": "セーヌ",
+      "ja": "ま、お菓子には少しうるさいからね～♪",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "2abbf77",
+      "speaker": "セーヌ",
+      "ja": "あ！　もちろん紅茶にもこだわってるからっ♪",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "ffeb9",
+      "speaker": "",
+      "ja": "二人で紅茶とお菓子を囲み、小さな夜のティータイムを楽しんでいた。",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "b824551c",
+      "speaker": "",
+      "ja": "しかし無情にも時計の針は進み続け、もう深夜と呼べる時間になってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "15ec0921",
+      "speaker": "セーヌ",
+      "ja": "さて、それじゃあわたしはそろそろ帰るね",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "967d7afd",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう時間も遅いしな……でもお菓子まだ食い切れていないぞ？　もう少しゆっくりしていっても良いんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "8c824e3a",
+      "speaker": "セーヌ",
+      "ja": "深夜にお菓子パクパクすると、体重が気になっちゃうからね",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "6f758ab3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……セーヌでもそういうこと気にするんだな",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "856c0502",
+      "speaker": "セーヌ",
+      "ja": "当たり前だよっ！　わたしだって女の子なんだからっ",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "5daafc5a",
+      "speaker": "セーヌ",
+      "ja": "でも今日は楽しかったよ。付き合ってくれてありがとうね",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "152517fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "礼を言うのは俺の方だよ。また二人でティータイムしような",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "a65001f8",
+      "speaker": "セーヌ",
+      "ja": "もちろん♪　んふっ、んふふふふっ♪",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "5745ce73",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……ヘンに笑って……俺がティータイムするのそんなにヘンか？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "2a732157",
+      "speaker": "セーヌ",
+      "ja": "違う違う♪　わたしの目的が達成できたかな～って思ったら笑みが……ふふっ♪",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "679d0d7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "目的……？　ティータイム以外に何かあったのか？",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "b0f1f324",
+      "speaker": "セーヌ",
+      "ja": "予告状に書いてあったでしょ？　{G_PlayerName}くんの”ココ”を奪っちゃうよって♪",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "d4550c04",
+      "speaker": "",
+      "ja": "セーヌは笑みを見せながら俺の胸を指先で突っつく。",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "40df1a39",
+      "speaker": "",
+      "ja": "そんなつもりはなかったのだが、セーヌといる楽しさにすっかり心を奪われていたのは事実だったかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "e7037d84",
+      "speaker": "セーヌ",
+      "ja": "さて、それじゃあ今日はバイバイだよ♪",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "f11b25e5",
+      "speaker": "",
+      "ja": "セーヌは満足げな足取りでドアの方に向かう。その背中を見て、悔しいが少し寂しさを覚えた。",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "b5af4ea9",
+      "speaker": "セーヌ",
+      "ja": "じゃあね、{G_PlayerName}くん！　次はもっともっと好きにさせて心奪っちゃうから！　覚悟しててねっ！",
+      "zh": ""
+    }
+  ]
+}
