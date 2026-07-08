@@ -1,0 +1,445 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "941dede7",
+      "speaker": "",
+      "ja": "静まり返った小道、木漏れ日の差す墓地の奥に、ぽつんと一軒の小屋が建っている。小屋の扉が開き、１人の女の子が姿を現す。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "a3cd0d64",
+      "speaker": "ムスク",
+      "ja": "あ……キミ……！　また来てくれたんだ……！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "d05cdea5",
+      "speaker": "{G_PlayerName}",
+      "ja": "元気そうだな、ムスク",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "351493e7",
+      "speaker": "",
+      "ja": "名前を呼ぶと、ムスクは嬉しそうに駆け寄ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "8276eff",
+      "speaker": "ムスク",
+      "ja": "こんなところまで来てくれるなんて……街からは遠いから、疲れたでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "74e6f011",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、まあ……ちょっとは？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "77d30957",
+      "speaker": "",
+      "ja": "そう言いながら、{G_PlayerName}とムスクは近くにあったベンチに腰を下ろした。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "28caa2f7",
+      "speaker": "ムスク",
+      "ja": "このあたり、人が来るの珍しいから……お茶くらいしか出せないけど……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "9fcb1cba",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに気を使わなくてもいいんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "700857a8",
+      "speaker": "ムスク",
+      "ja": "ううん……ちょっと……お茶淹れてくるから……待ってて……えへへ……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "76b51f1f",
+      "speaker": "",
+      "ja": "そう言うとムスクはまた小屋の中へと戻っていく。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b4c856a9",
+      "speaker": "",
+      "ja": "その後ろ姿を見送った{G_PlayerName}は、手持ち無沙汰にしながらベンチに座ったまま待っていた。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "70b53153",
+      "speaker": "",
+      "ja": "しばらく待っていると、{G_PlayerName}の耳にどこからともなく不気味な呻き声が聞こえてくる。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "d46f7dc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……なんだ？　この声は……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "7e7f0407",
+      "speaker": "",
+      "ja": "辺りをキョロキョロと見回していると、{G_PlayerName}の足元の土を掻き分け、腐乱した死体が這い出してきた。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "656601f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "643814ce",
+      "speaker": "ゾンビ",
+      "ja": "ガァァァウッ！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "946dae77",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひいっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "3042f863",
+      "speaker": "",
+      "ja": "恐怖から逃げ出そうとするが、逃げ出す前にゾンビの体はバラバラに引き裂かれ地に散らばった。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "e6ea77ac",
+      "speaker": "",
+      "ja": "気づけば背後には、鎌を携えたムスクが立っていた。彼女は平然とした顔をしながら、世間話でもするように呟く。",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "ca6e7d32",
+      "speaker": "ムスク",
+      "ja": "今朝お掃除したはずなんだけど……巻き込んじゃってごめんなさい、機械士くん……危ないから下がってて",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "c9692ee5",
+      "speaker": "",
+      "ja": "ゾンビは１体ではおさまらず、土の中から次々と現れて、ムスクへ襲いかかろうとしている。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "11b453c",
+      "speaker": "",
+      "ja": "それでもムスクは表情一つ変えず、どこか高揚した声でゾンビたちに呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "9c65f4d4",
+      "speaker": "ムスク",
+      "ja": "おいで……♥",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "a325d70a",
+      "speaker": "",
+      "ja": "まるでムスクの挑発に応えるように、ゾンビが一斉に襲いかかってくる。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "290c056c",
+      "speaker": "ムスク",
+      "ja": "もう、ねぼすけなゾンビちゃんたちなんだからぁぁあ……♪",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "bad41ea9",
+      "speaker": "",
+      "ja": "ムスクはうっとりとした目で襲い来るゾンビたちをなぎ倒していく。その迫力は、感情が無いはずのゾンビも怯えているようにすら見えた。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "235efd56",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、凄い……",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "18c91eb3",
+      "speaker": "",
+      "ja": "あまりの迫力に{G_PlayerName}が呆気にとられている目の前で、ゾンビたちはムスクの手であっという間に一掃されていく。",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "b0e3e3fd",
+      "speaker": "",
+      "ja": "全てのゾンビを葬り去ったムスクは、まるで何事もなかったかのように{G_PlayerName}に微笑みかけながら聞いてきた。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "708808ab",
+      "speaker": "ムスク",
+      "ja": "怪我していない？　大丈夫……？",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d25d9310",
+      "speaker": "",
+      "ja": "ムスクの声は優しげで、いつも通りに戻っている。あまりの変わりように呆然としている{G_PlayerName}に、ムスクは説明するように語り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "875ea437",
+      "speaker": "ムスク",
+      "ja": "魔法事故で亡くなる人の中にはね、痛みや恐怖を抱えたままの人もいるの……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "d2e9ccb6",
+      "speaker": "ムスク",
+      "ja": "だから、ちゃんと”終わらせたい”の……それが……墓守の役目、なんだと思ってる",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "9f03143d",
+      "speaker": "ムスク",
+      "ja": "だからちょっとだけ、頑張りすぎちゃうんだ……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "33763f96",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなのか……でも、こんな場所をずっと１人で守っているなんて……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "ea0ca706",
+      "speaker": "",
+      "ja": "ムスクに普通の女の子としての楽しさを教えてあげたいと思い、{G_PlayerName}は一つ提案してみることにした。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "b035fe64",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあ、今度さ……街に出かけてみない？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "813abe30",
+      "speaker": "ムスク",
+      "ja": "えっ……？　街に……？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "50412091",
+      "speaker": "",
+      "ja": "意外な提案にムスクは、一瞬目を見開く。",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "5d27154b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、人通りが多いけど……美味しいものを出すお店とか、楽しい小物を売ってる店もあるんだ",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "506036b5",
+      "speaker": "ムスク",
+      "ja": "で、でも……そんなの……緊張しちゃうから……！",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "421fd247",
+      "speaker": "",
+      "ja": "そう言いつつ、{G_PlayerName}に誘われたことが嬉しくて、ムスクの口元には自然と笑みが浮かんでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "591682b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして、嫌かな？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "6c55734c",
+      "speaker": "ムスク",
+      "ja": "う、ううん……嫌じゃない……でも、ちょっとだけ不安かも……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "6720cda3",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺ができるだけ前を歩くからさ。……あ、そうだ。この墓に供える花とか買うのもいいかもな。綺麗な花屋があるんだ",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "e36f9cc4",
+      "speaker": "ムスク",
+      "ja": "わあ……見てみたい、な……そうだね、キミと一緒なら……が、がんばってみよう、かな……♥",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "8794af63",
+      "speaker": "",
+      "ja": "恥ずかしそうにそう呟いた彼女の顔はほんのりと赤く染まっていた。",
+      "zh": ""
+    }
+  ]
+}

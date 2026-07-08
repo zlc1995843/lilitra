@@ -1,0 +1,445 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "941dede7",
+      "speaker": "",
+      "ja": "静まり返った小道、木漏れ日の差す墓地の奥に、ぽつんと一軒の小屋が建っている。小屋の扉が開き、１人の女の子が姿を現す。",
+      "zh": "墓地深处树影斑驳的小径尽头，孤零零立着一间小屋。屋门推开，一个女孩子走了出来。"
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "a3cd0d64",
+      "speaker": "ムスク",
+      "ja": "あ……キミ……！　また来てくれたんだ……！",
+      "zh": "啊……是你……！你又来了……！"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "d05cdea5",
+      "speaker": "{G_PlayerName}",
+      "ja": "元気そうだな、ムスク",
+      "zh": "看着还挺精神的嘛，穆斯克。"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "351493e7",
+      "speaker": "",
+      "ja": "名前を呼ぶと、ムスクは嬉しそうに駆け寄ってきた。",
+      "zh": "一喊名字，穆斯克就开心地跑了过来。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "8276eff",
+      "speaker": "ムスク",
+      "ja": "こんなところまで来てくれるなんて……街からは遠いから、疲れたでしょ？",
+      "zh": "你竟然会跑到这种地方来……离镇上挺远的，累坏了吧？"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "74e6f011",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、まあ……ちょっとは？",
+      "zh": "啊，嗯……是有点吧？"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "77d30957",
+      "speaker": "",
+      "ja": "そう言いながら、{G_PlayerName}とムスクは近くにあったベンチに腰を下ろした。",
+      "zh": "边说边和穆斯克一起，在旁边的长椅上坐下了。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "28caa2f7",
+      "speaker": "ムスク",
+      "ja": "このあたり、人が来るの珍しいから……お茶くらいしか出せないけど……",
+      "zh": "这边平时没什么人来……只能招待你喝杯茶了……"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "9fcb1cba",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに気を使わなくてもいいんだけどな",
+      "zh": "不用这么见外啦。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "700857a8",
+      "speaker": "ムスク",
+      "ja": "ううん……ちょっと……お茶淹れてくるから……待ってて……えへへ……",
+      "zh": "嗯……稍等哦……我去泡茶……等一下下……嘿嘿……"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "76b51f1f",
+      "speaker": "",
+      "ja": "そう言うとムスクはまた小屋の中へと戻っていく。",
+      "zh": "说完，穆斯克又走进了小屋。"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b4c856a9",
+      "speaker": "",
+      "ja": "その後ろ姿を見送った{G_PlayerName}は、手持ち無沙汰にしながらベンチに座ったまま待っていた。",
+      "zh": "目送她的背影进屋后，{G_PlayerName}百无聊赖地坐在长椅上等着。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "70b53153",
+      "speaker": "",
+      "ja": "しばらく待っていると、{G_PlayerName}の耳にどこからともなく不気味な呻き声が聞こえてくる。",
+      "zh": "等了一阵，{G_PlayerName}隐约听到不知哪儿传来的瘆人呻吟声。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "d46f7dc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……なんだ？　この声は……",
+      "zh": "呃……什么声音？这动静是……"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "7e7f0407",
+      "speaker": "",
+      "ja": "辺りをキョロキョロと見回していると、{G_PlayerName}の足元の土を掻き分け、腐乱した死体が這い出してきた。",
+      "zh": "正四下张望，{G_PlayerName}脚边的泥土松动，一具腐尸爬了出来。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "656601f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……！？",
+      "zh": "什……！？"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "643814ce",
+      "speaker": "ゾンビ",
+      "ja": "ガァァァウッ！",
+      "zh": "呃啊啊啊——！"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "946dae77",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひいっ……！？",
+      "zh": "咿呀——！？"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "3042f863",
+      "speaker": "",
+      "ja": "恐怖から逃げ出そうとするが、逃げ出す前にゾンビの体はバラバラに引き裂かれ地に散らばった。",
+      "zh": "恐惧中想要逃跑，但还没迈步，僵尸的身体就被撕成碎片，散落一地。"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": "……诶？"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "e6ea77ac",
+      "speaker": "",
+      "ja": "気づけば背後には、鎌を携えたムスクが立っていた。彼女は平然とした顔をしながら、世間話でもするように呟く。",
+      "zh": "察觉时，背后站着手持镰刀的穆斯克。她一脸平静，像唠家常似的嘟囔道。"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "ca6e7d32",
+      "speaker": "ムスク",
+      "ja": "今朝お掃除したはずなんだけど……巻き込んじゃってごめんなさい、機械士くん……危ないから下がってて",
+      "zh": "今天早上明明打扫过了……害你被卷进来对不起啊，机械士小哥……危险，退后点。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "c9692ee5",
+      "speaker": "",
+      "ja": "ゾンビは１体ではおさまらず、土の中から次々と現れて、ムスクへ襲いかかろうとしている。",
+      "zh": "僵尸不止一只，接二连三从土里冒出来，正要扑向穆斯克。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "11b453c",
+      "speaker": "",
+      "ja": "それでもムスクは表情一つ変えず、どこか高揚した声でゾンビたちに呟いた。",
+      "zh": "尽管如此，穆斯克仍面不改色，用略显亢奋的声音对僵尸们嘟囔了一句。"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "9c65f4d4",
+      "speaker": "ムスク",
+      "ja": "おいで……♥",
+      "zh": "过来……♥"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "a325d70a",
+      "speaker": "",
+      "ja": "まるでムスクの挑発に応えるように、ゾンビが一斉に襲いかかってくる。",
+      "zh": "仿佛响应穆斯的挑衅般，僵尸们一窝蜂扑了上来。"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "290c056c",
+      "speaker": "ムスク",
+      "ja": "もう、ねぼすけなゾンビちゃんたちなんだからぁぁあ……♪",
+      "zh": "真是的，一群爱睡懒觉的僵尸小可爱嘛……♪"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "bad41ea9",
+      "speaker": "",
+      "ja": "ムスクはうっとりとした目で襲い来るゾンビたちをなぎ倒していく。その迫力は、感情が無いはずのゾンビも怯えているようにすら見えた。",
+      "zh": "穆斯克眼神陶醉地接连扫倒扑来的僵尸。那压迫感，甚至让本该没有感情的僵尸都显得畏惧。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "235efd56",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、凄い……",
+      "zh": "好、好厉害……"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "18c91eb3",
+      "speaker": "",
+      "ja": "あまりの迫力に{G_PlayerName}が呆気にとられている目の前で、ゾンビたちはムスクの手であっという間に一掃されていく。",
+      "zh": "在过于强大的压迫感下，{G_PlayerName}看得目瞪口呆，眼前的僵尸们被穆斯克转眼间一扫而光。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "b0e3e3fd",
+      "speaker": "",
+      "ja": "全てのゾンビを葬り去ったムスクは、まるで何事もなかったかのように{G_PlayerName}に微笑みかけながら聞いてきた。",
+      "zh": "解决掉所有僵尸后，穆斯克像什么都没发生过似的，微笑着向{G_PlayerName}问道。"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "708808ab",
+      "speaker": "ムスク",
+      "ja": "怪我していない？　大丈夫……？",
+      "zh": "我没在怪你哦？ 没事吧……？"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d25d9310",
+      "speaker": "",
+      "ja": "ムスクの声は優しげで、いつも通りに戻っている。あまりの変わりように呆然としている{G_PlayerName}に、ムスクは説明するように語り始めた。",
+      "zh": "穆斯克的声音很温柔，又回到了平时的调子。见{G_PlayerName}因她判若两人而目瞪口呆，穆斯克便像解释般说了起来。"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "875ea437",
+      "speaker": "ムスク",
+      "ja": "魔法事故で亡くなる人の中にはね、痛みや恐怖を抱えたままの人もいるの……",
+      "zh": "因为魔法事故而死的人里啊，也有带着痛苦和恐惧就那样死去的人……"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "d2e9ccb6",
+      "speaker": "ムスク",
+      "ja": "だから、ちゃんと”終わらせたい”の……それが……墓守の役目、なんだと思ってる",
+      "zh": "所以才想让他们好好解脱……这就是……守墓人的职责，我是这么想的。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "9f03143d",
+      "speaker": "ムスク",
+      "ja": "だからちょっとだけ、頑張りすぎちゃうんだ……",
+      "zh": "所以我就会稍微……努力过头了点……"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "33763f96",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなのか……でも、こんな場所をずっと１人で守っているなんて……",
+      "zh": "是、是这样啊……不过，这种地方你居然一直一个人守着……"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "ea0ca706",
+      "speaker": "",
+      "ja": "ムスクに普通の女の子としての楽しさを教えてあげたいと思い、{G_PlayerName}は一つ提案してみることにした。",
+      "zh": "{G_PlayerName}想教教穆斯克作为普通女孩的快乐，便试着提了个建议。"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "b035fe64",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあ、今度さ……街に出かけてみない？",
+      "zh": "呐，下次……要不要一起去街上逛逛？"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "813abe30",
+      "speaker": "ムスク",
+      "ja": "えっ……？　街に……？",
+      "zh": "诶……？ 街上……？"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "50412091",
+      "speaker": "",
+      "ja": "意外な提案にムスクは、一瞬目を見開く。",
+      "zh": "听到这个意外的提议，穆斯克一下子睁大了眼睛。"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "5d27154b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、人通りが多いけど……美味しいものを出すお店とか、楽しい小物を売ってる店もあるんだ",
+      "zh": "嗯，虽然这里人来人往的……但也有卖好吃的店，还有卖好玩小物件的店哦。"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "506036b5",
+      "speaker": "ムスク",
+      "ja": "で、でも……そんなの……緊張しちゃうから……！",
+      "zh": "可、可是……那样的话……我会紧张的啊……！"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "421fd247",
+      "speaker": "",
+      "ja": "そう言いつつ、{G_PlayerName}に誘われたことが嬉しくて、ムスクの口元には自然と笑みが浮かんでしまう。",
+      "zh": "虽然嘴上这么说，但被{G_PlayerName}邀请，穆斯克心里其实很开心，嘴角不由自主地露出了微笑。"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "591682b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして、嫌かな？",
+      "zh": "难道说……你不愿意？"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "6c55734c",
+      "speaker": "ムスク",
+      "ja": "う、ううん……嫌じゃない……でも、ちょっとだけ不安かも……",
+      "zh": "嗯、不是啦……不讨厌的……只是，可能有一点点担心……"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "6720cda3",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺ができるだけ前を歩くからさ。……あ、そうだ。この墓に供える花とか買うのもいいかもな。綺麗な花屋があるんだ",
+      "zh": "我会尽量走在前面带路的。……啊，对了。我们可以买点花来祭拜这座墓。那边有家很漂亮的花店。"
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "e36f9cc4",
+      "speaker": "ムスク",
+      "ja": "わあ……見てみたい、な……そうだね、キミと一緒なら……が、がんばってみよう、かな……♥",
+      "zh": "哇……好想去看一看啊……嗯，跟你一起的话……我、我会加油的……吧♥"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "8794af63",
+      "speaker": "",
+      "ja": "恥ずかしそうにそう呟いた彼女の顔はほんのりと赤く染まっていた。",
+      "zh": "她害羞地轻声说完，脸颊微微泛红。"
+    }
+  ]
+}
