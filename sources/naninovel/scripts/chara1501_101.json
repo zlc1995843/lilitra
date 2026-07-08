@@ -1,0 +1,598 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "fa199bea",
+      "speaker": "",
+      "ja": "一面に広がる白い砂。そしてサンサンと降り注ぐ太陽の日差し。熱い日差しに照らされた砂浜の上に立っているだけでジワっと汗が滲む。",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "bea8ff0d",
+      "speaker": "",
+      "ja": "しかし不快感は少なく、目の前に広がる海と波の音、時折吹く海風が心地よさをもたらしていた。",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "71e3b7c7",
+      "speaker": "スター",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b9e508db",
+      "speaker": "",
+      "ja": "白い砂浜の上に一人座っているスター。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "1f474bc9",
+      "speaker": "",
+      "ja": "何やら砂を掘っているようだが、それが気になり俺はそっとスターに近づく。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d59379af",
+      "speaker": "{G_PlayerName}",
+      "ja": "スター",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "27be0396",
+      "speaker": "",
+      "ja": "スターに呼び掛けると、少しだけビクっと反応する。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "81807f98",
+      "speaker": "",
+      "ja": "ゆっくりとこちらを振り向くと、スターはにっこりと笑顔を見せてきた。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "5183d6d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめん、なんか邪魔しちゃったかな？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "666c3768",
+      "speaker": "スター",
+      "ja": "ううん、平気だよ……いきなり声を掛けられて、それで少し驚いて……",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "6e56bef6",
+      "speaker": "スター",
+      "ja": "兄くん、来てくれて、嬉しい……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "7a8b8172",
+      "speaker": "スター",
+      "ja": "ただもう少しあとで声を掛けてくれた方が嬉しかった、かも……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "4a5c66b8",
+      "speaker": "",
+      "ja": "スターはそう言うと、少しだけ横に移動する。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "970d0a18",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ砂のお城……？　すごいな、スターが作ったのか？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "8476830a",
+      "speaker": "スター",
+      "ja": "うん……兄くんに見せようっておっきなお城作ってたの……でもまだ完成していない……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "f6866656",
+      "speaker": "スター",
+      "ja": "さっきまでルナと一緒に作ってたんだけど……どこかに行っちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "5d7b731e",
+      "speaker": "",
+      "ja": "スターは少し呆れたような声で再び砂浜の上に座る。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "5dc71a9a",
+      "speaker": "",
+      "ja": "そして砂のお城を完成させようと小さなスコップを片手に黙々と作業を続けていく。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "50097dff",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしてもすごいな……綺麗に作られて……細かいところまで……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "75b5856e",
+      "speaker": "スター",
+      "ja": "昔のお城のデータが記録装置の中にあったからそれを参考にした……細部まで再現していると思うけど、でも砂だと細かいところで作るのは大変……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "d8c6d42c",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやいや、これはすごいぞ？　なんていうか……芸術品？　砂でここまで細かくお城作れたりするんだな……",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "e6a5a577",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすが高性能AI……手先が器用なんだな",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "7d54fc43",
+      "speaker": "",
+      "ja": "俺はそんなことを言いながらスターの横に腰を降ろす。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "ef9e9876",
+      "speaker": "",
+      "ja": "作業の邪魔にならないようにしながら、砂のお城をまじまじと眺めていく。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "355caca",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしてもルナはどこに行ったんだ……？　近くにはいないようだけど",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "16c0c962",
+      "speaker": "スター",
+      "ja": "わかんない……ルナは落ち着きがないから……",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "a1aec934",
+      "speaker": "スター",
+      "ja": "一つの場所にじっとしていられないタイプだから……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "ff47c9a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁそういうとこあるよな……スターと正反対だな",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "d274c882",
+      "speaker": "スター",
+      "ja": "うん……いつも騒いでいて……どうでもいいようなことで熱くなって……静かにしてって言っても、全然聞かない……",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "40137cde",
+      "speaker": "スター",
+      "ja": "でも……そういうところに少しだけ憧れる……スターには無いものだから……",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "c812efc9",
+      "speaker": "",
+      "ja": "スターにとって姉であるルナ。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "e966a9ea",
+      "speaker": "",
+      "ja": "言葉ではルナに対して不満を少し漏らしているが、スターの言葉には姉へのあこがれと寂しさが滲んでいるようだ。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "3fe93602",
+      "speaker": "",
+      "ja": "普段の様子を見るに仲が悪いわけでもない。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "f64c9d30",
+      "speaker": "",
+      "ja": "ただ性格的な部分で色々とすれ違う部分が多いように思える。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "539bd1e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "スターもルナみたいになれたりしないのか……？　同じタイプのAIならその気になればできるとか……？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "8b8ad8d6",
+      "speaker": "スター",
+      "ja": "んー……性格的なことはブラックボックスになっているから……スターじゃどうしようもないかも……",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "9264cc2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……AIってアポロを始めとしていろんなタイプがいるけど、みんな性格違うもんな……",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "9778f5a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもスターとルナの性格の違いにはきっと意味があると思うぞ",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "3f21478a",
+      "speaker": "スター",
+      "ja": "そう、かな……？",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "7e29632b",
+      "speaker": "{G_PlayerName}",
+      "ja": "たぶん、な……俺なら二人のAIを作るってことになったら、それぞれ別の性格にすると思うし",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "79451005",
+      "speaker": "スター",
+      "ja": "理由は……？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "918cd4b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……その方が姉妹っぽい？　やっぱ人もAIも兄弟姉妹でも別人格なんだし、違って当然なんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "edadebeb",
+      "speaker": "スター",
+      "ja": "姉妹……だからルナはスターが悩んでいたり困っていた時、誰よりも早く助けに来てくれるのかな……",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "103bcfa3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかもな……でもそれはプログラム的に定められたものじゃなくて、きっとルナの性格から来る行動だと思うぞ",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "3b12f10e",
+      "speaker": "スター",
+      "ja": "それはそう思う……ルナ、おせっかいなところがあるし……ちょっとうるさいけど、優しい……",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "8ffee281",
+      "speaker": "{G_PlayerName}",
+      "ja": "……スターはなんだかんだでルナが大好きなんだな",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "5483193b",
+      "speaker": "スター",
+      "ja": "そっ、それは……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "107e9dba",
+      "speaker": "",
+      "ja": "スターはそう言いかけると、プイっとそっぽを向いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "ef0b9f79",
+      "speaker": "",
+      "ja": "照れ隠しをするように再びスコップを動かし始め、そんなスターが微笑ましく思えた。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "655c0896",
+      "speaker": "",
+      "ja": "日が傾き始めた砂浜で、俺とスターは一緒に小さな宇宙船を作り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "e0b0402d",
+      "speaker": "",
+      "ja": "完成した砂のお城に比べると、どうしても出来が良くない。",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "4cab1560",
+      "speaker": "",
+      "ja": "それでもスターは何も言わず、黙々と俺と砂の宇宙船を作り続けた。",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "834c21c0",
+      "speaker": "スター",
+      "ja": "ねぇ、兄くん……",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "294cb3c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　どうした？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "65973926",
+      "speaker": "スター",
+      "ja": "ルナと、スターと……兄くんと……みんなで旅をしたら、兄くんは楽しい……かな……？",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "bebea16",
+      "speaker": "",
+      "ja": "スターは真剣な眼差しで俺にそんなことを質問してくる。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "9351d065",
+      "speaker": "",
+      "ja": "そんな真摯なスターに俺は砂の宇宙船作りの手を止めじっとスターの大きな瞳を見ながら返答した。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "b92668f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、絶対に楽しいと思う。いつかそんな日が来るといいな",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "43a72d6f",
+      "speaker": "スター",
+      "ja": "うん……ありがとう、{G_PlayerName}くん",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "32696647",
+      "speaker": "",
+      "ja": "普段はおっとりマイペースなスター。",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "373a7b3",
+      "speaker": "",
+      "ja": "でもなんだかんだで家族を慕う姿はスターというAIではなく人間らしさを感じ取れた。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "8ed46dc8",
+      "speaker": "",
+      "ja": "スターの新たな一面を見れたようでなんだか嬉しくなった。",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "82a810fe",
+      "speaker": "スター",
+      "ja": "兄くん、いつか一緒に旅をしようね……三人で……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "eb5eee28",
+      "speaker": "",
+      "ja": "俺が頷くとスターの小さな手が俺の袖をそっと摘む。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "ea0207f5",
+      "speaker": "",
+      "ja": "スターの小さな手に重ねるように手を乗せると、その手には不安と期待が混じったぬくもりがあった。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "9867f634",
+      "speaker": "",
+      "ja": "いつの日か三人で……砂の宇宙船ではなく本物の宇宙船で……俺は密かに心の中でそう決意するのであった。",
+      "zh": ""
+    }
+  ]
+}
