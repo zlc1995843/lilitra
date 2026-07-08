@@ -1,0 +1,895 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "8810ec6",
+      "speaker": "イリア",
+      "ja": "はぁぁ……やっと終わりましたか……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "5642facf",
+      "speaker": "",
+      "ja": "和と桜花の星での仕事に区切りがついたイリアは恥ずかしい格好のまま帰路についていた。一息ついたところで、{G_PlayerName}と出くわしたことが頭をちらつく。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "a271c157",
+      "speaker": "イリア",
+      "ja": "（こんな恥ずかしい格好で、また知り合いに出くわしたら……！　急いで自室に戻らないと……！）",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "f68a5bbb",
+      "speaker": "",
+      "ja": "そう考えたイリアは早足で歩き始めるが、そんなイリアの前に、また{G_PlayerName}が現れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "85a6592",
+      "speaker": "イリア",
+      "ja": "なっ……！　またあなたですか！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "fd71ee4e",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……それはこちらの台詞なんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "9e7cfc70",
+      "speaker": "",
+      "ja": "そう言いつつも{G_PlayerName}はイリアの姿から目を離せずにいた。その視線を感じたイリアは鋭い視線を{G_PlayerName}に投げかける。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "7192d0f0",
+      "speaker": "イリア",
+      "ja": "まさか……私の後をつけている、なんてことはありませんよね？",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "a3c796c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんな訳あるかっ！　偶然だよ",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "232dffaf",
+      "speaker": "",
+      "ja": "その場で言い合っていると、いつの間にか二人は周囲の人から注目を集めてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "6d22c907",
+      "speaker": "イリア",
+      "ja": "あっ……う、うう……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "9b4adc3b",
+      "speaker": "",
+      "ja": "周囲の視線に、イリアは顔をまた赤くして体を隠そうとする。気づいた{G_PlayerName}は、慌ててイリアの手を取ってその場から離れようとした。",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "90f8a7b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら……こっちだ",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "c080ed2c",
+      "speaker": "イリア",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "844f0572",
+      "speaker": "",
+      "ja": "そのまま{G_PlayerName}は人がいない場所までイリアを連れて行く。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "f34ceebb",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……この辺まで来れば大丈夫だろう……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "bede40c4",
+      "speaker": "イリア",
+      "ja": "も、もうっ！　あなたのせいで恥をかきました……！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "d4a8ed84",
+      "speaker": "",
+      "ja": "恥ずかしさを誤魔化すイリアだが、{G_PlayerName}はそれに少し苛立ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "d806de8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そんなエッチな格好の外交官様には、お仕置きが必要のようだな",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "be077c5b",
+      "speaker": "イリア",
+      "ja": "……えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "75a536c",
+      "speaker": "イリア",
+      "ja": "ひやぁぁぁ♥　な、なにするんですかぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "5d14644c",
+      "speaker": "",
+      "ja": "{G_PlayerName}は彼女の股間を覆っている布地をずらし、おまんこを露わにさせる。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "120925f9",
+      "speaker": "",
+      "ja": "そして割れ目に触れるか触れないかの位置で、どこからともなく取り出した電マのスイッチを入れた。",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "3e77d704",
+      "speaker": "イリア",
+      "ja": "んっ♥　んっ♥　どこからそれを……あっ、こ、こんなこと……あふっ♥　んふぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "9bc6f674",
+      "speaker": "{G_PlayerName}",
+      "ja": "面白そうな機械だと思って間違えて買ったんだよ。役に立って良かったけどな",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "e69d240d",
+      "speaker": "",
+      "ja": "イリアは甘い声を漏らしてしまう。しかし同時に、大きな声を上げられない状況にもどかしさを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "68b1c818",
+      "speaker": "イリア",
+      "ja": "こんな恥ずかしいポーズで……ううぅ……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "23742929",
+      "speaker": "",
+      "ja": "形だけは抵抗しているが、本当はまるで嫌がってはいない。それを見透かし、{G_PlayerName}はイリアの耳に息を吹きかけながら囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "770d8a36",
+      "speaker": "{G_PlayerName}",
+      "ja": "まだおまんこに電マは当てていないのに、なんでそんなに興奮してるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "41f937ad",
+      "speaker": "",
+      "ja": "からかう言葉に、イリアの顔は耳まで真っ赤になってしまい、割れ目はじんわりと濡れヒクヒクと物欲しげに蠢いた。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "994551fd",
+      "speaker": "イリア",
+      "ja": "はぁ……♥　はぁ……♥　んっ……くぅぅ……♥　あっ……ああっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "9da899a2",
+      "speaker": "",
+      "ja": "焦らされる感覚に、イリアの息が荒くなっていく。そして電マが近づけられたおまんこでは、クリトリスが徐々に勃起し始めていた。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "dac9fb19",
+      "speaker": "イリア",
+      "ja": "んっ……♥　んんっ……♥　あふっ……あっ……あふぅぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "ccdbd02e",
+      "speaker": "",
+      "ja": "膨れあがる敏感な肉芽は、近づけられた電マにとうとう触れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "6a62dfed",
+      "speaker": "イリア",
+      "ja": "んんんんっ……♥　そんなに急に当てないでくださいぃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "5d8f7706",
+      "speaker": "",
+      "ja": "クリトリスが電マに触れた瞬間、イリアの体がビクンと跳ねて甘い声が漏れた。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "749a9728",
+      "speaker": "",
+      "ja": "あたかも{G_PlayerName}が押し当てたような発言を受け、{G_PlayerName}は少しからかうように囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "5343f08b",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は何もしてないぞ？　イリアが勝手に勃起させて電マに当たっただけだ",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "2ba1cbc3",
+      "speaker": "イリア",
+      "ja": "そ、そんなはず……ありませんっ……んんっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "a53b6fe3",
+      "speaker": "",
+      "ja": "{G_PlayerName}の煽るような言葉にイリアは必死に反論するが、激しく振動する電マのせいで思うようにいかない。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "cff6b069",
+      "speaker": "{G_PlayerName}",
+      "ja": "クリ勃起させるくらい興奮したんだな、満足するまで付き合ってあげるよ",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "87c07857",
+      "speaker": "",
+      "ja": "その言葉にイリアはゾクゾクしながらも、期待してしまっていた。そのせいでクリトリスは更に勃起してしまい、電マに押しつけられていく。",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "472efc2d",
+      "speaker": "イリア",
+      "ja": "んひぃっ♥　あ、当たってるぅ♥　ひっ、ひいぃっ♥　だめぇ♥　んああぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "4cc2235e",
+      "speaker": "",
+      "ja": "敏感な突起を振動で刺激されたイリアは大きな声で喘ぎながら腰を小さく震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "62941944",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分から押しつけちゃって……そんなに電マで刺激されるのがいいのかい？",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "d61477ff",
+      "speaker": "イリア",
+      "ja": "ち、違っ……うぅぅっ♥　勝手に大きくなって……あ、当たっちゃうぅ♥　あっ♥　あああぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "145dc2bd",
+      "speaker": "",
+      "ja": "快感が大きくなる程にクリトリスへの刺激は強くなり、ヒクヒクと蠢く割れ目からはネットリとした汁が溢れ糸を引いて滴り落ちていく。",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "270b56f0",
+      "speaker": "",
+      "ja": "同時に女性独特の匂いが強くなってきて、{G_PlayerName}は股間が熱くたぎっていくのを感じていた。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "a290a40a",
+      "speaker": "{G_PlayerName}",
+      "ja": "おまんこがもう、ぐちょぐちょだな……",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "61c7f374",
+      "speaker": "イリア",
+      "ja": "だ、だって……こ、こんなのぉ……んんんっ♥　ひっ、ひいっ♥　おまんこがジンジンしてしまいますぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "39f7cade",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……それじゃあもう少し強く押しつけて……",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "9fac0aeb",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}が少し電マを濡れた股間へと近づけると、更に強くクリトリスを刺激してイリアに強烈な快感を与える。",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "9364031c",
+      "speaker": "イリア",
+      "ja": "あひいぃぃっ♥　クリっ♥　びりびりしちゃうぅ♥　あんっ♥　あぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "e9b42d7e",
+      "speaker": "",
+      "ja": "敏感な場所を電マの強い振動で責め立てられたイリアはビクンビクンと腰を跳ねさせた。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "1b937c37",
+      "speaker": "",
+      "ja": "その度に股間が電マに押しつけられて強い快感に襲われる。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "8b378c44",
+      "speaker": "イリア",
+      "ja": "んはぁぁ♥　すごいぃぃっ♥　イクっ♥　イっちゃうっ♥　んくぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "413e1540",
+      "speaker": "",
+      "ja": "あまりにも激しい振動にイリアはあっという間に絶頂へと向かっていった。",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "5037a8c",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は電マを止めることなくクリトリスを刺激し続ける。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "88a8fa43",
+      "speaker": "イリア",
+      "ja": "あっ♥　あっ♥　もうだめぇぇ♥　んっ、んんんっ♥　も、もう……わたしっ……おっ、おふぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "b815e24d",
+      "speaker": "",
+      "ja": "淫らな声を上げて悶えるイリアのおまんこは、何かを欲しがっているようにひくひくと蠢きヨダレを垂らす感じで愛液を溢れさせていた。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "8505c5c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "イきそうだったら我慢しないでイっていいんだよ……ほらっ、ほらっ",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "c2355c24",
+      "speaker": "イリア",
+      "ja": "あひいぃっ♥　クリに押しつけちゃらめぇぇ♥　あっ♥　あっ♥　あああぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "90094bb",
+      "speaker": "",
+      "ja": "イリアは大きな声で喘ぎながら足をガクガクと震わせ一気に登り詰めていく。",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "71afc1de",
+      "speaker": "",
+      "ja": "そんなイリアを追い込むように{G_PlayerName}は更に強くクリトリスに電マを押しつけて言った。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "3ca529d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらっ、イっちゃおうか！",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "6a4d54ab",
+      "speaker": "イリア",
+      "ja": "んほおぉぉおっ♥　おおおおおおっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "4dc0a12b",
+      "speaker": "",
+      "ja": "強烈な振動でクリトリスを刺激された大きな声を上げながらアクメに達してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "7d2ca096",
+      "speaker": "イリア",
+      "ja": "イぐぅぅぅっ♥　クリでいぐぅぅっ♥　んほぉぉっ♥　おっ、おふぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "d9b7bff1",
+      "speaker": "",
+      "ja": "下品な声を上げながらイリアは何度も腰を跳ねさせた。",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "94a591e0",
+      "speaker": "",
+      "ja": "そして絶頂に達したイリアの股間からは勢いよく潮が噴き上がり腰がピクピクと痙攣する。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "656bbe10",
+      "speaker": "",
+      "ja": "それを見て{G_PlayerName}はからかうようにイリアに囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "29fe29c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごいな、潮を吹いちゃう程に感じたのか？",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "8653eccc",
+      "speaker": "イリア",
+      "ja": "あっ♥　あああっ♥　い、いつものエッチじゃ、こんなの出ないのにぃ♥",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "82027898",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば潮吹きは初めてだったっけ？",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "11ba345c",
+      "speaker": "イリア",
+      "ja": "は、初めて♥　こ、こんなの初めてぇぇ♥　いつもと違いすぎますぅ♥　んはぁぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "2ac3e1f8",
+      "speaker": "",
+      "ja": "甘い声で喘ぎながらイリアは何度も潮を吹いて絶頂を繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "78484d54",
+      "speaker": "",
+      "ja": "そこで一旦{G_PlayerName}はイリアのクリトリスから電マを離した。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "3972b40",
+      "speaker": "イリア",
+      "ja": "こんなのぉ……♥　知らないです……♥　んっ……あふぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "8ae54aaa",
+      "speaker": "",
+      "ja": "初めての潮吹きの感触にイリアはだらしなく表情を緩めながら浸っている。",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "60c57061",
+      "speaker": "",
+      "ja": "そんなイリアに{G_PlayerName}は追い打ちをかけるような言葉を投げかけた。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "38f26052",
+      "speaker": "{G_PlayerName}",
+      "ja": "物思いにふけっているところ悪いが……まだお仕置きは終わっていないからな？　イリア",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "b965326f",
+      "speaker": "",
+      "ja": "そう言うと{G_PlayerName}は手にした電マを再びイリアの勃起したクリトリスへと近づけていく。",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "5d65ddc3",
+      "speaker": "",
+      "ja": "それを見たイリアは震える声で哀願した。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "75a0cd43",
+      "speaker": "イリア",
+      "ja": "ちょっと、待っ……もうイけないですからぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "a68f5907",
+      "speaker": "",
+      "ja": "イリアが必死にそう訴えても{G_PlayerName}は構うことなく再び電マで敏感な突起に近づけていく。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "b38d4541",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら……もう一回この電マで……勃起したクリトリスを……",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "397c9b6b",
+      "speaker": "イリア",
+      "ja": "だ、だめっ……もうイくのは……あっ……♥　あっ……♥　あ゛あ゛ぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "3b791805",
+      "speaker": "",
+      "ja": "すっかり膨らんでしまっているクリトリスに、強く振動している電マを押しつけられ、イリアの体が激しく跳ねた。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "d4afdc4e",
+      "speaker": "イリア",
+      "ja": "あ゛あ゛あ゛っ♥　イ゛ぎま゛すぅ、イ゛ぎま゛すぅぅぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "24c01b15",
+      "speaker": "",
+      "ja": "{G_PlayerName}が電マを当てて数秒も経たないうちに、イリアは再び絶頂に達してしまい下品な声を上げながらさっきよりも大量の潮を吹いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "5f7ad58f",
+      "speaker": "イリア",
+      "ja": "んほぉぉっ♥　イぐぅぅっ♥　ぷしゃぁぁぁって出りゅぅぅ♥　と、止まらにゃぁぁいっ♥　おっ♥　おふぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "4a499601",
+      "speaker": "",
+      "ja": "大きな声で喘ぎながらイリアは大量の潮を撒き散らしながらガクガクと体を震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "9b5efdd9",
+      "speaker": "",
+      "ja": "その強い快感のせいでイリアは意識が朦朧としてしまい、完全に視線が泳いでしまっている。",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "efb7c238",
+      "speaker": "イリア",
+      "ja": "あっ……♥　あっ……♥　い、いいっ……♥　気持ちよすぎて……わたしぃ……んはぁぁ♥　あふぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "e7ccafed",
+      "speaker": "",
+      "ja": "ピクピクと全身を痙攣させながら甘い声を漏らしているイリアに{G_PlayerName}はそっと囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "bdc5d1ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "イリアのエッチな姿……もっと他の人に見せたくないか？",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "aa85df2a",
+      "speaker": "",
+      "ja": "イリアは白濁した思考のまま、つい頷いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "a5fdddca",
+      "speaker": "イリア",
+      "ja": "は……はいぃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "9a0921d5",
+      "speaker": "",
+      "ja": "返事を聞いた{G_PlayerName}は、いやらしい笑みを浮かべていた。",
+      "zh": ""
+    }
+  ]
+}

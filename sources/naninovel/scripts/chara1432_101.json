@@ -1,0 +1,274 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "af396b27",
+      "speaker": "",
+      "ja": "和と桜花の星にある石畳の街、その街並みに{G_PlayerName}はふとした違和感を覚える。",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "2e26815f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……っ？",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "eb80b51e",
+      "speaker": "",
+      "ja": "その違和感を探ろうと辺りを見回した{G_PlayerName}がふと振り返ると、そこには見慣れないきわどい衣装を身にまとい、顔を真っ赤にさせている。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "4116ee80",
+      "speaker": "",
+      "ja": "その人物は、宇宙外交官のイリア。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "4c915fdc",
+      "speaker": "イリア",
+      "ja": "あっ……{G_PlayerName}様……っ！？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "89e55b76",
+      "speaker": "",
+      "ja": "{G_PlayerName}と目と目があったイリアは明らかに動揺した。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "1cf0eb48",
+      "speaker": "",
+      "ja": "それは{G_PlayerName}も同じで、あまりにも露出度が高い服装のイリアに驚き硬直してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "ce4dbfbf",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　イリア……？　ふ、服……！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "6cdeaf9d",
+      "speaker": "イリア",
+      "ja": "え、ええっと……ち、違います……これはわたしの趣味ではなく……！",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "ed916ce6",
+      "speaker": "",
+      "ja": "普段は冷静なイリアだが、珍しく焦りながら{G_PlayerName}の袖を引っ張り視線を彷徨わせた。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "fb376152",
+      "speaker": "",
+      "ja": "そんなイリアに{G_PlayerName}はかなり困惑しながら呟く。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "fb0d403a",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさか……イリアってそういう趣味だったのか……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b133941e",
+      "speaker": "",
+      "ja": "驚いた感じで{G_PlayerName}がそう言うと、それを聞いたイリアはさらに取り乱し激しく首を横に振った。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "346bdb1b",
+      "speaker": "イリア",
+      "ja": "こ、こ、こ、これはわたしの趣味ではなくてっ……この衣装は、この星の礼儀に合わせる必要があったため、仕方なく着てるんですっ！",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "43a67dd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、この格好が？　礼儀に合わせた服装？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "1d8d58b9",
+      "speaker": "イリア",
+      "ja": "そ、そうですっ！　こ、この衣装は……現地の住民から強く推されまして……っ",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "e4f5899b",
+      "speaker": "イリア",
+      "ja": "ほ、本当は……もう少し、こう……布地が多いものを……選びたかったのですが……！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "e1d82d6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんな事情がぁ……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "51d08f3e",
+      "speaker": "",
+      "ja": "そう言うと{G_PlayerName}はイリアの姿を改めて頭から足まで舐めるように見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "650f38c0",
+      "speaker": "イリア",
+      "ja": "そ、そんなに……じろじろ見つめないでください……っ",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "6d3bf474",
+      "speaker": "",
+      "ja": "袖で顔を半分隠しながら羞恥に耐えているイリアの姿を、{G_PlayerName}はどこか微笑ましく思いながら見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "c67909f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……ま、まあ……似合ってるよ",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "2719f4",
+      "speaker": "",
+      "ja": "少し苦笑しながら{G_PlayerName}がそう言うと、それがイリアの羞恥心を更に煽ってしまったらしく、顔を真っ赤にしたまま顔を背けた。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "f41ccd97",
+      "speaker": "イリア",
+      "ja": "こ、この格好が……に、似合っているだなんて……っ！？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "e581a69",
+      "speaker": "イリア",
+      "ja": "おっ、お気遣いは結構ですっ！！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "eb3ebc62",
+      "speaker": "",
+      "ja": "そう叫ぶやいなや、イリアは逃げるように駆け出して{G_PlayerName}の元から去って行った。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "5e223f39",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……行っちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "9f48dc35",
+      "speaker": "",
+      "ja": "走り去っていくイリアの後ろ姿に舞い散る桜の花びらが重なる。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "4e9f1563",
+      "speaker": "",
+      "ja": "そんな桜吹雪越しに見えるイリアの背中を見送りながら{G_PlayerName}は小さく呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "5a1427a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か、あれ……本人が大丈夫なら、いいか……",
+      "zh": ""
+    }
+  ]
+}
