@@ -1,0 +1,544 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "d9ed6b5b",
+      "speaker": "",
+      "ja": "強い日差し、きらめく海。",
+      "zh": "阳光强烈，海面波光粼粼。"
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "e8b70558",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅぅ……あ、暑い……",
+      "zh": "呼……啊，真热啊……"
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "b1f96432",
+      "speaker": "",
+      "ja": "熱せられた砂を感じながら{G_PlayerName}は空を見上げて呟いた。するとそこに元気な声が飛んでくる。",
+      "zh": "感受着滚烫的沙子，{G_PlayerName}望向天空喃喃自语。就在这时，一个充满活力的声音传来。"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "86c8217b",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃーんっ！！",
+      "zh": "哥——！！"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "4039a614",
+      "speaker": "",
+      "ja": "そう言って駆け寄ってきたのは水着姿のスゥだった。",
+      "zh": "话音刚落，身穿泳装的苏就跑了过来。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "1cf918cc",
+      "speaker": "スゥ",
+      "ja": "やっと来た～！　待ってたんだからねっ！",
+      "zh": "终于来了~！人家等你好久了啦！"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "d9f9a57e",
+      "speaker": "",
+      "ja": "砂を蹴りながら一直線に走ってきたスゥは、そのままの勢いで{G_PlayerName}に抱きつくと、嬉しそうな顔で見上げてくる。",
+      "zh": "苏踢着沙子径直冲过来，一把抱住了{G_PlayerName}，然后抬起头，一脸开心地看着他。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "41b80bda",
+      "speaker": "",
+      "ja": "その仕草や抱きつかれた時の柔らかな感触に{G_PlayerName}はドキドキしてしまった。",
+      "zh": "苏的动作和抱住时的柔软触感，让{G_PlayerName}不禁心跳加速。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "c4f6d1e",
+      "speaker": "スゥ",
+      "ja": "ほら見て！　スゥのお城！",
+      "zh": "快看！我的城堡！"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "5f7c5413",
+      "speaker": "{G_PlayerName}",
+      "ja": "お城？",
+      "zh": "城堡？"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "a1e38c53",
+      "speaker": "",
+      "ja": "スゥの指さすほうに目をやると、そこには大きな砂のお城があった。少々崩れてはいるが、一生懸命作ったことがよくわかる。",
+      "zh": "顺着苏指的方向看去，那里矗立着一座巨大的沙堡。虽然有些地方塌了，但看得出来是花了很大力气堆起来的。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "1ca35fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごいじゃないか、これスゥが一人で作ったのかい？",
+      "zh": "好厉害啊，这是苏你自己堆的吗？"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "ea8ee7c7",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の問いかけに、スゥは照れくさそうに笑いながら呟いた。",
+      "zh": "听到{G_PlayerName}这么问，苏有些害羞地笑着，小声嘟囔道。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "de2dc34d",
+      "speaker": "スゥ",
+      "ja": "一人で作ったけどさ……やっぱりお兄ちゃんと一緒がいいの",
+      "zh": "是我一个人做的啦……不过，还是想和哥哥一起堆。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "2b9c9730",
+      "speaker": "{G_PlayerName}",
+      "ja": "スゥ……",
+      "zh": "苏……"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "32784cde",
+      "speaker": "スゥ",
+      "ja": "ねえお兄ちゃん、こっちこっち♪",
+      "zh": "哥哥，来这边嘛♪"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "59e1a0ff",
+      "speaker": "",
+      "ja": "スゥはそう言うと{G_PlayerName}の手を取り引っ張っていく。その仕草には大好きな人と一緒にいられる喜びがまっすぐに表れていた。",
+      "zh": "苏说着，拉住{G_PlayerName}的手就往前拽。那动作里，满满都是能和心爱的人在一起的喜悦。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "700df0e4",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、二人のお城作ろう♥",
+      "zh": "哥哥，我们俩一起堆城堡吧♥"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "9aff384e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、いいよ、作ろうか",
+      "zh": "嗯，好啊，一起堆吧。"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "d96f027e",
+      "speaker": "スゥ",
+      "ja": "わーい♪　スゥはお砂を集めておくから、お兄ちゃんお水持ってきて",
+      "zh": "好耶♪ 我来负责收集沙子，哥哥你去弄点水来~"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "6d44fc48",
+      "speaker": "{G_PlayerName}",
+      "ja": "オッケー",
+      "zh": "OK"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "554d339d",
+      "speaker": "",
+      "ja": "二人は分担しながら砂のお城を作り、楽しい時間を過ごす。",
+      "zh": "两人分工合作堆沙堡，度过了快乐的时光。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "b3cdc9df",
+      "speaker": "",
+      "ja": "スゥは終始楽しそうにしていて、{G_PlayerName}のそばから離れようとしなかった。",
+      "zh": "苏全程看起来都很开心，一直跟在{G_PlayerName}身边不愿离开。"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "575fd167",
+      "speaker": "スゥ",
+      "ja": "ね、いい感じでしょ？　やっぱりお兄ちゃんとだと違うね♪",
+      "zh": "呐，感觉不错吧？果然和哥哥一起就是不一样呢♪"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "67f713e1",
+      "speaker": "",
+      "ja": "できあがった砂のお城を見つめながらスゥは満足そうに微笑む。そんなスゥを見て{G_PlayerName}はほんわかとした気持ちになっていた。",
+      "zh": "望着完工的沙堡，苏满意地笑了。看着她，{G_PlayerName}心里暖暖的。"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "417d52e6",
+      "speaker": "",
+      "ja": "砂のお城ができた後、二人は波打ち際へと移動して水遊びを始める。",
+      "zh": "沙堡搭好后，两人来到浪边开始玩水。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "5f3917e4",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、そ～れ！",
+      "zh": "哥哥，看招！"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "a1b6cfae",
+      "speaker": "",
+      "ja": "スゥははしゃぎながら{G_PlayerName}に水をばしゃばしゃとかけてきた。",
+      "zh": "苏一边嬉闹，一边往{G_PlayerName}身上哗哗地泼水。"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "c0cce18f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　やったな～",
+      "zh": "呜哇！好哇，你泼我！"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "c7be9a85",
+      "speaker": "スゥ",
+      "ja": "えへへ♪　冷たかった？",
+      "zh": "嘻嘻♪ 凉快吧？"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "83f86f1a",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあお返しだ！　えいっ！",
+      "zh": "那我要还手了！嘿！"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "c87151d4",
+      "speaker": "スゥ",
+      "ja": "きゃあっ！　つめた～い♪",
+      "zh": "呀！好凉～♪"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "ccc693b4",
+      "speaker": "",
+      "ja": "そのまま波打ち際でスゥと{G_PlayerName}は水遊びを楽しむと、少し休憩するために移動を始める。",
+      "zh": "苏和{G_PlayerName}在浪边玩够了水，便转移地方稍作休息。"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "2efb89a3",
+      "speaker": "",
+      "ja": "するとスゥは{G_PlayerName}の腕にしがみつき、体をぴったりと寄せて言った。",
+      "zh": "于是苏一把抱住{G_PlayerName}的手臂，整个人贴过来，说："
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "746ec04a",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、もっと遊ぼ？　まだ遊び足りないよ～",
+      "zh": "哥哥，再玩会嘛～我还没玩够呢～"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "2bc41bce",
+      "speaker": "",
+      "ja": "そこまで言ってふとスゥは{G_PlayerName}のほうへと目を向ける。{G_PlayerName}はスゥではなく別のほうに目を向けていた。",
+      "zh": "说到这儿，苏不经意地望向{G_PlayerName}，却发现{G_PlayerName}看得不是自己，而是别的方向。"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "e91927ad",
+      "speaker": "",
+      "ja": "それに気づいたスゥは{G_PlayerName}の顔を覗き込んでくる。",
+      "zh": "苏注意到了，便凑过来瞅{G_PlayerName}的脸。"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "8c5d3f7",
+      "speaker": "スゥ",
+      "ja": "……ねえ、お兄ちゃん？",
+      "zh": "……呐，哥哥？"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "f08f18a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　どうした、スゥ",
+      "zh": "……嗯？怎么了，苏？"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "259b4334",
+      "speaker": "スゥ",
+      "ja": "ちゃんとスゥのこと見ててよ？",
+      "zh": "好好看着苏嘛！"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "1fba3969",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……ごめんごめん",
+      "zh": "啊……抱歉抱歉"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "b4e6dad4",
+      "speaker": "",
+      "ja": "そんな指摘を受けた{G_PlayerName}はまっすぐスゥの顔に自らの顔を見た。",
+      "zh": "被这么一指，{G_PlayerName} 直直看向苏，发现她脸上映出了自己的表情。"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "f4d662cd",
+      "speaker": "",
+      "ja": "すると膨れっ面だったスゥの顔がふっと緩んで笑みを浮かべる。",
+      "zh": "于是，苏刚才还鼓着的脸一下放松下来，绽出笑容。"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "abd0d1d9",
+      "speaker": "スゥ",
+      "ja": "まあいいけどさ……スゥが一番なら許してあげる",
+      "zh": "算了，没关系啦……既然是苏最厉害，就原谅你。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "eccd579",
+      "speaker": "",
+      "ja": "{G_PlayerName}はスゥの言葉に恥ずかしそうな笑みを浮かべると、その小さな手を取り遊びへと戻っていった。",
+      "zh": "{G_PlayerName} 对苏的话露出有些害臊的笑容，牵起她的小手，又回去玩耍了。"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "23a162d2",
+      "speaker": "",
+      "ja": "ぎゅっと握り返すスゥの手は強すぎず、けれどしっかりとした「独占したい」という気持ちが感じられる。",
+      "zh": "苏回握过来的手用力不重，却透着一种“想要独占”的坚定劲儿。"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "9433989f",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、いっぱい遊んだね……楽しかった♪",
+      "zh": "哥哥，今天玩得好尽兴呢……好开心♪"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "63cd70e0",
+      "speaker": "",
+      "ja": "夕焼けに染まる砂浜、遊び疲れたスゥは{G_PlayerName}の隣へと腰を下ろして肩に寄りかかりながら呟いた。",
+      "zh": "在晚霞染红的沙滩上，玩累了的苏在{G_PlayerName}身旁坐下，把头靠在他肩上，喃喃说道。"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "3c4fd89f",
+      "speaker": "",
+      "ja": "昼間の元気な感じは少し落ち着き、穏やかな空気が流れていく。",
+      "zh": "白天的活泼劲头稍稍收敛，周围流淌着宁静平和的气氛。"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "fd48657e",
+      "speaker": "",
+      "ja": "そんな中、スゥは隣に座っている{G_PlayerName}の手をそっと握りながら言った。",
+      "zh": "这时，苏轻轻握住坐在旁边的{G_PlayerName}的手，开了口。"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "eac84792",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんと一緒だとさ、なんか安心するの……だから……また来ようね？",
+      "zh": "和哥哥在一起，总觉得特别安心……所以……下次还要来哦？"
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "690c0b07",
+      "speaker": "",
+      "ja": "上目遣いで見つめてくるスゥを見て、{G_PlayerName}は少し頬を赤く染める。",
+      "zh": "看见苏仰头望过来的目光，{G_PlayerName} 脸微微红了。"
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "e3f9c31c",
+      "speaker": "スゥ",
+      "ja": "スゥ、お兄ちゃんと一緒に過ごすこういう時間、もっと欲しいなって思ってるの",
+      "zh": "苏在想啊，还想多和哥哥一起度过这样的时光呢。"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "f61556a1",
+      "speaker": "",
+      "ja": "それは決して強く束縛するわけでもなく、ただ素直な願いとして口にした言葉。",
+      "zh": "那绝不是要强行束缚什么，只是把心里纯真的愿望说出口罢了。"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "ed8cb7c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……それじゃあもっと、こういう時間を作ろうな",
+      "zh": "是吗……那咱们就多创造些这样的时间吧。"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "bf798388",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉にスゥは嬉しそうな笑みを浮かべ、そのまま軽く肩に頭を預けて目を細めた。",
+      "zh": "听到{G_PlayerName}的话，苏开心地笑了，就那样轻轻把头靠在他肩上，眯起了眼睛。"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "93fdde37",
+      "speaker": "スゥ",
+      "ja": "約束だよ……お兄ちゃん",
+      "zh": "说好了哦……哥哥。"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "e2da2c25",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、約束だ",
+      "zh": "嗯，说定了。"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "21395075",
+      "speaker": "",
+      "ja": "夕焼けの中、波の音に包まれながら――。",
+      "zh": "在夕阳下，被海浪声包围着——。"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "98784a1f",
+      "speaker": "",
+      "ja": "二人の時間は、優しく続いていくのだった。",
+      "zh": "两人的时光，就这样温柔地流淌下去。"
+    }
+  ]
+}

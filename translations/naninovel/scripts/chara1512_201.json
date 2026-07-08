@@ -1,0 +1,868 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "6d9f4226",
+      "speaker": "",
+      "ja": "{G_PlayerName}がくつろいでいるところに、スゥが近づいてくる。",
+      "zh": "当{G_PlayerName}正在放松的时候，苏悄悄凑了过来。"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "a7a5ce41",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん♥　日焼け止め塗ってあげる～♥",
+      "zh": "哥哥♥ 我来给你涂防晒霜～♥"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "f51fa7e",
+      "speaker": "",
+      "ja": "刺すような日差しの下で遊ぶとなると、確かに日焼け止めは必要だと感じた{G_PlayerName}は、スゥのお言葉に甘えることにした。",
+      "zh": "要在刺眼的阳光下玩的话，确实得涂防晒才行。{G_PlayerName}这么想着，就决定接受苏的好意了。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "f04844d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "悪いな、それじゃあよろしくお願いするよ",
+      "zh": "有点害羞啊……那就拜托你啦。"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "ce6e1b52",
+      "speaker": "スゥ",
+      "ja": "は～いっ♪　じゃあまずは、背中からね♥",
+      "zh": "好～♪ 那先从后背开始吧♥"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "de965c74",
+      "speaker": "",
+      "ja": "なんだか楽しそうにそう言ってスゥは{G_PlayerName}の背中に日焼け止めを塗り始める。",
+      "zh": "苏一边开心地说着，一边开始往{G_PlayerName}背上抹防晒霜。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "29d7cebc",
+      "speaker": "スゥ",
+      "ja": "うんしょ♥　うんしょ♥　うんしょ♥　うんしょ♥",
+      "zh": "嗯咻♥ 嗯咻♥ 嗯咻♥ 嗯咻♥"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "dde73fc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……うっ……",
+      "zh": "啊……唔……"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "e20da8c3",
+      "speaker": "",
+      "ja": "スゥの小さな手でひんやりとした液体を塗られているということに、{G_PlayerName}は変な想像をしてしまい妙に興奮してしまっていた。",
+      "zh": "苏的小手把冰冰凉凉的液体涂开来，{G_PlayerName}不由得脑补过头，莫名兴奋了起来。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "9e0a8a94",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にスゥは囁きかける。",
+      "zh": "苏见他这样，鼓起了脸颊。"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "1712228f",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、次は前だよ♥",
+      "zh": "哥哥，接下来是正面哦♥"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "94cd21ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "前って……前は自分で塗れるから……",
+      "zh": "正面……正面我自己能涂啦……"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "2b97b983",
+      "speaker": "スゥ",
+      "ja": "いいからいいから♥　スゥが塗ってあげるって言ったでしょ？♥　お兄ちゃんもお願いするって言ったじゃない♥",
+      "zh": "好啦好啦♥ 我说了要帮你涂的吧？♥ 哥哥不也说了拜托我嘛♥"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e5586205",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……まあ、言ったけど……",
+      "zh": "不……好吧，是说了没错……"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "3a4d49ff",
+      "speaker": "スゥ",
+      "ja": "だったらスゥが塗っていいんだよね？♥　ほら早く、お兄ちゃん♥",
+      "zh": "那让我涂就没问题了吧？♥ 快点啦，哥哥♥"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "93229314",
+      "speaker": "",
+      "ja": "そう言われた{G_PlayerName}は少し照れつつもうつ伏せから仰向けへと体勢を変えた。",
+      "zh": "{G_PlayerName}被这么一说，有点难为情，但还是从趴着的姿势翻身仰躺了过来。"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "62dc5659",
+      "speaker": "スゥ",
+      "ja": "他の娘を見ちゃわないように、お兄ちゃんには特別な方法で日焼け止めを塗ってあげるね♥",
+      "zh": "免得你老看别的女孩子，哥哥，我要给你来点特别的涂法哦♥"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "194f029d",
+      "speaker": "{G_PlayerName}",
+      "ja": "特別な方法って……あっ、スゥ……お、おいっ……",
+      "zh": "特别的涂法……啊、苏……喂、喂……"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "9c881f3c",
+      "speaker": "",
+      "ja": "かなり慌てる{G_PlayerName}だが、スゥはお構いなしに水着越しではあるが自らの胸を使って日焼け止めを体に塗り込んでいく。",
+      "zh": "{G_PlayerName}慌得不行，可苏压根不管这些，隔着泳衣直接用自己的胸把防晒霜往他身上蹭。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "2c54063b",
+      "speaker": "スゥ",
+      "ja": "よいしょ♥　よいしょ♥　うふふっ♥",
+      "zh": "嗨咻♥ 嗨咻♥ 唔呼呼♥"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "a0c442fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "あぁぁぁぁ……",
+      "zh": "啊啊啊啊啊……"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "357dd8da",
+      "speaker": "",
+      "ja": "小さいながらも柔らかなおっぱいで日焼け止めを塗り込まれる{G_PlayerName}は興奮していった。",
+      "zh": "虽然不大，但柔软的胸部被抹上防晒霜，{G_PlayerName}越来越兴奋。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "bd26b5bf",
+      "speaker": "",
+      "ja": "顔を赤らめてもじもじする{G_PlayerName}を、スゥはニヤニヤしながら観察しつつ体を滑らせる。",
+      "zh": "苏笑眯眯地看着涨红了脸、坐立不安的{G_PlayerName}，一边扭动着身体。"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "8f7d2b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "スゥ……そんな……はぁ……はぁ……",
+      "zh": "苏……你怎么……哈啊……哈啊……"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "f59e398b",
+      "speaker": "",
+      "ja": "すっかり興奮してしまった{G_PlayerName}は、徐々に息を荒げ始めた。",
+      "zh": "完全兴奋起来的{G_PlayerName}，呼吸越来越粗重。"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "608c52b6",
+      "speaker": "",
+      "ja": "それを見てスゥも興奮してきたのか、甘い声で{G_PlayerName}に囁きかける。",
+      "zh": "看到这一幕，苏似乎也兴奋起来了，用甜腻的声音在{G_PlayerName}耳边轻语。"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "b8c87dad",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、せっかくだから直接塗ってあげるね♥",
+      "zh": "哥哥，难得有机会，我就直接帮你涂吧♥"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "de5eff22",
+      "speaker": "{G_PlayerName}",
+      "ja": "あわわわわっ……",
+      "zh": "呜哇哇哇……！"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "dc83c01f",
+      "speaker": "",
+      "ja": "高ぶってきたスゥは、そのままの勢いで{G_PlayerName}の水着を脱がせてしまった。",
+      "zh": "兴奋起来的苏，顺势就把{G_PlayerName}的泳衣给脱了。"
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "c8276a99",
+      "speaker": "{G_PlayerName}",
+      "ja": "スゥ……そんな……あっ、ああっ……",
+      "zh": "苏……你怎么……啊、啊啊……！"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "eadfcd8e",
+      "speaker": "",
+      "ja": "動揺と興奮に混乱する{G_PlayerName}をよそに、スゥは前後運動を開始する。",
+      "zh": "苏无视了慌乱又兴奋的{G_PlayerName}，身体前后磨蹭起来。"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "39956db2",
+      "speaker": "",
+      "ja": "小さくて柔らかい乳房が陰茎の裏筋を擦ると、{G_PlayerName}の快感と興奮は高まってどんどん勃起していった。",
+      "zh": "小巧柔软的乳房一蹭到阴茎的背筋，{G_PlayerName}的快感就不断攀升，那里也越胀越大。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "f264dda4",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんの……もうこんなにパンパンになっちゃってる……♥",
+      "zh": "哥哥的……已经变得这么硬邦邦的了……♥"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "72d113ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それは……スゥがこんなことするから……あっ、あああっ……",
+      "zh": "那、那是因为苏你……啊、啊啊啊……！"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "296b18d7",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、スゥのおっぱいでおちんちんに日焼け止め塗られて、興奮しちゃってるの？♥",
+      "zh": "哥哥，我用胸部给你的小弟弟涂防晒霜，你兴奋了吗？♥"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "fe5ad504",
+      "speaker": "",
+      "ja": "悪戯っ子のようにスゥはそう尋ねながら、何度も乳房を陰茎に擦りつけてくる。",
+      "zh": "苏像个调皮的小女孩一样问道，同时一遍遍把乳房往阴茎上蹭。"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "688181ad",
+      "speaker": "",
+      "ja": "その気持ちよさに陰茎の先からはぬるぬるの汁が滲み出てきて、スゥの乳房を濡らしていった。",
+      "zh": "那感觉太舒服了，龟头渗出了黏滑的液体，把苏的乳房都弄湿了。"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "9d501d88",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんのおちんちんから、ぬるぬるが出てきてるよ♥　日焼け止めと混ざっちゃう♥",
+      "zh": "哥哥的小鸡鸡流出黏糊糊的东西了呢♥ 和防晒霜搅在一起了♥"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "194fb43",
+      "speaker": "",
+      "ja": "楽しそうにそう呟きながら、スゥの身体が{G_PlayerName}の身体の上を前後する。",
+      "zh": "苏一边开心地嘟囔着，身体在{G_PlayerName}身上前后磨蹭。"
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "607c2f08",
+      "speaker": "",
+      "ja": "そのたびにおちんちんから溢れ出る我慢汁はその量を増してきて、限界が近づいてきているのを表すように強く脈打った。",
+      "zh": "每动一次，小弟弟流出的前列腺液就更多，那强烈的搏动仿佛在宣告极限已近。"
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "68f206",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、ああっ……だめだ……ううっ……も、もう堪えきれない……",
+      "zh": "啊、啊啊……不行了……唔……我、我快忍不住了……"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "3b2fe4b",
+      "speaker": "",
+      "ja": "押し寄せてくる快感に{G_PlayerName}が呻きながらそう呟くと、スゥの動きがどんどん激しくなっていく。",
+      "zh": "随着快感一阵阵袭来，{G_PlayerName}一边呻吟一边这么嘀咕，苏的动作也越来越激烈了。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "a090f5d6",
+      "speaker": "スゥ",
+      "ja": "おちんちんに日焼け止めを……ずりゅずりゅ～ってぬりぬりしちゃう♥　んしょ、んしょ、んしょっ♥",
+      "zh": "给你的小弟弟涂防晒霜……滋溜滋溜地抹来抹去♥ 嗯咻、嗯咻、嗯咻♥"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "327d2e01",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、待てって……くぅぅ！　そんなに激しく擦りつけられたら……あっ、ああっ……",
+      "zh": "等、等一下……呜！摩擦得这么激烈的话……啊、啊啊……"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "81f98db9",
+      "speaker": "",
+      "ja": "高まる快感に{G_PlayerName}は声を震わせながら小さく身体を震わせ始めた。",
+      "zh": "随着快感不断攀升，{G_PlayerName}声音发颤，身体也开始轻轻颤抖起来。"
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "b2116e54",
+      "speaker": "",
+      "ja": "おちんちんからは止めどなくぬるぬるの汁が溢れ出てしまい、スゥはそれをローション代わりにして滑るように体を擦りつけていく。",
+      "zh": "小弟弟那里不停地溢出黏滑的汁液，苏便用它当润滑液，滑溜溜地蹭着自己的身体。"
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "8e6cbcae",
+      "speaker": "スゥ",
+      "ja": "ああっ、お兄ちゃんのおちんちんが、スゥのおっぱいの下でびくんびくんしてるっ♥　はぁ♥　はぁぁ♥",
+      "zh": "啊啊，哥哥的小弟弟在苏的胸脯下面一跳一跳的♥ 哈啊♥ 哈啊啊♥"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "20396b73",
+      "speaker": "",
+      "ja": "スゥは興奮したような声でそう呟くと、少し息を荒くしながら小さな乳房を{G_PlayerName}の裏筋に強く押し当てながら擦りつけていった。",
+      "zh": "苏兴奋地嘟囔着，呼吸变得有些急促，同时把自己小巧的乳房用力压在你的后背上磨蹭着。"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "2a6ee245",
+      "speaker": "スゥ",
+      "ja": "もう、どぴゅどぴゅって出しちゃいそう？♥　ねえ、お兄ちゃん♥　ほらほらっ♥",
+      "zh": "是不是快要噗噗地射出来了？♥ 呐，哥哥♥ 看呀看呀♥"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "1db200c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうぅっ……くっ……うっ、うぅっ……",
+      "zh": "啊呜……呃……呜、呜呜……"
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "646440f3",
+      "speaker": "",
+      "ja": "堪えきれなくなった{G_PlayerName}は短い呻き声を漏らすと、こみ上げてきたものを一気に放出してしまう。",
+      "zh": "终于忍不住了的{G_PlayerName}发出一声短促的呻吟，然后把涌上来的东西一口气全部释放了出来。"
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "d8dad03c",
+      "speaker": "スゥ",
+      "ja": "んっ♥　んんんっ♥　あはっ♥",
+      "zh": "嗯♥ 嗯嗯嗯♥ 啊哈♥"
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "8236eb7d",
+      "speaker": "",
+      "ja": "{G_PlayerName}が派手にぶちまけた精液を受けたスゥは、気持ちよくなってもらえたとすごく嬉しそうな笑みを浮かべた。",
+      "zh": "被{G_PlayerName}尽情喷射的精液淋到的苏，因为让你舒服到了，露出了非常开心的笑容。"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "1758acb1",
+      "speaker": "",
+      "ja": "そんなスゥに{G_PlayerName}は込み上げてきた精液をすべて吐き出して果ててしまう。",
+      "zh": "对着这样的苏，{G_PlayerName}把涌上来的精液全部射了出来，攀上了高潮。"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "13474290",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……はぁぁ……あっ、あぁぁぁ……",
+      "zh": "唔……哈啊啊……啊、啊啊啊……"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "f07711db",
+      "speaker": "",
+      "ja": "すっかり脱力してしまっている{G_PlayerName}を見て、ますますスゥは気持ちを高ぶらせていった。",
+      "zh": "看到彻底脱力的{G_PlayerName}，苏的情绪更加高涨了。"
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "9e533350",
+      "speaker": "スゥ",
+      "ja": "ふふふっ♥　お兄ちゃん、そんなに気持ちよかった？♥",
+      "zh": "呵呵呵♥ 哥哥，就那么舒服吗？♥"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "f0e2625c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……気持ちよかった……",
+      "zh": "呃、嗯……很舒服……"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "6322a88d",
+      "speaker": "",
+      "ja": "息を切らしながら{G_PlayerName}がそう言うと、スゥは嬉しそうな笑みを浮かべながら囁きかける。",
+      "zh": "听到{G_PlayerName}喘着气这么说，苏露出了开心的笑容，凑近耳边轻声说道。"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "aa901a96",
+      "speaker": "スゥ",
+      "ja": "おちんちん汚れちゃったから、またきれいに塗り直さないとね♥",
+      "zh": "小弟弟脏了呢，得再帮你干干净净地涂一遍哦♥"
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "d384aa9",
+      "speaker": "",
+      "ja": "興奮した感じでそう呟いたスゥは、また{G_PlayerName}の上で体を前後させ始めた。",
+      "zh": "苏兴奋地呢喃着，又在{玩家}身上前后扭动起来。"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "fbc3815",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……ああっ……スゥ……こ、これ以上は……んぐぅぅぅ……",
+      "zh": "啊……啊啊……苏……这、再这样下去……唔嗯嗯嗯……"
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "aa3e1940",
+      "speaker": "",
+      "ja": "再び擦りつけられる乳房の感触に、射精したばかりの{G_PlayerName}のペニスはビクビクと痙攣し、すぐにまた硬くなっていく。",
+      "zh": "乳房再次蹭上来的触感，让刚射过的{玩家}肉棒一阵抽搐，很快又硬了起来。"
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "29c4626c",
+      "speaker": "",
+      "ja": "そんな陰茎にスゥは精液にまみれた乳房を擦りつけながら甘い声で囁きかけた。",
+      "zh": "苏把沾满精液的乳房蹭在茎身上，一边甜腻地低语。"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "53b89827",
+      "speaker": "スゥ",
+      "ja": "もう、日焼け止めなのか、お兄ちゃんの精液なのかわからなくなっちゃったね♥",
+      "zh": "已经分不清到底是防晒霜还是哥哥的精液了♥"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "65b05699",
+      "speaker": "",
+      "ja": "スゥも徐々に感じてきているようで、胸の先の乳首が硬く尖ってきていて、顔もすっかり赤く染まってきている。",
+      "zh": "苏也渐渐情动，乳尖硬挺起来，脸也红透了。"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "dd6b632b",
+      "speaker": "",
+      "ja": "その高まりのままにスゥは{G_PlayerName}のおちんちんに小さな膨らみを何度も擦りつけていった。",
+      "zh": "苏越发兴奋，挺着乳尖反复蹭着{玩家}的肉棒。"
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "b9bcad01",
+      "speaker": "スゥ",
+      "ja": "はぁ♥　はぁ♥　お兄ちゃんのおちんちんに、おっぱいすりすりするの……スゥも気持ちいいよぉ♥",
+      "zh": "哈啊♥ 哈啊♥ 用胸部蹭哥哥的肉棒……苏也好舒服哦♥"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "6ad655c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ス、スゥ……そんなに激しく動いちゃ……あっ、あうぅっ……",
+      "zh": "苏、苏……蹭那么猛……啊、啊啊……"
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "a2f96e49",
+      "speaker": "",
+      "ja": "こりこりしている乳首が裏筋に擦れる感触に、{G_PlayerName}は激しい快感に襲われて身悶えていく。",
+      "zh": "硬挺的乳头刮擦着茎身背面，{玩家}被汹涌的快感激得扭动起来。"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "5a9894fe",
+      "speaker": "",
+      "ja": "さっき射精したばかりの陰茎は、また込み上げてくる感覚に襲われ小さく跳ねていた。",
+      "zh": "刚射过的肉棒，再次涌起射精感，轻轻弹跳着。"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "7224a2e0",
+      "speaker": "スゥ",
+      "ja": "いっぱい出したのに、もうこんなに元気になっちゃってるよ？♥　お兄ちゃんのおちんちん……すごぉい♥",
+      "zh": "都射了那么多，又这么精神了啊？♥ 哥哥的肉棒……超棒的♥"
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "1fc2614d",
+      "speaker": "",
+      "ja": "スゥはかなり感じているような甘い声でそう言うと、自らの快感も求めてか勃起した乳首を肉竿に強く擦りつける。",
+      "zh": "苏用甜腻的声音说完，也为了自己的快感，把硬挺的乳头用力压在茎身上碾磨。"
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "e4a9ac2a",
+      "speaker": "スゥ",
+      "ja": "あんっ♥　あぁんっ♥　おちんちんに乳首ぐりぐりすると……はぁんっ♥　スゥ……おかしくなっちゃうぅ♥",
+      "zh": "嗯啊♥ 啊啊♥ 乳头蹭着肉棒……哈嗯♥ 苏……要变得好奇怪了♥"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "fa62d4ac",
+      "speaker": "",
+      "ja": "すっかり興奮しきったスゥは、{G_PlayerName}の身体に自分の身体をぴったりと密着させながら、激しく前後に滑らせた。",
+      "zh": "兴奋至极的苏，紧紧贴着{玩家}的身体，激烈地前后磨蹭。"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "59309c0a",
+      "speaker": "",
+      "ja": "そのたびに裏筋を硬い乳首がなぞってきて、ぞくぞくする気持ちよさが{G_PlayerName}のおちんちんから全身へと広がっていく。",
+      "zh": "每次硬乳头都刮过茎身背面，酥麻的快感从{玩家}的肉棒传遍全身。"
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "f6a80134",
+      "speaker": "{G_PlayerName}",
+      "ja": "あううっ……やばっ……また……あっ、あああっ……",
+      "zh": "呜啊……糟了……又……啊、啊啊啊……"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "3348329c",
+      "speaker": "",
+      "ja": "激しい快感に身を震わせながら{G_PlayerName}は小さく身体を震わせた。",
+      "zh": "{玩家}被强烈的快感激得浑身轻颤。"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "4376438f",
+      "speaker": "",
+      "ja": "またすっかり勃起しきったおちんちんは、今にも爆発しそうな感じで痙攣してくる。",
+      "zh": "完全勃起的肉棒，痉挛着像是随时要爆发。"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "b0007441",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんっ♥　お兄ちゃんっ♥　んっ、んんんっ♥　乳首気持ちいいのぉ♥　はぁんっ♥　おっぱいすりすり、止められないよぉ♥",
+      "zh": "哥哥♥ 哥哥♥ 嗯、嗯嗯♥ 乳头好舒服哦♥ 哈啊♥ 乳房蹭蹭，根本停不下来♥"
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "a96ad0e6",
+      "speaker": "",
+      "ja": "スゥもすっかり興奮しきってしまい、{G_PlayerName}の上で激しく体を擦りつけ続けた。",
+      "zh": "苏也彻底兴奋起来，在{G_PlayerName}身上激烈地不停磨蹭。"
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "1d968d",
+      "speaker": "",
+      "ja": "その刺激に一気にこみ上げてくる感覚が強まった{G_PlayerName}の陰茎は、スゥの乳房の下でビクンビクンと跳ねる。",
+      "zh": "那一刺激让快感猛地涌上来，{G_PlayerName}的阴茎在苏的乳房下扑通扑通直跳。"
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "fcb10ee0",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あああっ……ま、また出る……くぅぅっ！",
+      "zh": "唔……啊啊啊……又、又要射了……呃呃！"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "b6b94675",
+      "speaker": "",
+      "ja": "また堪えきれなくなった{G_PlayerName}が腰を震わせながら呻き声を漏らすと、スゥの乳房の下でおちんちんが脈打ち白濁したどろどろの汁が勢いよく飛び散った。",
+      "zh": "{G_PlayerName}再也忍不住，腰身一颤漏出呻吟，阴茎在苏的乳房下搏动着，白浊黏稠的汁液猛地飞溅开来。"
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "ac8ce95f",
+      "speaker": "スゥ",
+      "ja": "んはぁぁぁ♥　出てるぅ♥　どぴゅどぴゅって、またこんなにいっぱいっ♥　あふぅぅっ♥",
+      "zh": "嗯哈啊啊♥ 射出来了♥ 噗噗地往外冒，又这么多♥ 啊呼呜呜♥"
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "c6b5d463",
+      "speaker": "",
+      "ja": "ほとばしる精液の感触と匂いに一気に高ぶったスゥは、それだけで軽い絶頂に達してしまう。",
+      "zh": "飞溅的精液触感和气味让苏瞬间亢奋，光是这样就攀上了小小的高潮。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "1f3bb400",
+      "speaker": "",
+      "ja": "わなわなと震える唇の端からよだれを垂らし、すっかり蕩け切った顔を晒していた。",
+      "zh": "颤抖的嘴角淌着口水，脸上满是融化的痴态。"
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "f38ed4b9",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんの精液……すっごく濃い……♥",
+      "zh": "哥哥的精液……好浓啊……♥"
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "ec0e958f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうっ……うううっ……あっ、ああっ……",
+      "zh": "啊呜……呜呜呜……啊、啊啊……"
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "70594c1d",
+      "speaker": "",
+      "ja": "スゥのその表情に興奮した{G_PlayerName}は、そのまますべての精液をぶちまけて果てる。",
+      "zh": "苏那表情激得{G_PlayerName}兴奋难耐，就这样把所有精液都喷了个干净，彻底去了。"
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "5ebf5f05",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん……♥　スゥのおっぱい、そんなに気持ちよかったの……？♥",
+      "zh": "哥哥……♥ 苏的胸让你那么舒服吗……？♥"
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "b2966826",
+      "speaker": "",
+      "ja": "たっぷりと{G_PlayerName}の精液を浴びてどろどろに汚れながらも、スゥは嬉しそうな笑みを浮かべながらそう呟いた。",
+      "zh": "被{G_PlayerName}的精液淋得浑身黏腻，苏却还是浮起开心的笑容，这般呢喃。"
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "57832bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……ふぅぅ……",
+      "zh": "哈啊……哈啊……哈啊……呼……"
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "b8ce459",
+      "speaker": "",
+      "ja": "スゥと{G_PlayerName}はしばし身体を重ねた状態で息を切らしながら絶頂の余韻に浸る。",
+      "zh": "苏和{G_PlayerName}身体交叠了一会儿，喘着气沉浸在余韵里。"
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "dbe57b8a",
+      "speaker": "",
+      "ja": "そんな中で興奮が冷めやらぬスゥが恍惚の表情を浮かべながら{G_PlayerName}の耳元で囁きかけた。",
+      "zh": "这时，余兴未消的苏一脸恍惚，在{G_PlayerName}耳边轻语。"
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "caf43d68",
+      "speaker": "スゥ",
+      "ja": "次は……スゥにも日焼け止め塗ってくれる……？♥　お兄ちゃん♥",
+      "zh": "下次……也给苏涂防晒霜……？♥ 哥哥♥"
+    }
+  ]
+}
