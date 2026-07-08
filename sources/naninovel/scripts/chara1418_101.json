@@ -1,0 +1,418 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "d655ed7",
+      "speaker": "小夜",
+      "ja": "すごいです！　まさかこんなに広いなんて！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "f4c6fb94",
+      "speaker": "",
+      "ja": "宇宙船に入った小夜は興味津々といった様子で、周りを見回しながら言った。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "9ae8c1f5",
+      "speaker": "",
+      "ja": "彼女も宇宙船自体は知っているはずだが、実際に乗ることは少ないらしい。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "6237a5a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "小夜って、こういう宇宙船に興味があるんだな",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "a53c7ba7",
+      "speaker": "小夜",
+      "ja": "はい！　宇宙船はお金持ちしか乗れないですからね……！　とても貴重な体験です！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "47bb0874",
+      "speaker": "",
+      "ja": "彼女は瞳を輝かせながら、辺りをキョロキョロと見回していた。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "fb0743d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "良ければ宇宙船の中を案内しようか？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "415b036c",
+      "speaker": "小夜",
+      "ja": "えっ？！　いいんですか？！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "5548e7fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ぜひとも案内させてくれ。……アポロに頼んでもいいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "548764a1",
+      "speaker": "小夜",
+      "ja": "よろしくおねがいしますっ！",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "4546d9d8",
+      "speaker": "",
+      "ja": "嬉しそうな小夜を連れ、宇宙船の中を歩くことにした。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "31c3e477",
+      "speaker": "小夜",
+      "ja": "ここがラウンジ……！　宇宙を窓から見ながら休憩できるんですね～、ソファーもふかふかです……！",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "b8f670d7",
+      "speaker": "",
+      "ja": "ラウンジに入った小夜はすぐにソファーに座り、そこから窓の外に流れていく宇宙の景色を見てはしゃいでいる。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "85c32845",
+      "speaker": "",
+      "ja": "その姿に{G_PlayerName}は自らの姿を重ねて思い出していた。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "a20e026d",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり凄いよな……俺も初めて乗った時は、かなり興奮したよ",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "d57c5eb2",
+      "speaker": "小夜",
+      "ja": "ですよね、こんなの興奮して当たり前ですよ～！",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "d67e2db6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちなみにこのラウンジで、みんなとご飯を食べたりしているんだ、料理はアポロがしてくれる",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "763c78d9",
+      "speaker": "小夜",
+      "ja": "そうなんですか？　アポロさんの料理、食べてみたいです！",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "d919e1bb",
+      "speaker": "アポロ",
+      "ja": "かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "33edb095",
+      "speaker": "",
+      "ja": "会話を聞いていたのか、アポロはすぐに軽食を小夜の前に出した。",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "5e18faea",
+      "speaker": "小夜",
+      "ja": "早い！　すごーいっ！　それじゃあ、いただきまーすっ♪",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "e7cd1af5",
+      "speaker": "小夜",
+      "ja": "わっ、おいしい～～～！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "83e28844",
+      "speaker": "",
+      "ja": "絶賛している小夜を見て、アポロもどこか誇らしげである。",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "4e98c430",
+      "speaker": "アポロ",
+      "ja": "ふっ……ごゆっくりどうぞ",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "e5345113",
+      "speaker": "",
+      "ja": "その後他の場所も一通り案内し終わり、{G_PlayerName}は小夜のほうを振り向いた。",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "8fdba808",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙船はどうだった？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "3a5f6655",
+      "speaker": "小夜",
+      "ja": "本当に楽しかったです！　案内してくれてありがとうございました！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "1c1b70d8",
+      "speaker": "",
+      "ja": "小夜は深々とお辞儀をしながら{G_PlayerName}にお礼の言葉を口にしたが、申し訳なさそうな表情で呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "17d55492",
+      "speaker": "小夜",
+      "ja": "あの……できればでいいんですけど……最後に機械士さんのお部屋を見せてもらえませんか？",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "ef971b1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の部屋？　普通の部屋なんだけど……まあ、いいよ",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "12830d27",
+      "speaker": "小夜",
+      "ja": "本当ですか？　ありがとうございます！",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "7723b9ed",
+      "speaker": "",
+      "ja": "再び深々と頭を下げる小夜を{G_PlayerName}は自分の部屋へと案内した。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "e0d3cedf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここが俺の部屋だけど……",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "de997c9c",
+      "speaker": "小夜",
+      "ja": "わぁ……良いお部屋ですね！　ベッド、座ってもいいですか？",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "fa4a6673",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　ああ、いいよ",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "fb0540ea",
+      "speaker": "小夜",
+      "ja": "おお……ふかふかです！",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "ccb6faef",
+      "speaker": "",
+      "ja": "小夜はそのまま確かめるように、ベッドにころんと転がった。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "17577149",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい……座ってもいいとは言ったけど、そこまでしなくても……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "38e23e03",
+      "speaker": "",
+      "ja": "{G_PlayerName}が声をかけるが、小夜は反応せずに黙って寝転び続けた。",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "6af2301f",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、小夜？",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "e348d4fc",
+      "speaker": "",
+      "ja": "{G_PlayerName}は寝転がっている小夜の顔を覗き込むと……",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "1f7488db",
+      "speaker": "小夜",
+      "ja": "……すぅ……すぅ……すぅ……むにゃむにゃ",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "70e61392",
+      "speaker": "{G_PlayerName}",
+      "ja": "……寝てる？　今の一瞬で？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "62b00b81",
+      "speaker": "",
+      "ja": "その寝顔を見て{G_PlayerName}は苦笑いを浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "54bd95ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、あれだけ興奮してはしゃいでいたなら……仕方ないか",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "5cef2c62",
+      "speaker": "",
+      "ja": "半ば諦めたようにそう呟くと、{G_PlayerName}は小夜をそのままベッドで寝かせておくことにした。",
+      "zh": ""
+    }
+  ]
+}
