@@ -1,0 +1,625 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "3f304806",
+      "speaker": "{G_PlayerName}",
+      "ja": "くはーっ！　もうびっしょびしょだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "3358d808",
+      "speaker": "",
+      "ja": "とある星で散歩がてらに出かけたら突然の豪雨。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "33e15163",
+      "speaker": "",
+      "ja": "雨を防ぐ手段を一切持ち合わせておらず、俺は逃げるように宇宙船内へと帰ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "289a8e76",
+      "speaker": "メロディ",
+      "ja": "あら……まぁ……！？　機械士様！？　全身ずぶ濡れで……まるで川にでも落ちた様に……！",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "bbfae31f",
+      "speaker": "",
+      "ja": "ラウンジに驚きの混じった優しい声が響き、メロディが少し慌てた様子で駆け寄ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "e5dd5ae5",
+      "speaker": "{G_PlayerName}",
+      "ja": "突然降ってきてさぁ……くしゅん！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "48dfd644",
+      "speaker": "メロディ",
+      "ja": "風邪でも引いたら大変ですわ……！　すぐにバスタオルと温かいものをご用意しますわっ♥",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "86e2ff94",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、中まで汚したら申し訳ないし助かるよ。でもとりあえずタオルだけで大丈夫……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c6367b44",
+      "speaker": "メロディ",
+      "ja": "いいえっ！　すぐにお持ちしますから、そのままお待ち下さいっ！　体を冷やしては大変ですっ！",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "bd0b22aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "大げさだなぁ……すぐ着替えれば大丈夫なのに",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "70e0aeeb",
+      "speaker": "メロディ",
+      "ja": "大変お待たせました！　これでまずは体を拭いてください",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "b6bf7121",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うぉっ！？　もう戻って……！？",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "4d62e258",
+      "speaker": "",
+      "ja": "俺はふかふかのバスタオルを押し付けられるように渡され、言われた通りに濡れた髪を拭いていく。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "c8a94b66",
+      "speaker": "メロディ",
+      "ja": "お身体、大丈夫ですか？　他星の雨は人によって合わないケースがあります。肌がヒリヒリしたりとかありませんか？",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "9c464ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……とりあえずなんともないと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "6ff74a24",
+      "speaker": "メロディ",
+      "ja": "ふふっ……それは良かったですわ♥",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "eb8482e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか妙にテンション高いな……声も少し上ずっているように思えるし……）",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "1dc53e39",
+      "speaker": "メロディ",
+      "ja": "ではそろそろ準備もできましたし、こちらへ",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "88bfb9eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "準備……？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "915f8ddf",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー……いい湯だな",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "9bf26e20",
+      "speaker": "",
+      "ja": "理想的とも言える温度の湯が身体にしみこむような感触。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "b04d070",
+      "speaker": "",
+      "ja": "はぁ～……と何度も口から息が漏れ出し、身体だけではなく心まで温かくなっていくような気がしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "411c660a",
+      "speaker": "",
+      "ja": "そして僅かに湯から香るいい匂いが、俺の心をさらにゆったりとしたものにしていった。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "6e5735dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "……しかしいつの間にお風呂の準備なんて……まさかバスタオルを取りに言ってる間に？",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "2e65a76f",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやいや、それはないよな……？　すぐに戻ってきてたし",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "4a9d30ed",
+      "speaker": "メロディの声",
+      "ja": "機械士様、お湯加減はいかがですか？　機械士様のお好みの温度になっているでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "d476d7cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ちょうどいいよ。ありがとうメロディ、お風呂の準備してくれて",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "7568769a",
+      "speaker": "メロディの声",
+      "ja": "いえ、お気になさらずに。あ、お背中をお流ししましょうか？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "10418443",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすがにそれくらいは一人でできるって……！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "527e59",
+      "speaker": "メロディの声",
+      "ja": "ふふっ、そうですか。それでは洗濯ユニットに機械士様のお洋服入れておきますね",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "ad83ee1",
+      "speaker": "メロディの声",
+      "ja": "それではごゆっくり温まってくださいね",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "422a3cf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、本当にありがとう、メロディ",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "d0f6724",
+      "speaker": "メロディの声",
+      "ja": "いえ、本当に気になさらないでくださいまし。メロディ、普段は誰かをお世話できる機会も少なくて……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "ebf67351",
+      "speaker": "メロディの声",
+      "ja": "ですので、少々張り切ってしまっただけですから",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "9df34799",
+      "speaker": "メロディの声",
+      "ja": "あ、着替えも置いておきますね。それではごゆっくり～",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "90c263e6",
+      "speaker": "",
+      "ja": "ドアの向こうから聞こえてきたメロディの声も無くなり、静寂に包まれていくお風呂。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "e18f5687",
+      "speaker": "",
+      "ja": "俺はフーっと大きく息を吐くと、茫然と天井を見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "4fc339e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "普段お世話をする機会が少ない……グレアは性格的に自分のことは何でも自分でしてしまいそうだもんな……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "fdefdc9a",
+      "speaker": "{G_PlayerName}",
+      "ja": "AIにはAIの悩みがあるものなんだな……",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "de1337ce",
+      "speaker": "",
+      "ja": "しっかり者なのにどこか楽しそうで、そして少し暴走気味。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "8a60f13a",
+      "speaker": "",
+      "ja": "でもそれがすべてを完璧に、気の利いた”サポート”であるのがメロディらしさなんだろうな。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "4e84f9f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "おおお～……！",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "171a23b1",
+      "speaker": "",
+      "ja": "お風呂から上がると、テーブルの上には見るだけで気分があがるプレート料理。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "6538f46b",
+      "speaker": "",
+      "ja": "香り豊かで具材がゴロゴロ入ったスープをはじめ、俺の好きな物ばかりが並べられてた。",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "dfe742",
+      "speaker": "メロディ",
+      "ja": "ふふっ、さぁ機械士様、こちらにお座りになってください",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "bc7fba43",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……でもなんか悪いな……至れり尽くせりって感じでさ",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "541d1392",
+      "speaker": "メロディ",
+      "ja": "それがメロディのお仕事ですから",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "111980dd",
+      "speaker": "",
+      "ja": "メロディはテーブルの椅子を軽く引くと俺はそこに腰を降ろす。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "f7b0350d",
+      "speaker": "",
+      "ja": "彼女は嬉しそうに両手を胸の前に揃えにこにこと俺を見守っていた。",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "1dfc9f3b",
+      "speaker": "メロディ",
+      "ja": "お口に合うと嬉しいのですが……♥　あらっ？　でもお食べになるのは少し待ってくださいまし",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "46f7574f",
+      "speaker": "メロディ",
+      "ja": "ふふっ、髪がまだ少々濡れていますわ♥　拭いて差し上げますので動かないでくださいね",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "270b4bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまん、ちゃんと乾かしたつもりだったんだけど",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "6bc3b190",
+      "speaker": "メロディ",
+      "ja": "いいんですよ、このくらい",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "2fefb84",
+      "speaker": "",
+      "ja": "メロディは優しい手つきで髪を拭き始める。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "a4247d9",
+      "speaker": "",
+      "ja": "彼女の優しさが伝わってくるような手の動きに、心が妙にソワソワしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "98ecf74c",
+      "speaker": "メロディ",
+      "ja": "メロディはサポートAI、誰かのお世話をするのがメロディの生きがいなんですから",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "98e517bd",
+      "speaker": "メロディ",
+      "ja": "これからも何かありましたらメロディにおっしゃってください♥　なんでもお手伝いしますから",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "84e0d9b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう言ってくれるのは嬉しいけどさ、なんでもかんでも世話になりっぱなしってのもな……",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "5ee19e50",
+      "speaker": "メロディ",
+      "ja": "ふふっ、機械士様もグレア様と同じことをおっしゃいますのね",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "35867ef",
+      "speaker": "メロディ",
+      "ja": "それならメロディが押し掛けお世話してしまいますからね？　ですので、今後は毎日をだらしなく過ごしてくださいまし❤　うふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "a5425995",
+      "speaker": "{G_PlayerName}",
+      "ja": "サポートするAIが人をダメにするような発言はさすがにまずいだろっ",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "31e2d1ac",
+      "speaker": "メロディ",
+      "ja": "ふふっ、軽い冗談ですわ♥　さて、もう濡れているところもありませんね",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "27eb7c75",
+      "speaker": "メロディ",
+      "ja": "さぁ機械士様、お待たせしました、どうぞ召し上がってください",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "7515204e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、それじゃあいただきます……",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "1813f30",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぐんぐ……うめぇっ！　初めて食う料理だけど、めっちゃ美味いな！",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "dc4d33f9",
+      "speaker": "メロディ",
+      "ja": "ふふふっ♥　お口に合うようで良かったです。あ、そんなに慌てて食べなくても……",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "c7ccf5f5",
+      "speaker": "メロディ",
+      "ja": "おかわりはたくさんありますから、ゆっくりお食べになって。機械士様♥",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "659cb7bc",
+      "speaker": "",
+      "ja": "メロディの心からの奉仕と、少し暴走気味のお世話。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "b98ebf1f",
+      "speaker": "",
+      "ja": "彼女の愉悦と満足が感じられたひとときを過ごすのであった。",
+      "zh": ""
+    }
+  ]
+}
