@@ -1,0 +1,715 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "7ae4365b",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……！　一息入れるか",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "d3ace839",
+      "speaker": "まこ",
+      "ja": "機械っぴ～！！　推しのお菓子作りしたいから手伝って～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "127e7fd6",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ッ！？！？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "551364a3",
+      "speaker": "まこ",
+      "ja": "ありゃ……？　機械っぴ？　なんで椅子から転げ落ちてるの？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "23b17165",
+      "speaker": "",
+      "ja": "静かだった部屋に突如響くまこの大きな声。",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "c9a9d5ca",
+      "speaker": "",
+      "ja": "俺は驚きのあまり椅子から転げ落ち、まこはそんな俺を首を傾げながら見ていた。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "ac4e77d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "イテテテテ……いきなり大声で呼ばれたら驚くって……！　で、何か用事か？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "faace132",
+      "speaker": "まこ",
+      "ja": "お菓子っ、お菓子作り手伝って。明日推しピの生誕祭なんだ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "4eb70831",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだそりゃ……生誕祭って……今から作って間に合うのか？　明日本人に直接渡すのか？",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "61587257",
+      "speaker": "まこ",
+      "ja": "直接は渡さないよ～、どこに住んでるかもわかんないし。作ったお菓子を写真に撮ってSNSに載せるんだ～♥",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "b24338b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そういうことね……えすえぬえすって何かはわからないけど……",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "fbc2f363",
+      "speaker": "まこ",
+      "ja": "最近発掘した推しの生誕祭なんだ～♪　お祝いは盛大にしなきゃね～♪　あははははっ♪",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "5ebfbd6",
+      "speaker": "",
+      "ja": "惚れっぽいまこはどうやらまた新たな『推し』を作って応援することを楽しんでいるようだ。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "f575879d",
+      "speaker": "",
+      "ja": "まこと知り合ってから何人目の推しなんだろう……まこの中に推しは何人存在するのか……。",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "1476f59b",
+      "speaker": "まこ",
+      "ja": "生誕祭と言えばやっぱケーキだよねっ♪　大きいのバーンって作りたいんだ～♥　その方が推している気持ちが伝わると思うしさ",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "40916f37",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうものなのか……？　ケーキとか何でもいいと思うけど",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "f22a3b0d",
+      "speaker": "まこ",
+      "ja": "はぁっ！？　わかってないなぁ、機械っぴは……！　これだから素人はっ！！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "5f688ffe",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんの素人だよ……なら買えばいいんじゃないか？　まこ金持ちなんだしさ……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "558de998",
+      "speaker": "まこ",
+      "ja": "わかってない！　機械っぴは全然わかってないよーっ！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "d163e88b",
+      "speaker": "まこ",
+      "ja": "これは推しに対する『愛』なんだよ！　手作りのケーキであなたを推していますって伝われば、その人も嬉しいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "6dbcc76e",
+      "speaker": "まこ",
+      "ja": "まこは好きなものには『愛』を伝えたいの♥　機械っぴも好きなコには『愛』を伝えたいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "a8c7f704",
+      "speaker": "まこ",
+      "ja": "こういうのにはガンガンアピっていかないと♥",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "ec32dc3f",
+      "speaker": "",
+      "ja": "まこはそう言って、小さくペロっと舌を出す。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "57767bc9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁそういうアピールの気持ちはわからんでもないが……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "94a20257",
+      "speaker": "まこ",
+      "ja": "でしょでしょ！　てことで、はい決定～っ♪　キッチン行こっ♥",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "ee7ca1ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　おい、引っ張るなって……！　まだ手伝うって誰も言ってないって！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "4a11ab75",
+      "speaker": "まこ",
+      "ja": "よーし！　やるぞ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "11b15893",
+      "speaker": "まこ",
+      "ja": "むぅ……！　機械っぴ、ノリ悪いなぁ……！　そこは『オー』って掛け声をかけるパターンでしょ",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "ca9b663c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなノリ知るかっ！　で、どうするんだ？　俺ケーキとか作ったことないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "53329d8f",
+      "speaker": "まこ",
+      "ja": "そのへんはだいじょ～ぶ！　最高に動画観まくって覚えたから！",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "be3d8f3e",
+      "speaker": "まこ",
+      "ja": "まずは土台となる部分からだね、卵と砂糖……あと薄力粉とバター……あとお塩、ほら、持ってきて！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "d0adbe16",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……わかった……！！",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "88c51f36",
+      "speaker": "",
+      "ja": "俺はまこに言われるままに材料を集める。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "9a2b0064",
+      "speaker": "",
+      "ja": "一通り材料は揃っているようで、どうやらケーキを作るのに支障が無いようだ。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "84ab110",
+      "speaker": "{G_PlayerName}",
+      "ja": "（自動調理って言っても材料は必要だし、そのために揃っているのかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "7727bdfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ……でも勝手に材料使ったらアポロに怒られるかな……？　あとでアポロに言った方がいいな）",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "2db4b725",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、一通り揃えたぞ",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "ff4f5d4e",
+      "speaker": "まこ",
+      "ja": "んへへ……ありがと、機械っぴ♪　あ、こういうケーキ作りたいから機械っぴも把握しといて",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "cf3fb1",
+      "speaker": "",
+      "ja": "まこはそう言うと携帯で画像を見せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "16af4197",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ……？　なんか俺の知ってるケーキと違うぞ……？　生クリームを使うんじゃないのか？　それにこれ、クッキーか……？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "8c0e5379",
+      "speaker": "まこ",
+      "ja": "あー……ケーキって言ったからそうイメージしちゃったんだね～。推しに伝わるように絵とか文字とか描きたいんだよ",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "54fbcaaf",
+      "speaker": "まこ",
+      "ja": "ほら、こんな感じにさ",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "546ce363",
+      "speaker": "",
+      "ja": "まこは携帯を弄りだし、また俺に画面を見せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "a14fb548",
+      "speaker": "",
+      "ja": "推しであろう人物と『顔面国宝』『推しピ』など文字が記入されたイラストがいくつか描かれてあった。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "3a449c24",
+      "speaker": "{G_PlayerName}",
+      "ja": "これまこが描いたのか……？　上手いな",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "2723b6b4",
+      "speaker": "まこ",
+      "ja": "えへへ～♪　ありがと♥　機械っぴのそういう、素直に褒めること、ホンっと推せるよっ♥",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "9d383e79",
+      "speaker": "まこ",
+      "ja": "クッキーの上にアイシングで絵とか文字とか描くの♪　そうすれば一目見てわかるでしょ",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "6983beee",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なるほど……こういうのもあったんだな……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "fdc21041",
+      "speaker": "まこ",
+      "ja": "ホントは機械っぴがイメージするケーキに絵とか描きたいって思ったんだけどさ……なんか難しそうだったからね",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "bb389be9",
+      "speaker": "まこ",
+      "ja": "だからまこにもやれる方法で作るわけ♪　じゃあさっそく始めよっかーっ",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "679c5b2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おー……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "9b8bc866",
+      "speaker": "まこ",
+      "ja": "声が小さいっ！　もう一回！　ほら、推しに伝わる勢いで！！",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "9f3075b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ、おーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "87a68f86",
+      "speaker": "まこ",
+      "ja": "あははっ♥　じゃあやるぞーっ！　えっと最初は──",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "82f715c3",
+      "speaker": "",
+      "ja": "──数時間後",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "185429ae",
+      "speaker": "まこ",
+      "ja": "はー、これで完成かなぁ～？　どうどう？　ヘンなとことかない？　絵の通り出来てる？",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "d8f35682",
+      "speaker": "{G_PlayerName}",
+      "ja": "全然ヘンなとこないぞ。まこって器用なんだな……ちゃんと似顔絵になってるし、文字もちゃんと書けてるよ",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "21f264d4",
+      "speaker": "まこ",
+      "ja": "えへへへ～♪　自分で言うのもなんだけど……上手く特徴捉えられているかも♪　激カワだよね～っ",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "bd682726",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、カワイイな……まこが推しになる気持ちが少し理解できたかも……",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "e34843f6",
+      "speaker": "",
+      "ja": "ただ自分のタイプではない気がする……やっぱりまこの方がカワイイって思う。",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "54b2a944",
+      "speaker": "まこ",
+      "ja": "じゃああとは綺麗にお皿に並べて～……写真撮りまくるぞーっ♪",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "878f35a",
+      "speaker": "{G_PlayerName}",
+      "ja": "まこは元気だな……俺はさすがに疲れたよ……スイーツ作りって思いのほか体力がいるんだな……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "a69b9820",
+      "speaker": "",
+      "ja": "俺は椅子に腰を下ろすと、まこは楽しそうにパシャパシャとクッキーの写真を撮りまくる。",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "1beb1ee4",
+      "speaker": "",
+      "ja": "その光景にルミナやリリアンを撮りまくる雫を思い起こさせた。",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "927d64df",
+      "speaker": "まこ",
+      "ja": "じゃあ機械っぴ、はいこれ！",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "fa560df4",
+      "speaker": "まこ",
+      "ja": "んふふ♥　まこの『好きピ』の機械っぴにまこちゃんからのご褒美でぇ～す♥",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "e2798424",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……？　俺にもくれるのか？　推しのために作ったんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "da51dc5a",
+      "speaker": "まこ",
+      "ja": "それはそれ、これはこれ！　機械っぴはまこの推しじゃなくて好きピ！　だから別枠なんだよっ♪",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "cc4e801a",
+      "speaker": "",
+      "ja": "好きピと言われ、心がヘンに浮き立ってしまう。ただまこの好意は本物のようで、その気持ちがしっかりと俺に伝わってきた。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "4a7a289f",
+      "speaker": "",
+      "ja": "俺はまこからクッキーを受け取ると、眩しいくらいの笑顔を見せる。しかしその直後──",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "21be35e8",
+      "speaker": "まこ",
+      "ja": "……機械っぴは優しいよね……まこが何も貢がなくてもお手伝いしてくれたし",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "587eb586",
+      "speaker": "",
+      "ja": "表情が一転し、悲し気な表情を俺に見せてきた。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "5046240c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ……なし崩し的ではあったけど、困ってたら手伝うだろ",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "45489a71",
+      "speaker": "まこ",
+      "ja": "あははっ♥　だから『好きピ』なんだよっ♥　じゃあまたまこと『推し活』しようね、約束だよっ",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "1fcb58d",
+      "speaker": "{G_PlayerName}",
+      "ja": "推し活はするかどうかわからんが、困ってたらいつでも言ってくれよ？　まこなら大歓迎だからさ",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "4314daf7",
+      "speaker": "まこ",
+      "ja": "うんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "a0ba3248",
+      "speaker": "",
+      "ja": "正直まこに関してはいろいろとわからないだけだ。まこに対して俺がどういう気持ちなのか、まだ答えは出ていない。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "ddfaa33e",
+      "speaker": "",
+      "ja": "ただまこと一緒にいるとその答えはすぐに出るかもしれない。俺はまこに貰ったクッキーを頬張りながらそんなことを考えていた。",
+      "zh": ""
+    }
+  ]
+}

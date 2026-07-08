@@ -1,0 +1,1228 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "d061d91b",
+      "speaker": "まこ",
+      "ja": "ねっ、ねっ！　機械っぴ、今ヒマ！？　ヒマだよね！？　バイトしないっ？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "8239aa8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、いきなり部屋に来たと思ったら唐突に……暇って言えば暇だけどさ",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "b4c9299e",
+      "speaker": "まこ",
+      "ja": "ラッキー♪　じゃあ行こ♪　ほら、街に行くよっ！",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "f2f0b629",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、引っ張るなって……！　誰もバイトするって言ってないってば！！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "bb16c716",
+      "speaker": "{G_PlayerName}",
+      "ja": "……限定グッズ、ねぇ……それでこんな人だかりが……",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "b58aedd",
+      "speaker": "",
+      "ja": "有無を言わさず街に引っ張ってこられ、到着したのはとあるアイドルグッズ専門ショップ……のはず。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "bc5898e6",
+      "speaker": "",
+      "ja": "長蛇の列にショップの姿は見えず、今からこれに並ぶのかと思うと帰りたい気持ちがヒシヒシと募っていく。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "d4622f97",
+      "speaker": "まこ",
+      "ja": "推しのミリミリの限定グッズのゲリラ販売だからね～っ♪　そりゃみんな並ぶよ♪　店舗販売オンリーだしさ",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "815f348c",
+      "speaker": "まこ",
+      "ja": "まぁ転売する奴も並んでると思うけど……それは抜きにしても在庫はいっぱいあるらしいし、並んでればちゃんと買えると思うし",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "aac9b639",
+      "speaker": "{G_PlayerName}",
+      "ja": "買えるなら俺まで並ぶ必要ないだろ……？　わざわざバイト代まで払ってさ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "1684668",
+      "speaker": "まこ",
+      "ja": "それが一人一個までなんだよ……！　やっぱ観賞用と保存用は欲しいでしょ！！　だから機械っぴに手伝ってもらうんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "f4d6594f",
+      "speaker": "{G_PlayerName}",
+      "ja": "二つ買う意味があんまわからんが……まぁ並んでいるだけでいいんだったら割のいいバイトかもしれないな……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "ddda83c9",
+      "speaker": "まこ",
+      "ja": "そうそう、並んで荷物持ちするだけでいいんだから楽だよね～♪",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "5614c66",
+      "speaker": "{G_PlayerName}",
+      "ja": "待て……荷物持ちってなんだ……？　もしかして限定グッズ大量にあるのか……？",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "5f505f02",
+      "speaker": "まこ",
+      "ja": "そりゃそうだよ～♪　一つ二つなわけないじゃんっ♪　ミリミリの事務所は商魂たくましいからね～♪",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "86e15625",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……ちゃっかりしてるな……まぁいいけどさ、そのくらいなら",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "49fd8b15",
+      "speaker": "まこ",
+      "ja": "くひひっ♪　やっぱ機械っぴって話分かるね～っ♪　だから好きピなんだよ～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "b921971",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても……",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "a5b00fc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（結構女の子いるんだなぁ……男女問わず人気のアイドルなんだろうか）",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "a2941377",
+      "speaker": "",
+      "ja": "並んでも並んでも一向にショップが見えてこない。",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "a41d69dc",
+      "speaker": "",
+      "ja": "列に並んでいる間、手持無沙汰になり俺は並んでいる人たちを見ていた。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "51fd2742",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや、女の子の方が多いのか……？　まぁそういうアイドルもいるんだろうな……）",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "6cce68d0",
+      "speaker": "まこ",
+      "ja": "（む……？　機械っぴ、誰か見てる……？　あ、もしかして女の子を見てるの……！？）",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "e1f94cf0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ずいぶん派手な恰好な子もいるな……さすが美と享楽の星だ）",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "d3133476",
+      "speaker": "まこ",
+      "ja": "（む、む、むむむ……！　隣にまこがいるのに他の女の子を見ているなんてぇ……！！　機械っぴってそんな節操のない男だったの……！？）",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "872dba9c",
+      "speaker": "まこ",
+      "ja": "──まこの方がかわいいもんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "6fcb7deb",
+      "speaker": "{G_PlayerName}",
+      "ja": "──っ！？　な、なんだよ、いきなり叫んで！？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "e3683873",
+      "speaker": "まこ",
+      "ja": "うう、ううううっ！　まこのほうがかわいいの！！　かわいいったらかわいいのっ！！",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "e7c6c38b",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……そりゃまこはかわいいって……どうしたんだよ……？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "75a4ec65",
+      "speaker": "まこ",
+      "ja": "な、なんでもない……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "3a203c48",
+      "speaker": "まこ",
+      "ja": "（ううう……機械っぴが他の女の子を見ているだけでモヤモヤしてきちゃう……）",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "a874dfa2",
+      "speaker": "まこ",
+      "ja": "（まこのこと、いっぱい見てくれてもいいのに……どうしたら機械っぴはもっとまこに夢中になるんだろう……）",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "f9f8ae3e",
+      "speaker": "まこ",
+      "ja": "（なんとかまこに沼らせたいなぁ……あ！　そうだ……！　ならエッチなことすればいいじゃん！）",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "5b15a922",
+      "speaker": "まこ",
+      "ja": "（くふふ……！　そうすればまこに沼るハズ……！　まこだけ見るようになるはず……！）",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "da0e4e86",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、まこ……これどういうことだよ……！",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "fbcc250b",
+      "speaker": "",
+      "ja": "アイドルの限定グッズを買い部屋に戻ってくると、突然俺の服を脱がせ始めたまこ。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "5b5a8158",
+      "speaker": "",
+      "ja": "抵抗はしたものの、不機嫌なまこに俺は為すすべなく服をすべて脱がされてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "e8b08b",
+      "speaker": "まこ",
+      "ja": "ふーん……おちんちんおっきくなってるね～……どうしてかなぁ？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "a81746ea",
+      "speaker": "まこ",
+      "ja": "もしかして列に並んでいたときに見ていた女の子のせいでこうなったの？",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "47558306",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなわけないだろっ……！　まこにいきなり脱がせられたら、そりゃヘンに期待してしまうし……",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "546269dc",
+      "speaker": "まこ",
+      "ja": "ふーん、ふーん……",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "34def43a",
+      "speaker": "",
+      "ja": "まこは俺の言葉に一瞬笑みを見せるも、またすぐに不機嫌な表情に戻ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "ac49ca84",
+      "speaker": "まこ",
+      "ja": "でもさぁ……さっき色んな女の子物色してたじゃん……まこと違う推しを探してたんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "8f61aa52",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなつもりないって……！　ただ女の子が意外に多いなって見てただけだよ……！　女の子のアイドルってファンは男だらけって思ってたしさ……",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "89a66cc4",
+      "speaker": "まこ",
+      "ja": "ふーん……でもさぁ、女の子を見ていた事実に代わりはないでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "95a6da44",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあそうだけど……さ……！　でもやましい気持ちなんて微塵も無いって……！",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "83073865",
+      "speaker": "まこ",
+      "ja": "ふふん……まぁ機械っぴが他に推しを作ろうとしても関係ないもんね～♥",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "bb46d863",
+      "speaker": "まこ",
+      "ja": "今から機械っぴをい～っぱい気持ち良くさせてぇ……まこ以外見えなくしちゃうんだからっ♥",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "16f487b6",
+      "speaker": "",
+      "ja": "まこの言葉に俺の心臓がドクンと一際高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "b75fa01d",
+      "speaker": "",
+      "ja": "期待していた展開……肉棒がビクビクと勝手に跳ね、まこが俺の反応を見てにやりと笑った。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "8a65d9e3",
+      "speaker": "まこ",
+      "ja": "機械っぴをまこに沼らせてあげるっ♥　寝ても覚めてもまこのことしか考えられなくしちゃうもんね～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "3f32b126",
+      "speaker": "まこ",
+      "ja": "れるっ♥　れるっ……ちゅ……ちゅっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "93f1f2e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううう……！　ううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "e55c2aab",
+      "speaker": "",
+      "ja": "まこの小さな舌が亀頭の先端を舐め、ゾクっとした快感に思わず口から声が漏れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "bf5bee1a",
+      "speaker": "",
+      "ja": "俺の反応を上目遣いに見ながらチロチロとした動かしていく。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "3bfd9adf",
+      "speaker": "",
+      "ja": "小さな胸が陰茎をぐにぐにと撫で、柔らかな乳房の感触と舌の刺激が快感をもたらした。",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "bd4a7d26",
+      "speaker": "まこ",
+      "ja": "んふふ……♥　機械っぴこういうの好きでしょ？♥　ここまでしてあげられるの、たぶんまこだけだよ～♥",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "ede97fa0",
+      "speaker": "まこ",
+      "ja": "ちゅ……ちゅっ♥　んふぅ……♥　もうエッチなお汁が出てきてるぅ～♥　もっと気持ち良くなっちゃえ～♥",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "76a22eb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう、んぅぅぅ……！！　く……！！",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "bd62a23f",
+      "speaker": "",
+      "ja": "まこの唇が亀頭に何度もキスを繰り返し、先走りを吸い出すように口を窄める。",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "9ccfb6a",
+      "speaker": "",
+      "ja": "小さな舌が鈴口をレロレロと穿り、快感に悶えるように天井を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "e0acd20b",
+      "speaker": "",
+      "ja": "両脚がガクガクと震え始め、ただ立っているだけなのにそれすらも辛いのほどの快感が何度も俺を襲った。",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "e24f50e4",
+      "speaker": "まこ",
+      "ja": "んふぅ、ふぅ……♥　ちゅ、ちゅ♥　なんだかまこの想像以上に感じているね～♥　機械っぴってすっごく遊んでそうなイメージだったけど、実はそうでもなかった？♥",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "f545f310",
+      "speaker": "{G_PlayerName}",
+      "ja": "遊ぶとかそんなこと……ぐっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "f42a971a",
+      "speaker": "まこ",
+      "ja": "そっかそっか～♥　ちゅ……ちゅっ♥　ならまこに沼らせるのは簡単だね～っ♥　くふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "f87709c8",
+      "speaker": "",
+      "ja": "まこはにんまりと笑いながら乳房をさらに押し付ける。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "a1c973fd",
+      "speaker": "",
+      "ja": "柔らかな小さなふくらみが何度も陰茎を往復し、まるで先走りを搾り出すように胸を上下に動かす。",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "3a0e9a8",
+      "speaker": "",
+      "ja": "小さな舌が裏筋に触れると、思わず腰がビクンと跳ね、それがまこを余計に勢いづかせた。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "8a5331f7",
+      "speaker": "まこ",
+      "ja": "んふっ、ぢゅる、ぢゅるっ♥　機械っぴのカウパー美味し♥　いくらでもおちんちんペロペロできちゃいそ♥",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "36fc7cc8",
+      "speaker": "まこ",
+      "ja": "やっぱ好きピにはご奉仕してこそだよね～っ♥　ちゅ……れる、れろっ♥　まこがもっともっとも～～っと感じさせてあげるからね～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "f34337a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おおお……！！　まこ、それヤバ……ぐ、ぐううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "741f0253",
+      "speaker": "",
+      "ja": "まこは口をめいっぱい開けると、亀頭を飲み込み始める。",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "3605aa8c",
+      "speaker": "",
+      "ja": "舌先が執拗に裏筋を舐め、ぐにゅぐにゅと乳房を陰茎に押し付ける。",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "8581ccbf",
+      "speaker": "",
+      "ja": "息の合った三重の快感に思わず腰を引いてしまうが、まこは肉棒を吸い上げ俺の行動を阻害する。",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "3efa2276",
+      "speaker": "",
+      "ja": "されるがままにまこに肉棒を舐められ、ゾクゾクした終わりの無い快感に射精感が少しずつ大きくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "c11c4960",
+      "speaker": "まこ",
+      "ja": "（感じてる機械っぴ、すっごくイイ感じ……♥　まこのドキドキも止まらないよぉ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "9323ffff",
+      "speaker": "まこ",
+      "ja": "（やっぱ遠くのアイドルより、近くの好きピだよね……♥　いくら推しのためにお金使っても、こんなゾクゾクした快感は味わえないもん……♥）",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "e50dead0",
+      "speaker": "まこ",
+      "ja": "ぢゅるっ、ちゅっ♥　ちゅぱっ、ちゅっ！♥　んふっ♥　ふぅ、ぢゅるるる、ちゅぅぅぅぅっ！♥　ちゅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "8e7172e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、ぐっ……まこ、マジでヤバいってぇ……！　このままじゃ……ううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "d4d78aa1",
+      "speaker": "まこ",
+      "ja": "もう出ちゃう？♥　いいよ、このまままこのお口にどっぴゅんして♥　今日付き合ってくれたお礼だと思ってさ♥",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "ddef32a5",
+      "speaker": "まこ",
+      "ja": "好きピのせーえき、まこにごっくんさせて♥　んっ、ぢゅるるるっ♥　れるれるっ、ちゅちゅっ♥　ちゅうううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "5e67e11d",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、うっ……！　まこっ……！　うう、出っ、出るっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "d1d608c4",
+      "speaker": "まこ",
+      "ja": "んんんっ！？♥　んっ、んっ……んふっ、ふぅ……んぐ、んぐっ……♥　んぅぅぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "f8d7173f",
+      "speaker": "",
+      "ja": "俺はこみ上げてきた熱い塊を小さなまこの口の中に一気に吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "d4ff9052",
+      "speaker": "",
+      "ja": "射精に驚いたのか、まこは目を見開きながら射精を口で受け止める。",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "63838e7e",
+      "speaker": "まこ",
+      "ja": "（機械っぴの……多すぎぃ……！♥　こんなに出るなんてぇ……♥　飲みきれないよぉ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "6d81122f",
+      "speaker": "",
+      "ja": "まこはごくごくと喉を鳴らしながら精液を喉の奥に流し込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "e665868f",
+      "speaker": "",
+      "ja": "しかし量が多いのか、口の端から精液がどろっと零れ、そのいやらしさが俺をさらに興奮させた。",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "7d4fa309",
+      "speaker": "まこ",
+      "ja": "んはぁっ♥　機械っぴ出しすぎぃ……♥　すごすぎだってぇ……こんなに出しちゃうなんてぇ～……♥　はぁ、はぁぁぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "c851bafb",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……気持ち良くて……！",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "7a042c3a",
+      "speaker": "まこ",
+      "ja": "くひひ……謝らなくてもいいよ～♥　気持ち良かったのならそれが一番……♥",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "2cb8be5a",
+      "speaker": "まこ",
+      "ja": "でもさぁ……おちんちんまだ元気だねぇ？♥　機械っぴってもしかして性欲強すぎ人間？♥",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "779105",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはわからないけど……でも一度や二度で収まらないくらい今高ぶってるのは事実かもしれない",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "9c872716",
+      "speaker": "まこ",
+      "ja": "くふふっ♥　もう、しょうがないなぁ～♥　なら機械っぴがもうムリっていうまでまこが全力ご奉仕してあげる♥",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "38ec59b",
+      "speaker": "まこ",
+      "ja": "んふぅっ……！♥　ちゅ、ぢゅるるっ……ちゅぅぅっ！♥　れる、ちゅっ……ちゅちゅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "4f85461d",
+      "speaker": "",
+      "ja": "まこは呆れた様に言いつつも嬉しそうな様子で再び肉棒を口に咥えていく。",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "ed8da729",
+      "speaker": "",
+      "ja": "射精直後の過敏な亀頭が柔らかで暖かなモノに包まれ、下半身がゾクゾクと震える。",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "23fb2bad",
+      "speaker": "",
+      "ja": "まこのフェラをもう一度味わえる……その期待から肉棒が痛みを発するほどガチガチに硬くなってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "c558c8ff",
+      "speaker": "まこ",
+      "ja": "（機械っぴ、本当にすごすぎ……♥　ふつー、一度出したら萎え萎えになんのに……♥）",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "4f5c4f8b",
+      "speaker": "まこ",
+      "ja": "（でもでも……好きピならこのくらい性欲が強い方が良いよね……♥　もし本番することがあったら……♥　うう、想像するだけでおまんこ疼いてくるよぉ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "14cfd0ae",
+      "speaker": "まこ",
+      "ja": "ぢゅるっ、ちゅぱっ♥　ちゅ……ちゅっ！！♥　れる、れろぉ……ちゅちゅっ！♥　ぢゅるるるっ、ちゅうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "12dfdad1",
+      "speaker": "",
+      "ja": "まこの動きが先ほどよりも大きくなり、顔を小刻みに上下に揺らす。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "de24390f",
+      "speaker": "",
+      "ja": "小さな舌が裏筋をぐいっと押し、小さな乳房で懸命に陰茎を扱き続ける。",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "3d272936",
+      "speaker": "",
+      "ja": "普段のまことは違う献身的なフェラ……そんなまこに興奮すると同時に愛しさがさらに強くなっていくのを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "afc4adc",
+      "speaker": "まこ",
+      "ja": "んふぅ……♥　もうカウパーどっぱどっぱすごいよ……♥　ほらぁ……もっとまこのお口の中汚してぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "6aedca63",
+      "speaker": "まこ",
+      "ja": "せーえきでもカウパーでも機械っぴのなら大歓迎だからさぁ……♥　んふぅ、ちゅ……ちゅうううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "1e5ad3b1",
+      "speaker": "",
+      "ja": "まこの表情が快楽に歪み、頬をへこませるほど肉棒をぢゅるぢゅると吸い上げる。",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "1a18c49a",
+      "speaker": "",
+      "ja": "俺の息がまた上がり始め、まこを支えにしないと立てないほど下半身に力が入らない。",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "a1b607ff",
+      "speaker": "",
+      "ja": "両脚をガクガクと震わせながら、まこのご奉仕の嬉しさに完全に身を委ねていた。",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "c8d07210",
+      "speaker": "まこ",
+      "ja": "（感じてる機械っぴ、ホントサイコーだなぁ～♥　もっとご奉仕したくなってきちゃうよ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "4a6bcb48",
+      "speaker": "まこ",
+      "ja": "（ゾクゾクが止まらないぃ……♥　もっとまこで喜んで……♥　もっとまこに沼って……♥　まこだけを見て……まこだけで喜んで……♥）",
+      "zh": ""
+    },
+    {
+      "key": "402.0",
+      "line_index": 402,
+      "inline_index": 0,
+      "line_hash": "59fa6cc",
+      "speaker": "まこ",
+      "ja": "ぢゅるるっ、ちゅっ、ちゅっ！！♥　んんっ、ちゅ……れる、れるっ！♥　んぅーっ、ちゅ、ちゅううっ！♥　ぢゅるぶ、ぢゅるちゅうううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "405.0",
+      "line_index": 405,
+      "inline_index": 0,
+      "line_hash": "df1ce4fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "まこっ、はげしいって……！！　そんなされたらまたすぐに……！！",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "8309b27c",
+      "speaker": "まこ",
+      "ja": "いいよ、何度でも出してよぉ……♥　機械っぴのせーえき飲ませてぇ～♥　ちゅ、ぢゅるるるるっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "d0f87668",
+      "speaker": "",
+      "ja": "まこのいやらしい表情が俺の気持ちを煽る。",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "cb70230",
+      "speaker": "",
+      "ja": "さっき出したばかりなのに、まこの口と胸の間で肉棒がビクンと激しく暴れる。",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "a2cb7bde",
+      "speaker": "",
+      "ja": "小さな舌が亀頭を執拗に舐め回し、鈴口を舌先で穿られる快感に目の前がチカチカとし始めた。",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "553b64ee",
+      "speaker": "まこ",
+      "ja": "んふ、んふっ♥　ほら、機械っぴ……出して……♥　出せ、出せっ♥　まこにせーえきごっくんさせろぉっ♥",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "93b2d506",
+      "speaker": "まこ",
+      "ja": "ちゅちゅっ♥　れる、れるっ♥　まこのお口とおっぱいに負けちゃえっ♥　沼っちゃえっ♥　ちゅぢゅっ、ちゅううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "3bc62805",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう、う゛っ！！　もうダメ……！　まこ……！！　出る、出るぅぅぅぅっ！！",
+      "zh": ""
+    },
+    {
+      "key": "434.0",
+      "line_index": 434,
+      "inline_index": 0,
+      "line_hash": "76b0f040",
+      "speaker": "まこ",
+      "ja": "んふっ！♥　んぅ、ふう、ふぅぅっ！！♥　ん、ごくっ……ごくっ……！♥　んぐっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "89a55365",
+      "speaker": "{G_PlayerName}",
+      "ja": "う゛っ！　うううう……！！　ぐ、う゛っ！！",
+      "zh": ""
+    },
+    {
+      "key": "440.0",
+      "line_index": 440,
+      "inline_index": 0,
+      "line_hash": "383a0019",
+      "speaker": "",
+      "ja": "俺はうなり声を上げながら腰をビクンと跳ねさせる。",
+      "zh": ""
+    },
+    {
+      "key": "442.0",
+      "line_index": 442,
+      "inline_index": 0,
+      "line_hash": "16ae8687",
+      "speaker": "",
+      "ja": "その直後、熱い塊が一気に陰茎を駆け上がり、まこの口内を真っ白に汚していく。",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "9c8e90f2",
+      "speaker": "まこ",
+      "ja": "（機械っぴ、またいっぱい出してるぅ……！♥　まこでいっぱい感じてくれて嬉しい～っ♥　もっと射精して……まこのお口せーえきでいっぱいにしてぇ♥）",
+      "zh": ""
+    },
+    {
+      "key": "448.0",
+      "line_index": 448,
+      "inline_index": 0,
+      "line_hash": "31d066b",
+      "speaker": "まこ",
+      "ja": "ふぅ、んはぁ……♥　ほらほら、見てぇ……機械っぴのせーえき、まこの口の中いっぱいだよ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "450.0",
+      "line_index": 450,
+      "inline_index": 0,
+      "line_hash": "102e9fa6",
+      "speaker": "",
+      "ja": "まこの口内に溜まりに溜まっていた大量の精液。",
+      "zh": ""
+    },
+    {
+      "key": "451.0",
+      "line_index": 451,
+      "inline_index": 0,
+      "line_hash": "9eacaaa0",
+      "speaker": "",
+      "ja": "それを見せられ、ヘンに興奮した俺はさらにびゅるびゅると射精してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "453.0",
+      "line_index": 453,
+      "inline_index": 0,
+      "line_hash": "71fb95c4",
+      "speaker": "",
+      "ja": "まこの顔をびちゃびちゃと精液が汚して、それが嬉しいのかまこの表情がさらにいやらしく緩んでいった。",
+      "zh": ""
+    },
+    {
+      "key": "456.0",
+      "line_index": 456,
+      "inline_index": 0,
+      "line_hash": "91db251c",
+      "speaker": "まこ",
+      "ja": "ん、んっ……こく……ごく……ごくんっ♥　ぷはぁ～っ♥　機械っぴのいっぱい飲んじゃった♥",
+      "zh": ""
+    },
+    {
+      "key": "459.0",
+      "line_index": 459,
+      "inline_index": 0,
+      "line_hash": "279146f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "まこ……お前、エッチ過ぎだって……",
+      "zh": ""
+    },
+    {
+      "key": "463.0",
+      "line_index": 463,
+      "inline_index": 0,
+      "line_hash": "379a0baa",
+      "speaker": "まこ",
+      "ja": "んふふふ～っ♥　機械っぴを沼らせるにはこのくらいしないとね～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "466.0",
+      "line_index": 466,
+      "inline_index": 0,
+      "line_hash": "152149b2",
+      "speaker": "まこ",
+      "ja": "もうまこ以外の女に興味無くしたでしょ？♥　これからはまこが機械っぴのおちんちんいくらでもご奉仕してあげる♥",
+      "zh": ""
+    },
+    {
+      "key": "469.0",
+      "line_index": 469,
+      "inline_index": 0,
+      "line_hash": "c3b3cbc4",
+      "speaker": "まこ",
+      "ja": "だから～……まこだけを見てね？♥　次浮気したら……もっと気持ちの良いお仕置きしちゃうから♥　んふふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "471.0",
+      "line_index": 471,
+      "inline_index": 0,
+      "line_hash": "abb24f2d",
+      "speaker": "",
+      "ja": "俺はまこに礼をするようにそっと頭を撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "473.0",
+      "line_index": 473,
+      "inline_index": 0,
+      "line_hash": "383aded2",
+      "speaker": "",
+      "ja": "まこは嬉しそうに目を細めながら、俺をさらに興奮させようとしているのか、いつまでも小さな胸を陰茎に押し付けているのであった。",
+      "zh": ""
+    }
+  ]
+}
