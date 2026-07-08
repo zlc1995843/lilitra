@@ -1,0 +1,1597 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "16bf7782",
+      "speaker": "雫",
+      "ja": "で、できました……！",
+      "zh": "成、成功了……！"
+    },
+    {
+      "key": "17.2",
+      "line_index": 17,
+      "inline_index": 2,
+      "line_hash": "16bf7782",
+      "speaker": "雫",
+      "ja": "この妙薬入りのジュースを飲ませればルミナ様もわたくしに……うふふっ♥",
+      "zh": "只要让她喝下这加了妙药的果汁，露米娜大人也会对我……唔呼呼♥"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "52f75d21",
+      "speaker": "雫",
+      "ja": "ついにルミナ様と一線を越える時が来ましたのね……！♥",
+      "zh": "终于，和露米娜大人跨越那一步的时候到了……！！♥"
+    },
+    {
+      "key": "21.4",
+      "line_index": 21,
+      "inline_index": 4,
+      "line_hash": "52f75d21",
+      "speaker": "雫",
+      "ja": "ああ、想像するだけで……う、鼻血が出てしまいそうです……！♥",
+      "zh": "啊，光是想想……唔，鼻血都快流出来了……！！♥"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "3added2a",
+      "speaker": "雫",
+      "ja": "いけないいけない……妄想はもう卒業しなくては……。",
+      "zh": "不行不行……不能再妄想下去了……。"
+    },
+    {
+      "key": "25.2",
+      "line_index": 25,
+      "inline_index": 2,
+      "line_hash": "3added2a",
+      "speaker": "雫",
+      "ja": "だってこれからは妄想が現実に……",
+      "zh": "因为接下来妄想就要变成现实了……"
+    },
+    {
+      "key": "25.5",
+      "line_index": 25,
+      "inline_index": 5,
+      "line_hash": "3added2a",
+      "speaker": "雫",
+      "ja": "はぁ～♥",
+      "zh": "哈啊～♥"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "afd76392",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだ？　キッチンから灯りが……",
+      "zh": "嗯？厨房那边有灯亮着……"
+    },
+    {
+      "key": "35.2",
+      "line_index": 35,
+      "inline_index": 2,
+      "line_hash": "afd76392",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう深夜なのに誰か起きているのかな……",
+      "zh": "都这么晚了，还有人没睡吗……"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "9e44046a",
+      "speaker": "",
+      "ja": "喉が渇きキッチンに水を飲みに来ると、",
+      "zh": "喉咙渴了，到厨房来喝水，"
+    },
+    {
+      "key": "38.2",
+      "line_index": 38,
+      "inline_index": 2,
+      "line_hash": "9e44046a",
+      "speaker": "",
+      "ja": "ドアの隙間から灯りが漏れていた。",
+      "zh": "看到门缝里透出光来。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "9f5ccb12",
+      "speaker": "",
+      "ja": "別に誰がいてもいいか、と特に気にせずにドアを開ける。",
+      "zh": "反正不管谁在都无所谓，我也没多想，就推开了门。"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "c3a7d4f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫……？",
+      "zh": "雍……？"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "a2962e17",
+      "speaker": "雫",
+      "ja": "──ビクぅっ！？　な、なな、なっ！？　",
+      "zh": "——噫！？ 你、你你、你怎么！？"
+    },
+    {
+      "key": "57.2",
+      "line_index": 57,
+      "inline_index": 2,
+      "line_hash": "a2962e17",
+      "speaker": "雫",
+      "ja": "ど、どうしてあなたが……！！　",
+      "zh": "为、为什么你会在这儿……！！"
+    },
+    {
+      "key": "57.5",
+      "line_index": 57,
+      "inline_index": 5,
+      "line_hash": "a2962e17",
+      "speaker": "雫",
+      "ja": "ま、まさかずっと見ていましたの！？",
+      "zh": "难、难道你一直看着吗！！？"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "56e7c2e7",
+      "speaker": "",
+      "ja": "キッチンにいた雫に声を掛けると、妙に慌てた様子を見せる。",
+      "zh": "我朝厨房里的雍搭话，她却显得慌慌张张的。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "214170e",
+      "speaker": "",
+      "ja": "雫が何故慌てているのかまったくわからず、",
+      "zh": "完全不明白雍为什么慌张，"
+    },
+    {
+      "key": "60.2",
+      "line_index": 60,
+      "inline_index": 2,
+      "line_hash": "214170e",
+      "speaker": "",
+      "ja": "とりあえず水を飲もうと冷蔵庫に近づく。",
+      "zh": "总之先靠近冰箱去倒水喝。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "b4134649",
+      "speaker": "雫",
+      "ja": "こ、こっちに来ないでくださいましっ！　",
+      "zh": "请、请不要过来！！"
+    },
+    {
+      "key": "64.2",
+      "line_index": 64,
+      "inline_index": 2,
+      "line_hash": "b4134649",
+      "speaker": "雫",
+      "ja": "いったいこんな夜中に何の用ですの！？　",
+      "zh": "你到底这么晚了有什么事！！？"
+    },
+    {
+      "key": "64.6",
+      "line_index": 64,
+      "inline_index": 6,
+      "line_hash": "b4134649",
+      "speaker": "雫",
+      "ja": "ま、ま、まさか……よ、夜這いっ！？",
+      "zh": "难、难、难道……是、是来夜袭的吗！！？"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "e0fad225",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁっ！？　な、何言ってんだよっ！　そんなことするわけないだろっ！",
+      "zh": "哈啊！？ 你、你在说什么啊！！ 我怎么可能是来干那种事的！！"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "bdd53b35",
+      "speaker": "雫",
+      "ja": "いいえ！　わたくしは誤魔化されません！！",
+      "zh": "不！！ 我可不会被你糊弄过去！！"
+    },
+    {
+      "key": "72.4",
+      "line_index": 72,
+      "inline_index": 4,
+      "line_hash": "bdd53b35",
+      "speaker": "雫",
+      "ja": "その目は夜這いをしに来た、そう言っていますものっ！！",
+      "zh": "你那眼神明明就是在说，你是来夜袭的！！"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "275d897e",
+      "speaker": "{G_PlayerName}",
+      "ja": "んな無茶苦茶な……！",
+      "zh": "也太不讲理了……！！"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "ec869f56",
+      "speaker": "",
+      "ja": "いつも雫には捲し立てられているが、",
+      "zh": "虽然平时总是被雍戏弄，"
+    },
+    {
+      "key": "78.2",
+      "line_index": 78,
+      "inline_index": 2,
+      "line_hash": "ec869f56",
+      "speaker": "",
+      "ja": "今日はいつにも増して俺に突っかかってくる。",
+      "zh": "但今天她比平时更加跟我对着干。"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "c6d4e7a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は喉乾いたから水飲みに来ただけだって……ん？",
+      "zh": "我只是因为口渴来喝口水……嗯？"
+    },
+    {
+      "key": "81.2",
+      "line_index": 81,
+      "inline_index": 2,
+      "line_hash": "c6d4e7a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジュースあるじゃん。雫飲まないのか？　だったら俺が貰うぞ",
+      "zh": "这不是有果汁嘛。雍不喝吗？那我就不客气啦。"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "ab1512d1",
+      "speaker": "雫",
+      "ja": "ちょ、ちょっと！　何勝手に飲もうとしていますのっ！",
+      "zh": "等、等一下！！ 谁许你随便喝的！！"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "cf33ae9c",
+      "speaker": "",
+      "ja": "ジュースの入っていたコップを掴もうとすると、慌てて奪い取る雫。",
+      "zh": "我刚要去拿装着果汁的杯子，雍就慌忙抢了过去。"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "9f83cf7a",
+      "speaker": "",
+      "ja": "大事そうに背後にジュース入りのコップを隠し、",
+      "zh": "她像宝贝似的把果汁杯子藏到身后，"
+    },
+    {
+      "key": "91.2",
+      "line_index": 91,
+      "inline_index": 2,
+      "line_hash": "9f83cf7a",
+      "speaker": "",
+      "ja": "ギロリと俺を睨みつけてくる。",
+      "zh": "狠狠瞪了我一眼。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "e92d521b",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、そんな睨むことないだろっ。",
+      "zh": "你、你干嘛，用得着这么瞪我吗。"
+    },
+    {
+      "key": "94.2",
+      "line_index": 94,
+      "inline_index": 2,
+      "line_hash": "e92d521b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ていうか何でそんなに慌ててんだよ？　そのジュース何かあるのか？",
+      "zh": "话说回来，你为什么这么慌张？那果汁有什么问题吗？"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "92efa74",
+      "speaker": "雫",
+      "ja": "な、ななな、何でもありませんっ！　",
+      "zh": "没、没没没、没什么！！"
+    },
+    {
+      "key": "99.2",
+      "line_index": 99,
+      "inline_index": 2,
+      "line_hash": "92efa74",
+      "speaker": "雫",
+      "ja": "ただのジュースですからっ！！　決してやましいことなど……！！",
+      "zh": "就是普通的果汁！！ 绝对没有见不得人的事情……！！"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "de34df83",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……怪しいな？　",
+      "zh": "????????"
+    },
+    {
+      "key": "102.2",
+      "line_index": 102,
+      "inline_index": 2,
+      "line_hash": "de34df83",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかしてメチャクチャ高級なジュースとかだったり？",
+      "zh": "难道是什么超级高级的果汁？"
+    },
+    {
+      "key": "102.4",
+      "line_index": 102,
+      "inline_index": 4,
+      "line_hash": "de34df83",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで夜な夜な一人でこっそり楽しもうと……",
+      "zh": "所以才会在夜里一个人偷偷享用……"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "b5ea8fb5",
+      "speaker": "雫",
+      "ja": "そんなわけありませんっ！　至ってフツーのジュースですっ！",
+      "zh": "才没有！！ 就是普普通通的果汁！！"
+    },
+    {
+      "key": "107.4",
+      "line_index": 107,
+      "inline_index": 4,
+      "line_hash": "b5ea8fb5",
+      "speaker": "雫",
+      "ja": "ただわたくしも喉が渇いていて……",
+      "zh": "只是我也口渴了……"
+    },
+    {
+      "key": "107.6",
+      "line_index": 107,
+      "inline_index": 6,
+      "line_hash": "b5ea8fb5",
+      "speaker": "雫",
+      "ja": "そう、今から飲もうとしていたんですっ！",
+      "zh": "对、我刚正要喝呢！！"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "eae0fcd4",
+      "speaker": "雫",
+      "ja": "あーっ！　叫んだら喉が渇きましたっ！　ゴクゴクゴクっ！！",
+      "zh": "?????????????????"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "a91e710d",
+      "speaker": "雫",
+      "ja": "あああーーーーっ！？　し、しまった……！！　",
+      "zh": "唔啊啊啊啊！！？ 糟、糟了……！！"
+    },
+    {
+      "key": "120.2",
+      "line_index": 120,
+      "inline_index": 2,
+      "line_hash": "a91e710d",
+      "speaker": "雫",
+      "ja": "つい勢いで飲んでしまいました……！！",
+      "zh": "一不留神就喝下去了……！！"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "d0bd0688",
+      "speaker": "雫",
+      "ja": "は、謀りましたねっ！？　",
+      "zh": "哈、你算计我！！？"
+    },
+    {
+      "key": "125.3",
+      "line_index": 125,
+      "inline_index": 3,
+      "line_hash": "d0bd0688",
+      "speaker": "雫",
+      "ja": "この卑怯者……！！",
+      "zh": "你这个卑鄙小人……！！"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "c25b3899",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよっ！　俺何もしてないだろっ！",
+      "zh": "你、你干嘛啊！！ 我又没做什么！！"
+    },
+    {
+      "key": "128.2",
+      "line_index": 128,
+      "inline_index": 2,
+      "line_hash": "c25b3899",
+      "speaker": "{G_PlayerName}",
+      "ja": "そもそも謀ったとかなんだよっ？　やっぱそのジュース何かあったのか！？",
+      "zh": "说到底，这算哪门子算计啊？果然那果汁有鬼吧！？"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "2c8d5ee3",
+      "speaker": "雫",
+      "ja": "べ、べべ、別に何も……ただのリンゴジュー……うっ？♥",
+      "zh": "没、没什么啦……只是普通的苹果汁……嗯？♥"
+    },
+    {
+      "key": "133.4",
+      "line_index": 133,
+      "inline_index": 4,
+      "line_hash": "2c8d5ee3",
+      "speaker": "雫",
+      "ja": "うあ……あ、あぁっ……効き目が……ううううっ！♥",
+      "zh": "呜啊……啊、啊啊……药效……呜呜呜！♥"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "e97f0cc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい？　ど、どうしたんだよ？　大丈夫か？　汗すごいぞ？",
+      "zh": "喂、喂？你、你怎么了？没事吧？怎么出这么多汗？"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "d173b50d",
+      "speaker": "雫",
+      "ja": "こ、これ……想像より、効き目が……♥",
+      "zh": "这、这个……比想象的还……药劲好强……♥"
+    },
+    {
+      "key": "140.4",
+      "line_index": 140,
+      "inline_index": 4,
+      "line_hash": "d173b50d",
+      "speaker": "雫",
+      "ja": "あ、ああ……ダメ、ダメ……あああ……♥　ガマンが……！♥",
+      "zh": "啊、啊啊……不行、不行……啊啊啊……♥忍、忍不住了……！♥"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "3f55ddfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁっ！？　お、おいっ！？　なんだよ！　",
+      "zh": "呜哇啊啊！？喂、喂！？搞什么啊！"
+    },
+    {
+      "key": "145.2",
+      "line_index": 145,
+      "inline_index": 2,
+      "line_hash": "3f55ddfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "いきなり押し倒して……！",
+      "zh": "突然就把我推倒……！"
+    },
+    {
+      "key": "145.4",
+      "line_index": 145,
+      "inline_index": 4,
+      "line_hash": "3f55ddfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "って！　おい！　何服脱がそうとしてんだっ！！",
+      "zh": "喂！你脱我衣服干嘛！！"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "ad4d04ed",
+      "speaker": "雫",
+      "ja": "う、うるさいです……！♥　だ、黙っていてくださいっ！♥",
+      "zh": "烦、烦死了……！♥给我闭嘴！♥"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "d3a650d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "や、やめろっ！　おい！　本当に脱がすなってぇぇっ！！",
+      "zh": "住、住手！喂！我叫你别脱了啊！！"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "22a44d7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう！　お前何考えて……よ、夜這いしてきたのはお前の方じゃないか！",
+      "zh": "呜！你想什么呢……喂，明明是你自己跑来夜袭我的吧！"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "27daa145",
+      "speaker": "",
+      "ja": "雫は顔を真っ赤にしながら俺の服を脱がすと、肉棒をそっと掴む。",
+      "zh": "雫满脸通红地脱掉我的衣服，轻轻握住了肉棒。"
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "217be969",
+      "speaker": "",
+      "ja": "いきなりの雫の行動にただただ困惑し、",
+      "zh": "面对雫突如其来的举动，我只能愣在原地，"
+    },
+    {
+      "key": "173.2",
+      "line_index": 173,
+      "inline_index": 2,
+      "line_hash": "217be969",
+      "speaker": "",
+      "ja": "何もできずに雫のされるがままになってしまう。",
+      "zh": "完全无法反抗，任她摆布。"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "86368a0f",
+      "speaker": "雫",
+      "ja": "ち、違います……！♥　これは、その……事故のようなもので……！♥",
+      "zh": "不、不是那样的……！♥这、这只是……意外……！♥"
+    },
+    {
+      "key": "176.2",
+      "line_index": 176,
+      "inline_index": 2,
+      "line_hash": "86368a0f",
+      "speaker": "雫",
+      "ja": "わたくしの意思ではないのです……！♥",
+      "zh": "不是我本人的意思……！♥"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "b5afb66",
+      "speaker": "雫",
+      "ja": "だからヘンな勘違いはしないように……！♥　わかりましたねっ！？♥",
+      "zh": "所以别乱想什么奇怪的事情……！♥知道了没有！？♥"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "f303687a",
+      "speaker": "{G_PlayerName}",
+      "ja": "何わけのわからないことを……うあっ！？　く、うう……！！",
+      "zh": "你都说些什么乱七八糟的……呜啊！？呃、呜呜……！！"
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "ddf49e5a",
+      "speaker": "",
+      "ja": "雫は俺を睨みながらぺろぺろと乳首を舐め始め、思わず声が漏れ出す。",
+      "zh": "雫一边瞪着我，一边开始舔我的乳头，我不由得叫出了声。"
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "49cc30bc",
+      "speaker": "",
+      "ja": "行動と言動が全然噛み合っていない様子に、",
+      "zh": "她嘴上说着不要，身体却完全不听使唤，"
+    },
+    {
+      "key": "187.2",
+      "line_index": 187,
+      "inline_index": 2,
+      "line_hash": "49cc30bc",
+      "speaker": "",
+      "ja": "いったい雫の身に何が起きているのかまったくわからなくなってしまう。",
+      "zh": "我彻底搞不清楚雫到底怎么了。"
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "3ac9ec27",
+      "speaker": "雫",
+      "ja": "こんなに勃起させて……なんてハレンチな人……♥",
+      "zh": "让我硬成这样……真是个下流货色……♥"
+    },
+    {
+      "key": "190.2",
+      "line_index": 190,
+      "inline_index": 2,
+      "line_hash": "3ac9ec27",
+      "speaker": "雫",
+      "ja": "恥を知りなさい……♥　このヘンタイ……！♥",
+      "zh": "不知羞耻……♥你这个变态……！♥"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "f8a21e1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前が乳首舐めるからだろ……ううっ！　ちょ！　吸うなって……！！",
+      "zh": "那还不是因为你舔我乳头……呜！喂！别吸啊……！！"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "1214e54f",
+      "speaker": "雫",
+      "ja": "なんて熱いおちんちん……♥　こんな汚らわしいモノにルミナ様は……！♥",
+      "zh": "好烫的肉棒……♥露米娜大人竟然会被这种脏东西……！♥"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "b33ae33",
+      "speaker": "{G_PlayerName}",
+      "ja": "う……うう……！　雫……や、やめろって……うぅ！",
+      "zh": "呃……呜呜……！雫……快、快住手……呜！"
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "92a20371",
+      "speaker": "",
+      "ja": "雫は乳首を舐め回しながら、小さな手で肉棒を扱き始める。",
+      "zh": "雫一边舔着我的乳头，一边用小手开始套弄肉棒。"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "16a663cc",
+      "speaker": "",
+      "ja": "リズミカルに陰茎を擦られ、ぞわぞわした快感に腰が震えあがる。",
+      "zh": "她带着节奏摩擦着我的肉棒，酥麻的快感让我腰都软了。"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "f80f87f7",
+      "speaker": "雫",
+      "ja": "れる……♥　ちゅ、ちゅ♥　手コキ嬉しいでしょう？♥",
+      "zh": "要出来了……？♥啾♥我用手弄，舒服吗？♥"
+    },
+    {
+      "key": "212.2",
+      "line_index": 212,
+      "inline_index": 2,
+      "line_hash": "f80f87f7",
+      "speaker": "雫",
+      "ja": "このヘンタイ男……♥　もっと感じてしまいなさい♥",
+      "zh": "你这个变态男……♥再多享受一会儿吧♥"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "62508eb2",
+      "speaker": "{G_PlayerName}",
+      "ja": "襲って来た雫の方がヘンタイだろっ……！　",
+      "zh": "明明是你袭击我，你才变态吧……！"
+    },
+    {
+      "key": "215.2",
+      "line_index": 215,
+      "inline_index": 2,
+      "line_hash": "62508eb2",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分のこと棚に上げるなって……！",
+      "zh": "别说得跟自己没关系似的……！"
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "e4a37321",
+      "speaker": "雫",
+      "ja": "うるさいです♥　わたくしにはあなたを襲う理由がきちんとありますっ♥",
+      "zh": "烦死了♥我袭击你是有正经理由的♥"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "a58ee78a",
+      "speaker": "{G_PlayerName}",
+      "ja": "くう……！　ど、どんな理由だよっ……ああーっ！",
+      "zh": "呃……！你、你倒是说说什么理由啊……啊啊—！"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "b7c1e46a",
+      "speaker": "",
+      "ja": "雫の手がカリに触れ、肉棒がビクンと跳ねあがる。",
+      "zh": "雫的手碰到了龟头，肉棒猛地一跳。"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "87026b30",
+      "speaker": "",
+      "ja": "俺が感じるほどに雫の大きな瞳が潤み、頬がさらに紅く染まる。",
+      "zh": "我越有感觉，雫的大眼睛就越湿润，脸颊也更红了。"
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "98410e19",
+      "speaker": "",
+      "ja": "完全に”女”として発情してしまい、",
+      "zh": "她完全变成了一头发情的雌兽，"
+    },
+    {
+      "key": "228.2",
+      "line_index": 228,
+      "inline_index": 2,
+      "line_hash": "98410e19",
+      "speaker": "",
+      "ja": "こちらのことなど構うことなく速いストロークで肉棒を擦り上げていく。",
+      "zh": "毫不顾忌我的感受，飞快地套弄着肉棒。"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "34afe230",
+      "speaker": "雫",
+      "ja": "はぁ♥　はぁ♥　カウパーが……♥",
+      "zh": "哈啊♥哈啊♥先走汁流出来了……♥"
+    },
+    {
+      "key": "231.2",
+      "line_index": 231,
+      "inline_index": 2,
+      "line_hash": "34afe230",
+      "speaker": "雫",
+      "ja": "あなたのせいで手が……か弱い女を汚してなんて人なの……♥",
+      "zh": "都怪你，手都……你居然玷污我这样的弱女子，太不是人了……♥"
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "d61b4055",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前もう言ってることがメチャクチャだぞっ……！　",
+      "zh": "你说话都语无伦次了……！"
+    },
+    {
+      "key": "234.2",
+      "line_index": 234,
+      "inline_index": 2,
+      "line_hash": "d61b4055",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐううっ！ダメだ、そんなに強くしないでくれぇっ！　あああ……っ！！",
+      "zh": "呃呜呜！不行，别那么用力……啊啊啊……！！"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "11ca7eda",
+      "speaker": "",
+      "ja": "乳首を愛撫される気持ち良さと、",
+      "zh": "乳头被爱抚的舒服感，"
+    },
+    {
+      "key": "237.2",
+      "line_index": 237,
+      "inline_index": 2,
+      "line_hash": "11ca7eda",
+      "speaker": "",
+      "ja": "肉棒を扱かれる気持ち良さが混ざり合い、",
+      "zh": "和肉棒被套弄的快感混在一起，"
+    },
+    {
+      "key": "237.4",
+      "line_index": 237,
+      "inline_index": 4,
+      "line_hash": "11ca7eda",
+      "speaker": "",
+      "ja": "思考がぐちゃぐちゃになっていく。",
+      "zh": "脑子乱成一团。"
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "c35c3bc2",
+      "speaker": "雫",
+      "ja": "なんて弱いおちんちん……わたくし、手コキなど初めてですのに♥",
+      "zh": "好敏感的鸡鸡……我可是第一次给人打手枪啊♥"
+    },
+    {
+      "key": "240.2",
+      "line_index": 240,
+      "inline_index": 2,
+      "line_hash": "c35c3bc2",
+      "speaker": "雫",
+      "ja": "身体は逞しくて立派ですけど……おちんちんはザコザコですね♥",
+      "zh": "虽然身体很健壮，不过鸡鸡却很没用呢♥"
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "854216c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "うあ……！　あああぁっ！　雫、それダメだ……！　マジでヤバイっ！！",
+      "zh": "呜啊……！啊啊啊！雫、那里不行……！真的要糟！！"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "d9f00839",
+      "speaker": "",
+      "ja": "乳首を何度も甘噛みされ、気持ち良さに全身が震える。",
+      "zh": "乳头被反复轻咬，舒服得我全身发抖。"
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "6d79ef2c",
+      "speaker": "",
+      "ja": "先走りが洪水のように先端から溢れ、肉棒がテカテカと光る。",
+      "zh": "淫水像洪水般从尖端溢出，肉棒闪闪发亮。"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "8cf7512f",
+      "speaker": "",
+      "ja": "先走りの滑りを利用しながら何度も肉棒を刺激され、",
+      "zh": "借着淫水的湿滑，肉棒被反复刺激，"
+    },
+    {
+      "key": "249.2",
+      "line_index": 249,
+      "inline_index": 2,
+      "line_hash": "8cf7512f",
+      "speaker": "",
+      "ja": "もう射精の限界を迎えつつあった。",
+      "zh": "已经快要射精的极限了。"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "3457a607",
+      "speaker": "雫",
+      "ja": "なんて顔……女に襲われて喜んで……♥　",
+      "zh": "瞧你这张脸……被女生欺负还这么高兴……♥"
+    },
+    {
+      "key": "252.2",
+      "line_index": 252,
+      "inline_index": 2,
+      "line_hash": "3457a607",
+      "speaker": "雫",
+      "ja": "ああ……♥　その顔、その声、胸が高鳴るぅ……♥　身体、熱くなるぅ♥",
+      "zh": "啊……♥ 这张脸，这声音，让我心跳加速……♥ 身体，热起来了♥"
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "98b5ae01",
+      "speaker": "雫",
+      "ja": "ほら、もっと感じなさい……♥　ザコザコおちんちんもっと喜びなさいっ♥",
+      "zh": "来，再好好感受一下……♥ 没用的鸡鸡，再兴奋点嘛♥"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "31fb543d",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ！　待って……これ以上は……うううっ！！",
+      "zh": "呃！等等……再这样下去……唔唔唔！！"
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "e93da243",
+      "speaker": "雫",
+      "ja": "待ちません♥　あなたの情けなくイクところ、",
+      "zh": "不等哦♥ 你可怜兮兮射爆的样子，"
+    },
+    {
+      "key": "262.2",
+      "line_index": 262,
+      "inline_index": 2,
+      "line_hash": "e93da243",
+      "speaker": "雫",
+      "ja": "しっかりと見せてもらいますから♥",
+      "zh": "我会好好看着的♥"
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "45dc8a26",
+      "speaker": "{G_PlayerName}",
+      "ja": "あああっ！　雫ぅ……あ、ああっ！　も、もうダメだ……！！",
+      "zh": "啊啊啊！雫……啊、啊啊！已、已经不行了……！！"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "aa8fb294",
+      "speaker": "雫",
+      "ja": "ほらほら♥　おイキなさいっ♥",
+      "zh": "来嘛来嘛♥ 快射出来吧♥"
+    },
+    {
+      "key": "269.2",
+      "line_index": 269,
+      "inline_index": 2,
+      "line_hash": "aa8fb294",
+      "speaker": "雫",
+      "ja": "わたくしの手で天国へ連れて行って差し上げますっ！♥",
+      "zh": "让我亲手送你上天堂吧♥"
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "265ddac8",
+      "speaker": "",
+      "ja": "雫は嬉しそうに微笑み、さらにはげしく肉棒を扱く。",
+      "zh": "雫开心地微笑着，更激烈地撸动肉棒。"
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "c0a148f0",
+      "speaker": "",
+      "ja": "ぢゅるっと音が出るほど乳首を吸い上げ、",
+      "zh": "吮吸乳头到发出啾噜声，"
+    },
+    {
+      "key": "272.2",
+      "line_index": 272,
+      "inline_index": 2,
+      "line_hash": "c0a148f0",
+      "speaker": "",
+      "ja": "睾丸から熱いモノが一気に昇ってくる。",
+      "zh": "睾丸里一股热流猛地升起。"
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "f05f1d53",
+      "speaker": "雫",
+      "ja": "さあイって……！♥　ザコおちんちんから精液いっぱい吐き出してっ！♥",
+      "zh": "来，射吧……！♥ 用你这小杂鱼鸡巴尽情吐出精液吧！♥"
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "27103540",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐううっ！　う、うううううっ！　ふううっ！！",
+      "zh": "唔唔唔！唔、唔唔唔唔唔！呼唔！！"
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "e77b8046",
+      "speaker": "",
+      "ja": "陰茎を駆け上がるモノを一気に吐き出すと、噴水のように飛び出す。",
+      "zh": "从阴茎涌上来的东西一口气射出，像喷泉一样喷溅而出。"
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "2db98127",
+      "speaker": "",
+      "ja": "俺の射精に頬緩ませる雫。",
+      "zh": "雫看着我射精，嘴角泛起笑意。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "6651b7b3",
+      "speaker": "",
+      "ja": "さらに精液を搾り取る様に肉竿を扱き続け、",
+      "zh": "继续撸动着肉棒，仿佛要把精液全部榨干，"
+    },
+    {
+      "key": "292.2",
+      "line_index": 292,
+      "inline_index": 2,
+      "line_hash": "6651b7b3",
+      "speaker": "",
+      "ja": "何度も熱いモノを吐き出してしまう。",
+      "zh": "一次又一次喷出滚烫的液体。"
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "1b080a27",
+      "speaker": "雫",
+      "ja": "くふふ♥　本当に射精するなんて♥",
+      "zh": "呵呵♥ 竟然真的射精了♥"
+    },
+    {
+      "key": "295.2",
+      "line_index": 295,
+      "inline_index": 2,
+      "line_hash": "1b080a27",
+      "speaker": "雫",
+      "ja": "好きでもない相手にされてイってしまうなんてサイテーですね♥",
+      "zh": "被不喜欢的对象弄到射出来，你可真够下贱的♥"
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "40ea4359",
+      "speaker": "雫",
+      "ja": "しかもこんなに大量に……♥",
+      "zh": "而且还射了这么多……♥"
+    },
+    {
+      "key": "298.2",
+      "line_index": 298,
+      "inline_index": 2,
+      "line_hash": "40ea4359",
+      "speaker": "雫",
+      "ja": "そんなにわたくしの手は気持ち良かったのですか？♥",
+      "zh": "我的手法就这么舒服吗？♥"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "e123336b",
+      "speaker": "",
+      "ja": "くすくすと笑いながら罵倒してくる雫。",
+      "zh": "雫嗤笑着辱骂着我。"
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "c3dd3a48",
+      "speaker": "",
+      "ja": "射精が収まっても手コキを止めず、",
+      "zh": "即使射完，手也还是继续撸动，"
+    },
+    {
+      "key": "302.2",
+      "line_index": 302,
+      "inline_index": 2,
+      "line_hash": "c3dd3a48",
+      "speaker": "",
+      "ja": "敏感な肉竿の刺激に腰を捩らせ、快感の声が漏れ出てしまう。",
+      "zh": "敏感的肉棒在刺激下，腰身不住扭动，快感的呻吟泄漏出来。"
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "7508cd1d",
+      "speaker": "雫",
+      "ja": "まだおちんちん硬いまま……♥　",
+      "zh": "小鸡鸡还是硬邦邦的……♥"
+    },
+    {
+      "key": "305.2",
+      "line_index": 305,
+      "inline_index": 2,
+      "line_hash": "7508cd1d",
+      "speaker": "雫",
+      "ja": "どうやらヘンタイザコおちんちんを",
+      "zh": "看来，你这变态小杂鱼鸡巴"
+    },
+    {
+      "key": "305.4",
+      "line_index": 305,
+      "inline_index": 4,
+      "line_hash": "7508cd1d",
+      "speaker": "雫",
+      "ja": "もっと可愛がってほしいみたいですね♥",
+      "zh": "是想让我再多疼爱一下呢♥"
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "ba66d4d0",
+      "speaker": "雫",
+      "ja": "本当に仕方のないお人……♥　さあもっと感じさせてあげます♥　",
+      "zh": "真是个拿你没辙的人呢……♥ 来，让我再让你更舒服♥"
+    },
+    {
+      "key": "308.2",
+      "line_index": 308,
+      "inline_index": 2,
+      "line_hash": "ba66d4d0",
+      "speaker": "雫",
+      "ja": "おちんちん喜ばせてあげます♥",
+      "zh": "让鸡巴开心一下哦♥"
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "adba24e6",
+      "speaker": "雫",
+      "ja": "……この、ヘンタイ♥",
+      "zh": "……你这个、变态♥"
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "1b49cf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、あ……雫……うう、乳首……か、感じるぅ……！！",
+      "zh": "唔、啊……雫……唔、乳头……感、感觉到了……！！"
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "7579f2d7",
+      "speaker": "",
+      "ja": "雫の小さな舌が再び乳首を舐め始める。",
+      "zh": "雫小巧的舌头又开始舔舐乳头。"
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "961d9d69",
+      "speaker": "",
+      "ja": "しかし先ほどとは違い、",
+      "zh": "但是和刚才不同，"
+    },
+    {
+      "key": "324.2",
+      "line_index": 324,
+      "inline_index": 2,
+      "line_hash": "961d9d69",
+      "speaker": "",
+      "ja": "今度は丁寧に舐められゾクゾクと快感が背筋を駆ける。",
+      "zh": "这一次被细致地舔弄，阵阵快感窜过脊背。"
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "1660517d",
+      "speaker": "雫",
+      "ja": "ちゅ……♥　れる……♥　あなたの乳首……なんだか甘くて美味しい♥",
+      "zh": "啾……♥ 舔舔……♥ 你的乳头……甜甜的，真好吃♥"
+    },
+    {
+      "key": "327.2",
+      "line_index": 327,
+      "inline_index": 2,
+      "line_hash": "1660517d",
+      "speaker": "雫",
+      "ja": "わたくし、どうしてしまったのでしょう……♥　ちゅ……れるんっ♥",
+      "zh": "我、我这是怎么了……♥ 啾……舔舔♥"
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "8867da32",
+      "speaker": "",
+      "ja": "うっとりと乳首を舐め続ける雫。",
+      "zh": "雫陶醉地继续舔着乳头。"
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "668d5b73",
+      "speaker": "",
+      "ja": "精液まみれの肉棒を扱く速度もどんどん上がり、",
+      "zh": "撸动沾满精液的肉棒的速度也越来越快，"
+    },
+    {
+      "key": "330.2",
+      "line_index": 330,
+      "inline_index": 2,
+      "line_hash": "668d5b73",
+      "speaker": "",
+      "ja": "現実感の無い気持ち良さに、もう声をあげるのが精一杯になってしまう。",
+      "zh": "这种不真实的快感，让人连叫出声都用尽了全力。"
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "d5375340",
+      "speaker": "雫",
+      "ja": "ふふん♥　ヘンタイ顔がよりヘンタイになっていますね♥",
+      "zh": "哼哼♥ 你这张变态脸更变态了呢♥"
+    },
+    {
+      "key": "333.2",
+      "line_index": 333,
+      "inline_index": 2,
+      "line_hash": "d5375340",
+      "speaker": "雫",
+      "ja": "本当にだらしのない顔……♥　その顔を見ているだけで……",
+      "zh": "真是一脸没出息的样儿……♥ 光是看着那张脸……"
+    },
+    {
+      "key": "333.4",
+      "line_index": 333,
+      "inline_index": 4,
+      "line_hash": "d5375340",
+      "speaker": "雫",
+      "ja": "身体、火照って……♥",
+      "zh": "身体，就燥热起来……♥"
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "fc933fa5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう雫だってエッチな顔して……うう！！",
+      "zh": "这样的雫，不是也一脸色色的表情……唔！！"
+    },
+    {
+      "key": "336.2",
+      "line_index": 336,
+      "inline_index": 2,
+      "line_hash": "fc933fa5",
+      "speaker": "{G_PlayerName}",
+      "ja": "か、カリ、そんなに擦らないでくれぇ！！　あああっ！！",
+      "zh": "龟、龟头，别那么使劲擦啊！！ 啊啊啊！！"
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "f5f8d5d9",
+      "speaker": "",
+      "ja": "カリ首を執拗に扱かれ、腰が浮かび上がるほどの快感が襲う。",
+      "zh": "龟头冠被执拗地套弄，快感强烈到让人腰都浮了起来。"
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "1110537f",
+      "speaker": "",
+      "ja": "もう俺の乳首と肉棒の感じるところを完全に把握したのか、",
+      "zh": "已经彻底掌握了我的乳头和肉棒的敏感点了吗，"
+    },
+    {
+      "key": "341.2",
+      "line_index": 341,
+      "inline_index": 2,
+      "line_hash": "1110537f",
+      "speaker": "",
+      "ja": "より的確に舌を這わせ、そして肉棒を扱きあげる。",
+      "zh": "用舌头更精准地舔弄，然后套弄肉棒。"
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "632eba12",
+      "speaker": "雫",
+      "ja": "ふぅ♥　ふぅ♥　どうやらまた射精に達してしまいそうですね♥",
+      "zh": "呼♥　呼♥　看来又要射出来了呢♥"
+    },
+    {
+      "key": "344.2",
+      "line_index": 344,
+      "inline_index": 2,
+      "line_hash": "632eba12",
+      "speaker": "雫",
+      "ja": "なんて情けないおちんちんですこと♥",
+      "zh": "多么可怜的小鸡鸡啊♥"
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "eeaa2729",
+      "speaker": "雫",
+      "ja": "こんなザコおちんちんにルミナ様は任せられません♥",
+      "zh": "这么废的小鸡鸡，可不能交给露米娜大人♥"
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "c508dcbc",
+      "speaker": "雫",
+      "ja": "徹底的に精液を抜き取って、",
+      "zh": "彻底把你的精液榨干，"
+    },
+    {
+      "key": "350.2",
+      "line_index": 350,
+      "inline_index": 2,
+      "line_hash": "c508dcbc",
+      "speaker": "雫",
+      "ja": "ルミナ様にエッチな視線を向けられないようにしてあげますっ♥",
+      "zh": "让你再也没法用色色的眼神看露米娜大人♥"
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "822c7c00",
+      "speaker": "{G_PlayerName}",
+      "ja": "くううっ！　雫っ！　ダメだ、また……く、ぐうううっ！",
+      "zh": "唔呃！　閏！　不行、又要……唔、咕呃呃！"
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "a9c9b871",
+      "speaker": "雫",
+      "ja": "ほらほら、先ほどみたいに派手に射精してください♥",
+      "zh": "好啦好啦，像刚才那样痛快地射出来吧♥"
+    },
+    {
+      "key": "357.2",
+      "line_index": 357,
+      "inline_index": 2,
+      "line_hash": "a9c9b871",
+      "speaker": "雫",
+      "ja": "もう一度わたくしにあなたがイクところを見せてくださいっ♥",
+      "zh": "再让我看一次你射精的样子吧♥"
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "15808bfe",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう……射精るっ！　う、うううっ！！",
+      "zh": "呃……射了！　唔、呃呃呃！！"
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "c4c9e448",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああっ！　くっ！　うあ、ああーっ！！",
+      "zh": "啊啊！　呃！　呜啊、啊啊—！！"
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "45be298",
+      "speaker": "雫",
+      "ja": "くふふ♥　出てる出てる♥　すごい勢いです♥",
+      "zh": "呵呵♥　射出来了射出来了♥　势头好猛啊♥"
+    },
+    {
+      "key": "376.2",
+      "line_index": 376,
+      "inline_index": 2,
+      "line_hash": "45be298",
+      "speaker": "雫",
+      "ja": "ほら、もっとですよ♥　もっとわたくしの手で",
+      "zh": "来，继续射啊♥　用我的手让你射得更多……"
+    },
+    {
+      "key": "376.4",
+      "line_index": 376,
+      "inline_index": 4,
+      "line_hash": "45be298",
+      "speaker": "雫",
+      "ja": "ぴゅっぴゅしてくださいっ♥",
+      "zh": "尽情地射吧♥"
+    },
+    {
+      "key": "378.0",
+      "line_index": 378,
+      "inline_index": 0,
+      "line_hash": "5c8976cd",
+      "speaker": "",
+      "ja": "雫は射精している肉棒を何度も扱き、",
+      "zh": "閏反复套弄着正在射精的肉棒，"
+    },
+    {
+      "key": "378.2",
+      "line_index": 378,
+      "inline_index": 2,
+      "line_hash": "5c8976cd",
+      "speaker": "",
+      "ja": "されるがままに何度も白濁液を搾り取っていく。",
+      "zh": "任由她摆布，一次又一次地榨出白浊的精液。"
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "dcee5603",
+      "speaker": "雫",
+      "ja": "ふふ……♥　最初はグロテスクなモノと思っていますけど、",
+      "zh": "呵呵……♥　虽然一开始觉得这东西挺恶心的，"
+    },
+    {
+      "key": "381.2",
+      "line_index": 381,
+      "inline_index": 2,
+      "line_hash": "dcee5603",
+      "speaker": "雫",
+      "ja": "無様に射精しているおちんちんはずいぶんと可愛らしいですね♥",
+      "zh": "但这么狼狈地射精的小鸡鸡，倒也挺可爱的呢♥"
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "d63812db",
+      "speaker": "雫",
+      "ja": "初めて手コキされる女にこんなに射精して……♥",
+      "zh": "第一次被女人打手枪就射这么多……♥"
+    },
+    {
+      "key": "384.2",
+      "line_index": 384,
+      "inline_index": 2,
+      "line_hash": "d63812db",
+      "speaker": "雫",
+      "ja": "あなたのおちんちんはわたくしの手に完全敗北ですね♥　うふふふっ♥",
+      "zh": "你的小鸡鸡完全败在我手里了呢♥　唔呵呵呵♥"
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "ac9c0b6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう！　も、もう扱くのやめろって……！　あああ……！！",
+      "zh": "呃！　别、别再撸了……！　啊啊啊……！！"
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "385fff85",
+      "speaker": "雫",
+      "ja": "ダメです♥　まだまだおちんちんは硬いまま……♥",
+      "zh": "不行哦♥　你的小鸡鸡还硬邦邦的呢……♥"
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "a0b7f1e8",
+      "speaker": "雫",
+      "ja": "もうわたくし以外の女……とくにルミナ様に勃起しないように、",
+      "zh": "为了让你不会再对其他女人……特别是露米娜大人勃起，"
+    },
+    {
+      "key": "394.2",
+      "line_index": 394,
+      "inline_index": 2,
+      "line_hash": "a0b7f1e8",
+      "speaker": "雫",
+      "ja": "しっかりと躾けをせねば……♥　ちゅ……れるれるぅ♥　れるんっ♥",
+      "zh": "得好好调教你才行……♥　啾……噜噜噜♥　嗯♥"
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "303113d8",
+      "speaker": "",
+      "ja": "雫は再び乳首を責め、執拗に肉棒を扱く。",
+      "zh": "閏再次玩弄乳头，执着地套弄着肉棒。"
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "eb6f8fad",
+      "speaker": "",
+      "ja": "二度の強烈な射精で完全に力が抜け落ちた俺は、",
+      "zh": "连续两次猛烈射精后，我全身无力，"
+    },
+    {
+      "key": "398.2",
+      "line_index": 398,
+      "inline_index": 2,
+      "line_hash": "eb6f8fad",
+      "speaker": "",
+      "ja": "雫のされるがままに感じさせられてしまうのであった。",
+      "zh": "只能任由閏摆布，被迫感受快感。"
+    }
+  ]
+}

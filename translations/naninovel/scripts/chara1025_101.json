@@ -1,0 +1,796 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "6114e038",
+      "speaker": "マロウ",
+      "ja": "あっ！　{G_PlayerName}！　探していたんすよっ！",
+      "zh": "啊！{G_PlayerName}！我正找你呢！"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "d7716af",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、そんなに慌てて……",
+      "zh": "干嘛呀，慌慌张张的……"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "df4bbeb4",
+      "speaker": "マロウ",
+      "ja": "今暇っすか！？　暇っすよね！？",
+      "zh": "现在有空吧？你肯定有空吧！？"
+    },
+    {
+      "key": "28.3",
+      "line_index": 28,
+      "inline_index": 3,
+      "line_hash": "df4bbeb4",
+      "speaker": "マロウ",
+      "ja": "暇で暇でしょうがないっすよね！？　時間有り余っているっすよね！？",
+      "zh": "闲着也是闲着，对吧？你时间多得没处花，对吧？"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "a7769e8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（か、顔近……！）",
+      "zh": "（脸、脸凑太近了……！）"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "8e4e667c",
+      "speaker": "マロウ",
+      "ja": "暇っすよね！？！？　退屈しているっすよね！？！？",
+      "zh": "你闲着呢吧？很无聊对不对？"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "3907b299",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんで執拗に暇なのを訪ねるんだ？　何だか嫌な予感が……）",
+      "zh": "（干嘛老问我闲不闲啊……有种不祥的预感……）"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "a22d8eb4",
+      "speaker": "マロウ",
+      "ja": "暇って言うっすよ！　{G_PlayerName}！",
+      "zh": "我就说你有空吧！{G_PlayerName}！"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "6246cefb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……ひ、暇、だぞ……",
+      "zh": "呃、呃……是有空啦……"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "eb4653a9",
+      "speaker": "マロウ",
+      "ja": "ふふん、マロウの思っていた通りっす。あんたからは暇暇オーラが出ていたっすからねっ",
+      "zh": "哼哼，果然跟我想的一样。你浑身都散发着“我很闲”的气场呢。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "d08fe54a",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、どっちかと言うと暇と言わされた方が適切だろ……",
+      "zh": "该怎么说呢，与其说有空，不如说很闲更恰当……"
+    },
+    {
+      "key": "59.2",
+      "line_index": 59,
+      "inline_index": 2,
+      "line_hash": "d08fe54a",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁいいや、それで何か用か？",
+      "zh": "算了，找我有事？"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "79e9cde6",
+      "speaker": "マロウ",
+      "ja": "あんたはアイディル船長の凄さを知らないっすよねぇ？",
+      "zh": "你不知道艾迪尔船长有多厉害吧！？"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "4868d291",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……確かに凄さは知らないなぁ……。それっぽい行動をしているの見たこともないし",
+      "zh": "嗯……确实不太了解……也没见她做过什么了不起的事啊。"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "421e9174",
+      "speaker": "{G_PlayerName}",
+      "ja": "最近じゃ本当に海賊の頭なのか、それすらも疑わしく思えてきているかも",
+      "zh": "最近我都怀疑她是不是真的海盗头子了。"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "9ea575dd",
+      "speaker": "マロウ",
+      "ja": "はぁ～……どいつもこいつも同じ意見っすねぇ～……。",
+      "zh": "唉～……你们怎么都这么说啊……"
+    },
+    {
+      "key": "74.3",
+      "line_index": 74,
+      "inline_index": 3,
+      "line_hash": "9ea575dd",
+      "speaker": "マロウ",
+      "ja": "アイディル船長は凄さの割にナメられすぎっすよ",
+      "zh": "艾迪尔船长明明那么厉害，却总是被小瞧。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "bc8d8cb",
+      "speaker": "マロウ",
+      "ja": "でもあれだけセクシーでカリスマに溢れて",
+      "zh": "不过她既性感又魅力四射，"
+    },
+    {
+      "key": "77.3",
+      "line_index": 77,
+      "inline_index": 3,
+      "line_hash": "bc8d8cb",
+      "speaker": "マロウ",
+      "ja": "可愛ければナメられてしまうのも当然かもしれないっすけど",
+      "zh": "又那么可爱，被小看也情有可原啦。"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "4b4e07fc",
+      "speaker": "マロウ",
+      "ja": "でもでも！　それでも海賊としては凄い御方なんすよ！",
+      "zh": "但是啊！就算这样她作为海盗还是很厉害的！"
+    },
+    {
+      "key": "82.3",
+      "line_index": 82,
+      "inline_index": 3,
+      "line_hash": "4b4e07fc",
+      "speaker": "マロウ",
+      "ja": "あんたもそれを早く分かるっすよ！！",
+      "zh": "你很快就会明白的！！"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "e803e5c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "だぁっ！　いちいち顔近づけるなって！",
+      "zh": "哇！别动不动就把脸凑过来！"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "bf3d02eb",
+      "speaker": "マロウ",
+      "ja": "すまないっす、つい興奮しちゃったっす",
+      "zh": "抱歉，我太激动了。"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "3e5a8cc5",
+      "speaker": "マロウ",
+      "ja": "だから今日はあんたにアイディル船長の",
+      "zh": "所以今天我要给你讲讲艾迪尔船长"
+    },
+    {
+      "key": "96.3",
+      "line_index": 96,
+      "inline_index": 3,
+      "line_hash": "3e5a8cc5",
+      "speaker": "マロウ",
+      "ja": "素晴らしくて凄いところを説いておくっす！　感謝するっすよっ！",
+      "zh": "她的厉害和了不起之处！你可得好好感谢我！"
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "952073cf",
+      "speaker": "マロウ",
+      "ja": "ちゃんとプレゼン用のスライドも用意しているっすよ！",
+      "zh": "我还专门准备了演示用的幻灯片呢！"
+    },
+    {
+      "key": "99.3",
+      "line_index": 99,
+      "inline_index": 3,
+      "line_hash": "952073cf",
+      "speaker": "マロウ",
+      "ja": "今準備するから大人しく待っているっす！",
+      "zh": "我现在就准备，你乖乖等着！"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "1469a69",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うーん……別にそんなの知りたくはないんだが……）",
+      "zh": "（呃……其实我并不想知道……）"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "d88c35ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いちいち付き合うのも面倒だ、ここはこっそりと……）",
+      "zh": "（每次都应付太麻烦了，不如趁机溜……）"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "3689a6c",
+      "speaker": "マロウ",
+      "ja": "あっ！　どこ行こうとしているんすか！！",
+      "zh": "啊！你想去哪儿！！"
+    },
+    {
+      "key": "113.3",
+      "line_index": 113,
+      "inline_index": 3,
+      "line_hash": "3689a6c",
+      "speaker": "マロウ",
+      "ja": "ちゃんと見張っているんすからね！　大人しくしてるっす！",
+      "zh": "我可盯着你呢！给我老实待着！"
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "fbf08f5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やれやれ……逃げたら逃げたでめんどくさいことになりそうだ……。",
+      "zh": "（唉……要是逃了更麻烦……"
+    },
+    {
+      "key": "116.2",
+      "line_index": 116,
+      "inline_index": 2,
+      "line_hash": "fbf08f5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょうがない、何をするのか知らないけど、付き合うか……）",
+      "zh": "算了，不知道要干啥，就陪她一下吧……）"
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "a9482890",
+      "speaker": "マロウ",
+      "ja": "さぁさぁ、アイディル船長の武勇伝の始まり始まりっす！　拍手するっすよ！",
+      "zh": "来来来，艾迪尔船长的英雄事迹要开讲啦！鼓掌！"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": "哦、哦……"
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "83dbd117",
+      "speaker": "マロウ",
+      "ja": "まずはアイディル船長の素晴らしい功績から説明するっす！　スライドを見るっす！",
+      "zh": "首先介绍艾迪尔船长的辉煌功绩！请看幻灯片！"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "f4aee1f",
+      "speaker": "マロウ",
+      "ja": "ここはとある惑星……今この星は滅亡の危機に瀕しているっす",
+      "zh": "这里是某颗星球……现在这颗星球正面临灭亡的危机。"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "833d5674",
+      "speaker": "マロウ",
+      "ja": "なんとこの星には直径１００キロを超える隕石が迫っているっすよ……",
+      "zh": "你们知道吗，这颗星球正被一颗直径超过100公里的陨石逼近……"
+    },
+    {
+      "key": "136.3",
+      "line_index": 136,
+      "inline_index": 3,
+      "line_hash": "833d5674",
+      "speaker": "マロウ",
+      "ja": "こんなのがぶつかったら星はひとたまりもないっす",
+      "zh": "这要是撞上，星球会瞬间完蛋。"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "8ba9d52a",
+      "speaker": "マロウ",
+      "ja": "人々は嘆き、悲しみ、もはやできることは天に祈るのみ……",
+      "zh": "人们哀叹、悲伤，只能向天祈祷……"
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "485fb955",
+      "speaker": "マロウ",
+      "ja": "しかしっす！　そんな状況をアイディル船長が知り、",
+      "zh": "然而！艾迪尔船长知道了这件事，"
+    },
+    {
+      "key": "142.3",
+      "line_index": 142,
+      "inline_index": 3,
+      "line_hash": "485fb955",
+      "speaker": "マロウ",
+      "ja": "悲しき星の人たちのために立ち上がったっす！",
+      "zh": "为了那颗悲伤星球上的人们挺身而出！"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "ab45cc06",
+      "speaker": "マロウ",
+      "ja": "なんとアイディル船長は一人爆弾を持って隕石に乗り込み、",
+      "zh": "艾迪尔船长居然一个人带着炸弹登上了陨石，"
+    },
+    {
+      "key": "145.3",
+      "line_index": 145,
+      "inline_index": 3,
+      "line_hash": "ab45cc06",
+      "speaker": "マロウ",
+      "ja": "そしてどっかーんっ！　なんと隕石を一人で爆弾一つで破壊してしまったっす！",
+      "zh": "然后轰隆一下！！一个人仅用一颗炸弹就把陨石炸毁了！！"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "2955f957",
+      "speaker": "マロウ",
+      "ja": "いやぁ～、素晴らしいっすね～♪　悲しき人々のために、",
+      "zh": "哎呀～，真是太厉害了～♪ 为了悲伤的人们，"
+    },
+    {
+      "key": "148.3",
+      "line_index": 148,
+      "inline_index": 3,
+      "line_hash": "2955f957",
+      "speaker": "マロウ",
+      "ja": "危険も顧みず一人で隕石に乗り込む……なかなかできることじゃないっすよ！",
+      "zh": "不顾危险，独自登上陨石……这可不是一般人能做到的！"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "156dada7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや、なんだこのありえない話は……。",
+      "zh": "（我去，这故事也太离谱了吧……"
+    },
+    {
+      "key": "151.2",
+      "line_index": 151,
+      "inline_index": 2,
+      "line_hash": "156dada7",
+      "speaker": "{G_PlayerName}",
+      "ja": "明らかにツッコミどころ満載の作り話じゃないか……）",
+      "zh": "这明显是槽点满满的瞎编故事吧……）"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "9eda79f4",
+      "speaker": "マロウ",
+      "ja": "次のお話に行くっす！　あんたはたぶん知らないだろうっすけど、",
+      "zh": "接下来！你可能不知道，"
+    },
+    {
+      "key": "155.3",
+      "line_index": 155,
+      "inline_index": 3,
+      "line_hash": "9eda79f4",
+      "speaker": "マロウ",
+      "ja": "アイディル船長は宇宙の危機も救ったんっすよ！",
+      "zh": "艾迪尔船长还拯救过宇宙的危机呢！"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "79fd663e",
+      "speaker": "マロウ",
+      "ja": "スライドを観るっす！　このブラックホールの爆発を止めたのもアイディル船長っす！",
+      "zh": "来看幻灯片！阻止黑洞爆炸的也是艾迪尔船长啦！"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "33ecc5ee",
+      "speaker": "マロウ",
+      "ja": "このブラックホールが爆発したら色々ヤバかったみたいっすよ～。",
+      "zh": "这黑洞要是真炸了，那可就麻烦大啦～。"
+    },
+    {
+      "key": "161.3",
+      "line_index": 161,
+      "inline_index": 3,
+      "line_hash": "33ecc5ee",
+      "speaker": "マロウ",
+      "ja": "ほっといたら銀河がパズルのように",
+      "zh": "放着不管的话，银河就会像拼图一样，"
+    },
+    {
+      "key": "161.5",
+      "line_index": 161,
+      "inline_index": 5,
+      "line_hash": "33ecc5ee",
+      "speaker": "マロウ",
+      "ja": "バラバラになってしまうほどの危機だったみたいっす！",
+      "zh": "碎成一片一片的大危机呢！"
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "23d88c5f",
+      "speaker": "マロウ",
+      "ja": "それを頭脳明晰なアイディル船長はちょちょいって解決っす！",
+      "zh": "头脑清晰的艾迪尔船长三两下就搞定了！"
+    },
+    {
+      "key": "164.3",
+      "line_index": 164,
+      "inline_index": 3,
+      "line_hash": "23d88c5f",
+      "speaker": "マロウ",
+      "ja": "いやぁ～！　アイディル船長は勇敢で勇猛で、",
+      "zh": "哎呀～！艾迪尔船长勇敢又威猛，"
+    },
+    {
+      "key": "164.5",
+      "line_index": 164,
+      "inline_index": 5,
+      "line_hash": "23d88c5f",
+      "speaker": "マロウ",
+      "ja": "なんて頭の良いカリスマ船長なんでしょうねぇ～♪",
+      "zh": "真是个头脑灵光、魅力非凡的船长呢～♪"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "fa78f06e",
+      "speaker": "マロウ",
+      "ja": "今あんたが生きているのもアイディル船長のおかげっすよ！　感謝するよーにっす！！",
+      "zh": "你现在能活着也是多亏了艾迪尔船长！可要好好感谢她啊！"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "ea5dc51a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もはや本気なのか冗談なのかわけがわからん……",
+      "zh": "（搞不懂她是认真的还是在开玩笑……"
+    },
+    {
+      "key": "174.2",
+      "line_index": 174,
+      "inline_index": 2,
+      "line_hash": "ea5dc51a",
+      "speaker": "{G_PlayerName}",
+      "ja": "証拠も何もないのに、何を根拠にそんな話を信じればいいんだよ……）",
+      "zh": "什么证据都没有，凭什么让我相信这种话啊……）"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "78e3e7d6",
+      "speaker": "マロウ",
+      "ja": "どうっすか？　アイディル船長の二つの多大な功績は？　最高っすよね？",
+      "zh": "怎么样？艾迪尔船长的两大丰功伟绩？超厉害吧？"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "12bb8304",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……えっと……うん、まぁ、そのすごい、な……うん……",
+      "zh": "啊——……呃……嗯，那个，确实很厉害……嗯……"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "115588fb",
+      "speaker": "マロウ",
+      "ja": "そうっすよね！　そうっすよね！　あんたなら分かってくれると思っていたっすよ！",
+      "zh": "就是吧！就是吧！我就知道你能理解的！"
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "de8f0b65",
+      "speaker": "マロウ",
+      "ja": "それじゃあ次は海賊の船長としての素晴らしさを説明するっすよ！",
+      "zh": "那接下来，就来说说她当海盗船长有多厉害！"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "88bea0e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ？　まだあるの？",
+      "zh": "——诶？还没完啊？"
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "d37db5a6",
+      "speaker": "マロウ",
+      "ja": "当たり前じゃないっすか！　アイディル船長を語るにはまだまだ全然っすよ！",
+      "zh": "当然啦！要讲艾迪尔船长，还差得远呢！"
+    },
+    {
+      "key": "195.3",
+      "line_index": 195,
+      "inline_index": 3,
+      "line_hash": "d37db5a6",
+      "speaker": "マロウ",
+      "ja": "アイディル船長の功績や実力はこの宇宙で一番なんすから！",
+      "zh": "艾迪尔船长的功绩和实力，可是宇宙第一呢！"
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "38d56c1",
+      "speaker": "マロウ",
+      "ja": "さぁ続けるっすよ！　次のスライドを観るっす──",
+      "zh": "好，继续啦！来看下一张幻灯片——"
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "4ce80454",
+      "speaker": "マロウ",
+      "ja": "──とまぁ、こんな感じで敵をずばばーんってやっつけたっすよっ！",
+      "zh": "——就像这样，哐哐几下就把敌人收拾了！"
+    },
+    {
+      "key": "212.3",
+      "line_index": 212,
+      "inline_index": 3,
+      "line_hash": "4ce80454",
+      "speaker": "マロウ",
+      "ja": "いやぁ！　さすがアイディル船長！　たまらないっすよねぇ～！",
+      "zh": "哎呀！不愧是艾迪尔船长！真是让人受不了啊～！"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "a7a03336",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もう何時間話しているんだ……。",
+      "zh": "（都讲了多少个小时了……）"
+    },
+    {
+      "key": "215.2",
+      "line_index": 215,
+      "inline_index": 2,
+      "line_hash": "a7a03336",
+      "speaker": "{G_PlayerName}",
+      "ja": "疲れと眠気が……よくもまぁこんなに次々と話を作れるものだな……）",
+      "zh": "又累又困的……还真能一个接一个地往下编啊……）"
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "5d04f71f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもそれだけマロウがアイディルのことを敬っているってことなんだろうけど、",
+      "zh": "（不过这也说明玛洛是真的很崇拜艾迪尔呢，"
+    },
+    {
+      "key": "219.2",
+      "line_index": 219,
+      "inline_index": 2,
+      "line_hash": "5d04f71f",
+      "speaker": "{G_PlayerName}",
+      "ja": "聞かされる方はたまったものじゃないな……）",
+      "zh": "但听的人可真受不了……）"
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "99451395",
+      "speaker": "マロウ",
+      "ja": "アイディル船長のエピソードはまだまだあるんすけど、今はこれでおしまいっす",
+      "zh": "艾迪尔船长的故事还多着呢，不过今天就先讲到这里啦。"
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "d08f74c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……終わったのか……",
+      "zh": "是、是吗……终于结束了啊……"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "364c36dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっと終わってくれたのか……やっと解放される……）",
+      "zh": "（终于讲完了……总算能解脱了……）"
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "40d809be",
+      "speaker": "マロウ",
+      "ja": "それじゃあ次はアイディル船長の休日編っす！",
+      "zh": "那么接下来是艾迪尔船长的假日篇！"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "3e7e2366",
+      "speaker": "{G_PlayerName}",
+      "ja": "──は？",
+      "zh": "——啊？"
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "61a6442c",
+      "speaker": "マロウ",
+      "ja": "アイディル船長の華麗な休日のスライドを観つつ、",
+      "zh": "一边欣赏艾迪尔船长度假的精彩照片，"
+    },
+    {
+      "key": "241.3",
+      "line_index": 241,
+      "inline_index": 3,
+      "line_hash": "61a6442c",
+      "speaker": "マロウ",
+      "ja": "マロウ達もそれに倣って休憩するっす！",
+      "zh": "我们也照着样子歇一歇！"
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "835a913c",
+      "speaker": "マロウ",
+      "ja": "まずは優雅なお茶会編っす！",
+      "zh": "首先是优雅的茶会篇！"
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "9e9ea6a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、も、もう勘弁しれくれぇっ……！　俺を開放してくれぇ～！",
+      "zh": "饶、饶了我吧……！放我自由吧～！"
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "a80911fe",
+      "speaker": "マロウ",
+      "ja": "あっ！　どこ行くすか！　逃がさないっすよっ！",
+      "zh": "啊！你去哪儿！别想跑啊！"
+    },
+    {
+      "key": "254.3",
+      "line_index": 254,
+      "inline_index": 3,
+      "line_hash": "a80911fe",
+      "speaker": "マロウ",
+      "ja": "マロウと一緒に優雅なお茶会をするっす！！",
+      "zh": "来和我玛洛一起开个优雅的茶会吧！！"
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "b2dcf027",
+      "speaker": "マロウ",
+      "ja": "休日編のあとは就寝編もあるんっすからねっ！",
+      "zh": "假日篇之后还有睡觉篇呢！"
+    },
+    {
+      "key": "257.3",
+      "line_index": 257,
+      "inline_index": 3,
+      "line_hash": "b2dcf027",
+      "speaker": "マロウ",
+      "ja": "今日は一日アイディル船長漬けっすよっ！！",
+      "zh": "今天一整天都给你安排得满满的，全是艾迪尔船长的事！！"
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "e53f07b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ～……さすがに今回の仕事はきつかったな……",
+      "zh": ""
+    },
+    {
+      "key": "15.2",
+      "line_index": 15,
+      "inline_index": 2,
+      "line_hash": "e53f07b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "機械も早く触りたいのに、こう忙しいと中々……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "31e05170",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　ケット……？　何しているんだろ……？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "457f648a",
+      "speaker": "鳥",
+      "ja": "ぐわーっ、くー……くーっ",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "89972b85",
+      "speaker": "ケット",
+      "ja": "ふふっ……そうなんだ～？　すごいね～",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "dd83fc6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……鳥と話しているのか？　いや、そんなまさか……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "72c9550",
+      "speaker": "鳥",
+      "ja": "ぐわ、ぐわっ",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "420f4dc5",
+      "speaker": "ケット",
+      "ja": "あ、それケットも知っているよ！　あはは、ケットも結構物知りでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "56ddfd8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……確実に会話しているな……鳥もうなずいているし……。そんなこと可能なのか……？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "5f8a07f5",
+      "speaker": "ケット",
+      "ja": "──あっ！？　おにぃちゃん！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "bfb21328",
+      "speaker": "{G_PlayerName}",
+      "ja": "やぁ、ケット。こんなとこで何しているんだ？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "1dc02e7",
+      "speaker": "ケット",
+      "ja": "鳥さんとお話いていたんだよ。おにぃちゃんも一緒にお話ししない？",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "bb44d8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に話をしていたのか……というか、鳥の言葉とか分かるのか？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "7d707944",
+      "speaker": "ケット",
+      "ja": "うん！　ここの鳥さん達っておしゃべりだから、",
+      "zh": ""
+    },
+    {
+      "key": "58.3",
+      "line_index": 58,
+      "inline_index": 3,
+      "line_hash": "7d707944",
+      "speaker": "ケット",
+      "ja": "暇な時にお話し相手になってもらっているんだよ",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "31fca9df",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ意思の疎通ができるのはいいことだよな。",
+      "zh": ""
+    },
+    {
+      "key": "61.2",
+      "line_index": 61,
+      "inline_index": 2,
+      "line_hash": "31fca9df",
+      "speaker": "{G_PlayerName}",
+      "ja": "言葉は分からずとも、そういうのは大事だと思うし",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "4f26a0d8",
+      "speaker": "ケット",
+      "ja": "違うよ～！　鳥さんの言葉もちゃんとわかっているよーっ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "458633dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　本当に鳥が何言っているか分かっているの？",
+      "zh": ""
+    },
+    {
+      "key": "68.2",
+      "line_index": 68,
+      "inline_index": 2,
+      "line_hash": "458633dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "何となく分かるとかそういうのじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "decddcb9",
+      "speaker": "ケット",
+      "ja": "ちゃんとわかるよっ",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9803faea",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……俺には何言っているのかさっぱりわからんな……。",
+      "zh": ""
+    },
+    {
+      "key": "75.2",
+      "line_index": 75,
+      "inline_index": 2,
+      "line_hash": "9803faea",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐわーぐわーとしか聞こえん……",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "1e12c9b6",
+      "speaker": "鳥",
+      "ja": "ぐわーっ！　ぐわーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "cb8273e0",
+      "speaker": "ケット",
+      "ja": "ほら、鳥さんも”お話できているよ”って怒っているよ！",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "9a536352",
+      "speaker": "{G_PlayerName}",
+      "ja": "怒って……いるのか？",
+      "zh": ""
+    },
+    {
+      "key": "84.2",
+      "line_index": 84,
+      "inline_index": 2,
+      "line_hash": "9a536352",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ確かに俺に怒っているようには見える……かもしれないが……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "c5329b6b",
+      "speaker": "ケット",
+      "ja": "あー……おにぃちゃんもしかしてケットのこと全然信じていない？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "6d4f8dae",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……そんなことはないんだけど、鳥と話をするってのはどうも信じきれなくてさ……",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "2936f05",
+      "speaker": "ケット",
+      "ja": "じゃあ信じさせてあげるもん！　鳥さん、おにぃちゃんの頭の上に乗ってみて",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "741c1cbe",
+      "speaker": "ケット",
+      "ja": "ケットのお話を信じてくれないおにぃちゃんにくちばしでツンツンしちゃって！",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "de3f6948",
+      "speaker": "鳥",
+      "ja": "ぐわーっ！　ぐわーっ！",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "413b1027",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うわっ！？　ちょ！？　イタイって！　や、やめ……！",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "e25d95d4",
+      "speaker": "ケット",
+      "ja": "どう？　これで信じてくれた？",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "c1c36d59",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、これはただの偶然の可能性も……イテテテテ！",
+      "zh": ""
+    },
+    {
+      "key": "116.2",
+      "line_index": 116,
+      "inline_index": 2,
+      "line_hash": "c1c36d59",
+      "speaker": "{G_PlayerName}",
+      "ja": "髪の毛引っ張るなって……！！",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "77e9599d",
+      "speaker": "ケット",
+      "ja": "ほら、鳥さんもすごく怒ってるよ！",
+      "zh": ""
+    },
+    {
+      "key": "120.3",
+      "line_index": 120,
+      "inline_index": 3,
+      "line_hash": "77e9599d",
+      "speaker": "ケット",
+      "ja": "ケットのお話を信じないおにぃちゃんはキライだって言ってるよっ！",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "6f5bed0f",
+      "speaker": "ケット",
+      "ja": "鳥さん謝らなきゃ許さないって言ってるよっ！　おにぃちゃん早く謝って！",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "5966fbcf",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった……！　謝るから！　信じるから！　だからもうやめてくれぇっ！",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "82e8859d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おおお……？　離れてくれたのか？　というか俺の言葉もわかっているのか……？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "582e0a7e",
+      "speaker": "ケット",
+      "ja": "そうだよっ。鳥さんはおにぃちゃんの言葉もちゃんと理解しているよ",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "219c9e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……そんなに賢そうな鳥には見えないんだけどなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "140.2",
+      "line_index": 140,
+      "inline_index": 2,
+      "line_hash": "219c9e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁっ！　や、やめ……！　突っつくなって……！！",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "517c5c87",
+      "speaker": "ケット",
+      "ja": "あはははっ、おにぃちゃんより賢いぞって鳥さんが言ってるよっ",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "28cf03d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった！　わかった！　もう馬鹿にしないからやめてくれぇっ",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "57e31284",
+      "speaker": "ケット",
+      "ja": "どう？　これでケットのお話信じてくれた？",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "bf184620",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……信じるよ。しかしすごいな……鳥の言葉がわかるなんてさ……",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "bb83d1a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうやって鳥の言葉学んだんだ？",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "febc1aa4",
+      "speaker": "ケット",
+      "ja": "んー……わかんない！　いつの間にか鳥さんとお話できるようになっちゃってた",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "e14e3a5",
+      "speaker": "ケット",
+      "ja": "ほかにも犬さん、猫さん……お馬さんともお話できるよっ",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "c17a6960",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー……大したもんだなぁ、ケットは……。",
+      "zh": ""
+    },
+    {
+      "key": "168.2",
+      "line_index": 168,
+      "inline_index": 2,
+      "line_hash": "c17a6960",
+      "speaker": "{G_PlayerName}",
+      "ja": "動物との会話か……それができると結構楽しいかもしれないな",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "3f67ceb6",
+      "speaker": "ケット",
+      "ja": "じゃあ練習しようよっ！　鳥さんも練習に付き合ってくれるって！",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "e2152bdb",
+      "speaker": "{G_PlayerName}",
+      "ja": "練習でどうにかなるとは思えんけど……ちょっと試しにやってみようかな",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "989d2661",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ最初はどうすればいい？",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "cef39cc3",
+      "speaker": "ケット",
+      "ja": "んー……鳥さん、どうすればいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "1b212e2e",
+      "speaker": "ケット",
+      "ja": "……ふむふむ……なるほど……最初はそれがいいのかもしれないね～",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "c8491a3a",
+      "speaker": "ケット",
+      "ja": "最初は鳥さんが何を言っているのか当ててみてって言ってるよ、",
+      "zh": ""
+    },
+    {
+      "key": "189.3",
+      "line_index": 189,
+      "inline_index": 3,
+      "line_hash": "c8491a3a",
+      "speaker": "ケット",
+      "ja": "雰囲気？　で感情を読み取ってって鳥さんが言ってる",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "d6e8c456",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、わかった。それじゃ何か言ってみてくれ",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "a2c6c1c3",
+      "speaker": "鳥",
+      "ja": "ぐわーっ！　くーっ！　ぐわーっ！　ぐわーっ",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "976d6f2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（さ、さっぱりわからないぞ……！　なんか笑っているようにみえるが……）",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "2a1a0a96",
+      "speaker": "ケット",
+      "ja": "おにぃちゃんわからない……？",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "e502890f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……鳴いているようにしか思えん……笑っているようには思えるんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "ca5a5bf",
+      "speaker": "ケット",
+      "ja": "えー？　鳥さん別に笑っていないよ？　だって、ただ”おはよう”って言っているだけだし",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "196b0672",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　マジ……？　イタタタ！　だ、だから突っつくなって……！！",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "4204703d",
+      "speaker": "ケット",
+      "ja": "あははははっ、外れたからお仕置きだって、あはははっ",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "9678f19d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……本当にわからないな……。",
+      "zh": ""
+    },
+    {
+      "key": "223.2",
+      "line_index": 223,
+      "inline_index": 2,
+      "line_hash": "9678f19d",
+      "speaker": "{G_PlayerName}",
+      "ja": "何かほかにいい方法はないのか？　雰囲気で言葉を読み取るなんて難しすぎる……",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "53671fe0",
+      "speaker": "ケット",
+      "ja": "んー……鳥さん何かいいアイディアはないかな……？",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "e8240f6d",
+      "speaker": "鳥",
+      "ja": "ぐわーっ、ぐわー、ぐわーっ！　くーっ、くーっ",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "12075de8",
+      "speaker": "ケット",
+      "ja": "なるほど……それじゃあおにぃちゃん、",
+      "zh": ""
+    },
+    {
+      "key": "232.3",
+      "line_index": 232,
+      "inline_index": 3,
+      "line_hash": "12075de8",
+      "speaker": "ケット",
+      "ja": "今からほかの鳥さんもやってくるから、二人が何を話しているのか当ててみてって",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "49871926",
+      "speaker": "鳥",
+      "ja": "ぐわーっ、ぐわー",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "f82d05b6",
+      "speaker": "ケット",
+      "ja": "ケットもお話に加わるの？　その方がわかりやすいの？",
+      "zh": ""
+    },
+    {
+      "key": "237.3",
+      "line_index": 237,
+      "inline_index": 3,
+      "line_hash": "f82d05b6",
+      "speaker": "ケット",
+      "ja": "わかった、それじゃあ三人でお話するから、鳥さん達が何を言っているのか当ててみて",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "bd3b442e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……わかった……",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "3821e4c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うーん……なんか難易度が余計に上がってないか……？　まぁやってみるか……）",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "7331d650",
+      "speaker": "鳥Ａ",
+      "ja": "ぐわーっ！　くーっ！　くーっ！",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "efa97ed8",
+      "speaker": "鳥Ｂ",
+      "ja": "ぐーっ！　ぐわわーっ！　ぐわぁーっ！",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "571ac5b3",
+      "speaker": "ケット",
+      "ja": "あはははっ♪　そうだよねーっ！　それすごくわかるよーっ！　ケットもそうだもんっ！",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "50383a6",
+      "speaker": "鳥Ｂ",
+      "ja": "ぐわーっ！　ぐわーっ！",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "d17cea46",
+      "speaker": "鳥Ａ",
+      "ja": "くーっ！　ぐわーっ！",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "17b0c384",
+      "speaker": "ケット",
+      "ja": "あはははっ♪　あははははははっ♪",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "2ad9337a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（だ、だめだ……！　余計にわからん……！",
+      "zh": ""
+    },
+    {
+      "key": "270.2",
+      "line_index": 270,
+      "inline_index": 2,
+      "line_hash": "2ad9337a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そもそもケットはなんであんなに笑っているんだ……！）",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "60ba6811",
+      "speaker": "ケット",
+      "ja": "それでおにぃちゃん、ケット達が何を言っているのかわかった？",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "2cf927a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまん……さっぱりわからん……。なんでケットは笑っていたんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "281.1",
+      "line_index": 281,
+      "inline_index": 1,
+      "line_hash": "12ae17d3",
+      "speaker": "ケット",
+      "ja": "えー……鳥さん達すごく面白いこと言っていたんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "76aec637",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、なのか……？　すまん、俺にはやっぱり全然わからん……。",
+      "zh": ""
+    },
+    {
+      "key": "284.2",
+      "line_index": 284,
+      "inline_index": 2,
+      "line_hash": "76aec637",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐわーって鳴いていることしかわからん……",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "5e74e128",
+      "speaker": "鳥Ａ",
+      "ja": "ぐわーっ！　ぐわーっ！　ぐわーっ！",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "4d6d933",
+      "speaker": "鳥Ｂ",
+      "ja": "ぐわーっ！　ぐわーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "a47bb350",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！？　な、なんだ急に！？",
+      "zh": ""
+    },
+    {
+      "key": "292.2",
+      "line_index": 292,
+      "inline_index": 2,
+      "line_hash": "a47bb350",
+      "speaker": "{G_PlayerName}",
+      "ja": "や、やめ……！　肩引っ張るなって！　な、なぁケット、この鳥達何を言っているんだ？",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "41cc7c38",
+      "speaker": "ケット",
+      "ja": "鳥さん、言葉を理解しないおにぃちゃんにお仕置きだって……",
+      "zh": ""
+    },
+    {
+      "key": "296.3",
+      "line_index": 296,
+      "inline_index": 3,
+      "line_hash": "41cc7c38",
+      "speaker": "ケット",
+      "ja": "あ！　ダメだって！　おにぃちゃん連れて行かないでーっ！",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "d9421bdd",
+      "speaker": "{G_PlayerName}",
+      "ja": "──連れて……？　うわっ！？　ちょ……！　や、やめ……！　持ち上げるなぁっ！！",
+      "zh": ""
+    },
+    {
+      "key": "303.1",
+      "line_index": 303,
+      "inline_index": 1,
+      "line_hash": "105e406",
+      "speaker": "ケット",
+      "ja": "あああー！　ダメだってぇ！　鳥さん落ち着いてーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "303.3",
+      "line_index": 303,
+      "inline_index": 3,
+      "line_hash": "105e406",
+      "speaker": "ケット",
+      "ja": "おにぃちゃんを降ろして～っ！",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "935262f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ！　降ろしてくれぇぇ！　ひええええええーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "a266d45b",
+      "speaker": "ケット",
+      "ja": "おにぃちゃぁぁぁぁぁんっ！　待ってーっ！　ケットを置いて行かないでーっ！",
+      "zh": ""
+    }
+  ]
+}

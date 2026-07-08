@@ -1,0 +1,850 @@
+{
+  "lines": [
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "8a33626f",
+      "speaker": "アイディル",
+      "ja": "はー……！　ヒマヒマ……！",
+      "zh": "啊——……！无聊死了……！"
+    },
+    {
+      "key": "21.3",
+      "line_index": 21,
+      "inline_index": 3,
+      "line_hash": "8a33626f",
+      "speaker": "アイディル",
+      "ja": "なんで大人しくしてなきゃいけないのよ……！",
+      "zh": "为什么非得让我乖乖待着啊……！"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "f911fc52",
+      "speaker": "アイディル",
+      "ja": "というか、お宝ザクザクの宇宙船の中で静かにしている通りはないわね……",
+      "zh": "再说了，这宇宙船里到处都是宝贝，谁还坐得住啊……"
+    },
+    {
+      "key": "25.3",
+      "line_index": 25,
+      "inline_index": 3,
+      "line_hash": "f911fc52",
+      "speaker": "アイディル",
+      "ja": "海賊らしく色々物色してやろうかしら……",
+      "zh": "要不，像海盗一样好好搜刮一番？"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "6db95d3",
+      "speaker": "アイディル",
+      "ja": "でも下僕のヤツ……",
+      "zh": "不过那家伙……"
+    },
+    {
+      "key": "28.3",
+      "line_index": 28,
+      "inline_index": 3,
+      "line_hash": "6db95d3",
+      "speaker": "アイディル",
+      "ja": "船に手を出したら許さないって言ってたし……ここは大人しく……",
+      "zh": "他说过不许动这艘船……那我就安分一点吧……"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "c47f8efb",
+      "speaker": "アイディル",
+      "ja": "って！　なんで海賊の船長のあたしが、",
+      "zh": "喂！我可是海盗船长，"
+    },
+    {
+      "key": "32.3",
+      "line_index": 32,
+      "inline_index": 3,
+      "line_hash": "c47f8efb",
+      "speaker": "アイディル",
+      "ja": "下僕なんかの言う事を聞く必要があるのよ……！",
+      "zh": "凭什么要听一个下人的话啊……！"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "85b64faa",
+      "speaker": "アイディル",
+      "ja": "そもそも許さないって何よ……！　下僕の分際でぇっ……！！",
+      "zh": "话说回来，凭什么说不行啊……！你一个下人而已……！！"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "3684ec5d",
+      "speaker": "アイディル",
+      "ja": "あの生意気な下僕には徹底的に分からせる必要があるわね……！",
+      "zh": "得好好教训一下那个狂妄的家伙……！"
+    },
+    {
+      "key": "38.3",
+      "line_index": 38,
+      "inline_index": 3,
+      "line_hash": "3684ec5d",
+      "speaker": "アイディル",
+      "ja": "どこにいるのよ、{G_PlayerName}のヤツ……！！",
+      "zh": "在哪儿呢，{G_PlayerName}那家伙……！！"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e75f0a2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ぶわっくっしょん！！",
+      "zh": "……阿嚏！！"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "88283ef8",
+      "speaker": "{G_PlayerName}",
+      "ja": "……うう、いきなりすげーくしゃみ出てしまったな……",
+      "zh": "……呜，突然打了个好大的喷嚏……"
+    },
+    {
+      "key": "61.2",
+      "line_index": 61,
+      "inline_index": 2,
+      "line_hash": "88283ef8",
+      "speaker": "{G_PlayerName}",
+      "ja": "部屋の温度の設定が低いのかな……？",
+      "zh": "是不是房间温度设太低了……？"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "85061aad",
+      "speaker": "アイディル",
+      "ja": "どこにいるのよ下僕！　ていうか宇宙船広すぎっ！",
+      "zh": "下仆，你在哪儿！这飞船也太大了吧！"
+    },
+    {
+      "key": "65.3",
+      "line_index": 65,
+      "inline_index": 3,
+      "line_hash": "85061aad",
+      "speaker": "アイディル",
+      "ja": "どれだけ歩かせる気なのよっ！！",
+      "zh": "是想让我走断腿吗！！"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "e5b98b42",
+      "speaker": "{G_PlayerName}",
+      "ja": "──げっ！？　この声アイディル？　まためんどくさそーなヤツが……",
+      "zh": "——呃！？是艾迪尔的声音！？又是那个麻烦精……"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "b75103f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか叫んでるし、見なかったことにしよう……うん、それがいい",
+      "zh": "好像在喊什么，就当没看见吧……嗯，就这么办。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "1003dbef",
+      "speaker": "アイディル",
+      "ja": "あーーーっ！　やっと見つけたっ！！",
+      "zh": "啊——！！终于找到了！！"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "ae122418",
+      "speaker": "{G_PlayerName}",
+      "ja": "うげっ！？　見つかった！？　逃げろっ！！",
+      "zh": "呜哇！？被发现了！？快跑！！"
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "27c5f54",
+      "speaker": "アイディル",
+      "ja": "あっ！　こら！　どこに行くのよ！　待ちなさいっ！！",
+      "zh": "啊！站住！你往哪儿跑！给我乖乖停下！！"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "fe99d602",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ！　なんで追いかけてくんだよっ！",
+      "zh": "喂！干嘛追着我跑啊！"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "3a3f04c0",
+      "speaker": "アイディル",
+      "ja": "うっさい！　あんたが逃げるからでしょ！",
+      "zh": "闭嘴！谁让你要逃的！"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "1cd25c87",
+      "speaker": "アイディル",
+      "ja": "このあたしから逃げられると思わないことね！　この下僕め！",
+      "zh": "想从我手里逃掉？做梦！你这个臭下人！"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "cf60d2b7",
+      "speaker": "アイディル",
+      "ja": "うりゃーーーーっ！！",
+      "zh": "喝啊——！！"
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "85e1d9d9",
+      "speaker": "アイディル",
+      "ja": "──ごはぁっ！？",
+      "zh": "——呜哇！？"
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "2da6cf70",
+      "speaker": "アイディル",
+      "ja": "ふっふーん♪　どう？",
+      "zh": "哼哼♪ 怎么样？"
+    },
+    {
+      "key": "128.3",
+      "line_index": 128,
+      "inline_index": 3,
+      "line_hash": "2da6cf70",
+      "speaker": "アイディル",
+      "ja": "悪のカリスマセクシー船長キックのお味は？　あははははっ♪",
+      "zh": "邪恶又性感的魅力船长飞踢，味道如何啊？啊哈哈哈♪"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "1732242e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……うぐ、ぐぐぐぐ……お、お前、人の背中に思いっきり蹴りを……",
+      "zh": "……呜咕，咳咳……你、你这家伙，从背后狠狠踹我……"
+    },
+    {
+      "key": "131.2",
+      "line_index": 131,
+      "inline_index": 2,
+      "line_hash": "1732242e",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんてヤツ……い、いてぇ……",
+      "zh": "你、你什么人啊……疼、疼死我了……"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "cc16d5d6",
+      "speaker": "アイディル",
+      "ja": "うっさい！　口答えすんな！",
+      "zh": "闭嘴！不许顶嘴！"
+    },
+    {
+      "key": "136.3",
+      "line_index": 136,
+      "inline_index": 3,
+      "line_hash": "cc16d5d6",
+      "speaker": "アイディル",
+      "ja": "下僕の分際で船長から逃げるからお仕置きしただけよっ",
+      "zh": "身为下人，胆敢从船长面前逃跑，活该受罚！"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "bf914b32",
+      "speaker": "{G_PlayerName}",
+      "ja": "お仕置きって……俺が何したんだよ。",
+      "zh": "惩罚……我到底做了什么啊。"
+    },
+    {
+      "key": "139.2",
+      "line_index": 139,
+      "inline_index": 2,
+      "line_hash": "bf914b32",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……あー……これ絶対背中に足跡思いっきり付いてるぞ……くう、いてぇ……",
+      "zh": "真是的……啊——……背上肯定留了个超大的脚印……痛死了……"
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "4c73a3a7",
+      "speaker": "アイディル",
+      "ja": "はぁっ！？　このあたしから逃げたでしょうが！",
+      "zh": "哈！？是你先跑的吧！"
+    },
+    {
+      "key": "144.3",
+      "line_index": 144,
+      "inline_index": 3,
+      "line_hash": "4c73a3a7",
+      "speaker": "アイディル",
+      "ja": "下僕のクセに逃げるってどういう了見よっ",
+      "zh": "身为下人，居然敢逃，你几个意思！"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "aedb1ed2",
+      "speaker": "アイディル",
+      "ja": "下僕なら下僕らしく、ひれ伏しながら挨拶の一つでもするってものでしょうが！",
+      "zh": "做下人就该有下人的样子，至少跪下打个招呼吧！"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "62cc33bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "人のことを下僕下僕って、俺はそんなもになった覚えなんて……",
+      "zh": "张口闭口下人下人的，我可不记得什么时候成你的下人了……"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "eef466e1",
+      "speaker": "アイディル",
+      "ja": "うるさいっ！　口答えするなって言ってるでしょ！！",
+      "zh": "闭嘴！说了不许顶嘴！！"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "58792a3d",
+      "speaker": "アイディル",
+      "ja": "はぁ～……覚えの悪いあんたには、",
+      "zh": "唉……你这记性真差，"
+    },
+    {
+      "key": "158.3",
+      "line_index": 158,
+      "inline_index": 3,
+      "line_hash": "58792a3d",
+      "speaker": "アイディル",
+      "ja": "海賊団としての礼儀を一から教えてあげる必要がありそうね",
+      "zh": "看来得从头教你海贼团的规矩。"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "3452e478",
+      "speaker": "アイディル",
+      "ja": "下僕は下僕らしくあるようにねっ",
+      "zh": "当人就该有下人的样子！"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "9ebf134e",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから下僕扱い──",
+      "zh": "所以别一口一个下人——"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "d3db806e",
+      "speaker": "アイディル",
+      "ja": "お黙り！　返事はアイアイマム！　これだけよ！　ほら言いなさいっ！",
+      "zh": "闭嘴！回答就一句“遵命，夫人！”，懂吗！快说！"
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "1b57558c",
+      "speaker": "{G_PlayerName}",
+      "ja": "だっ誰がそんなこと──",
+      "zh": "谁、谁会那么说啊——"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "d8c714b6",
+      "speaker": "アイディル",
+      "ja": "──返事は！？",
+      "zh": "——回答呢！？"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "5c04e5a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ！？　あ、アイアイ、ま、マム……",
+      "zh": "呜……！遵、遵命，夫、夫人……"
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "7916219f",
+      "speaker": "アイディル",
+      "ja": "ふっふ～ん♪　よろしい♪　少しはわかってきたみたいね。あはははっ",
+      "zh": "哼哼♪ 这才像话♪ 看来你总算有点开窍了。啊哈哈哈"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "a763c993",
+      "speaker": "{G_PlayerName}",
+      "ja": "（くう……い、勢いで言ってしまった……！）",
+      "zh": "（唔……一时冲动就说出口了……！）"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "ec54b733",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも今すごい良い匂いしたな……",
+      "zh": "（不过刚才闻到了很香的味道……"
+    },
+    {
+      "key": "197.2",
+      "line_index": 197,
+      "inline_index": 2,
+      "line_hash": "ec54b733",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、アイディルって黙っていれば可愛いし、当然なのかも……）",
+      "zh": "嗯，艾迪尔要是不出声的话还挺可爱的，可能也是自然的吧……）"
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "1ad9c203",
+      "speaker": "アイディル",
+      "ja": "そもそもあんたってさ、海賊にどんなイメージ持っているわけ？",
+      "zh": "话说，你对海贼有什么样的印象？"
+    },
+    {
+      "key": "202.3",
+      "line_index": 202,
+      "inline_index": 3,
+      "line_hash": "1ad9c203",
+      "speaker": "アイディル",
+      "ja": "なんか全然怖がっていないし、もしかしてあたしのこと舐めてる？",
+      "zh": "你好像完全不害怕嘛，该不会是瞧不起我吧？"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "ca07a7b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、舐めているつもりはないけどさ……",
+      "zh": "不，我可没想瞧不起你啦……"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "4b985193",
+      "speaker": "{G_PlayerName}",
+      "ja": "（可愛いが優先されて、怖い印象は全然ないんだよなぁ……",
+      "zh": "（光顾着觉得可爱了，完全没觉得可怕啊……"
+    },
+    {
+      "key": "209.2",
+      "line_index": 209,
+      "inline_index": 2,
+      "line_hash": "4b985193",
+      "speaker": "{G_PlayerName}",
+      "ja": "めんどくさい性格だけど話はしやすいし）",
+      "zh": "性格虽然有点烦人，不过还挺好说话的）"
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "f6eafb69",
+      "speaker": "アイディル",
+      "ja": "あんたの持っている海賊のイメージってどんなの？　教えてよ",
+      "zh": "你心目中海贼的形象是什么样的？说给我听听。"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "999fff01",
+      "speaker": "{G_PlayerName}",
+      "ja": "海賊のイメージ……ねぇ……。",
+      "zh": "海贼的形象啊……我想想……。"
+    },
+    {
+      "key": "216.2",
+      "line_index": 216,
+      "inline_index": 2,
+      "line_hash": "999fff01",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……酒を飲んで、お宝集めして、商船を襲う……そんなイメージかなぁ",
+      "zh": "嗯……喝喝酒、收集财宝、打劫商船……差不多就这样吧。"
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "b8bb4006",
+      "speaker": "アイディル",
+      "ja": "うんうん、その通り、何よ、ちゃんと海賊のことわかっているじゃないの♪",
+      "zh": "嗯嗯，没错，什么呀，你对海贼还挺了解的嘛♪"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "f3872578",
+      "speaker": "{G_PlayerName}",
+      "ja": "あと髭面の船長？",
+      "zh": "还有就是满脸胡子的船长？"
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "277293d0",
+      "speaker": "アイディル",
+      "ja": "はぁっ！？　何よ、そのイメージは！　どっから髭なんて出てきたのよ！",
+      "zh": "哈？！那是什么形象啊！胡子是从哪里冒出来的啊！"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "a8f6d55c",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺の持っている海賊の印象ってそんなもんで……",
+      "zh": "不，我心目中的海贼形象就是那样的……"
+    },
+    {
+      "key": "231.2",
+      "line_index": 231,
+      "inline_index": 2,
+      "line_hash": "a8f6d55c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あと片手がフックで、いっつもガハハ笑っている感じ？",
+      "zh": "还有就是一只手是钩子，总是“嘎哈哈”大笑那种感觉？"
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "c1f83ac4",
+      "speaker": "アイディル",
+      "ja": "何よそれ！　あたしと全然違うじゃない！",
+      "zh": "那算什么啊！跟我一点都不像嘛！"
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "25afd565",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなこと言われてもなぁ……ああ、あと略奪行為で殺しは日常で、",
+      "zh": "你这么说我也……啊，还有就是打劫时杀人是家常便饭，"
+    },
+    {
+      "key": "239.2",
+      "line_index": 239,
+      "inline_index": 2,
+      "line_hash": "25afd565",
+      "speaker": "{G_PlayerName}",
+      "ja": "酔ったきまぐれで仲間を処刑したり……そんな血生臭い印象もあるかな",
+      "zh": "喝醉了就一时兴起处决同伴……也有这种血腥的印象吧。"
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "9319603e",
+      "speaker": "アイディル",
+      "ja": "は……！？　だ、誰もそんなことしないわよ！",
+      "zh": "哈……？！谁、谁会做那种事啊！"
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "cc8b6818",
+      "speaker": "アイディル",
+      "ja": "そんな恐ろしいイメージを持つな！　下僕のくせにっ！",
+      "zh": "别把我想得那么恐怖！你不过是个仆人而已！"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "db3ce97b",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんでそんな怒るんだよっ、",
+      "zh": "你、你干嘛那么生气啊，"
+    },
+    {
+      "key": "249.2",
+      "line_index": 249,
+      "inline_index": 2,
+      "line_hash": "db3ce97b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そもそもアイディルが海賊のイメージを言えって言ったんだろうが",
+      "zh": "明明是你自己让我说说海贼印象的吧。"
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "b04acf3d",
+      "speaker": "アイディル",
+      "ja": "うるさいっ！　口答えは禁止！",
+      "zh": "啰嗦！不准顶嘴！"
+    },
+    {
+      "key": "253.3",
+      "line_index": 253,
+      "inline_index": 3,
+      "line_hash": "b04acf3d",
+      "speaker": "アイディル",
+      "ja": "あと恐ろしいイメージを持つのも禁止！　わかったわねっ！",
+      "zh": "还有，不准把我想得那么可怕！听见了没！"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "87b93e9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……もしかしてさ、アイディルってそういうのできなかったりする？",
+      "zh": "……难不成，艾迪尔其实做不到那种事？"
+    },
+    {
+      "key": "261.1",
+      "line_index": 261,
+      "inline_index": 1,
+      "line_hash": "c53601df",
+      "speaker": "アイディル",
+      "ja": "はぁ？　そういうのって何よ",
+      "zh": "哈？你说那种事是指什么？"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "812398f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺がさっき言った血生臭い行為",
+      "zh": "不，就是我刚才说的那些血腥勾当。"
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "935c5d9b",
+      "speaker": "アイディル",
+      "ja": "べ、別にできるけど……！",
+      "zh": "当、当然做得到……！"
+    },
+    {
+      "key": "268.3",
+      "line_index": 268,
+      "inline_index": 3,
+      "line_hash": "935c5d9b",
+      "speaker": "アイディル",
+      "ja": "というか、そんなの日常だし？　海賊なら当たり前ってヤツよ",
+      "zh": "不如说，那都是日常吧？当海贼的，这点事理所应当啊。"
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "c5d288cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか結構動揺しているぞ……もしかして図星だったのか？）",
+      "zh": "（好像动摇得挺厉害啊……莫非被我说中了？）"
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "3873e7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもまぁそんな印象全然無いからなぁ……。",
+      "zh": "（不过嘛，我也完全没有那种印象就是了……。）"
+    },
+    {
+      "key": "275.2",
+      "line_index": 275,
+      "inline_index": 2,
+      "line_hash": "3873e7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "外見だけはそれっぽいってだけに思えるし）",
+      "zh": "也就外表看着像那么回事而已）"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "8cefa6e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも蹴られた仕返しだ……ちょっとからかってやるか）",
+      "zh": "（不过，这是被踢的回敬……稍微捉弄一下她好了）"
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "69c4544",
+      "speaker": "{G_PlayerName}",
+      "ja": "できるなら今度手本みせてもらいたいなぁ～♪",
+      "zh": "那下次你做给我看看呗～♪"
+    },
+    {
+      "key": "283.2",
+      "line_index": 283,
+      "inline_index": 2,
+      "line_hash": "69c4544",
+      "speaker": "{G_PlayerName}",
+      "ja": "下僕ってことは俺、海賊になったんだし、",
+      "zh": "既然我是仆人，那我现在也是海贼了，"
+    },
+    {
+      "key": "283.4",
+      "line_index": 283,
+      "inline_index": 4,
+      "line_hash": "69c4544",
+      "speaker": "{G_PlayerName}",
+      "ja": "船長のお手本をみて勉強しないといけないしさぁ～♪",
+      "zh": "必须看看船长的示范好好学习才行呀～♪"
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "f14b8678",
+      "speaker": "アイディル",
+      "ja": "へ……？",
+      "zh": "啊……？"
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "cb52504e",
+      "speaker": "{G_PlayerName}",
+      "ja": "頼みますよ、船長～♪　生意気な金持ち野郎に一発かましてやりましょうぜぇ～♪",
+      "zh": "拜托啦，船长～♪ 给那些嚣张的有钱人一点颜色瞧瞧呗～♪"
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "335857a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "その剣ってグサっと……！　血をたくさん見せてくださいよぉ～♪　ぐへへへへ♪",
+      "zh": "用那把剑捅个对穿……！让我见识一下鲜血四溅吧～♪ 唔嘿嘿嘿嘿♪"
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "2c26ebca",
+      "speaker": "アイディル",
+      "ja": "あ、え、えっと……！　ま、まぁその、ね……！",
+      "zh": "啊、呃、那个……！嘛、嘛，怎么说呢……！"
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "a649077e",
+      "speaker": "アイディル",
+      "ja": "あーっ！　そ、そそそ、そういえばあたしやることがあったんだった！",
+      "zh": "啊—！对、对了对了，我突然想起还有事情要做！"
+    },
+    {
+      "key": "305.1",
+      "line_index": 305,
+      "inline_index": 1,
+      "line_hash": "544d6c34",
+      "speaker": "アイディル",
+      "ja": "じゃ、じゃあそういうことで……！　ばいばーい……！！",
+      "zh": "那、那就这样吧……！拜拜……！！"
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "bc7df580",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ～……行ってくれたか……。",
+      "zh": "唉～……总算走了啊……。"
+    },
+    {
+      "key": "314.2",
+      "line_index": 314,
+      "inline_index": 2,
+      "line_hash": "bc7df580",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもアイディルって本当に血生臭い行為はしないみたいだな",
+      "zh": "不过艾迪尔好像真的不会做那些血腥的事呢。"
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "8de1af61",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもその方がいいよな……アイディルっぽくて",
+      "zh": "不过这样才好……这才像艾迪尔嘛。"
+    }
+  ]
+}

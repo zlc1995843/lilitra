@@ -1,0 +1,562 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "4fe58e06",
+      "speaker": "ラチャナ",
+      "ja": "一体ここはどこなんじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "cc240f7",
+      "speaker": "ラチャナ",
+      "ja": "歩けど歩けど一向に景色がかわらん……ワシは今どこを歩いておるのじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "9fc06369",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ん？　あれはラチャナ？",
+      "zh": ""
+    },
+    {
+      "key": "23.2",
+      "line_index": 23,
+      "inline_index": 2,
+      "line_hash": "9fc06369",
+      "speaker": "{G_PlayerName}",
+      "ja": "いったいどうしたんだ？　何だか元気がなさそうだけど……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "f90ce349",
+      "speaker": "{G_PlayerName}",
+      "ja": "おーい、ラチャナー！　どうかしたんですかー！？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c39e2ca3",
+      "speaker": "ラチャナ",
+      "ja": "お、おおお……！？　{G_PlayerName}……！",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "3afb2c39",
+      "speaker": "ラチャナ",
+      "ja": "いいところで逢ったのじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "75b6c281",
+      "speaker": "ラチャナ",
+      "ja": "これぞ天の助けじゃ！！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "e917048a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁっ！？　な、ななっ、なんでそんなに慌てて……",
+      "zh": ""
+    },
+    {
+      "key": "52.2",
+      "line_index": 52,
+      "inline_index": 2,
+      "line_hash": "e917048a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　涙が……もしかして泣いていました……？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "ff5236f4",
+      "speaker": "ラチャナ",
+      "ja": "な、何を言っておるのだ……！　泣いてなどおらぬ……！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "17296421",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあなんでそんなに慌てて……あ、もしかして迷子になりました……？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "6137b91d",
+      "speaker": "{G_PlayerName}",
+      "ja": "この宇宙船広いですからね……俺も最初は迷いましたよ",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "68e6c7e6",
+      "speaker": "ラチャナ",
+      "ja": "迷ってなどおらぬ！",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "aae73a3d",
+      "speaker": "ラチャナ",
+      "ja": "このような広すぎて複雑な通路だらけの、",
+      "zh": ""
+    },
+    {
+      "key": "74.3",
+      "line_index": 74,
+      "inline_index": 3,
+      "line_hash": "aae73a3d",
+      "speaker": "ラチャナ",
+      "ja": "同じ景色ばかりの道など迷わぬわけがなかろうが！！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "22eade83",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ、そうですよね……初めての宇宙船なら尚更ですよね……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "f7980031",
+      "speaker": "ラチャナ",
+      "ja": "そもそも地面が土じゃないし、動物の声など一切聞こえぬ……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "b440a400",
+      "speaker": "ラチャナ",
+      "ja": "外の景色も道も何かもが同じじゃ……森とは何もかもが違い過ぎるぞっ",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "66211f83",
+      "speaker": "{G_PlayerName}",
+      "ja": "変化は乏しくなりますよね、宇宙は……目的地の惑星が見えれば多少は変わるんですけど",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "f7c759b",
+      "speaker": "ラチャナ",
+      "ja": "風を思いっきり浴びたいのじゃ……外に飛び出したいのじゃ……。",
+      "zh": ""
+    },
+    {
+      "key": "91.3",
+      "line_index": 91,
+      "inline_index": 3,
+      "line_hash": "f7c759b",
+      "speaker": "ラチャナ",
+      "ja": "もう閉じ込められるのはうんざりなのじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "160c21dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "その気持ちはわかりますよ。宇宙船って構造上、完全に密閉されてしまうし、",
+      "zh": ""
+    },
+    {
+      "key": "94.2",
+      "line_index": 94,
+      "inline_index": 2,
+      "line_hash": "160c21dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "窓も自由に開けられませんし、閉じ込められているって思ってしまいますよね",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "dc0d1782",
+      "speaker": "ラチャナ",
+      "ja": "おお、ワシの考え、わかってくれるか",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "d0446fe5",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺達にとっては宇宙船は家そのものですけど、ずっと家の中にいるもの疲れますしね",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "56266610",
+      "speaker": "ラチャナ",
+      "ja": "うむ！　その通りじゃ",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "2cc76e21",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもいいところもありますよ？　空気は綺麗ですし、",
+      "zh": ""
+    },
+    {
+      "key": "108.2",
+      "line_index": 108,
+      "inline_index": 2,
+      "line_hash": "2cc76e21",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにみんながいるので話し相手には困りませんし、",
+      "zh": ""
+    },
+    {
+      "key": "108.4",
+      "line_index": 108,
+      "inline_index": 4,
+      "line_hash": "2cc76e21",
+      "speaker": "{G_PlayerName}",
+      "ja": "衣食住に関しましてはかなり良い方だと思いますよ",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "ede08f13",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラチャナも宇宙船の中で生活する上で困ったことって、",
+      "zh": ""
+    },
+    {
+      "key": "112.2",
+      "line_index": 112,
+      "inline_index": 2,
+      "line_hash": "ede08f13",
+      "speaker": "{G_PlayerName}",
+      "ja": "迷うこと以外特に無いんじゃないですか？",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "24cbf903",
+      "speaker": "ラチャナ",
+      "ja": "た、確かにそれは否定できぬが……しかしじゃな……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "6ae792bd",
+      "speaker": "ラチャナ",
+      "ja": "村を走り回る子供はおらんし、気が向いた時に外で狩りもできぬ……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "88b7175",
+      "speaker": "ラチャナ",
+      "ja": "やはり”自由”とは程遠いと思うぞ",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "4757fb44",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ確かにそういう自由な環境ではないですね……でもこればっかりは仕方ないかと……",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "5635bb43",
+      "speaker": "ラチャナ",
+      "ja": "おぬし機械いじりは得意なのじゃろう？　何とかならんのか？",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "60cb4c80",
+      "speaker": "ラチャナ",
+      "ja": "ほれ、ここの飯は機械からポンって出てくるではないかっ。",
+      "zh": ""
+    },
+    {
+      "key": "132.3",
+      "line_index": 132,
+      "inline_index": 3,
+      "line_hash": "60cb4c80",
+      "speaker": "ラチャナ",
+      "ja": "ああいう感じにポンっと解決してくれっ",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "42a1d5c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "できるならとっくにしていますけどね",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "5f78c92f",
+      "speaker": "ラチャナ",
+      "ja": "しかし何もしなくとも飯が出てくる……あれは素晴らしいものじゃのう",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "d20d2cb3",
+      "speaker": "ラチャナ",
+      "ja": "味はちと変わっているが、美味いものばかりじゃ",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "971737f4",
+      "speaker": "ラチャナ",
+      "ja": "そういえば、寝床もフカフカでたまらんのう！",
+      "zh": ""
+    },
+    {
+      "key": "145.3",
+      "line_index": 145,
+      "inline_index": 3,
+      "line_hash": "971737f4",
+      "speaker": "ラチャナ",
+      "ja": "目覚めも不思議とスッキリ！　あれは村にはない代物じゃ！",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "f8313d41",
+      "speaker": "ラチャナ",
+      "ja": "村のみんなのために持って帰ってあげたいくらいじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "32af11e9",
+      "speaker": "ラチャナ",
+      "ja": "ああ、そうじゃ、前から不思議に思っておったのじゃが、",
+      "zh": ""
+    },
+    {
+      "key": "151.3",
+      "line_index": 151,
+      "inline_index": 3,
+      "line_hash": "32af11e9",
+      "speaker": "ラチャナ",
+      "ja": "ここの水はどうなっておるのじゃ？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "c4c8e408",
+      "speaker": "ラチャナ",
+      "ja": "川も井戸も無いのに、水は使い放題……不思議でならんぞ",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "79ceff05",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、水に関してですが……うーん、技術的なことを省いて説明すると、",
+      "zh": ""
+    },
+    {
+      "key": "157.2",
+      "line_index": 157,
+      "inline_index": 2,
+      "line_hash": "79ceff05",
+      "speaker": "{G_PlayerName}",
+      "ja": "一度使った水をものすごく綺麗にして再利用している感じですね",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "af5ab654",
+      "speaker": "{G_PlayerName}",
+      "ja": "水の補給も定期的にしていますし、よほどのことがない限り無くらないかと",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "f5a616c3",
+      "speaker": "ラチャナ",
+      "ja": "ほうほう……すごいものじゃな",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "7d155c79",
+      "speaker": "ラチャナ",
+      "ja": "うーん、宇宙船とは実に素晴らしいものじゃのう",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "cbba236f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……へ？",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "bf98e677",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あれ……？　何だか話の流れが……）",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "337ba19",
+      "speaker": "ラチャナ",
+      "ja": "それなのにそなたときたら文句ばかり……正気ではないぞっ！",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "198eb469",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、俺は特に何も言ってないですよっ？",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "9a894fbd",
+      "speaker": "ラチャナ",
+      "ja": "まぁそなたもこれでありがたみをしれたことだろう！",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "e896b621",
+      "speaker": "ラチャナ",
+      "ja": "これからは文句を言わずに",
+      "zh": ""
+    },
+    {
+      "key": "189.3",
+      "line_index": 189,
+      "inline_index": 3,
+      "line_hash": "e896b621",
+      "speaker": "ラチャナ",
+      "ja": "宇宙船のありがたさに感謝するようにしないと罰が当たってしまうぞ！　はっはっは！",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "1e986cc9",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……なんで俺が怒られるんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "330b0045",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁいいか、ラチャナが機嫌よくなってくれたみたいだし",
+      "zh": ""
+    }
+  ]
+}

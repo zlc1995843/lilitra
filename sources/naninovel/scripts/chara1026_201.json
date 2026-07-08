@@ -1,0 +1,1579 @@
+{
+  "lines": [
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "94d20fa9",
+      "speaker": "",
+      "ja": "夜中のんびりくつろいでいると、俺の部屋に不意にノックの音が響く。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "3974db2c",
+      "speaker": "",
+      "ja": "こんな時間に誰だろうと少し訝しがりながらも俺は部屋のドアを開けた。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "703dbb22",
+      "speaker": "",
+      "ja": "するとそこには……。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "394e9719",
+      "speaker": "ケット",
+      "ja": "お、おにぃちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7531e9c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　ケットじゃないか……どうしたんだい？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "ee3d6ad7",
+      "speaker": "ケット",
+      "ja": "おにぃちゃん……こわいよぉ……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "b4583338",
+      "speaker": "",
+      "ja": "よく見ると普段元気いっぱいのケットの顔は",
+      "zh": ""
+    },
+    {
+      "key": "40.2",
+      "line_index": 40,
+      "inline_index": 2,
+      "line_hash": "b4583338",
+      "speaker": "",
+      "ja": "すごく不安げでしかも真っ赤で息も荒い。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "c0506c11",
+      "speaker": "",
+      "ja": "もしかしたら風邪でもひいたのだろうか？　",
+      "zh": ""
+    },
+    {
+      "key": "42.2",
+      "line_index": 42,
+      "inline_index": 2,
+      "line_hash": "c0506c11",
+      "speaker": "",
+      "ja": "と思ったがそうではないようだ。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "4b4895bb",
+      "speaker": "ケット",
+      "ja": "おにぃちゃん……ケット……おかしいの……",
+      "zh": ""
+    },
+    {
+      "key": "47.2",
+      "line_index": 47,
+      "inline_index": 2,
+      "line_hash": "4b4895bb",
+      "speaker": "ケット",
+      "ja": "おまたが熱くて……しかたないの……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "1e2179d0",
+      "speaker": "ケット",
+      "ja": "もしかしてケット……病気になっちゃったのかな……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "91aede69",
+      "speaker": "",
+      "ja": "震えるケットの声が彼女の不安を物語っているが、",
+      "zh": ""
+    },
+    {
+      "key": "52.2",
+      "line_index": 52,
+      "inline_index": 2,
+      "line_hash": "91aede69",
+      "speaker": "",
+      "ja": "おまたが熱いということは、病気ではなくて",
+      "zh": ""
+    },
+    {
+      "key": "52.4",
+      "line_index": 52,
+      "inline_index": 4,
+      "line_hash": "91aede69",
+      "speaker": "",
+      "ja": "発情しているのではないだろうかと思う。",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "36039277",
+      "speaker": "",
+      "ja": "しかし当人であるケットは不安と疼きからか",
+      "zh": ""
+    },
+    {
+      "key": "54.2",
+      "line_index": 54,
+      "inline_index": 2,
+      "line_hash": "36039277",
+      "speaker": "",
+      "ja": "今にも泣き出しそうな顔をしていた。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "15c672dc",
+      "speaker": "ケット",
+      "ja": "おにぃちゃん……どうしよう……",
+      "zh": ""
+    },
+    {
+      "key": "59.2",
+      "line_index": 59,
+      "inline_index": 2,
+      "line_hash": "15c672dc",
+      "speaker": "ケット",
+      "ja": "うぅぅぅ……あついよぉ……こわいよぉ",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "c4cf646",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫……大丈夫だから……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "e12add87",
+      "speaker": "",
+      "ja": "俺はケットの頭を優しく撫でながら、そのまま部屋の中へと招き入れる。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "7e26f325",
+      "speaker": "",
+      "ja": "だけど、それぐらいではケットの不安は簡単に取り除ける訳もなく、",
+      "zh": ""
+    },
+    {
+      "key": "67.2",
+      "line_index": 67,
+      "inline_index": 2,
+      "line_hash": "7e26f325",
+      "speaker": "",
+      "ja": "俺にガシッとしがみついて目をうるうるさせていた。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "8a0004ce",
+      "speaker": "ケット",
+      "ja": "おにぃちゃん……ケットはどうなっちゃうの？　病気でしんじゃうの？",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "a27b5798",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな訳ないよ……俺が何とかしてあげるから……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "45795cac",
+      "speaker": "ケット",
+      "ja": "……ほんとに？　おにぃちゃん、なんとかしてくれる？",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "ebf6ad06",
+      "speaker": "",
+      "ja": "でも発情しているとなると、何とかするということは",
+      "zh": ""
+    },
+    {
+      "key": "81.2",
+      "line_index": 81,
+      "inline_index": 2,
+      "line_hash": "ebf6ad06",
+      "speaker": "",
+      "ja": "性的に満足させるということ。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "5c7e7339",
+      "speaker": "",
+      "ja": "普段性的なイメージから程遠い、可愛らしいケットに淫らなことをする。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "b3749dd6",
+      "speaker": "",
+      "ja": "そんなことを想像するだけで俺の下半身の一部に血が集まってきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "c335a183",
+      "speaker": "ケット",
+      "ja": "お、おにぃちゃん……なんとかしてぇ……んんっ……",
+      "zh": ""
+    },
+    {
+      "key": "89.4",
+      "line_index": 89,
+      "inline_index": 4,
+      "line_hash": "c335a183",
+      "speaker": "ケット",
+      "ja": "おまたが熱いのぉ……あぁぁ……どうしよう……",
+      "zh": ""
+    },
+    {
+      "key": "89.6",
+      "line_index": 89,
+      "inline_index": 6,
+      "line_hash": "c335a183",
+      "speaker": "ケット",
+      "ja": "も、もう……ケットおかしくなっちゃうよぉ",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "eafc76ba",
+      "speaker": "",
+      "ja": "なんだか無知なケットの不安につけ込むような感じがして",
+      "zh": ""
+    },
+    {
+      "key": "91.2",
+      "line_index": 91,
+      "inline_index": 2,
+      "line_hash": "eafc76ba",
+      "speaker": "",
+      "ja": "気が引けるけれども。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "9be5ed70",
+      "speaker": "",
+      "ja": "それでもケットの不安を取り除けるのならばと、",
+      "zh": ""
+    },
+    {
+      "key": "93.2",
+      "line_index": 93,
+      "inline_index": 2,
+      "line_hash": "9be5ed70",
+      "speaker": "",
+      "ja": "俺は小さなその体を抱き寄せると",
+      "zh": ""
+    },
+    {
+      "key": "93.4",
+      "line_index": 93,
+      "inline_index": 4,
+      "line_hash": "9be5ed70",
+      "speaker": "",
+      "ja": "そのままゆっくりと服を脱がせ全裸にさせていく。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "926ecd4c",
+      "speaker": "ケット",
+      "ja": "あんっ……おにぃちゃん……服を脱がしちゃ……あっ……ああっ",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "5fddc579",
+      "speaker": "ケット",
+      "ja": "んんっ……ああ……なんかこわいよぉ……あっ、ああっ……熱いよぉ",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "d612c8b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、こら……腕に尻尾を巻き付けてきちゃ……",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "f2e2c929",
+      "speaker": "ケット",
+      "ja": "だってぇ……なんだかこわいし……は、恥ずかしいし……",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "327de3c7",
+      "speaker": "",
+      "ja": "普段元気いっぱいなケットがすごく不安げな表情を浮かべている事に、",
+      "zh": ""
+    },
+    {
+      "key": "119.2",
+      "line_index": 119,
+      "inline_index": 2,
+      "line_hash": "327de3c7",
+      "speaker": "",
+      "ja": "俺は可哀相にと思いつつも妙にドキドキしてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "f58c88c9",
+      "speaker": "",
+      "ja": "それに目の前にある裸体、剥きたてのゆで卵のようなツルンとした肌。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "e37af6be",
+      "speaker": "",
+      "ja": "そして股間にあるピッタリと閉じたスジはジンワリと湿っているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "cfabe26d",
+      "speaker": "ケット",
+      "ja": "あぁぁ……おにぃちゃん……な、なにをするの……？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ea631805",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫だから……俺を信じて……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "44c79971",
+      "speaker": "ケット",
+      "ja": "う、うん……ケット……おにぃちゃんを信じる……",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "934cccbc",
+      "speaker": "",
+      "ja": "俺の腕を制止しようとする感じで",
+      "zh": ""
+    },
+    {
+      "key": "134.2",
+      "line_index": 134,
+      "inline_index": 2,
+      "line_hash": "934cccbc",
+      "speaker": "",
+      "ja": "巻き付いていたケットの尻尾がゆっくりと離れていく。",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "c36b34ca",
+      "speaker": "",
+      "ja": "俺は自由になった手を膨らんだ恥丘に滑り込ませると",
+      "zh": ""
+    },
+    {
+      "key": "136.2",
+      "line_index": 136,
+      "inline_index": 2,
+      "line_hash": "c36b34ca",
+      "speaker": "",
+      "ja": "少し濡れたスジに指を入れた。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "477d8aa0",
+      "speaker": "ケット",
+      "ja": "あんっ……お、おにぃちゃん……そ、そこ……んんんっ……",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "8559f891",
+      "speaker": "",
+      "ja": "指をゆっくりと挿入したオマンコは、",
+      "zh": ""
+    },
+    {
+      "key": "144.2",
+      "line_index": 144,
+      "inline_index": 2,
+      "line_hash": "8559f891",
+      "speaker": "",
+      "ja": "かなり熱を帯びていて息づくように蠢き、",
+      "zh": ""
+    },
+    {
+      "key": "144.4",
+      "line_index": 144,
+      "inline_index": 4,
+      "line_hash": "8559f891",
+      "speaker": "",
+      "ja": "すっかりベチョベチョになっている。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "815d8a53",
+      "speaker": "ケット",
+      "ja": "……んっ……あっ……あぁぁぁ♥　そこに指……入れちゃ……あふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "6996a6ab",
+      "speaker": "",
+      "ja": "ゆっくりと奥へと指が入り込んでいくと、",
+      "zh": ""
+    },
+    {
+      "key": "149.2",
+      "line_index": 149,
+      "inline_index": 2,
+      "line_hash": "6996a6ab",
+      "speaker": "",
+      "ja": "ケットはワナワナと唇を震わせながら聞いたことがないような",
+      "zh": ""
+    },
+    {
+      "key": "149.4",
+      "line_index": 149,
+      "inline_index": 4,
+      "line_hash": "6996a6ab",
+      "speaker": "",
+      "ja": "すごく甘い声を上げて小さく体を震わせていく。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "4bdb3279",
+      "speaker": "ケット",
+      "ja": "あふぅん♥　んっ……あっ、あはぁんっ♥　おにぃちゃん……んんっ……",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "4a697c25",
+      "speaker": "{G_PlayerName}",
+      "ja": "ケット、大丈夫かい？　痛くない？",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "9fe408bf",
+      "speaker": "ケット",
+      "ja": "んっ、んんっ……よくわからないけど……痛くないよ……んふぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "45b4b5ab",
+      "speaker": "ケット",
+      "ja": "でもぉ……どんどんおまたが熱くなっちゃって……あふぅ♥　",
+      "zh": ""
+    },
+    {
+      "key": "162.2",
+      "line_index": 162,
+      "inline_index": 2,
+      "line_hash": "45b4b5ab",
+      "speaker": "ケット",
+      "ja": "うっ……はぁぁぁ……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "8df2d060",
+      "speaker": "",
+      "ja": "ケットの膣はかなり狭いけれど、俺の指を二本しっかりと咥え込んで",
+      "zh": ""
+    },
+    {
+      "key": "164.2",
+      "line_index": 164,
+      "inline_index": 2,
+      "line_hash": "8df2d060",
+      "speaker": "",
+      "ja": "ヒクヒクと柔襞が淫らに蠢いている。",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "e4f1fc5",
+      "speaker": "",
+      "ja": "それに普段無邪気なケットの表情が、",
+      "zh": ""
+    },
+    {
+      "key": "166.2",
+      "line_index": 166,
+      "inline_index": 2,
+      "line_hash": "e4f1fc5",
+      "speaker": "",
+      "ja": "快楽に溺れているかのように蕩けてきていた。",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "fadb8c86",
+      "speaker": "",
+      "ja": "先程までの不安な顔のケットは、もうどこにもいない。",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "58f5eb09",
+      "speaker": "ケット",
+      "ja": "あっ……あっ……おにぃちゃんっ……",
+      "zh": ""
+    },
+    {
+      "key": "171.2",
+      "line_index": 171,
+      "inline_index": 2,
+      "line_hash": "58f5eb09",
+      "speaker": "ケット",
+      "ja": "おまたを指でくちゅくちゅしちゃ……んんっ♥　んはぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "56cb6f",
+      "speaker": "ケット",
+      "ja": "……あふっ♥　こんなの初めて……あっ、ああっ……き、気持ちいい♥ ",
+      "zh": ""
+    },
+    {
+      "key": "174.2",
+      "line_index": 174,
+      "inline_index": 2,
+      "line_hash": "56cb6f",
+      "speaker": "ケット",
+      "ja": "も、もっと……おまたいじってぇ……あんっ♥　あぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "91ef570c",
+      "speaker": "",
+      "ja": "俺の指を咥え込んだ細いスジからは糸を引くネットリとしたお汁が",
+      "zh": ""
+    },
+    {
+      "key": "176.2",
+      "line_index": 176,
+      "inline_index": 2,
+      "line_hash": "91ef570c",
+      "speaker": "",
+      "ja": "後から後からジワリジワリと溢れてくる。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "ffa0a80d",
+      "speaker": "",
+      "ja": "その汁をローション代わりにして、",
+      "zh": ""
+    },
+    {
+      "key": "178.2",
+      "line_index": 178,
+      "inline_index": 2,
+      "line_hash": "ffa0a80d",
+      "speaker": "",
+      "ja": "俺は更に奥へと指を滑り込ませていった。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "5f4ffa80",
+      "speaker": "ケット",
+      "ja": "あんっ♥　あぁんっ♥　そんなに深く指を入れちゃ……んっ、はぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "cd993738",
+      "speaker": "ケット",
+      "ja": "……お、おまたが……うずうずしちゃうよぉ……",
+      "zh": ""
+    },
+    {
+      "key": "184.2",
+      "line_index": 184,
+      "inline_index": 2,
+      "line_hash": "cd993738",
+      "speaker": "ケット",
+      "ja": "あぅぅ……んっ……あぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "803e27d9",
+      "speaker": "ケット",
+      "ja": "おまたに指入れるなんて……あっ、んんっ♥　",
+      "zh": ""
+    },
+    {
+      "key": "187.2",
+      "line_index": 187,
+      "inline_index": 2,
+      "line_hash": "803e27d9",
+      "speaker": "ケット",
+      "ja": "こ、こんなに気持ちいいなんて……♥　",
+      "zh": ""
+    },
+    {
+      "key": "187.4",
+      "line_index": 187,
+      "inline_index": 4,
+      "line_hash": "803e27d9",
+      "speaker": "ケット",
+      "ja": "これ……クセになっちゃうよおぉ……はぁ……ぁぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "4d8c5c31",
+      "speaker": "",
+      "ja": "これだけ濡れていたら十分、そろそろ指を動かしても大丈夫そうだな。",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "6a4eb87",
+      "speaker": "ケット",
+      "ja": "ひゃっ！　んんっ！　おにぃちゃんっ……指を動かしちゃ……ああっ！",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "a9d15e76",
+      "speaker": "{G_PlayerName}",
+      "ja": "痛かったら言うんだよ……ほら……ほら……",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "63847871",
+      "speaker": "ケット",
+      "ja": "あっ、ああっ……おまたに指が出たり入ったりして……",
+      "zh": ""
+    },
+    {
+      "key": "204.2",
+      "line_index": 204,
+      "inline_index": 2,
+      "line_hash": "63847871",
+      "speaker": "ケット",
+      "ja": "んっ、ふぅんっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "3992f3de",
+      "speaker": "",
+      "ja": "俺が指を出し入れするように動かすと、",
+      "zh": ""
+    },
+    {
+      "key": "206.2",
+      "line_index": 206,
+      "inline_index": 2,
+      "line_hash": "3992f3de",
+      "speaker": "",
+      "ja": "ケットの股間にあるキレイなスジがヒクヒクと蠢いて、",
+      "zh": ""
+    },
+    {
+      "key": "206.4",
+      "line_index": 206,
+      "inline_index": 4,
+      "line_hash": "3992f3de",
+      "speaker": "",
+      "ja": "奥からジワリジワリと淫らな液体が溢れ出てくる。",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "6a406537",
+      "speaker": "ケット",
+      "ja": "お、おにぃちゃん♥　おまた、気持ちいいのぉ♥　んっ、ふぅぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "52cc7f4c",
+      "speaker": "ケット",
+      "ja": "やっ、あぁんっ♥　どうしよう……",
+      "zh": ""
+    },
+    {
+      "key": "212.2",
+      "line_index": 212,
+      "inline_index": 2,
+      "line_hash": "52cc7f4c",
+      "speaker": "ケット",
+      "ja": "おまた指でズポズポされるのすごく気持ちいいよぉ♥　",
+      "zh": ""
+    },
+    {
+      "key": "212.4",
+      "line_index": 212,
+      "inline_index": 4,
+      "line_hash": "52cc7f4c",
+      "speaker": "ケット",
+      "ja": "んっ♥　んんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "f30bf085",
+      "speaker": "",
+      "ja": "俺が挿入した指を動かす度に、溢れ出た愛液が絡みついて、",
+      "zh": ""
+    },
+    {
+      "key": "214.2",
+      "line_index": 214,
+      "inline_index": 2,
+      "line_hash": "f30bf085",
+      "speaker": "",
+      "ja": "ケットの濡れたオマンコからエッチな水音が鳴った。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "20a830",
+      "speaker": "ケット",
+      "ja": "……あっ、ああっ♥　おまたから、クチュクチュって音がしてるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "3b987f73",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだよ、女の子のおまたは気持ちよくなるとこういう風に濡れるんだ",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "53c22774",
+      "speaker": "ケット",
+      "ja": "んんっ……なんだかお漏らししちゃったみたいで……はずかしいよぉ",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "6f313e42",
+      "speaker": "",
+      "ja": "ケットの甘えるような可愛らしい声に、",
+      "zh": ""
+    },
+    {
+      "key": "226.2",
+      "line_index": 226,
+      "inline_index": 2,
+      "line_hash": "6f313e42",
+      "speaker": "",
+      "ja": "頭が真っ白になり股間が熱を持ち始め、",
+      "zh": ""
+    },
+    {
+      "key": "226.4",
+      "line_index": 226,
+      "inline_index": 4,
+      "line_hash": "6f313e42",
+      "speaker": "",
+      "ja": "俺は少しずつ挿入した指の動きを激しくさせていった。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "4867cc20",
+      "speaker": "",
+      "ja": "その刺激にケットの腰がビクッビクッと小さく跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "a2682485",
+      "speaker": "ケット",
+      "ja": "……あふっ♥　そんなに……指動かしちゃ……あんっ♥　んはぁぁぁ",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "d3462c12",
+      "speaker": "ケット",
+      "ja": "あぁぁ……なんか変なのぉ……んっ、んんっ……あふっ……ぅぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "dd12ee91",
+      "speaker": "",
+      "ja": "女の子の独特のニオイが俺の鼻腔に満ちてきて",
+      "zh": ""
+    },
+    {
+      "key": "236.2",
+      "line_index": 236,
+      "inline_index": 2,
+      "line_hash": "dd12ee91",
+      "speaker": "",
+      "ja": "理性をトロトロに溶かしていった。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "9f5e1b64",
+      "speaker": "",
+      "ja": "理性が効かなくなってしまうと、",
+      "zh": ""
+    },
+    {
+      "key": "238.2",
+      "line_index": 238,
+      "inline_index": 2,
+      "line_hash": "9f5e1b64",
+      "speaker": "",
+      "ja": "更に淫らな行為をしたいという欲求が暴走して",
+      "zh": ""
+    },
+    {
+      "key": "238.4",
+      "line_index": 238,
+      "inline_index": 4,
+      "line_hash": "9f5e1b64",
+      "speaker": "",
+      "ja": "ケットの肉襞を指でめくり何度も出し入れを繰り返してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "d17b6bc",
+      "speaker": "ケット",
+      "ja": "……あんっ♥　おまたが……ウズウズして……んっ……はぁぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "4c025aea",
+      "speaker": "ケット",
+      "ja": "ど、どうしよう……んふぅぅ♥　なんか変……ケット……変なのぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "362045d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "変って……どう変なんだい？",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "60f59823",
+      "speaker": "ケット",
+      "ja": "よくわからないけど……んんっ……あっ、はぁんっ♥　あぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "f4850c4a",
+      "speaker": "",
+      "ja": "俺の指がいやらしくオマンコで蠢く度に、",
+      "zh": ""
+    },
+    {
+      "key": "253.2",
+      "line_index": 253,
+      "inline_index": 2,
+      "line_hash": "f4850c4a",
+      "speaker": "",
+      "ja": "ケットの口から漏れる甘い声が徐々に大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "31728eb3",
+      "speaker": "",
+      "ja": "そして強く指を締め付けてくるオマンコは",
+      "zh": ""
+    },
+    {
+      "key": "255.2",
+      "line_index": 255,
+      "inline_index": 2,
+      "line_hash": "31728eb3",
+      "speaker": "",
+      "ja": "息づくように蠢いて愛液を更に溢れさせた。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "e27688cd",
+      "speaker": "ケット",
+      "ja": "だめぇ♥　おにぃちゃんっ、いっかい……いっかいやめてぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "23f91225",
+      "speaker": "",
+      "ja": "オマンコを激しく愛撫していくと、ケットは急にモジモジし始める。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "c7f0b394",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして痛かった？",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "14ad9a81",
+      "speaker": "ケット",
+      "ja": "ち、ちがうのぉ……んんんっ……あっ……だめぇぇぇ……だめだめぇ♥　",
+      "zh": ""
+    },
+    {
+      "key": "267.2",
+      "line_index": 267,
+      "inline_index": 2,
+      "line_hash": "14ad9a81",
+      "speaker": "ケット",
+      "ja": "おしっこ出ちゃいそうなのぉ♥　あっ、ああぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "87140e23",
+      "speaker": "",
+      "ja": "ケットは恥ずかしそうにそう言って顔を赤らめ、",
+      "zh": ""
+    },
+    {
+      "key": "269.2",
+      "line_index": 269,
+      "inline_index": 2,
+      "line_hash": "87140e23",
+      "speaker": "",
+      "ja": "プルプルと体を小刻みに震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "ce29316e",
+      "speaker": "",
+      "ja": "尻尾もピクンピクンと小さく痙攣して。",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "e2c0220c",
+      "speaker": "ケット",
+      "ja": "あんっ♥　あぁんっ♥　だめぇぇぇ♥　も、もうっ……んっ、あぁ～～ん♥",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "3448ae48",
+      "speaker": "ケット",
+      "ja": "あはぁぁぁんっ♥　出ちゃう♥　んっ、あぁぁぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "f021fb3b",
+      "speaker": "",
+      "ja": "割れ目から派手に噴き上がった液体に俺は少し驚いた。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "1c3b468d",
+      "speaker": "",
+      "ja": "まさかケットがこんなに大量の潮を吹いてしまうなんて。",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "7fe6abdd",
+      "speaker": "ケット",
+      "ja": "あぁぁぁんっ♥　やめてって言ったのにぃ……",
+      "zh": ""
+    },
+    {
+      "key": "310.2",
+      "line_index": 310,
+      "inline_index": 2,
+      "line_hash": "7fe6abdd",
+      "speaker": "ケット",
+      "ja": "んんっ……おしっこ出ちゃったよぉ",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "be434dfd",
+      "speaker": "{G_PlayerName}",
+      "ja": "違うよ……これはオシッコじゃなくて……お潮っていうんだよ",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "24ff593",
+      "speaker": "ケット",
+      "ja": "えっ……？　これって、おしっこじゃないの？　",
+      "zh": ""
+    },
+    {
+      "key": "317.2",
+      "line_index": 317,
+      "inline_index": 2,
+      "line_hash": "24ff593",
+      "speaker": "ケット",
+      "ja": "お、おしお……ってなぁに？",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "e540e1b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "お潮っていうのは、女の子が気持ちよくなると出ちゃうものなんだよ",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "4fcead83",
+      "speaker": "ケット",
+      "ja": "そ、そうなんだぁ……ケット……",
+      "zh": ""
+    },
+    {
+      "key": "324.2",
+      "line_index": 324,
+      "inline_index": 2,
+      "line_hash": "4fcead83",
+      "speaker": "ケット",
+      "ja": "おまたから……おしお漏らしちゃったぁぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "4ed8176e",
+      "speaker": "",
+      "ja": "すっかり表情を緩ませ、ケットは快感の余韻に浸っている。",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "815a2575",
+      "speaker": "",
+      "ja": "そんな顔を見ていると、嫌でも興奮してきてしまうじゃないか。",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "3dd6c771",
+      "speaker": "ケット",
+      "ja": "はぁんっ♥　おにぃちゃぁんっ♥　も、もう熱いの大丈夫だからぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "2e6823e4",
+      "speaker": "",
+      "ja": "そう言われても俺の心臓の高鳴り股間が強く脈動していった。",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "ee3eb014",
+      "speaker": "",
+      "ja": "その高ぶりに任せて、",
+      "zh": ""
+    },
+    {
+      "key": "338.2",
+      "line_index": 338,
+      "inline_index": 2,
+      "line_hash": "ee3eb014",
+      "speaker": "",
+      "ja": "すっかりトロトロになっているオマンコを指で掻き回していく。",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "4a143409",
+      "speaker": "ケット",
+      "ja": "おまた……んんっ♥　おまたぐちゅぐちゅ、やめてぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "3962966e",
+      "speaker": "ケット",
+      "ja": "……あっ、あぁんっ♥　気持ちいいっ♥　んにゃぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "608bb0b",
+      "speaker": "",
+      "ja": "明るくていい子なケットから普段とは違う",
+      "zh": ""
+    },
+    {
+      "key": "346.2",
+      "line_index": 346,
+      "inline_index": 2,
+      "line_hash": "608bb0b",
+      "speaker": "",
+      "ja": "甘く鼻にかかった声がでている事実に、頭の中が煮えたぎりそうになる。",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "df502c01",
+      "speaker": "ケット",
+      "ja": "お、おにぃちゃんっ♥　はぁ、はぁ……あっ、うふぅぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "3622dd64",
+      "speaker": "ケット",
+      "ja": "おまた、そんなに指でクチュクチュされると……ふぅんっ♥　ああぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "da9ba470",
+      "speaker": "ケット",
+      "ja": "あふぅんっ……おにぃちゃんの指……",
+      "zh": ""
+    },
+    {
+      "key": "355.2",
+      "line_index": 355,
+      "inline_index": 2,
+      "line_hash": "da9ba470",
+      "speaker": "ケット",
+      "ja": "気持ちよすぎて……んっ、はぁぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "e1fbbf7b",
+      "speaker": "",
+      "ja": "必死に俺の指を受け入れるその狭い膣を",
+      "zh": ""
+    },
+    {
+      "key": "357.2",
+      "line_index": 357,
+      "inline_index": 2,
+      "line_hash": "e1fbbf7b",
+      "speaker": "",
+      "ja": "更に激しくかき回すとケットの尻尾は刺激に耐えるように",
+      "zh": ""
+    },
+    {
+      "key": "357.4",
+      "line_index": 357,
+      "inline_index": 4,
+      "line_hash": "e1fbbf7b",
+      "speaker": "",
+      "ja": "ピクンピクンと揺れた。",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "6288da67",
+      "speaker": "ケット",
+      "ja": "そんなにおまた掻き回しちゃ……はぁぁん♥　あっ、んんんんんっ！",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "e55d8c7f",
+      "speaker": "ケット",
+      "ja": "おにぃちゃんの指がおまたの中で動いて♥　あふぅぅ♥　あっ、あぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "6c857a3f",
+      "speaker": "ケット",
+      "ja": "……っ♥　またきちゃうぅ♥　",
+      "zh": ""
+    },
+    {
+      "key": "366.2",
+      "line_index": 366,
+      "inline_index": 2,
+      "line_hash": "6c857a3f",
+      "speaker": "ケット",
+      "ja": "気持ちいいのきちゃうよぉ♥　んっ、あぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "90def9d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして……イクかな",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "2a2bff2d",
+      "speaker": "ケット",
+      "ja": "い、いくっ？　こ、これ……いくっていうの？",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "5927786e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだよ、イクって言うんだよ、ほらイッてごらん",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "ffc5aca2",
+      "speaker": "ケット",
+      "ja": "あはぁんっ♥　ケット、いっちゃうぅ♥　",
+      "zh": ""
+    },
+    {
+      "key": "380.2",
+      "line_index": 380,
+      "inline_index": 2,
+      "line_hash": "ffc5aca2",
+      "speaker": "ケット",
+      "ja": "おまたクチュクチュでイッちゃう♥",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "82ab84e2",
+      "speaker": "ケット",
+      "ja": "んはぁぁぁぁ♥　あっ♥　うはぁぁぁんっ♥　いっちゃう～～～～～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "4a8b03c2",
+      "speaker": "",
+      "ja": "何度も腰を跳ねさせながらケットは絶頂を繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "416.0",
+      "line_index": 416,
+      "inline_index": 0,
+      "line_hash": "b18e94e2",
+      "speaker": "ケット",
+      "ja": "はふぅぅん♥　んっ、ああっ♥　気持ちいいよぉ～♥",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "8ff9ff84",
+      "speaker": "",
+      "ja": "何度か体を跳ねさせた後ようやく落ち着いてくると、ケットの顔はすっかり蕩けきっていた。",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "fba12b44",
+      "speaker": "ケット",
+      "ja": "あふぅぅ……おにぃしゃん……ケット……いっちゃったぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "81ba1cfa",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうみたいだね、気持ちよかったかな？",
+      "zh": ""
+    },
+    {
+      "key": "428.0",
+      "line_index": 428,
+      "inline_index": 0,
+      "line_hash": "9903997d",
+      "speaker": "ケット",
+      "ja": "しゅごく……気持ちよかったぁ♥　おにいしゃん……ありがとぉ♥",
+      "zh": ""
+    }
+  ]
+}

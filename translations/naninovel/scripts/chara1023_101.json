@@ -1,0 +1,715 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "66b9fe14",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ううっ！？　な、なんだこの匂い……！？　は、鼻が曲がりそう……！？",
+      "zh": "──呜哇！？这、这什么味儿……！？鼻子都快熏歪了……！？"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "e11e6c1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "誰かヤバイ実験か何かでもしているのかっ！？",
+      "zh": "是不是有人在搞什么危险实验啊！？"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b0b4025c",
+      "speaker": "雫",
+      "ja": "──ん……？　この声は……",
+      "zh": "嗯……？这个声音是……"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "febd0470",
+      "speaker": "雫",
+      "ja": "やはりあなたでしたか……！　またわたくしの邪魔をしにきたのですねっ！",
+      "zh": "果然是你……！你又来妨碍我了是吧！"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "31854fa0",
+      "speaker": "{G_PlayerName}",
+      "ja": "”また”ってなんだよっ、俺がいつ雫の邪魔をしたんだよっ",
+      "zh": "什么叫“又”啊，我什么时候妨碍过你了？"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "daf2fd15",
+      "speaker": "{G_PlayerName}",
+      "ja": "というかこの匂いの発生源はお前かっ、何危ない薬を作ろうとしてるんだよっ",
+      "zh": "话说这味道的源头就是你吧，你在做什么危险药品啊！"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "fb23299f",
+      "speaker": "雫",
+      "ja": "危ない薬……？　どんな言い掛かりですか！",
+      "zh": "危险药品……？你这叫什么话！"
+    },
+    {
+      "key": "39.3",
+      "line_index": 39,
+      "inline_index": 3,
+      "line_hash": "fb23299f",
+      "speaker": "雫",
+      "ja": "わたくしはただクッキーを作ろうとしているだけです！",
+      "zh": "我只是想做曲奇而已！"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "63876cbf",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、くっきー……？　くっきーって……あの……お菓子のクッキーでいいのか……？",
+      "zh": "曲、曲奇……？曲奇指的是……那个……零食的曲奇是吧……？"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "7c34f12b",
+      "speaker": "雫",
+      "ja": "ええ、そうですよ、皆様のお茶会のために……",
+      "zh": "是的，为了大家的茶会……"
+    },
+    {
+      "key": "46.3",
+      "line_index": 46,
+      "inline_index": 3,
+      "line_hash": "7c34f12b",
+      "speaker": "雫",
+      "ja": "特にルミナ様のためにお菓子をと……それだけです",
+      "zh": "特别是为了露米娜大人做点心……仅此而已"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "882a1afa",
+      "speaker": "雫",
+      "ja": "それなのに危ない薬とか、どういう了見をしているのですか、",
+      "zh": "明明这样，你却说什么危险药品，你是什么居心啊，"
+    },
+    {
+      "key": "49.3",
+      "line_index": 49,
+      "inline_index": 3,
+      "line_hash": "882a1afa",
+      "speaker": "雫",
+      "ja": "まったく……。これだから無能な唐変木は……ブツブツ……",
+      "zh": "真是的……。所以我才说无能的蠢木头……（嘟囔）"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "6b3fee91",
+      "speaker": "{G_PlayerName}",
+      "ja": "（く、クッキー……クッキー……？　このわけのわからない匂いがクッキー……？）",
+      "zh": "（曲、曲奇……曲奇……？这股莫名其妙的臭味是曲奇……？）"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "d1c74eee",
+      "speaker": "{G_PlayerName}",
+      "ja": "（というかよく見ているとテーブルの上の材料……なんだありゃ……？",
+      "zh": "（话说仔细看看桌子上的材料……都是什么玩意儿啊……？"
+    },
+    {
+      "key": "56.2",
+      "line_index": 56,
+      "inline_index": 2,
+      "line_hash": "d1c74eee",
+      "speaker": "{G_PlayerName}",
+      "ja": "どくろマークの小瓶とか、岩っぽいものとか……）",
+      "zh": "有骷髅标记的小瓶子，还有像石头一样的东西……）"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "5f996f0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（とてもじゃないが”お菓子作り”をする材料には見えん……！",
+      "zh": "（再怎么说，这也不像是做点心的材料……！"
+    },
+    {
+      "key": "60.2",
+      "line_index": 60,
+      "inline_index": 2,
+      "line_hash": "5f996f0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "いったい何を作ろうとしているんだよ、雫のヤツは……）",
+      "zh": "你到底想做什么啊，雫那家伙……）"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "4a19792b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当にクッキーを作るつもりなのか知らんけど、",
+      "zh": "（虽然不知道你是不是真的打算做曲奇，"
+    },
+    {
+      "key": "64.2",
+      "line_index": 64,
+      "inline_index": 2,
+      "line_hash": "4a19792b",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな材料で作ったのを食ったら全員ぶっ倒れてしまうぞ……",
+      "zh": "用这种材料做出来的东西吃了，大家都会倒下的……"
+    },
+    {
+      "key": "64.4",
+      "line_index": 64,
+      "inline_index": 4,
+      "line_hash": "4a19792b",
+      "speaker": "{G_PlayerName}",
+      "ja": "最悪……うう、考えるのはよそう……）",
+      "zh": "最糟的情况……呜，还是别想了……）"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "e9e5f618",
+      "speaker": "雫",
+      "ja": "何その顔？　何か言いたげですね……ハッキリ言ったらどうですかっ？",
+      "zh": "你那是什么表情？好像有什么话想说……有话就直说啊！"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "20e2a71c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……まぁその……",
+      "zh": "啊，啊啊……这个嘛……"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "e91f53a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ハッキリ言ったところで３倍になって言い返されそうだしなぁ……。",
+      "zh": "（就算照实说了，估计也会被加倍怼回来吧……。"
+    },
+    {
+      "key": "75.2",
+      "line_index": 75,
+      "inline_index": 2,
+      "line_hash": "e91f53a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにあんな材料で作ったクッキーをルミナ達が素直に口に運ぶとも思えないし）",
+      "zh": "而且我也不觉得露米娜她们会老老实实地把那种材料做的曲奇送进嘴里）"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "43d8f881",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ここは知らぬ存ぜぬで見なかったことにしよう……うん、それがいい）",
+      "zh": "（这里就当作不知道，没看见好了……嗯，这样最好）"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "473c336a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……別に言うことはないよ、クッキー作り頑張れよ。それじゃ……",
+      "zh": "……我没什么要说的，你做曲奇加油吧。那我……"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "e343d3d6",
+      "speaker": "雫",
+      "ja": "待ちなさい、せっかくだしあなたにも特別に手伝わせてあげます",
+      "zh": "等一下，难得来了，就特别让你也来帮忙吧"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "ece3c69b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ？　なんで俺が？",
+      "zh": "哈！？为什么我要！？"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "641b8a01",
+      "speaker": "雫",
+      "ja": "お黙りなさいっ！　お菓子作りは大変な重労働なんです、",
+      "zh": "闭嘴！做点心可是很重的活，"
+    },
+    {
+      "key": "94.3",
+      "line_index": 94,
+      "inline_index": 3,
+      "line_hash": "641b8a01",
+      "speaker": "雫",
+      "ja": "なんの取り柄もない唐変木のあなたにピッタリです",
+      "zh": "正适合你这种毫无长处的蠢木头"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "674cb925",
+      "speaker": "雫",
+      "ja": "さぁ早くそこの小麦粉にバターを入れて泡だて器で練り混ぜるのです！",
+      "zh": "好了快把那边的面粉加上黄油，用打蛋器搅拌！"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "29a8bc0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "小麦粉！？　バター！？　これがっ！？",
+      "zh": "面粉！？黄油！？这个是！？"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "47455be6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（これどうみても小麦粉には見えないぞ……ヘンな匂いするし……。",
+      "zh": "（这怎么看都不像面粉啊……还有股怪味……。"
+    },
+    {
+      "key": "104.2",
+      "line_index": 104,
+      "inline_index": 2,
+      "line_hash": "47455be6",
+      "speaker": "{G_PlayerName}",
+      "ja": "いったいなんの粉だよ、少なくとも食べられる物じゃないと思うぞ）",
+      "zh": "这到底是什么粉啊，至少不像能吃的东西）"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "872bedd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あとバターって……これどう見ても肉の脂身じゃないか……。",
+      "zh": "（还有黄油……这怎么看都是肥肉吧……。"
+    },
+    {
+      "key": "108.2",
+      "line_index": 108,
+      "inline_index": 2,
+      "line_hash": "872bedd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでこれをバターだと思うんだよ……）",
+      "zh": "怎么会把这个当成黄油啊……）"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "dca57af3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（雫のやつ……どういう認知をしているんだ？　明らかにおかしいものばっかりだ）",
+      "zh": "（雫这家伙……是什么认知啊？全是些明显古怪的东西）"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "f560b9ea",
+      "speaker": "雫",
+      "ja": "ほらっ！　ブツブツ言ってないで早くしなさいっ！",
+      "zh": "喂！别磨磨唧唧的，快点动手！"
+    },
+    {
+      "key": "116.3",
+      "line_index": 116,
+      "inline_index": 3,
+      "line_hash": "f560b9ea",
+      "speaker": "雫",
+      "ja": "お茶会の時間が迫っているのですからっ！",
+      "zh": "茶会的时间就要到了！"
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "9975296b",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった……",
+      "zh": "我、我知道了……"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "3018a12",
+      "speaker": "{G_PlayerName}",
+      "ja": "（思わず頷いてしまった……こうなったら仕方ない、",
+      "zh": "（不由自主就点头了……事到如今没办法，"
+    },
+    {
+      "key": "123.2",
+      "line_index": 123,
+      "inline_index": 2,
+      "line_hash": "3018a12",
+      "speaker": "{G_PlayerName}",
+      "ja": "やるだけのことはやろう……。絶対にクッキーにはならないと思うけど……）",
+      "zh": "该做的就做吧……虽然觉得肯定成不了曲奇……）"
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "359bea71",
+      "speaker": "雫",
+      "ja": "じゃあ最初は少しずつバターを入れて小麦粉と混ぜ合わせてください",
+      "zh": "那么首先一点一点地加入黄油，和面粉混合"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "2af513fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……わかった、やってみる……",
+      "zh": "哦哦……知道了，我试试……"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "d568547c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うう……この粉、掻き回したら匂いが余計に……！",
+      "zh": "（呜……这粉末，一搅拌味道更……！"
+    },
+    {
+      "key": "134.2",
+      "line_index": 134,
+      "inline_index": 2,
+      "line_hash": "d568547c",
+      "speaker": "{G_PlayerName}",
+      "ja": "肉の脂身が常温で溶けるわけないし、いくら掻き回してもダメだよなコレ）",
+      "zh": "肥肉在常温下不可能融化，再怎么搅拌也没用的吧这个）"
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "1e3e72bf",
+      "speaker": "雫",
+      "ja": "はぁ～……人間はやはり非力ですね。全然混ざり合わないじゃないですか",
+      "zh": "哈～……人类真是没用呢。完全混不到一块儿去嘛"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "54a25cf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなの混ざり合うわけないだろっ。絶対に無理だから",
+      "zh": "这种东西怎么可能混得起来啊。绝对不可能的"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "9bc9a217",
+      "speaker": "雫",
+      "ja": "事実を指摘しただけで何を怒っているんですか。",
+      "zh": "我只是指出了事实，你生什么气啊。"
+    },
+    {
+      "key": "145.3",
+      "line_index": 145,
+      "inline_index": 3,
+      "line_hash": "9bc9a217",
+      "speaker": "雫",
+      "ja": "そもそもわたくしは普段からちゃんと混ぜ合わせていますけど？",
+      "zh": "话说我平时也都好好搅匀了的啊。"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "bc6736b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことあるわけ……ん？　あ、あれ……？",
+      "zh": "怎么可能……嗯？咦，那是……？"
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "32b8ec37",
+      "speaker": "雫",
+      "ja": "なんだ、やればできるじゃないですか。",
+      "zh": "什么嘛，这不是能做到嘛。"
+    },
+    {
+      "key": "166.3",
+      "line_index": 166,
+      "inline_index": 3,
+      "line_hash": "32b8ec37",
+      "speaker": "雫",
+      "ja": "ほら、残りのバターも入れて混ぜ合わせてください",
+      "zh": "来，把剩下的黄油也放进去，一起搅匀。"
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "9231a08e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あれ……？　なんかヘンだぞ……？",
+      "zh": "（咦……？怎么感觉不太对……？）"
+    },
+    {
+      "key": "169.2",
+      "line_index": 169,
+      "inline_index": 2,
+      "line_hash": "9231a08e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと小麦粉とバターが混ざり合っている生地になってる……）",
+      "zh": "（面粉和黄油确实搅成了面团……）"
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "ae08b132",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それに匂いも……",
+      "zh": "（而且这味道也……）"
+    },
+    {
+      "key": "173.2",
+      "line_index": 173,
+      "inline_index": 2,
+      "line_hash": "ae08b132",
+      "speaker": "{G_PlayerName}",
+      "ja": "バターもちゃんとしたものに変わってる……ど、どうなっているんだ……？）",
+      "zh": "（连黄油都变成货真价实的了……这、这是怎么回事……！？）"
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "a59440c1",
+      "speaker": "雫",
+      "ja": "あとはお砂糖ですね、ルミナ様は甘いのが大好きですから、少し多めに入れてください。わたくしはオーブンの準備をしますので",
+      "zh": "然后是糖。露米娜大人很喜欢甜食，就多加一些吧。我去准备烤箱。"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "f288e5ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……砂糖砂糖……ん？",
+      "zh": "明白了……糖，糖……嗯？"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "22c833ca",
+      "speaker": "アポロ",
+      "ja": "お静かに……彼女に気づかれてしまいます",
+      "zh": "小声点……会被她察觉到的。"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "8f67cf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……",
+      "zh": "啊，嗯……"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "4b73e072",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アポロのヤツ……そうか、材料こっそり入れ替えてくれていたのか……）",
+      "zh": "（阿波罗那小子……原来是这样，偷偷帮我把材料换了啊……）"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "ea60079d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（雫はそれに気がつかずにいたってわけか……",
+      "zh": "（也就是说雫根本没发现……）"
+    },
+    {
+      "key": "206.2",
+      "line_index": 206,
+      "inline_index": 2,
+      "line_hash": "ea60079d",
+      "speaker": "{G_PlayerName}",
+      "ja": "こうやって宇宙船内の食の安全は守られていたんだな……）",
+      "zh": "（原来船上的食品安全就是这样维护的啊……）"
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "d192ae42",
+      "speaker": "アポロ",
+      "ja": "あとはこれを入れてください",
+      "zh": "最后再把这个放进去。"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "b5fbff4d",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだこれ？",
+      "zh": "这是什么？"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "49393337",
+      "speaker": "アポロ",
+      "ja": "バニラエッセンスです、一滴だけ入れてください",
+      "zh": "这是香草精，加一滴就好。"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "f24c6461",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった、ありがとう",
+      "zh": "明白了，谢谢。"
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "e11af714",
+      "speaker": "アポロ",
+      "ja": "いえ、礼は無用です、",
+      "zh": "不，不必道谢。"
+    },
+    {
+      "key": "225.3",
+      "line_index": 225,
+      "inline_index": 3,
+      "line_hash": "e11af714",
+      "speaker": "アポロ",
+      "ja": "マスターに少しでも美味しいものを食べていただきたいだけですので……",
+      "zh": "我只是想让主人能吃上些好吃的东西而已……"
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "a226cc7a",
+      "speaker": "雫",
+      "ja": "どうですか？　ちゃんと混ぜましたか？　ダマとかになっていないでしょうね？",
+      "zh": "怎么样？搅匀了吗？没有结块吧？"
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "ec3afd42",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、問題ないと思うぞ？　ほら、こんな感じ……",
+      "zh": "啊，嗯，应该没问题吧？你看，像这样……"
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "91b7a738",
+      "speaker": "雫",
+      "ja": "ふむ……無能な唐変木にしてはそこそこの出来みたいですね、少しは褒めてあげましょう",
+      "zh": "哼……你个没用的木头脑袋，做得倒像模像样嘛。就勉为其难夸你一句吧。"
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "74ff3db2",
+      "speaker": "雫",
+      "ja": "あとはめん棒で薄く伸ばせば……ほら、早くしてください",
+      "zh": "最后用擀面杖擀薄……喂，快点动手啊。"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "c87c7af9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった。こうなりゃ最後まで付き合うよ",
+      "zh": "哦，知道了。事到如今，就陪你做到底吧。"
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "8563c82b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかしこっそり材料を入れ替えるのはいいんだけど、",
+      "zh": "（不过，偷偷换材料是挺好的，"
+    },
+    {
+      "key": "253.2",
+      "line_index": 253,
+      "inline_index": 2,
+      "line_hash": "8563c82b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと雫に料理とか教えた方が良いよなぁ……）",
+      "zh": "还是该正经教教雫怎么做菜更好吧……）"
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "82733b36",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いつか機会があれば……そんなのがあるとは思えないけど……）",
+      "zh": "（以后有机会的话……虽然感觉不太可能……）"
+    }
+  ]
+}

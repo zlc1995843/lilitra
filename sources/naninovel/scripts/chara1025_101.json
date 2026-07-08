@@ -1,0 +1,796 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "6114e038",
+      "speaker": "マロウ",
+      "ja": "あっ！　{G_PlayerName}！　探していたんすよっ！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "d7716af",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、そんなに慌てて……",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "df4bbeb4",
+      "speaker": "マロウ",
+      "ja": "今暇っすか！？　暇っすよね！？",
+      "zh": ""
+    },
+    {
+      "key": "28.3",
+      "line_index": 28,
+      "inline_index": 3,
+      "line_hash": "df4bbeb4",
+      "speaker": "マロウ",
+      "ja": "暇で暇でしょうがないっすよね！？　時間有り余っているっすよね！？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "a7769e8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（か、顔近……！）",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "8e4e667c",
+      "speaker": "マロウ",
+      "ja": "暇っすよね！？！？　退屈しているっすよね！？！？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "3907b299",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんで執拗に暇なのを訪ねるんだ？　何だか嫌な予感が……）",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "a22d8eb4",
+      "speaker": "マロウ",
+      "ja": "暇って言うっすよ！　{G_PlayerName}！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "6246cefb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……ひ、暇、だぞ……",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "eb4653a9",
+      "speaker": "マロウ",
+      "ja": "ふふん、マロウの思っていた通りっす。あんたからは暇暇オーラが出ていたっすからねっ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "d08fe54a",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、どっちかと言うと暇と言わされた方が適切だろ……",
+      "zh": ""
+    },
+    {
+      "key": "59.2",
+      "line_index": 59,
+      "inline_index": 2,
+      "line_hash": "d08fe54a",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁいいや、それで何か用か？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "79e9cde6",
+      "speaker": "マロウ",
+      "ja": "あんたはアイディル船長の凄さを知らないっすよねぇ？",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "4868d291",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……確かに凄さは知らないなぁ……。それっぽい行動をしているの見たこともないし",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "421e9174",
+      "speaker": "{G_PlayerName}",
+      "ja": "最近じゃ本当に海賊の頭なのか、それすらも疑わしく思えてきているかも",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "9ea575dd",
+      "speaker": "マロウ",
+      "ja": "はぁ～……どいつもこいつも同じ意見っすねぇ～……。",
+      "zh": ""
+    },
+    {
+      "key": "74.3",
+      "line_index": 74,
+      "inline_index": 3,
+      "line_hash": "9ea575dd",
+      "speaker": "マロウ",
+      "ja": "アイディル船長は凄さの割にナメられすぎっすよ",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "bc8d8cb",
+      "speaker": "マロウ",
+      "ja": "でもあれだけセクシーでカリスマに溢れて",
+      "zh": ""
+    },
+    {
+      "key": "77.3",
+      "line_index": 77,
+      "inline_index": 3,
+      "line_hash": "bc8d8cb",
+      "speaker": "マロウ",
+      "ja": "可愛ければナメられてしまうのも当然かもしれないっすけど",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "4b4e07fc",
+      "speaker": "マロウ",
+      "ja": "でもでも！　それでも海賊としては凄い御方なんすよ！",
+      "zh": ""
+    },
+    {
+      "key": "82.3",
+      "line_index": 82,
+      "inline_index": 3,
+      "line_hash": "4b4e07fc",
+      "speaker": "マロウ",
+      "ja": "あんたもそれを早く分かるっすよ！！",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "e803e5c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "だぁっ！　いちいち顔近づけるなって！",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "bf3d02eb",
+      "speaker": "マロウ",
+      "ja": "すまないっす、つい興奮しちゃったっす",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "3e5a8cc5",
+      "speaker": "マロウ",
+      "ja": "だから今日はあんたにアイディル船長の",
+      "zh": ""
+    },
+    {
+      "key": "96.3",
+      "line_index": 96,
+      "inline_index": 3,
+      "line_hash": "3e5a8cc5",
+      "speaker": "マロウ",
+      "ja": "素晴らしくて凄いところを説いておくっす！　感謝するっすよっ！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "952073cf",
+      "speaker": "マロウ",
+      "ja": "ちゃんとプレゼン用のスライドも用意しているっすよ！",
+      "zh": ""
+    },
+    {
+      "key": "99.3",
+      "line_index": 99,
+      "inline_index": 3,
+      "line_hash": "952073cf",
+      "speaker": "マロウ",
+      "ja": "今準備するから大人しく待っているっす！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "1469a69",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うーん……別にそんなの知りたくはないんだが……）",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "d88c35ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いちいち付き合うのも面倒だ、ここはこっそりと……）",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "3689a6c",
+      "speaker": "マロウ",
+      "ja": "あっ！　どこ行こうとしているんすか！！",
+      "zh": ""
+    },
+    {
+      "key": "113.3",
+      "line_index": 113,
+      "inline_index": 3,
+      "line_hash": "3689a6c",
+      "speaker": "マロウ",
+      "ja": "ちゃんと見張っているんすからね！　大人しくしてるっす！",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "fbf08f5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やれやれ……逃げたら逃げたでめんどくさいことになりそうだ……。",
+      "zh": ""
+    },
+    {
+      "key": "116.2",
+      "line_index": 116,
+      "inline_index": 2,
+      "line_hash": "fbf08f5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょうがない、何をするのか知らないけど、付き合うか……）",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "a9482890",
+      "speaker": "マロウ",
+      "ja": "さぁさぁ、アイディル船長の武勇伝の始まり始まりっす！　拍手するっすよ！",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "83dbd117",
+      "speaker": "マロウ",
+      "ja": "まずはアイディル船長の素晴らしい功績から説明するっす！　スライドを見るっす！",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "f4aee1f",
+      "speaker": "マロウ",
+      "ja": "ここはとある惑星……今この星は滅亡の危機に瀕しているっす",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "833d5674",
+      "speaker": "マロウ",
+      "ja": "なんとこの星には直径１００キロを超える隕石が迫っているっすよ……",
+      "zh": ""
+    },
+    {
+      "key": "136.3",
+      "line_index": 136,
+      "inline_index": 3,
+      "line_hash": "833d5674",
+      "speaker": "マロウ",
+      "ja": "こんなのがぶつかったら星はひとたまりもないっす",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "8ba9d52a",
+      "speaker": "マロウ",
+      "ja": "人々は嘆き、悲しみ、もはやできることは天に祈るのみ……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "485fb955",
+      "speaker": "マロウ",
+      "ja": "しかしっす！　そんな状況をアイディル船長が知り、",
+      "zh": ""
+    },
+    {
+      "key": "142.3",
+      "line_index": 142,
+      "inline_index": 3,
+      "line_hash": "485fb955",
+      "speaker": "マロウ",
+      "ja": "悲しき星の人たちのために立ち上がったっす！",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "ab45cc06",
+      "speaker": "マロウ",
+      "ja": "なんとアイディル船長は一人爆弾を持って隕石に乗り込み、",
+      "zh": ""
+    },
+    {
+      "key": "145.3",
+      "line_index": 145,
+      "inline_index": 3,
+      "line_hash": "ab45cc06",
+      "speaker": "マロウ",
+      "ja": "そしてどっかーんっ！　なんと隕石を一人で爆弾一つで破壊してしまったっす！",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "2955f957",
+      "speaker": "マロウ",
+      "ja": "いやぁ～、素晴らしいっすね～♪　悲しき人々のために、",
+      "zh": ""
+    },
+    {
+      "key": "148.3",
+      "line_index": 148,
+      "inline_index": 3,
+      "line_hash": "2955f957",
+      "speaker": "マロウ",
+      "ja": "危険も顧みず一人で隕石に乗り込む……なかなかできることじゃないっすよ！",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "156dada7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや、なんだこのありえない話は……。",
+      "zh": ""
+    },
+    {
+      "key": "151.2",
+      "line_index": 151,
+      "inline_index": 2,
+      "line_hash": "156dada7",
+      "speaker": "{G_PlayerName}",
+      "ja": "明らかにツッコミどころ満載の作り話じゃないか……）",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "9eda79f4",
+      "speaker": "マロウ",
+      "ja": "次のお話に行くっす！　あんたはたぶん知らないだろうっすけど、",
+      "zh": ""
+    },
+    {
+      "key": "155.3",
+      "line_index": 155,
+      "inline_index": 3,
+      "line_hash": "9eda79f4",
+      "speaker": "マロウ",
+      "ja": "アイディル船長は宇宙の危機も救ったんっすよ！",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "79fd663e",
+      "speaker": "マロウ",
+      "ja": "スライドを観るっす！　このブラックホールの爆発を止めたのもアイディル船長っす！",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "33ecc5ee",
+      "speaker": "マロウ",
+      "ja": "このブラックホールが爆発したら色々ヤバかったみたいっすよ～。",
+      "zh": ""
+    },
+    {
+      "key": "161.3",
+      "line_index": 161,
+      "inline_index": 3,
+      "line_hash": "33ecc5ee",
+      "speaker": "マロウ",
+      "ja": "ほっといたら銀河がパズルのように",
+      "zh": ""
+    },
+    {
+      "key": "161.5",
+      "line_index": 161,
+      "inline_index": 5,
+      "line_hash": "33ecc5ee",
+      "speaker": "マロウ",
+      "ja": "バラバラになってしまうほどの危機だったみたいっす！",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "23d88c5f",
+      "speaker": "マロウ",
+      "ja": "それを頭脳明晰なアイディル船長はちょちょいって解決っす！",
+      "zh": ""
+    },
+    {
+      "key": "164.3",
+      "line_index": 164,
+      "inline_index": 3,
+      "line_hash": "23d88c5f",
+      "speaker": "マロウ",
+      "ja": "いやぁ～！　アイディル船長は勇敢で勇猛で、",
+      "zh": ""
+    },
+    {
+      "key": "164.5",
+      "line_index": 164,
+      "inline_index": 5,
+      "line_hash": "23d88c5f",
+      "speaker": "マロウ",
+      "ja": "なんて頭の良いカリスマ船長なんでしょうねぇ～♪",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "fa78f06e",
+      "speaker": "マロウ",
+      "ja": "今あんたが生きているのもアイディル船長のおかげっすよ！　感謝するよーにっす！！",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "ea5dc51a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もはや本気なのか冗談なのかわけがわからん……",
+      "zh": ""
+    },
+    {
+      "key": "174.2",
+      "line_index": 174,
+      "inline_index": 2,
+      "line_hash": "ea5dc51a",
+      "speaker": "{G_PlayerName}",
+      "ja": "証拠も何もないのに、何を根拠にそんな話を信じればいいんだよ……）",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "78e3e7d6",
+      "speaker": "マロウ",
+      "ja": "どうっすか？　アイディル船長の二つの多大な功績は？　最高っすよね？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "12bb8304",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……えっと……うん、まぁ、そのすごい、な……うん……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "115588fb",
+      "speaker": "マロウ",
+      "ja": "そうっすよね！　そうっすよね！　あんたなら分かってくれると思っていたっすよ！",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "de8f0b65",
+      "speaker": "マロウ",
+      "ja": "それじゃあ次は海賊の船長としての素晴らしさを説明するっすよ！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "88bea0e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ？　まだあるの？",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "d37db5a6",
+      "speaker": "マロウ",
+      "ja": "当たり前じゃないっすか！　アイディル船長を語るにはまだまだ全然っすよ！",
+      "zh": ""
+    },
+    {
+      "key": "195.3",
+      "line_index": 195,
+      "inline_index": 3,
+      "line_hash": "d37db5a6",
+      "speaker": "マロウ",
+      "ja": "アイディル船長の功績や実力はこの宇宙で一番なんすから！",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "38d56c1",
+      "speaker": "マロウ",
+      "ja": "さぁ続けるっすよ！　次のスライドを観るっす──",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "4ce80454",
+      "speaker": "マロウ",
+      "ja": "──とまぁ、こんな感じで敵をずばばーんってやっつけたっすよっ！",
+      "zh": ""
+    },
+    {
+      "key": "212.3",
+      "line_index": 212,
+      "inline_index": 3,
+      "line_hash": "4ce80454",
+      "speaker": "マロウ",
+      "ja": "いやぁ！　さすがアイディル船長！　たまらないっすよねぇ～！",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "a7a03336",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もう何時間話しているんだ……。",
+      "zh": ""
+    },
+    {
+      "key": "215.2",
+      "line_index": 215,
+      "inline_index": 2,
+      "line_hash": "a7a03336",
+      "speaker": "{G_PlayerName}",
+      "ja": "疲れと眠気が……よくもまぁこんなに次々と話を作れるものだな……）",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "5d04f71f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもそれだけマロウがアイディルのことを敬っているってことなんだろうけど、",
+      "zh": ""
+    },
+    {
+      "key": "219.2",
+      "line_index": 219,
+      "inline_index": 2,
+      "line_hash": "5d04f71f",
+      "speaker": "{G_PlayerName}",
+      "ja": "聞かされる方はたまったものじゃないな……）",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "99451395",
+      "speaker": "マロウ",
+      "ja": "アイディル船長のエピソードはまだまだあるんすけど、今はこれでおしまいっす",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "d08f74c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……終わったのか……",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "364c36dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっと終わってくれたのか……やっと解放される……）",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "40d809be",
+      "speaker": "マロウ",
+      "ja": "それじゃあ次はアイディル船長の休日編っす！",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "3e7e2366",
+      "speaker": "{G_PlayerName}",
+      "ja": "──は？",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "61a6442c",
+      "speaker": "マロウ",
+      "ja": "アイディル船長の華麗な休日のスライドを観つつ、",
+      "zh": ""
+    },
+    {
+      "key": "241.3",
+      "line_index": 241,
+      "inline_index": 3,
+      "line_hash": "61a6442c",
+      "speaker": "マロウ",
+      "ja": "マロウ達もそれに倣って休憩するっす！",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "835a913c",
+      "speaker": "マロウ",
+      "ja": "まずは優雅なお茶会編っす！",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "9e9ea6a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、も、もう勘弁しれくれぇっ……！　俺を開放してくれぇ～！",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "a80911fe",
+      "speaker": "マロウ",
+      "ja": "あっ！　どこ行くすか！　逃がさないっすよっ！",
+      "zh": ""
+    },
+    {
+      "key": "254.3",
+      "line_index": 254,
+      "inline_index": 3,
+      "line_hash": "a80911fe",
+      "speaker": "マロウ",
+      "ja": "マロウと一緒に優雅なお茶会をするっす！！",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "b2dcf027",
+      "speaker": "マロウ",
+      "ja": "休日編のあとは就寝編もあるんっすからねっ！",
+      "zh": ""
+    },
+    {
+      "key": "257.3",
+      "line_index": 257,
+      "inline_index": 3,
+      "line_hash": "b2dcf027",
+      "speaker": "マロウ",
+      "ja": "今日は一日アイディル船長漬けっすよっ！！",
+      "zh": ""
+    }
+  ]
+}
