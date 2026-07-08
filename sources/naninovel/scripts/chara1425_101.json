@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "be39ec3d",
+      "speaker": "",
+      "ja": "宇宙船のラウンジで{G_PlayerName}が地図を眺めていると、それを見つけたノルンが声をかけてきた。",
+      "zh": ""
+    },
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "72c1074d",
+      "speaker": "ノルン",
+      "ja": "あっ！　機械士クンいる～！　わわっ、何コレー？！",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "9eb740cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、ノルン？　ああ、これはちょっと変わった地図で周囲の景色を見渡せるんだ",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "953b6f58",
+      "speaker": "",
+      "ja": "その地図は、まるで現地に行ったかのように街並みが見られる特殊なもので、初めて見るそれにノルンは興味津々に前のめりで覗き込んでくる。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "761e8169",
+      "speaker": "ノルン",
+      "ja": "流石、王女様の船っ！　高画質～！　ねね、ノルンちゃんにも触らせてくれたり、する？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "722686a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、構わないけど……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "6306a086",
+      "speaker": "",
+      "ja": "{G_PlayerName}は、ぎこちない手つきでその地図の使い方をノルンに教えた。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "e101d806",
+      "speaker": "",
+      "ja": "機械に関して飲み込みが早いノルンは、そんな{G_PlayerName}の説明をすぐに覚えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "1b767f3a",
+      "speaker": "ノルン",
+      "ja": "どこか配信映えしそうな場所はないかな～？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "1b91b50f",
+      "speaker": "",
+      "ja": "楽しそうにそう言いながらノルンは{G_PlayerName}と一緒に地図で色々な場所を眺めていた。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "fe36ab12",
+      "speaker": "ノルン",
+      "ja": "わぁ～、こことかどうかなぁ～？",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "fdd465a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここは……配信映えはするとは思うけど、危険だと思うぞ……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "883026b5",
+      "speaker": "ノルン",
+      "ja": "危険でも問題ナシ！☆　それにノルンちゃんはリリアンだからね～、皆が楽しんでくれるなら、どこにでも行けちゃうよ♪",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "40cd1819",
+      "speaker": "{G_PlayerName}",
+      "ja": "リリアンだとしてもノルンに危ない目には遭ってほしくないな……それに俺だけじゃなくてファンのみんなもそう思ってるんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "e1dc14c1",
+      "speaker": "",
+      "ja": "{G_PlayerName}のその言葉にノルンはドキッとして、頬を少し赤らめる。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "2912434d",
+      "speaker": "ノルン",
+      "ja": "えっ、心配して、くれるの……？　あ、ありがとっ……！　エヘヘ、機械士クンってば、優し～☆",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "65cc3c01",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはそうだよ、心配するよ",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "d46d0c14",
+      "speaker": "",
+      "ja": "あまり面と向かって心配されることがないノルンは、{G_PlayerName}が心配してくれたことに照れていた。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "37d21dc",
+      "speaker": "ノルン",
+      "ja": "コホン！　ねー機械士クンはさ、どこの星から来たの？　機械士クンの星もこの地図使って探索しようよ～♪",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "f5db94f1",
+      "speaker": "",
+      "ja": "照れ隠しにノルンはわざとらしい咳払いをすると話を逸らす。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "7ae4a681",
+      "speaker": "",
+      "ja": "しかし、自分の星に関して話を振られた{G_PlayerName}は、少し困惑しながらノルンに告げた。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "410339c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の住んでいた星なんて配信映えもしないし、ノルンにとっては退屈かもしれないぞ",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "a167796",
+      "speaker": "",
+      "ja": "気恥ずかしさからそう言う{G_PlayerName}に対して、ノルンはノリノリで迫る。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "24480699",
+      "speaker": "ノルン",
+      "ja": "それでもいいのー！　ほら、探そっ！　どの辺りかな～？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "e01c6b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、ちょっと！　そんな勝手にっ！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "62118d4f",
+      "speaker": "",
+      "ja": "すでに地図の扱いに慣れたノルンは、勝手に{G_PlayerName}の星を探し始めた。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "63b3b6b3",
+      "speaker": "ノルン",
+      "ja": "ねえねえ♪　どの辺なの？　教えてよ～♪",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "b38601a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからぁ……俺の故郷なんて本当につまらない場所なんだけどなぁ",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "e5960b32",
+      "speaker": "ノルン",
+      "ja": "いいからいいから♪　地図で見ながら機械士クンの故郷のこと色々と教えて～♪",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "6c90aeb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……仕方ないなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "abda1bf1",
+      "speaker": "ノルン",
+      "ja": "ふふふっ♪　機械士クンがどんなところで育ったんだろう？　ワクワクするな～♪",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e922bfea",
+      "speaker": "",
+      "ja": "その後はアイドル業や配信業も忘れ、ノルンは{G_PlayerName}の故郷の話に興味深そうに聞き入っていた。",
+      "zh": ""
+    }
+  ]
+}
