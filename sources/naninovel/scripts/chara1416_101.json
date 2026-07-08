@@ -1,0 +1,733 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "1499b3fa",
+      "speaker": "ケット",
+      "ja": "──こちらハマヤ？　で～すっ♪　お納めくださーいっ♪",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "9526a7a7",
+      "speaker": "ケット",
+      "ja": "──こちらお守りでーす♪",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "4b920c7b",
+      "speaker": "ケット",
+      "ja": "お母さんとはぐれちゃったの？　ケットお姉さんが一緒に探してあげるからーっ！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "1ac39ad",
+      "speaker": "",
+      "ja": "巫女としてやる気満々のケット。境内を忙しそうに右へ左へと大慌て。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "4cbdb360",
+      "speaker": "",
+      "ja": "他の巫女達とうまく連携をしながら、ケットは大勢の参拝客の相手をしていた。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "eb5717ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "（話くらいはできると思ったんだけど、予想以上に忙しそうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "eefb23db",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも、ちゃんと働けてるな。ケットって俺が思ってるよりしっかりしてそうだ）",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "77865bde",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今話しかけると迷惑になりそうだな……落ち着くまで少し待つか）",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "82f715c3",
+      "speaker": "",
+      "ja": "──数時間後",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "2f830f71",
+      "speaker": "{G_PlayerName}",
+      "ja": "（だいぶ参拝客も減ったな……どれどれ、ケットはどこにいるのかな～……）",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "fd84c9b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（お、いた……掃除してるのか……今なら話しかけても大丈夫そうだな）",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "a35bdf48",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ケット",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "33c725f",
+      "speaker": "ケット",
+      "ja": "──あっ！　おにぃちゃん！　来てくれたんだ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "2d2d38c9",
+      "speaker": "",
+      "ja": "俺が声を掛けると、ケットが嬉しそうにテクテクと近づいてくる。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "78b07d24",
+      "speaker": "",
+      "ja": "巫女装束のケットの可愛さに思わず頭を撫でると、ケットは嬉しそうに頬を緩めた。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "f890cee7",
+      "speaker": "ケット",
+      "ja": "えへへ……おにぃちゃん、今からお参り？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "720c4c24",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、お参りはもうとっくに済ませてんだ。ケットが忙しそうにしてたから少し待ってた",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "f66cfbba",
+      "speaker": "ケット",
+      "ja": "そうなんだ～？　そんなの気にせずに話しかけてくれてもよかったのに～",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "7133d913",
+      "speaker": "{G_PlayerName}",
+      "ja": "お仕事の邪魔しちゃ申し訳ないって。それより一人で広い境内の掃除は大変だろ？　俺も手伝うよ",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "d0b4e8f2",
+      "speaker": "ケット",
+      "ja": "いいのっ！？　ありがと、おにぃちゃん！",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "4af353d6",
+      "speaker": "",
+      "ja": "近くにあるほうきを手に取って、落ち葉を集めながらゴミを拾い始めた。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "a05c6245",
+      "speaker": "ケット",
+      "ja": "──そう、なんだ……はぐれちゃったんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "cc756ddf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ケット……？",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "9b218",
+      "speaker": "",
+      "ja": "ふとケットの寂しそうな声が聞こえて視線を向ける。ケットはしょんぼりとしながら、一羽の小鳥と話し込んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "76dbae2d",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "ee611e5f",
+      "speaker": "ケット",
+      "ja": "あ……おにぃちゃん……この子、お母さんとはぐれちゃったんだって……かわいそう……",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "1fbc8def",
+      "speaker": "",
+      "ja": "ケットは悲しそうにつぶやくと、小鳥の頭を撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "f4106372",
+      "speaker": "ケット",
+      "ja": "心配しないで、小鳥さん……ケットがお母さん見つけてあげるから",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "2a5f9e83",
+      "speaker": "ケット",
+      "ja": "さっきだって迷子の男の子のお母さんを見つけられたんだから……！　だからケットに任せて！　絶対に見つけてあげるから……！！",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "b14f1d6b",
+      "speaker": "ケット",
+      "ja": "そっか～……わからないんだ……お話を聞いてくれてありがとう",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "726c646f",
+      "speaker": "ケット",
+      "ja": "んー……この子のお母さんどこにいるんだろ……さっきの男の子のときはすぐにお母さん見つかったのに……",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "e8732365",
+      "speaker": "",
+      "ja": "ケットは他の鳥に聞き込みをしている。しかし「あっちで見た」「こっちで見た」「初めて見る子でわからない」と情報はバラバラ。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "8d2e5de",
+      "speaker": "",
+      "ja": "流石のケットも情報の無さにしょんぼりとし始め、心なしか肩に乗っている小鳥も寂しそうにしているように見えた。",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "93f9508",
+      "speaker": "ケット",
+      "ja": "うう……この子、もうお母さんと再会できないのかな……そんなの悲しいよ……",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "6824d3e7",
+      "speaker": "ケット",
+      "ja": "ごめんね、小鳥さん……ケットがもっとしっかりしていればすぐに見つけられるのに……",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "3c319cec",
+      "speaker": "{G_PlayerName}",
+      "ja": "ケット……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "ab2d2583",
+      "speaker": "ケット",
+      "ja": "はっ！　ダメダメ！　落ち込んでいる場合じゃないんだから！　早くこの子のお母さんを見つけてあげなきゃ！",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "936ba427",
+      "speaker": "ケット",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "9f6fc792",
+      "speaker": "",
+      "ja": "ケットはあっちこっちと境内を走り回りながら、鳥以外の動物にも小鳥の母親のことを聞いて回った。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "b73e822a",
+      "speaker": "",
+      "ja": "だが進展無く、ケットの息が切れ始める。意気揚々としていた猫耳もしゅんと垂れ、その姿は見ているだけで痛ましく思えてくる。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "c028dfe5",
+      "speaker": "",
+      "ja": "だんだんと陽も傾き始め、小鳥はケットの肩で寂しそうに泣き始める。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "9d9c8adc",
+      "speaker": "",
+      "ja": "ケットは言葉無く小鳥を見つめ、今にも泣きそうな視線に小鳥の鳴き声もさらに大きくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "33ef625",
+      "speaker": "ケット",
+      "ja": "ごめん、ね……小鳥さん……ケット、何もしてあげられない……",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "f225db2",
+      "speaker": "ケット",
+      "ja": "小鳥のお母さん……どこにいるの……？　この子が寂しがってるよ……お母さん……",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "3c319cec",
+      "speaker": "{G_PlayerName}",
+      "ja": "ケット……",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "c7ad046",
+      "speaker": "",
+      "ja": "俺はケットを少しでも慰めようと頭を撫で落ち着かせる。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "4171bfe5",
+      "speaker": "",
+      "ja": "それでもケットは悲しそうな視線のまま、猫耳もしゅんと垂れたままだった。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "94a3ba69",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どうにかしてあげたいけど、ケットが見つけられないのに俺が見つけられるわけが……）",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "4e948320",
+      "speaker": "{G_PlayerName}",
+      "ja": "（鳥、か……そういえば子供の頃、コハルとよく鳥を追いかけていたな……）",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "82dc3b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（相手は空を飛んでいるのに、いつかは追いつけるって、そんな風に思いながら──）",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "8a0c5892",
+      "speaker": "{G_PlayerName}",
+      "ja": "あーっ！　またどっか行ったー！",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "844a7fb7",
+      "speaker": "コハル",
+      "ja": "しょうがないよー……空を飛んでるんだもん",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "59e69de7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あいつらズルいよなーっ！　なんも無い空を自由に飛んでさぁ……！",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "8581b811",
+      "speaker": "コハル",
+      "ja": "羽があるからねー……あ……でもそーいえば前に聞いたけど──",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "d287f55f",
+      "speaker": "{G_PlayerName}",
+      "ja": "──高い、外から見えにくい場所",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "940151a1",
+      "speaker": "ケット",
+      "ja": "へ……？",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "85f3c1ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと思い出してな……鳥の巣は、高くて人や動物から見えにくい場所にあることが多いんだ",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "17b275a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "子供の頃、それで鳥の巣を見つけて観察していたなって",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "b313db8a",
+      "speaker": "ケット",
+      "ja": "ホントに！？",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "9e571622",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、少なくとも俺が暮らしていた村の近くにいた鳥達はそうだった。もしかしたらその小鳥の巣も……",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "9b0fab44",
+      "speaker": "ケット",
+      "ja": "やった！　ありがと、おにぃちゃん！　それなら見つけられるかもしれない！",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "7497e3f9",
+      "speaker": "",
+      "ja": "そう言うと、ケットは何か思い当たる場所があったのか走り出した。",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "717df1f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい待てって！",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "6dc7273f",
+      "speaker": "ケット",
+      "ja": "あっ！　小鳥さんっ！",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "5a685280",
+      "speaker": "",
+      "ja": "大きな木、何か巻き付けてある木のふもとに来ると、小鳥はケットの肩から飛び立つ。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "8ae00059",
+      "speaker": "",
+      "ja": "その直後、そっくりな鳥……多分親鳥が小鳥に近づき、二羽の鳥は楽しそうに俺達の頭の上を鳴きながらグルグルと回る。",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "8423f04c",
+      "speaker": "ケット",
+      "ja": "あー……よかったぁ……お母さんと再会できたみたい",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "65fdc6ff",
+      "speaker": "小鳥",
+      "ja": "ピーピー！　ピーピー！",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "7e3aa2d6",
+      "speaker": "ケット",
+      "ja": "うん、うん！　お礼なんていいよ！　それよりももうお母さんとはぐれちゃダメだからねっ",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "eefd66f7",
+      "speaker": "小鳥",
+      "ja": "ピー！",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "5c316a00",
+      "speaker": "",
+      "ja": "小鳥はお礼を言うように大きく鳴くと、母鳥と共に飛んで行った。",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "a4e356d",
+      "speaker": "ケット",
+      "ja": "おにぃちゃん、すごーい！",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "4b01715f",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うおっ！",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "8d31a8bd",
+      "speaker": "",
+      "ja": "ケットは俺に飛びつくように抱きついてくる。や、俺じゃ見つけてあげることができなかったし、ケットが諦めなかっただからって",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "c53dc37f",
+      "speaker": "",
+      "ja": "俺は良かったなと思いつつケットを抱きしめ、そして小さな頭をくしゃくしゃと撫でまわしていく。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "f1a581ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "良かったな、母鳥と再会できてさ",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "ef7167a0",
+      "speaker": "ケット",
+      "ja": "うんっ！　全部全部おにぃちゃんのおかげだよーっ！",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "1754475",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺じゃ見つけてあげることができなかったし、ケットが諦めなかったからだって",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "23f74fc4",
+      "speaker": "ケット",
+      "ja": "でもでもやっぱりおにぃちゃんのおかげだよっ！　本当にありがとう！！",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "a2622b20",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ二人のおかげってことで……それじゃあそろそろ戻るか。掃除の続きしないとな",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "bc67ea2b",
+      "speaker": "ケット",
+      "ja": "うん！！　えへへ……なんだか新年からすごくいいことが……今年はいいことがいっぱいありそうだね、おにぃちゃん",
+      "zh": ""
+    }
+  ]
+}
