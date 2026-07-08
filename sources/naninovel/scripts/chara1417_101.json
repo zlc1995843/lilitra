@@ -1,0 +1,400 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "fe19da5",
+      "speaker": "",
+      "ja": "{G_PlayerName}は石榴の神社で祭りがあることを知り、朱桃を誘ってみることにした。",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "83b71cd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "神社の催事を見てみるのはどうだ？",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "1d828026",
+      "speaker": "朱桃",
+      "ja": "ううむ……他所の神が顔を出してよいものか……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "932ef754",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ名乗らなければ気づかれないと思うし……いいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "aaa6cf1c",
+      "speaker": "",
+      "ja": "{G_PlayerName}に誘われたことがまんざらでもなく、朱桃は少し照れながらも小さく首を縦に振る。",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "9092cd3b",
+      "speaker": "朱桃",
+      "ja": "まったく……仕方ないのう……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "819c7e05",
+      "speaker": "",
+      "ja": "そう言いつつも嬉しそうに朱桃は{G_PlayerName}と一緒に祭りに繰り出すことにした。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "6be672cc",
+      "speaker": "朱桃",
+      "ja": "思った以上に賑やかじゃな……しかもこんなにも多くの人間が来ておるとは……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "7f4af112",
+      "speaker": "",
+      "ja": "巫女の服のまま祭りに姿を現した朱桃は、祭りの灯りと人混みに少し戸惑っている。",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "3a272d8",
+      "speaker": "",
+      "ja": "そんな朱桃に{G_PlayerName}は優しく声をかけた。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "361aa17f",
+      "speaker": "{G_PlayerName}",
+      "ja": "せっかくだから少し屋台を回ってみようか",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "1c08b5cb",
+      "speaker": "朱桃",
+      "ja": "屋台か……色々な店が出ているものじゃな",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "aa2dbb13",
+      "speaker": "",
+      "ja": "{G_PlayerName}に促された朱桃は一緒に様々な屋台を見て回ることにする。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "6e387ea1",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは何の屋台なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "42ea8888",
+      "speaker": "朱桃",
+      "ja": "それは金魚すくいじゃ。本来金魚は冬眠する魚じゃが……水温を調節しているようじゃな",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "55899194",
+      "speaker": "{G_PlayerName}",
+      "ja": "魚を取る……ってことだよな。食べるのか？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "47069d34",
+      "speaker": "朱桃",
+      "ja": "違うわ、育てるのじゃ。……教えたわしが言うのもなんじゃが、人間は面白いことをするよのう",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "170f0589",
+      "speaker": "朱桃",
+      "ja": "おや、こっちの屋台では雲のようなものを売っておるぞ？　これはなんなのだ？",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "fb93cd7",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、それは知ってるぞ。綿飴ってやつだ。食べてみるか？　すみません、一つください",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "3926b3e0",
+      "speaker": "朱桃",
+      "ja": "はむはむ……むっ！　すごく甘いぞ！",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "faa1bcfa",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、気に入ったならよかった",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "ef1a96c9",
+      "speaker": "朱桃",
+      "ja": "飴がこんなにフワフワになるとは♥　んっ、んんっ♥　面白いし美味しいのう♥",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "43862d8a",
+      "speaker": "",
+      "ja": "屋台を回って楽しむうちに、朱桃は人の温かさを感じて次第に笑顔が増えていった。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "74e2ec81",
+      "speaker": "",
+      "ja": "そんな朱桃の姿を{G_PlayerName}は微笑ましく見つめていたが、屋台のある物に目が止まる。",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "edd09bd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "すみません、これを一つ下さい",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "1da0d569",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}が購入したのは狐のお面だった。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "1fc6d083",
+      "speaker": "朱桃",
+      "ja": "そなた、何を買ったのだ？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "a652bc9b",
+      "speaker": "",
+      "ja": "興味津々に覗き込んできた朱桃に、{G_PlayerName}は購入したお面を差し出して呟く。",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "4c20aad5",
+      "speaker": "{G_PlayerName}",
+      "ja": "こういうの、好きなんじゃないか？　似合うと思うし",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "f408158",
+      "speaker": "",
+      "ja": "差し出された狐のお面を受け取った朱桃は、少し頬を赤く染めて照れていた。",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "e9316e2c",
+      "speaker": "朱桃",
+      "ja": "……そなたは、わしをよく見ておるな……少し照れるではないか",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "1e9a58ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "はははははっ……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "5226f327",
+      "speaker": "",
+      "ja": "お互いに少し照れつつも、{G_PlayerName}と朱桃は二人で祭りを満喫していく。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "fa3b3683",
+      "speaker": "",
+      "ja": "そしてお祭りも終盤に差し掛かり、終了の知らせが流れた。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "58dfe3b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そろそろお祭りも終わりかぁ",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "7f2672b3",
+      "speaker": "",
+      "ja": "{G_PlayerName}の横顔を見つめながら、朱桃は袖をクイクイと引っ張った。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "6d2f0afe",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "395728b",
+      "speaker": "朱桃",
+      "ja": "わしは神じゃが……そなたと、こうして笑っていられるのが嬉しい",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "c6cd93c",
+      "speaker": "",
+      "ja": "恥ずかしそうにそう呟いた朱桃に、{G_PlayerName}はドキッとしながらも嬉しさが込み上げる。",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "8f2bd7e2",
+      "speaker": "朱桃",
+      "ja": "これからも……そなたの隣で笑わせてくれ",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "4aa0e47a",
+      "speaker": "",
+      "ja": "頷いた{G_PlayerName}を見て、朱桃は着けていた狐のお面を外して嬉しそうに微笑んだ。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "ca8c86a7",
+      "speaker": "朱桃",
+      "ja": "では、そなたの隣をしばらく借りるとしよう♥",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "23a2cf19",
+      "speaker": "",
+      "ja": "そう言った朱桃は照れながらも{G_PlayerName}の手をそっと握る。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "1a07cf1",
+      "speaker": "",
+      "ja": "その手を握り返しながら{G_PlayerName}は朱桃と並んで帰路を歩いた。",
+      "zh": ""
+    }
+  ]
+}
