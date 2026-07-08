@@ -1,0 +1,580 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "d16858ef",
+      "speaker": "ルナ",
+      "ja": "パパっ！　ほら、はやくはやくぅっ！　こっちこっち！！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "855ad55f",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかってるって……！　そんな引っ張るなって……！！",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "b27f3075",
+      "speaker": "",
+      "ja": "カジノに遊びに来た俺を案内すると張り切っているルナ。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "c645fe95",
+      "speaker": "",
+      "ja": "しかしルナは一か所に留まるのが苦手なのか、すぐに別の場所に移動してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "def8816",
+      "speaker": "",
+      "ja": "ルナに引っ張り回されるようにカジノを移動するが、まだ何もゲームが出来ずにいた。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "2fa7f128",
+      "speaker": "ルナ",
+      "ja": "パパ、こっちーっ！　はやくーっ",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "d341c5bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……って、ルナ、少し落ち着け……！　カジノを案内するって言っても、そんな矢継ぎ早にあっちこっち連れ回されちゃゲームも楽しめないって",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "9793f5ac",
+      "speaker": "ルナ",
+      "ja": "えー……そんなに連れ回したりしてるかなぁ～？　でもパパがそう言うんだったら……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "27a6efd1",
+      "speaker": "ルナ",
+      "ja": "じゃあ何して遊ぶ？　ダークカード？　アタックザベル？　シューティングスターもいいよねーっ",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "9b4e2f8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　え？　ダーク、何……？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "b0e5fe06",
+      "speaker": "ルナ",
+      "ja": "ダークカード知らないの？",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "cd6b193b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……初めて聞いたよ……。カードゲームだろうとは思うけど",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "e7f61fd8",
+      "speaker": "ルナ",
+      "ja": "んー……簡単に説明すると～……モンスターカードとアイテムカードの二種類のカードで対戦するゲームだよ",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "541e311f",
+      "speaker": "ルナ",
+      "ja": "場にカードをモンスターカードを置いて、アイテムカードで強化しながらバトルするの！　ルナ結構強いんだーっ",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "2fbebbe4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふーん……対戦形式なのか……カジノと言えばポーカーとかそういうのイメージしてたけど、そういうものあるんだな",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "962c9c53",
+      "speaker": "ルナ",
+      "ja": "ねぇねぇ、ダークカードする！？　しようよ、パパっ！　ルナと対戦しよっ！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e857d6fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな引っ張るなって……！　また次の機会にな。でもさ、遊んでばかりでいいのか？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "bccabb6",
+      "speaker": "ルナ",
+      "ja": "ルナ遊んでないよーっ！　パパを案内するお仕事してるもんっ！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "33a65c70",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ案内はしてるな……うん、ごめん。でも俺ばっかりに構ってちゃダメじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "afdb1554",
+      "speaker": "ルナ",
+      "ja": "いいんだよーっ♪　ルナはカジノのサポートAIなんだから♪　案内も遊ぶのもパパに構うのもぜーんぶ仕事の内ーっ",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "c0b0701d",
+      "speaker": "",
+      "ja": "ルナは胸を張りドヤっとする。",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "4d16fb90",
+      "speaker": "",
+      "ja": "しかし一瞬表情が曇り、どこか影が差しているように見えてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "84d30b48",
+      "speaker": "ルナ",
+      "ja": "パパすごーいっ！　また勝ったね！　パパってポーカー強いんだねーっ",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "c56fde4",
+      "speaker": "",
+      "ja": "ルナに勧められるゲームがいまいち理解できず、結局オーソドックスなポーカーをプレイした。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "586bf6b1",
+      "speaker": "",
+      "ja": "今日は運が良いのか、何度も勝つことができ俺が勝つたびにルナはおおはしゃぎ。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "a805dcdb",
+      "speaker": "",
+      "ja": "ルナの無邪気な笑顔を見ることができ、得をしたような気分を味わっていた。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "168110a1",
+      "speaker": "ルナ",
+      "ja": "ねぇねぇ、次もする？　また絶対に勝てるよっ！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "fd736d79",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、今日はもうやめとく。勝ち逃げさせてもらう",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "db9226b1",
+      "speaker": "ルナ",
+      "ja": "あー、パパずるっこだーっ♪　そういうの良くないんだよーっ♪　お店の人たちが言ってたもんっ",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "e3f2765e",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁカジノ側からすれば勝ち逃げはズルいよな。でも今日はもうやらん！",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "c7c7c5b6",
+      "speaker": "客",
+      "ja": "──前にここと同じ系列のカジノで遊んだんだけどさ、その時会ったスターってAIがさ……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "7385965c",
+      "speaker": "ルナ",
+      "ja": "──あーっ！　あの人たち、スターちゃんのこと話してる！　すごいよね、こんなところでも評判になるなんて！",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "ad709b44",
+      "speaker": "ルナ",
+      "ja": "スターちゃんは自慢の妹だねーっ！　えっへん！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "c6c09055",
+      "speaker": "ルナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "5b190c47",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　ルナ……？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "b939663b",
+      "speaker": "ルナ",
+      "ja": "ん？　何パパ？",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "71e744ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……いや、何でもない……",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "85855ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何だろう……なんで今寂しそうな顔したんだろ……）",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "5e2c59b2",
+      "speaker": "ルナ",
+      "ja": "スターちゃんはすごいよね……みんなに評判が良くってさー",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "34e207f1",
+      "speaker": "ルナ",
+      "ja": "あ、そうだ、聞いて聞いて！　うちのスターちゃんはね～っ──",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "d84ffabd",
+      "speaker": "ルナ",
+      "ja": "──で、お客さんにお金をいっぱい使わせて、がっぽりがっぽり！　一日の最高売り上げを叩き出したんだってさーっ",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "8b7c55d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……すごいな。スターって口数が少ないし、あまりそういうことできるタイプには思えないんだけど",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "767c9ab",
+      "speaker": "ルナ",
+      "ja": "だよね～っ♪　でもあれやこれやとうま～くお客さんを誘導したりできちゃうんだよ。自慢の妹だよ！",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "ed4e1516",
+      "speaker": "",
+      "ja": "お姉ちゃんの自慢の妹、ルナの言葉からはそれが伝わってくる。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "3204a8f7",
+      "speaker": "",
+      "ja": "でもどこか無理をしているようにも思えたが、ムリに聞くのも気が引いてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "d8d4d57f",
+      "speaker": "",
+      "ja": "──ピーピーピーピー",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "afa2b3b3",
+      "speaker": "ルナ",
+      "ja": "ん？　何の音？",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "ca4e6611",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺の時計からだ。帰る時間をセットしておいたんだよ。そろそろ戻らないと",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "f5ae974c",
+      "speaker": "ルナ",
+      "ja": "そっかぁ……ごめんね、ルナいっぱい話しちゃってパパあまりゲームできなかったね……",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "59c403a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "謝ることはないって。ルナといっぱい話できて楽しかったからさ",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "6664c82b",
+      "speaker": "ルナ",
+      "ja": "えへへ……楽しんでもらえたら良かったよ",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "8347706d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにさ……カジノの雰囲気……スターのいるカジノと違うよな",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "ee238974",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっちの方は大人な落ち着いた雰囲気があったけど、こっちのカジノは明るく楽しくて、俺は今のような雰囲気の方が好きだな",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "3f276669",
+      "speaker": "ルナ",
+      "ja": "そ、そう！？　雰囲気作りとか、ギャンブルの配置とか、かかってる曲とかそれぞれステーションのAIが担当しているんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "82b8dc7b",
+      "speaker": "ルナ",
+      "ja": "えへへ、パパの好みに合った雰囲気作りが出来ててよかったー！",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "67ddbc46",
+      "speaker": "",
+      "ja": "ルナは一際明るい笑みを見せ、微笑むルナにほっこりとする。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "6f823841",
+      "speaker": "",
+      "ja": "さっきまでルナに感じていた影のようなものは一切無く、ルナの晴々とした様子に胸を撫でおろした。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "c99dc4de",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もしかしてスターに劣等感みたいなのがあったのかもな……）",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "feb29b11",
+      "speaker": "",
+      "ja": "でもわざわざそんなことを聞く必要は無い。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "67e62c87",
+      "speaker": "",
+      "ja": "俺はそう示すようにルナの小さな頭にポンと手のひらを乗せる。",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "394f511",
+      "speaker": "{G_PlayerName}",
+      "ja": "楽しい時間を過ごせたのもルナのおかげだ！　さすがだなっ！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "d28ab39a",
+      "speaker": "",
+      "ja": "俺はルナの髪がくしゃくしゃになるほど撫でると、ルナは戸惑いながらも照れくさそうに微笑んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "99f6b682",
+      "speaker": "ルナ",
+      "ja": "ルナ、お姉ちゃんだもん、当然だもんね～……えへへへ……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "2afdd1e7",
+      "speaker": "",
+      "ja": "劣等感なんて感じる必要は無い、俺はルナにそう教えるようにいつまでもルナの頭を撫で続けているのであった。",
+      "zh": ""
+    }
+  ]
+}
