@@ -1,0 +1,508 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "e3d03230",
+      "speaker": "ラグシェ",
+      "ja": "機械士しゃま～～～～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "1ea3969b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ラグシェ！？　ど、どうしたんだ、そんな格好して",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "776601c4",
+      "speaker": "ラグシェ",
+      "ja": "えへへ……海に行きたいので……機械士しゃま、一緒に行くでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "5b44987e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……でも、そのプレゼント袋も一緒に持ってくのか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "a8799037",
+      "speaker": "ラグシェ",
+      "ja": "はいでしゅ！　良い子がいたらプレゼントを渡すのでしゅ♪",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "e55fce65",
+      "speaker": "ラグシェ",
+      "ja": "きっと海で頑張っている良い子がいるはずでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "51b87c94",
+      "speaker": "ラグシェ",
+      "ja": "日焼け止めを塗ってあげているお母しゃんとか、ゴミ拾いをしているお兄しゃまとか！",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "bad4c1a7",
+      "speaker": "",
+      "ja": "水着を着ていても普段のラグシェのまま。いつでもラグシェは頑張っている良い子の味方なんだな、と思わず笑顔になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "663dace7",
+      "speaker": "ラグシェ",
+      "ja": "ねぇねぇ、一緒に行くでしゅ♪　機械士しゃま～♪",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "8be077da",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、それなら一緒に行くか……！　今日は”海のサンタ活動”ってことで",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "c1da69fd",
+      "speaker": "ラグシェ",
+      "ja": "はいっ！　お日様の下でもサンタしゃんは元気に活動するのでしゅよ♪",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "e50ee94c",
+      "speaker": "ラグシェ",
+      "ja": "はへ～……結構暑いでしゅね～",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "be2afc7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁこのくらいの気温と日差しがないと誰も海に入ろうなんて思わないだろうしな",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "5ccd807",
+      "speaker": "{G_PlayerName}",
+      "ja": "少しでも喉の渇きがあったらすぐに水飲むんだぞ？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "cdabcdf",
+      "speaker": "ラグシェ",
+      "ja": "わかったでしゅ！　よーし、海のサンタ活動開始でしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "bb1a5720",
+      "speaker": "ラグシェ",
+      "ja": "良い子良い子……良い子はどこにいるでしゅか～",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "4ce64750",
+      "speaker": "ラグシェ",
+      "ja": "むむ……なんだか良い子がいましぇんねぇ～……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "5aedc0ef",
+      "speaker": "ラグシェ",
+      "ja": "みなさんのんびりしているようで……頑張っている人が……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "932dfef0",
+      "speaker": "",
+      "ja": "ラグシェは砂浜を走り回りながら人々をキョロキョロと見渡す。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "84e008e7",
+      "speaker": "",
+      "ja": "砂浜を元気いっぱいに走るラグシェにほっこりするが、肝心のプレゼントを渡すことがまだできない様子だった。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "7d99b3cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（意外とラグシェからプレゼントもらえる”良い子”って少ないのかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "31d02a3",
+      "speaker": "",
+      "ja": "以前にエッチ過ぎると言われプレゼントもらえなかった自身のことを思い出す。",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "5091cbd7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（とは言え、誰にも渡せずじまいだったらラグシェが落ち込むだろうし、俺も手伝えるところは手伝うか……）",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "141c3840",
+      "speaker": "ラグシェ",
+      "ja": "──むむむっ！？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "ea1f4184",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい！？　ラグシェ、どうした！？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "e450b3b5",
+      "speaker": "",
+      "ja": "ラグシェは急に険しい顔になると、砂浜を猛ダッシュで走り出す。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "7d5104c0",
+      "speaker": "",
+      "ja": "俺は慌ててラグシェの後ろについていくと、小さな男の子が手を押さえながらうずくまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "b6043f51",
+      "speaker": "ラグシェ",
+      "ja": "だいじょうぶでしゅか！？　おてて痛くないでしゅ？",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "65c48ce4",
+      "speaker": "",
+      "ja": "子供はぐっと涙を堪え、声にならない声を上げながら心配するラグシェを見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "fb80d593",
+      "speaker": "",
+      "ja": "ラグシェの姿に安心したのか、子供の瞳にさらに涙があふれるが、それでも子供は懸命に泣くのを堪えていた。",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "f0e46128",
+      "speaker": "ラグシェ",
+      "ja": "ボク君はいい子で強い子でしゅ♪",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "f16833a8",
+      "speaker": "",
+      "ja": "ラグシェは嬉しそうに少年に微笑むと、プレゼント袋の口を開く。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "26503ee6",
+      "speaker": "",
+      "ja": "袋の中が淡く光り、小さな貝殻のネックレスがふわりと出てきた。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "7e1f2a30",
+      "speaker": "ラグシェ",
+      "ja": "泣くのを我慢した強くて良い子のボク君に、波の妖精さんからのプレゼントでしゅ。エライエライで賞でしゅ♪",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "43e52fd6",
+      "speaker": "",
+      "ja": "少年はラグシェからネックレスを受け取ると、泣きそうだった表情に一瞬にして笑顔が戻る。ラグシェにお礼を言うと母親のもとへ走って戻っていくのであった。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "bf50410a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……本当にすごいな、ラグシェのプレゼント袋は",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "adc9a341",
+      "speaker": "ラグシェ",
+      "ja": "えへへ……ちゃんとその子にぴったりなものが出るのでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "34ac39b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにラグシェ自身もな",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "e1eab5cc",
+      "speaker": "ラグシェ",
+      "ja": "ふえ……？　でもわたちは特に何も……",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "38d1cadb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやいや、泣きそうになってた少年を見つけたのはラグシェ自身だろ？　それにあの子が笑顔になったのもラグシェの笑顔があったからだと思うぞ",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "95537339",
+      "speaker": "ラグシェ",
+      "ja": "そ、そうでしゅか……？　そ、そう言われると少し嬉しいでしゅが……ちょっと照れくさいでしゅね……えへへへへ……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "546ac2ac",
+      "speaker": "",
+      "ja": "俺はラグシェを褒めるように頭をそっと撫でると、ラグシェは恥ずかしそうに頬を赤らめる。",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "b59255c7",
+      "speaker": "ラグシェ",
+      "ja": "それじゃあもっとプレゼントを渡すでしゅ！　浜辺を笑顔でいっぱいにするでしゅ！！",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "20cf9c03",
+      "speaker": "ラグシェ",
+      "ja": "たくさんプレゼント渡せましたでしゅ♪　良い子がたくさんいてよかったでしゅ♪",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "11c204c7",
+      "speaker": "",
+      "ja": "俺たちはその後も浜辺を巡りながらプレゼントを渡し続けた。日も傾き始め、状況も落ち着いてきたので浜辺に腰を下ろし、ゆっくりと過ごしていた。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "1e8c5940",
+      "speaker": "{G_PlayerName}",
+      "ja": "海のサンタ活動、大成功だったな",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "e2ee8715",
+      "speaker": "ラグシェ",
+      "ja": "はいっ♪　機械士しゃま、やっぱりプレゼントを渡すのは楽しいでしゅねっ！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "5f1e0826",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……笑顔をたくさん見られるし、楽しいお仕事かもしれないな",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "d377079c",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、ラグシェの笑顔があればこそだな。間違いなく今日の主役はサンタのラグシェだったよ",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "eff6be6a",
+      "speaker": "ラグシェ",
+      "ja": "そ、そうでしゅか……？　サンタが主役というものなんだかおかしな話でしゅけど……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "9110b6c6",
+      "speaker": "ラグシェ",
+      "ja": "でも、嬉しいでしゅ♪　機械士しゃまにそう言ってもらえて",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "44b0131b",
+      "speaker": "",
+      "ja": "ラグシェは照れくさそうに笑いながらプレゼント袋をぎゅっと抱きしめる。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "7e69dc23",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、今日の主役だったラグシェに俺からのプレゼントだ",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "2786bd9f",
+      "speaker": "",
+      "ja": "俺はラグシェにそっと近づくと肩に腕を回す。ラグシェは一瞬驚きながらも、俺に身体を預けるようにそっと寄りかかってきた。",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "d323a723",
+      "speaker": "ラグシェ",
+      "ja": "えへへ……たまにはプレゼントをもらう側になるのもいいでしゅね……♥　機械士しゃま、もう少しだけわたちと一緒にいてくださいでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "5e99bdc0",
+      "speaker": "ラグシェ",
+      "ja": "夕日が沈むまで一緒に……♥",
+      "zh": ""
+    }
+  ]
+}

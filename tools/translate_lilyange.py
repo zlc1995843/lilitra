@@ -382,7 +382,7 @@ def call_deepseek_names(
     for attempt in range(1, retries + 1):
         try:
             requests = http_requests()
-            response = requests.post(url, headers=headers, json=payload, timeout=180)
+            response = requests.post(url, headers=headers, json=payload, timeout=45)
             response.raise_for_status()
             parsed = json.loads(response.json()["choices"][0]["message"]["content"])
             result: Dict[int, str] = {}
