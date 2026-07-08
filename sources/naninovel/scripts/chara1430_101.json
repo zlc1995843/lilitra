@@ -1,0 +1,643 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "e165b73e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……これこうするといい感じかな。あ、でもそうなるとこっちの配線が……うーん、難しいな",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "8f90c31",
+      "speaker": "",
+      "ja": "機械図面を書くのに挑戦しよう、そう思い立ってから早数時間。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "142cf05c",
+      "speaker": "",
+      "ja": "ゼロから何かを形作るのは面白いが、思いのほかその難しさに頭を悩ませる。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "811f8edd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あ！　ここをこうするといい感じかも──",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "e17462d8",
+      "speaker": "",
+      "ja": "──ガサガサ、ガサゴソ",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1418dfb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "38a068",
+      "speaker": "{G_PlayerName}",
+      "ja": "って！　ラヴィリス！？　なんでここに！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "a9449b30",
+      "speaker": "",
+      "ja": "ソファーの方から何やら音が聞こえ視線を向けると、だらしなく寝転がりながらラヴィリスがお菓子を貪っていた。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "89f4c591",
+      "speaker": "ラヴィリス",
+      "ja": "ポテチ、うま～……ん～……でもこっちの味も気になるな～……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "4f0d3f55",
+      "speaker": "ラヴィリス",
+      "ja": "まぁいいや、両方開けちゃえ",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "f9eddd97",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前、いつの間に部屋に……！　入るなら入るで一声かけろよっ",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "190e5d9",
+      "speaker": "ラヴィリス",
+      "ja": "んー……いいじゃん、そういうの……いちいち声掛けるのもめんどいさ～……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "8a51bfee",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前なぁ……人の部屋に無断で入るとか良くないんだぞ？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "307f7ae6",
+      "speaker": "ラヴィリス",
+      "ja": "別にいいじゃん……死ぬわけじゃないんだしさぁ～……下僕真面目過ぎ～",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "e462687a",
+      "speaker": "ラヴィリス",
+      "ja": "今だって何か書いてるしさ～……そんな生き急いでどうするつもりなの？　明日には死んじゃうから遺書でも書いてるの～？",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "806d3d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "んなわけあるか！　というかラヴィリスがのんびりすぎなんだって",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "5a5971e1",
+      "speaker": "ラヴィリス",
+      "ja": "そう……？　まぁどうでもいいけどね～……それよりほら、こっち来なよ、一緒にお菓子食べよ？　特別に分けてあげるからさ～",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "675c53ad",
+      "speaker": "",
+      "ja": "ラヴィリスはそう言うとポテトチップを一枚俺に見せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "ca1eeb8c",
+      "speaker": "",
+      "ja": "そういえば昼ごはんを食べていないことに今気が付き、急に空腹感に襲われていく。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "2e66b8fb",
+      "speaker": "ラヴィリス",
+      "ja": "ほらほら～、食べたいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "47d96d8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……まったく。こぼすなよ？　最近買ったばかりのソファーなんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "e4e3b5a5",
+      "speaker": "ラヴィリス",
+      "ja": "へ～い。ほれ、あ～ん",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "d6c8099a",
+      "speaker": "",
+      "ja": "俺はあ～んと口を開けるとラヴィリスがポテトチップを口の中に突っ込む。",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "cb364727",
+      "speaker": "",
+      "ja": "もぐもぐと噛み始めると食べたことの無い味に思わず笑顔になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "c30c1cd7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……で、何しに来たんだ？　何か用事でもあったんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "761bb025",
+      "speaker": "ラヴィリス",
+      "ja": "ん～……あると言えばあるし、無いと言えば無い",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "3b8f0c26",
+      "speaker": "{G_PlayerName}",
+      "ja": "どっちなんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "f696e",
+      "speaker": "ラヴィリス",
+      "ja": "じゃあ、はい、これ",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "c7ef51e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだこれ……ゲーム機？　なんかルミナが持ってるのと違うな",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "f0a41d6e",
+      "speaker": "ラヴィリス",
+      "ja": "そ、携帯できるやつ。最新のゲームもなんでもござれの最高にハイスペックなゲーム機",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "77ff39a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふ～ん……なぁ、蓋開けて中身見て良い……？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "b26b2cc",
+      "speaker": "ラヴィリス",
+      "ja": "そんなことしたらさすがに怒るよ？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "8e99f95e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、残念だ……で、これで何をしろと？　まさかプレゼントってわけじゃないよな？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "4d4161",
+      "speaker": "ラヴィリス",
+      "ja": "あげるわけない、それ一つしかないんだし",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "995a4d0d",
+      "speaker": "ラヴィリス",
+      "ja": "下僕にやってほしいのは～……ポチっと",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "4fc00796",
+      "speaker": "ラヴィリス",
+      "ja": "……レベル上げ～♪　さぁやってやって～♪　一緒にゲーム楽しもう～♪",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "930fc4a5",
+      "speaker": "ラヴィリス",
+      "ja": "あっ……！　ちょっと？　なんでゲーム機突き返すの～！？",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "1097caa3",
+      "speaker": "{G_PlayerName}",
+      "ja": "何で俺がレベル上げしなきゃいけないんだよ！　そういうのは自分でやるもんだろ",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "e6e66f9b",
+      "speaker": "ラヴィリス",
+      "ja": "え～……めっちゃ最新のゲームだよ？　あの超有名なぷにモンの続編だよ～？　カワイイカワイイぷにぷにモンスター集めるゲームだよ～？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "b1e78303",
+      "speaker": "{G_PlayerName}",
+      "ja": "有名でもなんでもそういうのは自分でやるもんだろ？　そういうのも含めてゲームなんだしさ",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "8ed889f",
+      "speaker": "ラヴィリス",
+      "ja": "ほら～……やってやって♪　下僕って真面目で優しいし、なんだかんだ言ってもやってくれるんでしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "ba8072cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから押し付けんなって……む……？　なんだこのぷに……カワイイな……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "3bb40944",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それにグラフィックもすごいな。さすが最新作……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "1dce4fce",
+      "speaker": "ラヴィリス",
+      "ja": "そそ、グラもすごいんだよ～♪　ほら、やって。バトルも楽しいゲームなんだからさ～♪　ついでもぷにモンも集めて良いから～",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "c3361a09",
+      "speaker": "{G_PlayerName}",
+      "ja": "は～……しょうがない、正直ゲームも楽しそうだし、今日くらいは息抜きするかな",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "d57126f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……そんなひっつくなって",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ee22e335",
+      "speaker": "ラヴィリス",
+      "ja": "え～……くっつかないとゲーム画面見えないじゃん",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "37cc45b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……ゲーム画面見たいんだったら自分でやればいいものを……よし、じゃあこのぷにモンのレベル上げするか",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "5071e81f",
+      "speaker": "ラヴィリス",
+      "ja": "がんばれ～……一応応援したげるから～",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "c0bfa98c",
+      "speaker": "ラヴィリス",
+      "ja": "──もぐもぐ、ねえ、結構上手いね～。あたしがやるより全然効率がいいよ～",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "25d61f63",
+      "speaker": "",
+      "ja": "ラヴィリスはお菓子を頬張りつつ、画面の中のぷにモンが敵を倒していくのを眺めている。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "f987eb3",
+      "speaker": "",
+      "ja": "ゲーム画面を見るのに夢中になっているのか、半ば抱きつくような形でひっつかれて、俺の意識はゲームよりもラヴィリスの身体の方に向きつつあった。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "433a4305",
+      "speaker": "{G_PlayerName}",
+      "ja": "……本当に自分でやらなくていいのか？　かなり面白いんだけどコレ",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "468f28e2",
+      "speaker": "ラヴィリス",
+      "ja": "だって延々バトルするのめんどくさいじゃん～……あ！　そっから先に行っちゃダメ……！　イベント進んじゃうから",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "3559d8c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、少しくらいイベント進めてもいいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "2676cf1e",
+      "speaker": "ラヴィリス",
+      "ja": "ダメダメ～！　イベントはあたしが見るの！　下僕はレベルだけ上げてくれればいいの",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "835b52e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "……美味しいとこだけ持って行こうとしやがって",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "769701",
+      "speaker": "ラヴィリス",
+      "ja": "いいじゃん、サポートしてあげてんだからさ～",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "de84c4dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前何もしてないだろっ！　見てるだけで何を手伝ってんだよ",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "f7409015",
+      "speaker": "ラヴィリス",
+      "ja": "今からするよ～……ほら、あ～んってして",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "9d1a3d9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "──んごっ！？　んぐんぐっ！　お、お前、菓子口の中に突っ込むなって……！",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "a37d8b26",
+      "speaker": "ラヴィリス",
+      "ja": "これぞ連携プレイってね～♪　ね、美味しいでしょ、コレ？",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "b03e6aa4",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "52b6aba9",
+      "speaker": "",
+      "ja": "俺はそう口で言うものの、どこか頬が緩んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "bf489d36",
+      "speaker": "",
+      "ja": "一人で作業するよりも賑やかで──これはこれで悪くない。",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "2743a27b",
+      "speaker": "ラヴィリス",
+      "ja": "んふふ～……一人で紙とにらめっこしているより全然良いでしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "598cce03",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……否定しないよ",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "bd315851",
+      "speaker": "ラヴィリス",
+      "ja": "うんうん、素直でいいね～♪　じゃダラダラしながらレベル上げしよっか～♪",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "4b6c51e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……続きするか",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "28a16d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもその前に……イベント進めないとな！",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "d559852",
+      "speaker": "ラヴィリス",
+      "ja": "あっ！　ダメだってーっ！　イベント進めるの禁止だってばーっ！！",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,1345 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "76700899",
+      "speaker": "ラヴィリス",
+      "ja": "──ここはもうあたしのテリトリーでーす。なのであたしへの注意は通用しませーん！　はい、みんな散った散った～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "571a785",
+      "speaker": "{G_PlayerName}",
+      "ja": "──まったく、困った奴だな……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "2866191e",
+      "speaker": "",
+      "ja": "ロビーの一部を占拠し、自分のテリトリーにしてしまったラヴィリス。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "d23cb882",
+      "speaker": "",
+      "ja": "ルミナやアポロの言うことなど一切聞かず、困り果てた二人は俺にどうにかして欲しいと頼んできた。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "d62e1f2b",
+      "speaker": "",
+      "ja": "ラヴィリスの部屋は用意してあるのに、何故ロビーを占拠する必要があるのか……。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "cad3ea3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、ラヴィリス……！",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "9cd93a5f",
+      "speaker": "ラヴィリス",
+      "ja": "もぐもぐ……もぐもぐ……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "294d8827",
+      "speaker": "",
+      "ja": "俺は心を鬼にしてラヴィリスに話しかけるが、無視して黙々とお菓子を食べ続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "2b94ed4b",
+      "speaker": "",
+      "ja": "ラヴィリスの周囲はお菓子や玩具など散らかり放題で目も当てられない惨状。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "ed8f0e67",
+      "speaker": "",
+      "ja": "これはさすがにどうにかしないと、俺はそう考え言葉を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "2958db3c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここはみんなで使う共用スペースなんだぞ？　ちゃんと自分の部屋があるんだし、ダラダラしたきゃそこでしろっ",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "a4b5aa49",
+      "speaker": "ラヴィリス",
+      "ja": "共用スペース～？　ここはあたしのためのテリトリーになりました。もう何度も何度も宣言しています～♪",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "fac7712c",
+      "speaker": "ラヴィリス",
+      "ja": "あたしが飽きたら移動してると思うし、それまで待ってれば何も問題は無しだから～♪",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "8e4d81c0",
+      "speaker": "ラヴィリス",
+      "ja": "てか、この説明すんのホント何度目～？　何回も同じこと言わせないでよね～",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "24d61ba5",
+      "speaker": "{G_PlayerName}",
+      "ja": "……だから自分の部屋をテリトリーにしろよ。部屋に不満でもあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "9af0ceb8",
+      "speaker": "ラヴィリス",
+      "ja": "別に無いけど～？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "8b2cbd28",
+      "speaker": "{G_PlayerName}",
+      "ja": "だったらなんでロビー占拠してんだよっ！",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "4874c5d6",
+      "speaker": "ラヴィリス",
+      "ja": "……ここが良いからだけど？　それ以外に理由なんて無いし",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "a103bba2",
+      "speaker": "ラヴィリス",
+      "ja": "ほら、もうあっち行ってよ。今お菓子タイムなんだからさ～。いくら下僕でもこれ以上しつこいと怒るよ～？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "1b54865f",
+      "speaker": "",
+      "ja": "ラヴィリスはそう言うと、再びお菓子を食べ始める。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "1da9f926",
+      "speaker": "",
+      "ja": "俺が何を言っても返事すらしなくなり、ゴロゴロと寝そべりながら漫画まで読み始めた。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "d2df436b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……これはもう言葉でどうこうするのは無理だな。となると……実力行使しかない）",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "d4732a0b",
+      "speaker": "ラヴィリス",
+      "ja": "……ねぇ、いつまでそこにいるの？　さすがに目障りなんだけど～？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "4b065c57",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、もう行くよ",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "62bbe2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ただし、お前も一緒にな！",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "5d402461",
+      "speaker": "ラヴィリス",
+      "ja": "──ひゃぁっ！？　はっ？　何、何、何？　いきなり何なの？　は～な～せ～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "45fe8b96",
+      "speaker": "",
+      "ja": "俺は物でも運ぶようにラヴィリスを脇に抱え上げる。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "e31fb00c",
+      "speaker": "",
+      "ja": "見た目以上に体重が軽く、こんなに軽い子だったのかと驚いてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "dd56122b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、お前の部屋に行くぞ。片づけは俺があとでやっといてやるから",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "301323f",
+      "speaker": "ラヴィリス",
+      "ja": "そんなこと頼んでないしーっ！　放せ～っ！　放せってばーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "c2fc2c57",
+      "speaker": "ラヴィリス",
+      "ja": "なんでこんなことするのっ！　あそこが気に入っていたのにーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "799fc40f",
+      "speaker": "{G_PlayerName}",
+      "ja": "気に入るのはいい、でもな、独り占めとかそういうのはダメなんだよ。ロビーはそういう場所なんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "6d11b27e",
+      "speaker": "ラヴィリス",
+      "ja": "なんでだよーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "5640c0ee",
+      "speaker": "",
+      "ja": "腋に抱えられているラヴィリスは俺から逃げようとジタバタと暴れる。",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "66bd07f0",
+      "speaker": "",
+      "ja": "ラヴィリスが暴れるたびにオーバーサイズの服がはだけ、ピンク色の乳首が俺の視界に入ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "592c42",
+      "speaker": "",
+      "ja": "想わぬ副産物に俺はラヴィリスの胸をガン見してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "53d1d2c3",
+      "speaker": "",
+      "ja": "そして興奮でムクムクと大きくなっていく肉棒……そういう行為を求めるつもりなど毛頭無かったのだが──",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "cf52b48b",
+      "speaker": "ラヴィリス",
+      "ja": "うぶっ……！　ちょっと、自分が何やってんのかわかってんの？",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "987c54d",
+      "speaker": "",
+      "ja": "俺はラヴィリスの部屋に着くや、いきり立っていた肉棒をラヴィリスに見せつける。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "810253a0",
+      "speaker": "",
+      "ja": "いきなりの俺の行動にラヴィリスは硬直したように動かなくなる。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "8424a692",
+      "speaker": "",
+      "ja": "睨みつけるような視線で俺の顔と肉棒を交互に見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "4882db9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラヴィリスがおっぱいなんて見せてくるのが悪いっ！　色々見えちゃって困るんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "8137dea0",
+      "speaker": "ラヴィリス",
+      "ja": "何それぇっ……！　ううっ……！♥　人のせいにしないでっ……！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "417ab94f",
+      "speaker": "",
+      "ja": "鼻先に肉棒を押し当てると、ラヴィリスの表情が歪む。",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "651ffc11",
+      "speaker": "",
+      "ja": "それが俺を異様に高ぶらせ、肉棒がさらに硬く大きくなる。",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "8d2f13f8",
+      "speaker": "ラヴィリス",
+      "ja": "（最悪、最悪、最悪……♥　こんな汚いの押し付けて……臭いもヤバいのに……でも……）",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "6ed39e58",
+      "speaker": "ラヴィリス",
+      "ja": "（頭、クラクラして……身体、ヘン……♥　体温がどんどん上がってきてるぅ……♥　どうして……♥）",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "8d55b80c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、責任取れ。これでお互いの無礼を無かったことにしよう",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "22d78653",
+      "speaker": "ラヴィリス",
+      "ja": "お互いってどういうことよっ……！",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "ee3e871a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ロビーを占拠してた件に決まってるだろ",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "450d55",
+      "speaker": "ラヴィリス",
+      "ja": "だ、だから押し付けないで……！♥　もう……何なのよ……下僕の分際でぇ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "b247a8ad",
+      "speaker": "",
+      "ja": "焦りからか、いつもの気怠いラヴィリスは影を潜め、口調すら変わり始めている。",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "a7255995",
+      "speaker": "",
+      "ja": "どうすればいいのか戸惑いながら肉棒と俺を交互に見つめ、その可愛すぎる仕草が俺の心を鷲掴みにする。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "c8a941c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうマジで限界なんだって……ほら、先っぽ濡れてるだろ？　ラヴィリスだってエロくなったらおまんこ濡れるだろ？　それと同じなんだって",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "a3ee9a47",
+      "speaker": "ラヴィリス",
+      "ja": "ううう……わ、わかったよ……やればいいんでしょ、やれば……！♥",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "2e2aaa42",
+      "speaker": "",
+      "ja": "ラヴィリスは諦めた様に吐き捨てると、小さな舌をそっと差し出す。",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "5f07500d",
+      "speaker": "",
+      "ja": "たったそれだけで俺の心音はさらに高鳴り、肉棒を舐められる期待からビクンビクンと肉竿が揺れ動く。",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "9b8a1c5b",
+      "speaker": "ラヴィリス",
+      "ja": "れる……れろ……♥　れる……れろぉ……♥　うう、しょっぱい……♥",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "c4e0cffe",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "e0ff0f4b",
+      "speaker": "ラヴィリス",
+      "ja": "な、何よ、その反応……！　あたしにこんなことさせといてっ……！",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "95172c3d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……すまん、舐めてもらうだけで満足なんだけどさ、なんていうか……もっとこう……口を使ってセックスするようにしてほしいというか……",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "392da6f0",
+      "speaker": "ラヴィリス",
+      "ja": "な、な……あたしに自分から動けって言ってんの？　そんな面倒なことお断りだから……！",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "bf948ccb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだよな……ラヴィリスならそう言うよな……じゃあ俺が動くからさ、ラヴィリスはそのままじっとしててくれ",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "a2823f0f",
+      "speaker": "ラヴィリス",
+      "ja": "は……？　それってどういう……んむぐっ！？",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "9f9e4496",
+      "speaker": "ラヴィリス",
+      "ja": "んふっ、ふぅぅっ！♥　んっ、んっ……！！♥　ふぅーっ、んんっ！！♥　んぐ、ぐ、ううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "ae3b4a8a",
+      "speaker": "",
+      "ja": "俺はいきり立つ肉棒を無理やりにラヴィリスの口の中に押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "b68678e7",
+      "speaker": "",
+      "ja": "こんなことをされると思っていなかったのか、ラヴィリスは俺を睨みつける。",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "c4e3b57",
+      "speaker": "",
+      "ja": "しかし上目遣いで見られることに妙に興奮を覚え、俺はゆっくりと腰を前後に動かしていく。",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "157eb8a0",
+      "speaker": "ラヴィリス",
+      "ja": "（こ、こんなこと……人の口をおまんこみたいに……！♥　なんてひどい男……）",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "b60e5a1d",
+      "speaker": "ラヴィリス",
+      "ja": "ふううっ……んぐ、んぐっ……！♥　んっ……ふっ、んふっ！！♥　んっ、んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "73e78d40",
+      "speaker": "ラヴィリス",
+      "ja": "（頭無理やり動かして……おちんちん、どんどん奥にぃ……♥　うう、な、なんかまた身体が……♥）",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "e5d4814c",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……おーっ……ラヴィリスの口、想像以上に気持ち良くて……",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "f86ac8c",
+      "speaker": "ラヴィリス",
+      "ja": "（こいつ……人の口無理やり使ってるクセに喜んでる……そういう男だったのね……）",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "9d8046b3",
+      "speaker": "ラヴィリス",
+      "ja": "（でも……なんで嫌悪感が無いの……？　それどころか……もっとして欲しいって……口犯されているのに……どうしてぇ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "62942962",
+      "speaker": "ラヴィリス",
+      "ja": "ふっ、ふっ！♥　んふぅぅ……んんぅ、ふぅ、んぐっ！♥　ぐっ……！！♥　ふぐ、うう、んぅぅぅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "b0257835",
+      "speaker": "ラヴィリス",
+      "ja": "（喉っ、塞がれるぅ……！♥　これヤバイっ……！！♥　苦しいのに……でもっ、感じちゃう……！！♥）",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "737328a8",
+      "speaker": "ラヴィリス",
+      "ja": "（喉マンコ、感じちゃってるぅ……！！♥　あたし、機械なのに……なんでよわっちい人間のおちんぽで感じて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "1bc0a89d",
+      "speaker": "ラヴィリス",
+      "ja": "（これっ、クセになっちゃうかもぉっ……！♥）",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "30d01ae",
+      "speaker": "",
+      "ja": "ラヴィリスの瞳が次第に蕩け、頬がわずかに紅く染まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "a6e517d9",
+      "speaker": "",
+      "ja": "塞がれた口から甘い喘ぎ声が漏れ出し、肉棒を口に突っ込まれて感じているのがわかってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "8eda48a",
+      "speaker": "",
+      "ja": "俺はラヴィリスが感じているのをいいことにさらに腰の動きを早める。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "3edf912b",
+      "speaker": "",
+      "ja": "ぐちゅぐちゅと卑猥な音が少しずつ大きくなり、動くたびにラヴィリスの口内に唾液が溢れる。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "d8690156",
+      "speaker": "",
+      "ja": "それが更なる快感を生みだし、口の奥へ奥へと肉棒を押し込んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "b2d17754",
+      "speaker": "ラヴィリス",
+      "ja": "ふううっ……！♥　んふっ、ふううっ！！♥　んぢゅ……ぢゅるっ！♥　ぢゅる、ぢゅるううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "97e077f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "お゛っ……！　す、吸われるの……ぐっ！！　ヤバすぎっ……！　ラヴィリスの口、めっちゃいいぞ……！！",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "b0ee78eb",
+      "speaker": "ラヴィリス",
+      "ja": "（もしかして……あたしって口でも男を喜ばせる機能があるの？♥　そんなの自分でも知らなかったよぉ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "17b9eaab",
+      "speaker": "ラヴィリス",
+      "ja": "（なんでこんな機能が……喉奥押されて気持ち良くなったり……♥　あたしを造ったヤツってもしかして……ヘンタイ？♥）",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "f3e4a5e2",
+      "speaker": "ラヴィリス",
+      "ja": "んぢゅる……ちゅっ♥　ちゅううぅ……♥　ふぐっ、ぐっ……！♥　んぉ゛っ……♥　お゛っ！♥　ぐ、んぐううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "86bf265d",
+      "speaker": "ラヴィリス",
+      "ja": "（もうなんでもいいや……今こいつにメチャクチャ犯されたいって思ってる……♥　だから犯して……♥　口もおまんこも……何もかも滅茶苦茶にしてぇ……！！♥）",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "315fb50",
+      "speaker": "",
+      "ja": "ラヴィリスの舌が肉棒を舐め回し、ザラザラした快感に両脚が震えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "f76bca0c",
+      "speaker": "",
+      "ja": "無理やりして申し訳ないと思う反面、ワガママ放題のラヴィリスにお仕置きをする、そんな気持ちが芽生えてくる。",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "f0d1f687",
+      "speaker": "",
+      "ja": "俺はさらに喉の奥に肉棒を突っ込むと、カリ首を喉に引っ掛けるように喉奥を執拗に押しつぶしていく。",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "f19c225b",
+      "speaker": "ラヴィリス",
+      "ja": "ごぉっ、んごっ！♥　お゛っ、お゛っ！！♥　んぐ、ぐうう……！！♥　ごぉ、おお゛っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "5facfcb3",
+      "speaker": "ラヴィリス",
+      "ja": "（ヤバイ、ヤバイヤバイヤバイ～～～っ！！♥　感じるぅっ！♥　口犯されてるのにおまんこが感じちゃってるぅっ！！♥）",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "a7ed8530",
+      "speaker": "ラヴィリス",
+      "ja": "（ぎもぢいぃっ……！♥　もっとぉ……もっと喉犯してぇ……！！♥　おちんちんもっと奥に突っ込んでぇ～～っ！！♥）",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "78c8a880",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ！？　ラヴィリス？　そ、そんな顔押し付けたら……ううっ！！　喉が、締まって……う、うううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "3671434e",
+      "speaker": "",
+      "ja": "ゾクっとした快感と共にこみ上げる射精感。",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "84612a0d",
+      "speaker": "",
+      "ja": "射精感を覚えた瞬間、睾丸から一気に熱いモノがこみ上げ、そして──",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "b380fe09",
+      "speaker": "ラヴィリス",
+      "ja": "──ふぐっ！？♥　んっ、んふぅっ！♥　んっ、んぐ……んっ……んふぅ、ふううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "65fa9ea9",
+      "speaker": "ラヴィリス",
+      "ja": "（口の中に……精液出てるぅっ……！！♥　汚されてるぅ……男に穢されてるぅ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "443d014b",
+      "speaker": "",
+      "ja": "俺は肉棒を引き抜くこともせず、本能のままにラヴィリスの口内に射精する。",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "ba9d19bb",
+      "speaker": "",
+      "ja": "機械の存在だから問題は無い、そんな考えは微塵も無かった。",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "4e53ce32",
+      "speaker": "",
+      "ja": "それでもラヴィリスという一人の女の子を自分色に……そんな想いと共に男の欲望を喉の奥に流し込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "b6fdd5f3",
+      "speaker": "ラヴィリス",
+      "ja": "（窒息、するぅ……！♥　機械なのに溺れちゃうっ……！♥　おまんこぎゅんぎゅんするぅ……！♥　口内射精気持ち良すぎるぅ……！！♥）",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "e7a25e21",
+      "speaker": "{G_PlayerName}",
+      "ja": "んはっ、はっ……ラヴィリス、ど、どうだ……可愛い顔こんなぐちゃぐちゃされたらイヤだろ……？",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "b246cd4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "これに懲りたらみんなに迷惑かけるのやめろ",
+      "zh": ""
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "2b6222c7",
+      "speaker": "ラヴィリス",
+      "ja": "なにそれぇ……あたしを脅してんのぉ……？♥　はぁ、はぁぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "39d37c65",
+      "speaker": "{G_PlayerName}",
+      "ja": "違う……お前がみんなと溝を作らないようにしてんだよ。それより激しくしてしまったけど痛くなかったか……？",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "20df3a06",
+      "speaker": "ラヴィリス",
+      "ja": "（何こいつぅ……説教したり、乱暴にしてきたと思ったら、今度は心配しだして……♥）",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "92353116",
+      "speaker": "ラヴィリス",
+      "ja": "（こいつのこと、わけわかんないけどぉ……でもでもぉ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "af448861",
+      "speaker": "ラヴィリス",
+      "ja": "……と、もっと……その……怖くしたり、優しくされるの……しゅきぃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "5b3c30c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……は？",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "1481f9c3",
+      "speaker": "",
+      "ja": "ラヴィリスの瞳が蕩け、じっと俺を見つめてくる。",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "9bb97f8c",
+      "speaker": "ラヴィリス",
+      "ja": "乱暴にされるの……もっとしゅきぃ……♥　もっと……もっと喉マンコごりゅごりゅしてぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "ada92c91",
+      "speaker": "",
+      "ja": "一回で終わろうと思っていたが、ラヴィリスの意外な言葉が俺の性欲を刺激する。",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "ec94c8f8",
+      "speaker": "",
+      "ja": "僅かに萎えていた肉棒が一瞬にして元に戻り、射精した直後だというのに俺の中の性欲がメラメラと再び燃え上がっていく。",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "22007c27",
+      "speaker": "ラヴィリス",
+      "ja": "ほらぁ……お口ぐちゅぐちゅしてぇ……♥　せーえきいっぱいどっぴゅんしてよぉ～……♥　あ～んっ♥",
+      "zh": ""
+    },
+    {
+      "key": "406.0",
+      "line_index": 406,
+      "inline_index": 0,
+      "line_hash": "147f1e6c",
+      "speaker": "ラヴィリス",
+      "ja": "あぐっ……！♥　ふーっ、んふーっ！♥　んぐっ、んっ……んぉ゛っ♥　お゛っ、おお゛っ♥",
+      "zh": ""
+    },
+    {
+      "key": "408.0",
+      "line_index": 408,
+      "inline_index": 0,
+      "line_hash": "226a4b3f",
+      "speaker": "",
+      "ja": "俺はラヴィリスが口を開けた瞬間、性欲に任せ肉棒を再び小さな口内に突っ込む。",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "8f302cd4",
+      "speaker": "",
+      "ja": "狭い喉の奥まで肉棒を押し込むとラヴィリスは嬉しそうに微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "6050cdaf",
+      "speaker": "",
+      "ja": "正直、何故イマラチオされるのがいいのか俺には理解できなかった。",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "fa970850",
+      "speaker": "",
+      "ja": "それでも性欲のままに突き進むように腰を乱雑に振り乱した。",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "9f4a223",
+      "speaker": "ラヴィリス",
+      "ja": "（しゅごっ♥　喉拡げられてるぅっ♥　すきっ、しゅきっ♥　しゅきしゅきしゅきぃっ！♥）",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "33dc0f7a",
+      "speaker": "ラヴィリス",
+      "ja": "（優しく犯されるのっ、いいっ！♥　おまんこにクるぅっ！！♥　おちんちん欲しいぃっ！♥　口もおまんこもぶいっとおちんちんで犯して欲しいよぉっ！♥）",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "ce23342d",
+      "speaker": "",
+      "ja": "ラヴィリスは根元まで肉棒を飲み込み、喉元が膨れているのがここからでも見えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "422.0",
+      "line_index": 422,
+      "inline_index": 0,
+      "line_hash": "14287aff",
+      "speaker": "",
+      "ja": "それが異様なまでに俺の興奮を掻き立て、俺はまるで物でも扱うようにラヴィリスの頭を前後に振る。",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "beb488c1",
+      "speaker": "",
+      "ja": "ラヴィリスの頭を動かすたびにカリ首が喉に引っかかり、それが今まで味わったことの無い快感をもたらす。",
+      "zh": ""
+    },
+    {
+      "key": "427.0",
+      "line_index": 427,
+      "inline_index": 0,
+      "line_hash": "a85d05ee",
+      "speaker": "ラヴィリス",
+      "ja": "（これヤバすぎぃっ♥　どんどんこいつのこと好きになってくるぅっ♥　犯されるのことに心から悦んじゃってるぅっ♥）",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "11f1c22b",
+      "speaker": "",
+      "ja": "より喉奥を突かれ、苦しさは一切無い様子。",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "dd16fced",
+      "speaker": "",
+      "ja": "完全に被虐心に目覚めたのか、頭を動かすたびにラヴィリスの表情が甘く蕩ける。",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "5d8c2a78",
+      "speaker": "",
+      "ja": "口の端からはヨダレがダラダラと垂れ、それが俺の加虐心をさらに刺激していく。",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "9557de11",
+      "speaker": "ラヴィリス",
+      "ja": "ふぐっ、んぐ♥　ぐっ♥　ぢゅちゅっ♥　ちゅ、ちゅぅっ！！♥　ふ、んふっ♥　ちゅ、ちゅぱ、ぢゅるっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "438.0",
+      "line_index": 438,
+      "inline_index": 0,
+      "line_hash": "f0320142",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ、うう……！　ラヴィリス、そんなに吸ったら、また……！",
+      "zh": ""
+    },
+    {
+      "key": "442.0",
+      "line_index": 442,
+      "inline_index": 0,
+      "line_hash": "cfd33da0",
+      "speaker": "ラヴィリス",
+      "ja": "──出りゅ？♥　いいよ、らしてぇっ♥　せーえきのまへてぇ～～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "26c9751b",
+      "speaker": "ラヴィリス",
+      "ja": "ちゅ、ちゅううっ！！♥　ぢゅるっ、んっ、ぐっ！♥　ぢゅる、ちゅぱちゅぱっ！♥　んぐ、ぐうううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "448.0",
+      "line_index": 448,
+      "inline_index": 0,
+      "line_hash": "b31ef2bc",
+      "speaker": "ラヴィリス",
+      "ja": "（せーえき、欲しいっ！♥　口にもおまんこにも欲しいっ！！♥　全身せーえきまみれにしてほしい～～～っ！！♥）",
+      "zh": ""
+    },
+    {
+      "key": "451.0",
+      "line_index": 451,
+      "inline_index": 0,
+      "line_hash": "1fccf4d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラヴィリス……！　も、もうダメだ……！　出る、出るっ！！",
+      "zh": ""
+    },
+    {
+      "key": "455.0",
+      "line_index": 455,
+      "inline_index": 0,
+      "line_hash": "7ed1c5c0",
+      "speaker": "ラヴィリス",
+      "ja": "らしてぇ～～～～っ！！♥　せーえきびゅーびゅーひてぇぇ～～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "463.0",
+      "line_index": 463,
+      "inline_index": 0,
+      "line_hash": "eef6dabd",
+      "speaker": "ラヴィリス",
+      "ja": "んぎゅぅぅぅぅっ！♥　ふぐっ、んっ！♥　ふぅ、んふっ！！♥　んぐっ、んぐっ、んふぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "466.0",
+      "line_index": 466,
+      "inline_index": 0,
+      "line_hash": "ccad14cc",
+      "speaker": "ラヴィリス",
+      "ja": "あへぇっ！♥　せーえき、出てぇ……あふぅっ♥　おまんこきゅんきゅん疼くぅ……♥　ううう、こんなの、始めてぇ……あふぅぅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "468.0",
+      "line_index": 468,
+      "inline_index": 0,
+      "line_hash": "49d4b826",
+      "speaker": "",
+      "ja": "ラヴィリスの顔にびちゃびちゃと精液がかかり、可愛い顔が真っ白に汚れていく。",
+      "zh": ""
+    },
+    {
+      "key": "470.0",
+      "line_index": 470,
+      "inline_index": 0,
+      "line_hash": "2304dc6",
+      "speaker": "",
+      "ja": "顔は完全に快楽に染まり、普段の気怠そうなラヴィリスはいなかった。",
+      "zh": ""
+    },
+    {
+      "key": "471.0",
+      "line_index": 471,
+      "inline_index": 0,
+      "line_hash": "edaba49e",
+      "speaker": "",
+      "ja": "嬉しそうに精液を顔で受け止め、喉を鳴らしながら男の欲望をゴクゴクと飲み込んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "474.0",
+      "line_index": 474,
+      "inline_index": 0,
+      "line_hash": "7a1ffe49",
+      "speaker": "ラヴィリス",
+      "ja": "やぁ……もうしゃせー終わりぃ？♥　もっと……もっとせーえきぃ……おちんぽのせーえきのお掃除もすりゅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "477.0",
+      "line_index": 477,
+      "inline_index": 0,
+      "line_hash": "ce1fb1c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "う゛っ……！　ラヴィリス、待って……！　今出したばっかりだからっ……！",
+      "zh": ""
+    },
+    {
+      "key": "481.0",
+      "line_index": 481,
+      "inline_index": 0,
+      "line_hash": "719a73b4",
+      "speaker": "ラヴィリス",
+      "ja": "やだぁ……♥　もっとぉ……♥　れる、れろれろっ♥　ちゅ、ちゅうううっ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "483.0",
+      "line_index": 483,
+      "inline_index": 0,
+      "line_hash": "2ef20ae6",
+      "speaker": "",
+      "ja": "ラヴィリスは何かのスイッチが入ってしまったのか、すっかり性行為に魅せられてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "485.0",
+      "line_index": 485,
+      "inline_index": 0,
+      "line_hash": "dc2d6d70",
+      "speaker": "",
+      "ja": "自身の欲望を発散させるように積極的に肉棒を舐め、尿道に残った精液を夢中になって吸い出す。",
+      "zh": ""
+    },
+    {
+      "key": "487.0",
+      "line_index": 487,
+      "inline_index": 0,
+      "line_hash": "f9a0520f",
+      "speaker": "",
+      "ja": "そんなラヴィリスを見ているだけでムラムラしてしまい、再び肉棒が硬く大きくなってしまうのであった。",
+      "zh": ""
+    }
+  ]
+}
