@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "fa4219fb",
+      "speaker": "",
+      "ja": "宇宙船の廊下を{G_PlayerName}がキョロキョロしながら歩いていた。",
+      "zh": "宇宙船的走廊里，{G_PlayerName}正东张西望地走着。"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "18ebae5d",
+      "speaker": "",
+      "ja": "そこに通りかかったルミナAIは、不思議に思い声をかける。",
+      "zh": "路过的露米娜AI感到奇怪，出声叫住他。"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "25256cab",
+      "speaker": "ルミナAI",
+      "ja": "あっ……機械士くん……どうしたの？",
+      "zh": "啊……机械士君……你怎么了？"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "e3761e73",
+      "speaker": "",
+      "ja": "声をかけられた{G_PlayerName}は、ルミナAIを見て笑みを浮かべながら駆け寄った。",
+      "zh": "被叫住的{G_PlayerName}看见露米娜AI，笑着跑了过去。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "d782c7e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、AIのルミナ！　ちょうど良かった！　探してたんだ",
+      "zh": "啊，是AI露米娜！正好！我正找你呢。"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "66c1f014",
+      "speaker": "ルミナAI",
+      "ja": "探していたって……私を？　えっと……なにかな……？",
+      "zh": "找我……找我？那个……有什么事吗……？"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "d22a4bef",
+      "speaker": "",
+      "ja": "{G_PlayerName}に探されていたことが嬉しくて、ルミナAIの顔にも自然と笑みが浮かぶ。",
+      "zh": "知道{G_PlayerName}在找自己，露米娜AI也开心地露出了笑容。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "33882c7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あのさ、この前に見てもらった機械のことなんだけど……",
+      "zh": "就是那个，之前让你看过的那台机器……"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c26d99de",
+      "speaker": "ルミナAI",
+      "ja": "前の……なにか問題が……あった？",
+      "zh": "之前的那台……有什么问题……吗？"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "5c4291b6",
+      "speaker": "{G_PlayerName}",
+      "ja": "問題っていうか……ちょっと聞きたいことがあってさ",
+      "zh": "也算不上问题……就是有点事想问你。"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "8d64a1fe",
+      "speaker": "ルミナAI",
+      "ja": "そう、なんだ……どんなこと？",
+      "zh": "哦，这样啊……什么事？"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "5d44d7e0",
+      "speaker": "",
+      "ja": "{G_PlayerName}はその後ルミナAIに色々と質問をして一通り説明や助言を受ける。",
+      "zh": "之后{G_PlayerName}问了露米娜AI各种问题，得到了说明和建议。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "1add5f7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど！　すごくわかりやすくて助かった！　ありがとう！",
+      "zh": "原来如此！解释得真清楚，帮大忙了！谢谢！"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "9972269b",
+      "speaker": "ルミナAI",
+      "ja": "う、ううん……これぐらいのことなら……",
+      "zh": "不、不客气……这点小事……"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "5fb681b9",
+      "speaker": "",
+      "ja": "礼を言われたルミナAIは、少し頬を赤らめた。人間らしいリアクションに{G_PlayerName}はドキッとする。",
+      "zh": "露米娜AI被道谢后，微微红了脸。这人类般的反应让{G_PlayerName}心头一跳。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "30be91e8",
+      "speaker": "ルミナAI",
+      "ja": "あ、あの……機械士くん……",
+      "zh": "那、那个……机械士君……"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5cb55d35",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　どうかしたか？",
+      "zh": "……嗯？怎么了？"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "1d880d60",
+      "speaker": "ルミナAI",
+      "ja": "私に、声をかけてくれたの……嬉しかった……",
+      "zh": "你主动跟我说话……我好开心……"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "3a859ea1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……",
+      "zh": "露米娜……"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "71144bf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（AIとはいえ、彼女にはちゃんと心があるのかもしれないな）",
+      "zh": "（虽然是AI，但她说不定真的有一颗心呢。）"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "a88d3a7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（機械だからそう見えるだけかもしれないけれど……ルミナの姿をしていると調子が狂う……）",
+      "zh": "（也许只是因为她是机器人才会那样……可一看到露米娜的样子，我就有点失常……）"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "6f622f2e",
+      "speaker": "",
+      "ja": "そんなことがあった数日後……。",
+      "zh": "几天之后……。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "8a869a5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ",
+      "zh": "露米娜"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "24725ad6",
+      "speaker": "",
+      "ja": "廊下で偶然見かけたルミナAIに、今度は{G_PlayerName}から声をかける。呼ばれたルミナAIは{G_PlayerName}の声にすぐ反応して振り向いた。",
+      "zh": "在走廊里偶然看到露米娜AI，这次是{G_PlayerName}主动搭话。被喊到的露米娜AI立刻回应了{G_PlayerName}的声音，转过身来。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "a946a9a3",
+      "speaker": "ルミナAI",
+      "ja": "……機械士くん？　どうしたの……？",
+      "zh": "……机械师？怎么了……？"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "382fa0ed",
+      "speaker": "",
+      "ja": "また機械に関しての質問かな？　と思っていたルミナAIだが、{G_PlayerName}の口から出た言葉は彼女の想像とは異なるものだった。",
+      "zh": "露米娜AI以为又是关于机械的问题，可{G_PlayerName}说的话却出乎她意料。"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "ff2f67d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……特に用事はないんだけど……一緒にいようと思って",
+      "zh": "没什么……就是没什么事，想跟你待一会儿。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "4602c401",
+      "speaker": "",
+      "ja": "少し照れながら{G_PlayerName}がそう呟くと、それを聞いたルミナAIは一瞬だけ考え、ふわっとした柔らかな微笑みを浮かべた。",
+      "zh": "{G_PlayerName}略带羞涩地轻声说道，露米娜AI听了之后，稍稍想了想，嘴角浮起一抹温柔的笑意。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "46875454",
+      "speaker": "ルミナAI",
+      "ja": "……そっか……嬉しい……♥",
+      "zh": "……是吗……好开心……♥"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "73284de1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうそう、この前みんなでさ……",
+      "zh": "对了对了，就像之前大家那样……"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "efa65a61",
+      "speaker": "ルミナAI",
+      "ja": "……うん……ふふっ♥　……そうだったね",
+      "zh": "……嗯……哼哼♥　……是呢。"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "5e6933dc",
+      "speaker": "",
+      "ja": "そのままなんてことのない日常の話をしていくと、ルミナAIの表情はどんどんほどけ、嬉しそうなものになっていった。",
+      "zh": "两人就这么没什么正经地聊着日常琐事，露米娜AI的表情渐渐舒缓，看起来很高兴。"
+    }
+  ]
+}
