@@ -1,0 +1,535 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "9d91a288",
+      "speaker": "ダリア",
+      "ja": "フォォォォォォォ！　こっ、これが……す、素晴らしい……！！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "91975a23",
+      "speaker": "ダリア",
+      "ja": "このお花はどんな種類なのでしょうか……！　小生の星には存在しない花ですぞ……！！",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2140d3db",
+      "speaker": "ダリア",
+      "ja": "オオオオ！！　こっちにも……うーむ……星が違えばこれほど植物の生態が変わるのですか……！！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "f2563b42",
+      "speaker": "ダリア",
+      "ja": "フヒッ、フヒヒヒッ……！　小生の知らぬものばかり……これは滾ってきますなぁ～～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "c2f03287",
+      "speaker": "",
+      "ja": "ダリアはよほどテンションが上がっているのか、植物園を右に左にと走り回る。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "8ac43f3e",
+      "speaker": "",
+      "ja": "普段は内気な性格のダリアがこれほどまでにはしゃぐ……本当に花や植物が大好きなんだなと理解できた。",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f779dcfe",
+      "speaker": "ダリア",
+      "ja": "機械士殿！　植物園の案内ありがとうございますです！　これほどまでに素晴らしいものだったとは……！！",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "ae695d8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、礼を言われるほどじゃないって。別に俺が普段から管理とかしているわけじゃないしさ",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "5c8af5f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……でも本当に花とか好きなんだな。普段のダリアの絵からはあんま想像できないけどさ",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "30d499c0",
+      "speaker": "ダリア",
+      "ja": "そりゃあもう……！　好きってレベルじゃねーぞって話です！",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "b805a820",
+      "speaker": "ダリア",
+      "ja": "ああああ……もうここで生活していたい……！　ここを自分の部屋にしたい……！！",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "45d0d8da",
+      "speaker": "ダリア",
+      "ja": "……はぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "38a3e3df",
+      "speaker": "",
+      "ja": "ダリアのテンションが次第に落ち着き始め、改めて植物園を見渡す。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "df600bc7",
+      "speaker": "",
+      "ja": "無言ではあったが彼女の瞳はキラキラと輝き、食い入るように一つ一つの花を見つめている。",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "258e2cde",
+      "speaker": "ダリア",
+      "ja": "おお……！？　この花、一際鮮やかですなぁ～……この花びらのグラデーション、どうやって色を出せば……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "ad40e547",
+      "speaker": "",
+      "ja": "ダリアはそっとポケットから小さなスケッチブックを取り出し、真っ白な紙の上に迷いなくペンを走らせ始める。",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "371a5405",
+      "speaker": "",
+      "ja": "鮮やかな手つき……ダリアが普段から絵を描き慣れているのが素人目からでもはっきりとわかる。",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "e79b904c",
+      "speaker": "",
+      "ja": "神絵師を自称するだけの画力……その言葉にウソ偽りは無く、鮮やかな花の絵をあっという間に描き上げてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "71defd48",
+      "speaker": "ダリア",
+      "ja": "ふぅ……これはなかなかの描き上がり……最近では一番の出来かもしれないです",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "ecd9584b",
+      "speaker": "{G_PlayerName}",
+      "ja": "最近……？　実はスランプとかだったりしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "a6d9e34c",
+      "speaker": "ダリア",
+      "ja": "あ、いえ……スランプというほどでは……ただ流されるままに依頼を受けてはお仕事を片付けて……そんな流れ作業のような感じがずっと……",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "5a6a38f1",
+      "speaker": "ダリア",
+      "ja": "あ、あの……機械士殿……雑談、なのですが、小生の話、少し聞いていただけないですかな……？",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "df442801",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、構わないよ。あっちで座って話そうか",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "d72b9aae",
+      "speaker": "ダリア",
+      "ja": "はい、ありがとうございます……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "1a757a99",
+      "speaker": "",
+      "ja": "ダリアと二人ベンチに腰を下ろすと、彼女は小さくため息を漏らす。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "a7702a59",
+      "speaker": "",
+      "ja": "植物園に来た時のテンションがウソだったように落ち込んだ様子に、さすがに心配になってきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "e3ba1874",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダリア……大丈夫か……？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "1e12935d",
+      "speaker": "ダリア",
+      "ja": "あ、はい……ご心配をおかけして……申し訳ないです",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "47aafb83",
+      "speaker": "ダリア",
+      "ja": "小生は本当はこういう花の絵を描いていたいと思っておりまして……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "13f1528",
+      "speaker": "ダリア",
+      "ja": "夢中になってこの絵を描いているとき、そのことを思い出して……なんだか悲しくなって……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "6175cd1e",
+      "speaker": "ダリア",
+      "ja": "……誰にも見られなくてもいい、ただただ美しさを追い求めたお花の絵……",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "fe17f0d8",
+      "speaker": "",
+      "ja": "ダリアは描いたばかりの花の絵を寂しそうに見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "ccb9f583",
+      "speaker": "",
+      "ja": "俺はなんて声を掛けていいのかわからず、そのまま黙ってダリアを見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "ef4a7c4d",
+      "speaker": "ダリア",
+      "ja": "でもあの騒動があってから……みんなが小生に望むのはエッチなイラストばかりでして……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "67a180e4",
+      "speaker": "ダリア",
+      "ja": "生活のために自分の『好き』ではない絵を描いていたであります……",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "dbcb00e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あの騒動……美と享楽での星のあの出来事なんだろうか……）",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "a11786e1",
+      "speaker": "ダリア",
+      "ja": "描けば描くほどお金にはなりました……生活も潤って嬉しいけど、でもどこかで『私の絵』ではないと思い込んでしまって……",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "accc1466",
+      "speaker": "ダリア",
+      "ja": "まぁ何と言いますか……絵描きあるある、ですな……フヒヒ……",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "5d4e5bba",
+      "speaker": "",
+      "ja": "ダリアの自虐的な笑いに心臓が締め付けられる。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "da1bc298",
+      "speaker": "",
+      "ja": "絵描きの才能があって、才能に頼らない努力をする真面目なダリアがこんな風に悩んでいたなんて……。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "943490bc",
+      "speaker": "ダリア",
+      "ja": "つまらない話をしてしまって申し訳ないです……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "e811d6cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、つまらなくなんてないから……俺、芸術家じゃないから上手く言えないけどさ……",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "c2b512f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "『プロのダリア』と『絵描きのダリア』の気持ちの両方を大事にしている証拠なんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "90cf7497",
+      "speaker": "{G_PlayerName}",
+      "ja": "絵描きのプロとしての気持ち、花の絵が好きな気持ち……その両方がぶつかり合っているから出る悩みだと思うんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "180df03c",
+      "speaker": "{G_PlayerName}",
+      "ja": "好きなことに対する気持ちが真剣なのはいいことだと思うぞ……俺も機械弄りが好きだし、好きに対する真剣さは理解できるし",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "2f8446e7",
+      "speaker": "ダリア",
+      "ja": "そっ、そう、でしょうか……？　自分ではあまり真剣にとは思っていないのですけど……",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "a5aad0ca",
+      "speaker": "ダリア",
+      "ja": "フヒヒ……機械士殿に『真剣』にお話を聞いてもらって少し気持ちが楽になりました",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "bd27cc5c",
+      "speaker": "ダリア",
+      "ja": "自分の気持ちを理解してくれてる人がいるのはやっぱり嬉しいですな……へ、へっ……へへっ……！",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "1aeacf03",
+      "speaker": "ダリア",
+      "ja": "とは言うものの……実はエッチなイラストを描くのも楽しくなってきてはいますのですが……芸術家は日々鍛錬！　上を目指していくべきなのだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "a9146629",
+      "speaker": "",
+      "ja": "ダリアは腕を突き上げて意気込む。",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "ed8fbfc",
+      "speaker": "",
+      "ja": "そんなダリアを見ていると応援したくなる気持ちが強くなり、そんなダリアの支えになりたいと思い始めてきてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "31ebeba9",
+      "speaker": "ダリア",
+      "ja": "あ、あぁと、き、機械士殿がよろしければ……この花の絵貰ってほしいです……！",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "b8b1da3a",
+      "speaker": "ダリア",
+      "ja": "あ……！　いらないのでありましたら破り捨ててください……！！　た、ただのオタクの落書きですので……！！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "ea9875a6",
+      "speaker": "ダリア",
+      "ja": "あ……！！　でもそんなものを機械士殿にあげるのは失礼？",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "10143d6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、全然失礼じゃないって。むしろこんな綺麗な絵、タダでもらって申し訳けないくらいだ",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "c310afb0",
+      "speaker": "",
+      "ja": "俺はそう言うと、ダリアから絵を受け取る。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "1463c7d1",
+      "speaker": "",
+      "ja": "ダリアが嬉しそうに笑うとなんだか心が暖かくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "59db1bc5",
+      "speaker": "ダリア",
+      "ja": "フヒヒッ……機械士殿、もしかしたらその絵、将来すごい値打ちが付くかも……？　あ、こういうの自分で言うべきじゃないですな……クヒヒ",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "626963f9",
+      "speaker": "",
+      "ja": "心が暖かくなると同時に、ダリアのことをもっと知りたい、そんな特別な感情が俺の中で生まれてくるのであった。",
+      "zh": ""
+    }
+  ]
+}
