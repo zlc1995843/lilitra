@@ -1,0 +1,904 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "f719ada9",
+      "speaker": "コハル",
+      "ja": "ちょっと！　あんた大丈夫なのっ？！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "fbf53a52",
+      "speaker": "",
+      "ja": "慌ててコハルは{G_PlayerName}の部屋へと飛び込んできた。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "5920b7ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……コハル……悪い……今日は調子悪くて……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "134cfccc",
+      "speaker": "",
+      "ja": "そう答えた{G_PlayerName}はベッドに横たわり赤い顔をしている。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "d8714c91",
+      "speaker": "コハル",
+      "ja": "知ってるわよっ！　だからこうして慌てて来たんじゃないっ！",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "a1ab8623",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……そうか……悪い……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "acc9f0d8",
+      "speaker": "",
+      "ja": "明らかに弱っている{G_PlayerName}を目の当たりにして、コハルの中で心配する気持ちが大きくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "3b46b7e0",
+      "speaker": "コハル",
+      "ja": "まったく……！　どうせあんたの事だから、夜通し機械いじりばかりしてたんでしょ？！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "dbc291fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……その通りなんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "ee63e9ea",
+      "speaker": "コハル",
+      "ja": "自分の体なんだから、もっと大切にしなさいよ……！",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "57d6b927",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……げほっ……ごほごほごほっ……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "be56d45f",
+      "speaker": "",
+      "ja": "{G_PlayerName}は謝罪の言葉を口にしたが、それが引き金になって弱々しく咳き込んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "271f550d",
+      "speaker": "",
+      "ja": "それを見たコハルは慌てて{G_PlayerName}に駆け寄って、自らのおでこを{G_PlayerName}のおでこに当てた。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "248a5703",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……コハル……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "da9dab44",
+      "speaker": "",
+      "ja": "キスするんじゃないかという近さに{G_PlayerName}はドキドキしてしまう。だがコハルは純粋に熱を確認しているだけだった。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "8783e4a3",
+      "speaker": "コハル",
+      "ja": "すごい熱があるみたい……まったく、仕方ないわね……私が介抱してあげる",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "dc0e2535",
+      "speaker": "{G_PlayerName}",
+      "ja": "め、面目ない……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "e8cfa2ee",
+      "speaker": "",
+      "ja": "すっかり弱々しい{G_PlayerName}は、コハルに身を任せる。コハルは持参したゴム手袋に手を通すと、介抱へと取りかかった。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "67d8ae18",
+      "speaker": "",
+      "ja": "しかしその介抱は{G_PlayerName}が考えていたものとはまるで違い、コハルはいきなりズボンとパンツを引き下ろして下半身を露わにさせる。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "bcf214fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　おっ、おいっ……！　コハル……！？",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "5dcab51a",
+      "speaker": "",
+      "ja": "意外な行動に驚き戸惑う{G_PlayerName}だが、コハルは顔を赤らめながら太ももの上に上半身を導いた。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "6d056069",
+      "speaker": "",
+      "ja": "そして服をはだけ自らの乳房を露出させると、{G_PlayerName}のおちんちんを握ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "fde95980",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい……これって……な、なにを……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "8d32f842",
+      "speaker": "コハル",
+      "ja": "違う星の看病方法を習ったから……その星では”こうする”のが特効薬になるんだって……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "68467f52",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……こんなのって……",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "b4c3999b",
+      "speaker": "",
+      "ja": "大胆な看護方法に困惑している{G_PlayerName}にコハルは優しく囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "c9b05405",
+      "speaker": "コハル",
+      "ja": "早く治って欲しいから、あたしがしっかり面倒見てあげる……ね？　患者さま？",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "d992c6cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……うん……よ、よろしくお願いします……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "9eff890d",
+      "speaker": "コハル",
+      "ja": "ほら……あたまを支えてあげるから……あたしのおっぱい、吸って……？♥",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "6e245328",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うん……それじゃあ……んちゅっ……んぐんぐっ……",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "2fac3388",
+      "speaker": "",
+      "ja": "非現実的な看護方法と発熱でくらくらしてしまっている{G_PlayerName}は、正常な判断ができずに言われるまま目の前にあるコハルの乳首に吸いついた。",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "e60f22af",
+      "speaker": "",
+      "ja": "いつもは言い合う仲なのに打って変わって大人しい{G_PlayerName}を見てコハルはキュンとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "8190298d",
+      "speaker": "コハル",
+      "ja": "んっ♥　ふふっ……素直でいい子ね……♥",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "7ec4e31d",
+      "speaker": "",
+      "ja": "ついつい母性本能がくすぐられたコハルは優しくそう囁くと{G_PlayerName}の頭を撫でた。",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "795bcb74",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "ba1d64bd",
+      "speaker": "",
+      "ja": "{G_PlayerName}もまるで母親に甘えさせて貰っているような感覚に安心感を得てしまう。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "d1a7a79c",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}はボーッとする頭の中、母親から授乳されている気になってまるで赤ちゃんのようにコハルの乳首をちゅうちゅうと吸った。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "a87cb554",
+      "speaker": "コハル",
+      "ja": "……んっ……んんっ♥　そのまま吸っていていいからね♥　その間にあたしは……おちんちんの方を……",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "8448ca8d",
+      "speaker": "",
+      "ja": "乳首を吸われて興奮したコハルは、手にした{G_PlayerName}のおちんちんを優しくしごき始める。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "d4383b68",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ……あっ……あぁぁ……",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "4353b1fe",
+      "speaker": "",
+      "ja": "優しく擦られ、{G_PlayerName}は思わず声を漏らし陰茎を剛直させていった。そして、目の前の乳首をさっきよりも強く吸い始める。",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "60293f0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぐんぐっ……ちゅうぅ……んちゅる……ぢゅるぢゅるぅ……",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "688ea7ce",
+      "speaker": "コハル",
+      "ja": "あんっ……♥　そんなに強く吸われると……あっ、ああっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "6141bca7",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ、ちゅうぅ……ちゅうちゅう……んっ、うむぅ……ちゅるるぅ……",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "9b7e23cb",
+      "speaker": "",
+      "ja": "{G_PlayerName}が強く吸い続けていると、口の中にまろやかな風味が広がってきた。美味しくて、{G_PlayerName}は更に強くコハルの乳首に吸いついていく。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "b8734746",
+      "speaker": "コハル",
+      "ja": "ひゃ、んっっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "d2ebe4cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か……？",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "738fbfa6",
+      "speaker": "コハル",
+      "ja": "あっ……う、うん……大丈夫だから……っ♥　続けて……？♥",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "2be045bd",
+      "speaker": "",
+      "ja": "コハルにそう言われ、{G_PlayerName}はそのまま硬くなってきている乳首を吸い続けた。",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "f295739",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぐんぐっ……ちゅるるっ……んちゅぅ……ちゅうちゅう……",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "6de84c82",
+      "speaker": "",
+      "ja": "舌で転がしながら吸われる感触に、最初は母性本能で慈しんでいたコハルも、徐々に興奮が高まってくるのを感じる。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "d2c3bc07",
+      "speaker": "",
+      "ja": "それでもその感覚を押し殺しながら、手にしたおちんちんを優しく撫で捏ね回していった。",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "490c5a08",
+      "speaker": "コハル",
+      "ja": "しっかりミルクを飲んで……早く元気になるのよ……♥　おちんちんは、もうすっかり元気だけど……♥",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "e0837558",
+      "speaker": "{G_PlayerName}",
+      "ja": "んあっ……あうぅっ……そ、そんなにされたら……出ちゃう……ぅぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "d871f61",
+      "speaker": "",
+      "ja": "熱で朦朧としているせいか一旦射精に向かうと我慢できなくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "ab4ed134",
+      "speaker": "",
+      "ja": "{G_PlayerName}の陰茎はコハルの手の中で何度も小さく跳ねながら我慢汁を溢れさせていた。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "f0770248",
+      "speaker": "コハル",
+      "ja": "いっぱい出すと……スッキリして回復に向かうって書いてあったから……我慢しないで出しちゃって……♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "c61f6487",
+      "speaker": "",
+      "ja": "コハルは優しくそう言いながら、握ったおちんちんを何度も擦り上げていく。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "36ddeb76",
+      "speaker": "",
+      "ja": "そんな手コキに{G_PlayerName}は込み上げてくる感覚が強くなり脈打つ陰茎はあっという間に限界に達してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "35d4f83c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あっ……ああっ……",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "236056ac",
+      "speaker": "",
+      "ja": "体調不良で溜め込んでしまっていた{G_PlayerName}は堪えきれなくなって弱々しい声で呻くと、どぴゅどぴゅと精液を放ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "64a89e45",
+      "speaker": "コハル",
+      "ja": "んんんっ♥　で、出てるっ……熱いのがいっぱい出て……あっ、ああっ♥　あたしも……くっ、んふぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "7cf91bea",
+      "speaker": "",
+      "ja": "コハルが射精に興奮して淫らな声を漏らすと、{G_PlayerName}の口の中にほのかに甘い液体が乳首から溢れ流れ込んできた。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "78eecb46",
+      "speaker": "",
+      "ja": "その美味しさに{G_PlayerName}は夢中で乳首に吸いついて、ごくごくと喉を鳴らしてそれを飲み続ける。",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "96b05dd1",
+      "speaker": "コハル",
+      "ja": "あんっ……♥　出ちゃう……強く吸われたら……んっ、ああっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "8423d39f",
+      "speaker": "",
+      "ja": "コハルは身悶えながら喘いだ。そんなコハルに{G_PlayerName}は小声で囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "b8bd4956",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなこと言うのは、その……変だと思うんだが……コハルのミルク、おいしいな……",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "c7a7376e",
+      "speaker": "",
+      "ja": "一通り射精した後、息を整えながら{G_PlayerName}が素直にそう告げると、それが嬉しかったのかコハルの口元に笑みが浮かんだ。",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "ebffaabe",
+      "speaker": "コハル",
+      "ja": "もう……♥　バカなこと言っていないで……しっかり飲んで元気になりなさい……♥",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "80aed1d5",
+      "speaker": "",
+      "ja": "優しくそう囁かれた{G_PlayerName}は小さく頷くとコハルの乳首をまた吸い始める。",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "bdd84b7a",
+      "speaker": "コハル",
+      "ja": "（これは看病なんだから……気持ちよくなっちゃだめなのに……。）",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "fbaa3a73",
+      "speaker": "",
+      "ja": "そう思って欲情を制御しようとするが、コハルは乳首を吸われることで徐々に押し寄せる快楽に抗えなくなってきていた。",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "4f77a838",
+      "speaker": "",
+      "ja": "{G_PlayerName}は夢中でコハルの乳首を咥え吸い続けている。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "b3eaabaa",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぐんぐ……んっ……ちゅうちゅう……",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "b56d71c7",
+      "speaker": "コハル",
+      "ja": "はぁ……♥　はぁ……♥　すごくいっぱい精液出したのに……おちんちん……まだ硬いまま……♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "c5722900",
+      "speaker": "",
+      "ja": "萎える気配のない{G_PlayerName}の熱い陰茎に驚きつつも、コハルはまた優しく擦り上げた。",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "f434a626",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}はぞくぞくする快感を覚え、更に強くコハルの乳首に吸いついていく。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "c3b06892",
+      "speaker": "コハル",
+      "ja": "あっ……♥　んんっ……♥　ちょ、ちょっとそんなに激しく吸っちゃ……あふっ……♥　舌で転がしちゃ……だめぇぇぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "cc5a3676",
+      "speaker": "",
+      "ja": "ただ乳首を吸うだけではなく甘噛みして舌で舐め回したりされ、コハルの口からは喘ぎ声が溢れ出た。",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "2b829dc7",
+      "speaker": "",
+      "ja": "胸の鼓動もどんどん速まって体が火照っていくのを感じる。",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "cde83b70",
+      "speaker": "コハル",
+      "ja": "も、もう……そんなエッチに吸っちゃ……あふっ……んっ、はぁぁ……あっ……ぁぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "f3e53c98",
+      "speaker": "",
+      "ja": "強くなる快感にコハルは更に興奮し、体を震わせ始めた。それでも手の動きは止めず、怒張して脈打つ{G_PlayerName}のおちんちんを上下にしごく。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "6f835601",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……気持ちいいし……美味しいし……あっ、うぅ……",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "db8c9a26",
+      "speaker": "",
+      "ja": "理性が効かなくなっている{G_PlayerName}は、夢中でコハルの乳首を吸いつつ絶頂へと向かっていった。同じようにコハルも激しく乳首を吸われ続け絶頂に近づく。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "fd267eb3",
+      "speaker": "コハル",
+      "ja": "んんんっ……♥　だめっ……♥　ち、乳首……あっ♥　ああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "6e5f3e55",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんっ……美味しい……ぢゅるるっ……はぁはぁ……んぐんぐ……",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "4c7c6eb7",
+      "speaker": "コハル",
+      "ja": "あふっ♥　はぁ♥　はぁぁ♥　ち、乳首吸われて……イっ……イっちゃう……くっ……うぅんっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "c3741822",
+      "speaker": "コハル",
+      "ja": "ああっ♥　こんなにびくんびくんして♥　あっ、ああっ♥　あ、あたしも……もう……くふぅ♥　んんんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "e525bb8f",
+      "speaker": "",
+      "ja": "どんどん大きくなる快感にコハルはうっとりとした表情を浮かべながら激しく手を上下させる。",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "c5ff2d02",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}も射精衝動が強くなって、とうとう限界に達してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "b906c15f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……うっ……うぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "a56be930",
+      "speaker": "",
+      "ja": "込み上げてくる感覚に{G_PlayerName}は小さく呻き声を漏らすとコハルの乳首を強く吸いながら絶頂へと至り射精してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "c90538f4",
+      "speaker": "コハル",
+      "ja": "んんんんんんっ♥　んはぁぁ♥　あっ、ああぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "e019a3f6",
+      "speaker": "",
+      "ja": "コハルも体を震わせながら同時にイってしまっていた。それでも{G_PlayerName}は夢中で乳首を吸い続けるので、絶頂の快感が波のようにコハルを襲っていく。",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "58486f7a",
+      "speaker": "コハル",
+      "ja": "んくぅぅ♥　んっ♥　んふぅぅぅ♥　あっ♥　き、気持ちいいっ……乳首で……イくっ……うぅぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "33e4b7c0",
+      "speaker": "",
+      "ja": "連続で絶頂を繰り返すコハルはわなわなと唇を震わせながら恍惚の表情を浮かべつつ、それでも{G_PlayerName}の脈打つおちんちんを擦り続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "b99be5de",
+      "speaker": "",
+      "ja": "そんな快感の中にいるコハルの手の中では、{G_PlayerName}のおちんちんが何度も脈打ち熱い精液をほとばしらせている。",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "4fd01637",
+      "speaker": "コハル",
+      "ja": "ん～っ♥　ふぅうっ♥　こんなにたくさん……ミルク飲ませて……お、おちんちんにぎにぎして……丁寧に介抱してあげたんだからっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "a772aa0f",
+      "speaker": "コハル",
+      "ja": "しっかり元気になりなさい、よ……？　はぁはぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "4f13b79e",
+      "speaker": "",
+      "ja": "{G_PlayerName}に声をかけ、コハルは身震いしながら体を脱力させ余韻に浸っていた。",
+      "zh": ""
+    }
+  ]
+}

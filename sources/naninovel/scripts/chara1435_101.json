@@ -1,0 +1,337 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "d42dbb56",
+      "speaker": "{G_PlayerName}",
+      "ja": "よぉコハル、何してんだ？",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "b8a7c7e4",
+      "speaker": "",
+      "ja": "静まりかえっている船内広場の大きなテーブルの近くで、真面目な顔でデータを閲覧しているコハルを見つけた{G_PlayerName}はそう声をかけた。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "301dd945",
+      "speaker": "コハル",
+      "ja": "あっ、来てたのね！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "54fdcf11",
+      "speaker": "",
+      "ja": "そう言って立ち上がったコハルはいつもとは違い、ナース服を身にまとっている。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "e9a9de99",
+      "speaker": "",
+      "ja": "いつもとは違う幼馴染みの姿を見た{G_PlayerName}は、ドキッとしてしまい少し意識してしまう。気恥ずかしいので、{G_PlayerName}はあえて服装には触れずに話を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "7181c1e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "随分集中していたみたいだな、一瞬声をかけるのをためらったぐらいだ",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "7005d104",
+      "speaker": "コハル",
+      "ja": "だって、一応ナースの手伝いをすることになっちゃったんだもの、しっかり知っておかないと！",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "b5c1fb5c",
+      "speaker": "",
+      "ja": "そう言ったコハルの前には、参考文献が山のように積まれている。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "91ecc04e",
+      "speaker": "",
+      "ja": "勉強熱心な幼馴染みに感心していると、コハルが{G_PlayerName}にデータを見せながら少し興奮した感じで語ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "b169c6fb",
+      "speaker": "コハル",
+      "ja": "ほら見てよ、ほんと星によって全然治療法も違うのね～、勉強のつもりがついつい楽しくなって読みふけっちゃうわ",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "32a84bca",
+      "speaker": "",
+      "ja": "そう言いながらコハルが手にしたデータをスクロールさせていると、突然『異星の看病法』なるものが映し出される。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "22ac2fcc",
+      "speaker": "",
+      "ja": "そこには『体温共有法』や『愛情注入マッサージ』などという、どう見ても愛情表現のような看護法の映像が流れてきた。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "9b2a4fd3",
+      "speaker": "コハル",
+      "ja": "……な、なによこれ……？",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "2f1792cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "え～と……看病、っていうか……ちょっと違う気がするぞ？",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "f54e111",
+      "speaker": "",
+      "ja": "驚くコハルの声に画面を覗き込んだ{G_PlayerName}も、その映像に困惑してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "5a9c2411",
+      "speaker": "",
+      "ja": "しかし資料を見せた手前引き下がれないのか、コハルは激しく首を横に振った。",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "1204dbda",
+      "speaker": "コハル",
+      "ja": "ち、違わないわよ！　きっと異星ではこれが普通……なのよっ！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "de8bfdf8",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、どう見ても抱きついて……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "dce46c71",
+      "speaker": "",
+      "ja": "コハルと{G_PlayerName}は同時に体を乗り出してしまったので、慌てて少し距離を取った。少し気まずい雰囲気が漂ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "42cd341c",
+      "speaker": "",
+      "ja": "しばし沈黙が続いたが、コハルが不意に切り出した。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "2ab4ab2a",
+      "speaker": "コハル",
+      "ja": "でも、こんな方法で本当に効果あるのかしら……？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "cfc2d942",
+      "speaker": "{G_PlayerName}",
+      "ja": "もし本当に薬や治療に頼らずに人肌で病が治るなら……俺はその治療法も歓迎だな",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "4952726c",
+      "speaker": "コハル",
+      "ja": "あんたってやつは……！　エッチなんだから！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "9fcd557b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違うって！　その……注射とか痛いの苦手なんだよ、俺……！",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "9cd2b54e",
+      "speaker": "",
+      "ja": "言い訳がましい言葉を口にする{G_PlayerName}だが、コハルは少し考え込んでから口を開く。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "fb331889",
+      "speaker": "コハル",
+      "ja": "……でも、まあ……優しく触れあうのも『癒やし』のひとつなのかもね",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "336da6d3",
+      "speaker": "",
+      "ja": "そんな幼馴染みの言葉に、{G_PlayerName}はドギマギしながら答えた。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "bdad168c",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか……お前がそう言うと、妙にドキッとするな",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "c2888b1c",
+      "speaker": "コハル",
+      "ja": "なっ、なに言ってるのよ、バカっ！　まったく……あんたのせいで調子狂っちゃったわ",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "3f86182c",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、俺のせいかよ……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "846c8245",
+      "speaker": "コハル",
+      "ja": "そ、そうよっ！　全部あんたのせいよっ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e9871158",
+      "speaker": "",
+      "ja": "照れ隠しに叫んだことで少し落ち着いたのか、コハルは表情を和らげて言葉を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "c1d5b758",
+      "speaker": "コハル",
+      "ja": "でも色々な治療法を学べるのはいい機会ね……みんなの役にも立てると思うし",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "19494c64",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……まあ……そうだな……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "e42ac29d",
+      "speaker": "",
+      "ja": "{G_PlayerName}は困惑しつつそう答えると、コハルはニッコリと笑みを浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "a817bb80",
+      "speaker": "コハル",
+      "ja": "じゃあ、また一緒に勉強しましょ？　うふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "17f1f16a",
+      "speaker": "",
+      "ja": "そう言って笑ったコハルを見て、{G_PlayerName}は更にドキドキしてしまうのだった。",
+      "zh": ""
+    }
+  ]
+}
