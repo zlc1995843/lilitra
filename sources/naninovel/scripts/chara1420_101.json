@@ -1,0 +1,355 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "cbcb02a",
+      "speaker": "ジラド",
+      "ja": "ジラド様だぞ～！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "7ec16173",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "a940469",
+      "speaker": "",
+      "ja": "部屋でくつろいでいた{G_PlayerName}の元に、いきなりいつもと違う姿のジラドが押しかけてきた。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "8727142e",
+      "speaker": "",
+      "ja": "その姿に驚いているとジラドは得意げにポーズを取ると{G_PlayerName}を指さして口上を言った。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "94e8e2d8",
+      "speaker": "ジラド",
+      "ja": "せっかく魔法少女になったから、今回はジラド様がお前をやっつけてやる！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "d31c1c30",
+      "speaker": "",
+      "ja": "普段は怪獣として振る舞っているジラドだが今はいつもとは対照的にヒロインっぽい感じである。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "bf7c0cc6",
+      "speaker": "",
+      "ja": "そんなジラドに困惑しつつも{G_PlayerName}は少し微笑ましく思い、そのノリに付き合うことにした。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "9c777fe3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジラドが俺に勝てるかな？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "a1e6f057",
+      "speaker": "",
+      "ja": "魔法少女っぽく振る舞っているジラドに合わせて{G_PlayerName}は悪役っぽい演技をしながら煽るような言葉を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "5548cafa",
+      "speaker": "",
+      "ja": "するとジラドはその挑発に乗るようにポーズを取って言った。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "7fd49c80",
+      "speaker": "ジラド",
+      "ja": "言ったな！　今に見ていろ！",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "93daf7a",
+      "speaker": "",
+      "ja": "妙に嬉しそうにそう言うとジラドはどこからともなく魔法少女っぽいステッキを取り出して{G_PlayerName}に向かって告げる。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "a88af11f",
+      "speaker": "ジラド",
+      "ja": "どっちがすごい魔法を使えるか勝負だ！",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "2d93da08",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺に魔法が使えるわけないだろう……。）",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "1a6e2598",
+      "speaker": "",
+      "ja": "ノリノリのジラドに呆れつつも{G_PlayerName}はどうしようかと考えた。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "40298460",
+      "speaker": "ジラド",
+      "ja": "どうした？　怖じ気づいたのか？　だったら参りましたと言うのだ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "85d1347f",
+      "speaker": "",
+      "ja": "煽るようにそう言ってきたジラドに少しカチンときた{G_PlayerName}はいいことを思いつく。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "e0d82465",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いいだろう、少し待ってろ",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "1c90c1ef",
+      "speaker": "",
+      "ja": "{G_PlayerName}は余裕そうに言うと準備に取りかかった。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "a9ccc160",
+      "speaker": "",
+      "ja": "その際に{G_PlayerName}は自分が作成、整備した小型の機械をこっそりと隠し持つ。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "d5d8a223",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ちょっと前にアポロに貸してもらった、ホログラム投影装置……から、適当にそれっぽい映像探そう）",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "cf54b23f",
+      "speaker": "ジラド",
+      "ja": "それじゃあジラド様からいくぞっ！　そぉら！",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "ba5d0757",
+      "speaker": "",
+      "ja": "かけ声と共にジラドは持っていた武器を振り下ろす、フリをする。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "67c0e263",
+      "speaker": "ジラド",
+      "ja": "どうだ！　降参するかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "a20e7e9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "降参なんてするかっ！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "4155257b",
+      "speaker": "",
+      "ja": "ホログラム投影装置を使い、星のように舞い散る光を投影させる。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "2b923d3b",
+      "speaker": "ジラド",
+      "ja": "なんだ、その魔法は？！　お前もいつの間にか魔法を使えるようになったのか？！",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "d179d61b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふふふっ、どうだ？　驚いたか",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "3786ac39",
+      "speaker": "ジラド",
+      "ja": "まだだぞっ！　ジラド様はこんなことだってできるのだ！　見るがいい！　えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "67f36261",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら俺は……これでどうだ！",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "fbadf9a8",
+      "speaker": "ジラド",
+      "ja": "おおおおっ！　すごいっ！　も、もっと見せるのだ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "73b12314",
+      "speaker": "",
+      "ja": "最初こそは張り合っていたジラドだが、{G_PlayerName}が起こす魔法のような現象にいつの間にか夢中になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "1b577c7a",
+      "speaker": "",
+      "ja": "だが我にふと返ったジラドは悔しそうな表情を受けべた。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "bffbde7a",
+      "speaker": "ジラド",
+      "ja": "はっ！　いつの間にか負けてた……！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "fbcd35e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺が勝ったことになったのか……）",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "fe7639ec",
+      "speaker": "ジラド",
+      "ja": "ぐぬぬ……次は負けないからな！　覚えてろよー！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "4a505ceb",
+      "speaker": "",
+      "ja": "悔しがりながらジラドは{G_PlayerName}の部屋から去って行ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "29a2a8a5",
+      "speaker": "",
+      "ja": "そんなジラドの後ろ姿を見送りながら、次の機会のことを考えていた。",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "1021cf80",
+      "speaker": "{G_PlayerName}",
+      "ja": "（次はもう少し、色々な映像を探しておくか……。）",
+      "zh": ""
+    }
+  ]
+}
