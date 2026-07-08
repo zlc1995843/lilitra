@@ -1,0 +1,454 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "6346c6fc",
+      "speaker": "桔梗",
+      "ja": "機械士くん、お手伝いありがとうございました",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "91279fcf",
+      "speaker": "",
+      "ja": "桔梗は操作していた端末から目を離すと、にっこりと微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "4a07d027",
+      "speaker": "",
+      "ja": "桔梗の柔らかな笑みに思わず{G_PlayerName}は顔が熱くなり、山積みの本を一冊手に取りページをペラペラとめくって誤魔化した。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "c732118e",
+      "speaker": "{G_PlayerName}",
+      "ja": "礼を言われるほどじゃないって。でも先生って思っていたよりも大変なんだな",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "6e25b4b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "授業の準備だけでこれだけの資料が必要になるなんて……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "4f7dfdf",
+      "speaker": "桔梗",
+      "ja": "次の授業の範囲が少し難しいんですよね。わかりやすく教えるには教科書そのままだとちょっと……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "690ac8e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……それで……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "17124d36",
+      "speaker": "桔梗",
+      "ja": "特に今まとめているところは、私も昔苦手だったんですよ",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "68707d3c",
+      "speaker": "{G_PlayerName}",
+      "ja": "へ～……先生やってるくらいだし、桔梗先生って昔から頭良かったのかなって思ってたんだけど",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "e70b2304",
+      "speaker": "桔梗",
+      "ja": "そんなことありませんよ。私は普通の学生だったと思いますし、将来教師になるなんてこの頃は思ってもいませんでしたから",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "371cdc3c",
+      "speaker": "桔梗",
+      "ja": "私同様に教え子の中にも理解が難しい人がいると思います。一つの失敗がきっかけで勉強そのものが苦手になってしまう子もいると思うんですよ……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "761512ee",
+      "speaker": "桔梗",
+      "ja": "勉強が得意でない生徒にも、授業を好きになれるようにできることはしたいんです",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "fa0cd718",
+      "speaker": "{G_PlayerName}",
+      "ja": "桔梗先生ってホント教え子と向き合っているんだなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "52aa0306",
+      "speaker": "桔梗",
+      "ja": "ふふっ、ありがとうございます。そう言ってもらえて嬉しいです",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "53d24a24",
+      "speaker": "{G_PlayerName}",
+      "ja": "桔梗先生の授業ならきっと楽しいんだろうなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "a9b3417f",
+      "speaker": "桔梗",
+      "ja": "機械士くんは学生時代の授業あまり楽しくなかったんですか？",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "9ec47104",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、学校ってのがそもそも無かったから……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "f7c6ab2",
+      "speaker": "桔梗",
+      "ja": "そうなんですか？　なら、機械士くんも授業受けてみますか？　もしかしたら楽しいかもしれませんよ？　個人授業になると思いますけど……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "c882f22",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ～……いまさらお勉強はちょっと……。機械のことだったらいいんだけど",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "d3f5919a",
+      "speaker": "桔梗",
+      "ja": "そうですか、なら仕方ありませんね…………あら？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "f70374d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　どうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "cf23257",
+      "speaker": "",
+      "ja": "突然桔梗がキョロキョロとし始め、何かを探し始める。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "a25828a2",
+      "speaker": "桔梗",
+      "ja": "あ、いえ、確かあの資料がこの辺りに……",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "ad5c2c08",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかしてまだ資料が必要だったか？　少し片づけちゃったんだけど",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "8c14a0f9",
+      "speaker": "桔梗",
+      "ja": "そうだったんですね……一応最後に改めて確認作業をしておこうかと思いまして……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "77a39dee",
+      "speaker": "",
+      "ja": "桔梗は近くの本棚に向かい、資料を探し始める。",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "5a01c436",
+      "speaker": "桔梗",
+      "ja": "あ……！　あった",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "bb0ce445",
+      "speaker": "桔梗",
+      "ja": "ん……ふんっ、ふんっ、も、もうちょっと……！",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "ee4e859c",
+      "speaker": "",
+      "ja": "小さくそう呟くと、目当ての本に手を伸ばす。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "a5ba5286",
+      "speaker": "",
+      "ja": "しかし桔梗が目いっぱい手を伸ばしても本に届かず、小さくその場でぴょんぴょんとジャンプを繰り返していた。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "8b4c9d1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（さっきまで立派な先生って感じだったのになぁ……）",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "4f904190",
+      "speaker": "",
+      "ja": "必死に背伸びしてジャンプをしながら資料を取ろうとしている桔梗。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "49fcb5b4",
+      "speaker": "",
+      "ja": "近場に足場になりそうなものには目もくれず、必死に資料に手を伸ばし続ける。",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "1d6056a0",
+      "speaker": "",
+      "ja": "その姿はまるで小動物のような可愛げしかなかった。",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "7d1093be",
+      "speaker": "桔梗",
+      "ja": "あと少し……！　ううう、もう少し～～っ……！",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "f80fd8da",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もう少し見ていたいけど、さすがに可哀想だな）",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "30971959",
+      "speaker": "{G_PlayerName}",
+      "ja": "この冊子で良いんだよな？　はい、どうぞ",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "25f1983a",
+      "speaker": "桔梗",
+      "ja": "あ、ありがとうございます、機械士くん……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "e7f6b18d",
+      "speaker": "桔梗",
+      "ja": "（ついいつものクセで……機械士くんがいたっていうのに……！）",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "ed188b41",
+      "speaker": "桔梗",
+      "ja": "（こ、これでは教師としての威厳が……あ、でも機械士くんは教え子じゃないですし……）",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "33fb435",
+      "speaker": "桔梗",
+      "ja": "（あ……で、でも年上だし人生の先輩だし……！　やっぱりみっともない姿を見せるのは良くない……！）",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "22dc475d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは、桔梗先生はカワイイなぁ～。そこに足場あったのに",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "57672e5f",
+      "speaker": "桔梗",
+      "ja": "あ、う……そ、それは……",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "cfcc0638",
+      "speaker": "桔梗",
+      "ja": "きょ、きょきょ、教師を笑いましたねっ！　機械士くんといえど許しませんよっ！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "3fd96d91",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめんごめん、からかうつもりはなかったんだけど……でも必死に飛び跳ねる桔梗先生の姿が……ふふふっ",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "cdd099ab",
+      "speaker": "桔梗",
+      "ja": "も、もう……！　教師をからかう機械士くんにはお説教です！　そこに座りなさいっ！",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "d4ca5ab3",
+      "speaker": "{G_PlayerName}",
+      "ja": "説教！？　勘弁してくれっ！　可愛かったのは事実なんだし……！",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "43bb4d5b",
+      "speaker": "桔梗",
+      "ja": "そんなこと言っても許しませんからねっ！　私だって厳しいときは厳しいんですからっ",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "b5540f5",
+      "speaker": "",
+      "ja": "その後、小一時間桔梗のお説教を受けた。しかし諭すような言葉は恐ろしくはなく、親しみさえ覚えてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "1163d35a",
+      "speaker": "",
+      "ja": "そんな桔梗だからこそ、教え子に好かれているんだと説教を受けながら感じたのであった。",
+      "zh": ""
+    }
+  ]
+}
