@@ -1,0 +1,328 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "e534d5b3",
+      "speaker": "",
+      "ja": "宇宙船を歩いていた{G_PlayerName}はガシャンという大きな音に思わず振り返る。",
+      "zh": "{G_PlayerName}正在飞船里走着，突然听到“哐当”一声巨响，他下意识回过头。"
+    },
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "ae92beec",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだなんだ？！",
+      "zh": "“怎么回事？！”"
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "5a16c64c",
+      "speaker": "",
+      "ja": "慌てて音がした方へと駆け寄ると、そこにはナース姿のレパルがわたわたしていた。",
+      "zh": "他匆忙跑到声音传来的方向，只见身穿护士服的蕾帕尔正手忙脚乱。"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "2ac368e4",
+      "speaker": "レパル",
+      "ja": "あわわわわっ！",
+      "zh": "“哇哇哇哇！”"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "88127ec8",
+      "speaker": "",
+      "ja": "彼女は真っ青な顔で床に散らばった医療器具らしきものを必死に拾い集めている。",
+      "zh": "她脸色铁青，正拼命地在床边捡着散落一地的医疗器具。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "25320d4b",
+      "speaker": "",
+      "ja": "それを見た{G_PlayerName}はレパルの元に駆け寄って声をかけた。",
+      "zh": "看到这一幕，{G_PlayerName}赶紧跑到蕾帕尔身边询问。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "6bf512fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か？！",
+      "zh": "“你没事吧？！”"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "63839f14",
+      "speaker": "",
+      "ja": "いきなり声をかけられたレパルはびくっと体を硬直させ、まるで怒られる子供のような怯えた顔で呟く。",
+      "zh": "突然被这么一喊，蕾帕尔吓得浑身一僵，露出一副像被骂小孩般的惊恐表情，支支吾吾的。"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "26ead8b5",
+      "speaker": "レパル",
+      "ja": "うぅ……！　ち、違うんです、落としてしまったのは重力のせいで……っ！",
+      "zh": "“呜……！不、不是的，都是重力害我弄掉的……！”"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "3c58523b",
+      "speaker": "",
+      "ja": "よくわからない言い訳を口にするレパルの目は明らかに泳いでいて、手は小刻みに震えつつも床に散らばった器具を必死にかき集めていた。",
+      "zh": "虽然嘴上说着莫名其妙的借口，蕾帕尔的眼睛却明显心虚地游移着，双手微微颤抖，但还是拼命捡拾散落的器具。"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "f078dc10",
+      "speaker": "",
+      "ja": "それを見て{G_PlayerName}はレパルの側へと歩み寄る。",
+      "zh": "见此，{G_PlayerName}走到她身边。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "54a5f3f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "手伝おうか？",
+      "zh": "“我来帮忙吧？”"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "f5f6280c",
+      "speaker": "",
+      "ja": "その提案にレパルは激しく首を横に振った。",
+      "zh": "听到这个提议，蕾帕尔却拼命摇头。"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "40a818eb",
+      "speaker": "レパル",
+      "ja": "だ、大丈夫です……っ！　これは、わたしが……やるべき仕事で……",
+      "zh": "“不、不用了……！这……这是我该做的事……”"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "ae796000",
+      "speaker": "",
+      "ja": "そう呟いた彼女の顔は、かなり思い詰めた表情を浮かべている。",
+      "zh": "她这么说着，脸上却满是煎熬的表情。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "b23a773d",
+      "speaker": "",
+      "ja": "しかし運んでいる医療器具のような物は、明らかに彼女の体格には不釣り合いで、ヨロヨロしていて危なっかしかった。",
+      "zh": "但她搬运的那些医疗器具显然和她的娇小身形很不相称，晃晃悠悠的，看上去十分危险。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "e1e4756f",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、本当に大丈夫か？",
+      "zh": "“喂喂，真的没问题吗？”"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "c4b56105",
+      "speaker": "レパル",
+      "ja": "お兄さんにまで迷惑かけたら……わたし、また信用なくなっちゃいますから……っ",
+      "zh": "“要是再给哥哥添麻烦的话……我、我就更没法让人信任了……”"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "341c1a4e",
+      "speaker": "",
+      "ja": "震える声でそう言いながらも、レパルは必死な顔をしてぎこちなく廊下を進んでいく。",
+      "zh": "尽管声音在发抖，蕾帕尔还是拼了命似的，笨拙地迈步走向走廊。"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "6efe33d3",
+      "speaker": "",
+      "ja": "そんな彼女の姿を{G_PlayerName}は少し離れて見守ることにした。",
+      "zh": "{G_PlayerName}决定稍微离远一点，在后面默默注视着她。"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "b2d6891f",
+      "speaker": "レパル",
+      "ja": "よいしょ……よいしょ……よいしょ……はふぅぅ……んっ、よいしょ……",
+      "zh": "嘿咻……嘿咻……嘿咻……呼……嗯、嘿咻……"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "80adba2e",
+      "speaker": "",
+      "ja": "何度も往復しながら一生懸命に荷物を運ぶレパルを見守っていた{G_PlayerName}だったが。",
+      "zh": "{G_PlayerName}此前一直在一旁看着蕾帕尔一趟趟卖力地搬运行李。"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "3fc226b3",
+      "speaker": "レパル",
+      "ja": "あ……っ？！",
+      "zh": "啊……？！"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "78ec528",
+      "speaker": "",
+      "ja": "よろめいてまた荷物を落としそうになった姿を見て、さすがに心配になった{G_PlayerName}は後ろからそっと支えた。",
+      "zh": "见她一个踉跄，行李差点又掉下去，{G_PlayerName}实在不放心，从身后轻轻扶住了她。"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "16485864",
+      "speaker": "レパル",
+      "ja": "えっ……？！　お兄さん……どうして……？",
+      "zh": "诶……？！哥哥……你怎么……？"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "ce5c777a",
+      "speaker": "",
+      "ja": "いきなり支えられたレパルは驚いた顔で{G_PlayerName}のことを見つめる。",
+      "zh": "突然被扶住，蕾帕尔一脸惊讶地看向{G_PlayerName}。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "12b507d",
+      "speaker": "",
+      "ja": "そんなレパルに{G_PlayerName}は笑みを浮かべて優しく囁きかけた。",
+      "zh": "{G_PlayerName}露出微笑，温柔地对她轻声说道。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "d0d5e513",
+      "speaker": "{G_PlayerName}",
+      "ja": "レパルの頑張っている姿、ちゃんと見てるよ",
+      "zh": "蕾帕尔你努力的样子，我都看在眼里呢。"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "c13d73b4",
+      "speaker": "",
+      "ja": "その言葉にレパルは少し申し訳なさそうにしながらも、どこか嬉しそうな笑みを浮かべる。",
+      "zh": "听了这话，蕾帕尔有些过意不去的模样，但脸上还是绽开了开心的笑容。"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "5fdf4328",
+      "speaker": "レパル",
+      "ja": "……見てて、くれたんですね……？　う、嬉しいです……",
+      "zh": "……原来你一直在看着我啊……？我好开心……"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "f0611e8d",
+      "speaker": "レパル",
+      "ja": "わ、わたしっていつも皆さんに迷惑かけてばかりで……うじうじしてるから……だから何かの役に立ちたいと思って……",
+      "zh": "我、我总是净给大家添麻烦……又老是畏畏缩缩的……所以想至少能帮上点忙……"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "96f5e8cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "迷惑かけてばかりなんて……そんなことないよ、レパルはいつも一生懸命頑張ってるじゃないか",
+      "zh": "说什么净添麻烦……才没有这回事呢，蕾帕尔你一直都很拼命努力啊。"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "d5a69fd6",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は……ちゃんと見ているよ",
+      "zh": "我啊……一直都看在眼里的。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "2f6c3604",
+      "speaker": "レパル",
+      "ja": "お兄さん……っ♥",
+      "zh": "哥哥……♥"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "fab778b7",
+      "speaker": "",
+      "ja": "{G_PlayerName}に勇気づけられるような言葉を貰ったレパルは、照れながらも嬉しそうに微笑む。",
+      "zh": "听到{G_PlayerName}这番鼓励的话，蕾帕尔虽然有些害羞，但还是开心地露出了微笑。"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "8f55bc7",
+      "speaker": "",
+      "ja": "その瞳には、ほんの少しだけ自信が宿っていた。",
+      "zh": "她的眼眸里，浮现出了一点点自信。"
+    }
+  ]
+}
