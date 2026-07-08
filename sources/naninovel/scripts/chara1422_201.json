@@ -1,0 +1,1300 @@
+{
+  "lines": [
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "f23aef57",
+      "speaker": "",
+      "ja": "ムルムルが手作りチョコを作りたい、そう言い出したので二人で街にやってきた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "511985b3",
+      "speaker": "",
+      "ja": "事前に買うものを調べていたので特に買い物自体はスムーズに終わった。しかし──",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "3756431f",
+      "speaker": "ムルムル",
+      "ja": "……帰り道、こっちだっけ？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "7f734db3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……たぶん違うよな？　ちょっと地図確認するから待ってて",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "762ef057",
+      "speaker": "ムルムル",
+      "ja": "うん、わかった",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "812df218",
+      "speaker": "",
+      "ja": "俺は懐からナビを取り出すと、このあたりの地図を表示させる。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "d79df326",
+      "speaker": "",
+      "ja": "どうやらムルムルと話しながら歩いているうちに、いつの間にか大通りから裏通りに行ってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "14362b8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（さて、元の道に戻るには……それにしてもナビって便利だな……画面触るだけで道順とか教えてくれるし……）",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "fe2f78",
+      "speaker": "ムルムル",
+      "ja": "……ん？　これなんだろう",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "5dbfd9ed",
+      "speaker": "",
+      "ja": "ムルムルは地図とにらめっこしている{G_PlayerName}から離れ、一人小さな店の前に佇んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "78be1351",
+      "speaker": "ムルムル",
+      "ja": "可愛いな……せっかくだし買っちゃおうかな",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "b05c83cb",
+      "speaker": "",
+      "ja": "ムルムルには『可愛いインテリア』に見えていた物。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "f489d303",
+      "speaker": "",
+      "ja": "用途もわからぬまま、デザインに惹かれムルムルはそれを購入してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "e63bbb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなとこいたのか……勝手に離れたらダメだろ",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "37b673af",
+      "speaker": "ムルムル",
+      "ja": "ごめん……きみが機械とにらめっこして手持無沙汰になって……",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "4e78e24c",
+      "speaker": "ムルムル",
+      "ja": "それで帰り道わかった？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "59604a5e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、バッチリだ。それじゃ帰るか",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "2dc0970d",
+      "speaker": "",
+      "ja": "俺とムルムルはどちらからともなく自然と手を繋ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "5f4a9dca",
+      "speaker": "",
+      "ja": "まだお互いに少し恥ずかしさが残っていたが、特に意識せずに宇宙船へと帰った。",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "696f37f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　なんだこれ？",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "439eaaff",
+      "speaker": "",
+      "ja": "ムルムルの部屋で買った物の確認をしていると、身に覚えのない紙袋が出てくる。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "ab08fa98",
+      "speaker": "{G_PlayerName}",
+      "ja": "これムルムルが買ったの？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "a6bb12de",
+      "speaker": "ムルムル",
+      "ja": "あ、うん……さっききみが地図の確認をしているときに、可愛いインテリアがあったからお土産として買ってきたんだ",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "7ab6908b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの時のか……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "e052bccd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（中、何だろう……なんか細長いというか……いったいどんなインテリアなんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "722edd14",
+      "speaker": "",
+      "ja": "袋の上からでもはっきりと分かる細長い何か。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "16e1ba8",
+      "speaker": "",
+      "ja": "なんだか妙に親近感が湧くような気がしてきて、少しだけヘンな気分になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "c9197e37",
+      "speaker": "ムルムル",
+      "ja": "でも用途が分からないんだよね……きみならわかるかな？",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "e5fceb9a",
+      "speaker": "",
+      "ja": "ムルムルは俺から紙袋を受け取ると、ガサゴソと中の物を取り出す。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "9e33572a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、それ……！？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "bb535ca3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ディルド！？　ムルムルのヤツ、ディルドなんて買ったのか！？　ど、どの辺が『可愛いインテリア』なんだよ？）",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "971d3baa",
+      "speaker": "ムルムル",
+      "ja": "あ……もしかして使い方わかる？　わかるなら教えて欲しい",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "5108dbc3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……まぁ、その……教えるのは良いんだけど、一つだけ教えてくれ……",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "1a49555b",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんで『可愛いインテリア』なんて思ったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "1748365",
+      "speaker": "ムルムル",
+      "ja": "なんとなくきみのおちんちんに見えて……可愛いなって……だから思わず買っちゃった",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "6f3a8c06",
+      "speaker": "{G_PlayerName}",
+      "ja": "か、可愛い、のか……？　俺のムルムルにはそう見えていたのか……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "30e646b",
+      "speaker": "ムルムル",
+      "ja": "きみのは可愛いだけじゃないけどね。それでどんな感じで使えばいいの？　ただ眺めるだけ？",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "440211cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、眺めるためだけに買う人はいないと思う……",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "ac0f1ff2",
+      "speaker": "",
+      "ja": "これをムルムルに使う……その様子を想像するだけで心臓がドクンドクンと大きく高鳴ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "39669348",
+      "speaker": "ムルムル",
+      "ja": "お願い……せっかく買ったんだから、ムダにしたくない",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "542e9117",
+      "speaker": "",
+      "ja": "ムルムルのお願いに俺は思わず頷いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "b6df2d63",
+      "speaker": "",
+      "ja": "俺はムルムルからディルドを受け取ると、流されるままに教えることになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "52c244a0",
+      "speaker": "ムルムル",
+      "ja": "……形状から少し想像はしたけど、やっぱりそういうために使うものだったんだね",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "489f4eeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……一人で気持ち良くなるための道具だからな。でも無理に使うこともないんだぞ？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "6c3fada9",
+      "speaker": "ムルムル",
+      "ja": "きみが使ってくれるなら問題はないよ……だから……教えて……",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "3c60848",
+      "speaker": "",
+      "ja": "ムルムルは自ら割れ目を開きあそこを見せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "33997abd",
+      "speaker": "",
+      "ja": "すでに中はしっとりと濡れ、このまま挿入しても何も問題が無いと思えるほど愛液で満たされていた。",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "a885eda0",
+      "speaker": "ムルムル",
+      "ja": "きみの目……ちょっとエッチくなってる……♥",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "d74ab0c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、当たり前だろ……！　ムルムルが自分から足広げて見せつけてきてんだ、興奮しないわけないって",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "b3b17367",
+      "speaker": "ムルムル",
+      "ja": "それなら……して……♥　きみにならすべてを委ねられるから……♥",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "76d53688",
+      "speaker": "ムルムル",
+      "ja": "んんっ……！♥　うあ、挿って……んぅ♥　ふう、ううう……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "341eb5dc",
+      "speaker": "",
+      "ja": "俺は興奮に手を震わせながら、ゆっくりとディルドの先端を膣穴に押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "879fa6da",
+      "speaker": "",
+      "ja": "ぐちゅっといやらしい音と共に太いディルドが膣の中にズブズブと沈んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "808bf330",
+      "speaker": "ムルムル",
+      "ja": "んぅぅぅ……な、なんかきみのと、違って……ううう……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "368ed639",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か？　イヤなら止めるぞ？",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "73ac635e",
+      "speaker": "ムルムル",
+      "ja": "だ、いじょうぶ……♥　はぁぁ……なんだか異物感がすごくて……んぅぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "aa3882ff",
+      "speaker": "ムルムル",
+      "ja": "きみのはそんなこと少しも思わなかったんだけど……んんんっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "b6d06e3c",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ続けるぞ……？　少しでもイヤと思ったら言ってくれ",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "3d1b1f9f",
+      "speaker": "ムルムル",
+      "ja": "うん……ふううっ！♥　うあ、あ……は、あ……んんんっ！！♥　んは、はあぁぁ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "ffaddbb2",
+      "speaker": "",
+      "ja": "俺はゆっくりとディルドを引き抜くと、ムルムルの口から甘い喘ぎ声が漏れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "5eba072a",
+      "speaker": "",
+      "ja": "掻き出された愛液がディルドの隙間から溢れピンク色のアナルを濡らす。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "db9039f9",
+      "speaker": "",
+      "ja": "ギリギリまで引き抜くと再び膣の中にディルドを押し込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "9c4ea959",
+      "speaker": "",
+      "ja": "何度か同じようにディルドの出し入れを繰り返していると、感覚にも慣れてきたのかムルムルは身体を震わせ悶えていた。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "b38ee7d",
+      "speaker": "ムルムル",
+      "ja": "これ、結構すごい、かもぉ……♥　偽物のおちんちんで……んっ！♥　こんなに感じてしまうなんてぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "55dea03e",
+      "speaker": "ムルムル",
+      "ja": "んんっ！♥　でも……あうっ！♥　きみ、まだ遠慮してる、よね……？♥",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "23b07fed",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……どのくらいのペースでやっていいのかわかんなくて……もう少し早い方がいい？",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "5cc33094",
+      "speaker": "ムルムル",
+      "ja": "うん……その方がいいかもぉ……あんっ！♥　ゆっくりだと少しもどかしくてぇ……んっ、んんっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "ff926f9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……もう少し強くするから",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "33e85106",
+      "speaker": "ムルムル",
+      "ja": "ふっ、んふっ！♥　んぅぅぅ……ふあ、あ……あっ！♥　ぐちゅぐちゅすごい音っ……んんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "e194529c",
+      "speaker": "ムルムル",
+      "ja": "快感が……あうっ！♥　強くなるぅ……♥　はあ、ああっ、んぅ……ふああ、あああぁぁんっ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "23aeece8",
+      "speaker": "",
+      "ja": "ムルムルのおねだりに応えるように俺はディルドの動きを早めていく。",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "2ca7a80b",
+      "speaker": "",
+      "ja": "ぐちゅぐちゅと卑猥な音がさらに大きくなり、ムルムルの喘ぎ声もどんどん大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "c95caa3e",
+      "speaker": "",
+      "ja": "ムルムルの感じる姿に俺自身も昂ぶり、もっと気持ち良くさせようと自然と腕に力が入ってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "4fbec057",
+      "speaker": "ムルムル",
+      "ja": "これ、すごすぎぃ……あうっ！♥　クリトリスに当たってるぅ……！♥　それ、ダメっ！♥　気持ち良さが余計にぃ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "b2bbdfcf",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に気持ち良さそうだな……愛液がどんどん溢れてきてる……もうアナルの方までぐっしょりだ",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "5e59cf48",
+      "speaker": "ムルムル",
+      "ja": "んぅぅぅっ！♥　そういうこと言わないでぇ……！♥　あっ、あっ！♥　奥ばっかりぃ……！！♥　ああ、先端グリグリダメだってぇ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "264b1c33",
+      "speaker": "",
+      "ja": "俺は自分の肉棒を挿入していることをイメージしながら、子宮口をディルドの先端で押し潰す。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "8fb22354",
+      "speaker": "",
+      "ja": "ムルムルは腰をぐいっと浮かせながら戸惑いと快感の視線を俺に向けながら悶え喘ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "1b694e55",
+      "speaker": "",
+      "ja": "快感から逃げるように腰を捩らせ、俺はムルムルの細い腰を抑えると、執拗なまでにクリトリスと子宮口をディルドで刺激し続けた。",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "ad1ea0ef",
+      "speaker": "ムルムル",
+      "ja": "ううう……！！♥　これ、ダメっ……！！♥　も、もう……あうっ、あううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "c3f76015",
+      "speaker": "{G_PlayerName}",
+      "ja": "いつでもイっていいぞ。ムルムルのイクとこ見せてくれっ",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "98f5fe9a",
+      "speaker": "ムルムル",
+      "ja": "んひぃぃぃっ！！♥　あっ、んあああっ！！♥　激しいぃっ！♥　んぅ、んあ、ああああぁっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "93f45692",
+      "speaker": "ムルムル",
+      "ja": "もうムリぃっ！♥　イっちゃう、イっちゃう！♥　おまんこイっちゃう、イクっ、イクイクっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "64493747",
+      "speaker": "ムルムル",
+      "ja": "イっちゃう～～～～っ！！♥　ふああ、あっ、んはああぁぁぁぁ～～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "90c6eec6",
+      "speaker": "ムルムル",
+      "ja": "んんんっ！！♥　んぅぅっ！♥　んは、んっ……んんんんん～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "7f2be71",
+      "speaker": "",
+      "ja": "グリグリとディルドをさらに押し込んだ瞬間、ムルムルは潮を噴きながら身体をビクンと大きく跳ねらせる。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "1320a2f1",
+      "speaker": "",
+      "ja": "プシュ、プシュと何度も潮が噴き出し、その姿を見ているだけで襲い掛かりたくなる衝動に駆られる。",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "636051bf",
+      "speaker": "",
+      "ja": "俺はその気持ちをぐっと堪えるが、ムルムルの絶頂する姿をもっと見たいとディルドをグリグリと動かし続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "ef252c68",
+      "speaker": "ムルムル",
+      "ja": "んぅっ！♥　ふうう、ううっ！♥　これ、すごいぃ……！♥　快感が突き抜けるぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "5efdfd49",
+      "speaker": "ムルムル",
+      "ja": "あはぁっ……♥　ふぅ、んふぅぅ……♥　はぁぁ……ディルドってこんなに気持ち良い物だったなんてぇ……♥　はぁぁ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "7a3ef588",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そうだな……、ま、まぁあれだ……使い方はこんな感じだ……！",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "476d05cb",
+      "speaker": "",
+      "ja": "これ以上ムルムルを見ていたら理性すら吹き飛んでしまう、俺はそう考えディルドを膣から引き抜こうとする。",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "2a887b60",
+      "speaker": "ムルムル",
+      "ja": "んぅぅぅ……だめぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "739c950b",
+      "speaker": "",
+      "ja": "そんな俺の行動にムルムルはストップをかけるように俺の腕を掴んでくる。",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "c944c6d3",
+      "speaker": "ムルムル",
+      "ja": "まだ……やめないで……欲しい……♥　もっと気持ち良くなりたい……♥",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "4050c467",
+      "speaker": "ムルムル",
+      "ja": "きみにされているってだけで気持ち良くて……だからお願い……もっとおまんこぐちゅぐちゅにして……♥",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "fdd93b6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ムルムル……",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "1736c14c",
+      "speaker": "",
+      "ja": "潤んだ瞳で続きを訴えるムルムル。",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "2ccb815c",
+      "speaker": "",
+      "ja": "そのあまりの可愛らしさに俺の心臓がドクリと鈍く高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "7ea84a91",
+      "speaker": "",
+      "ja": "オスとしての欲望に抗えず、俺はディルドを引き抜くのをやめてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "daa917fd",
+      "speaker": "ムルムル",
+      "ja": "気持ち良いの、もっと欲しい……♥　続けて……おまんこいっぱいイジメて……♥",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "e8c8bbc0",
+      "speaker": "ムルムル",
+      "ja": "はぁぁんっ！♥　あっ、んぅっ！！♥　ふっ、んはあぁっ！♥　ぐちゅぐちゅ、気持ちぃっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "85233e28",
+      "speaker": "ムルムル",
+      "ja": "もっと……もっとおまんこズボズボしてっ……！♥　ああぁ、もっとぉっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "93a76d5f",
+      "speaker": "",
+      "ja": "俺は自身の昂ぶりをムルムルにぶつけるように再びディルドを動かしていく。",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "6593edd4",
+      "speaker": "",
+      "ja": "先ほどよりもディルドを締め付ける膣が強くなり、俺はその締め付けに逆らうように力任せにディルドを動かす。",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "8bb0407",
+      "speaker": "",
+      "ja": "奥に押し込むたびに愛液がぷちゅっと溢れ、真っ白な愛液がムルムルの下半身を汚していく。",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "852599b7",
+      "speaker": "",
+      "ja": "むわっとする下半身の熱気と、蕩けた表情のムルムル。",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "c54d3943",
+      "speaker": "",
+      "ja": "いやらしい過ぎる彼女の姿が俺を煽り、肉棒が痛みを発するほど肥大化してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "363aabc",
+      "speaker": "ムルムル",
+      "ja": "そこぉ、いいのっ♥　あうっ！♥　んぅぅ、ふううっ！♥　これ、気持ち良すぎるよぉ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "1c955b1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……俺のちんぽより良かったりする？",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "7b0ced3",
+      "speaker": "",
+      "ja": "感じまくっているムルムルに思わずそんな質問をしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "19658c89",
+      "speaker": "",
+      "ja": "ディルドの方がいい……なんて言われたらショックを受けるのに、聞かずにはいられなかった。",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "47c4f020",
+      "speaker": "ムルムル",
+      "ja": "んぅっ！♥　意地悪な質問しないでぇ……あんっ！♥　きみのおちんちんの方が良いに決まってるよぉっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "e250011",
+      "speaker": "ムルムル",
+      "ja": "それに……はぁ、んはぁぁっ！！♥　ディルドが気持ち良いんじゃない……きみにエッチなことされているのが気持ち良いんだよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "303e5141",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……すまん、ヘンな質問してしまって……",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "39c2a147",
+      "speaker": "ムルムル",
+      "ja": "ううん、いいよ……でも……気持ち良くしてくれなきゃ許してあげないからね……んっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "50f2ec2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった……もっとムルムルを気持ち良くするから",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "68e2e7ec",
+      "speaker": "ムルムル",
+      "ja": "あおっ！？♥　おぐぅっ！♥　んぅぅぅ、そ、そんな強く……だめぇっ……！！♥　う、う゛っ！！♥　ふう、ん゛ぅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "e74b9a5d",
+      "speaker": "",
+      "ja": "俺は再び子宮口を押し潰し、同時にクリトリスを押し潰す。",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "ca9ec88a",
+      "speaker": "",
+      "ja": "ムルムルは強烈な刺激に目を見開きながら、快感に甘い悲鳴を漏らす。",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "9f637a9d",
+      "speaker": "",
+      "ja": "どろっと大量の愛液が止め処なく掻き出され、ムルムルの下半身は愛液でドロドロになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "7afd9011",
+      "speaker": "",
+      "ja": "ムルムルのいやらしく乱れる姿をもっと見たい、その想いを彼女にぶつけるようにディルドを激しくピストンさせていく。",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "abe17f2d",
+      "speaker": "ムルムル",
+      "ja": "あはぁ、んぅっ！♥　ダメ、またイっちゃいそう……！！♥　んんっ、ふぅ、ふあ、はああぁぁっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "eb61cf43",
+      "speaker": "",
+      "ja": "俺はムルムルの言葉を受け、グリグリとディルドの先端を子宮口に押し当てる。",
+      "zh": ""
+    },
+    {
+      "key": "404.0",
+      "line_index": 404,
+      "inline_index": 0,
+      "line_hash": "f1cae85",
+      "speaker": "",
+      "ja": "ムルムルは再び腰を浮かせ、首をブンブンと激しく横に振る。",
+      "zh": ""
+    },
+    {
+      "key": "406.0",
+      "line_index": 406,
+      "inline_index": 0,
+      "line_hash": "8a9eb130",
+      "speaker": "",
+      "ja": "今までに見せたことのない彼女の感じるまくる姿はどこまでも俺を高ぶらせる。",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "c4e7d318",
+      "speaker": "",
+      "ja": "逃げるように悶えるムルムルの身体を抑えつけながら、俺は夢中になってディルドを押し込み続けた。",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "d7a9e3e0",
+      "speaker": "ムルムル",
+      "ja": "あう、あう゛っ！！♥　イク、イっちゃう！♥　またイかれされちゃうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "1e97420b",
+      "speaker": "ムルムル",
+      "ja": "イク、イクぅっ……！！♥　んっ、んんっ！！♥　ふうう、ふあ、ああああぁぁぁぁぁ～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "56101c85",
+      "speaker": "ムルムル",
+      "ja": "はう゛っ！♥　んぅぅぅっ！！♥　ふう、んぅぅぅ……♥　ふあああ、ああぁぁぁんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "993c0443",
+      "speaker": "ムルムル",
+      "ja": "出りゅのっ、ぎもぢっ、いいぃっ！♥　あううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "b1ddfd3b",
+      "speaker": "",
+      "ja": "ムルムルは身体をビクンビクンと大きく震わせながら、潮を噴かせ絶頂する。",
+      "zh": ""
+    },
+    {
+      "key": "427.0",
+      "line_index": 427,
+      "inline_index": 0,
+      "line_hash": "6edb8071",
+      "speaker": "",
+      "ja": "先ほどよりも大量の潮がプシャっと溢れ、俺の身体がムルムルの体液でびしょ濡れになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "c4c6ca59",
+      "speaker": "",
+      "ja": "俺は自分が濡れることを一切気にも留めず、ムルムルをさらに絶頂させようとディルドをグイグイと動かし続ける。",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "81310ed4",
+      "speaker": "ムルムル",
+      "ja": "らめぇ……んんっ！♥　イぐのっ、とまらないよぉ……！！♥　ふうう、んぅぅ、んは、ああぁぁぁ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "7214802a",
+      "speaker": "ムルムル",
+      "ja": "ディルド、っしゅごいぃ！♥　おまんこっ、蕩けるぅ……！♥　あひぃぃぃ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "55b4209d",
+      "speaker": "",
+      "ja": "再び盛大に潮をまき散らしながらムルムルは絶頂する。",
+      "zh": ""
+    },
+    {
+      "key": "438.0",
+      "line_index": 438,
+      "inline_index": 0,
+      "line_hash": "98a92ea9",
+      "speaker": "",
+      "ja": "いつまでも続くと思われる絶頂を繰り返していたが、やがてそれも収まり始める。",
+      "zh": ""
+    },
+    {
+      "key": "441.0",
+      "line_index": 441,
+      "inline_index": 0,
+      "line_hash": "e5f99f1d",
+      "speaker": "ムルムル",
+      "ja": "んふぅぅ……ふう、ふううっ♥　きみにズボズボされて……はぁ、気持ち良かったよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "443.0",
+      "line_index": 443,
+      "inline_index": 0,
+      "line_hash": "ffde2c42",
+      "speaker": "",
+      "ja": "ムルムルは肩で息をしながら、うっとりとした視線を俺に向ける。",
+      "zh": ""
+    },
+    {
+      "key": "444.0",
+      "line_index": 444,
+      "inline_index": 0,
+      "line_hash": "f4ffd5a4",
+      "speaker": "",
+      "ja": "俺は絶頂を落ち着かせるように頭を撫でると、ムルムルは嬉しそうに瞳を細めた。",
+      "zh": ""
+    },
+    {
+      "key": "447.0",
+      "line_index": 447,
+      "inline_index": 0,
+      "line_hash": "45f29b6e",
+      "speaker": "ムルムル",
+      "ja": "んふふ……またきみにして欲しいな……♥　きみになら何回でもイかせられたい……♥",
+      "zh": ""
+    },
+    {
+      "key": "449.0",
+      "line_index": 449,
+      "inline_index": 0,
+      "line_hash": "bd61b9ed",
+      "speaker": "",
+      "ja": "ムルムルは幸せそうに微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "450.0",
+      "line_index": 450,
+      "inline_index": 0,
+      "line_hash": "e3fbb321",
+      "speaker": "",
+      "ja": "俺はそんな笑みを見ながら、自分の興奮を落ち着かせようといつまでもムルムルの頭を撫で続けているのであった。",
+      "zh": ""
+    }
+  ]
+}

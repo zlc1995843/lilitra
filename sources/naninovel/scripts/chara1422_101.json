@@ -1,0 +1,580 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "73eda2ce",
+      "speaker": "ムルムル",
+      "ja": "なんだかこの通り人が多いね……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "8207e2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……だな。何か催しごとでもやってるのか……？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "9f12df8f",
+      "speaker": "",
+      "ja": "ムルムルに魔と叡智の星で散歩しようと誘われ大通りへとやってきた。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1656c2e3",
+      "speaker": "",
+      "ja": "何かイベントがあるとは聞いていなかったが、ムルムルは興味があるのかじっと人通りを見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "fd7e86b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "興味あるんだったら行ってみるか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "8bd7778c",
+      "speaker": "ムルムル",
+      "ja": "……いいの？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "17c0b24a",
+      "speaker": "{G_PlayerName}",
+      "ja": "見て周りたかったんだろ？　ならちょうどいいじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "6a59565f",
+      "speaker": "ムルムル",
+      "ja": "ありがとう……それじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "eff5a2b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　待って、ムルムル！　一人で行ったら逸れるって……！！",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "f1202cfe",
+      "speaker": "",
+      "ja": "ムルムルはよほど興味があったのか一人で人混みの中を進んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "4df7365d",
+      "speaker": "",
+      "ja": "俺は慌てて追いかけるが、小柄なムルムルのようにスムーズに人混みを歩けない。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "2234a6ad",
+      "speaker": "",
+      "ja": "どうにか見失わないように人混みを強引に掻き分けながら進んでいたのだが──",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "df39cec2",
+      "speaker": "ムルムル",
+      "ja": "{G_PlayerName}くん、あれ何……？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "f0206d5e",
+      "speaker": "ムルムル",
+      "ja": "あれ……？　{G_PlayerName}くん……？　どこに行ったの……？",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "14108dc9",
+      "speaker": "",
+      "ja": "後ろに付いてきていたと思っていた{G_PlayerName}くんがおらず、わたしはその場に立ち尽くす。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "6ef3b25f",
+      "speaker": "",
+      "ja": "キョロキョロと周囲を見渡すが、{G_PlayerName}くんがどこにもいない。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "fd2cd9d7",
+      "speaker": "",
+      "ja": "初めて来た場所、そして賑やかな場所に来たのは久しぶり……そのことがわたしの心を徐々に不安にさせていく。",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "2428c386",
+      "speaker": "ムルムル",
+      "ja": "{G_PlayerName}くん……？　{G_PlayerName}くん……？　どこ……？　いたら返事して……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f6139e73",
+      "speaker": "",
+      "ja": "自分なりに大声を上げるが、わたしの声は人混みの喧騒にかき消される。",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "498b1201",
+      "speaker": "",
+      "ja": "こんなにも多くの人がいるのに、自分を知っている人が誰一人としていない。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "df3a0b8",
+      "speaker": "",
+      "ja": "わたしはどうしていいのかわからず、不安に押しつぶされそうになりながら{G_PlayerName}くんを探し続ける。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "cc71fd77",
+      "speaker": "ムルムル",
+      "ja": "{G_PlayerName}くん……{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "7808ad32",
+      "speaker": "",
+      "ja": "不安がわたしの中にさらに広がり、このまま一生{G_PlayerName}くんに再会できなくなってしまうのでないかとさえ思い始めてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "232b232e",
+      "speaker": "ムルムル",
+      "ja": "{G_PlayerName}くん……どこ……？　わたしを一人にしないで……わたしはここにいるよ……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "65075ab7",
+      "speaker": "ムルムル",
+      "ja": "こんな形でお別れなんて……イヤ、だよ──",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c04b3202",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ムルムル！　やっと見つけた！",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "66346e05",
+      "speaker": "ムルムル",
+      "ja": "{G_PlayerName}くん！？　よ、よかった……やっと見つけた……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "4c26719b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃこっちのセリフだって……！　一人で行ったら逸れちまうだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "77a8f43e",
+      "speaker": "ムルムル",
+      "ja": "ご、ごめん……まだ人が多いところに慣れなくて……",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "38380701",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　すまん、怒鳴ってしまって……でもそれだけ心配したんだからな？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "27f659c5",
+      "speaker": "",
+      "ja": "{G_PlayerName}くんはつり上がった眉を元に戻すと、ぽんとわたしの頭の上に手を置く。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "845d8a98",
+      "speaker": "",
+      "ja": "わたしを落ち着かせようとしているのか、くしゃくしゃと頭を撫で始める。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "147024be",
+      "speaker": "",
+      "ja": "頭を撫でられるだけで、さっきまでの一人ぼっちだった不安がすぐにわたしの中から消えていく。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "b77187c4",
+      "speaker": "",
+      "ja": "{G_PlayerName}くんが傍にいる……たったそれだけでわたしの心は喜びに満ちていく。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "11cd1c2f",
+      "speaker": "ムルムル",
+      "ja": "ありがとう、{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "d688102e",
+      "speaker": "{G_PlayerName}",
+      "ja": "礼を言われるほどじゃないって。でもすぐに見つけられて良かったよ",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "6c57c1f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもこの人通りだからな……また逸れてしまうかもしれないな……どうする？　この先行ってみる？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "1ace8320",
+      "speaker": "ムルムル",
+      "ja": "行ってみたい……あ、それなら手を繋ぐのはどうかな……？　それなら逸れないと思うから……",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "286b8bec",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、その方法があったな……えっと、それじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "f5074095",
+      "speaker": "",
+      "ja": "{G_PlayerName}くんはわたしの提案に照れくさそうに微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "65bf3a93",
+      "speaker": "",
+      "ja": "それでもゆっくりと手を伸ばすと、わたしの手をそっと掴んでくれた。",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "cc339438",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ行くか",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "371fdeed",
+      "speaker": "ムルムル",
+      "ja": "うん",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "e8bd936f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……何かイベントでもあるかと思ったけど、単に買い物客が多かっただけみたいだな",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "996777c8",
+      "speaker": "ムルムル",
+      "ja": "うん……ちょっとだけ残念……でも……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "30f27294",
+      "speaker": "",
+      "ja": "ムルムルは上目遣いにそう言うと、そっと繋いだ手を握りしめてくる。",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "ce1d4846",
+      "speaker": "",
+      "ja": "俺もそっと握り返すとムルムルは僅かに微笑み、その可愛さに思わず顔が熱くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "a91530b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "……もう少し散歩続けるか……せっかく街まで来たんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "dd091a25",
+      "speaker": "ムルムル",
+      "ja": "うん……いろいろ見て回りたい",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "82473086",
+      "speaker": "お兄さん",
+      "ja": "ちょっとそこのお似合いのお二人さんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "60c69a69",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　俺達のことか？",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "34c28d86",
+      "speaker": "お兄さん",
+      "ja": "そうそう、そこのお二人さん！　今ならカップル割りやってるよ？　ケーキもオマケするよ？　ちょっと寄ってかない！？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "47f16cad",
+      "speaker": "{G_PlayerName}",
+      "ja": "かっ、カップル！？　あ、いや、俺達は……",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "c01569de",
+      "speaker": "",
+      "ja": "客引きの人にカップル扱いされ、思わず俺はムルムルを見てしまう。",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "79a866a9",
+      "speaker": "ムルムル",
+      "ja": "ふふ……わたしたち、お似合いだって……嬉しい",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "5651cd72",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、そうか……ま、まぁ、なんだ、ムルムルがそう思ってんだったら……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "206a89c5",
+      "speaker": "ムルムル",
+      "ja": "{G_PlayerName}くんは嬉しくない？",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "fac75563",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、嬉しいに決まってるだろ……そ、そういうこと言わせるなって……！",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "a479f675",
+      "speaker": "お兄さん",
+      "ja": "さぁさぁお二人さん、席は残り一つだけ！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "64e7c5ad",
+      "speaker": "ムルムル",
+      "ja": "あれ、喫茶店……だよね？　寄ってく？",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "b32b2070",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだな……せっかくだし……じゃあ、その……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "664cf3c2",
+      "speaker": "お兄さん",
+      "ja": "はいはい、カップル一組ご案内～っ！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "253ffce0",
+      "speaker": "",
+      "ja": "ムルムルは嬉しそうにしながらも頬を赤く染め照れくさそうな様子。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "35776abf",
+      "speaker": "",
+      "ja": "俺も心臓をドキドキさせながら、ムルムルと幸せで楽しい時間を過ごすのであった。",
+      "zh": ""
+    }
+  ]
+}
