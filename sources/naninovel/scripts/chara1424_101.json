@@ -1,0 +1,373 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "ff3e561f",
+      "speaker": "ポラリス",
+      "ja": "お兄様、聞いてください！　とびきりの情報を手に入れました！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "7af820fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに慌ててどうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "dcb70e5e",
+      "speaker": "ポラリス",
+      "ja": "なんと！　珍しい宇宙スイーツバイキングが開催されるという情報を手に入れました！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "d294a12e",
+      "speaker": "",
+      "ja": "目をキラキラさせながらポラリスは{G_PlayerName}にお誘いをかけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "237307b7",
+      "speaker": "ポラリス",
+      "ja": "小型の宇宙船がありますから、終と始まりの星に一緒に行きましょう！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "8f67cf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "c354e0d8",
+      "speaker": "",
+      "ja": "あまりの勢いに押された{G_PlayerName}は、その提案を受け入れ２人で終と始まりの星へと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "1723c1f1",
+      "speaker": "ポラリス",
+      "ja": "わぁぁ♥　すごいですよ♥　こんなにいっぱい♥",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "56b29c13",
+      "speaker": "",
+      "ja": "バイキングには色とりどりのスイーツが並んでいて、それを目の当たりにしたポラリスは目を輝かせて大喜びだった。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "2d40658a",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすが宇宙スイーツ……奇抜な色のものもあるな……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "1cde84d8",
+      "speaker": "",
+      "ja": "{G_PlayerName}は見たことのない色のスイーツに味への不安を覚えつつも好奇心が疼いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "242d95df",
+      "speaker": "ポラリス",
+      "ja": "よーしっ！　お兄様、わたし全制覇します！",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "4749d076",
+      "speaker": "",
+      "ja": "ポラリスはそう宣言すると驚異的なスピードで端からスイーツを食べ進めていった。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "d32db06b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ……すごい勢いだな……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "1f6469a1",
+      "speaker": "",
+      "ja": "目をキラキラさせながらスイーツを平らげていくポラリスは、いつもより随分と元気に見える。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "dc690372",
+      "speaker": "{G_PlayerName}",
+      "ja": "さてと……せっかく来たんだから俺も食べるか",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "381d779",
+      "speaker": "",
+      "ja": "{G_PlayerName}はパクパクとスイーツを食べるポラリスの後を追うようにして、興味が湧いたものを選んで食べ進めていく。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "bbf8acef",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぱくっ……んぐんぐっ……うわっ、これ辛いっ！　スイーツって甘いものじゃないのか？！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "24557ebc",
+      "speaker": "ポラリス",
+      "ja": "はむはむ……お兄様、こちらのスイーツは酸っぱいですよ♥　これはこれで……有りだと思います♥",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "e7711d3f",
+      "speaker": "",
+      "ja": "時々妙な味のスイーツに翻弄されつつも、ポラリスと{G_PlayerName}はスイーツバイキングを楽しんでいった。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "4b4260b6",
+      "speaker": "",
+      "ja": "そしてそのままポラリスは順調にスイーツを食べ進め、最後の一個に手を伸ばす。",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "a424f12f",
+      "speaker": "ポラリス",
+      "ja": "これでコンプリートですっ♥　いっただきまーす♥　ぱくぱく……もぐもぐ……ん～♥　これも美味しいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "9e2121",
+      "speaker": "",
+      "ja": "そこまで言ったポラリスは、突然ピタリと固まってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "37feb027",
+      "speaker": "",
+      "ja": "その異変に気がついた{G_PlayerName}は心配して声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "1b06f27c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ポラリス？　おい、どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "8f5a9cea",
+      "speaker": "ポラリス",
+      "ja": "お兄しゃまぁ……なんだかしぇかいが……きらきらしてましゅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "d0003f31",
+      "speaker": "",
+      "ja": "完全に呂律が回らない感じでポラリスがそんなことを口にした。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "84037c49",
+      "speaker": "",
+      "ja": "その口からはほんのりとお酒の匂いが漂ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "4f70e300",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前……もしかして酔っ払っているのか？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "9c2753b8",
+      "speaker": "ポラリス",
+      "ja": "何いってるんでしゅかぁ……酔っ払ってにゃんていないれすよぉ",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "1123b982",
+      "speaker": "",
+      "ja": "そう言ったポラリスはどこからどう見ても完全に酔っ払っていた。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "7aa0ce73",
+      "speaker": "{G_PlayerName}",
+      "ja": "（リリアンは気をつければ酔わないって聞いていたけれど……不意を突かれると酔っ払うのか？　それとも……個人差？）",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "44d8c9bf",
+      "speaker": "ポラリス",
+      "ja": "おにいしゃまぁぁ～～……はふぅぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "dcdec56c",
+      "speaker": "",
+      "ja": "色々と考えていると、突然ふにゃりと力が抜けたポラリスが{G_PlayerName}に寄りかかってくる。その柔らかな感触に{G_PlayerName}はドギマギしてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "a3b474b",
+      "speaker": "",
+      "ja": "スイーツの説明が書いてあるポップに目を向けると、そこには『大人の味』と書かれている。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "b10c947a",
+      "speaker": "ポラリス",
+      "ja": "ふにゃぁぁぁ～～……♥",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "f55fb108",
+      "speaker": "{G_PlayerName}",
+      "ja": "やれやれ……仕方ないなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "b2635560",
+      "speaker": "",
+      "ja": "完全にフリーズしてしまったポラリスを{G_PlayerName}はお姫様抱っこで抱き上げると、バイキング会場を後にして船へと向かうことにした。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "a149ab70",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても……ポラリスは甘いものを前にすると我を忘れるタイプだったとは……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "df201881",
+      "speaker": "{G_PlayerName}",
+      "ja": "（普段はしっかり者のポラリスの新たな一面を見られたから……まあいいか。）",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "106d03b",
+      "speaker": "",
+      "ja": "新たな発見を嬉しく思いつつ{G_PlayerName}は船へと帰って行った。",
+      "zh": ""
+    }
+  ]
+}
