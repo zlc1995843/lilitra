@@ -1,0 +1,904 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "fd875113",
+      "speaker": "ベリル",
+      "ja": "ふぅ……今日もどうにか自分の性別がバレずにすんだ……",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "be410192",
+      "speaker": "ベリル",
+      "ja": "家督を継ぐまでの我慢とはいえ、毎日気を遣ってさすがに疲れるな……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "e98a43e2",
+      "speaker": "ベリル",
+      "ja": "でも今はボク一人……部屋にいる間だけだな、こんなにのんびりできるのは……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "bfe29b3c",
+      "speaker": "ベリル",
+      "ja": "それにしても改めて考えると、ウチュウセンというのはすごい魔導具だな",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "a44398b5",
+      "speaker": "ベリル",
+      "ja": "部屋の中にあるものもそうだ、",
+      "zh": ""
+    },
+    {
+      "key": "32.3",
+      "line_index": 32,
+      "inline_index": 3,
+      "line_hash": "a44398b5",
+      "speaker": "ベリル",
+      "ja": "ボクの星で考えられないほど精密で精巧で……我が社にも是非取り入れたいくらいだ",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "96e50e47",
+      "speaker": "ベリル",
+      "ja": "ルミナさんやアポロさんに交渉してみようかな……交渉する価値は絶対にある……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "54cb7b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "おーいベリルーっ、いるかーっ",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "7e27b109",
+      "speaker": "ベリル",
+      "ja": "──うわぁっ！？　な、なんだ{G_PlayerName}か。",
+      "zh": ""
+    },
+    {
+      "key": "45.3",
+      "line_index": 45,
+      "inline_index": 3,
+      "line_hash": "7e27b109",
+      "speaker": "ベリル",
+      "ja": "いきなり部屋に入って来るんじゃない。驚くだろう！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "f29883b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、そんなに慌てて。男同士だし別にいいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "b3a3284b",
+      "speaker": "ベリル",
+      "ja": "いいわけあるか！",
+      "zh": ""
+    },
+    {
+      "key": "52.3",
+      "line_index": 52,
+      "inline_index": 3,
+      "line_hash": "b3a3284b",
+      "speaker": "ベリル",
+      "ja": "……ボクがその、着替え？　とかしてる最中だったら、どうするつもりだ！",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "85ad4dfa",
+      "speaker": "{G_PlayerName}",
+      "ja": "何言ってんだよお前。仮にお前が着替えの最中でも構わないだろ？　男同士なんだからよ",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "83ab1634",
+      "speaker": "ベリル",
+      "ja": "そ、それはそうだが……",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "d53a5b71",
+      "speaker": "ベリル",
+      "ja": "（キミがそう思っていてもボクが困るんだ……！",
+      "zh": ""
+    },
+    {
+      "key": "62.3",
+      "line_index": 62,
+      "inline_index": 3,
+      "line_hash": "d53a5b71",
+      "speaker": "ベリル",
+      "ja": "でも着替えしていなくて本当に良かった……）",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "eee19cff",
+      "speaker": "ベリル",
+      "ja": "（裸を見られてしまったら誤魔化しようもない……",
+      "zh": ""
+    },
+    {
+      "key": "65.3",
+      "line_index": 65,
+      "inline_index": 3,
+      "line_hash": "eee19cff",
+      "speaker": "ベリル",
+      "ja": "ボクが女であることを誰にも知られるわけには……）",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "dcf3fd7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、そんなしょんぼりして……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "cae64897",
+      "speaker": "ベリル",
+      "ja": "な、何でもない！　いいか、今後は絶対にノックをするように。",
+      "zh": ""
+    },
+    {
+      "key": "72.3",
+      "line_index": 72,
+      "inline_index": 3,
+      "line_hash": "cae64897",
+      "speaker": "ベリル",
+      "ja": "……いや、ノックだけじゃダメだ。ボクの返事無しで部屋に入らないこと！　いいな？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "e603b187",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった……はぁ～……そんなに気を遣うことなのか？",
+      "zh": ""
+    },
+    {
+      "key": "75.2",
+      "line_index": 75,
+      "inline_index": 2,
+      "line_hash": "e603b187",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は別に着替えの最中にお前に部屋に入ってこられてもなんとも思わないけどな",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "2a0f5c76",
+      "speaker": "ベリル",
+      "ja": "少しは思いたまえ。男同士とはいえ気遣いは必要だろう？",
+      "zh": ""
+    },
+    {
+      "key": "79.3",
+      "line_index": 79,
+      "inline_index": 3,
+      "line_hash": "2a0f5c76",
+      "speaker": "ベリル",
+      "ja": "キミは本当にデリカシーの欠片もないヤツだな",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "867e36d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前が気を遣い過ぎなんだっての！",
+      "zh": ""
+    },
+    {
+      "key": "82.2",
+      "line_index": 82,
+      "inline_index": 2,
+      "line_hash": "867e36d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それより、さっきアポロにお菓子貰ったんだよ、一緒に食おうぜ",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "9783a085",
+      "speaker": "ベリル",
+      "ja": "ああ、別に構わないが……うわぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "a7db1b41",
+      "speaker": "ベリル",
+      "ja": "ななななっ！　なんでそんなに近づくんだっ！　は、離れろっ！！",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "59c6eb94",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、別に隣に座るくらいいいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "d59141c0",
+      "speaker": "ベリル",
+      "ja": "よ、よくない……！　いいから向こうに座れ！",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "ea55af47",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかったよ……本当におかしな奴だなお前……。",
+      "zh": ""
+    },
+    {
+      "key": "102.2",
+      "line_index": 102,
+      "inline_index": 2,
+      "line_hash": "ea55af47",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、お菓子持ってきたから『おかし』いヤツを演じているとか？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "6d37b11f",
+      "speaker": "ベリル",
+      "ja": "くだらない冗談を言うな！　ほら、早く向こうに行け……！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "cdd97806",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい、これでいいんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "113.2",
+      "line_index": 113,
+      "inline_index": 2,
+      "line_hash": "cdd97806",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく貴重な男同士の友情を深めようってだけだったのによ",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "9e228e66",
+      "speaker": "ベリル",
+      "ja": "（び、びっくりした……い、いきなり隣に座られるなんて思いもしなかった……）",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "f79f81ed",
+      "speaker": "ベリル",
+      "ja": "（でも{G_PlayerName}は本当に良い匂いがするというか、",
+      "zh": ""
+    },
+    {
+      "key": "120.3",
+      "line_index": 120,
+      "inline_index": 3,
+      "line_hash": "f79f81ed",
+      "speaker": "ベリル",
+      "ja": "隣にくると胸が信じられないほど高鳴ってしまう……）",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "14f684e7",
+      "speaker": "ベリル",
+      "ja": "（不思議な男だ……隣に来られて安心できるのに、",
+      "zh": ""
+    },
+    {
+      "key": "123.3",
+      "line_index": 123,
+      "inline_index": 3,
+      "line_hash": "14f684e7",
+      "speaker": "ベリル",
+      "ja": "胸がドキドキする相手は生まれて初めてだ……）",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "ae818ef2",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、今度は一人でニヤニヤして……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "4baa1f58",
+      "speaker": "ベリル",
+      "ja": "なっ、なんでもないっ！　そ、それよりアポロ……さん？",
+      "zh": ""
+    },
+    {
+      "key": "130.3",
+      "line_index": 130,
+      "inline_index": 3,
+      "line_hash": "4baa1f58",
+      "speaker": "ベリル",
+      "ja": "は、何でお菓子をくれたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "35ef5505",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、機械のの誤動作でお菓子を作りすぎてしまったらしいんだ。",
+      "zh": ""
+    },
+    {
+      "key": "133.2",
+      "line_index": 133,
+      "inline_index": 2,
+      "line_hash": "35ef5505",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで食って処理してくれって",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "c04aee1b",
+      "speaker": "ベリル",
+      "ja": "そうなのか……それなら遠慮なくいただくとしよう",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "c0456a93",
+      "speaker": "ベリル",
+      "ja": "ん？　なんだ、クッキーのような物と思っていたけど、しょっぱい……？",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "cbadea7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、せんべいってお菓子らしいぞ？　意外に美味いな",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "7b302a4a",
+      "speaker": "ベリル",
+      "ja": "ああ、お菓子と言えば甘い物だと思っていたから不思議な感じもするが……",
+      "zh": ""
+    },
+    {
+      "key": "147.3",
+      "line_index": 147,
+      "inline_index": 3,
+      "line_hash": "7b302a4a",
+      "speaker": "ベリル",
+      "ja": "歯ごたえ、食感、後味の良さ、どれも悪くない",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "7414e3fa",
+      "speaker": "ベリル",
+      "ja": "我が社でも販売したいくらいの出来だな",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "e541affd",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでもかんでも仕事に結びつけて……本当に熱心な奴だな。",
+      "zh": ""
+    },
+    {
+      "key": "153.2",
+      "line_index": 153,
+      "inline_index": 2,
+      "line_hash": "e541affd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それよりお前さ、宇宙に来てしばらく経ったよな。好きな子とかできた？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "789b5c1a",
+      "speaker": "ベリル",
+      "ja": "──んぐっ！？　ぐっ！　げほっ！　げほっ！　い、いきなり何を言い出すんだ！",
+      "zh": ""
+    },
+    {
+      "key": "157.3",
+      "line_index": 157,
+      "inline_index": 3,
+      "line_hash": "789b5c1a",
+      "speaker": "ベリル",
+      "ja": "の、喉に詰まってしまった……！！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "b1e5fe93",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、聞いてみたかっただけなんだ。お前ってどんな子が好きなのかなって思ってさ",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "3d6381f7",
+      "speaker": "ベリル",
+      "ja": "べ、別に好きな子なんて……そ、それよりキミはどうなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "7df54264",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺か？　俺はみんな好きだぞ？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "3183a22b",
+      "speaker": "ベリル",
+      "ja": "そういう返答はずるいだろうが！　それならボクもみんな好きだ、これでおあいこだな",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "5893a4dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもさ、一人くらい特別って子がいるだろ？　教えろよっ",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "2fecd209",
+      "speaker": "ベリル",
+      "ja": "なんでそんなボクの特別を聞きたがるんだ！　まずはキミが答えろっ",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "ec1f3c49",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺のことはどうでもいいんだって。",
+      "zh": ""
+    },
+    {
+      "key": "181.2",
+      "line_index": 181,
+      "inline_index": 2,
+      "line_hash": "ec1f3c49",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、教えろよっ、いるだろ？　ほらほら、ゲロっちまえよっ",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "c5e7f18f",
+      "speaker": "ベリル",
+      "ja": "き、キミもしつこいな……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "cab7a404",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらほら、言っちまえ！　言っちまえよっ！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "ccef797",
+      "speaker": "ベリル",
+      "ja": "な、何なんだよ、キミってヤツは……えっと、その……",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "924e5751",
+      "speaker": "ベリル",
+      "ja": "し、雫さん……とか……？　気品があって、素晴らしい人だと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "96c34ee7",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫っ！？　あははははっ！　アイツのどこがいいんだよっ！　気品なんてねーだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "603ddbcf",
+      "speaker": "ベリル",
+      "ja": "お、おい、そんなに笑うな。雫さんに失礼だろ？",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "cc9c5c64",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ失礼かもだけど、雫はねーって。",
+      "zh": ""
+    },
+    {
+      "key": "205.2",
+      "line_index": 205,
+      "inline_index": 2,
+      "line_hash": "cc9c5c64",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさかお前あんなのが好みだなんてよぉ……あはははははっ",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "92193909",
+      "speaker": "ベリル",
+      "ja": "おい、だから笑──うわぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "10480dc1",
+      "speaker": "雫",
+      "ja": "（シー……）",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "834287db",
+      "speaker": "ベリル",
+      "ja": "（い、いつの間に{G_PlayerName}の背後に……！　そ、それに凄い殺気……）",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "55909ac5",
+      "speaker": "ベリル",
+      "ja": "（このボクが恐怖を覚えるなんて、雫さんって本当はものすごく怖い人なのか……！？）",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "fe83f120",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、笑い過ぎて腹いてぇ！",
+      "zh": ""
+    },
+    {
+      "key": "233.2",
+      "line_index": 233,
+      "inline_index": 2,
+      "line_hash": "fe83f120",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前、悪いことは言わねーから雫は止めとけって。絶対に後悔するからよっ",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "879d9888",
+      "speaker": "{G_PlayerName}",
+      "ja": "デリカシーも無ければ暴力的で、",
+      "zh": ""
+    },
+    {
+      "key": "237.2",
+      "line_index": 237,
+      "inline_index": 2,
+      "line_hash": "879d9888",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ外見はそこそこだと思うけど、マイナス面が多すぎるって",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "a36b1692",
+      "speaker": "ベリル",
+      "ja": "お、おい……それ以上止めろって。ど、どうなっても知らないぞ……？",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "8c3fe994",
+      "speaker": "{G_PlayerName}",
+      "ja": "何がだよ。ていうかお前なにそんなビビってんだよ",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "9a9a623b",
+      "speaker": "雫",
+      "ja": "ゴホンっ！！",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "9570aa3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ッ！？",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "9dfb3a7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "んげぇっ！？　雫っ！？　お、お前いつの間に……！！",
+      "zh": ""
+    },
+    {
+      "key": "262.2",
+      "line_index": 262,
+      "inline_index": 2,
+      "line_hash": "9dfb3a7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベリルっ！　お前雫がいるってなんで教えないんだよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "5b534e5e",
+      "speaker": "ベリル",
+      "ja": "ボクとて……その、保身に走る時がある……それだけだ",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "33fe7ca4",
+      "speaker": "雫",
+      "ja": "ずいぶんと言いたい放題ほざいていましたねぇ……",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "36e85d36",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、ちが……！　これはその、い、勢いというか、言葉の綾と言うか……！",
+      "zh": ""
+    },
+    {
+      "key": "272.2",
+      "line_index": 272,
+      "inline_index": 2,
+      "line_hash": "36e85d36",
+      "speaker": "{G_PlayerName}",
+      "ja": "べ、別に悪気があったわけじゃ……！！",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "55aa4d1f",
+      "speaker": "雫",
+      "ja": "ここではなんですので、とりあえず向こうで続きを聞かせてもらいましょうか……",
+      "zh": ""
+    },
+    {
+      "key": "276.3",
+      "line_index": 276,
+      "inline_index": 3,
+      "line_hash": "55aa4d1f",
+      "speaker": "雫",
+      "ja": "構いませんよね？　ベリル様？",
+      "zh": ""
+    },
+    {
+      "key": "279.1",
+      "line_index": 279,
+      "inline_index": 1,
+      "line_hash": "67163e50",
+      "speaker": "ベリル",
+      "ja": "あ、ああ、構わないよ。ただ本当に悪気はなかったと思うから……多分",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "63962739",
+      "speaker": "雫",
+      "ja": "それが本当かどうかは、この無能な唐変木にじっくりと問いただしますので……",
+      "zh": ""
+    },
+    {
+      "key": "282.3",
+      "line_index": 282,
+      "inline_index": 3,
+      "line_hash": "63962739",
+      "speaker": "雫",
+      "ja": "それでは失礼します",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "9ae306e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "や、やめ……！　離せぇええええっ！",
+      "zh": ""
+    },
+    {
+      "key": "285.2",
+      "line_index": 285,
+      "inline_index": 2,
+      "line_hash": "9ae306e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "悪かった！　謝るから！　許してくれええええっ！！",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "379eb382",
+      "speaker": "ベリル",
+      "ja": "怖い人だな、雫さん……これからは絶対に怒らせないようにしよう……",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "6fcbd159",
+      "speaker": "ベリル",
+      "ja": "でもボクの好きな人、か……たぶんそれはきっと──",
+      "zh": ""
+    }
+  ]
+}

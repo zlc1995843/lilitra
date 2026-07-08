@@ -1,0 +1,544 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "b5bc43b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……植物園での作業は、結構しんどいな……一休みするか。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "c980764f",
+      "speaker": "ナノ",
+      "ja": "すばらしいわ！　なんなの、この植物園は！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "40cca51a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　なんだなんだっ？！　誰か居るのか？！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "da70c716",
+      "speaker": "ナノ",
+      "ja": "これ……じゃないの、まさか……なの！？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "b67591bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "誰の声だ？　どこから聞こえてきている？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "11a475ba",
+      "speaker": "ナノ",
+      "ja": "こっちのは……よね……これは……だわ！",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "5b369396",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか……断片的にしか聞こえてこないけど……行ってみようか。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "c7c64346",
+      "speaker": "ナノ",
+      "ja": "ここはまさに理想郷ね！　本当に素晴らしいわ！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "4cdfb6ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁ！　って、ナノ先生っ？！",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "d7226bdd",
+      "speaker": "ナノ",
+      "ja": "あら奇遇ね。もしかしてあなたも植物の研究？",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "7e89c7cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺はここで作業をしていただけなんだけど",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "99cccfd1",
+      "speaker": "ナノ",
+      "ja": "まあ、この植物園の管理をあなたがしているの？　なかなか素晴らしい仕事だわ！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "d96e8a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや管理じゃなくて雑用を任されているだけなんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "94a3ade7",
+      "speaker": "ナノ",
+      "ja": "あら、そうなのね……一瞬尊敬しそうになったけど……雑用なのね……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "1e9f84b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "何だか引っかかる言い方だけど、まあいいや……それでナノ先生はここで何やってるの？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "de1c2c12",
+      "speaker": "ナノ",
+      "ja": "それは……魔と叡智の星では見られない貴重な植物を研究していたのです",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "8c153ea3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ、相変わらず研究熱心だね",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "c1b4c3e3",
+      "speaker": "ナノ",
+      "ja": "ふふふっ、当然です！　見て下さいこのスケッチ、生態をしっかり記録していますよ！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "eca6ecf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほおほお、これはすごいな……",
+      "zh": ""
+    },
+    {
+      "key": "83.2",
+      "line_index": 83,
+      "inline_index": 2,
+      "line_hash": "eca6ecf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなに細かく書き込んでいるなんて……なんだこの文章量……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "33a448ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしっかり細かな生態まで記録しているなんて……凄いなぁ",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "a68b6552",
+      "speaker": "ナノ",
+      "ja": "まあね、でも観察はだいたい終わったから、",
+      "zh": ""
+    },
+    {
+      "key": "91.3",
+      "line_index": 91,
+      "inline_index": 3,
+      "line_hash": "a68b6552",
+      "speaker": "ナノ",
+      "ja": "そろそろサンプルを採取して持ち帰り、実験するつもりよ",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "7716abb",
+      "speaker": "{G_PlayerName}",
+      "ja": "実験？　それって……どういう事？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "3ec959e8",
+      "speaker": "ナノ",
+      "ja": "えっとね、植物を少し採取してそれを使って色々反応を確認するの",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "a14f4559",
+      "speaker": "{G_PlayerName}",
+      "ja": "採取って……それちゃんと許可取ってる？",
+      "zh": ""
+    },
+    {
+      "key": "101.2",
+      "line_index": 101,
+      "inline_index": 2,
+      "line_hash": "a14f4559",
+      "speaker": "{G_PlayerName}",
+      "ja": "勝手に持っていったら後で怒られると思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "a25bb569",
+      "speaker": "ナノ",
+      "ja": "大丈夫、丸ごと持っていく訳じゃないわ。ごく一部採取するだけだから",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "456d645e",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……それはちょっと……やめてもらえませんか？",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "18097410",
+      "speaker": "ナノ",
+      "ja": "大丈夫、反応を確認するだけの実験だから、危ないことはしないから問題無いでしょ",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "4b674d14",
+      "speaker": "アポロ",
+      "ja": "ナノさん、勝手な真似はしないでください",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "9131b088",
+      "speaker": "ナノ",
+      "ja": "えっ？　そんなぁ……どうしてもダメなの？　少しくらいいいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "5d23e48b",
+      "speaker": "アポロ",
+      "ja": "勝手な行動は許可できません、諦めなさい",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "f75877ea",
+      "speaker": "ナノ",
+      "ja": "そ、それじゃあ……採取は諦めるけど、ここで私も植物を栽培するのはいいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "28ee49ac",
+      "speaker": "アポロ",
+      "ja": "栽培って……なにをここで育てようというのですか",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "195c8764",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか……嫌な予感しかしないんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "1239478d",
+      "speaker": "ナノ",
+      "ja": "大丈夫、魔と叡智の星にある最強の毒草を栽培したいだけだから",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "c90f1173",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、毒草だって？！　しかも最強の毒草って！",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "58fcde6c",
+      "speaker": "アポロ",
+      "ja": "まったく……さらりととんでもないことを言い出す人ですね……",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "ce3d884",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし最強の毒草って……そんなの育ててどうする気なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "ac2c98bf",
+      "speaker": "ナノ",
+      "ja": "ここならば土地も良いし、栽培できると思うんだけど、どうかしら？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "50b01aa7",
+      "speaker": "アポロ",
+      "ja": "栽培自体は可能です",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "b62d94dc",
+      "speaker": "ナノ",
+      "ja": "そうよね、そうだと思ったわ♥　それでは早速栽培を……",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "7c274c08",
+      "speaker": "アポロ",
+      "ja": "そんな危ない物をここで育てることは許可しません！",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "300fbc75",
+      "speaker": "ナノ",
+      "ja": "そんなこと言わないで、いいじゃない、",
+      "zh": ""
+    },
+    {
+      "key": "166.3",
+      "line_index": 166,
+      "inline_index": 3,
+      "line_hash": "300fbc75",
+      "speaker": "ナノ",
+      "ja": "こんなに広い植物園だし一角ぐらい貸してくれても……",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "90843677",
+      "speaker": "アポロ",
+      "ja": "そう言う問題ではありません。生態系に影響が出たらあなたには対応不可能です",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "33461ef6",
+      "speaker": "ナノ",
+      "ja": "だ、大丈夫大丈夫……おそらく……",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "41a9be51",
+      "speaker": "アポロ",
+      "ja": "ナノさん……あなたは植物園出禁ですね",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "fa7f8943",
+      "speaker": "ナノ",
+      "ja": "え～っ！　何で～！　いきなり出禁なんてあんまりだわ～！",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "51bda391",
+      "speaker": "アポロ",
+      "ja": "そんな物騒な植物を育てようとする人を",
+      "zh": ""
+    },
+    {
+      "key": "181.3",
+      "line_index": 181,
+      "inline_index": 3,
+      "line_hash": "51bda391",
+      "speaker": "アポロ",
+      "ja": "出入りさせるリスクに目をつぶる訳にはいきませんので",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "c1923df8",
+      "speaker": "ナノ",
+      "ja": "そんなぁ～……こんなに素晴らしい植物園に出禁なんて……",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "ecb455d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……そりゃそうだろ……。",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "a034a0fb",
+      "speaker": "ナノ",
+      "ja": "変な事はしないから、出禁だけは勘弁してよ～……",
+      "zh": ""
+    },
+    {
+      "key": "191.3",
+      "line_index": 191,
+      "inline_index": 3,
+      "line_hash": "a034a0fb",
+      "speaker": "ナノ",
+      "ja": "{G_PlayerName}からも言ってくれない？",
+      "zh": ""
+    },
+    {
+      "key": "191.5",
+      "line_index": 191,
+      "inline_index": 5,
+      "line_hash": "a034a0fb",
+      "speaker": "ナノ",
+      "ja": "あと少しだけ植物を採取させて貰えないかなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "7a2274e1",
+      "speaker": "アポロ",
+      "ja": "だから！　それも諦めなさいと言ったでしょう！",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "eb3339f2",
+      "speaker": "ナノ",
+      "ja": "うう～……せっかく画期的な実験が出来ると思っていたのに～！",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "d956811e",
+      "speaker": "{G_PlayerName}",
+      "ja": "やれやれ……ナノは相変わらずだなぁ",
+      "zh": ""
+    }
+  ]
+}
