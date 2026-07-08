@@ -1,0 +1,265 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "3fe08573",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううん……どうも細かい部分の作り方が、わかりにくいな",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "c64cf9e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、アポロ、前に貰った設計図なんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "2b8e62d2",
+      "speaker": "",
+      "ja": "そこまで口にした{G_PlayerName}はハッとした表情を浮かべ、口を閉じた。",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "ea878097",
+      "speaker": "APL-180",
+      "ja": "構いません、アポロと間違えて呼ぶ時はワタシをお呼びなのですね",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "5807bab9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……APL-180……と、ところで……この設計図に関してわからないことがあるんだけど、教えて貰えないかな？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "3cb7f08c",
+      "speaker": "APL-180",
+      "ja": "わかりました、では設計図の記号についてまとめた資料をホログラムで表示させていただきます",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "1ee79238",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、助かるよ",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "e0740630",
+      "speaker": "",
+      "ja": "{G_PlayerName}はお礼を言うが、APL-180はどこか複雑そうな表情を浮かべたままその場に立ち尽くしていた。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "3561ea5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "8eff21fd",
+      "speaker": "APL-180",
+      "ja": "いいえ……アポロという名前で間違えて呼ばれるのは良いのですが、呼称変更をしない理由がわかりません",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "99b2d3ca",
+      "speaker": "",
+      "ja": "あまりにも率直な問いかけに、今度は{G_PlayerName}はついつい複雑な表情を浮かべてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "9f3b4df6",
+      "speaker": "APL-180",
+      "ja": "非効率的なので、ワタシの呼称をアポロに変更するべきでは？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "f0d7b3f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや……それは……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "3811a502",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、それはいいんだ……間違えてごめんな",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "a074062b",
+      "speaker": "APL-180",
+      "ja": "……まあ、呼称の変更に関してはユーザーが決めることですので、ワタシは問題ありませんが",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "a1e49fd7",
+      "speaker": "APL-180",
+      "ja": "であればAPL-180という呼称を覚えて下さい！　ワタシも返事をすればよいか迷うのですから！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "7f9a1418",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめん……でも、それはちょっと覚えにくくて……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "e9bbce79",
+      "speaker": "APL-180",
+      "ja": "この程度の文字列を記憶できないはずはありません！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "13aceeef",
+      "speaker": "",
+      "ja": "キッパリとそう言い切ったAPL-180は少し冷静になったのか、一息ついてから続ける。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "268ea887",
+      "speaker": "APL-180",
+      "ja": "いいですか、ワタシの名前はアポロではありません。　APL-180です",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "db3c4e1",
+      "speaker": "APL-180",
+      "ja": "……どうなさいましたか？　なんですか、その表情は",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "74e54e9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いや……なんでもない",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e337f1a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "APL-180な、覚えておくよ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "2e0e3dfb",
+      "speaker": "",
+      "ja": "それだけ言うと{G_PlayerName}は再び機械作りの作業を始めた。",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "a23ef59a",
+      "speaker": "APL-180",
+      "ja": "なんだったのでしょう……あの嬉しそうな、懐かしそうな、寂しそうな……表情は？",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "6adf115",
+      "speaker": "",
+      "ja": "{G_PlayerName}が何を考えているのか理解できなかったAPL-180は、廊下を歩きながら思考を巡らせていた。",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "43e1c9b4",
+      "speaker": "APL-180",
+      "ja": "……ワタシがもっと高性能であれば、感情を読み取ることができたのでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "20ea92c0",
+      "speaker": "",
+      "ja": "そう呟いたAPL-180は、少し悲しそうに姿を消した。",
+      "zh": ""
+    }
+  ]
+}

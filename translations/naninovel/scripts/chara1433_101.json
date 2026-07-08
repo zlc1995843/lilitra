@@ -1,0 +1,265 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "3fe08573",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううん……どうも細かい部分の作り方が、わかりにくいな",
+      "zh": "唔……感觉这些细节的构造有点难懂。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "c64cf9e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、アポロ、前に貰った設計図なんだけど……",
+      "zh": "喂，阿波罗，之前买的那份设计图……"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "2b8e62d2",
+      "speaker": "",
+      "ja": "そこまで口にした{G_PlayerName}はハッとした表情を浮かべ、口を閉じた。",
+      "zh": "话说到一半，{G_PlayerName}突然露出慌张的表情，闭上了嘴。"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "ea878097",
+      "speaker": "APL-180",
+      "ja": "構いません、アポロと間違えて呼ぶ時はワタシをお呼びなのですね",
+      "zh": "没事，你叫成阿波罗的时候，其实是在叫我吧。"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "5807bab9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……APL-180……と、ところで……この設計図に関してわからないことがあるんだけど、教えて貰えないかな？",
+      "zh": "抱、抱歉……APL-180……那个……关于这个设计图，我有不明白的地方，能教教我吗？"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "3cb7f08c",
+      "speaker": "APL-180",
+      "ja": "わかりました、では設計図の記号についてまとめた資料をホログラムで表示させていただきます",
+      "zh": "好的，那么我就用全息投影显示一下设计图符号的相关资料。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "1ee79238",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、助かるよ",
+      "zh": "谢谢，帮大忙了。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "e0740630",
+      "speaker": "",
+      "ja": "{G_PlayerName}はお礼を言うが、APL-180はどこか複雑そうな表情を浮かべたままその場に立ち尽くしていた。",
+      "zh": "{G_PlayerName}道了谢，但APL-180却带着有些复杂的表情，一直站在原地没动。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "3561ea5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　どうかしたのか？",
+      "zh": "……嗯？怎么了？"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "8eff21fd",
+      "speaker": "APL-180",
+      "ja": "いいえ……アポロという名前で間違えて呼ばれるのは良いのですが、呼称変更をしない理由がわかりません",
+      "zh": "不……虽然被错叫成阿波罗也没什么，但我实在不理解为什么不把称呼改过来。"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "99b2d3ca",
+      "speaker": "",
+      "ja": "あまりにも率直な問いかけに、今度は{G_PlayerName}はついつい複雑な表情を浮かべてしまう。",
+      "zh": "面对这无比直白的问题，这回轮到{G_PlayerName}露出复杂的表情了。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "9f3b4df6",
+      "speaker": "APL-180",
+      "ja": "非効率的なので、ワタシの呼称をアポロに変更するべきでは？",
+      "zh": "既然这么没效率，不如直接把我的称呼改成阿波罗吧？"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "f0d7b3f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや……それは……",
+      "zh": "呃，不……那个……"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "3811a502",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、それはいいんだ……間違えてごめんな",
+      "zh": "不，那个没关系的……是我叫错了，对不起啊。"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "a074062b",
+      "speaker": "APL-180",
+      "ja": "……まあ、呼称の変更に関してはユーザーが決めることですので、ワタシは問題ありませんが",
+      "zh": "……算了，称呼怎么改由使用者决定，我倒是无所谓。"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "a1e49fd7",
+      "speaker": "APL-180",
+      "ja": "であればAPL-180という呼称を覚えて下さい！　ワタシも返事をすればよいか迷うのですから！",
+      "zh": "那就请你记住APL-180这个名字啊！不然我都不知道该不该应声，会犯嘀咕的！"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "7f9a1418",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめん……でも、それはちょっと覚えにくくて……",
+      "zh": "对不起……可那个，确实有点难记……"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "e9bbce79",
+      "speaker": "APL-180",
+      "ja": "この程度の文字列を記憶できないはずはありません！",
+      "zh": "这么简单的几个字母，怎么可能记不住！"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "13aceeef",
+      "speaker": "",
+      "ja": "キッパリとそう言い切ったAPL-180は少し冷静になったのか、一息ついてから続ける。",
+      "zh": "APL-180斩钉截铁地说完后，好像冷静了一些，呼了口气，继续说道。"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "268ea887",
+      "speaker": "APL-180",
+      "ja": "いいですか、ワタシの名前はアポロではありません。　APL-180です",
+      "zh": "听好了，我的名字不是阿波罗。是APL-180。"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "db3c4e1",
+      "speaker": "APL-180",
+      "ja": "……どうなさいましたか？　なんですか、その表情は",
+      "zh": "……怎么了？你这是什么表情？"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "74e54e9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いや……なんでもない",
+      "zh": "……不，没什么。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e337f1a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "APL-180な、覚えておくよ",
+      "zh": "APL-180，我记住你了。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "2e0e3dfb",
+      "speaker": "",
+      "ja": "それだけ言うと{G_PlayerName}は再び機械作りの作業を始めた。",
+      "zh": "说完，{G_PlayerName}又重新开始制作机械了。"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "a23ef59a",
+      "speaker": "APL-180",
+      "ja": "なんだったのでしょう……あの嬉しそうな、懐かしそうな、寂しそうな……表情は？",
+      "zh": "刚才那是什么表情呢……看起来又高兴，又怀念，还有点寂寞……？"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "6adf115",
+      "speaker": "",
+      "ja": "{G_PlayerName}が何を考えているのか理解できなかったAPL-180は、廊下を歩きながら思考を巡らせていた。",
+      "zh": "APL-180不明白{G_PlayerName}在想些什么，在走廊里来回踱步，反复思索。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "43e1c9b4",
+      "speaker": "APL-180",
+      "ja": "……ワタシがもっと高性能であれば、感情を読み取ることができたのでしょうか",
+      "zh": "……如果我性能更高一些，是不是就能读懂感情了呢？"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "20ea92c0",
+      "speaker": "",
+      "ja": "そう呟いたAPL-180は、少し悲しそうに姿を消した。",
+      "zh": "APL-180轻声说完，便有些落寞地消失了。"
+    }
+  ]
+}
