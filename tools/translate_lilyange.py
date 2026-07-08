@@ -917,6 +917,7 @@ def main() -> int:
     parser.add_argument("--adv", help="comma separated adv ids")
     parser.add_argument("--limit", type=int)
     parser.add_argument("--chunk-size", type=int, default=50)
+    parser.add_argument("--reverse", action="store_true", help="process the story manifest from newest to oldest")
     parser.add_argument("--skip-existing", action="store_true")
     parser.add_argument("--no-translate", action="store_true")
     parser.add_argument("--metadata-only", action="store_true")
@@ -960,6 +961,8 @@ def main() -> int:
         manifest = [item for item in manifest if int(item["character_id"]) in char_filter]
     if adv_filter is not None:
         manifest = [item for item in manifest if int(item["adv_id"]) in adv_filter]
+    if args.reverse:
+        manifest.reverse()
     if args.limit is not None:
         manifest = manifest[: args.limit]
 

@@ -1,0 +1,517 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "3e29cd7c",
+      "speaker": "ルミナ",
+      "ja": "きちんと着れているのかな……着物って普段の服と違って、わかりにくい……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "2a96190e",
+      "speaker": "ルミナ",
+      "ja": "やっぱりこれを着て、人前に出るのはやめようかな……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "64762863",
+      "speaker": "ルミナ",
+      "ja": "でも{G_PlayerName}くんはこの服装が好きみたいだから、勇気を出して……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "d31b152a",
+      "speaker": "ルミナ",
+      "ja": "うん、そうしよう……でもやっぱり最後の確認を……",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "57c1cd6e",
+      "speaker": "ルミナ",
+      "ja": "……うん、たぶんだいじょうぶ",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "ec93e089",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ！？　ルミナ、またその服着たんだな",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "7c278694",
+      "speaker": "ルミナ",
+      "ja": "う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "3325cec6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　どうしたんだ？　なんか様子がヘンだけど",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "c40c1ea1",
+      "speaker": "ルミナ",
+      "ja": "その……着慣れない服だから、おかしなところがないかなって……それが心配で……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "3e6284fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "別におかしなところはないぞ？　すごく似合ってるから安心していい",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "103c0864",
+      "speaker": "ルミナ",
+      "ja": "そう、かな……？　それならいいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "9edb0435",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも王女様なら、そういう煌びやかな服は着慣れていそうだけど、やっぱり不安なのか？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "b45f9a3c",
+      "speaker": "ルミナ",
+      "ja": "着物は難しいの……普通だったら特殊な服は機械が自動で着せてくれるんだけど、着物はデータになかったし……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "c861b768",
+      "speaker": "ルミナ",
+      "ja": "自分で、着たから……ちょっと不安で……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "2dd62f71",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……そういうものなのか",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "d8d73411",
+      "speaker": "ルミナ",
+      "ja": "でも、{G_PlayerName}くんの嬉しそうな顔見てると……着てよかった、かな……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "5f717ecf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぅえっ！？　嬉しそうなのわかっちゃうかっ？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "84d54b55",
+      "speaker": "ルミナ",
+      "ja": "うん……♪　気づいてないかも知れないけど……いつも、割と顔に出てるよ……♪",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "7bdfe322",
+      "speaker": "{G_PlayerName}",
+      "ja": "マジか……うーん、そういうの気をつけないとダメだよな……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "a820ff43",
+      "speaker": "ルミナ",
+      "ja": "（わかりやすいし……かわいいから、直さないでいいのに……）",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "10b618b9",
+      "speaker": "ルミナ",
+      "ja": "でも宇宙って広いよね……着物とか色々な服があるし……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "f8d8c0a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "見たこともない服も多いんだろうな……あと裸で生活している人とかもいそう",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "b8454ff3",
+      "speaker": "ルミナ",
+      "ja": "裸はちょっと……困る……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "73dda564",
+      "speaker": "{G_PlayerName}",
+      "ja": "あーっ！　ルミナに裸になってほしいってわけじゃないから！",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "637d5b77",
+      "speaker": "ルミナ",
+      "ja": "でも裸って言った時、少しいやらしい表情していたよ……",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "f0777938",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあその……ははは……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "f89cf63",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナの裸を一瞬でも想像してしまったなんて言えないよな……絶対に黙っていよう……）",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "f3241763",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、待って、帯ちょっと緩くない？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "b24f3c3b",
+      "speaker": "ルミナ",
+      "ja": "えっ？　本当に？　ほどけちゃったかな……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "b85f56e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺に任せろ、結び直そう",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "410fea73",
+      "speaker": "ルミナ",
+      "ja": "えっ！？　あ、ま、待って……！！　ダメ……！！",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "8956339",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここを少し引っ張って……あっ！？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "e6bd0fe3",
+      "speaker": "ルミナ",
+      "ja": "──きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "6d87928d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！！　ご、ごめん！　帯解けて……！　え？　ここ引っ張ると解けちゃうの！？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "35370a97",
+      "speaker": "ルミナ",
+      "ja": "た、たぶん……見よう見まねでそれっぽく結んだだけだから……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "c10d1896",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだったのか……すまん！　すぐに直すから……！！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "151adc20",
+      "speaker": "ルミナ",
+      "ja": "う、うん……お願い……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "d87bf45f",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもどうやって結べばいいんだろう……リボン結びとかするわけにはいかないよな……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "768b4bf",
+      "speaker": "ルミナ",
+      "ja": "私もよくわからないんだよね……着物って本当に難しくて……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "c8cd1651",
+      "speaker": "{G_PlayerName}",
+      "ja": "とりあえずそれっぽく結んでみるか……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "f69d85f0",
+      "speaker": "ルミナ",
+      "ja": "ちょ、ちょっと苦しい、かも……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "90847a50",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　うーん、これは難しいぞ……どうすればいいんだろう",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "2e40d29",
+      "speaker": "{G_PlayerName}",
+      "ja": "トーリ呼んでくるか……たぶんわかるよな？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "c3d77a6b",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……トーリちゃんならちゃんとした帯の結び方知っているかも……",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "2a29f7db",
+      "speaker": "雫",
+      "ja": "あーーーーーっ！！　な、ななななっ！　なんてことをしているのですかっ！　この狼藉者っ！！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "96a4efae",
+      "speaker": "{G_PlayerName}",
+      "ja": "──げっ！？　雫っ！？　なんてタイミングで来るんだお前はっ！",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "46aeb9c1",
+      "speaker": "雫",
+      "ja": "うるさいっ！　とうとうルミナ様に暴行を働きましたね！　即刻逮捕ですっ！　お縄につきなさいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "d40aa486",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちっ、違う！　これは誤解だ！　な、なあルミナっ！？",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "8bc91701",
+      "speaker": "ルミナ",
+      "ja": "う、うん、そうなの、{G_PlayerName}くんは緩んだ帯を直そうと……",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "b3012ee4",
+      "speaker": "雫",
+      "ja": "ルミナ様、こんな畜生を庇う必要はありません……！　即刻捕まえますのでご安心くださいっ！",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "8a39f489",
+      "speaker": "{G_PlayerName}",
+      "ja": "だれが畜生だ！",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "f4a8c54b",
+      "speaker": "雫",
+      "ja": "うるさい、この犯罪者！！　こんなラウンジでルミナ様を襲うなんて、畜生以外の何者でもありませんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "ca6dbf7c",
+      "speaker": "雫",
+      "ja": "さぁ、大人しくなさいっ！！　今すぐにお仕置き部屋に押し込んであげますから！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "d115f39",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんなところ行ってたまるか！",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "a8c44337",
+      "speaker": "雫",
+      "ja": "あ、こら！！　逃げるな！　この犯罪者！！　待てーーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "f9a960d6",
+      "speaker": "ルミナ",
+      "ja": "……行っちゃった",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "fb810a05",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんのためにと思って着たけど、お外で着るのはもう少し慣れてからにしよう……",
+      "zh": ""
+    }
+  ]
+}
