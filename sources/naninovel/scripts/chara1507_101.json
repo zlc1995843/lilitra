@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "2ed4ecbb",
+      "speaker": "",
+      "ja": "昼休みを知らせる鐘の音が鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "4888b3e1",
+      "speaker": "",
+      "ja": "授業が終わりざわつく教室の中、お弁当箱を抱えたままのシューは何やら考え事をしていた。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "7780847c",
+      "speaker": "シュー",
+      "ja": "ううん……どうしよう……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "9c00ee9c",
+      "speaker": "シュー",
+      "ja": "そうだ……！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "fad2baea",
+      "speaker": "",
+      "ja": "何か良いことを思いついたのか、シューはお弁当箱を抱えたまま教室を飛び出すと、一目散に宇宙船を目指して駆け出す。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "78967ccf",
+      "speaker": "",
+      "ja": "ラウンジに入り、{G_PlayerName}の姿を見つけると、シューは息を切らせて駆け寄った。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "fe38c58a",
+      "speaker": "シュー",
+      "ja": "おにい、ちゃん……！　お昼ご飯、一緒に食べない……？",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "a298127b",
+      "speaker": "{G_PlayerName}",
+      "ja": "シュー？　今日、学校の日じゃなかったか？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "c7ad1d77",
+      "speaker": "",
+      "ja": "登校しているはずのシューがいきなり現れたことに{G_PlayerName}は驚きを隠せない。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "3531e22f",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にシューは少し息を切らしながらニッコリと微笑んで言った。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "41dccfc4",
+      "speaker": "シュー",
+      "ja": "お兄ちゃんと、一緒に……お昼ごはん、食べたかったから。走って来ちゃった……♪",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "e39b1bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、それじゃあ一緒に食べようか",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "d83c4728",
+      "speaker": "シュー",
+      "ja": "うんっ……♪　食べよう♪",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "38e111c3",
+      "speaker": "",
+      "ja": "シューはそう言って、机の上に弁当を置いた。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "ec8380d7",
+      "speaker": "シュー",
+      "ja": "さっきね、授業で、作文を発表したの。声、ちゃんと出てたかな……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "80a4d02e",
+      "speaker": "",
+      "ja": "シューは不安そうな笑みを浮かべながら{G_PlayerName}にそんなことを語ると、そっと袖を摘まんできた。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "cb9f10d7",
+      "speaker": "シュー",
+      "ja": "今日はね、色々なお勉強したよ……少し難しかった……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "8dd13043",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、まあ焦らずにシューのペースでお勉強すればいいよ",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "5d24461a",
+      "speaker": "シュー",
+      "ja": "うんっ……休み時間になると、みんな楽しそうに遊んでいるんだよ",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "5873ffec",
+      "speaker": "{G_PlayerName}",
+      "ja": "シューも仲良くなって一緒に遊べるといいな",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "97e4077a",
+      "speaker": "シュー",
+      "ja": "うん、学校にはいっぱい色んな人たちがいて……さみしくないね",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "7861f8be",
+      "speaker": "",
+      "ja": "そう言いつつもまだ学校に馴染めず不安があるようで、シューは自然と{G_PlayerName}の方へと寄っていった。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "af7771c3",
+      "speaker": "",
+      "ja": "するとシューの膝の上で、ぬいぐるみがちょこんと動く。それを見てシューは笑みを浮かべて呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "e94cb400",
+      "speaker": "シュー",
+      "ja": "見て、お兄ちゃん。この子もいっしょにお昼ご飯だよ",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "305b3d66",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだね、じゃあお昼ごはん食べようか",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "c4923c53",
+      "speaker": "シュー",
+      "ja": "うんっ、いただきまーす……♪",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "e715065b",
+      "speaker": "",
+      "ja": "そのまま2人で仲良くお昼を食べていると、ふとシューが{G_PlayerName}を見つめながら呟く。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "3191c8bf",
+      "speaker": "シュー",
+      "ja": "お兄ちゃん……学校が終わったら……また、となりにいてくれる？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "16ff43f4",
+      "speaker": "",
+      "ja": "どこか不安がある感じの言葉に、{G_PlayerName}は笑みを浮かべて頷いた。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "f6ccb1de",
+      "speaker": "{G_PlayerName}",
+      "ja": "もちろんだよ、俺はシューの隣にいるよ",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "58ede690",
+      "speaker": "",
+      "ja": "その言葉にシューは安心したのか笑みを浮かべて美味しそうにお弁当を食べていく。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "71fda26",
+      "speaker": "",
+      "ja": "しかしお昼ご飯をすべて食べ終わる頃になると、シューの顔に名残惜しさが浮かんだ。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "69cc5637",
+      "speaker": "シュー",
+      "ja": "もう授業、始まっちゃうね……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "330c5717",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうそんな時間か……それじゃあ午後の授業も頑張ってね",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "c6e939ae",
+      "speaker": "",
+      "ja": "{G_PlayerName}がそう言って応援すると、シューの顔に少し明るさが戻る。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2774572b",
+      "speaker": "シュー",
+      "ja": "きょうね、ちょっとだけドキドキしたけど……お兄ちゃんがいっしょにお昼してくれたから、がんばれそう",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "1683d72",
+      "speaker": "",
+      "ja": "シューは小さな手で{G_PlayerName}の指をギュッと握ると甘えるような声で呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "d0a7eba7",
+      "speaker": "シュー",
+      "ja": "学校が終わったら、またすぐにお兄ちゃんに会いにくるね……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "b35dfde6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、待ってるよ",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "963a6cdf",
+      "speaker": "",
+      "ja": "{G_PlayerName}が笑顔でそう答えると、シューの顔に安心と期待が入り混ざった表情が浮かぶ。",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "5f477afe",
+      "speaker": "シュー",
+      "ja": "それじゃあ、お兄ちゃん……また後でね……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "93531b27",
+      "speaker": "",
+      "ja": "そう言うとシューは宇宙船のラウンジから学校に向かって駆け出していった。",
+      "zh": ""
+    }
+  ]
+}
