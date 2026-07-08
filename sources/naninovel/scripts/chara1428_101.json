@@ -1,0 +1,571 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "b6ccfa2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー……",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "604b8a8f",
+      "speaker": "",
+      "ja": "賑やかなカジノを尻目に俺はソファーに座り一息つく。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "656aad9d",
+      "speaker": "",
+      "ja": "身体が自分の考えていた以上に疲労していたのか、吸い付くように背もたれに身体を預ける。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "7e3efc81",
+      "speaker": "",
+      "ja": "賑やかなカジノ……喜怒哀楽のすべてがこの非日常的な空間にある……カジノとはそういう場所なのだと実感した。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "1f5cd50",
+      "speaker": "シュエ",
+      "ja": "ご主人、様、座って、どうか、した？　ゲーム、しないの？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "cb1318",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、シュエ……ちょっと人酔いしちゃってな",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "5212b572",
+      "speaker": "シュエ",
+      "ja": "人、酔い……？　ご主人様、人、食べて……酔った？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "1993d115",
+      "speaker": "{G_PlayerName}",
+      "ja": "違う違う、物騒な勘違いしないでくれ。人酔いっていうのは、人が大勢いてそれに疲れたって意味だよ",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "cbf48e4c",
+      "speaker": "シュエ",
+      "ja": "それが、人酔い……？　そう、なんだ……てっきり、ここにいる人たち、食べていい、のかと、思った……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "3486f1c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……シュエはもっと色々勉強しないとな。ほら、一緒に座ろうか",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "89566f7e",
+      "speaker": "シュエ",
+      "ja": "わわっ、ご主人様？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "457cac57",
+      "speaker": "",
+      "ja": "俺はシュエを抱きかかえると、自分の隣に座らせる。",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "dd682474",
+      "speaker": "シュエ",
+      "ja": "ご主人様、シュエたち、お仕事中……休んでいると、オーナー、怒る……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "fcf22257",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、ちょっとくらい大丈夫だって。一応俺客なんだし、その相手をしているってオーナーに言えば大丈夫だからさ",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "acf4b66d",
+      "speaker": "シュエ",
+      "ja": "そう、なの……？　ご主人様が、そう、言うなら、その通りに、する……",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "8a75fa37",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、バニーの仕事、順調に行ってる？",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "d08805ad",
+      "speaker": "シュエ",
+      "ja": "んー……わからない、でもオーナーは、今のままで、良いって……その方が、都合がいい、って……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "a33379b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "都合……？　なんか特別なことでもしてるの？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "73ee3259",
+      "speaker": "シュエ",
+      "ja": "んー……特別か、わからない、けど……よくゲームに、負けた人の、案内、させられる……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "cf16f6f1",
+      "speaker": "シュエ",
+      "ja": "シュエたちが、案内すると、みんな、負けを、取り戻そうと、するって……オーナーが、言ってた",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "e94632ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでまた……？　シュエ、何かしてるのか？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "d33fcc25",
+      "speaker": "シュエ",
+      "ja": "ううん、何も、していない……案内、しているだけ……",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "5268de72",
+      "speaker": "{G_PlayerName}",
+      "ja": "どういうカラクリなんだ……？　なんか負けている人の案内って怖そうなイメージとかあるんだよな……",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "a76d11ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "ストレスで当たり散らしてくるとか……そういう人とかいないの？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "3278f0b",
+      "speaker": "シュエ",
+      "ja": "最初は、みんな、眉毛、こんなに、吊り上げて、怒ってる……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "31e07b5d",
+      "speaker": "",
+      "ja": "シュエは怒っている人の真似をしているのか、両手で自分の眉を突き上げる。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "a207ff41",
+      "speaker": "",
+      "ja": "それが可愛くてほっこりしてしまい、思わず笑みを見せてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "8ea842cd",
+      "speaker": "シュエ",
+      "ja": "でも、すぐに、眉毛、元に、戻る……そして、またゲームをして、負ける……",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "b6023951",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……まぁ確かにオーナーからしたら都合が良いかもな……お金吐き出させているし……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "f2e8cb66",
+      "speaker": "{G_PlayerName}",
+      "ja": "（シュエって周りの人達をほっこりさせるし、怒りとかそういうの無くなってしまうのかも……）",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9668592f",
+      "speaker": "",
+      "ja": "シュエのその特性を上手く利用し、賭け事に夢中にさせる……。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "af5518e9",
+      "speaker": "",
+      "ja": "なんだかカジノの知ってはいけない一面を知ってしまったような気がしてきてしまうのは気のせいなのだろうか。",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "538e4f32",
+      "speaker": "シュエ",
+      "ja": "でも、ここには、生きた人が、たくさん……実は、ちょっと、シュエたち、落ち着かない……",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "709c6187",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？　ああ、仙夢迷宮じゃ生きた人間は一人もいなかったからな……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "fc0ed8ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙船にもこんなに大勢の人は乗っていないし",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "d0b83c85",
+      "speaker": "シュエ",
+      "ja": "うん……シュエたち、静かな方が、好き……そっちの方が、落ち着く、から",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "44d019da",
+      "speaker": "{G_PlayerName}",
+      "ja": "なら無理してバニーのお仕事を続ける必要は無いぞ？　俺はシュエに無理して欲しいなんて少しも思ってないからさ",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "6eb559a1",
+      "speaker": "シュエ",
+      "ja": "無理は、してない……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "2eeb6bf2",
+      "speaker": "シュエ",
+      "ja": "落ち着かない、けど、嫌いじゃない。身体、動かしたくなる？　話し、かけたい？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "8d28caa8",
+      "speaker": "シュエ",
+      "ja": "あ……これが、人酔い？",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "e32d7750",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、それは違うと思うぞ？　でもシュエが無理してないんだったらそれが一番だよ",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "249375b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……シュエのその言葉から考えると……もしかしてシュエって人と触れ合いたいとか思っているのかも？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "c8364",
+      "speaker": "シュエ",
+      "ja": "そう、なの……？　よく、わからない……",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "f43e31e5",
+      "speaker": "",
+      "ja": "無念な最期を遂げた霊魂が集まって生まれたシュエ。人ともっと触れ合いたかった、そんな人が多かったんだろうと思う。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "47056272",
+      "speaker": "",
+      "ja": "すべては自分の想像でしかないが、シュエの中にいるたくさんの魂一人一人が報われてほしい、そう思わずにはいられない。",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "f4886147",
+      "speaker": "シュエ",
+      "ja": "ご主人様……？　ぼーっと、してる……お腹、痛い？",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "ac5dd1ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、全然痛くないよ。ちょっと考え事をな……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "421a5805",
+      "speaker": "{G_PlayerName}",
+      "ja": "ただ、シュエの身体を動かしたい、人に話しかけたいって気持ちは大事にした方が良いと思う。それがシュエが……シュエたちが望んでいることだと思うからさ",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "701fa56d",
+      "speaker": "シュエ",
+      "ja": "そう、なんだ……？　シュエたちが、望んでいる、こと……",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "74c559da",
+      "speaker": "シュエ",
+      "ja": "人を、喜ばせたい、誰かの、役に、立ちたい……困っている、人の、力に、なりたい……",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "3162c5a6",
+      "speaker": "シュエ",
+      "ja": "全部、全部、シュエたちが、望んでいる、こと……",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "f712fef7",
+      "speaker": "{G_PlayerName}",
+      "ja": "シュエってさ、もっと生きたい、生かしたいって気持ちの魂が集まってるんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "678528",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからたくさんの人がいて嬉しいんだよ、困っている人の力になりたいって、本能で思っているんだと思う",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "f2b859e5",
+      "speaker": "シュエ",
+      "ja": "そっか……うれ、しい……このそわそわ、した気持ちは、嬉しい、から……なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "58ed02f8",
+      "speaker": "シュエ",
+      "ja": "わかった、シュエたち、この気持ち、大事にする……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "ffa08",
+      "speaker": "",
+      "ja": "シュエは僅かに微笑むと、ソファーから飛び降りる。",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "b4e8ea01",
+      "speaker": "シュエ",
+      "ja": "シュエたち、みんなの力に、なってくる……！",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "30555929",
+      "speaker": "{G_PlayerName}",
+      "ja": "待って待って待って、そんな慌てて何かしなくても……何をするつもりなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "cb1d65c6",
+      "speaker": "シュエ",
+      "ja": "んー……こっそり当たりを、教えたり……？　でぃーらーの、手札、教えたり……？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "57ffafa1",
+      "speaker": "シュエ",
+      "ja": "それじゃあ、お仕事、戻る……！",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "3c844b50",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょぉっ！？　お、おい、シュエ、待て！　それマジで怒られるぞ……！！",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "85f7bed2",
+      "speaker": "",
+      "ja": "シュエが自分のしたいことを見つけたのは嬉しいが、怒られたりしたら何も意味がない。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "67be1392",
+      "speaker": "",
+      "ja": "俺はそれをシュエに伝えようと、慌てて後を追いかけるのであった。",
+      "zh": ""
+    }
+  ]
+}
