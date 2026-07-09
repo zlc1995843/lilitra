@@ -1,0 +1,1138 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "c108e4b5",
+      "speaker": "",
+      "ja": "ほんのついさっきまではパーティーで賑わっていた会場。しかし今は人の声一つ聞こえない厳かな雰囲気に変わっていた。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "54207100",
+      "speaker": "",
+      "ja": "周囲にいる人たちは言葉一つ発することなく、これから始まる式典をじっと待つ。俺もそれに倣い式典開始をじっと待つのだが──",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "ce09cb22",
+      "speaker": "雫",
+      "ja": "ふぅ……ふぅ……んぅ……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "170fd85c",
+      "speaker": "",
+      "ja": "──隣にいる雫に落ち着きがない。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "b49b12d7",
+      "speaker": "",
+      "ja": "次第に雫の額が僅かに汗ばみ始め、何かをガマンしているようにぐっと唇を噛みしめていた。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "e83b2cf9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（おい、雫、大丈夫か……？）",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "3b108a2a",
+      "speaker": "雫",
+      "ja": "（だ、黙ってなさい……もうすぐ式典が始まるのですから……）",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "30a583a6",
+      "speaker": "",
+      "ja": "声を掛けても雫は俺の方を見ようともしない。次第に顔色も悪くなり始め、見ているだけでこちらに変な緊張が走る。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "afdc5a99",
+      "speaker": "{G_PlayerName}",
+      "ja": "（お前、体調悪いんじゃないのか……？　大丈夫か……？）",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "6e42691b",
+      "speaker": "雫",
+      "ja": "（う、うるさい……あなたに心配される必要はありません……）",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "b2c6f7e7",
+      "speaker": "",
+      "ja": "雫の表情がさらに曇り息も荒くなり始める。俺は居ても立っても居られなくなり、そっと雫の手を掴む。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "a76aa1f3",
+      "speaker": "雫",
+      "ja": "（な、なんですか、突然……）",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "ed305020",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いいから……ちょっとこっち来い……！）",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "e00565af",
+      "speaker": "雫",
+      "ja": "外に連れ出すなんてどういうつもりですの！？　早く式典に戻らないと……！　ルミナ様はわたくしがお守りせねば──",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "40d614dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな青い顔してルミナの警護とかできるわけないだろ！　体調良くないんだったら少しくらい休めよ",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "e9c6f0e1",
+      "speaker": "雫",
+      "ja": "体調など悪くありません……！　あなたと違って頭の先から足の先まで健康そのものです！！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "e965cf87",
+      "speaker": "{G_PlayerName}",
+      "ja": "人を不健康の塊みたいに言うなっ！　って！　今はどうこう言ってる場合じゃないだろ！　どっか休める場所は──",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "d328f9ed",
+      "speaker": "雫",
+      "ja": "休憩など必要ありませんっ！　今必要なのはトイ──あ、いえ……！　な、なんでもありませんっ……！",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "d5691240",
+      "speaker": "{G_PlayerName}",
+      "ja": "とい……？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "e1755e78",
+      "speaker": "雫",
+      "ja": "何でもないと言ってるでしょう……！　ほら、早く式典に戻りますよ……！",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "a8d2ef20",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……お前もしかしてトイレに行きたかっただけなのか？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "c42e9616",
+      "speaker": "",
+      "ja": "どうやら正解だったようで、雫の顔が青から赤へと徐々に変化していくのがはっきりとわかる。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "90f2c920",
+      "speaker": "雫",
+      "ja": "ぐ……！　このデリカシーゼロ男……！　も、もう少しスマートな言い方はできないのですかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "3f67fe58",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　つい口から勝手に出てしまって……でもそういうことならお前も早く言えよ……心配して損した",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "e16c8271",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、トイレ付き合ってやるから行くぞ",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "6d8cc722",
+      "speaker": "雫",
+      "ja": "別に付き合う必要など……！　は、離しなさい……！！",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "afa27f08",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おまっ……！　な、なんでドア開けっぱなしなんだよ！？",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "8195bb3",
+      "speaker": "雫",
+      "ja": "う、うるさい、ですね……！　トイレ全体が防音で会場の音が聞き取りにくいんです……！　ドアを閉めたら余計に会場の音が聞こえなくなります……！",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "ba189608",
+      "speaker": "雫",
+      "ja": "ドアを閉めてゆっくりおしっこなど……そんなことをしている暇などないのです！　ルミナ様に何かあったらどうするつもりですか！？",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "19040a1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからって……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "bd3b5f40",
+      "speaker": "",
+      "ja": "人がいる前でする奴がいるか……？",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "391eeebf",
+      "speaker": "",
+      "ja": "俺はそう言いかけてぐっと言葉を飲み込む。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "d3298f99",
+      "speaker": "雫",
+      "ja": "でもあなたに見てもらいたくはありません……！　向こう向いていてください！！",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "d34f0369",
+      "speaker": "{G_PlayerName}",
+      "ja": "（向こう向いてろって……）",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "2f308975",
+      "speaker": "",
+      "ja": "なるべく見ないようにはするが、それでもあそことお尻丸出しの雫に視線が向いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "1250b545",
+      "speaker": "",
+      "ja": "雫とはなんだかんだと言いながらも行為を重ねていたが、ここまでじっくり見るのは初めてかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "532eb7a5",
+      "speaker": "雫",
+      "ja": "くっ……ふぅ……ッ！　うう゛……うう……！",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "3cad7bb3",
+      "speaker": "雫",
+      "ja": "んぅぅぅ……ずっとガマンしてたから……おしっこ、中でパンパンになって……ッ！！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "de0916a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、大丈夫か……？",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "2355655c",
+      "speaker": "雫",
+      "ja": "問題ありません……すぐに終わらせて……んっ……！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "86ae5263",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな苦しそうに……ヘンに力入れ過ぎなんじゃないのか？　こういう場合、中から解して力抜いたほうがいいんじゃない……？",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "b1f73d72",
+      "speaker": "雫",
+      "ja": "な、中……？　──ひゃっ！？　あ、ちょっとっ！？",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "4dfe58b6",
+      "speaker": "雫",
+      "ja": "や、やめっ……手出しは無用ですっ！！",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "78127ad5",
+      "speaker": "",
+      "ja": "割れ目をなぞるように触れると、拒絶するように雫は腰を揺らす。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "3f7517e",
+      "speaker": "",
+      "ja": "俺は雫が動けないことをいいことに尿道を指先で弄る。",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "9f110203",
+      "speaker": "雫",
+      "ja": "この、ヘンタイ……！　こうするのが目的でトイレに連れ込んだのですかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "29c5ced0",
+      "speaker": "{G_PlayerName}",
+      "ja": "んなわけあるかっ！　純粋に雫を心配しての行為だっての",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "8069e1f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そもそもドアを締めずにおしっこしようとしていた雫が悪い！　こんな綺麗なあそことお尻を見せつけられたら触らずにはいられないだろうがっ",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "91739d08",
+      "speaker": "雫",
+      "ja": "ううっ！？♥　そ、そこ、おしっこのところと違っ……！♥　あ、あっ！♥　ダメ、指……あ、あ、あっ！♥　う、うううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "d1ddba86",
+      "speaker": "",
+      "ja": "僅かに濡れていた膣穴に指を押し込むと、雫の口から甘い声が聞こえ始める。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "99556a90",
+      "speaker": "",
+      "ja": "指を抜こうと雫は必死に腰を捩らせる。",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "52943fe6",
+      "speaker": "",
+      "ja": "しかし俺はそれを止めるようにお尻を抑えると、狭い膣を押し拡げるように指を動かしていく。",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "93fef519",
+      "speaker": "雫",
+      "ja": "う、ぐっ！♥　こんな、ところでぇ……！♥　あなたと遊んでいる暇などないのにぃ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "c521090f",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に遊んでいるわけじゃないって。ほら、だんだん力抜けてきてるだろ？　そのうちおしっこ出るようになるから",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "890ff5a8",
+      "speaker": "雫",
+      "ja": "んぐ、うっ！♥　そこっ、だめぇ……！♥　ホジホジしないでぇ……あうう♥　んっ、んっ、んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "9fdef907",
+      "speaker": "",
+      "ja": "勝手知ったる雫のあそこ。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "248c40c6",
+      "speaker": "",
+      "ja": "反射的に俺は雫の感じるポイントを指先で弄ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "1b9788a3",
+      "speaker": "",
+      "ja": "膣奥からはじんわりと愛液が溢れ、指がネトネトになる。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "f1246880",
+      "speaker": "",
+      "ja": "その滑りを利用しながら指の出し入れをすると、雫はさらに快感に悶え両足をガクガクと震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "9f68f983",
+      "speaker": "雫",
+      "ja": "なんでっ、気持ち良いところばかりぃ……！♥　あっ、あっ！♥　この、ヘンタイっ♥　そんなにお尻撫でないでぇ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "f10c60bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなこと言われてもな……ホント綺麗なお尻だよ。スベスベでさ……",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "c665ec03",
+      "speaker": "雫",
+      "ja": "あなたに、そんなこと言われても……あひぃっ！♥　嬉しくとも何ともぉ……あうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "4e02fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当にそうか？　今おまんこ締まったぞ？　そういうのちゃんとわかるんだからな？",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "b635917",
+      "speaker": "雫",
+      "ja": "うるさい、うるさいうるさい、うるさいぃぃっ！！♥　んあ、あっ！♥　指、奥にぃぃぃっ！！♥　これダメっ！♥　んんっ、んあ、ああぁっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "2d6d471e",
+      "speaker": "{G_PlayerName}",
+      "ja": "こら、暴れるなって……！　今おしっこ出ちゃったら便器から外れてしまうぞ？",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "62f2f931",
+      "speaker": "雫",
+      "ja": "だったら弄らないでぇ……！！　ふぅ、んふぅぅ……んっ！！♥　ふあ、は、ああ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "6004e588",
+      "speaker": "{G_PlayerName}",
+      "ja": "良い感じに力抜けてきてるからさ……もう少しガマンしてくれ",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "eeb8ec57",
+      "speaker": "雫",
+      "ja": "あひいいいっ！？♥　あああっ！！♥　クリはダメぇっ！！♥　んっ、んんんっ！！♥　ああああぁっ！♥　おまんこっ、感じちゃうっ！♥　喜んでしまうぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "de44e544",
+      "speaker": "雫",
+      "ja": "んっ、あっ！♥　あ、出っ……！♥　うう、んくっ……！♥　うう、んぅぅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "9236500d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ガマンするなって。さっさとおしっこ出してしまえ",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "602a0c3e",
+      "speaker": "雫",
+      "ja": "んぅぅぅっ！♥　らめぇ……あ、出ちゃ、うっ……！！♥　んっ、んっ、んんんんん～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "71ab1a51",
+      "speaker": "",
+      "ja": "──ジョボジョボジョボ",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "37a861b6",
+      "speaker": "雫",
+      "ja": "ふぅぅ……んっ……！♥　んっ、んぅぅ……ふぅぅうぅ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "b57ed4",
+      "speaker": "雫",
+      "ja": "あ、あっ……♥　出、出ちゃって……♥　み、見ないでぇ……うう、ううう……と、止まらないぃ……んぅぅぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "5f082c58",
+      "speaker": "",
+      "ja": "雫の尿道から黄色い液体が勢いよく噴き出す。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "f775f1e",
+      "speaker": "",
+      "ja": "よほどおしっこをガマンしていたのか、信じられない量の尿が便器にジョロジョロと流れ落ちる。",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "81e34c83",
+      "speaker": "",
+      "ja": "雫の放尿に俺は完全に意識を奪われ、その姿を焼き付けようとじっとあそこを見つめてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "d6c88873",
+      "speaker": "雫",
+      "ja": "ううう、ううう……まだ出るぅ……♥　見ないでぇ……♥　あう……♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "a6c038ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……でも、なんていうか……妙に……",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "5017e130",
+      "speaker": "",
+      "ja": "エロい……。",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "e1e26609",
+      "speaker": "",
+      "ja": "普段は凛としている雫の見せるもっとも恥ずかしいシーンは俺を異様なまでに興奮させる。",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "c8dd4aad",
+      "speaker": "",
+      "ja": "尿道とアナルをヒクヒクとさせながら雫はいつまでもおしっこを続ける。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "29af86d",
+      "speaker": "",
+      "ja": "しかしそれもやがて終わりはじめ、トイレ中に響いていたおしっこの音が聞こえなくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "a73b3257",
+      "speaker": "雫",
+      "ja": "ふう、ふう……♥　こんなところを……見られるなんてぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "75b88937",
+      "speaker": "",
+      "ja": "雫は憎まれ口を叩きながら立ち上がろうとする。",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "8a40fa67",
+      "speaker": "",
+      "ja": "しかし俺はそれを阻止するようにそっと雫の丸いお尻を両手で抑えつけてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "3ba19b56",
+      "speaker": "雫",
+      "ja": "な、何？♥　もうおしっこ終わったから……！♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "f8eeec7d",
+      "speaker": "雫",
+      "ja": "ひぎぃぃっ！？♥　あ、あっ！♥　ちょっとっ！？♥　な、何指入れてぇええっ！！♥　んんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "41efa4d5",
+      "speaker": "",
+      "ja": "俺は興奮の赴くままに再び雫の膣穴に指を押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "ba7bf4f1",
+      "speaker": "",
+      "ja": "愛液と尿でさらにぐっしょりしていた膣。",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "753dd3da",
+      "speaker": "",
+      "ja": "俺は音を聞かせるようにぐちゅぐちゅと中を掻き回すと、雫の甘い悲鳴がトイレ中に響き渡った。",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "7c6dfd93",
+      "speaker": "雫",
+      "ja": "お、男……！♥　手を……あうっ！♥　止めるのですっ！！♥　これ以上は、やめなさいぃっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "d4c5942",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもスッキリしていないだろ？　ここまでしたんだ、最後までした方がいいって",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "e1690d59",
+      "speaker": "雫",
+      "ja": "ひいいいっ！？♥　どっ、どこ触っているのですっ！♥　そ、そこは……あっ、んっ、んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "fbfec75b",
+      "speaker": "",
+      "ja": "俺はヒクヒクと蠢く小さなアナルをそっと指の腹で撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "a22a4633",
+      "speaker": "",
+      "ja": "雫は驚きのあまり目を見開き、首をぶんぶんと横に大きく振る。",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "290da27b",
+      "speaker": "",
+      "ja": "拒絶するように腰を揺するが、雫の一番感じるポイントを指の腹で擦ると甘い悲鳴をあげる。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "da91104",
+      "speaker": "雫",
+      "ja": "この……ヘンタイっ！♥　こんな恥辱……絶対に許しませんからぁ……！！♥　うううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "cdc24dc3",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも気持ち良いだろ？　ならいいじゃないか……ほら、もっと感じてくれ",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "750c866b",
+      "speaker": "雫",
+      "ja": "うう、ううううっ！♥　そんな掻き回さないでぇ……！！♥　おまんこ感じちゃうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "3be609d7",
+      "speaker": "雫",
+      "ja": "早く、式典に戻らなければいけないのにぃっ！！♥　んひぃぃぃっ！！♥　そこばっかり弄らないでぇ……！！♥　快感が……強くなるぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "b0b78d13",
+      "speaker": "雫",
+      "ja": "なんであなたは……んんっ！♥　いつもいつも……こんなに感じさせてくるのっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "3d48c5cb",
+      "speaker": "雫",
+      "ja": "こんなことされてしまうから……恋敵のあなたに……心奪われて……ふうう、んんんんっ、ふううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "3598d86f",
+      "speaker": "",
+      "ja": "雫の両足がガクガクと震え、膣を掻きまわすたびにねっとりとした真っ白な愛液が糸を引きながら便器に垂れ落ちる。",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "81b69faf",
+      "speaker": "",
+      "ja": "膣が何度も指を甘く締め付け、おねだりをするように吸ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "3143ba85",
+      "speaker": "",
+      "ja": "雫の表情は完全に快楽に蕩け、快感を求めお尻をさらに俺の方に突き出してくる。",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "212af8c0",
+      "speaker": "雫",
+      "ja": "あっ♥　んあっ！♥　あ……待って……違うの……出ちゃ……んんっ！♥　ひいいいっ！！♥　アナルに……は、入ってぇぇっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "adb30448",
+      "speaker": "雫",
+      "ja": "これらめぇっ！！♥　ああ、ああぁっ！！♥　二つもいっぺんに穿らないでぇぇっ！！♥　うう、んぅぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "130f611d",
+      "speaker": "雫",
+      "ja": "あ、ああっ！♥　ダメっ、おまんこイっちゃう……！！♥　イっちゃうからぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "adaec0d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ガマンするなって……絶頂してスッキリしろっ",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "57f5dc0d",
+      "speaker": "雫",
+      "ja": "んんっ、んんんっ！！♥　イっちゃう、イっちゃう～～っ！！♥　イクイクっ！♥　イっちゃううーーーーっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "b34960e5",
+      "speaker": "雫",
+      "ja": "んおっ！♥　お、お……お゛っ、ぉぉぉっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "cfd96c48",
+      "speaker": "",
+      "ja": "雫の身体が一瞬硬直し、その直後、ビクンビクンと腰を大きく跳ねらせる。",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "4140f0a",
+      "speaker": "",
+      "ja": "同時にぷしゅっと潮が尿道から噴き出し、派手に潮をぶちまける。",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "25ebe50",
+      "speaker": "雫",
+      "ja": "う゛う゛っ♥　ぎもぢっ、いいぃ……♥　おまんこ、蕩けるぅ……♥　はーっ、んはーっ！♥　うう、んぅぅぅうっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "6baba67b",
+      "speaker": "雫",
+      "ja": "らめぇ……♥　おまんこ、イキっぱなしぃ……んひぃっ♥　出るのっ、気持ち良すぎるよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "404.0",
+      "line_index": 404,
+      "inline_index": 0,
+      "line_hash": "73fd60d6",
+      "speaker": "雫",
+      "ja": "こんな快感知っちゃったら……クセになっちゃうぅ……♥　んはー、はーっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "406.0",
+      "line_index": 406,
+      "inline_index": 0,
+      "line_hash": "329bcd50",
+      "speaker": "",
+      "ja": "雫のあまりにもエロすぎるイキっぷりに俺の興奮が収まらない。",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "1b6cfd15",
+      "speaker": "",
+      "ja": "膣とアナルにねじ込んだ指を僅かに動かすだけで雫はイキ続ける。",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "c199b1bf",
+      "speaker": "雫",
+      "ja": "ううう……もう、らめぇ……♥　力が……♥",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "c9d9d05e",
+      "speaker": "",
+      "ja": "身体から完全に力が抜け、前のめりに倒れ込む雫。",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "5d25ee50",
+      "speaker": "",
+      "ja": "俺は慌てて雫の身体を支えると、雫は蕩けた瞳で俺を睨みつけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "416.0",
+      "line_index": 416,
+      "inline_index": 0,
+      "line_hash": "98ab9b5e",
+      "speaker": "雫",
+      "ja": "この……ヘンタイ……♥　あなたなんて……だいっきらい……♥　あふぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "984b97fb",
+      "speaker": "",
+      "ja": "雫はそう呟くと幸せそうな笑みを見せながら俺の腕の中で気を失ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "b24aff0b",
+      "speaker": "",
+      "ja": "さすがに調子に乗ってやり過ぎたかも。俺はそんなことを考えながら、雫が目を覚ますまで介抱するのであった。",
+      "zh": ""
+    }
+  ]
+}
