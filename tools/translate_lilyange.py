@@ -58,6 +58,11 @@ TEXT_NAME_ALIASES = {
     "林凡": "琳凡",
     "琳小": "琳凡",
 }
+TEXT_KANA_NOISE = {
+    "っ": "",
+    "ぅ": "",
+    "ッ": "",
+}
 
 
 def read_json(path: pathlib.Path) -> Any:
@@ -127,6 +132,8 @@ def normalize_translation_text(
         result = PLAYER_NAME_PLACEHOLDER_RE.sub(player_placeholder, result)
         result = PLAYER_NAME_TRANSLATED_PLACEHOLDER_RE.sub(player_placeholder, result)
     for old, new in TEXT_NAME_ALIASES.items():
+        result = result.replace(old, new)
+    for old, new in TEXT_KANA_NOISE.items():
         result = result.replace(old, new)
     return result
 

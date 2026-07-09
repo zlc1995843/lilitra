@@ -1,0 +1,580 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "5c0d9409",
+      "speaker": "メイズ",
+      "ja": "あ、お兄さん、ここにいたんだ",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "c8615d01",
+      "speaker": "{G_PlayerName}",
+      "ja": "よう、メイズ。何か用事でもあった？",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "4fc326ee",
+      "speaker": "メイズ",
+      "ja": "特に無いんだけどね。宇宙船の中をぶらぶら～ってしてただけだし",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "7db5138e",
+      "speaker": "",
+      "ja": "メイズはそういうと俺の対面の椅子に腰を下ろす。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "542a5434",
+      "speaker": "メイズ",
+      "ja": "それにしてもさぁ……珍しい木とか花とか……イイ感じだよね～……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "898864bf",
+      "speaker": "",
+      "ja": "メイズはそういうと周囲をキョロキョロと見渡す。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "95228397",
+      "speaker": "",
+      "ja": "ここに植えられている植物が珍しいのか、興味津々の様子だ。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "f683027f",
+      "speaker": "{G_PlayerName}",
+      "ja": "終と始まりの星には無い植物ばっかりなのかな？",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "f3c98e7e",
+      "speaker": "メイズ",
+      "ja": "そだね……あんま植物には詳しくないけど、初めて見るのばっかりかも。見ているだけで楽しくなってきちゃうね",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "a10f5624",
+      "speaker": "メイズ",
+      "ja": "ほら、そこに植えられているお花なんて特に珍しいかも",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "d267200b",
+      "speaker": "",
+      "ja": "メイズが指差す方向に、大量に植えられていた真っ白な花。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "a7f9a9af",
+      "speaker": "",
+      "ja": "メイズには珍しい花だったかもしれないが、俺には特に珍しい花でも無かった。何故なら──",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "9450d6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、あの花さ、俺らの故郷にある辺境の星の花なんだよ",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "66d9cae2",
+      "speaker": "メイズ",
+      "ja": "そうなんだ……だから珍しいんだね。もしかしてお兄さんが故郷恋しさに植えたとか？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "6e099ed6",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、コハルが植えたんだよ。宇宙に旅立つときに持ってきた荷物の中に花の種が紛れ込んでいたらしくてさ",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "24a94e7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "せっかくだし植えようかって話になってさ──",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "3bce8344",
+      "speaker": "コハル",
+      "ja": "ねえ、アポロ、この種ここに植えてもいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "7cd5e73f",
+      "speaker": "アポロ",
+      "ja": "少々お待ちを……ここの土とコハルさんの持ってる種が適合できるか調べますので",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "cf823c6f",
+      "speaker": "アポロ",
+      "ja": "……どうやら問題はなさそうですね。植えてもだいじょうぶです",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "35843406",
+      "speaker": "コハル",
+      "ja": "やった……！　でもこの種……なんの種なんだろう？　たぶん店で取り扱っていた種だと思うし、お花だと思うんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "a7b72131",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすがに種からじゃわからんぞ……アポロわかる？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "41934125",
+      "speaker": "アポロ",
+      "ja": "少々お待ちください、今調べますので──",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "56be6472",
+      "speaker": "コハル",
+      "ja": "あ！　待って！　調べなくても良いから！　せっかくだし、咲いてからのお楽しみってことにしたいし",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "4ca5c724",
+      "speaker": "アポロ",
+      "ja": "そうですか、わかりました",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "f5aefcfb",
+      "speaker": "コハル",
+      "ja": "どんな花が咲くんだろうな～、育てるのが楽しみだよ",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "a9538cb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "って感じで植えたんだよ。まぁ俺達から見たら特別な花でもなかったんだけど、故郷を思い出せるのはいいかなって思ってるよ",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "889dc3c3",
+      "speaker": "メイズ",
+      "ja": "にひひひ……♪",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "a7cc33ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、ヘンな笑いしやがって……俺何かヘンなこと言った……？",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "183564a7",
+      "speaker": "メイズ",
+      "ja": "んにゃ、全然ヘンな話はしてないよ♪　お兄さんってさ、幼馴染のコハルちゃんの話をするときって笑顔になるよね～♪",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "d83bfcb4",
+      "speaker": "メイズ",
+      "ja": "隙あらばコハルちゃんの話しているしさ♪　やっぱり二人ってそういう関係だったりする？　ルミナ様もいるのに罪作りなお兄さんだねぇ～♥　くすくすっ♥",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "766514af",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちっ、ちげーって……！　別にそういわけじゃ……昔から一緒に育った腐れ縁みたいなやつだし、俺にとっては話題にしやすいんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "25c1d0aa",
+      "speaker": "メイズ",
+      "ja": "腐れ縁ね～……まぁあたしもグレアと幼馴染だからよく話題にしちゃうのはわかるんだけどねっ",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "4103b26d",
+      "speaker": "{G_PlayerName}",
+      "ja": "二人はそういう関係だったのか……でも全然タイプが違うよな",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "315b159",
+      "speaker": "メイズ",
+      "ja": "まぁね、昔は少しは笑う子だったんだけどね～。コハルちゃんは今も昔もあまり変わらない印象があるよね",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "a492a995",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……コハルは昔からあんな感じだったな……昔から一緒にバカばっかやってさ……姉さんみたいなやつだよ",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "4bfa12fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺がムリしていると、すぐに気づいて説教してきたりするしさ",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "c239dafe",
+      "speaker": "メイズ",
+      "ja": "あはっ♪　コハルちゃんらしいね～♪　でもそういう関係なら、あたしにとってのグレアみたいな感じなのかな",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "80ce04ba",
+      "speaker": "メイズ",
+      "ja": "あたしもね、昔はグレアのことよく守ってあげてたんだ。あの子、今でこそ気丈に振舞ってるけど、昔は虫も殺せないような泣き虫でさ～……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "825878dc",
+      "speaker": "メイズ",
+      "ja": "あたしがいないと何もできなかったんだよね～",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "2e7af15a",
+      "speaker": "",
+      "ja": "メイズは何かを思い出しているように遠い目で向こうにある真っ白な花を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "fe681625",
+      "speaker": "",
+      "ja": "さっきまでの快活な口調ではなく、穏やかで優しい声色。",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "f552d326",
+      "speaker": "",
+      "ja": "その表情と声だけで、メイズにとってグレアがどういう存在なのか理解できた。",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "658b2fd6",
+      "speaker": "メイズ",
+      "ja": "あの子王女様じゃん？　そういうの自覚してからは今みたいな感じになったんだよね～……いつの間にか主従関係の出来上がりって感じ……",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "dfb6bc67",
+      "speaker": "メイズ",
+      "ja": "最初は正直寂しかったな……もうあの頃のグレアはいないんだなって……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "d8ea92e9",
+      "speaker": "メイズ",
+      "ja": "でもあの子が王女として頑張ってるのを見たらさ、あたしはあたしのやり方であの頃を守り抜こうって決めたんだ",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "84543a8f",
+      "speaker": "",
+      "ja": "メイズは微笑みながらもその瞳は真剣そのものであった。",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "767c5953",
+      "speaker": "",
+      "ja": "それはメイズが胸に秘めてきた覚悟の言葉なのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "b45ef80",
+      "speaker": "",
+      "ja": "真剣な瞳に俺は『メイズ』という存在の奥深さを改めて感じていた。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "f9228ac1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……メイズにとってグレアは本当に大切な存在なんだな",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "ec22c26d",
+      "speaker": "メイズ",
+      "ja": "まぁね♪　で、お兄さんはどうなの？　コハルちゃんのこと、グレアみたいに『大事』で、あたしみたいに『守ってあげなきゃ』って思うわけ？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "8a6c740d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、だな……昔からそういう気持ちは少なからずあったと思う",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "7f21e741",
+      "speaker": "メイズ",
+      "ja": "（へぇ～……ずいぶんと真剣な瞳するんだね……ちょっとドキっとしちゃった……）",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "139c9d04",
+      "speaker": "メイズ",
+      "ja": "（お兄さんにとってコハルちゃんは本当に大事な存在なんだ……お兄さんに守ってもらえるコハルちゃん、ちょっとだけ羨ましいな……）",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "f45840ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "と言っても、コハルの方が圧倒的に強いんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "3d63ef29",
+      "speaker": "メイズ",
+      "ja": "ま、大事なのは気持ちだよ。そういう存在が近くにいるってだけで女の子は嬉しいものだからね",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "d69dae63",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうものなのか……？　あまり喜んでいるようには見えないけどな",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "e61c9be4",
+      "speaker": "メイズ",
+      "ja": "身近過ぎて気づかないだけじゃない？　いいな、コハルちゃんは……ねぇ、あんたの『一番大事な人』の座奪っちゃおうかな～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "4f54e7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　それってどういう……？",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "5b77c1d5",
+      "speaker": "",
+      "ja": "俺がそう言いかけるとメイズは同時に椅子から立ち上がる。",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "a26a318f",
+      "speaker": "メイズ",
+      "ja": "あははっ♪　自分で考えなよ♪　さ、そろそろ戻ろっかな～っ",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "a416246",
+      "speaker": "メイズ",
+      "ja": "じゃ、またね、お兄さんっ♪",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "e00ea863",
+      "speaker": "",
+      "ja": "メイズはそういうと足早に植物園から出て行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "35d1b040",
+      "speaker": "",
+      "ja": "最後に見せたメイズの笑顔とウインクに俺の心臓がドクンと高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "77386de1",
+      "speaker": "",
+      "ja": "俺の中でメイズの印象が少し変わった……それを実感させる午後のひと時であった。",
+      "zh": ""
+    }
+  ]
+}
