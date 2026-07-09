@@ -51,6 +51,13 @@ DISPLAY_NAME_ZH = {
     "女": "女性",
     "男": "男性",
 }
+PLACEHOLDER_RE = re.compile(r"\{[^{}]+\}")
+PLAYER_NAME_PLACEHOLDER_RE = re.compile(r"\{\s*(?:G_)?PlayerName\s*\}|\b(?:G_)?PlayerName\b", re.IGNORECASE)
+PLAYER_NAME_TRANSLATED_PLACEHOLDER_RE = re.compile(r"\{\s*(?:玩家名|玩家名字|主角名|主人公名)\s*\}")
+TEXT_NAME_ALIASES = {
+    "林凡": "琳凡",
+    "琳小": "琳凡",
+}
 
 
 def read_json(path: pathlib.Path) -> Any:
@@ -100,6 +107,47 @@ def has_cjk(text: str) -> bool:
 
 def to_game_display_text(text: str) -> str:
     return text or ""
+
+
+def source_player_placeholder(source_text: str) -> str:
+    for placeholder in PLACEHOLDER_RE.findall(source_text or ""):
+        if "playername" in placeholder.lower():
+            return placeholder
+    return ""
+
+
+def normalize_translation_text(
+    text: str,
+    source_text: str,
+    name_glossary: Optional[Dict[str, str]] = None,
+) -> str:
+    result = text or ""
+    player_placeholder = source_player_placeholder(source_text)
+    if player_placeholder:
+        result = PLAYER_NAME_PLACEHOLDER_RE.sub(player_placeholder, result)
+        result = PLAYER_NAME_TRANSLATED_PLACEHOLDER_RE.sub(player_placeholder, result)
+    for old, new in TEXT_NAME_ALIASES.items():
+        result = result.replace(old, new)
+    return result
+
+
+def normalize_translations(
+    source_lines: List[Dict[str, Any]],
+    zh_map: Dict[str, str],
+    name_glossary: Optional[Dict[str, str]] = None,
+) -> Dict[str, str]:
+    result = dict(zh_map)
+    source_by_key = {line["key"]: line for line in source_lines}
+    for key, zh in list(result.items()):
+        if not isinstance(zh, str) or not zh:
+            continue
+        source = source_by_key.get(key, {})
+        result[key] = normalize_translation_text(
+            zh,
+            str(source.get("ja") or ""),
+            name_glossary,
+        )
+    return result
 
 
 def bundle_base(filename: str) -> str:
@@ -831,6 +879,7 @@ def call_deepseek(
         "使用简体中文口语，短句，适合游戏文本框。"
         "必须严格使用 name_glossary 里给出的中文人名。"
         "保留 UI 命令、占位符、数字、括号和符号。"
+        "所有 {...} 占位符必须逐字原样保留，尤其 {G_PlayerName} 绝不能改成 {PlayerName} 或翻译成主角名。"
         "避免机器翻译腔，例如“这里倒是挺老实的”“才嘴硬”“说了那种话却”这类日式中文。"
         "例：ふふっ、あれだけ言っておきながら……ここは正直っすね♥ 不要译成“呵呵，刚才还嘴硬……这里倒是挺老实的嘛♥”，"
         "应润色成“哼哼，嘴上说得那么厉害，身体倒是很诚实嘛♥”这类自然中文。"
@@ -895,7 +944,7 @@ def translate_lines(
         translated = call_deepseek(api_key, model, chunk, name_glossary)
         result.update(translated)
         print(f"translated {min(start + len(chunk), len(pending))}/{len(pending)} lines", flush=True)
-    return result
+    return normalize_translations(source_lines, result, name_glossary)
 
 
 def parse_int_set(value: Optional[str]) -> Optional[set]:
@@ -995,6 +1044,7 @@ def main() -> int:
             if not zh_map:
                 print(f"review file has no Chinese lines: {review_path}", file=sys.stderr)
                 return 3
+            zh_map = normalize_translations(source_lines, zh_map, name_glossary)
             save_translation(translation_path, source_lines, zh_map)
             changed = patch_bundle(source_bundle, bundle_out, zh_map, name_glossary)
             print(f"patched {changed}/{len(source_lines)} lines from review")

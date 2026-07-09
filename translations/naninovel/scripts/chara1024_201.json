@@ -25,7 +25,7 @@
       "line_hash": "9b766ff5",
       "speaker": "",
       "ja": "ある日を境に、{G_PlayerName}のことを強く意識するようになってしまった。",
-      "zh": "某一天起，我变得强烈地在乎起{PlayerName}来了。"
+      "zh": "某一天起，我变得强烈地在乎起{G_PlayerName}来了。"
     },
     {
       "key": "21.0",
@@ -340,7 +340,7 @@
       "line_hash": "691d6d16",
       "speaker": "",
       "ja": "{G_PlayerName}に悪態を付くものの、それがより感情を高ぶらせる。",
-      "zh": "虽然嘴上在骂{PlayerName}，但情绪反而更高涨了。"
+      "zh": "虽然嘴上在骂{G_PlayerName}，但情绪反而更高涨了。"
     },
     {
       "key": "108.0",
