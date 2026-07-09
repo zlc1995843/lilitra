@@ -1,0 +1,733 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "2c37cbde",
+      "speaker": "ロサナ",
+      "ja": "よし……！　さっそくお仕事開始です……！",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "c716cd16",
+      "speaker": "ロサナ",
+      "ja": "……えっ？　私がみなさんの欲しい物を調査するんですか？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "739b00f7",
+      "speaker": "ラグシェ",
+      "ja": "はいでしゅっ！　ぜひぜひお願いしたいでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "6cf00566",
+      "speaker": "ロサナ",
+      "ja": "……でもどのように調査すれば……",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "d6cda657",
+      "speaker": "ラグシェ",
+      "ja": "そんなの簡単でしゅよ、みなさんに気づかれないように後をつけて……こっそり聞くんでしゅよ",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "eaf85c53",
+      "speaker": "ラグシェ",
+      "ja": "あ……見つかったらダメでしゅよ？　それに本人に直接聞くのもダメでしゅ！　すべては秘密裏に……これがサンタの鉄則でしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "c92f7307",
+      "speaker": "ロサナ",
+      "ja": "な、なんだか思っていたよりもサンタさんのお仕事って地道なんですね……",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "7e83d9d6",
+      "speaker": "ラグシェ",
+      "ja": "そうでしゅ！　地道なんでしゅ！　絶対に絶対にみなさんに捕まらないようにしてくだしゃいね！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "cab71d8d",
+      "speaker": "ロサナ",
+      "ja": "任されたからにはしっかりお仕事しないと……みなさんの欲しい物の調査開始です……！",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "2c8c4e28",
+      "speaker": "ロサナ",
+      "ja": "（……ふむふむ、なるほどなるほど……）",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "a160d517",
+      "speaker": "ロサナ",
+      "ja": "（メモメモメモっと……）",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "4f57e8cb",
+      "speaker": "ロサナ",
+      "ja": "（なるほど～……よし、メモ完了です……！）",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "6421e956",
+      "speaker": "ロサナ",
+      "ja": "ふぅ～……サンタさんのお仕事って大変なんだなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "fd21dd7b",
+      "speaker": "ロサナ",
+      "ja": "でもこっそり調査したおかげかみなさんのことだいぶ分かってきたかな～……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "f721d49",
+      "speaker": "ロサナ",
+      "ja": "コハルちゃんは計算機、雫ちゃんは最新鋭の望遠カメラ……なんだか二人の趣味が分かる感じかも",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "96a9eeff",
+      "speaker": "ロサナ",
+      "ja": "でもでもルミナちゃんがお人形さんが欲しいのは少し意外でしたね……私が思っている以上にルミナちゃんってカワイイ趣味しているのかも",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "a00c84c2",
+      "speaker": "ロサナ",
+      "ja": "でもアポロちゃんは何が欲しいか分からなかったな～……もっとしっかり調査……ん……？　何か忘れているような……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "b3298be5",
+      "speaker": "ロサナ",
+      "ja": "……あ！　私ったら！　にぃにの欲しい物の調査してなかった……！　一番大事な調査なのにっ！",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "537dd976",
+      "speaker": "ロサナ",
+      "ja": "すぐに調査しなくっちゃ……！",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "d1b88f7f",
+      "speaker": "雫",
+      "ja": "……そういえば去年の今の時期くらいにラグシェさんがプレゼントをくださいましたね",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "e9ee7df1",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……あれから１年になるんだね",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "9370e851",
+      "speaker": "ロサナ",
+      "ja": "（わわっ！　こ、こんな近くにみなさんがいたなんて……危ない危ない……）",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "8cd3bd0f",
+      "speaker": "ロサナ",
+      "ja": "（でもにぃにもいますし、ナイスタイミングかも……！　このままこっそりお話聞いちゃいましょう）",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "33f9f2db",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば今年もプレゼント配るって言ってたな",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "56940f3",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんはプレゼントで何が欲しいとか……考えてる？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "90324931",
+      "speaker": "ロサナ",
+      "ja": "（おおっ！？　ルミナちゃんナイス質問っ！）",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "f049007d",
+      "speaker": "雫",
+      "ja": "……どうせいかがわしいことでも考えているのでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "e6f4b2c4",
+      "speaker": "雫",
+      "ja": "……ロサナ様のこととか",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "44fb2904",
+      "speaker": "ロサナ",
+      "ja": "（へ……わ、私……？）",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "d2657def",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、藪から棒に……！",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "40804a21",
+      "speaker": "雫",
+      "ja": "フン……最近いやらしい目つきを見ていたらすぐに分かります。　まぁ、ルミナ様に寄りつく害虫が一匹減るならこちらとしては万々歳ですが",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "d12d0b71",
+      "speaker": "{G_PlayerName}",
+      "ja": "誰が害虫だ！　そもそも雫がそんなこと言える立場じゃないだろっ",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "770f902f",
+      "speaker": "雫",
+      "ja": "あなたのような欲望剥き出しの濁り切った下品な視線と一緒にしないでください！　私はあなたと違って透き通るような純粋な想いが籠っているのですから！",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "ca810a52",
+      "speaker": "{G_PlayerName}",
+      "ja": "何が純粋だ、よくそんなこと言えるなっ",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "bdf3691",
+      "speaker": "ルミナ",
+      "ja": "まぁまぁ、{G_PlayerName}くん、落ち着いて……。雫も少し言い過ぎだよ……",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "cb8a482a",
+      "speaker": "雫",
+      "ja": "ルミナ様はこの男に甘すぎます。ほら、あなたの部屋に着きましたよ。さっさと部屋に戻って一人むなしく過ごしてください",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "2db88cac",
+      "speaker": "{G_PlayerName}",
+      "ja": "へっ……！　言わなくてもそうさせてもらうよ、ルミナ、また明日な",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "1c24b6cd",
+      "speaker": "ルミナ",
+      "ja": "うん……また明日",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "10c33ad1",
+      "speaker": "ロサナ",
+      "ja": "（はわ、はわわ……にぃにがわたしのことを……？　ほ、本当、なのかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "7a9e1dc6",
+      "speaker": "ロサナ",
+      "ja": "（うううう……顔が熱い……！　でもでもでも、雫ちゃんの言うことが本当なら……にぃにへの一番のプレゼントは──）",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "3bf1145",
+      "speaker": "",
+      "ja": "──次の日",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "2ec37273",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……なんで俺だけ何も無いんだろ……",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "acfe361d",
+      "speaker": "",
+      "ja": "今日、ラグシェの代わりとしてロサナがみんなにプレゼントを配っていた。",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "45f623ef",
+      "speaker": "",
+      "ja": "どうやら事前に調査していたようで、ルミナ達は喜んでプレゼントを受け取っていた。",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "24fe2869",
+      "speaker": "",
+      "ja": "そこまではいいのだが、何故か俺には何もなかった。",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "af16e787",
+      "speaker": "",
+      "ja": "雫がドヤ顔で、『日頃の行いが』とかほざいていたが、雫はカメラを貰えている。……今回は審査をクリアしたらしい。俺だけ落とされたのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "7047d4fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "わざわざ聞くのもな……なんか催促しているようだし……",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "a889a3f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさか本当に雫の言う通り日頃の行いが悪いのか？　別に何かした覚えなんて──",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "2bc1530c",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "bc7423fb",
+      "speaker": "ロサナ",
+      "ja": "にぃに！　ぷ、プレゼントが届きましたっ！",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "9d7c017b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──へ……？",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "ebac7f3d",
+      "speaker": "",
+      "ja": "突然部屋にドアの外から大声が聞こえ、俺は慌ててドアの方を見る。",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "dd34831f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ろっ、ロサナっ！？　な、なんだ、その格好は！？",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "f3ecf29a",
+      "speaker": "",
+      "ja": "急にドアが開いたと思ったら、リボンでグルグル巻きになったサンタ姿のロサナが立っていた。",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "aea027f9",
+      "speaker": "ロサナ",
+      "ja": "遅れてごめんなさいですっ……！　ロサナがにぃにへのプレゼントです……！",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "b2028296",
+      "speaker": "",
+      "ja": "ロサナはそう言いながらゆっくりと部屋の中に入ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "5a9d182d",
+      "speaker": "",
+      "ja": "顔がここからでもはっきり分かるほど真っ赤にして、俯き加減にチラチラと俺を見つめてくる。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "27ade13f",
+      "speaker": "",
+      "ja": "俺はロサナのあまりにも突飛な行動に完全に固まってしまい、どう反応したらいいのかただただ困惑してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "fd45ef2e",
+      "speaker": "ロサナ",
+      "ja": "にぃに……？　な、なんだか固まっていますけど……？",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "6820f57",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、あ、ああ、ああ……す、すまん……！　なんかわけ分かんなくなっちまって……",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "42c7ca3f",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、でさ、その……なんでロサナが……？　プレゼントとか言ってたよな……？　どうして……？",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "a2486a21",
+      "speaker": "ロサナ",
+      "ja": "あ……それはにぃにが……その……私に、欲望剥き出しの、下品な視線を向けているって昨日雫ちゃんが……",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "7624bb21",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして昨日のあの話聞いてたのか？",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "6b7035c",
+      "speaker": "ロサナ",
+      "ja": "は、はい……にぃにが何を欲しがっているのかを知りたくて……だから、その……雫ちゃんの言葉が本当なら、これが一番喜ぶんじゃないかって……そう、思ったん、です、けど……",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "171bf5e7",
+      "speaker": "ロサナ",
+      "ja": "あ、あの……私、もしかして、とんでもないこと……しちゃって……います、よね……？　うう、な、なんだか余計に恥ずかしくなってきちゃいましたぁ……",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "2a41ebb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ、とんでもないって言えばそうかもだけど……雫の言葉とか真に受けちゃダメだって",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "a4f24011",
+      "speaker": "ロサナ",
+      "ja": "ううう……！　ごめんなさい、ごめんなさい～～っ……！　にぃにが一番喜ぶものをプレゼントしたくてぇ……！",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "55d1726",
+      "speaker": "",
+      "ja": "ロサナは真っ赤な顔を隠すように両手で自分の顔を覆う。",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "26d2b4a5",
+      "speaker": "",
+      "ja": "あまりの可愛さに俺は悶絶し抱きしめそうになってしまうが、今はぐっと自分の気持ちを抑える。",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "eeae60fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……一番なのは確かだと思うぞ",
+      "zh": ""
+    },
+    {
+      "key": "307.1",
+      "line_index": 307,
+      "inline_index": 1,
+      "line_hash": "ab0405aa",
+      "speaker": "ロサナ",
+      "ja": "へ……？　そ、そそそ、それって……",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "6a1cf2a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも自分のことは大事にしような？",
+      "zh": ""
+    },
+    {
+      "key": "311.1",
+      "line_index": 311,
+      "inline_index": 1,
+      "line_hash": "fed1e79b",
+      "speaker": "ロサナ",
+      "ja": "は、はい……ごめんなさい、にぃに……",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "9da4feca",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、でもなんだ……嬉しいよ……。ありがとうロサナ",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "a31c4d8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、そうだ、せっかくだし今日は一緒に過ごすか？　せっかくの大事なプレゼントだしな",
+      "zh": ""
+    },
+    {
+      "key": "317.1",
+      "line_index": 317,
+      "inline_index": 1,
+      "line_hash": "a2bc35e0",
+      "speaker": "ロサナ",
+      "ja": "だ、だだっ、だだだっ、大事っ！？　そ、それって、それってぇ……はわわわわっ♥",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "635d6590",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな大げさに反応するなって……！　とりあえず落ち着こうぜ？",
+      "zh": ""
+    },
+    {
+      "key": "321.1",
+      "line_index": 321,
+      "inline_index": 1,
+      "line_hash": "18b70485",
+      "speaker": "ロサナ",
+      "ja": "ご、ごめんなさい、にぃに……嬉しくて、恥ずかしくて……でもにぃににお誘いされて嬉しいです……",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "2fb5c826",
+      "speaker": "ロサナ",
+      "ja": "今日はにぃにと一緒に……お傍にいさせてください♥",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "9e49f1d0",
+      "speaker": "",
+      "ja": "ロサナの笑みに思わず顔が熱くなる。",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "d744c74f",
+      "speaker": "",
+      "ja": "俺とロサナはその後落ち着きを取り戻し、二人で楽しく過ごすのであった。",
+      "zh": ""
+    }
+  ]
+}
