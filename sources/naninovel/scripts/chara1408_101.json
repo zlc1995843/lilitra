@@ -1,0 +1,427 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "f317177f",
+      "speaker": "",
+      "ja": "宇宙ステーション\"スター\"で行われるパーティーに{G_PlayerName}達は招待されることになった。",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "305172cc",
+      "speaker": "",
+      "ja": "なんでも大当たりを出したギャンブラーが大きなパーティーを開催し、参加者全員を招待してくれたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "dfd84fcb",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}はパーティー開始前の空いている時間にグリムから誘いを受け彼女の部屋を訪れていた。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "89fdfbb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム、入るぞ",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "bb9b123e",
+      "speaker": "グリム",
+      "ja": "入っていいよー♪",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "e1e608f",
+      "speaker": "",
+      "ja": "ドアの向こうから入室を了承するグリムの声が聞こえてくる。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "fb1dd99f",
+      "speaker": "",
+      "ja": "それを受けて{G_PlayerName}はドアノブに手をかけると入室した。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "ca864b8d",
+      "speaker": "",
+      "ja": "すると部屋の中にはパーティー用の正装をしたグリムが{G_PlayerName}を出迎える。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "2fc012b1",
+      "speaker": "グリム",
+      "ja": "……どう？　可愛いでしょ♥",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a2fbbb2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、すごく似合っているよ",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "6c3a5486",
+      "speaker": "グリム",
+      "ja": "でしょでしょ♪　似合ってるでしょ♪　他には？",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "cdc0b805",
+      "speaker": "{G_PlayerName}",
+      "ja": "他に？　うーん……というか、パーティー前に急に呼んで、どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "ddf2a56a",
+      "speaker": "グリム",
+      "ja": "え？　べ、別に～？　パーティーまで暇だったから、お兄ちゃんと遊んで過ごそうかと思って",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "221ad9cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そっか……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "17a5edef",
+      "speaker": "",
+      "ja": "明確な理由を口にしなかったことに{G_PlayerName}は少し疑問を抱くが、どこかソワソワしているグリムの様子を見て気づいた。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "6009e1a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ははーん……）",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "3b3d2ba2",
+      "speaker": "",
+      "ja": "恐らく、グリムは初めて着た服を真っ先に自分に見て欲しかったのだろう。その証拠に、服をチラチラと広げてはこちらに視線を送ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "aeab3e24",
+      "speaker": "{G_PlayerName}",
+      "ja": "（少しは期待に応えてやるか……）",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "edba6217",
+      "speaker": "{G_PlayerName}",
+      "ja": "なかなかグリムが着るタイプじゃない服だけど、そういうのも似合うんだな",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "6ebcb4c1",
+      "speaker": "グリム",
+      "ja": "えっ、そ、そう～？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "5fcc7058",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、やっぱり王女様となれば色んな服が着こなせるってことか",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "f6973203",
+      "speaker": "グリム",
+      "ja": "まっ、まあね～！　それほどでも……あるけど！",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "b9c3c879",
+      "speaker": "",
+      "ja": "グリムは満足したのか、楽しげにこちらに別の話題を振ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "739c2d09",
+      "speaker": "グリム",
+      "ja": "あっ、そうだ！　前にアタシが知らない遊びを教えてくれたでしょ？　また何か教えてよ、お兄ちゃんの星のこと！",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "d4e56da4",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　そうだな……って言っても俺も田舎の村に住んでただけだし……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "fd0e857d",
+      "speaker": "グリム",
+      "ja": "面白い機械とか作ってないの？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "3ddd866d",
+      "speaker": "{G_PlayerName}",
+      "ja": "村じゃ武器とか、プラネタリウムとか……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "9cc99bce",
+      "speaker": "グリム",
+      "ja": "へえ、プラネタリウム……あっ、星座とかあるの？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "6b4975c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あるけど……タウロス座とか……ユニコーン座とか……",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "e3d0d46e",
+      "speaker": "グリム",
+      "ja": "全然グリムの知っている星座と違う……",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "832acf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　星座ってどこの星でも同じなんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "25839de1",
+      "speaker": "グリム",
+      "ja": "全然違うよ～、見える星の位置も違うんだから！　……でも、考える星座なんて大差ないと思ってたんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "a8ce3b9c",
+      "speaker": "グリム",
+      "ja": "でも、星座を考えるって文化が共通してただけ凄いか～。何かお話とかあったりするの？　星座に",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d6543a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、あるぞ！　タウロス座が泉座に飛び込んだ飛沫が晴れた日はよく見えてな……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "c4daf1f5",
+      "speaker": "",
+      "ja": "いつのまにかグリムは小さな機械で星空……恐らく{G_PlayerName}の故郷の星空を映していた。最新の機械というものはそんなこともできるらしい。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "4b2ffc6d",
+      "speaker": "グリム",
+      "ja": "飛沫？　ああ、星雲をそう例えてるんだ？　面白～い！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "9e0a90c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、その飛沫に驚いたフェアリー座がな……聞いてるか？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "8632c0de",
+      "speaker": "グリム",
+      "ja": "聞いてる聞いてる～。それで？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "550b60d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "それでな……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "8366ba34",
+      "speaker": "",
+      "ja": "そんなことを話しているうちにパーティーの時間が近づいてきた。",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "bb4eedd5",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おっ、そろそろ時間だな",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "9ad035ac",
+      "speaker": "グリム",
+      "ja": "え～～～っ、もうそんな時間なの～？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "966466e8",
+      "speaker": "グリム",
+      "ja": "まあいっか、気分転換にはなったし……ありがとね、お兄ちゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "164286da",
+      "speaker": "{G_PlayerName}",
+      "ja": "気にするな、俺も楽しかったしな",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "b3eb0f0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ、また後でな",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "7df4201f",
+      "speaker": "グリム",
+      "ja": "うんっ♥　またね、お兄ちゃん♪",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "c8471628",
+      "speaker": "",
+      "ja": "こうしてグリムの部屋を後にした{G_PlayerName}はパーティー会場へと向かうのだった。",
+      "zh": ""
+    }
+  ]
+}

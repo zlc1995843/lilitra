@@ -1,0 +1,841 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "3e170377",
+      "speaker": "グリム",
+      "ja": "うっ……ううっ……",
+      "zh": "呜……呜呜……"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "4bedfa47",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ、グリム……具合が悪そうだけど……",
+      "zh": "怎么了，格林……你脸色不太好啊……"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "a3bdbfdb",
+      "speaker": "",
+      "ja": "パーティーの最中、体調が悪そうなグリムを心配して{G_PlayerName}が声をかける。",
+      "zh": "{G_PlayerName}在派对进行中，担心状态不佳的格林，向她搭了话。"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "d328e3a0",
+      "speaker": "グリム",
+      "ja": "ちょっと……調子悪いかも……",
+      "zh": "有点……身体不太舒服……"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "170df5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か？",
+      "zh": "你没事吧？"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "11a58767",
+      "speaker": "",
+      "ja": "心配する{G_PlayerName}にグリムは甘えるように体を預けながらか細い声で囁いた。",
+      "zh": "格林像撒娇似的靠在担心的{G_PlayerName}身上，用虚弱的声音低语。"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "7f22416b",
+      "speaker": "グリム",
+      "ja": "少し休みたい……どこか空いている部屋とか……ないかな？",
+      "zh": "想稍微休息一下……有没有什么空房间之类的？"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "3ba38f33",
+      "speaker": "{G_PlayerName}",
+      "ja": "空いている部屋か……ちょっと探してみよう……",
+      "zh": "空房间啊……我找找看……"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "768443aa",
+      "speaker": "グリム",
+      "ja": "う、うん……",
+      "zh": "嗯、嗯……"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "21b64c9b",
+      "speaker": "",
+      "ja": "{G_PlayerName}はグリムの体を支えつつ、空いている部屋を探す。",
+      "zh": "{G_PlayerName}一边扶着格林，一边找空房间。"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "bbd2a875",
+      "speaker": "",
+      "ja": "幸いなことにすぐに空き部屋は見つかり、そこに{G_PlayerName}はグリムと共に入った。",
+      "zh": "运气不错，很快就找到了一间空屋，{G_PlayerName}和格林一起走了进去。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "82827a72",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここなら少し休んでも……",
+      "zh": "在这儿就能稍微休息一下了……"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "cbbb9570",
+      "speaker": "",
+      "ja": "そう言ってグリムを休ませようとした時、不意に彼女の手が{G_PlayerName}の股間へと伸びてきて、ズボンの上から股間を鷲づかみにしてくる。",
+      "zh": "话音刚落，刚想让格林躺下，她的手却突然伸向{G_PlayerName}的胯下，隔着裤子一把攥住了那里。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "1b404140",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっ……グリム？！",
+      "zh": "等等……格林！？"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "84468c64",
+      "speaker": "",
+      "ja": "いきなりのことに慌てる{G_PlayerName}を見て、グリムは先程までとは打って変わってニヤニヤと笑いながら囁きかけてきた。",
+      "zh": "见{G_PlayerName}被这突如其来的举动弄得不知所措，格林一改方才的样子，坏笑着凑过来低语。"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "7b5f14ee",
+      "speaker": "グリム",
+      "ja": "最近色々あったし、溜まってるんじゃないの～♥",
+      "zh": "最近发生了不少事，憋坏了吧～♥"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "b2e33ab0",
+      "speaker": "",
+      "ja": "悪戯っ子っぽくそう言ったグリムは、そのまま{G_PlayerName}のズボンとパンツを一気に下ろすと、露わになった性器を手袋を着けた手で握ってくる。",
+      "zh": "格林像恶作剧的孩子一样说完，一口气把{G_PlayerName}的裤子和内裤一起扒下，用戴着手套的手握住了裸露出来的性器。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "56e50ead",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁぁぁぁ！？",
+      "zh": "呜哇啊啊啊啊！？"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "f4322cb5",
+      "speaker": "",
+      "ja": "ズボンの上から刺激を受けていた{G_PlayerName}の陰茎はすっかり勃起してしまっていた。",
+      "zh": "隔着裤子受了刺激，{G_PlayerName}的阴茎早已完全勃起。"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "ffcb64e",
+      "speaker": "",
+      "ja": "それを見てグリムは舌舐めずりをしながら呟く。",
+      "zh": "格林见状舔了舔嘴唇，呻吟道。"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "bacf599a",
+      "speaker": "グリム",
+      "ja": "ほ～ら、やっぱりおちんちんガチガチじゃん♥",
+      "zh": "看吧～果然你的小弟弟硬邦邦的嘛♥"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "45f89681",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おいっ！　いきなりなにするんだよ！　調子が悪かったんじゃないのか？！",
+      "zh": "喂、喂！你突然搞什么啊！不是说不舒服吗？！"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "d6a8d9be",
+      "speaker": "",
+      "ja": "かなり動揺する{G_PlayerName}に構うことなくグリムは反り返っているおちんちんを見つめながら、からかうように言った。",
+      "zh": "格林完全没理会慌张的{G_PlayerName}，盯着那根翘起来的肉棒，戏弄似的说道。"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "8c481e2d",
+      "speaker": "グリム",
+      "ja": "どーせ、アタシのドレス姿を見て興奮しちゃったんでしょ♥",
+      "zh": "反正啊，就是看到我穿礼服的样子兴奋起来了吧♥"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "a60486d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違う……グリムが触ったから……",
+      "zh": "不、不是……是因为你摸了……"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "ed675678",
+      "speaker": "グリム",
+      "ja": "ふふふっ♥　アタシのせいで勃起しちゃったんだったら……アタシが処理してあげないとね♥",
+      "zh": "哼哼♥ 要是因为我才硬起来的话……那就得由我来好好处理才行呢♥"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "57d6551f",
+      "speaker": "",
+      "ja": "そう言うとグリムは手にしたおちんちんをゆっくりとしごき始める。",
+      "zh": "说完，格林便开始慢慢地套弄起手中的肉棒。"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "35d4f83c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あっ……ああっ……",
+      "zh": "唔……啊……啊啊……"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "77804d88",
+      "speaker": "",
+      "ja": "グリムの手が動き出すと{G_PlayerName}は身悶えながら情けない声を漏らしてしまった。",
+      "zh": "格林的手一动起来，{G_PlayerName}就忍不住扭着身子漏出丢人的声音。"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "8a3dc08a",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を見たグリムはニヤニヤしながらからかうように囁きかける。",
+      "zh": "看到这副模样的{G_PlayerName}，格林坏笑着凑过来低声戏弄。"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ae8f9244",
+      "speaker": "グリム",
+      "ja": "手袋してるから気持ちいいでしょ？♥　ただでさえお兄ちゃんのおちんちんヨワヨワだから……簡単にイっちゃうんじゃな～い？♥",
+      "zh": "戴着手套很舒服对吧？♥ 再说哥哥的鸡鸡本来就弱……随随便便就会射出来吧～？♥"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "711ed5e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "グ、グリム……やめっ……あうぅっ……",
+      "zh": "格、格林……住手……啊呜……"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "460a7825",
+      "speaker": "グリム",
+      "ja": "まあ、アタシ的にはどんどんイっちゃってもいいんだけどね～♥",
+      "zh": "不过嘛，我自己倒是随便你射多少都无所谓就是了～♥"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "93a93ead",
+      "speaker": "",
+      "ja": "楽しそうにそう言いながらグリムは勃起した{G_PlayerName}のおちんちんをしこしことしごき続けた。",
+      "zh": "格林一边乐呵呵地说着，一边不停套弄着{G_PlayerName}勃起的肉棒。"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "b037ed",
+      "speaker": "",
+      "ja": "その度に手袋の布地が陰茎に擦れてゾクゾクする快感を{G_PlayerName}に与え続ける。",
+      "zh": "手套的布料每次擦过茎身，都会给{G_PlayerName}带来一阵阵酥麻的快感。"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "c874c25e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ぐっ……このままだと",
+      "zh": "……唔……这样下去"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "ab4654f",
+      "speaker": "",
+      "ja": "すぐに込み上げてくる快感に襲われた{G_PlayerName}は、歯を食いしばり必死に堪えた。",
+      "zh": "快感来得太猛，{G_PlayerName}咬紧牙关拼命忍着。"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "4b2d5b6d",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}をもてあそぶようにグリムは徐々に手の動きを速めていった。",
+      "zh": "格林像是在玩弄{G_PlayerName}似的，手速越来越快。"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "4e1f970",
+      "speaker": "グリム",
+      "ja": "ほ～ら♥　しこしこ～♥　しこしこ～♥　うふふっ、どんどん大きくなって……ビクンビクンしてる♥",
+      "zh": "看～♥ 撸啊撸～♥ 撸啊撸～♥ 唔呵呵，越来越大了……还一跳一跳的♥"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "66e48841",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅっ……あうっ……ぅぅぅううっ……",
+      "zh": "唔……啊……呜呜呜……"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "eff336a1",
+      "speaker": "グリム",
+      "ja": "手で直接しごかれるよりも手袋を着けた手でしごかれるとたまらないでしょ♥　ほらほら、お兄ちゃん……イっちゃっていいんだよ♥",
+      "zh": "比起直接用手，被戴着手套的手弄，更让人受不了吧♥　来来，哥哥……射出来也可以哦♥"
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "9ce3ccfb",
+      "speaker": "",
+      "ja": "煽るようにそう囁きつつグリムは{G_PlayerName}の陰茎を何度も擦る。",
+      "zh": "格林一边挑逗地低语，一边反复摩擦{G_PlayerName}的肉棒。"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "ca2b651",
+      "speaker": "",
+      "ja": "その度にしごかれている陰茎は上下に跳ね、先っぽからは先走りの汁が溢れ出た。",
+      "zh": "每撸动一下，肉棒就上下弹跳，前端渗出了前液。"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "1041c4a8",
+      "speaker": "グリム",
+      "ja": "くんくん♥　くさいお汁が溢れてきてる♥　もうそろそろどぴゅどぴゅってお漏らししちゃうかなぁ？♥",
+      "zh": "嗅嗅♥　骚臭的汁液都流出来了♥　是不是快要憋不住噗噗射了？♥"
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "b81b1156",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あっ……んんんっ……くぅぅ……",
+      "zh": "啊……啊……嗯嗯嗯……呜……"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "2e02d817",
+      "speaker": "グリム",
+      "ja": "お兄ちゃん、なに我慢してるの？♥　出したかったらびゅるるって出しちゃえばいいじゃない♥　ほら♥　ほら♥",
+      "zh": "哥哥，你在忍着干嘛呢？♥　想射就噗嗤噗嗤射出来不就行了♥　来♥　来♥"
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "ba520089",
+      "speaker": "",
+      "ja": "そう言いながらグリムは{G_PlayerName}を射精へと追い込むように陰茎をしごく手の動きを速めていく。",
+      "zh": "格林一边说着，一边加快手上的动作，像是要把{G_PlayerName}逼到射出来。"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "18464ed9",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}は堪えきれなくなり小さく腰を跳ねさせた。",
+      "zh": "在这刺激下，{G_PlayerName}再也忍不住，腰轻轻弹动了一下。"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "9f0d132",
+      "speaker": "グリム",
+      "ja": "お兄ちゃん、無駄な抵抗はやめて出しちゃえ♥　しこしこしこしこしこっ！",
+      "zh": "哥哥，别挣扎了，赶紧射出来♥　撸撸撸撸撸！"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "145bb025",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もう……出る……くぅぅっ！",
+      "zh": "不、不行了……要射了……呜！"
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "6d7d907a",
+      "speaker": "",
+      "ja": "限界に達した{G_PlayerName}は呻き声を漏らすと同時に空中に向けて勢いよく精液を放ってしまう。",
+      "zh": "{G_PlayerName}到达极限，呻吟的同时向着空中猛地射出了精液。"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "5416e252",
+      "speaker": "グリム",
+      "ja": "出た出たっ♥　どぴゅどぴゅって出てるっ♥　うふふふふっ♥",
+      "zh": "射了射了♥　噗嗤噗嗤地射出来了♥　唔呼呼呼♥"
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "533f71f0",
+      "speaker": "",
+      "ja": "噴き上がるザーメンを見てグリムはすごく楽しそうにそう呟きながら、しこしこと陰茎をしごき続けた。",
+      "zh": "看着喷涌出来的精液，格林非常开心地低语着，继续撸动着肉棒。"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "9ed61bc2",
+      "speaker": "",
+      "ja": "その度に{G_PlayerName}のおちんちんから断続的に精液が迸ってしまう。",
+      "zh": "每一下，{G_PlayerName}的肉棒就断续地喷出精液。"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "89571d0f",
+      "speaker": "グリム",
+      "ja": "くすくす♥　やっぱり簡単にイっちゃったね～♥　すべすべの手袋でしこしこされて、我慢できなかったんでしょ？♥",
+      "zh": "嘿嘿♥　果然一下子就射了呢～♥　被滑溜溜的手套撸着，没忍住对吧？♥"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "fd43c30e",
+      "speaker": "",
+      "ja": "からかうようにそう言いながらグリムは尿道に残っている精液まで搾り出すように肉竿をしごき続けた。",
+      "zh": "格林一边戏弄地说着，一边继续撸动肉棒，要把残留在尿道里的精液都挤出来。"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "228df0cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あっ……あうぅっ……",
+      "zh": "啊……啊……啊呜……"
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "f823db62",
+      "speaker": "",
+      "ja": "{G_PlayerName}は最後の一滴までグリムの手によって精液を搾り出され息も絶え絶えになってしまう。",
+      "zh": "{G_PlayerName}被格林榨干了最后一滴精液，变得气喘吁吁。"
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "50945717",
+      "speaker": "",
+      "ja": "しかしグリムは射精を終えても陰茎を離さず、ギュッと握ったまま{G_PlayerName}に語りかけた。",
+      "zh": "然而格林即使射完了也不松开肉棒，依然紧紧握着，对{G_PlayerName}说道。"
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "924b74ac",
+      "speaker": "グリム",
+      "ja": "ほらほら♥　一回じゃ足りないでしょ？♥",
+      "zh": "你看你看♥　一次不够吧？♥"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "de7f30b7",
+      "speaker": "",
+      "ja": "グリムは笑みを浮かべながら射精し終えたばかりのおちんちんを、すぐにまた手袋を着けた手で擦り始める。",
+      "zh": "格林微微一笑，又用戴着手套的手开始揉搓刚刚射完精的肉棒。"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "c6455cb1",
+      "speaker": "グリム",
+      "ja": "くすくす♥　まだまだ硬い♥　それにビクビクしちゃって♥",
+      "zh": "嘻嘻♥ 还是这么硬♥ 而且还一抖一抖的呢♥"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "c38d6379",
+      "speaker": "",
+      "ja": "{G_PlayerName}の射精を見て興奮したのかグリムは顔を赤らめつつ少し息を荒げながら陰茎をしこしこしごいていった。",
+      "zh": "看到{G_PlayerName}射精后兴奋起来的格林，红着脸，微微喘息着，用手撸动着阴茎。"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "b6b8b348",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}のおちんちんは、萎える暇なく反り返っていってしまう。",
+      "zh": "在这种刺激下，{G_PlayerName}的小弟弟毫无疲软的空隙，反倒高高翘起。"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "ef739a",
+      "speaker": "グリム",
+      "ja": "はぁはぁ♥　ほらほら……我慢しないでもう一回イっちゃいなよ♥",
+      "zh": "啊哈啊哈♥ 来嘛……别忍着，再射一次嘛♥"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "2ec35e46",
+      "speaker": "",
+      "ja": "激しく陰茎を手袋の布地が擦り上げてくる感触に、イったばかりの{G_PlayerName}は呻き声を漏らしつつ悶えた。",
+      "zh": "手袋的布料猛烈搓弄着阴茎的触感，让刚射完的{G_PlayerName}不禁呻吟出声，痛苦地扭动着。"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "30105479",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……気持ちよすぎる……",
+      "zh": "唔……太爽了……"
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "f5d72509",
+      "speaker": "",
+      "ja": "裏スジを撫で上げられくびれを指先で捏ね回されると、{G_PlayerName}は大きな快感に足を小刻みに震わせ始める。",
+      "zh": "敏感的冠状沟被反复爱抚，又被指尖揉捏，{G_PlayerName}在巨大的快感中，双腿开始微微发颤。"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "eaac84e2",
+      "speaker": "グリム",
+      "ja": "しこしこ～♥　すぐに２回目出しちゃいそうでしょ？♥　手袋でおちんちん擦られたら……我慢できないでしょ？♥",
+      "zh": "撸啊撸～♥ 是不是感觉马上要射第二次了？♥ 被手帕擦着小弟弟……根本忍不住吧？♥"
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "86c23f1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……あうぅぅ……",
+      "zh": "哈啊……哈啊……哈啊……嗷呜……"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "3f2d9327",
+      "speaker": "グリム",
+      "ja": "もう、おちんちんが脈打ってる♥　ほら、もっと激しくしごいてあげるね♥　んしょんしょ♥",
+      "zh": "看，小弟弟在跳动呢♥ 来，我再撸狠一点♥ 嗯咻嗯咻♥"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "2fb65d6e",
+      "speaker": "",
+      "ja": "グリムは楽しそうにそう言いながら手の動きを徐々に速めていった。",
+      "zh": "格林开心地说着，手上的动作渐渐加快。"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "a3e3140d",
+      "speaker": "",
+      "ja": "その度に{G_PlayerName}は再び込み上げてくる感覚に襲われていく。",
+      "zh": "每次，{G_PlayerName}都被再次涌上的快感所淹没。"
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "51920cc7",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんのおちんちん、さっき出した精液でぬるぬる♥　さっきよりもしこしこしやすくなってるよ♥",
+      "zh": "哥哥的小弟弟，被刚才的精液弄得滑溜溜的♥ 比刚才更好撸了呢♥"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "dc313bb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに擦られたら……うぅ……くっ……うぅぅぅっ……",
+      "zh": "这么摩擦的话……唔……呜……呜呜……"
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "d01d84e1",
+      "speaker": "",
+      "ja": "グリムの手が上下する度に込み上げてくる感覚は大きくなっていった。",
+      "zh": "格林的手每上下一次，涌上的快感就愈发强烈。"
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "5374cffa",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}をイカせる為にグリムは陰茎を激しくしごき先っぽを指先で転がすように刺激する。",
+      "zh": "为了让这样的{G_PlayerName}射出来，格林激烈地撸动阴茎，并用指尖揉弄龟头。"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "64e0c999",
+      "speaker": "グリム",
+      "ja": "しこしこ♥　くりくり♥　そろそろ出しちゃうかな？　お兄ちゃん♥",
+      "zh": "撸啊撸♥ 揉啊揉♥ 差不多要射了吧？哥哥♥"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "27c09f4e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あっ……ああっ……",
+      "zh": "啊……啊……啊啊……"
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "b8a07c62",
+      "speaker": "",
+      "ja": "激しく擦り上げ続けられたおちんちんは、グリムの手の中で強く跳ねた。",
+      "zh": "被持续激烈揉搓的肉棒，在格林的手中猛烈弹跳。"
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "fd6481e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダメだ……また出る……くっ……ぅぅぅっ！",
+      "zh": "不行了……又出来了……可恶……呜呜呜！"
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "e5865f7c",
+      "speaker": "",
+      "ja": "堪えきれずに{G_PlayerName}は再び白濁した精液を勢いよく放ってしまう。",
+      "zh": "忍耐不住，{G_PlayerName}再次猛然射出白浊的精液。"
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "857d72fc",
+      "speaker": "グリム",
+      "ja": "きゃっ！♥",
+      "zh": "呀啊！♥"
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "38195194",
+      "speaker": "",
+      "ja": "噴き上がるザーメンが顔にかかりグリムは短い悲鳴を上げるが、それでも全て搾り取るように手を動かし続けた。",
+      "zh": "喷涌的精液溅到脸上，格林发出一声短促的尖叫，但她的手仍不停歇，仿佛要把一切榨干。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "8fcb0e74",
+      "speaker": "{G_PlayerName}",
+      "ja": "あううっ！　うっ……うぅっ！",
+      "zh": "啊呜！呃……呜！"
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "a77f7219",
+      "speaker": "",
+      "ja": "しごかれる度に{G_PlayerName}のおちんちんは上下に跳ね、何度も精液をどぴゅどぴゅと出してしまう。",
+      "zh": "每次被撸，{G_PlayerName}的那话儿便上下弹跳，接二连三地“噗噗”射出精液。"
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "4db82f68",
+      "speaker": "",
+      "ja": "それを面白がるようにグリムは陰茎を擦りながら笑みを浮かべて呟いた。",
+      "zh": "格林似乎觉得有趣，一边擦着阴茎，一边浮现笑意喃喃说道。"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "3334d376",
+      "speaker": "グリム",
+      "ja": "くすくす♥　やっぱり我慢できなかったねぇ♥　アタシにいいようにされちゃって、情けな～い♥",
+      "zh": "嘻嘻♥ 果然还是憋不住嘛♥ 被我弄得这么狼狈，真没用呀～♥"
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "39676d8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……ううっ……",
+      "zh": "咳……呜呜……"
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "73dfadc5",
+      "speaker": "",
+      "ja": "そのまま{G_PlayerName}は為す術なく全ての精液をグリムに搾り取られて果ててしまう。",
+      "zh": "就这样，{G_PlayerName}毫无招架之力，被格林榨干精液、丢盔卸甲。"
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "26e30075",
+      "speaker": "グリム",
+      "ja": "２回目なのにこんなにいっぱい出しちゃって♥　お兄ちゃん溜めすぎ～♥　くすくすくす♥",
+      "zh": "才第二次就射了这么多♥ 哥哥憋得太久了～♥ 嘻嘻嘻♥"
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "6cf9f7cd",
+      "speaker": "",
+      "ja": "グリムに二度もイカされ、からかわれた{G_PlayerName}は激しく憤ってきた。",
+      "zh": "被格林连续两次弄到高潮，还被揶揄，{G_PlayerName}气得不轻。"
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "1995c984",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそっ……さんざん煽りやがって……今に見てろよ……！",
+      "zh": "可恶……这么煽风点火……你给我等着瞧……！"
+    }
+  ]
+}
