@@ -1,0 +1,967 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "cdf8a9d3",
+      "speaker": "ルミナ",
+      "ja": "ふふ……♪",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "2eaaca66",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか今日は一段と機嫌がいいな？　おめかししてるからか？",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "1c83adbe",
+      "speaker": "ルミナ",
+      "ja": "……む、{G_PlayerName}くんとお出かけできるから嬉しいの",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "88578627",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか、すまん……てっきり着飾っているのが嬉しいんだとばかり思ってた",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "ef308bdc",
+      "speaker": "ルミナ",
+      "ja": "ふふ……{G_PlayerName}くん、顔真っ赤だよ……♪",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "95d9a347",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃルミナにそんなこと言われたら照れるって……！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "d1057d93",
+      "speaker": "",
+      "ja": "せっかくのおめかしをしたのでと、俺たちはあっちこっちを見て回っていた。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "410a8117",
+      "speaker": "",
+      "ja": "でも俺の頭の中には街のことなど全然入らず……",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "b725866a",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "4299b8ce",
+      "speaker": "",
+      "ja": "お店を見るよりもルミナを見ていたい、そんな想いから着飾ったルミナをチラチラと見てしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "fa7b2849",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、行きたいお店とかない？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "6987152b",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……特にはなぁ……なんていうか俺には無縁そうなものばかりというか……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "a55a083d",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも一つだけ気になることはあるんだよな",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "83f5d4d6",
+      "speaker": "ルミナ",
+      "ja": "気になること……？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "b322bb0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺普段着のままだろ？　こんな格好で着飾ったルミナの隣に立ってても大丈夫か……？",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "6652a5ff",
+      "speaker": "",
+      "ja": "ウィンドウに映る俺とルミナの姿。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "44194983",
+      "speaker": "",
+      "ja": "着飾ったルミナの隣に俺がいるのは不自然に思え、少し気後れしてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "e2876d42",
+      "speaker": "ルミナ",
+      "ja": "大丈夫だよ、どんな格好でもあなたはカッコいいから……♥",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "bca5dce6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……でも、なぁ……やっぱり少し気になるんだよな……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "ed642f4f",
+      "speaker": "ルミナ",
+      "ja": "それなら{G_PlayerName}くんの服、探す？　ちょうどそこに男性もののアパレルショップがあるし",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "91ff9871",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも俺に似合う服とかあるかな？　とはいえ、このままじゃやっぱ気になるし……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "4f561d7a",
+      "speaker": "ルミナ",
+      "ja": "それなら善は急げ、だよ。私も手伝うから一緒に似合う服探そう？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "4b78a235",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナが手伝ってくれるなら良いの見つかるかもな……じゃあ行くか",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "98ad4e2d",
+      "speaker": "ルミナ",
+      "ja": "うんっ",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "7c19380d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり服のこととかよくわからんな……）",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "74eeb1dc",
+      "speaker": "",
+      "ja": "俺とルミナは二手に分かれ店内を見物する。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "dae062ea",
+      "speaker": "",
+      "ja": "着飾ったルミナの隣にいても問題ない服を探そうとするが、服に関して無頓着なためにどれも同じに見えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "a28153c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（下手な物は選べないよな……物によっちゃルミナにドン引きされるかもだし）",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "afe88d5a",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、好みの服あった？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "6c96032e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、正直わかんなくて……って！？　ルミナ、どれだけ服抱えてんだよっ！？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "408dcfd",
+      "speaker": "",
+      "ja": "振り返ると、ルミナは小さな身体が隠れるほど大量の服を両手に抱えていた。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "d280d786",
+      "speaker": "",
+      "ja": "慌てて服を半分受け取ると、ルミナの身体が見えて一安心する。",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "f61dd349",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんに似合いそうな服、一通り持ってきちゃった",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "a91c8967",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはありがたいけど、あまり無理はしないでくれよ？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "6660aa62",
+      "speaker": "ルミナ",
+      "ja": "大丈夫だよ、このくらい",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "c466f442",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもルミナが選んでくれた服か……ならこの中から選ぶか",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "738c79aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "正直自分の目で見てもどういうのが良いのかさっぱりだ……俺も少しはファッションの勉強した方がいいよな……",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "bb663a7a",
+      "speaker": "ルミナ",
+      "ja": "でも私は機械いじりをしている{G_PlayerName}くんの方がいいな",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "61b96d22",
+      "speaker": "ルミナ",
+      "ja": "すごく楽しそうだし、見ているこっちも楽しくなってくるから",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "2c2ccb84",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら今後はファッション関係はルミナに全部お任せかな？　ルミナの自由に俺を着飾ってくれよ",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "60790974",
+      "speaker": "ルミナ",
+      "ja": "ふふっ♪　そんなこと言って、いいの？　いろいろ着せちゃうかもよ？",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "4fe52fc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁあまり変なのは勘弁してくれよ？　えっと、じゃあどれがいいかな……",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "7d51733",
+      "speaker": "ルミナ",
+      "ja": "あ、試着もできるよ？　あなたが色んな服着てるとこ、見たい、な",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "c08ef9a4",
+      "speaker": "",
+      "ja": "ルミナに可愛く上目遣いにおねだりされ、思わず胸がドキっと高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "40d86c3d",
+      "speaker": "",
+      "ja": "顔がどんどん熱くなっていくが、それを誤魔化すように俺はコクコクと何度も頷く。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "4198046f",
+      "speaker": "ルミナ",
+      "ja": "じゃあ最初はどれから着る？　サイズはたぶん問題ないと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "79570b03",
+      "speaker": "{G_PlayerName}",
+      "ja": "とりあえず一通り着てみるよ",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "ff7bc3bd",
+      "speaker": "",
+      "ja": "俺はルミナが抱えていた残りの半分を受け取る。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "3f3e96a3",
+      "speaker": "",
+      "ja": "たくさんの服を汚さないようにと慎重に試着室に足を運んだ。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "7e1e985c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……さて、色々あるけど何から行くか",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "7ff5c2af",
+      "speaker": "ルミナ",
+      "ja": "──シンプルにフォーマルウェア？",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "850ea562",
+      "speaker": "{G_PlayerName}",
+      "ja": "──って！？　ルミナ！？　な、なんで試着室にいるんだよっ？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "cc91f680",
+      "speaker": "ルミナ",
+      "ja": "外で待ってるの寂しいし、毎回出てきてもらうのも申し訳ないから……",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "ce9b9db",
+      "speaker": "ルミナ",
+      "ja": "こっそりついてきちゃった",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "99af0201",
+      "speaker": "{G_PlayerName}",
+      "ja": "こっそりって……全然気づかなかったぞ",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "7d14caaf",
+      "speaker": "ルミナ",
+      "ja": "ぴったり後ろにいたからね",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "d9c777cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……今日のルミナは色々と大胆で積極的だな",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "68bb0db2",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもありがとうな、色々気遣ってくれて",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "ca4f36e",
+      "speaker": "ルミナ",
+      "ja": "ふふ、気にしないで。全部私が勝手にやったことだから……じゃあ最初はフォーマルから……",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "80fa6902",
+      "speaker": "",
+      "ja": "──１時間後",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "6ff4070a",
+      "speaker": "",
+      "ja": "一着ずつ服を着てはルミナに品評してもらう。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "2cba582",
+      "speaker": "",
+      "ja": "試着室での二人っきりのファッションショーに、ルミナは普段以上にテンションが高かった。",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "61c6fb2d",
+      "speaker": "",
+      "ja": "ルミナが喜ぶからと俺も積極的になり色々と着たが……",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "429c2e80",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……結局どれが一番いいんだ？",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "f7c6b7fc",
+      "speaker": "ルミナ",
+      "ja": "正直なところ、どれも似合っていて……判断に迷う、かも……",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "50383a24",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんって脚が長くてスタイルがいいから、なんでも着こなせちゃうんだね",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "43d1d8de",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは長所と言っていいのか？　でも一つに絞らないと、な……さて、どうするか",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "832671f8",
+      "speaker": "ルミナ",
+      "ja": "……全部買っちゃう？　一つに絞るのは大変だから",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "e614a8c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "全部、か……そういえば俺値段とか全然気にしてなかったけど……ってええええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "4fc69543",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだこの値段っ！？　こんなに高いのか！？",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "4e4eadc8",
+      "speaker": "ルミナ",
+      "ja": "……全部有名なブランド服、だからね。そんな服を着こなせるなんて{G_PlayerName}くん素敵だよ♪",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "73325275",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう言われるのは嬉しいけど、さ……これはさすがに……こんなの全部買ったらアポロも雫も怒るだろ……？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "cd769194",
+      "speaker": "ルミナ",
+      "ja": "私からのプレゼントって言ったら二人は許してくれるかな……？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "375a0b89",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロは言いくるめられそうだけど、雫はさすがに……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "6882ae7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナからこんなに大量の、高級ブランドの服をプレゼントされたなんて知られたら……）",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "cdd54541",
+      "speaker": "",
+      "ja": "想像するだけで背中に変な汗が滲んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "6f7392d9",
+      "speaker": "ルミナ",
+      "ja": "でもやっぱり一つに絞るのは……どれも似合うし、全部買お……？　お金なら大丈夫だから",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "7bb7dea5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうは言ってもなぁ……あ、最後にこっちのもう一度着てみるか……ちょっと気になってたんだよな",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "cd6e3475",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんが一つに絞りたいんだったら構わないけど……でもレストランの予約時間もうすぐだから、あまり時間かけないでね",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "e6b14a63",
+      "speaker": "",
+      "ja": "ネクタイを外そうとした瞬間、上目遣いにじっと俺を見つめるルミナ。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "2a9ad922",
+      "speaker": "",
+      "ja": "さっきまで特にルミナの視線を気にしてはいなかったけど……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "3c2c7b5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか普段の調子でルミナと話してたけど、こんな間近で着替えてるとこ見られていたのか……）",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "fca76a2f",
+      "speaker": "",
+      "ja": "急に我に返り、ルミナの視線を意識してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "1a2eb147",
+      "speaker": "",
+      "ja": "ちらっとルミナの方に視線を向けると、ルミナの頬が紅く染まり、ほてっているのが傍目からでもわかってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "b99b47a3",
+      "speaker": "",
+      "ja": "照れながらも俺を見つめるルミナの姿に恥ずかしさがこみ上げ、全身から汗が噴き出す。",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "9b6f3bc3",
+      "speaker": "",
+      "ja": "俺は手をうちわ代わりにヒラヒラとさせ、少しでも身体から熱を逃がした。",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "fb5d9198",
+      "speaker": "{G_PlayerName}",
+      "ja": "さ、さすがに試着室に二人ってのは……なんていうか、暑い、よな",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "f319d16",
+      "speaker": "ルミナ",
+      "ja": "そ、そう、だね……ごめんなさい、勝手に試着室に入っちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "20a3f785",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ、なんだ、ずっと一緒にいたんだから、今さら……ではあるけど……",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "1ff93e3c",
+      "speaker": "",
+      "ja": "俺達は互いを意識してしまい、さっきまで普通に話していたのがウソのように言葉がつながらなくなってしまう。束の間の沈黙が、俺達をより意識させていく。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "7964c7db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……！",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "a5bf46d",
+      "speaker": "ルミナ",
+      "ja": "は、はい……なに……？",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "65d02abf",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすがにここだとマズイから、帰ってからたくさんしよう、な？　レストランにも行かなきゃだしさ",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "e316351",
+      "speaker": "ルミナ",
+      "ja": "うん……♥",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "82a1c66b",
+      "speaker": "ルミナ",
+      "ja": "……本当にお洋服ひとつだけで良かった？",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "f70a27cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、これが一番自分に似合うかなって……ごめんな、色々選んでもらったのにさ",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "fd73d08e",
+      "speaker": "ルミナ",
+      "ja": "ううん、気にしないで。{G_PlayerName}くんが一番良いと思ったのが、私にとっても一番だと思うから",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "546eb062",
+      "speaker": "ルミナ",
+      "ja": "でも本当に似合ってるよ……普段の{G_PlayerName}くんも良いけど、おめかしした{G_PlayerName}くんも素敵……♥",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "ad653c09",
+      "speaker": "{G_PlayerName}",
+      "ja": "これならルミナの隣に堂々といられるな。よし、じゃあレストランに行くか！",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "780c6540",
+      "speaker": "ルミナ",
+      "ja": "……あっ♥",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "d28caba9",
+      "speaker": "",
+      "ja": "服装一つで俺の中にあったルミナに対する気後れ感が一切なくなっていた。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "27251783",
+      "speaker": "",
+      "ja": "自信を持ってルミナの隣にいられる、その気持ちが俺をいつも以上に積極的にさせていた。",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "51290686",
+      "speaker": "ルミナ",
+      "ja": "ねぇ、知ってる？　指と指を重ね合わせて手を繋ぐのって、恋人繋ぎって言うんだよ？♥",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "a4b8ce32",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、知ってる",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "90e227cd",
+      "speaker": "ルミナ",
+      "ja": "それなら良かった……♥　じゃあ行こ？♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "90622a4d",
+      "speaker": "",
+      "ja": "俺達は手を繋ぎながらレストランへと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "8f09270b",
+      "speaker": "",
+      "ja": "帰ってからの楽しみも増え、気を取り直してその日をルミナと楽しむのであった。",
+      "zh": ""
+    }
+  ]
+}
