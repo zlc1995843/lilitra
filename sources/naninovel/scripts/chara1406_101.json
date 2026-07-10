@@ -1,0 +1,364 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "f46e20a5",
+      "speaker": "レパル",
+      "ja": "このルートを通ると安全だと思います……多分……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "58fb3c16",
+      "speaker": "",
+      "ja": "イビリアと荷物を運ぶためのルート会議を開いていたレパルは自信なさげにそう言った。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "7945bebf",
+      "speaker": "イビリア",
+      "ja": "おいおい、多分って……このルートって不安定なワームホールを通るんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "91387f7c",
+      "speaker": "レパル",
+      "ja": "う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "1273f0c6",
+      "speaker": "イビリア",
+      "ja": "ミスったら虚空の彼方へ、さようなら～ってこともあり得るんだろ……？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "19bc99d4",
+      "speaker": "レパル",
+      "ja": "そ、そうだけど……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "67d3ad68",
+      "speaker": "イビリア",
+      "ja": "そんな自信なさげだと困るんだよ～！　命かかってるんだぞっ！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "b4449511",
+      "speaker": "イビリア",
+      "ja": "ったく、バブりを中止してお前を手伝ってやるって言ってるのに……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "af9e5faf",
+      "speaker": "",
+      "ja": "レパルの態度にイビリアが詰め寄った。するとレパルは益々自信なさげになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "b2e450f6",
+      "speaker": "レパル",
+      "ja": "そ、そう言われても……確証がもてなくて……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "5febae32",
+      "speaker": "",
+      "ja": "もじもじしながらそう答えるレパルに対して{G_PlayerName}は助け船を出すように会話に加わった。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "3061e133",
+      "speaker": "{G_PlayerName}",
+      "ja": "レパルの能力は本物なんだから、そんなに怯えなくても大丈夫だろ、俺は信用しているよ",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "a603b79",
+      "speaker": "",
+      "ja": "そんな励ましの言葉に不安げだったレパルの表情が少し和らぐ。緊張感が少しなごんだところで、{G_PlayerName}は疑問に思ったことを口にした。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "adef53fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても……いつもこんな危険なルートを通っているのか？　そりゃあワームホールを多用すれば早く届けられるんだろうけどさ……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6ba5c1c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでそんなに必死になってお金を稼がなきゃいけないんだ？　なにか理由があったりするのか？",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "9dc740f9",
+      "speaker": "",
+      "ja": "その問いかけにレパルは少し恥ずかしそうな表情を浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "a01a6bb8",
+      "speaker": "レパル",
+      "ja": "少し前に……とある事業に失敗しちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "97e0c60a",
+      "speaker": "{G_PlayerName}",
+      "ja": "とある事業……？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "32c5e1a8",
+      "speaker": "レパル",
+      "ja": "ね、ねこカフェです……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "8ec1667e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ねこカフェ？　ってなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "542e7500",
+      "speaker": "レパル",
+      "ja": "可愛いねこと触れ合えるカフェ、です……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "25f12e0a",
+      "speaker": "イビリア",
+      "ja": "お前、スライムカフェだけじゃなくねこカフェもやってたのか……カフェしか無いのかお前のアイデアは……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "6aa51f35",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもなんで上手くいかなかったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "c40ee4c6",
+      "speaker": "レパル",
+      "ja": "うぅ、わたしがどんくさくて……ねこさんたちがみんな言うことを聞いてくれなくなっちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "9774fb80",
+      "speaker": "レパル",
+      "ja": "ごはんも高級缶詰しか食べてくれなくなって……餌代がどんどんかさんで……それで首が回らなくなっちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "ae959d2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ああ、確かにねこにも舐められそうな感じがするよな……。）",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "1045172d",
+      "speaker": "",
+      "ja": "そう思っても{G_PlayerName}は元気づけるような言葉を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "6f2297dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……そのおかげで天職に巡り会えた訳だし……結果オーライってことだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "5f18bb8b",
+      "speaker": "レパル",
+      "ja": "こ、こんなお仕事が天職なんて嫌です！　いつも危険なことばっかりなんですからねっ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "14498009",
+      "speaker": "",
+      "ja": "自らの仕事を激しく否定するレパルだが、それでもなんだかんだと危険をくぐり抜けて『星間のスピードスター』という異名まで囁かれていたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "2ff0303e",
+      "speaker": "{G_PlayerName}",
+      "ja": "なにか危険に巻き込まれそうになっても、お前なら何とかなるさ",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "c32025e2",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}が微笑みかけると、レパルの顔が嬉しそうな感じでほころんでいく。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "88ad0782",
+      "speaker": "レパル",
+      "ja": "ほ、本当ですか……？",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "4c65a934",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、だからもっと自信を持ってくれ",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "8cf349d0",
+      "speaker": "レパル",
+      "ja": "は、はい……お兄さん……お願いしますねっ♥",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "9e2cfdbb",
+      "speaker": "",
+      "ja": "レパルが心底安心した笑みを浮かべるのを見て、{G_PlayerName}はホッと胸を撫で下ろした。",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "57383e2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ会議の続きをしよう",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "3e776f9",
+      "speaker": "レパル",
+      "ja": "は、はい……！　頑張ってルートを考えますね……！",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "40b2e46a",
+      "speaker": "",
+      "ja": "{G_PlayerName}に背中を押されたレパルは気合いを入れ直してそう答える。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "a90a05bb",
+      "speaker": "",
+      "ja": "そこからレパルはイビリアと{G_PlayerName}との三人で会議を続けていくのだった。",
+      "zh": ""
+    }
+  ]
+}
