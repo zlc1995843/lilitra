@@ -1,0 +1,832 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "547c2d25",
+      "speaker": "セラ",
+      "ja": "わぁ～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "1bca2738",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　セラ、走ると危ないって！！",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "2048e14f",
+      "speaker": "",
+      "ja": "パーティー会場に入るや突然走り出すセラ。俺は慌ててその後ろを追うように歩く。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "6b2802c4",
+      "speaker": "",
+      "ja": "会場内は煌びやかに着飾った男女が、楽団の演奏に合わせるように社交ダンスを踊っていた。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "43bab648",
+      "speaker": "",
+      "ja": "ゆったりとした生演奏を背景に、優雅にステップを踏む男女。優雅に回転しながらふんわりと舞うスカート。ステップを踏み合い笑顔で踊っている。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "dd101183",
+      "speaker": "{G_PlayerName}",
+      "ja": "セラっ！　危ないっ！",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "f5b82eae",
+      "speaker": "セラ",
+      "ja": "はわわっ！！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "a93705f2",
+      "speaker": "",
+      "ja": "セラは社交ダンスに夢中になっていたのか、いきなりつまずく。俺は慌ててセラの身体を支えるように腕を掴み、転ぶのをどうにか阻止することができた。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "af1f27ef",
+      "speaker": "セラ",
+      "ja": "ふええ……ありがとうございます、{G_PlayerName}さんっ",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "e4598102",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと足元見て歩かないと危ないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "873695a3",
+      "speaker": "セラ",
+      "ja": "はーい",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "713cf3c7",
+      "speaker": "",
+      "ja": "セラは元気よく返事するが、まだどこか危なっかしかった。",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "788c16a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "──セラっ！",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "c305557a",
+      "speaker": "セラ",
+      "ja": "──へ？　はわっ！？　目の前に椅子が……！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "abd47622",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと前見て歩かないと……！",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "b37e3109",
+      "speaker": "セラ",
+      "ja": "み、見ているつもりなんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "47455984",
+      "speaker": "",
+      "ja": "セラはそう言いながらまたもキョロキョロと周囲を見渡す。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "a6a84756",
+      "speaker": "",
+      "ja": "普段は警察官をやっているが、見た目も中身も子供のまま……。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "86629037",
+      "speaker": "",
+      "ja": "しっかりしているように見えて、ドジなところは着飾っても変化することはなかった。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "671a88f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "とりあえず少し落ち着こうか？　興味あるものが多いと思うけどさ、あっちこっちキョロキョロしながら歩くのは危ないって",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "e7aa9cfe",
+      "speaker": "セラ",
+      "ja": "……わかりました",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "155fa212",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなしょげるなって。別に催しものを見るなって言ってるわけじゃないんだから。こうすれば……ほら",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "ac2aa446",
+      "speaker": "",
+      "ja": "俺はそう言うとセラの小さな手を握る。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "d3fa8eba",
+      "speaker": "セラ",
+      "ja": "ありがとうございます、{G_PlayerName}さんっ！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "82859d75",
+      "speaker": "",
+      "ja": "セラの手を握ると一瞬にして笑顔に戻り、えへへ、と満面の笑みを見せる。",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "267ae67",
+      "speaker": "セラ",
+      "ja": "次向こうの見てみたいんですけどいいですかっ？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "aef924a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、じゃあ行こうか？　慌てる必要はないからな？　時間はたっぷりあるんだから",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2fd29b2a",
+      "speaker": "セラ",
+      "ja": "はいっ！",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "71faca8",
+      "speaker": "セラ",
+      "ja": "わぁっ！？　ご馳走がいっぱいです……！",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "a0d23055",
+      "speaker": "",
+      "ja": "ぐ～～～～～～～！",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "a384bd9f",
+      "speaker": "セラ",
+      "ja": "わわ……お腹が……うう、セラ、お腹ペコペコです……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "b464fd8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ食べるか？　パーティ参加者ならビュッフェ食べ放題って聞いてるし",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "c4354bd0",
+      "speaker": "セラ",
+      "ja": "ええっ！？　これ全部食べていいんですかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "c1e8bfc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすがに全部は無理だろう？　でもいくら食べても誰にも怒られないよ",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "8fa4adb8",
+      "speaker": "セラ",
+      "ja": "やった！　それなら全種類食べないとっ！",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "5235578f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　セラ……！　行っちまった……よほど腹減ってたんだな",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "4aaccd68",
+      "speaker": "セラ",
+      "ja": "えっと……あれとこれと……それと……あっ！　これも食べたい……！",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "ac2aa4d7",
+      "speaker": "",
+      "ja": "セラはお皿を手に取ると、食べたい物を片っ端からお皿に盛りつけていく。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "806ebee6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ……！　落ち着けセラ……！",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "bd74ba30",
+      "speaker": "セラ",
+      "ja": "あ……！　これも！　あっちも……ああっ、向こうのやつも～っ！　全部全部美味しそうです～～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "8dfdcb33",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　おい、危ないって！！",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "2fe4e6ea",
+      "speaker": "",
+      "ja": "完全に目の前のご馳走に意識を奪われてしまっていたセラ。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "e22fbf6",
+      "speaker": "",
+      "ja": "お皿を持っていることなどすっかり意識から抜け落ちたのか、お皿を持っている手がゆっくりと傾く。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "e3f2a1a9",
+      "speaker": "",
+      "ja": "俺は慌てながらセラの元に走りお皿を押さえると、どうにかお皿を落とさずに済みホッと胸を撫でおろした。",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "67c74801",
+      "speaker": "セラ",
+      "ja": "はわわわ……！　ごめんなさい、{G_PlayerName}さん……",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "79df5149",
+      "speaker": "{G_PlayerName}",
+      "ja": "謝らなくてもいいって。とりあえず落ち着こう？　なんでもかんでも一枚の皿に乗せようとするなって",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "51dae6a4",
+      "speaker": "セラ",
+      "ja": "でもでも……食べたいものがいっぱいあって……",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "38c17304",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはわかる。とりあえず今持ってるごちそうは俺が向こうに運んどくから",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "c4c02bd5",
+      "speaker": "セラ",
+      "ja": "ありがとうございますっ！　それじゃあ別のお皿に……",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "aa4b415b",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいか？　慌てなくても良いからな？　今一番自分が食べたい物をゆっくり選んでくれ",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "2fd29b2a",
+      "speaker": "セラ",
+      "ja": "はいっ！",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "d25a6ea8",
+      "speaker": "セラ",
+      "ja": "えへへ、今戻りましたー",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "3407052c",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだその量は……！？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "b81058ff",
+      "speaker": "",
+      "ja": "しばらくして戻ってきたセラ。",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "15147a90",
+      "speaker": "",
+      "ja": "しかしお皿にはまるで昔話に出てくる山盛りのご飯並みに食べ物が積み上がっていた。",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "e51024f0",
+      "speaker": "セラ",
+      "ja": "食べたい物がたくさんありまして……お皿に盛っていたらこうなっちゃいました",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "d4b26371",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ腹減ってんだし、たくさん食べるのはいいことだけどさ……本当に全部食えるのか……？",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "bbfd9a9a",
+      "speaker": "セラ",
+      "ja": "もちろんですっ！　セラ、食べるの大好きなんで、このくらいは余裕です！！",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "7e606239",
+      "speaker": "",
+      "ja": "セラは自信満々の表情で料理が山盛りのお皿をテーブルに置く。",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "75ee5812",
+      "speaker": "",
+      "ja": "ドスンと大きな音が鳴るほど大量の料理。",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "a3f467b",
+      "speaker": "",
+      "ja": "本当に食べきれるのか疑問に思っていると、セラはフォークを手に取る。",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "8f6701ee",
+      "speaker": "セラ",
+      "ja": "いただきますっ！　あむっ……んーーーっ！　おいしーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "761850a1",
+      "speaker": "セラ",
+      "ja": "はーっ！　ごちそうさまでした～っ♥　どれも美味しくてフォークが止まりませんでしたーっ",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "891fa693",
+      "speaker": "",
+      "ja": "セラは宣言通り山盛りの料理を綺麗に食べ終える。",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "566a2cbd",
+      "speaker": "",
+      "ja": "あまりの食事量に俺は言葉を完全に失い、ただただセラを見ながら茫然としてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "e66a6bfd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、あの小さな身体のどこに山盛りの量の料理が入ったんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "9ca721d0",
+      "speaker": "",
+      "ja": "俺はそんなことを思いながらまじまじとセラを見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "869508a4",
+      "speaker": "",
+      "ja": "とりあえずは食べる前と後で何か変化があるようには思えない。本当にあれだけの料理が一体どこに行ってしまったのか……。",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "83eea958",
+      "speaker": "セラ",
+      "ja": "{G_PlayerName}さん……？　視線がいやらしいですよ……？",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "a0fb4bbf",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　あ、す、すまん……！　別にそういう目を向けていたわけじゃないんだけど……！！",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "93764b42",
+      "speaker": "セラ",
+      "ja": "じゃあどういうつもりでエッチな視線を向けていたんですか？",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "ebb560e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、本当にそんなこと考えてないって……！　ただ……",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "735f4b28",
+      "speaker": "セラ",
+      "ja": "ただ……なんですか？",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "ba209528",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、あれだけの量の料理がどこに行ったのかなって……",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "b5b802f2",
+      "speaker": "セラ",
+      "ja": "もちろんセラのお腹の中ですっ！　さてそれじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "9e0bf2fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、次どこ行く？",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "165909a7",
+      "speaker": "セラ",
+      "ja": "あ、いえ、おかわりしようかなって",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "44231cc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？　ま、まだ食うつもりなのか！？",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "db2ae101",
+      "speaker": "セラ",
+      "ja": "もちろんですっ！　まだまだお腹に入りますから！！",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "84824219",
+      "speaker": "セラ",
+      "ja": "いつもお仕事に全力を出しているので、もっともっともーーーっと食べないと力が出ませんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "a40a7473",
+      "speaker": "セラ",
+      "ja": "このパーティーでも何かありましたらお任せくださいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "b74cf5cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……ま、まぁセラがそういうなら……",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "69573bdb",
+      "speaker": "セラ",
+      "ja": "それじゃあおかわり持ってきますね～♥　あ、{G_PlayerName}さん何か食べたい物とかありますか？",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "3aab24bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺はコーヒーだけでいいや。一緒に行くか",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "51de93e5",
+      "speaker": "セラ",
+      "ja": "はいっ！　えへへ、ビュッフェって最高ですね♪　毎日これだけ食べられると幸せなんですけどっ",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "36c73145",
+      "speaker": "",
+      "ja": "セラはお皿を手に持つと、力強く歩き出す。しかし──",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "101d590",
+      "speaker": "セラ",
+      "ja": "──ひゃあっ！？",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "b634ec87",
+      "speaker": "{G_PlayerName}",
+      "ja": "──危ないっ！！",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "b418f830",
+      "speaker": "",
+      "ja": "セラは何もないところでいきなり躓き、俺は慌ててセラの小さな腕を掴む。",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "8f64173b",
+      "speaker": "セラ",
+      "ja": "ありがとうございます、{G_PlayerName}さん。{G_PlayerName}さんが傍にいると転ばなくて助かります！！",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "1a62f838",
+      "speaker": "",
+      "ja": "警察なのに、一体どっちが守る側なんだか……。そんなことを思いながら、俺達はビュッフェに向かうのであった。",
+      "zh": ""
+    }
+  ]
+}

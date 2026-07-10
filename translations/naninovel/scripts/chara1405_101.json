@@ -1,0 +1,832 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "547c2d25",
+      "speaker": "セラ",
+      "ja": "わぁ～～～っ！",
+      "zh": "哇～～～！"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "1bca2738",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　セラ、走ると危ないって！！",
+      "zh": "啊！塞拉，不要跑啊，危险！"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "2048e14f",
+      "speaker": "",
+      "ja": "パーティー会場に入るや突然走り出すセラ。俺は慌ててその後ろを追うように歩く。",
+      "zh": "塞拉一踏进派对会场就突然跑了起来。我慌忙跟在她后面追了过去。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "6b2802c4",
+      "speaker": "",
+      "ja": "会場内は煌びやかに着飾った男女が、楽団の演奏に合わせるように社交ダンスを踊っていた。",
+      "zh": "会场内，衣着华丽的男女们正随着乐团的演奏跳着社交舞。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "43bab648",
+      "speaker": "",
+      "ja": "ゆったりとした生演奏を背景に、優雅にステップを踏む男女。優雅に回転しながらふんわりと舞うスカート。ステップを踏み合い笑顔で踊っている。",
+      "zh": "在悠扬的现场演奏中，人们优雅地踏着舞步。裙摆随着旋转轻盈飘起，大家踩着节拍，面带笑容地舞动。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "dd101183",
+      "speaker": "{G_PlayerName}",
+      "ja": "セラっ！　危ないっ！",
+      "zh": "塞拉！危险！"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "f5b82eae",
+      "speaker": "セラ",
+      "ja": "はわわっ！！",
+      "zh": "啊哇哇！！"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "a93705f2",
+      "speaker": "",
+      "ja": "セラは社交ダンスに夢中になっていたのか、いきなりつまずく。俺は慌ててセラの身体を支えるように腕を掴み、転ぶのをどうにか阻止することができた。",
+      "zh": "塞拉大概是被社交舞吸引了，突然绊了一下。我急忙抓住她的手臂扶住她，总算是没让她摔倒。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "af1f27ef",
+      "speaker": "セラ",
+      "ja": "ふええ……ありがとうございます、{G_PlayerName}さんっ",
+      "zh": "呜……谢谢您，{G_PlayerName}先生！"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "e4598102",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと足元見て歩かないと危ないぞ？",
+      "zh": "不好好看脚下的话很危险哦？"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "873695a3",
+      "speaker": "セラ",
+      "ja": "はーい",
+      "zh": "好——"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "713cf3c7",
+      "speaker": "",
+      "ja": "セラは元気よく返事するが、まだどこか危なっかしかった。",
+      "zh": "塞拉精神地应了一声，但看上去还是有点让人不放心。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "788c16a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "──セラっ！",
+      "zh": "——塞拉！"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "c305557a",
+      "speaker": "セラ",
+      "ja": "──へ？　はわっ！？　目の前に椅子が……！",
+      "zh": "——咦？啊哇！？前面有椅子……！"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "abd47622",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと前見て歩かないと……！",
+      "zh": "给我好好看路啊……！"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "b37e3109",
+      "speaker": "セラ",
+      "ja": "み、見ているつもりなんですけど……",
+      "zh": "我、我有在看的啦……"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "47455984",
+      "speaker": "",
+      "ja": "セラはそう言いながらまたもキョロキョロと周囲を見渡す。",
+      "zh": "塞拉嘴上这么说着，眼睛还是到处东张西望。"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "a6a84756",
+      "speaker": "",
+      "ja": "普段は警察官をやっているが、見た目も中身も子供のまま……。",
+      "zh": "她平时是个警察，可不管是外表还是内在都还像个小孩……"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "86629037",
+      "speaker": "",
+      "ja": "しっかりしているように見えて、ドジなところは着飾っても変化することはなかった。",
+      "zh": "看起来挺稳重的，可就算穿得再漂亮，冒冒失失的地方还是一点没变。"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "671a88f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "とりあえず少し落ち着こうか？　興味あるものが多いと思うけどさ、あっちこっちキョロキョロしながら歩くのは危ないって",
+      "zh": "总之先冷静点好不好？我知道你看到什么都新鲜，可这么边走边东张西望很危险的。"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "e7aa9cfe",
+      "speaker": "セラ",
+      "ja": "……わかりました",
+      "zh": "……我明白了。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "155fa212",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなしょげるなって。別に催しものを見るなって言ってるわけじゃないんだから。こうすれば……ほら",
+      "zh": "别这么沮丧嘛。我又没说不让你看表演。像这样……看。"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "ac2aa446",
+      "speaker": "",
+      "ja": "俺はそう言うとセラの小さな手を握る。",
+      "zh": "我说着握住了塞拉的小手。"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "d3fa8eba",
+      "speaker": "セラ",
+      "ja": "ありがとうございます、{G_PlayerName}さんっ！",
+      "zh": "谢谢你，{G_PlayerName}！"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "82859d75",
+      "speaker": "",
+      "ja": "セラの手を握ると一瞬にして笑顔に戻り、えへへ、と満面の笑みを見せる。",
+      "zh": "握住塞拉的手，她立刻绽开笑脸，嘿嘿地笑得可灿烂了。"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "267ae67",
+      "speaker": "セラ",
+      "ja": "次向こうの見てみたいんですけどいいですかっ？",
+      "zh": "接下来我想去那边看看，可以吗！？"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "aef924a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、じゃあ行こうか？　慌てる必要はないからな？　時間はたっぷりあるんだから",
+      "zh": "嗯，那走吧？不用着急嘛，时间还多的是。"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2fd29b2a",
+      "speaker": "セラ",
+      "ja": "はいっ！",
+      "zh": "好！"
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "71faca8",
+      "speaker": "セラ",
+      "ja": "わぁっ！？　ご馳走がいっぱいです……！",
+      "zh": "哇啊！？这么多美食……！"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "a0d23055",
+      "speaker": "",
+      "ja": "ぐ～～～～～～～！",
+      "zh": "咕～～～～～～～！"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "a384bd9f",
+      "speaker": "セラ",
+      "ja": "わわ……お腹が……うう、セラ、お腹ペコペコです……",
+      "zh": "哇哇……肚子……呜呜，塞拉肚子饿扁了……"
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "b464fd8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ食べるか？　パーティ参加者ならビュッフェ食べ放題って聞いてるし",
+      "zh": "那吃饭吧？听说派对参加者可以随便吃自助餐。"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "c4354bd0",
+      "speaker": "セラ",
+      "ja": "ええっ！？　これ全部食べていいんですかっ！？",
+      "zh": "诶！？这些全都可以吃吗！？"
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "c1e8bfc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすがに全部は無理だろう？　でもいくら食べても誰にも怒られないよ",
+      "zh": "全部吃完肯定不可能吧？不过想吃多少都没人管你。"
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "8fa4adb8",
+      "speaker": "セラ",
+      "ja": "やった！　それなら全種類食べないとっ！",
+      "zh": "耶！那得把所有种类都吃个遍才行！"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "5235578f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　セラ……！　行っちまった……よほど腹減ってたんだな",
+      "zh": "啊……！塞拉……！跑掉了……看来真是饿得够呛。"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "4aaccd68",
+      "speaker": "セラ",
+      "ja": "えっと……あれとこれと……それと……あっ！　これも食べたい……！",
+      "zh": "嗯……那个、这个……还有那个……啊！这个也想吃……！"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "ac2aa4d7",
+      "speaker": "",
+      "ja": "セラはお皿を手に取ると、食べたい物を片っ端からお皿に盛りつけていく。",
+      "zh": "塞拉拿起盘子，看到想吃的就一个劲儿往里夹。"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "806ebee6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ……！　落ち着けセラ……！",
+      "zh": "喂……！塞拉，冷静点……！"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "bd74ba30",
+      "speaker": "セラ",
+      "ja": "あ……！　これも！　あっちも……ああっ、向こうのやつも～っ！　全部全部美味しそうです～～～っ！！",
+      "zh": "啊……！这个！那边那个也……啊，对面的也要～！每一个看起来都好好吃啊～～～！！"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "8dfdcb33",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　おい、危ないって！！",
+      "zh": "啊！喂，危险！！"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "2fe4e6ea",
+      "speaker": "",
+      "ja": "完全に目の前のご馳走に意識を奪われてしまっていたセラ。",
+      "zh": "塞拉完全被眼前的美食吸引住了。"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "e22fbf6",
+      "speaker": "",
+      "ja": "お皿を持っていることなどすっかり意識から抜け落ちたのか、お皿を持っている手がゆっくりと傾く。",
+      "zh": "或许她完全忘了手里还端着盘子，手慢慢倾斜……"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "e3f2a1a9",
+      "speaker": "",
+      "ja": "俺は慌てながらセラの元に走りお皿を押さえると、どうにかお皿を落とさずに済みホッと胸を撫でおろした。",
+      "zh": "我慌忙跑到塞拉身边按住盘子，总算没掉地上，松了口气。"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "67c74801",
+      "speaker": "セラ",
+      "ja": "はわわわ……！　ごめんなさい、{G_PlayerName}さん……",
+      "zh": "哇哇……！对不起，{G_PlayerName}……"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "79df5149",
+      "speaker": "{G_PlayerName}",
+      "ja": "謝らなくてもいいって。とりあえず落ち着こう？　なんでもかんでも一枚の皿に乗せようとするなって",
+      "zh": "不用道歉啦。总之你先冷静下来？别把所有东西都堆一个盘子里啊。"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "51dae6a4",
+      "speaker": "セラ",
+      "ja": "でもでも……食べたいものがいっぱいあって……",
+      "zh": "可是可是……想吃的东西实在太多了……"
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "38c17304",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはわかる。とりあえず今持ってるごちそうは俺が向こうに運んどくから",
+      "zh": "我懂。总之你手里这些菜我帮你端过去。"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "c4c02bd5",
+      "speaker": "セラ",
+      "ja": "ありがとうございますっ！　それじゃあ別のお皿に……",
+      "zh": "非常感谢！那我拿别的盘子……"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "aa4b415b",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいか？　慌てなくても良いからな？　今一番自分が食べたい物をゆっくり選んでくれ",
+      "zh": "可以吗？不用急，慢慢挑你现在最想吃的。"
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "2fd29b2a",
+      "speaker": "セラ",
+      "ja": "はいっ！",
+      "zh": "好！"
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "d25a6ea8",
+      "speaker": "セラ",
+      "ja": "えへへ、今戻りましたー",
+      "zh": "嘿嘿，我回来啦～"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "3407052c",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだその量は……！？",
+      "zh": "呃，你这量是怎么回事……！？"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "b81058ff",
+      "speaker": "",
+      "ja": "しばらくして戻ってきたセラ。",
+      "zh": "过了一会儿，塞拉回来了。"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "15147a90",
+      "speaker": "",
+      "ja": "しかしお皿にはまるで昔話に出てくる山盛りのご飯並みに食べ物が積み上がっていた。",
+      "zh": "但盘子上堆满了食物，简直像传说里那种堆成山的饭。"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "e51024f0",
+      "speaker": "セラ",
+      "ja": "食べたい物がたくさんありまして……お皿に盛っていたらこうなっちゃいました",
+      "zh": "想吃的东西太多了……装着装着就这样了。"
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "d4b26371",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ腹減ってんだし、たくさん食べるのはいいことだけどさ……本当に全部食えるのか……？",
+      "zh": "嘛，虽然你饿了多吃点是好事……但真的吃得完吗……？"
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "bbfd9a9a",
+      "speaker": "セラ",
+      "ja": "もちろんですっ！　セラ、食べるの大好きなんで、このくらいは余裕です！！",
+      "zh": "当然啦！塞拉我超能吃的，这点小意思！！"
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "7e606239",
+      "speaker": "",
+      "ja": "セラは自信満々の表情で料理が山盛りのお皿をテーブルに置く。",
+      "zh": "塞拉一脸自信，把堆得冒尖的大盘子放到桌上。"
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "75ee5812",
+      "speaker": "",
+      "ja": "ドスンと大きな音が鳴るほど大量の料理。",
+      "zh": "盘子沉甸甸地砸在桌上，发出咚的一声。"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "a3f467b",
+      "speaker": "",
+      "ja": "本当に食べきれるのか疑問に思っていると、セラはフォークを手に取る。",
+      "zh": "正当我怀疑她是不是真能吃完的时候，塞拉拿起了叉子。"
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "8f6701ee",
+      "speaker": "セラ",
+      "ja": "いただきますっ！　あむっ……んーーーっ！　おいしーーーっ！！",
+      "zh": "我开动啦！　啊呜……嗯～～～！！　好吃～～～！！"
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "761850a1",
+      "speaker": "セラ",
+      "ja": "はーっ！　ごちそうさまでした～っ♥　どれも美味しくてフォークが止まりませんでしたーっ",
+      "zh": "哈～～！　多谢款待啦～♥　每道菜都好好吃，叉子根本停不下来——！"
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "891fa693",
+      "speaker": "",
+      "ja": "セラは宣言通り山盛りの料理を綺麗に食べ終える。",
+      "zh": "塞拉如自己所宣告的那样，把满满一桌菜吃了个精光。"
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "566a2cbd",
+      "speaker": "",
+      "ja": "あまりの食事量に俺は言葉を完全に失い、ただただセラを見ながら茫然としてしまっていた。",
+      "zh": "面对这么惊人的饭量，我完全说不出话，只能一脸茫然地看着塞拉。"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "e66a6bfd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、あの小さな身体のどこに山盛りの量の料理が入ったんだ……？）",
+      "zh": "（那么小的身体，到底把那一大堆菜装到哪儿去了……？）"
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "9ca721d0",
+      "speaker": "",
+      "ja": "俺はそんなことを思いながらまじまじとセラを見つめる。",
+      "zh": "我一边这样想，一边仔仔细细地打量着塞拉。"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "869508a4",
+      "speaker": "",
+      "ja": "とりあえずは食べる前と後で何か変化があるようには思えない。本当にあれだけの料理が一体どこに行ってしまったのか……。",
+      "zh": "至少看起来吃饭前和吃饭后没什么变化。真不敢相信那么一大堆饭菜到底消失到什么地方去了……"
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "83eea958",
+      "speaker": "セラ",
+      "ja": "{G_PlayerName}さん……？　視線がいやらしいですよ……？",
+      "zh": "{G_PlayerName}……？　你的眼神有点色色的哦……？"
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "a0fb4bbf",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　あ、す、すまん……！　別にそういう目を向けていたわけじゃないんだけど……！！",
+      "zh": "诶！？　啊，不、不好意思……！！　我可不是在用那种眼神看你……！！"
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "93764b42",
+      "speaker": "セラ",
+      "ja": "じゃあどういうつもりでエッチな視線を向けていたんですか？",
+      "zh": "那你那种色眯眯的视线是想干嘛？"
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "ebb560e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、本当にそんなこと考えてないって……！　ただ……",
+      "zh": "不，我真的没那么想啦……！！　只是……"
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "735f4b28",
+      "speaker": "セラ",
+      "ja": "ただ……なんですか？",
+      "zh": "只是……什么？"
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "ba209528",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、あれだけの量の料理がどこに行ったのかなって……",
+      "zh": "不是，我就是好奇那么多饭菜到底吃到哪里去了……"
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "b5b802f2",
+      "speaker": "セラ",
+      "ja": "もちろんセラのお腹の中ですっ！　さてそれじゃあ……",
+      "zh": "当然是在塞拉的肚子里啦！　那接下来……"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "9e0bf2fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、次どこ行く？",
+      "zh": "哦，接下来去哪儿？"
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "165909a7",
+      "speaker": "セラ",
+      "ja": "あ、いえ、おかわりしようかなって",
+      "zh": "啊，不是，我是想再添一份。"
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "44231cc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？　ま、まだ食うつもりなのか！？",
+      "zh": "诶诶！？　你、你还要吃啊！？"
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "db2ae101",
+      "speaker": "セラ",
+      "ja": "もちろんですっ！　まだまだお腹に入りますから！！",
+      "zh": "当然啦！　空肚子还多着呢！！"
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "84824219",
+      "speaker": "セラ",
+      "ja": "いつもお仕事に全力を出しているので、もっともっともーーーっと食べないと力が出ませんっ！！",
+      "zh": "平时工作这么拼，不多吃点儿根本撑不住啊！！"
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "a40a7473",
+      "speaker": "セラ",
+      "ja": "このパーティーでも何かありましたらお任せくださいっ！！",
+      "zh": "要是派对有什么需要，尽管交给我！！"
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "b74cf5cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……ま、まぁセラがそういうなら……",
+      "zh": "哦、哦……既然塞拉你都这么说了……"
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "69573bdb",
+      "speaker": "セラ",
+      "ja": "それじゃあおかわり持ってきますね～♥　あ、{G_PlayerName}さん何か食べたい物とかありますか？",
+      "zh": "那我去给你添一份吧～♥ 啊，{G_PlayerName}，你有什么想吃的吗？"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "3aab24bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺はコーヒーだけでいいや。一緒に行くか",
+      "zh": "啊，我喝杯咖啡就行。一起去吗？"
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "51de93e5",
+      "speaker": "セラ",
+      "ja": "はいっ！　えへへ、ビュッフェって最高ですね♪　毎日これだけ食べられると幸せなんですけどっ",
+      "zh": "好嘞！嘿嘿，自助餐真是太棒啦♪ 要是每天都能这么吃，那可就幸福死啦～"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "36c73145",
+      "speaker": "",
+      "ja": "セラはお皿を手に持つと、力強く歩き出す。しかし──",
+      "zh": "塞拉端起盘子，大步流星地走了出去。然而──"
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "101d590",
+      "speaker": "セラ",
+      "ja": "──ひゃあっ！？",
+      "zh": "──呀啊！！"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "b634ec87",
+      "speaker": "{G_PlayerName}",
+      "ja": "──危ないっ！！",
+      "zh": "──小心！！"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "b418f830",
+      "speaker": "",
+      "ja": "セラは何もないところでいきなり躓き、俺は慌ててセラの小さな腕を掴む。",
+      "zh": "塞拉在平地上突然绊了一跤，我连忙抓住她纤细的手臂。"
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "8f64173b",
+      "speaker": "セラ",
+      "ja": "ありがとうございます、{G_PlayerName}さん。{G_PlayerName}さんが傍にいると転ばなくて助かります！！",
+      "zh": "谢谢你，{G_PlayerName}。有{G_PlayerName}在身边，我就不会摔跤，真是帮大忙啦！！"
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "1a62f838",
+      "speaker": "",
+      "ja": "警察なのに、一体どっちが守る側なんだか……。そんなことを思いながら、俺達はビュッフェに向かうのであった。",
+      "zh": "明明我是警察，到底谁保护谁啊……。我一边这么想着，一边和大家走向自助餐区。"
+    }
+  ]
+}
