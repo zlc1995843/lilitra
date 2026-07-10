@@ -1,0 +1,517 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "218c8258",
+      "speaker": "イビリア",
+      "ja": "ぐへ～……お仕事づがれだ～……もう荷物なんてはこびたくないぃ～……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "2d9b0b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、大丈夫か……？",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "62d7509d",
+      "speaker": "イビリア",
+      "ja": "だいじょーぶじゃないからぶっ倒れてんだよー……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "2aa54387",
+      "speaker": "",
+      "ja": "遊びに来たと思ったらベッドにバタンキューと倒れ込むイビリア。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "c86d996e",
+      "speaker": "",
+      "ja": "ベッドの上でジタバタと暴れ、その仕草が少しだけカワイイと思えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "dffe748b",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし本当に運び屋なんてやってんだな……最初聞いたときは何かの冗談かと思ったんだけど",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "c408ea09",
+      "speaker": "イビリア",
+      "ja": "なんだよー……信じてなかったのかよー……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "2e279e96",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃ、なぁ……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "de8ab8cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まず第一にイビリアが”仕事”するってのが違和感ありまくりなんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "dd62de3e",
+      "speaker": "イビリア",
+      "ja": "……お前、今失礼なこと考えただろ？　ちゃんとわかるんだぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "e31671d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "別にヘンなこと考えてないって。ちゃんと仕事してて偉いなって思っただけだよ",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "259e656a",
+      "speaker": "イビリア",
+      "ja": "そうかそうかー、あたちはえらいかー♪　そりゃそうだよなーっ♪　よし、それなら──",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "d39c0c2b",
+      "speaker": "イビリア",
+      "ja": "ぱっぱ～♥　ミルク飲みたい～♥　飲ませて～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "fd7146ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでいきなりそうなるんだよ。俺はお前のパパじゃないだろうが",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "45e8477a",
+      "speaker": "イビリア",
+      "ja": "ちっ……ノリが悪いヤツ……少しくらいあたちのわがままに付き合ってくれてもいいじゃんっ",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "474d8fbc",
+      "speaker": "イビリア",
+      "ja": "てか今のあたちってガチの赤ちゃんみたいなもんだろっ！　育児放棄反対！　ちゃんと面倒みろーっ！　訴えるぞーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "71c06b48",
+      "speaker": "{G_PlayerName}",
+      "ja": "どこに訴えるんだよ。身体は確かに小さくなったけどさ、お前に色々くっついてる機械があればなんだってできるんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "60e9056b",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分でやれることは自分でやれよ。自立することも大事なんだからよ",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "19e63b7a",
+      "speaker": "イビリア",
+      "ja": "赤ちゃんに自立しろとか鬼か！",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "694a901c",
+      "speaker": "イビリア",
+      "ja": "それにさぁ……機械じゃ埋められない温かみが欲しいんだよ……知ってるか？　ママとパパのぬくもりが無いと赤ちゃんは死んじゃうんだぞ？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "556ff6",
+      "speaker": "{G_PlayerName}",
+      "ja": "大げさな……そもそもイビリアが死ぬ光景が思い浮かばん……一万年でも十万年でも生きてそうだし",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "43d06b2d",
+      "speaker": "イビリア",
+      "ja": "人を怪物みたいに言うなっ！　いいから構えって！　あたちの面倒みろーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "539fe43d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　おい！　人の物勝手に投げんなっ！　危ないだろっ！！",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "2df53052",
+      "speaker": "イビリア",
+      "ja": "だったら育児しろーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "6c59bffd",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかったわかった！　少しくらい付き合ってやるから落ち着け！！",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "3f1fe247",
+      "speaker": "イビリア",
+      "ja": "やっとその気になったか！　ほら、ここにミルクあるから飲ませてくれ～っ",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "9c8af591",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく準備の良い奴だな……",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "6366f2",
+      "speaker": "",
+      "ja": "俺はそう言いながらイビリアから哺乳瓶を受け取る。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "8a3a1275",
+      "speaker": "",
+      "ja": "すでにミルクは人肌に温まっており、いつの間に準備していたのか疑問に思えてくる。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "9e8b5dc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら～……イビリアちゃん、ミルクでちゅよ～",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "7d861391",
+      "speaker": "イビリア",
+      "ja": "あ～う～♪　ぱっぱだいしゅきっ……♥　あむっ、んく、んくっ♥",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "c245f8e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うわ……これ見た目以上に赤ちゃんっぽいぞ……な、なんか父性が刺激されていくような……）",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "6164d623",
+      "speaker": "",
+      "ja": "笑顔で哺乳瓶からミルクを飲むイビリアに心が温かくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "94661fe9",
+      "speaker": "",
+      "ja": "相手はイビリアなんだぞ、と葛藤しながらも赤ちゃんのような可愛さに心奪われていく自分がいた。",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "6067d463",
+      "speaker": "イビリア",
+      "ja": "んく、んくっ……ぷはぁっ♪　おいちかった～♥",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "5eac8e13",
+      "speaker": "{G_PlayerName}",
+      "ja": "すげぇ勢いで飲み干したな……んじゃ次は何を──",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "f6d1aae6",
+      "speaker": "イビリア",
+      "ja": "──あ……おしっこ出る……んっ……",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "df9ea9af",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！？　お前何いきなり出してんだよっ！！　ノータイムで漏らしてんじゃねえっ！！",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "cd8f2f38",
+      "speaker": "イビリア",
+      "ja": "なんだよー……別にいいだろー……それにこのスーツの股間部分、超長距離配送用の吸収素材でできてるんだ……レパルが教えてくれた",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "daa06822",
+      "speaker": "イビリア",
+      "ja": "だから、横からも縦からも全く漏れる心配なしってわけ♪",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "94cda6df",
+      "speaker": "イビリア",
+      "ja": "だいたいさー……赤ちゃんに”ガマン”なんて概念あるわけないだろ？　これは赤ちゃんの自然な行動なわけだ",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "eb292d01",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前は赤ちゃんじゃないだろうが……赤ちゃんになりたい大人だろうが",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "e423f8fe",
+      "speaker": "イビリア",
+      "ja": "……そんな正論言わなくてもいいだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "8aa4b8f7",
+      "speaker": "イビリア",
+      "ja": "こっちはこんな世知辛い世の中で必死に生きようと頑張ってんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "de80ff66",
+      "speaker": "イビリア",
+      "ja": "赤ちゃんでいたいのに、働かないと生きていけない……こんな世界が憎い……",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "2f1d039f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（マジに落ち込んでんな……何も考えていないようで、イビリアなりに悩みを抱えていたんだな……）",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "8319320",
+      "speaker": "",
+      "ja": "幼児退行した原因も、ループした世界で生きるための手段だったんだろうし……。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "3f521d3d",
+      "speaker": "",
+      "ja": "普段はふざけ倒しているようにしか見えんけど、そう考えると不憫なヤツなのかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "cafcc5d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（少しくらいは優しくしてやるか……）",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "edd6b687",
+      "speaker": "イビリア",
+      "ja": "うう……うううう……ううううう……",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "6b62f950",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらほら、そんな暗い顔するなって！　カワイイ顔が台無しだぞ！　ガラガラ鳴らしてやるから笑顔になれ",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "bf3ec6a1",
+      "speaker": "イビリア",
+      "ja": "わわっ♥　きゃ、きゃ♥　あー、う～……ぱ～ぱ♥",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "d9f87bd",
+      "speaker": "",
+      "ja": "俺がガラガラを鳴らすと、一瞬にして赤ちゃんになってしまうイビリア。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "889e8b3b",
+      "speaker": "",
+      "ja": "笑顔を見せながらきゃっきゃと機嫌が良くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "7b7c3790",
+      "speaker": "イビリア",
+      "ja": "んぃ～……♥　パパ、しゅきぃ～っ♥　きゃっきゃ♥　ずっとガラガラして～～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "20e19c20",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今だけは辛い現実を忘れろ……そのうちきっと赤ちゃんにならなくても楽しいことがあると思うし）",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "3b29202e",
+      "speaker": "",
+      "ja": "俺はそう思いながら、イビリアのためにいつまでもガラガラを鳴らし続けているのであった。",
+      "zh": ""
+    }
+  ]
+}

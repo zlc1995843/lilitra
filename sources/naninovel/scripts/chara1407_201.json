@@ -1,0 +1,1210 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "848432ac",
+      "speaker": "イビリア",
+      "ja": "（……この箱大きすぎぃ……！）",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "8c398543",
+      "speaker": "",
+      "ja": "イビリアの身体のサイズとは明らかに釣り合わない箱。落とさないようによちよちと慎重に運ぶ。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "fed241bf",
+      "speaker": "",
+      "ja": "荷の届け先は{G_PlayerName}。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "bcf13e1d",
+      "speaker": "",
+      "ja": "この箱に何が入っているのか興味無かったが、前が全然見えないことに不満がどんどん自分の中で大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "6ae5be8e",
+      "speaker": "イビリア",
+      "ja": "（でもなんで身体縮み続けてんだろ……？　これ大丈夫なのかな……さすがに不安になってくるんだけど）",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "6e436249",
+      "speaker": "",
+      "ja": "理由も分からずに時々自分の身体が小さくなる。そのことに不安も覚えるが、たまには働かないとこの先生活できない。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "fcbac2f1",
+      "speaker": "",
+      "ja": "本物の赤ちゃんなら仕事なんてしなくてもいいのに……。そう思いながらも運び屋としての責任から{G_PlayerName}の部屋に向かう。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "e32126f4",
+      "speaker": "イビリア",
+      "ja": "……やっと着いた……部屋遠すぎ……！",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "84d32782",
+      "speaker": "イビリア",
+      "ja": "おーい、機械士ーっ！　宅配だぞーっ！　いるんだろーっ！　いないんだったら置き配にするぞーっ！　それがイヤならさっさと開けろーっ！",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "c2d3ba28",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、いるぞーっ！　今開けるからーっ",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "46183b07",
+      "speaker": "イビリア",
+      "ja": "ほいよー、荷物だぞーっ！　はーっ、ムダに大きい箱運ばせやがって！　チップ弾めよっ！　こんなカワイイ赤ちゃんに宅配させたんだからさっ",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "d31e40e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、わざわざありがとうな。チップって……お金か？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "e63b0154",
+      "speaker": "イビリア",
+      "ja": "あたちに構えっ！　お世話しろっ！",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "487e9bbd",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでだよ……！　ま、まぁ今時間あるし、少しくらいは──",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "ad8f34c3",
+      "speaker": "",
+      "ja": "俺はそう言いながらイビリアから荷物を受け取る。",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "6a5da5a2",
+      "speaker": "",
+      "ja": "しかし荷物に触れた瞬間──",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "bde96981",
+      "speaker": "{G_PlayerName}",
+      "ja": "──んぎぃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "a78ae94c",
+      "speaker": "",
+      "ja": "突然身体に強烈な電流のようなものが流れ、目の前がチカチカしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "14d76c03",
+      "speaker": "",
+      "ja": "イビリアに問い詰めようとした瞬間、俺の意識は深い闇の中に落ちてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "bdf74243",
+      "speaker": "イビリア",
+      "ja": "お、おいっ！？　なんだよいきなり倒れて……？　何かの冗談……？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "8a2a5afb",
+      "speaker": "",
+      "ja": "{G_PlayerName}は荷物に触れた瞬間、力なく前のめりに倒れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "a6df2bd2",
+      "speaker": "",
+      "ja": "最初は何かの冗談かと思ったが、いつまでも床に突っ伏したままだった。",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "67ed1525",
+      "speaker": "イビリア",
+      "ja": "おい！　しっかりしろ！　大丈夫か！？　死ぬな！！　起きろーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "eb48eb56",
+      "speaker": "",
+      "ja": "さすがに不安になり、{G_PlayerName}のデカい身体を起こすと頬をぺちぺちと叩く。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "c0242ec7",
+      "speaker": "",
+      "ja": "それが功を奏したのか、閉じた瞳が僅かに震え始める。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "2d17e7fd",
+      "speaker": "イビリア",
+      "ja": "しっかりしろって！　あたちより先に死ぬなーっ！　パパが死んだら誰があたちの面倒を見るんだよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "6aa596b",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、ううう……",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "b3495d31",
+      "speaker": "イビリア",
+      "ja": "起きろ起きろ起きろーっ！",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "2439dd9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うがっ！？",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "9c96c7a0",
+      "speaker": "",
+      "ja": "ヘンな声と共に、{G_PlayerName}の瞳がカっと開く。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "66aa0b2d",
+      "speaker": "",
+      "ja": "大きな瞳がギロリとあたちを見つめ、何か様子が違う？　そんな直感が脳裏を走る。",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "ed410633",
+      "speaker": "{G_PlayerName}",
+      "ja": "……マ……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "ef95b43b",
+      "speaker": "{G_PlayerName}",
+      "ja": "マ…………",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "c2a6e1a8",
+      "speaker": "イビリア",
+      "ja": "……ま？　な、なんだよ……何が言いたいんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "a93316f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ママーっ！！　ママ、ママ、ママーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "d77902f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "抱っこしてーっ！　よちよちしてぇっ！　ママ、ママーっ！",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "2f78c7fe",
+      "speaker": "イビリア",
+      "ja": "うわっ！　キッツ……！！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "df08d543",
+      "speaker": "",
+      "ja": "突然のママ呼びにイビリアの口からそんな言葉が漏れ出してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "d8bc9ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママ、ママーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "b080ee97",
+      "speaker": "イビリア",
+      "ja": "だ、抱きつくなーっ！　な、なんだよいきなり……まさか幼児退行でもしたのか！？　おい、ヘンな冗談はやめろって！！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "d1bb52f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママーっ！　ママーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "251f982f",
+      "speaker": "イビリア",
+      "ja": "わ、わかった、わかった……！　ほら、落ち着けって！！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "1c730916",
+      "speaker": "",
+      "ja": "とてもじゃないが演技で幼児退行しているとは思えない。何故突然{G_PlayerName}がこんなことになったのか、イビリアには理解できない。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "903118a9",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}を落ち着かせようと頭を撫でると、今までの暴れっぷりがウソだったように落ち着きを取り戻していく。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "b9a4eec8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママーっ♥　おっぱい飲むぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "161b83e4",
+      "speaker": "イビリア",
+      "ja": "は？　ちょ……！　や、やめろって！　服脱がすなっ！　バカ、やめろってーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "df22fa22",
+      "speaker": "イビリア",
+      "ja": "んんんん……♥　おいおい、マジかよコイツ……んっ♥",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "b102d726",
+      "speaker": "",
+      "ja": "{G_PlayerName}はイビリアの乳首に吸い付くと、嬉しそうにちゅぱちゅぱと吸い上げ始める。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "6df4d479",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママのおっぱい～っ♥　ちゅーっ♥　ちゅーーっ♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "549cd048",
+      "speaker": "イビリア",
+      "ja": "そ、そんな吸うなって……！♥　うう……♥　冗談でも何でもなく本物になっていやがる……♥　なんでこんなことに……♥",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "83247ffb",
+      "speaker": "",
+      "ja": "本気で抵抗するとコイツを傷つけてしまう、そう思うと何もできなくなる。",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "b9e67bf2",
+      "speaker": "",
+      "ja": "大人しくされるがままにイビリアは乳首を吸われ、ゾクっとした快感に声が勝手に口から漏れ出してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "ed78599d",
+      "speaker": "{G_PlayerName}",
+      "ja": "んへへ……おっぱいうまうま……♥　ちゅーっ♥　ちゅちゅーっ♥　ママのおっぱい～♥　ちゅぱちゅぱっ♥",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "6597c67f",
+      "speaker": "イビリア",
+      "ja": "（……そもそもなんでコイツが赤ちゃんになってヨチヨチされるんだよ……あたちだってされたいのに……！）",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "5167e889",
+      "speaker": "イビリア",
+      "ja": "（ホントだりーな……赤ちゃんになって迫られんのってこんなにもめんどくさいことなんだな……）",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "fd2e9c1a",
+      "speaker": "イビリア",
+      "ja": "にしても……幼児退行してるクセにこっちは思いっきり大人なままだな……♥　要は赤ちゃんプレイで抜いて欲しいんだろ？♥",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "96a8931b",
+      "speaker": "",
+      "ja": "いきり立った肉棒を軽く扱くと、{G_PlayerName}はきゃっきゃと嬉しそうに笑う。",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "f956cf75",
+      "speaker": "",
+      "ja": "先端からは赤ちゃんには不釣り合いのカウパーがぷくっと溢れ、強烈なオスの匂いに頭がクラクラしてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "34ab333a",
+      "speaker": "イビリア",
+      "ja": "んぅっ！♥　お、おいっ……！♥　んぅ、す、吸いすぎぃっ！♥　乳首取れるってぇ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "28e9b0b",
+      "speaker": "イビリア",
+      "ja": "あひっ！？♥　あ、ちょっと……！！♥　歯が……あ、こ、これダメ……！♥　うあ、あっ、ああ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "74f958a6",
+      "speaker": "",
+      "ja": "乳首を甘噛みされ、ゾクっとした快感に全身が震え上がる。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "648fb865",
+      "speaker": "",
+      "ja": "{G_PlayerName}の興奮が高まるほどに吸い付きが強くなり、快感がどんどん強くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "f8c96176",
+      "speaker": "イビリア",
+      "ja": "うう、ううう……！♥　やば……んくっ！♥　こ、このままじゃ……おい、そんな吸うって……んひっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "3575b019",
+      "speaker": "イビリア",
+      "ja": "ちょ……待っ……！！♥　んんんっ！♥　イっ……！♥　う、んぅ、んんんんん……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "eeac85f6",
+      "speaker": "イビリア",
+      "ja": "んふぅっ……！♥　う、う……んはぁっ♥　あうう……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "8a429380",
+      "speaker": "",
+      "ja": "執拗な乳首への吸い付きに、甘イキしてしまう。赤ちゃんになってしまっている{G_PlayerName}はそれに気づかず、夢中になって乳首を吸う。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "4508ed85",
+      "speaker": "",
+      "ja": "しかし何か違和感が……そう思い{G_PlayerName}の口元を見ると……",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "40400b6b",
+      "speaker": "イビリア",
+      "ja": "──ええっ！？♥　ちょっとぉっ！？♥　何が起きてんだよ！！♥　うう、んんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "824ad11e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママーっ♥　おっぱいうまうまうーっ♥　んむっ♥　んむっ！♥　ちゅちゅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "4ef5416f",
+      "speaker": "イビリア",
+      "ja": "ダメ……す、吸うなぁ……ああっ♥　うう、出るの、気持ち良すぎぃっ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "b6344220",
+      "speaker": "",
+      "ja": "乳首イキの影響なのか、出るはずのない母乳が垂れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "2c0c4a26",
+      "speaker": "",
+      "ja": "{G_PlayerName}はさらに勢いよくイビリアの乳首に吸い付き、溢れる母乳を喉を鳴らしながら飲み込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "93411ed4",
+      "speaker": "",
+      "ja": "母乳を飲んだ影響なのか、{G_PlayerName}の大きすぎる肉棒がさらに熱くなる。",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "4627e38e",
+      "speaker": "",
+      "ja": "イビリアの手はカウパーでどろどろになり、おまんこも同じように愛液でぐちゅぐちゅになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "25c72672",
+      "speaker": "イビリア",
+      "ja": "ううう、吸われるの、ヤバすぎぃ……！♥　ああ、このままじゃまた……♥",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "d7c30f09",
+      "speaker": "イビリア",
+      "ja": "ほら、早くイっちまえっ！　射精してさっさと寝ろっ♥　んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "d4454501",
+      "speaker": "イビリア",
+      "ja": "あ、あっ♥　んぅ！♥　舌、ペロペロすんなぁ……！♥　お前エロすぎぃ……！♥　お前みたいなエロエロ赤ちゃん、いてたまるかーっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "8e5a429c",
+      "speaker": "",
+      "ja": "イビリアは{G_PlayerName}に抵抗するように手コキの速度を早めていく。",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "9d6b0f",
+      "speaker": "",
+      "ja": "手を動かすたびに、ぐちゅぐちゅと卑猥な音が耳に入る。",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "e3367738",
+      "speaker": "",
+      "ja": "音だけでもイビリアは興奮してしまい、肉棒の快感に比例するように{G_PlayerName}の吸い付きも強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "eba877b7",
+      "speaker": "イビリア",
+      "ja": "ふぅ、ふぅっ♥　んんっ！♥　いい加減にしろぉっ……！♥　いつまでちゅぱちゅぱしてんだよぉっ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "64cdefc1",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっぱい～っ♥　おっぱいぃ～っ♥　ちゅーっ♥　ちゅっちゅちゅ～～～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "62e54547",
+      "speaker": "イビリア",
+      "ja": "うううっ！♥　このエロガキぃ……！！♥　はぁ、んはぁっ！♥　ほら、イけよぉっ♥　びゅーびゅー白いおしっこしろよぉっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "b42ff16",
+      "speaker": "",
+      "ja": "肉棒の先端をグリグリと手のひらで擦ると、さすがに気持ち良いのか吸い付きが弱くなる。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "c27904d",
+      "speaker": "",
+      "ja": "腰をビクンと跳ねらせ、{G_PlayerName}の野太い喘ぎ声にイビリア自身も興奮してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "277e2cbe",
+      "speaker": "",
+      "ja": "今はとにかく乳首責めから逃れようとひたすらに肉棒を扱き、一心不乱に亀頭をグリグリと擦り続ける。",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "c827010b",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、う゛っ♥　ママぁ……お、おしっこ……出るぅ……ううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "13726457",
+      "speaker": "イビリア",
+      "ja": "出るのか？♥　いいぞ、そのまま出してしまえっ♥",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "cccbf4b5",
+      "speaker": "",
+      "ja": "{G_PlayerName}の甘える声に思わず胸がきゅんとときめく。",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "3e4cb6b4",
+      "speaker": "",
+      "ja": "瞳をいやらしく蕩けさせるその表情がイビリアの母性本能をくすぐり、胸の鼓動がドクンドクンと大きくなる。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "c288a8c8",
+      "speaker": "イビリア",
+      "ja": "ほら、ほら……おしっこ出せっ……♥　びゅーびゅーしろっ♥　ありったけ吐き出してしまえっ♥",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "4b454bcf",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ！♥　ママ、ママぁっ！♥　出る、出るよぉっ！♥　おしっこ出るーーっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "d32def2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぶぅぅうううっ！！♥　んんんんんんーーーっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "1bc82688",
+      "speaker": "イビリア",
+      "ja": "うあ゛っ！♥　すご……！♥",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "54d7e16e",
+      "speaker": "",
+      "ja": "{G_PlayerName}は乳首に吸い付きながら盛大に射精し、飛び出した精液が空高く舞い上がる。",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "3a109cbe",
+      "speaker": "",
+      "ja": "手に振動が伝わるほど濃厚な精液が次々と噴き出し、あまりの勢いに気圧される。",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "82b7443b",
+      "speaker": "",
+      "ja": "それでも幼児退行した{G_PlayerName}を落ち着かせようと肉竿を扱く。",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "7f5109fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "んふぅっ！♥　ちゅちゅちゅっ！！♥　ぢゅる、ちゅうううっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "f0387e8e",
+      "speaker": "イビリア",
+      "ja": "い、いつまで乳首吸ってんだーっ！♥　うう、早いとこ満足させて元に戻さないと……あうっ！♥　あたちの乳首溶けて無くなっちゃうーっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "c2028516",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママー♥　もっとっ♥　ちゅぱちゅぱっ！♥　ちんちんから白いしっこ出したいーっ！♥　ちゅちゅちゅううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "8b2de6e8",
+      "speaker": "イビリア",
+      "ja": "うううう！！♥　こ、こいつマジかよぉ……あうっ！♥　性欲の化け物じゃないか……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "7286ab90",
+      "speaker": "イビリア",
+      "ja": "これもなんちゃらリングのせい？♥　んっ！♥　やば……！♥　また乳首ヘンにぃ……あううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "d09c331a",
+      "speaker": "",
+      "ja": "大量に射精したにも関わらず肉棒は元に戻るどころかさらに硬く熱くなる。",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "193b60e5",
+      "speaker": "",
+      "ja": "{G_PlayerName}はイビリアの身体に抱きつき、乳首に吸い付きひたすらに母乳を飲み続ける。",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "8c39bfc3",
+      "speaker": "",
+      "ja": "いますぐに突き飛ばして逃げたい気持ちはあったが、イビリアの母性本能がそれを許さない。",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "d7643225",
+      "speaker": "",
+      "ja": "結局ほっておくこともできず、乳首を感じることに耐えながら手コキを続けた。",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "679d8fb5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママぁっ♥　ちんちんムズムズすりゅぅっ♥　白いしっこもっとぉっ！♥　ちゅちゅちゅちゅううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "dc671580",
+      "speaker": "イビリア",
+      "ja": "わ、わかってるってばぁっ……！♥　またすぐにぴゅっぴゅさせてやるから、そんなにおっぱい飲むなぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "c06a43bd",
+      "speaker": "イビリア",
+      "ja": "あうっ！♥　だから噛むなってぇっ！♥　甘噛みヤバすぎ……コイツ、本当は幼児退行なんてしていないんじゃないか？♥",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "732fb340",
+      "speaker": "イビリア",
+      "ja": "これが演技だったらお前マジもんのヘンタイだぞ……あうううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "28906f92",
+      "speaker": "",
+      "ja": "乳首を引っ張るように吸われ、快感がさらに強くなる。このままじゃまた乳首でイかされる……そのことがイビリアを焦らせる。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "a67537c",
+      "speaker": "",
+      "ja": "自分がイク前にどうにか射精を……そう考えるが、今の{G_PlayerName}の状況を考えると射精しただけで大人しくなるとは思えない。",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "d647986",
+      "speaker": "",
+      "ja": "いったいどうすれば{G_PlayerName}を大人しくさせることができるのか……その答えが見つからないままイビリアは手コキを続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "691bf614",
+      "speaker": "イビリア",
+      "ja": "はぁ♥　はぁ♥　そんな力任せに吸うなってぇ……♥　んはぁぁ……！♥　お前、どこ触ってぇ……あうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "87b5e604",
+      "speaker": "",
+      "ja": "{G_PlayerName}の手があそこに伸びパンツの上から触り始める。",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "69a91474",
+      "speaker": "",
+      "ja": "これが赤ん坊の行動か、とツッコミたかったが、駆け抜ける快感が口から喘ぎ声だけを勝手に漏らす。",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "4004eb4a",
+      "speaker": "",
+      "ja": "異様な昂ぶりが肉棒をビクンと何度も跳ねさせ、擦っているだけで汗ばむほど熱くなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "7faf12",
+      "speaker": "イビリア",
+      "ja": "うううう……！♥　このままじゃ……♥　んは、はっ！♥　ほら、さっさとイってしまえよぉっ♥",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "11c1ee2e",
+      "speaker": "イビリア",
+      "ja": "ガマンなんてしなくていいから、おしっこビュービューしちまえっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "b43250da",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふえ、ふえっ♥　ママっ、ママっ！♥　ちゅぱちゅぱっ！♥　ふぅ、ふううっ！♥　ちんちん、ムズムズしてきたぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "402.0",
+      "line_index": 402,
+      "inline_index": 0,
+      "line_hash": "907ef586",
+      "speaker": "イビリア",
+      "ja": "ならさっさと出せ……あっ！！♥　だからおまんこ弄るなってぇっ！♥　ダメ……気持ち良いの止まらないっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "405.0",
+      "line_index": 405,
+      "inline_index": 0,
+      "line_hash": "22f9dead",
+      "speaker": "{G_PlayerName}",
+      "ja": "ママっ！♥　出りゅっ！♥　しっこしーしーしちゃうよっ！♥　あ、あ、あっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "ce44362c",
+      "speaker": "イビリア",
+      "ja": "イっちゃえ！♥　びゅーびゅー射精してさっさと寝ろぉっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "417.0",
+      "line_index": 417,
+      "inline_index": 0,
+      "line_hash": "3250a41e",
+      "speaker": "{G_PlayerName}",
+      "ja": "はううううっ！♥　んふぅぅぅぅっ！♥　んっ、んっ！♥　んんんんんーーーーっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "6762bebc",
+      "speaker": "イビリア",
+      "ja": "あぁぁっ！！♥　んふぅ、ふぅっ！♥　んぅ、んはぁぁぁっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "423.0",
+      "line_index": 423,
+      "inline_index": 0,
+      "line_hash": "67c622f5",
+      "speaker": "",
+      "ja": "{G_PlayerName}の肉棒がビクビクと震えながら再び濃厚な精液を先端から吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "5c4bc3ac",
+      "speaker": "",
+      "ja": "イビリアも同時に甘い絶頂をしてしまい、心地よすぎる快感が身体を駆け巡る。",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "24698b57",
+      "speaker": "",
+      "ja": "母乳がびゅるっと精液のように噴き出し、それに興奮した{G_PlayerName}は一心に母乳を吸い上げていた。",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "9881a73b",
+      "speaker": "イビリア",
+      "ja": "やめ……あうっ！♥　乳首吸うなってぇ……♥　ああ、快感が……うあ、また……んんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "1afe8f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "しっこ、しーしー……あうっ♥　んちゅぅぅぅ♥　ちゅぱちゅぱっ！♥　ぢゅるるるっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "436.0",
+      "line_index": 436,
+      "inline_index": 0,
+      "line_hash": "fbdf3819",
+      "speaker": "イビリア",
+      "ja": "まだ出てるの……？♥　どんだけ出るんだよぉ……さっさと全部吐き出しちゃえっ♥",
+      "zh": ""
+    },
+    {
+      "key": "439.0",
+      "line_index": 439,
+      "inline_index": 0,
+      "line_hash": "76f5f2c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふあ、ふあっ♥　ママぁ……♥　あうっ！♥　ふーっ、ふーっ！♥　うう、うううう……！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "443.0",
+      "line_index": 443,
+      "inline_index": 0,
+      "line_hash": "678cb9fc",
+      "speaker": "イビリア",
+      "ja": "はぁ、はぁ……やっと収まってきた……マジで絶倫過ぎだって……♥　お前みたいなエロ赤ん坊がいてたまるか……まったく……♥",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "dbb8abb2",
+      "speaker": "",
+      "ja": "射精も収まり始め一安心……これで{G_PlayerName}も静かになるはず……そう考えていた。イビリアの理解は浅すぎた。枷の外れたオスについて──",
+      "zh": ""
+    }
+  ]
+}
