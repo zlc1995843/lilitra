@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "5922f3eb",
+      "speaker": "",
+      "ja": "初めてルミナの宇宙船に入ったアンネはその広さと豪華さに驚きを隠せずにいた。",
+      "zh": "安姎第一次走进露米娜的飞船，忍不住惊叹于它的宽敞与奢华。"
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "8449740",
+      "speaker": "ルミナ",
+      "ja": "ようこそ……いらっしゃいました",
+      "zh": "欢迎……欢迎光临。"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "db7460c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "今日はゆっくりとくつろいでいってくれ",
+      "zh": "今天你就好好放松吧。"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "fad24f",
+      "speaker": "アンネ",
+      "ja": "は、はいっ！　こちらこそよろしくお願いしますなのですぅ！",
+      "zh": "啊、是！是我才要请你多关照呢！"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "988de4ee",
+      "speaker": "",
+      "ja": "少し緊張気味に頷くアンネを{G_PlayerName}とルミナは案内していった。",
+      "zh": "安姎略带紧张地点了点头，{G_PlayerName}和露米娜便领着她进去了。"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "f571af34",
+      "speaker": "アンネ",
+      "ja": "わたくしのお父様の船は、もっと小さ……",
+      "zh": "我父亲的船，可比这个小多了……"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d4cf64fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　どうかした？",
+      "zh": "嗯？怎么啦？"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "20d937f",
+      "speaker": "アンネ",
+      "ja": "な、なんでもないですぅ！",
+      "zh": "没、没事！"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "30abd830",
+      "speaker": "",
+      "ja": "自らを卑下するようなことを呟いてしまったアンネは慌てて誤魔化す。",
+      "zh": "安姎不小心嘀咕了一句贬低自己的话，连忙想糊弄过去。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "d4ec68c",
+      "speaker": "ルミナ",
+      "ja": "それじゃあこのソファーで……くつろいでね",
+      "zh": "那就在这张沙发上……休息一下吧。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "ef921e1a",
+      "speaker": "アンネ",
+      "ja": "まあ♪　なんてふかふかなソファーですぅ♪",
+      "zh": "哇♪ 这沙发软乎乎的，好舒服啊♪"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f62e77df",
+      "speaker": "ルミナ",
+      "ja": "食事も……用意してあります。どうぞ",
+      "zh": "饭菜也……准备好了，请用吧。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "3b3a6db5",
+      "speaker": "アンネ",
+      "ja": "いただきますですぅ♪　はむはむ……もぐもぐ……う～んおいしいですぅ♪",
+      "zh": "那我就不客气啦♪ 嗯嗯……嚼嚼……唔～好好吃啊♪"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "56d338d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "この端末に食事を注文すれば、何でも出てくるから",
+      "zh": "在这个终端上点餐，什么菜都能做出来。"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "3be36852",
+      "speaker": "アンネ",
+      "ja": "まあ♪　おいしいお食事が何でも出てくるなんて、夢のようですぅ♪",
+      "zh": "哇♪ 想吃什么好吃的都能变出来，简直像做梦一样♪"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "9b547cdc",
+      "speaker": "ルミナ",
+      "ja": "それじゃあ……私の部屋を案内、するね",
+      "zh": "那……我带你去我的房间吧。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ad0d4666",
+      "speaker": "アンネ",
+      "ja": "あっ、は……はいですぅ！",
+      "zh": "啊，好……好的！"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "3334b00d",
+      "speaker": "",
+      "ja": "食事を終えたアンネはルミナに促されるままラウンジを出て廊下に向かった。",
+      "zh": "吃完饭，安姎在露米娜的催促下离开休息室，往走廊走去。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "22a8854b",
+      "speaker": "ルミナ",
+      "ja": "こっちが……私の部屋だよ",
+      "zh": "这里就是……我的房间。"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "42f89d88",
+      "speaker": "アンネ",
+      "ja": "（わぁぁ～……なんて長い廊下なんでしょう）",
+      "zh": "（哇啊～……这走廊也太长了吧）"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "c0ec2c0d",
+      "speaker": "アンネ",
+      "ja": "この船には、いったい何部屋あるんですぅ？",
+      "zh": "这艘船上到底有多少房间呀？"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "512ac949",
+      "speaker": "ルミナ",
+      "ja": "えっと……数えたこと無い、かな……",
+      "zh": "呃……我没数过，大概……"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "64b2a23",
+      "speaker": "アンネ",
+      "ja": "か、数えたことがないって……",
+      "zh": "啊，没数过吗……"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "b0529cb1",
+      "speaker": "アンネ",
+      "ja": "（はぁぁ……なんだか頭がクラクラしてきてますぅ……）",
+      "zh": "（呼……感觉脑袋晕乎乎的呀……）"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "cdc2a8ca",
+      "speaker": "アンネ",
+      "ja": "で、でも……そうですぅ、コロニーの役所だって、これくらいの広さはあるんですから……",
+      "zh": "不，不过……说起来，殖民地的政府大楼也有这么宽敞嘛……"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "f540e3ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それは比べるものなのか……？）",
+      "zh": "（这能比吗……？）"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "c77e3260",
+      "speaker": "",
+      "ja": "アンネの呟きに{G_PlayerName}は思わず心の中でそうツッコミを入れてしまう。",
+      "zh": "安妮的自言自语让{G_PlayerName}忍不住在心里这么吐槽。"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "b2224a45",
+      "speaker": "ルミナ",
+      "ja": "ここが……私の部屋。どうぞ",
+      "zh": "这里就是……我的房间了。请进。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "28378c30",
+      "speaker": "",
+      "ja": "ルミナはそう言ってアンネを自室へと招き入れた。",
+      "zh": "露米娜说着，把安妮请进了自己的房间。"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "b2ed0d14",
+      "speaker": "アンネ",
+      "ja": "ふわぁぁぁ♥　か、可愛いお部屋ですぅ♥",
+      "zh": "哇啊啊♥ 好、好可爱的房间呀♥"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "258db719",
+      "speaker": "",
+      "ja": "ルミナの部屋に通されたアンネは、感嘆の声を上げながら辺りを見回す。",
+      "zh": "被领进露米娜房间的安妮，发出感叹，环顾四周。"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "ccf0fe",
+      "speaker": "アンネ",
+      "ja": "この端末、ラウンジにあったものですか？　自室にもあるなんて、すごいですぅ",
+      "zh": "这个终端，是休息室那个吗？自己房间也有，好厉害啊～"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "4f029d5b",
+      "speaker": "ルミナ",
+      "ja": "この端末なら、全室にあるよ",
+      "zh": "这种终端，每个房间都有哦。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "29810f6a",
+      "speaker": "アンネ",
+      "ja": "この端末が……全ての部屋に……です？",
+      "zh": "这终端……所有房间都有……？"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "281c2554",
+      "speaker": "ルミナ",
+      "ja": "はい……",
+      "zh": "嗯……"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "fb44c388",
+      "speaker": "アンネ",
+      "ja": "（つまり全ての部屋から料理が頼み放題……すごすぎですぅ……毎日こんな部屋で暮らせたら素敵すぎますぅ）",
+      "zh": "（也就是说，每个房间都能随便点餐……太夸张了呀……要能天天住这种房间，简直爽翻了呀）"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2327dd8c",
+      "speaker": "アンネ",
+      "ja": "（でも、この部屋を再現するとしたら……）",
+      "zh": "（不过，要是想复刻这个房间……）"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "fdbc89c8",
+      "speaker": "アンネ",
+      "ja": "あの……ちなみにこのベッドは……おいくらぐらいするのでしょうか？",
+      "zh": "那个……顺便请教一下，这张床……大概多少钱呀？"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "889ad96f",
+      "speaker": "ルミナ",
+      "ja": "え？　えっと……調べてみる。……１番近いベッドはこれ、かな？",
+      "zh": "诶？呃……我查查。……最接近的床是这个……吧？"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "3bb58fcd",
+      "speaker": "アンネ",
+      "ja": "そ、そ、そっ……それくらいの……お値段なのですねぇ……",
+      "zh": "这、这、这……是这个价位的啊……"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "6a55f24c",
+      "speaker": "",
+      "ja": "あまりの高額な値段にアンネは卒倒しそうになってしまった。",
+      "zh": "价格高得吓人，安姃差点当场昏过去。"
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "e2ebf016",
+      "speaker": "アンネ",
+      "ja": "とほほぉ……真のレディーへの道は、まだまだ遠いですぅ……",
+      "zh": "呜呜……成为真正的淑女之路，还远着呢……"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "4a8dc367",
+      "speaker": "",
+      "ja": "ついついアンネはそんな本音を呟いて、肩を落としてしまうのだった。",
+      "zh": "安姃一不小心就说出了心里话，沮丧地耷拉下肩膀。"
+    }
+  ]
+}

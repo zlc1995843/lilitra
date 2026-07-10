@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "5922f3eb",
+      "speaker": "",
+      "ja": "初めてルミナの宇宙船に入ったアンネはその広さと豪華さに驚きを隠せずにいた。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "8449740",
+      "speaker": "ルミナ",
+      "ja": "ようこそ……いらっしゃいました",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "db7460c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "今日はゆっくりとくつろいでいってくれ",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "fad24f",
+      "speaker": "アンネ",
+      "ja": "は、はいっ！　こちらこそよろしくお願いしますなのですぅ！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "988de4ee",
+      "speaker": "",
+      "ja": "少し緊張気味に頷くアンネを{G_PlayerName}とルミナは案内していった。",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "f571af34",
+      "speaker": "アンネ",
+      "ja": "わたくしのお父様の船は、もっと小さ……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d4cf64fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　どうかした？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "20d937f",
+      "speaker": "アンネ",
+      "ja": "な、なんでもないですぅ！",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "30abd830",
+      "speaker": "",
+      "ja": "自らを卑下するようなことを呟いてしまったアンネは慌てて誤魔化す。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "d4ec68c",
+      "speaker": "ルミナ",
+      "ja": "それじゃあこのソファーで……くつろいでね",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "ef921e1a",
+      "speaker": "アンネ",
+      "ja": "まあ♪　なんてふかふかなソファーですぅ♪",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f62e77df",
+      "speaker": "ルミナ",
+      "ja": "食事も……用意してあります。どうぞ",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "3b3a6db5",
+      "speaker": "アンネ",
+      "ja": "いただきますですぅ♪　はむはむ……もぐもぐ……う～んおいしいですぅ♪",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "56d338d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "この端末に食事を注文すれば、何でも出てくるから",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "3be36852",
+      "speaker": "アンネ",
+      "ja": "まあ♪　おいしいお食事が何でも出てくるなんて、夢のようですぅ♪",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "9b547cdc",
+      "speaker": "ルミナ",
+      "ja": "それじゃあ……私の部屋を案内、するね",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ad0d4666",
+      "speaker": "アンネ",
+      "ja": "あっ、は……はいですぅ！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "3334b00d",
+      "speaker": "",
+      "ja": "食事を終えたアンネはルミナに促されるままラウンジを出て廊下に向かった。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "22a8854b",
+      "speaker": "ルミナ",
+      "ja": "こっちが……私の部屋だよ",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "42f89d88",
+      "speaker": "アンネ",
+      "ja": "（わぁぁ～……なんて長い廊下なんでしょう）",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "c0ec2c0d",
+      "speaker": "アンネ",
+      "ja": "この船には、いったい何部屋あるんですぅ？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "512ac949",
+      "speaker": "ルミナ",
+      "ja": "えっと……数えたこと無い、かな……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "64b2a23",
+      "speaker": "アンネ",
+      "ja": "か、数えたことがないって……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "b0529cb1",
+      "speaker": "アンネ",
+      "ja": "（はぁぁ……なんだか頭がクラクラしてきてますぅ……）",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "cdc2a8ca",
+      "speaker": "アンネ",
+      "ja": "で、でも……そうですぅ、コロニーの役所だって、これくらいの広さはあるんですから……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "f540e3ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それは比べるものなのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "c77e3260",
+      "speaker": "",
+      "ja": "アンネの呟きに{G_PlayerName}は思わず心の中でそうツッコミを入れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "b2224a45",
+      "speaker": "ルミナ",
+      "ja": "ここが……私の部屋。どうぞ",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "28378c30",
+      "speaker": "",
+      "ja": "ルミナはそう言ってアンネを自室へと招き入れた。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "b2ed0d14",
+      "speaker": "アンネ",
+      "ja": "ふわぁぁぁ♥　か、可愛いお部屋ですぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "258db719",
+      "speaker": "",
+      "ja": "ルミナの部屋に通されたアンネは、感嘆の声を上げながら辺りを見回す。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "ccf0fe",
+      "speaker": "アンネ",
+      "ja": "この端末、ラウンジにあったものですか？　自室にもあるなんて、すごいですぅ",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "4f029d5b",
+      "speaker": "ルミナ",
+      "ja": "この端末なら、全室にあるよ",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "29810f6a",
+      "speaker": "アンネ",
+      "ja": "この端末が……全ての部屋に……です？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "281c2554",
+      "speaker": "ルミナ",
+      "ja": "はい……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "fb44c388",
+      "speaker": "アンネ",
+      "ja": "（つまり全ての部屋から料理が頼み放題……すごすぎですぅ……毎日こんな部屋で暮らせたら素敵すぎますぅ）",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2327dd8c",
+      "speaker": "アンネ",
+      "ja": "（でも、この部屋を再現するとしたら……）",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "fdbc89c8",
+      "speaker": "アンネ",
+      "ja": "あの……ちなみにこのベッドは……おいくらぐらいするのでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "889ad96f",
+      "speaker": "ルミナ",
+      "ja": "え？　えっと……調べてみる。……１番近いベッドはこれ、かな？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "3bb58fcd",
+      "speaker": "アンネ",
+      "ja": "そ、そ、そっ……それくらいの……お値段なのですねぇ……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "6a55f24c",
+      "speaker": "",
+      "ja": "あまりの高額な値段にアンネは卒倒しそうになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "e2ebf016",
+      "speaker": "アンネ",
+      "ja": "とほほぉ……真のレディーへの道は、まだまだ遠いですぅ……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "4a8dc367",
+      "speaker": "",
+      "ja": "ついついアンネはそんな本音を呟いて、肩を落としてしまうのだった。",
+      "zh": ""
+    }
+  ]
+}
