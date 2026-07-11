@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "549d3396",
+      "speaker": "",
+      "ja": "宇宙船のロビー、{G_PlayerName}はリンファンとくつろぎながらゆっくりと話をしていた。",
+      "zh": "在飞船大厅里，{G_PlayerName}正和琳凡一边放松一边悠闲地聊着天。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "2bd7b86c",
+      "speaker": "",
+      "ja": "リンファンは普段良い子なのだが、時々理解しがたい事を口にする。",
+      "zh": "琳凡平时很乖，但偶尔会说出些让人摸不着头脑的话。"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "5d3e81a2",
+      "speaker": "",
+      "ja": "それが妙に引っかかっていた{G_PlayerName}は思い切ってリンファンに聞いてみることにした。",
+      "zh": "这件事一直让{G_PlayerName}很在意，于是干脆决定直接问问琳凡。"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "de8c0ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあ、時々リンファンは不思議な事を言うけれど……一体何でなんだ？",
+      "zh": "喂，琳凡你偶尔会说些不可思议的话……到底是为什么啊？"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "7c830a9d",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の問いかけにリンファンはしばし考え込んでから口を開く。",
+      "zh": "面对{G_PlayerName}的问题，琳凡想了一会儿，然后开口了。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "eb018891",
+      "speaker": "リンファン",
+      "ja": "う～ん……その質問に答える前に……まず、この世界ってお兄ちゃんはどんな風に思ってる？",
+      "zh": "唔……在回答那个问题之前……先说说哥哥是怎么看这个世界的？"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "b9a03ea4",
+      "speaker": "",
+      "ja": "質問を質問で返された{G_PlayerName}は少し困惑してしまった。",
+      "zh": "问题被反问回来，{G_PlayerName}有点困惑。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d05099df",
+      "speaker": "",
+      "ja": "しかも『この世界をどう思うか？』などという曖昧な問いかけに、少し考えてから{G_PlayerName}は答える。",
+      "zh": "而且“如何看待这个世界？”这种含糊的问题，{G_PlayerName}想了想后回答。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "7a506654",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃあ……広い？　……って言っても広さに気付けたのはルミナたちと出会ってからだけど……",
+      "zh": "嗯……很广阔？……说起来，意识到它的广阔还是遇到露米娜她们之后……"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "6ce3c51e",
+      "speaker": "リンファン",
+      "ja": "ふうん……うん、お兄ちゃんらしくてすごく好きな回答だったかも♪",
+      "zh": "唔～嗯，很有哥哥的风格，说不定是我最喜欢的回答呢♪"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "4c0a371f",
+      "speaker": "リンファン",
+      "ja": "でもリンが言いたかったのは、この世界って\"なに？\"ってことだよ♪",
+      "zh": "但是我想说的是，这个世界“是什么？”的意思啦♪"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "b6abc741",
+      "speaker": "{G_PlayerName}",
+      "ja": "\"なに？\"って……どういうことだ？",
+      "zh": "“是什么？”……什么意思啊？"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "edc0818f",
+      "speaker": "",
+      "ja": "そう言って、リンファンはゆっくりと、どこか冷たい目をしながら語り始めた。",
+      "zh": "这么说后，琳凡缓缓地，眼神有些冷淡地开始讲述。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "2d489341",
+      "speaker": "リンファン",
+      "ja": "もう、遠い遠い過去……世界がバラバラになっちゃいそうな大きな大きな事故があったんだよ",
+      "zh": "在很久很久以前……发生过一场差点让世界四分五裂的巨大事故哦。"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "90a259f7",
+      "speaker": "リンファン",
+      "ja": "……天地がひっくり返ったように、次々と崩壊が始まって……一瞬にして世界が消えて無くなった……",
+      "zh": "……仿佛天翻地覆，接连开始崩溃……世界瞬间就消失殆尽……"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "58f1cbd9",
+      "speaker": "",
+      "ja": "あまりにもスケールが大きく、{G_PlayerName}は表情を強ばらせた。まさかリンファンからこんな話が出てくるとは思ってもいなかったから。",
+      "zh": "规模实在太大，{G_PlayerName}不禁表情僵硬。没想到琳凡会说出这样的话。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "30e1376c",
+      "speaker": "",
+      "ja": "それを感じ取ったのかリンファンは、表情を和らげて軽い口調で言った。",
+      "zh": "也许是察觉到了，琳凡表情缓和下来，换了轻快的语气说。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "db6793e0",
+      "speaker": "リンファン",
+      "ja": "なんて♪　怖いことを話しちゃったけど……要は、世界は思っているよりもグラグラで危ういんだよってこと♥",
+      "zh": "哎呀♪ 说了吓人的话——但总之呢，意思就是，这个世界比你以为的更摇摇晃晃、岌岌可危哦♥"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5e708743",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう……なんだ……",
+      "zh": "是、是么……"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "ea2ef1b0",
+      "speaker": "リンファン",
+      "ja": "うん♪　そんな世界でせっかく巡り会えたのに、また離ればなれになるのが嫌だな～って。それで時々お兄ちゃんにわかんないこと言っちゃうのかな♥",
+      "zh": "嗯♪ 好不容易在这样一个世界遇见，要是再分开我可不愿意呢～所以才时不时对哥哥说些莫名其妙的话吧♥"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "a4f8e7e8",
+      "speaker": "",
+      "ja": "段々とリンファンはいつもの明るい口調へと戻っていく。それに安心した{G_PlayerName}は呟いた。",
+      "zh": "琳凡渐渐恢复了一贯的明快语气。{G_PlayerName}见状松了口气，不禁低吟了一声。"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "599cd2ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "よくわからないけど、いろいろあるんだな",
+      "zh": "虽然不大明白，看来还挺复杂的啊。"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "381ed6d8",
+      "speaker": "リンファン",
+      "ja": "あっ！　お兄ちゃんから聞いておいてテキトーっ！　ひっど～い！",
+      "zh": "啊！你居然问完哥哥就这么敷衍！好过分～！"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "8f7daa08",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめんごめんっ",
+      "zh": "对、对不起对不起！"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "97f9a488",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……なんか、色々言ってたけど、ちっとも理解できなかった。）",
+      "zh": "（……虽然她说了好多，可我一点都没听懂。）"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "892850ee",
+      "speaker": "リンファン",
+      "ja": "はぁ……でも、お兄ちゃんはそれでいいよ♪",
+      "zh": "唉……不过，哥哥你这样就行啦♪"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "e9a93537",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかい？",
+      "zh": "是吗？"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "cb38cfed",
+      "speaker": "リンファン",
+      "ja": "だってリンはこうやって～……一緒に居られれば満足だって気付けたし♪",
+      "zh": "因为啊，小琳这样～……只要能跟你在一起，我就很满足了，我也意识到了嘛♪"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "573149b2",
+      "speaker": "リンファン",
+      "ja": "過去に引っ張られても乾くだけ……どれだけ懐かしんでも、ただの記憶の欠片……",
+      "zh": "被过去牵着走，只是徒增煎熬……再怎么怀念，也不过是记忆的碎片……"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "f360465",
+      "speaker": "リンファン",
+      "ja": "……お腹空いたから何か食べよっ♥",
+      "zh": "……肚子饿了，去吃点什么吧♥"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": "哦、哦……"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "5140b366",
+      "speaker": "",
+      "ja": "はしゃぐリンファンにたじろぎながらも、後ろをついていく{G_PlayerName}だった……",
+      "zh": "虽然被嬉闹的琳凡弄得有些不知所措，{G_PlayerName}还是跟在了她后面……"
+    }
+  ]
+}

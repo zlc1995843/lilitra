@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "549d3396",
+      "speaker": "",
+      "ja": "宇宙船のロビー、{G_PlayerName}はリンファンとくつろぎながらゆっくりと話をしていた。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "2bd7b86c",
+      "speaker": "",
+      "ja": "リンファンは普段良い子なのだが、時々理解しがたい事を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "5d3e81a2",
+      "speaker": "",
+      "ja": "それが妙に引っかかっていた{G_PlayerName}は思い切ってリンファンに聞いてみることにした。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "de8c0ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあ、時々リンファンは不思議な事を言うけれど……一体何でなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "7c830a9d",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の問いかけにリンファンはしばし考え込んでから口を開く。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "eb018891",
+      "speaker": "リンファン",
+      "ja": "う～ん……その質問に答える前に……まず、この世界ってお兄ちゃんはどんな風に思ってる？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "b9a03ea4",
+      "speaker": "",
+      "ja": "質問を質問で返された{G_PlayerName}は少し困惑してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d05099df",
+      "speaker": "",
+      "ja": "しかも『この世界をどう思うか？』などという曖昧な問いかけに、少し考えてから{G_PlayerName}は答える。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "7a506654",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃあ……広い？　……って言っても広さに気付けたのはルミナたちと出会ってからだけど……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "6ce3c51e",
+      "speaker": "リンファン",
+      "ja": "ふうん……うん、お兄ちゃんらしくてすごく好きな回答だったかも♪",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "4c0a371f",
+      "speaker": "リンファン",
+      "ja": "でもリンが言いたかったのは、この世界って\"なに？\"ってことだよ♪",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "b6abc741",
+      "speaker": "{G_PlayerName}",
+      "ja": "\"なに？\"って……どういうことだ？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "edc0818f",
+      "speaker": "",
+      "ja": "そう言って、リンファンはゆっくりと、どこか冷たい目をしながら語り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "2d489341",
+      "speaker": "リンファン",
+      "ja": "もう、遠い遠い過去……世界がバラバラになっちゃいそうな大きな大きな事故があったんだよ",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "90a259f7",
+      "speaker": "リンファン",
+      "ja": "……天地がひっくり返ったように、次々と崩壊が始まって……一瞬にして世界が消えて無くなった……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "58f1cbd9",
+      "speaker": "",
+      "ja": "あまりにもスケールが大きく、{G_PlayerName}は表情を強ばらせた。まさかリンファンからこんな話が出てくるとは思ってもいなかったから。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "30e1376c",
+      "speaker": "",
+      "ja": "それを感じ取ったのかリンファンは、表情を和らげて軽い口調で言った。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "db6793e0",
+      "speaker": "リンファン",
+      "ja": "なんて♪　怖いことを話しちゃったけど……要は、世界は思っているよりもグラグラで危ういんだよってこと♥",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5e708743",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう……なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "ea2ef1b0",
+      "speaker": "リンファン",
+      "ja": "うん♪　そんな世界でせっかく巡り会えたのに、また離ればなれになるのが嫌だな～って。それで時々お兄ちゃんにわかんないこと言っちゃうのかな♥",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "a4f8e7e8",
+      "speaker": "",
+      "ja": "段々とリンファンはいつもの明るい口調へと戻っていく。それに安心した{G_PlayerName}は呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "599cd2ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "よくわからないけど、いろいろあるんだな",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "381ed6d8",
+      "speaker": "リンファン",
+      "ja": "あっ！　お兄ちゃんから聞いておいてテキトーっ！　ひっど～い！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "8f7daa08",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめんごめんっ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "97f9a488",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……なんか、色々言ってたけど、ちっとも理解できなかった。）",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "892850ee",
+      "speaker": "リンファン",
+      "ja": "はぁ……でも、お兄ちゃんはそれでいいよ♪",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "e9a93537",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかい？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "cb38cfed",
+      "speaker": "リンファン",
+      "ja": "だってリンはこうやって～……一緒に居られれば満足だって気付けたし♪",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "573149b2",
+      "speaker": "リンファン",
+      "ja": "過去に引っ張られても乾くだけ……どれだけ懐かしんでも、ただの記憶の欠片……",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "f360465",
+      "speaker": "リンファン",
+      "ja": "……お腹空いたから何か食べよっ♥",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "5140b366",
+      "speaker": "",
+      "ja": "はしゃぐリンファンにたじろぎながらも、後ろをついていく{G_PlayerName}だった……",
+      "zh": ""
+    }
+  ]
+}
