@@ -1,0 +1,643 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "1bb8bdfc",
+      "speaker": "",
+      "ja": "『お祭りを最高に盛り上げたい！！』",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "f946e589",
+      "speaker": "",
+      "ja": "アルフは突然そんなことを言い出し、屋台や出し物のない区画で爆弾ショーの準備を始めた。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "ec4bca39",
+      "speaker": "",
+      "ja": "周囲の人も最初は困惑していたようだが、次第にアルフのショーに期待し始めたようだった。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "ebde6919",
+      "speaker": "",
+      "ja": "アルフは急な思いつきのためステージ横でいそいそと爆弾を造り、俺は仕掛けの装置作りに励んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "7a4c381a",
+      "speaker": "アルフ",
+      "ja": "んー……このままじゃ色合いが少し地味かも……お祭りをイメージして、もっとド派手に、っと……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "2062becb",
+      "speaker": "{G_PlayerName}",
+      "ja": "おーい、アルフーっ！　装置の準備できたけど、確認してくれーっ！",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "1859d7c5",
+      "speaker": "アルフ",
+      "ja": "ちょっと待ってー、今行くからーっ",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "84af529a",
+      "speaker": "アルフ",
+      "ja": "君、仕事早いねーっ♪　さすが！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "6eaa9c75",
+      "speaker": "{G_PlayerName}",
+      "ja": "前の経験が活きたな……それより問題ないか確認してくれ",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "b8f71250",
+      "speaker": "アルフ",
+      "ja": "おっけー♪　どれどれ～……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "a24337a2",
+      "speaker": "アルフ",
+      "ja": "……ふむふむ……",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "76a53278",
+      "speaker": "",
+      "ja": "アルフは真剣な面持ちで装置の確認を開始する。初めて見るかもしれないアルフの表情に俺の中で緊張が走る。",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "3bb09401",
+      "speaker": "",
+      "ja": "言われた通りにできた、問題ないはず。そう思ってはいても爆弾ショーのプロであるアルフのお眼鏡に叶うのか心配になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "8c99da7",
+      "speaker": "アルフ",
+      "ja": "うんうん、ばっちし！　いやぁ～、これは思いのほか良いよ！",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "dc94bac8",
+      "speaker": "アルフ",
+      "ja": "これだけの装置ならもっと爆発派手にしても耐えられそう！　よし、もうちょい火薬の量調整しよっと！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "bb4978ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか、良かった……でももう時間そんなにないだろ？　爆弾の調整できるのか？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "a218a2bd",
+      "speaker": "アルフ",
+      "ja": "へーきへーき♪　イメージはすでに頭の中にあるし、あとは火薬でちょちょいっとね！",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "7a6f9ced",
+      "speaker": "アルフ",
+      "ja": "でもさぁ、君あんま自信無さそうだったけど、十分な出来だよ？　ウチの星でだったら、引っ張りだこになるかもね",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "f844ac99",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺はアルフに言われた通りにしただけだから……そんな褒めてもらえるようなことじゃないって",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "fec7c53b",
+      "speaker": "アルフ",
+      "ja": "その『言われた通り』ってのが一番大事で一番難しいことなんだよ。共同でショーする場合は特にね",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "ecea117d",
+      "speaker": "アルフ",
+      "ja": "君はもう休んでていいから……あ、なんなら屋台見に行ってもいいよ？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "fa316a5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あ、いや、最後までチェックしとくよ。責任の半分は俺にあるんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "c1d23c17",
+      "speaker": "アルフ",
+      "ja": "あははっ♪　やっぱり君もプロだね！　よーし！　お互いがんばろうね！！",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "da873326",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アルフが失敗か……正直失敗するイメージとか全然無いんだよな……）",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "58aa35c0",
+      "speaker": "",
+      "ja": "なんでもひょいひょいとこなし、そして成功させるイメージしかないように思える。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "51bd2059",
+      "speaker": "",
+      "ja": "でもそんなアルフでも失敗を積み重ねてきたと思うと、自分の仕事に不安を覚えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "6ad08ab9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（最後までしっかりチェックしないと……アルフに失敗させたくないし）",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "2a525147",
+      "speaker": "",
+      "ja": "俺は改めて身を引き締め、装置の確認をするのであった。",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "2f5ee469",
+      "speaker": "アルフ",
+      "ja": "よしっ、これで完成だねっ！　はーっ、おつかれさま～っ！",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "8bb5999c",
+      "speaker": "{G_PlayerName}",
+      "ja": "おつかれさま、ほら、水",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "56a53ca1",
+      "speaker": "アルフ",
+      "ja": "あはっ♪　ありがとう、喉カラカラだったんだー……んぐんぐんぐんっ！",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "80c9baf1",
+      "speaker": "",
+      "ja": "最後の仕掛けを設置し、笑顔のアルフは水を勢いよく飲む。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "e27557c9",
+      "speaker": "",
+      "ja": "一仕事を終え、安堵しているのが俺にもはっきりとわかる。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "d52b28cf",
+      "speaker": "アルフ",
+      "ja": "ぷはーっ！　は～……お水美味しい♪",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "836eac2",
+      "speaker": "アルフ",
+      "ja": "改めて……君もありがとうね！",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "1fc0b9c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "わわっ！？　な、なんだよ、アルフっ！？",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "2c4e3802",
+      "speaker": "",
+      "ja": "突然アルフが首に抱きつき、俺は驚きながら固まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "2c96ea6b",
+      "speaker": "",
+      "ja": "密着するアルフの身体、そして全身からはむわっと熱気が伝わってくる。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "4b3a72f1",
+      "speaker": "",
+      "ja": "さらしの下から確実に伝わってくる胸の膨らみ、そして額にはキラキラと大粒の汗が滴る。",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "720b13ef",
+      "speaker": "",
+      "ja": "俺はアルフを支えるように背中に手を回すと、アルフは俺の腕の中でとびっきりの笑顔を向ける。",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "7515d012",
+      "speaker": "",
+      "ja": "その笑顔に思わず顔が熱くなり、密着による興奮と緊張から心臓がドクンドクンと大きく高鳴ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "8d5d11d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんかすっごいご機嫌だな。一仕事終えたあとはいつもこうなのか？",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "469a84a1",
+      "speaker": "アルフ",
+      "ja": "まだ一仕事終えてないよ♪　こっからが本番なんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "95b15710",
+      "speaker": "{G_PlayerName}",
+      "ja": "それもそうか、ショーをやり切って終わりなんだよな……すまん、俺ちょっと油断してたかも",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "54f5e3bb",
+      "speaker": "アルフ",
+      "ja": "あははっ♪　君はそれでいいんだよ、もう君がやるべきことはやってくれたからね",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "96d75641",
+      "speaker": "アルフ",
+      "ja": "ウチの想定以上のモノを君が作ってくれたし、あとはショーを楽しんでね！",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "81961991",
+      "speaker": "",
+      "ja": "俺はアルフの真剣な表情に見惚れてしまう。そして自分にそこまでの覚悟があるのか、そんなアルフの力になれるのだろうか、そんなことを考えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "c7c4ca42",
+      "speaker": "アルフ",
+      "ja": "んふふふ……♥",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "4ca67ce1",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、いきなりヘンな笑いして……",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "90fc1154",
+      "speaker": "アルフ",
+      "ja": "今ウチに見惚れてた？　あっつーい眼差し感じちゃった♥",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "c96d948c",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ッ！？　ちっ、違……くはないが……！！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "7b223290",
+      "speaker": "",
+      "ja": "アルフに心を覗かれてしまったような気分になり、恥ずかしさに全身から汗が噴き出してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "abae5f83",
+      "speaker": "アルフ",
+      "ja": "ねぇねぇ、もう一回今のあっつーい眼差しでウチを見つめてよーっ♥",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "eb252810",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、できるか！！　ほら、もう行こうぜ！？　そろそろ最後の準備しないと！！",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "72fe9464",
+      "speaker": "アルフ",
+      "ja": "あ、待ってよーっ！　逃げるなーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "e3958eed",
+      "speaker": "",
+      "ja": "俺は恥ずかしさのあまり逃げ出すようにステージ横の暗室へと駆け込んでしまった。",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "52b9a81",
+      "speaker": "アルフ",
+      "ja": "ふー……",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "6f05bdb2",
+      "speaker": "",
+      "ja": "薄暗いテントの中、アルフの深呼吸音だけが聞こえてくる。",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "75da7346",
+      "speaker": "",
+      "ja": "緊張しているのがこちらまで伝わり、俺までも緊張に両脚が僅かに震えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "b5d978e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アルフも緊張とかするんだな……意外だ。でも少しはリラックスさせないと……）",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "4346d978",
+      "speaker": "",
+      "ja": "俺はそう考え、足音を立てないようにアルフの背後に近づく。そして──",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "ee911621",
+      "speaker": "{G_PlayerName}",
+      "ja": "──わっ！！！",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "df6e3f8a",
+      "speaker": "アルフ",
+      "ja": "──ひゃわぁっ！？　なっ、なんだよっ、いきなり大声出してーっ！　驚くってーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "a46ebb87",
+      "speaker": "{G_PlayerName}",
+      "ja": "アルフなら大丈夫だから！　絶対成功するからさっ！！",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "48f6675a",
+      "speaker": "アルフ",
+      "ja": "あー……ウチ、その……緊張、してた、よね……？　もしかしてウチの緊張をほぐそうと……？",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "511e0f68",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、でももう大丈夫そうだな、さすがプロのエンターテイナー！　ほら、もう出番だぞ！　最高の爆弾ショー期待してるからな！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "efca986e",
+      "speaker": "アルフ",
+      "ja": "ありがとう、{G_PlayerName}！　それじゃあ行ってくるね！！",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "38c19a6",
+      "speaker": "",
+      "ja": "アルフは元気よくそう言うと、勢いよくステージへと飛び出した。",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "854c727e",
+      "speaker": "",
+      "ja": "テントの外にも聞こえるアルフの元気な声。その声だけでショーは大成功間違いなしと確信させるだけの力強さがあった。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "416d62e6",
+      "speaker": "",
+      "ja": "ショーは大成功のうちに終わった。すべてをやり切ったアルフの笑みと、爆弾ショーを楽しんだ観客の笑顔。",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "39eb2b6a",
+      "speaker": "",
+      "ja": "いつまでも鳴りやまない拍手とそれに応えるアルフ。俺はステージ横からそれを見ながら、観客に負けないくらいの拍手をアルフに送るのであった。",
+      "zh": ""
+    }
+  ]
+}
