@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "8948e7a4",
+      "speaker": "雫",
+      "ja": "ケット様、ルミナ様、素晴らしいですっ！　まさかこれほどとはっ！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "87a77c97",
+      "speaker": "",
+      "ja": "カシャカシャと夢中でシャッター音を鳴らしながら雫は水着姿のケットとルミナを撮りまくっていた。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "e353f33e",
+      "speaker": "ケット",
+      "ja": "えへへ～、似合ってる～？♪",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "92c9da3a",
+      "speaker": "",
+      "ja": "嬉しそうにそう言いながらケットは{G_PlayerName}に水着を見せつけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "274488b1",
+      "speaker": "ルミナ",
+      "ja": "ふふ、お揃いのバイザー、嬉しいね……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "4804d4d7",
+      "speaker": "",
+      "ja": "はしゃいでいるケットを見て微笑みながらルミナはそう呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "23e18eb1",
+      "speaker": "ケット",
+      "ja": "これのおかげでお日さまがサンサンでも暑くないんだよ～♪",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "4554a474",
+      "speaker": "{G_PlayerName}",
+      "ja": "へぇ～、そんなに高性能なのか……もしかして、またハイテクな機械が内蔵されていたり……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "c75f26f2",
+      "speaker": "ルミナ",
+      "ja": "ううん、ただのバイザーだから……少し日光を遮ってくれるだけ",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "de2f56af",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……そうなんだ……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "8c9476c7",
+      "speaker": "",
+      "ja": "少しガッカリする{G_PlayerName}だがケットは高いテンションのまま今度は水着について自慢するように語り出した。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "55621793",
+      "speaker": "ケット",
+      "ja": "あのね、この水着着てたらすいすい～って、いつもより速く泳げるんだよ～♪",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "e9d24247",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　その水着には推進装置でも……",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "8ac71516",
+      "speaker": "ルミナ",
+      "ja": "ううん、それもただの水着だよ……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "448fc326",
+      "speaker": "ケット",
+      "ja": "あははっ♪　そうなんだ～！　じゃあ気のせいか～♪",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "e7cfedb6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（普段のケットの服より泳ぎやすいってだけじゃないのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "2c207915",
+      "speaker": "",
+      "ja": "何だかんだでケットはすごく楽しそうで終始ご機嫌でいる。",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "2f457529",
+      "speaker": "",
+      "ja": "そんなケットに{G_PlayerName}が声をかけた。",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f22fd5b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "相変わらずケットは元気だな、せっかくの海だから楽しんで貰っていいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "599e9560",
+      "speaker": "雫",
+      "ja": "そうですっ！　せっかく水着を着ているのですからっ！　もっと！　もっとポーズ取って下さいっ！　さあ、さあっ！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "81e2c7d9",
+      "speaker": "",
+      "ja": "雫も妙に高いテンションでカメラを構えて写真を撮りまくっている。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "2d026260",
+      "speaker": "",
+      "ja": "その雫の言葉に答えるようにケットは自分なりにポーズを取った。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "bcda3a18",
+      "speaker": "ケット",
+      "ja": "うんっ！　こ、こうかな？　どう？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "ebe436e2",
+      "speaker": "雫",
+      "ja": "バッチリです、ケット様っ！　そのまま動かないでください！",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "7b2e1695",
+      "speaker": "",
+      "ja": "さらにテンションが上がった雫は、またカシャカシャとシャッター音を鳴らしながらケットの周囲を回る。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "ad03ee4f",
+      "speaker": "",
+      "ja": "あまりにもテンションが高い雫に{G_PlayerName}は少し呆れ顔になりつつ、ケットに告げた。",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "dc7e7c28",
+      "speaker": "{G_PlayerName}",
+      "ja": "ケット、嫌だったら無理に付き合わなくてもいいんだぞ",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "e608095b",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の言葉にケットはニコニコしながら答える。",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "36bd2caa",
+      "speaker": "ケット",
+      "ja": "ううん、ケット今すっごく幸せだよ～！　雫お姉ちゃんたちと遊べて楽しいよ♪",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "987bce17",
+      "speaker": "",
+      "ja": "そのケットの言葉に雫のテンションが爆上がりしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "560b46e4",
+      "speaker": "雫",
+      "ja": "お、お姉ちゃんですか……ケ、ケット様……もう一度言っていただけませんか？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "87fd6de4",
+      "speaker": "ケット",
+      "ja": "えっ、雫お姉ちゃん……？",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "fd076dc1",
+      "speaker": "",
+      "ja": "ケットからお姉ちゃんと呼ばれることで雫の気持ちはどんどん高ぶっていった。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "b47c13d3",
+      "speaker": "雫",
+      "ja": "くっ……こんな衝撃……堪えきれません……っ！",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "5d1b1dc7",
+      "speaker": "",
+      "ja": "カメラを持つ手を震わせながら雫は感無量という感じの表情を浮かべている。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "b6b26fef",
+      "speaker": "",
+      "ja": "そんな雫を見てケットは笑顔で呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "3a8adfab",
+      "speaker": "ケット",
+      "ja": "えへへ、変な雫おねえちゃん♪",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "41403ffe",
+      "speaker": "{G_PlayerName}",
+      "ja": "ケットが良い子だからみんな嬉しくなっちゃうんだ、雫はちょっと喜びすぎだけど……",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "4e9875a9",
+      "speaker": "ルミナ",
+      "ja": "うん、ケットちゃんは良い子……",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "f2e1a59",
+      "speaker": "",
+      "ja": "{G_PlayerName}とルミナはそう言うとケットの頭を優しく撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "e6aa8195",
+      "speaker": "ケット",
+      "ja": "ふふっ、くすぐったいよ～♪　でも、頭なでなで好きかも～♪",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "c2c31c7c",
+      "speaker": "",
+      "ja": "そう言ったケットの頭を{G_PlayerName}とルミナが撫でていると不意に何かを思い出したかのようにケットが声を上げる。",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "80ecf6e9",
+      "speaker": "ケット",
+      "ja": "あっ、そうだ！　”びーちぼーる”やるんでしょ？　モモモちゃんがるーるを教えてくれたやつ！",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "30243c7e",
+      "speaker": "ルミナ",
+      "ja": "そうだったね……じゃあ雫、コートの準備をしよう……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "23db494d",
+      "speaker": "ケット",
+      "ja": "わーいっ！　準備準備～！　ケット頑張っておっきなコート描く～♪",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "dbc50337",
+      "speaker": "",
+      "ja": "ケットははしゃぎながら浜辺にコートを描き始め、{G_PlayerName}に向かって手を振りながら呼びかけた。",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "abb4ce87",
+      "speaker": "ケット",
+      "ja": "ほら、おにぃちゃんも急いで急いで～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "8e1f0328",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、今行くよ",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "d9dfe7c6",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう答えるとケットの元へと歩き出す。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "393037a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（この夏はケットにとって初めての経験ばかりなのだろう、少しでもいい思い出になって欲しいな。）",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "f695c1dc",
+      "speaker": "",
+      "ja": "心の中でそんなことを思いつつ、{G_PlayerName}はケットと共に砂浜に大きなコートを描くのだった。",
+      "zh": ""
+    }
+  ]
+}
