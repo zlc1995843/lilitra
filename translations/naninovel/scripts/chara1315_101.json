@@ -1,0 +1,319 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "d56029bb",
+      "speaker": "",
+      "ja": "みんなが海で遊んでいる中、ティティアは黙々と砂浜で何かをしている。",
+      "zh": "大家玩得正嗨，蒂蒂亚却一个人闷头在沙滩上忙活着什么。"
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "563a8c4a",
+      "speaker": "{G_PlayerName}",
+      "ja": "なに……やってるんだろう？",
+      "zh": "这……是在干什么呢？"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "10a95add",
+      "speaker": "",
+      "ja": "気になった{G_PlayerName}が目を向けると、そこにはかなり立派な砂のお城が出来上がっていた。",
+      "zh": "好奇的{G_PlayerName}朝那边看去，一座相当气派的沙堡已经快完工了。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "c255a1ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごいな……これ……",
+      "zh": "好厉害啊……这个……"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "f20effc4",
+      "speaker": "",
+      "ja": "あまりの完成度に驚き{G_PlayerName}が感嘆の声を漏らすと、それに気づいたティティアが駆け寄ってくる。",
+      "zh": "{G_PlayerName}被高完成度惊得赞叹出声，蒂蒂亚听到后立马跑过来了。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "5d153cd3",
+      "speaker": "ティティア",
+      "ja": "あっ！　お兄さん！",
+      "zh": "啊！大哥哥！"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "7d38f677",
+      "speaker": "",
+      "ja": "走ってきたティティアは{G_PlayerName}の手を取ると、砂のお城の方へと引っ張っていった。",
+      "zh": "跑过来的蒂蒂亚抓住{G_PlayerName}的手，把他拉到沙堡那边。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "bbb1067e",
+      "speaker": "",
+      "ja": "そして自慢げな感じで{G_PlayerName}に告げる。",
+      "zh": "然后一脸得意地对{G_PlayerName}说。"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "b673c5b6",
+      "speaker": "ティティア",
+      "ja": "これ！　ティティが作ったんですよ！　すごいでしょう！",
+      "zh": "看这个！是蒂蒂做的哦！很厉害吧！"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "98ba2573",
+      "speaker": "",
+      "ja": "可愛らしく胸を張るティティアが{G_PlayerName}はとても愛らしく思えた。",
+      "zh": "{G_PlayerName}觉得一脸得意挺起胸的蒂蒂亚可爱极了。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "4f997bd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごいすごい",
+      "zh": "太厉害了太厉害了"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "3ce055cc",
+      "speaker": "ティティア",
+      "ja": "えへへ～♥　お兄さんにほめられちゃった～♥",
+      "zh": "诶嘿嘿～♥ 被大哥哥夸了～♥"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "95135f48",
+      "speaker": "",
+      "ja": "褒められたことをティティアが喜んでいると、不意に砂のお城の塔の先端が崩れそうになってしまう。",
+      "zh": "蒂蒂亚正为表扬高兴，突然沙堡塔尖眼看着就要塌了。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "2b4c6d52",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！？",
+      "zh": "啊！？"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "9f6db1f0",
+      "speaker": "",
+      "ja": "それに気がついて{G_PlayerName}が声を上げ手を伸ばそうとした次の瞬間。",
+      "zh": "{G_PlayerName}注意到后叫出声，正要伸手的瞬间——"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "79ddf27f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、あれ？",
+      "zh": "啊，咦？"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "3f1d9a5",
+      "speaker": "",
+      "ja": "崩れそうになっていた砂のお城の塔の先端が頑丈に修正されていた。",
+      "zh": "之前快塌的沙堡塔尖已经被修得结结实实的。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "b93f92f6",
+      "speaker": "",
+      "ja": "それを見て思いつくことがあった{G_PlayerName}はティティアの方へと目を向ける。",
+      "zh": "{G_PlayerName}看到这一幕，忽然想到了什么，转头看向蒂蒂亚。"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "84e1364d",
+      "speaker": "",
+      "ja": "するとそれを感じたティティアはばつが悪そうに笑みを浮かべた。",
+      "zh": "蒂蒂亚察觉到了，露出有点难为情的笑容。"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "d604b981",
+      "speaker": "ティティア",
+      "ja": "えへへ～……壊れそうになるとつい時間を止めちゃってぇ……",
+      "zh": "诶嘿嘿～……快塌的时候，就不小心把时间停住了啦……"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "32ee5238",
+      "speaker": "",
+      "ja": "そこまで言うとさすがに自分がいけないことをしたんじゃないかと思ったティティアは、しょんぼりとした顔をして頭を下げる。",
+      "zh": "话说到这个地步，连蒂蒂亚都觉得自己是不是做了不该做的事，不禁垂头丧气地低下了头。"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "d148d657",
+      "speaker": "ティティア",
+      "ja": "すみましぇん……",
+      "zh": "对不起……"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "2819abd7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……誰にも迷惑をかけてないんだから、いいんじゃないか？",
+      "zh": "哎呀……又没给谁添麻烦，不也挺好的嘛？"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "c364f583",
+      "speaker": "ティティア",
+      "ja": "ほ、本当ですか？",
+      "zh": "真、真的吗？"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "1aba6553",
+      "speaker": "{G_PlayerName}",
+      "ja": "それに……こんなに立派な砂のお城を作れるんだから、やっぱりティティアはすごいよ",
+      "zh": "而且啊……能做出这么气派的沙堡，蒂蒂亚果然很厉害嘛。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "8f4e07f6",
+      "speaker": "",
+      "ja": "時間を止めたことなど気にしていないという感じの{G_PlayerName}の言葉に、しょんぼりしていたティティアの顔がパァっと明るくなっていった。",
+      "zh": "{G_PlayerName}这番话让蒂蒂亚知道对方并不在意时间暂停的事，她原本沮丧的小脸一下子亮了起来。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "ce2f4ea7",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}にギュッと抱きつくと嬉しそうな声を上げる。",
+      "zh": "接着她紧紧抱住{G_PlayerName}，开心地叫出声来。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "1fcfe37d",
+      "speaker": "ティティア",
+      "ja": "ありがとう♥　お兄さんっ！",
+      "zh": "谢谢你♥ 哥哥！"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "b8f168e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あははははっ……",
+      "zh": "啊哈哈哈……"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "1c1dd5e6",
+      "speaker": "",
+      "ja": "抱きついてきたティティアの柔らかで温かな感触に{G_PlayerName}は照れ笑いをした。",
+      "zh": "蒂蒂亚抱过来那柔软又温暖的触感，让{G_PlayerName}不好意思地笑了。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "322f521f",
+      "speaker": "",
+      "ja": "それに胸の高まりが大きくてテンションも上がってしまう。",
+      "zh": "而且心跳得厉害，整个人都兴奋起来了。"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "7220b511",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ、一緒に作ろう！",
+      "zh": "那就一起堆吧！"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "fcbd33f5",
+      "speaker": "ティティア",
+      "ja": "うん！　一緒に作りたいです！　お兄さん頑張りましょうっ！",
+      "zh": "嗯！我想和你一起堆！哥哥，加油吧！"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "228cc3d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ！",
+      "zh": "嗯！"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "9040af4e",
+      "speaker": "",
+      "ja": "こうして{G_PlayerName}はティティアと一緒にすばらしい砂のお城を完成させるために頑張るのだった。",
+      "zh": "就这样，{G_PlayerName}为了和蒂蒂亚一起完成那座漂亮的沙堡而努力起来。"
+    }
+  ]
+}
