@@ -1,0 +1,337 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "da44d56b",
+      "speaker": "",
+      "ja": "{G_PlayerName}とコハルは並んで高度な技術の星の街をキョロキョロしながら歩いていた。",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "b8d050cc",
+      "speaker": "コハル",
+      "ja": "それにしてもすごい街並みよね……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "2eb69213",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、すごいテクノロジーだよな……かけらも理解が追いつかない",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "60438595",
+      "speaker": "",
+      "ja": "感嘆の言葉を漏らしつつも{G_PlayerName}は楽しげに街並みを眺めている。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "8741a221",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を呆れ顔で見つめながらコハルはしみじみとつぶやいた。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "9f97b46b",
+      "speaker": "コハル",
+      "ja": "なんでちょっと嬉しそうなのよ……相変わらずの機械好きね……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "fd30dfc9",
+      "speaker": "コハル",
+      "ja": "それにしても……あたし達の故郷からは考えられないような光景よね……随分と遠くに来ちゃった感じがするわ",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "56b47125",
+      "speaker": "{G_PlayerName}",
+      "ja": "実際にとんでもなく遠い星だと思うしな……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "1002d4a3",
+      "speaker": "",
+      "ja": "{G_PlayerName}が同意の言葉を口にするとコハルは微笑みを浮かべながら告げる。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "94850312",
+      "speaker": "コハル",
+      "ja": "ふふっ、そうね……あたし達の星からは途方もないくらい遠くて……でも、ここまでの旅は楽しかったわ",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "11ba4223",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、確かに……宇宙には色んな星があるって知れたしな……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "9332a4d1",
+      "speaker": "コハル",
+      "ja": "ねっ♪　他の星とか宇宙とか……知らないことばっかりで大変だったけど、すっごく楽しかった♪",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "413ce4d5",
+      "speaker": "",
+      "ja": "そんな今までの旅を振り返りつつ{G_PlayerName}とコハルは思い出に浸っていた。",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "24aa7afa",
+      "speaker": "コハル",
+      "ja": "それにしても、あたしもこの旅についてきて……よかったのかな？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "fc1f1330",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　どうして？　俺はコハルが一緒にいてくれて助かったけどな……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "751142fc",
+      "speaker": "",
+      "ja": "{G_PlayerName}が素直にそう言うと少し不安げだったコハルの表情が明るくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "89887808",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナも雫もアポロも、今となってはかけがえのない存在だけど、コハルは故郷の星から一緒にいてくれた唯一の存在だし……。）",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "1e2a9cd8",
+      "speaker": "",
+      "ja": "これまで一緒に旅をしてきている面々を思い返しつつ、{G_PlayerName}はコハルという存在を改めて実感する。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "2c8b373d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それに……コハルがいなかったら俺……どこかの星でくじけてたと思うし……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "5f486b1d",
+      "speaker": "",
+      "ja": "その言葉にコハルは恥ずかしそうに顔を赤らめ、誤魔化すように話を逸らした。",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "6a3753b1",
+      "speaker": "コハル",
+      "ja": "と、ところで……ど、どう？　このドレス……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "5bac23f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、すごく似合ってるよ……いつものコハルじゃないみたいだ",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "a15dbff5",
+      "speaker": "コハル",
+      "ja": "ふふっ、素直に褒められると恥ずかしいわね……でも、ありがとう♥",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "bab48369",
+      "speaker": "",
+      "ja": "照れつつも{G_PlayerName}にドレスが似合っていると言われコハルは素直に嬉しさを口にする。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "d0bff1c7",
+      "speaker": "",
+      "ja": "でも周囲の目が気になるのかあたりをキョロキョロと見回して少し不安げに{G_PlayerName}に囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "d3ffc598",
+      "speaker": "コハル",
+      "ja": "こんなハイテクな星だと、田舎者って思われてないか、ちょっと不安……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "f71dc6e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのドレス、雫に選んでもらったんだろ？　だったら心配することないだろ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "bfa4c88f",
+      "speaker": "",
+      "ja": "コハルを安心させるように{G_PlayerName}はそんなことを口にした。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "11c31a65",
+      "speaker": "",
+      "ja": "それでもまだ不安があるのかコハルは不安げに呟く。",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "7d0f8bb6",
+      "speaker": "コハル",
+      "ja": "うぅ……そうだけど……着こなし方とか、作法とか……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "7a7b1006",
+      "speaker": "{G_PlayerName}",
+      "ja": "そこは、背伸びしても仕方ないだろ……それにここの星の人からすれば俺達は田舎者だろ？",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "7b644efc",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルが笑われたら俺も一緒に笑われてやるからさ",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "601c3a2c",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の言葉に、少し気が楽になったのかコハルの顔に明るさが戻ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "9a9a1df6",
+      "speaker": "コハル",
+      "ja": "あんた……結構、こっぱずかしいこと言っちゃってるわよ",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "e2de05e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうかな？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "9bab91c8",
+      "speaker": "コハル",
+      "ja": "ええ、でもそうね……あんたと一緒なら、ふふっ……笑われても大丈夫よね♪",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "ea158ab1",
+      "speaker": "",
+      "ja": "すっかり吹っ切れたように明るい笑みを浮かべたコハルは、{G_PlayerName}と並んで軽い足取りで歩みを進めていく。",
+      "zh": ""
+    }
+  ]
+}
