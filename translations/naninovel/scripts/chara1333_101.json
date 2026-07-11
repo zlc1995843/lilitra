@@ -1,0 +1,310 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "d4ea2333",
+      "speaker": "ブルーム",
+      "ja": "えへへっ！　今日もたーくさんほめられちゃったっ！",
+      "zh": "诶嘿嘿！今天又被夸了好多呢！"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "90484611",
+      "speaker": "",
+      "ja": "ブルームは上機嫌で{G_PlayerName}と一緒に街を歩いていた。",
+      "zh": "布鲁姆心情大好地和{G_PlayerName}在街上走着。"
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "997ed781",
+      "speaker": "ブルーム",
+      "ja": "ねえ、にんげんっ！　ブルームえらい？　えらいっ？",
+      "zh": "呐，人类！布鲁姆了不起吗？了不起吗？"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "dd27be3a",
+      "speaker": "",
+      "ja": "{G_PlayerName}からも褒められたいブルームは甘えるようにおねだりをしてくる。",
+      "zh": "想要{G_PlayerName}也来夸夸，布鲁姆撒娇般地恳求起来。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "4d3b0319",
+      "speaker": "",
+      "ja": "そんなブルームの頭を優しく撫でながら、{G_PlayerName}は褒めてあげることにした。",
+      "zh": "轻轻抚摸着这样的布鲁姆的头，{G_PlayerName}决定夸夸他。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "887daeec",
+      "speaker": "{G_PlayerName}",
+      "ja": "うんうん、ブルームは良い子だね",
+      "zh": "嗯嗯，布鲁姆真是个好孩子呢。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "56808f8b",
+      "speaker": "ブルーム",
+      "ja": "うん、ブルームは良い子なんだよっ！",
+      "zh": "嗯，布鲁姆就是个好孩子哟！"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "3328268d",
+      "speaker": "",
+      "ja": "褒められたブルームは嬉しそうにそう言ったが、ふと立ち止まって難しい表情を浮かべる。",
+      "zh": "被夸的布鲁姆高兴地这么说，却忽然停下脚步，露出困惑的表情。"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "76228c83",
+      "speaker": "ブルーム",
+      "ja": "あれ……？　良い子にしてていいんだっけ……？",
+      "zh": "咦……？当个好孩子真的好吗……？"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "e0a3ab1d",
+      "speaker": "",
+      "ja": "どうやらブルームは悪魔という存在のあり方を考えているようだった。",
+      "zh": "看来布鲁姆在思考恶魔的存在方式。"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "fecd6a12",
+      "speaker": "",
+      "ja": "悪逆非道が悪魔という存在であるとするならば、今のブルームは真逆の存在であると言えるだろう。",
+      "zh": "如果说为非作歹是恶魔的常态，那现在的布鲁姆可以说是完全相反的存在吧。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "f3ecf321",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、このままなら、ブルームは性格の良い悪魔に育つんじゃないか？",
+      "zh": "这、这样的话，布鲁姆不就会成长为性格好的恶魔吗？"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "c5c4c0b8",
+      "speaker": "",
+      "ja": "{G_PlayerName}がそう言うとブルームはニッコリ微笑んで答えた。",
+      "zh": "{G_PlayerName}这么一说，布鲁姆莞尔一笑，答道："
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "163b8352",
+      "speaker": "ブルーム",
+      "ja": "ふふふ、ブルームは契約をちゃんと守る良い悪魔だからねっ♪",
+      "zh": "哼哼哼，因为布鲁姆是好好遵守契约的好恶魔嘛♪"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "9db12222",
+      "speaker": "",
+      "ja": "上機嫌でそう言ったブルームだが、{G_PlayerName}はなんだか肩すかしを食らったような感覚に襲われる。",
+      "zh": "布鲁姆兴高采烈地这么说，{G_PlayerName}却有种被泼了冷水的感觉。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "2455cc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（普段は街の人々から苦情を言われることが多いし、生意気だとは思うのだが……。）",
+      "zh": "（平时常被街坊抱怨，也觉得他有点自以为是……。）"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "7127529e",
+      "speaker": "{G_PlayerName}",
+      "ja": "なにか物足りないんだよな……",
+      "zh": "总觉得少了点什么啊……"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "9d8321f4",
+      "speaker": "",
+      "ja": "良い子のブルームに少し物足りなさを感じ不満げな表情を浮かべている{G_PlayerName}を見て何か思いついたように。",
+      "zh": "看到{G_PlayerName}对乖巧的布鲁姆有点不满足，露出不满的表情，布鲁姆似乎想到了什么。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "b491d93b",
+      "speaker": "ブルーム",
+      "ja": "ブルーム知ってるよっ！　男の人は、ざーこ、って言うと喜ぶんでしょ？",
+      "zh": "布鲁姆知道哦！男人被说“小废物～”就会高兴吧？"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "7e2df5a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぶっ！",
+      "zh": "呜哇！"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "c4a9f3be",
+      "speaker": "ブルーム",
+      "ja": "これからも喜んで貰えるように、いーっぱい言葉のお勉強してみるねっ！",
+      "zh": "为了以后也能开开心心地买东西，我要拼命多学点词儿！"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "e44b4cac",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……ああ……そっか……",
+      "zh": "啊……啊啊……这样啊……"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "ca940789",
+      "speaker": "",
+      "ja": "悪びれることなく無邪気にそう宣言するブルームを見て、{G_PlayerName}はつくづく思った。",
+      "zh": "看着布露姆无忧无虑地这么宣告，{G_PlayerName}真的打心底这么想。"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "85a10ac4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、やっぱりブルームはブルームなんだな……",
+      "zh": "唉，布露姆果然就是布露姆啊……"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "66442162",
+      "speaker": "",
+      "ja": "それから数日後……。",
+      "zh": "几天之后……"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "6a4ef489",
+      "speaker": "ブルーム",
+      "ja": "クソ人間……小さくなってた時のブルームの事は忘れなさい……いいっ！　絶対に忘れなさいよねっ！",
+      "zh": "臭人类……变小那会儿的布露姆，你给我忘干净了……听到没！绝对要忘掉！"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "b7978cb2",
+      "speaker": "",
+      "ja": "余程小さくなっていた時の自分の言動や行動が恥ずかしかったのか、ブルームは{G_PlayerName}にそう捲し立てた。",
+      "zh": "大概是变小那会儿的言行回想起来太羞耻了吧，布露姆对着{G_PlayerName}连珠炮似的嚷嚷。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "a1b96c6e",
+      "speaker": "",
+      "ja": "そんなブルームを見て{G_PlayerName}はすごく複雑そうな表情を浮かべて呟く。",
+      "zh": "看着这样的布露姆，{G_PlayerName}表情复杂地低哼了一声。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "4d9f42fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、いつも通りのブルームだな……悲しいような……これでいいような……",
+      "zh": "嗯，果然还是平时那个布露姆……有点难过……又觉得这样也好……"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "75577ed2",
+      "speaker": "ブルーム",
+      "ja": "な、なんでそんなにシミジミしてるのよっ……！",
+      "zh": "你、你干嘛那么感慨万千啊……！"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "60d1fb4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……なんでもない……",
+      "zh": "没事……没什么……"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "832c7745",
+      "speaker": "",
+      "ja": "慌ただしくも小生意気なブルームの言葉に{G_PlayerName}は思わず肩を落としながら小さな声で言った。",
+      "zh": "布露姆虽然慌慌张张还凶巴巴，{G_PlayerName}却不由自主垂下肩膀，小声嘟囔。"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "786e3ff0",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……たまには無邪気な心を思い出してくれ……",
+      "zh": "不过……偶尔也记得拿出点天真来啊……"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "22398f68",
+      "speaker": "ブルーム",
+      "ja": "な、なによそれ～～～～～っ！",
+      "zh": "你、你说什么啊～～～～！"
+    }
+  ]
+}
