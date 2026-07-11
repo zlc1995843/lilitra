@@ -1,0 +1,364 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "ba840f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "う～ん……",
+      "zh": "嗯……"
+    },
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "a32e4d0f",
+      "speaker": "",
+      "ja": "{G_PlayerName}は自室で真剣に考え込んでいた。",
+      "zh": "{G_PlayerName}在房间里认真沉思着。"
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "ef15e439",
+      "speaker": "",
+      "ja": "それはグレメインの事である。",
+      "zh": "那是关于格雷梅因的事情。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "1d95473",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだか最近、グレメインに避けられているような気がする……",
+      "zh": "总觉得最近好像被格雷梅因躲着……"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "b5fa6c0d",
+      "speaker": "",
+      "ja": "グレメインの立場を考えると当然の振る舞いだと理解はできるのだが、それでも少し寂しさも感じてしまう。",
+      "zh": "想到格雷梅因的立场，这是理所当然的行为，倒也不是不能理解，但还是感到少许寂寞。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "d6024393",
+      "speaker": "{G_PlayerName}",
+      "ja": "最近グレメインと会えていないし……まあ彼女の立場を考えたら滅多に会えないっていうのも当然なんだろうけど……",
+      "zh": "最近都没见到格雷梅因……嘛，考虑到她的立场，见不到也是理所当然的吧……"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "76fb3a37",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……一方的に避けられているように感じちゃうんだよなぁ",
+      "zh": "但是……总感觉单方面被躲着啊……"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "3c68e397",
+      "speaker": "",
+      "ja": "するとそんな{G_PlayerName}の部屋のドアがノックされて、当のグレメインが入ってきた。",
+      "zh": "就在这时，{G_PlayerName}的房门被敲响，正是格雷梅因进来了。"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "cd03223a",
+      "speaker": "グレメイン",
+      "ja": "突然失礼致します、今……少しだけお時間を頂戴してもよろしいでしょうか？",
+      "zh": "突然打扰了，现在……能占用你一点时间吗？"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "f3110dcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　グレメイン！？　こ、こんなとこに来ても大丈夫なんですか？！",
+      "zh": "诶？！格雷梅因！？来、来这里不要紧吗？！"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "a7141a40",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の慌てぶりを見てグレメインはクスクスと笑いながら歩み寄ってきた。",
+      "zh": "看着{G_PlayerName}慌张的样子，格雷梅因咯咯笑着走了过来。"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "910c3e21",
+      "speaker": "グレメイン",
+      "ja": "本当はいけないことですが、信者の目をかいくぐってまいりました、崇姫のオフの日ってところでしょうか？　ふふふっ♥",
+      "zh": "其实是不该这么做的，但我避开了信徒的视线偷偷过来了，算是崇姬的休息日吗？呵呵呵♥"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "5421ed97",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、でも……急に来られても何の用意もしてないし……面白みのない部屋だと思うけど……座るところもベッドしかないし……",
+      "zh": "但、但是……你突然过来我什么都没准备……而且这房间也没什么好玩的……只能坐床上……"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "47e1522f",
+      "speaker": "グレメイン",
+      "ja": "お気になさらず、必要なのはわたくしへの信仰心だけで十分、ですので……♪",
+      "zh": "不必在意，只要有你对我的信仰心就足够了……♪"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "ccda1237",
+      "speaker": "",
+      "ja": "そんなグレメインの含みがある言葉に緊張しつつも{G_PlayerName}はドキッとしてしまう。",
+      "zh": "听着格雷梅因这意味深长的话，虽然紧张，{G_PlayerName}心里还是咯噔一下。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "dd2f4a7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや～、最近グレメインから避けられていると感じていたからビックリしましたよ、まさか崇姫様が俺の部屋に来るなんて思いもしなかったから",
+      "zh": "哎呀～，最近总感觉被格雷梅因躲着，所以吓了一跳，没想到崇姬大人会来我房间啊。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "ec4d95a9",
+      "speaker": "グレメイン",
+      "ja": "すみません……最近信者から変な男と崇姫が一緒にいるとの噂がわたくしの耳にまで届きましたので",
+      "zh": "对不起……最近有信徒向我传话说，有个奇怪的男人和崇姬在一起。"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "fe34c257",
+      "speaker": "{G_PlayerName}",
+      "ja": "変な男って……",
+      "zh": "奇怪的男人……"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "91f697",
+      "speaker": "グレメイン",
+      "ja": "仕方のないこととはいえ、あなたに冷たく接してしまったこと……わたくしも心苦しかったのです",
+      "zh": "虽然说是无可奈何，但我对你这么冷淡……我也很过意不去。"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f2e7c75a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そういうことだったのか……確かに最近話したり２人で行動していることが多かったから……",
+      "zh": "原、原来是这样啊……的确最近我们经常说话，也总是一起行动……"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "67739486",
+      "speaker": "グレメイン",
+      "ja": "わたくし、あなたとの時間をとても心地よく感じているんですよ",
+      "zh": "和你在一起的时间，我感觉特别舒心呢。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "8efca7c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　そ、そう……なんですか？",
+      "zh": "诶？！是、是这样……吗？"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "ce3c92b6",
+      "speaker": "グレメイン",
+      "ja": "ええ、話していると安心と言いますか、気持ちが楽になるんです……本当のわたくしをさらけ出せるような気がするんです",
+      "zh": "嗯，和你说话，总觉得很安心，心里也轻松多了……有种能把真正的自己表现出来的感觉呢。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "c3148e0c",
+      "speaker": "",
+      "ja": "自分とは立場や地位がまるで違うグレメインに特別扱いされていると知った{G_PlayerName}は顔が一気に紅潮してきて心臓の鼓動が高鳴ってしまう。",
+      "zh": "意识到自己居然被立场和地位都天差地别的格雷梅因特殊对待，{G_PlayerName}的脸瞬间涨红，心也怦怦跳了起来。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "5d620aed",
+      "speaker": "{G_PlayerName}",
+      "ja": "（心臓の音ってこんなに鳴るのか？！　これってグレメインにも聞こえて……。）",
+      "zh": "（心跳声能这么大吗？！这声音该不会被格雷梅因也听到……。）"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "ab313579",
+      "speaker": "",
+      "ja": "そう思うと気恥ずかしくなってしまい、ますます顔が熱くなってきた。",
+      "zh": "这样一想更害羞了，脸也越来越烫。"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "9252aabc",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を見てグレメインは少しからかうように囁きかけてくる。",
+      "zh": "见到{G_PlayerName}这副模样，格雷梅因带着几分逗弄的意味，凑过来轻轻开了口。"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "26ffdcb5",
+      "speaker": "グレメイン",
+      "ja": "まあ、どうされたのですか？　顔が真っ赤ですよ？　それに……♥",
+      "zh": "哎呀，您这是怎么啦？脸都红透了呢？而且……♥"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "dea83ab2",
+      "speaker": "",
+      "ja": "そう言うとグレメインは{G_PlayerName}の胸元に自らの耳を傾けるようにして寄り添ってきた。",
+      "zh": "说着，格雷梅因将耳朵贴近{G_PlayerName}的胸膛，整个人依偎过来。"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "5523aa72",
+      "speaker": "{G_PlayerName}",
+      "ja": "あわわっ！？",
+      "zh": "呜哇！？"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "fbea7733",
+      "speaker": "",
+      "ja": "グレメインの匂いやその近づく体に{G_PlayerName}の鼓動はますます激しくなっていってしまう。",
+      "zh": "格雷梅因身上的香气，加上她靠得这么近，{G_PlayerName}的心跳越来越急促了。"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "c51a080a",
+      "speaker": "グレメイン",
+      "ja": "ふふっ♪　鼓動もどんどん速くなってますね♥　わたくしが部屋に訪れた時から気になってはいましたが……今はその何倍も♥",
+      "zh": "哼哼♪ 心跳声越来越快了呢♥ 其实我从刚进房间那会儿就注意到了……不过现在，可比那时还要翻好几倍呢♥"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "e4a42f77",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　きゅ、急に近づかれてビックリしたんですよ……！　それに俺この服で機械いじりとかもするから、グレメインの洋服が汚れたりしたら……",
+      "zh": "哇！你、你突然靠这么近，吓了我一跳……！而且我这身衣服平时还鼓捣机械来着，要是把格雷梅因你的洋装弄脏了可……"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "9eaa629d",
+      "speaker": "グレメイン",
+      "ja": "こうしていると……あなたの心音がもっと鮮明に聞こえるので離れません♪",
+      "zh": "这样贴着……你心跳的声音听得更清楚了，我才不放开呢♪"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "da8056e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、でも……",
+      "zh": "可、可是……"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "91644ee9",
+      "speaker": "",
+      "ja": "グレメインの存在を近くに感じて{G_PlayerName}はしどろもどろになってしまった。",
+      "zh": "格雷梅因近在咫尺，{G_PlayerName}顿时变得语无伦次了。"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "d3d7aea",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}をからかうように、グレメインがすぐ近くで囁きかけてくる。",
+      "zh": "像要捉弄{G_PlayerName}一般，格雷梅因凑在耳边柔声低语。"
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "5a2340ef",
+      "speaker": "グレメイン",
+      "ja": "あら♥　崇姫に逆らうなんて……とんだ暴れ仔馬さんですね♥",
+      "zh": "哎呀♥ 竟敢违逆崇姬……真是个乱来的烈马先生呢♥"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "b32302a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや……そんな……逆らうとか……俺は……",
+      "zh": "不、不是……那样……什么违逆不违逆的……我……"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "792779ef",
+      "speaker": "",
+      "ja": "グレメインに翻弄され、{G_PlayerName}はドキドキしながらも妙な心地よさを感じていた。",
+      "zh": "被格雷梅因这样戏弄着，{G_PlayerName}尽管心里慌得不行，却又莫名感到一丝舒心。"
+    }
+  ]
+}
