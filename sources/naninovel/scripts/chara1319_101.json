@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "88ff4d5",
+      "speaker": "ベル",
+      "ja": "ほら助手！　今度はあっちの射的だ！",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "624f2815",
+      "speaker": "ベル",
+      "ja": "わがはいのスペシャルな魔改造コルク銃で景品ぜーんぶかっさらってやるんだーっ！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "acaf84a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベル落ち着けっ！　腕引っ張るなぁ～～っ！　もげるーーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "1c9ecab7",
+      "speaker": "",
+      "ja": "夏祭りに参加した俺とベル。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "bbdfb662",
+      "speaker": "",
+      "ja": "ベルはよほど祭りを楽しみにしていたらしく、テンション全開で屋台を見て回る。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "53e8fdca",
+      "speaker": "",
+      "ja": "屋台料理を食べ、屋台のゲームに挑戦し、爆弾で遊び、エトセトラエトセトラ──",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "eefe91a5",
+      "speaker": "",
+      "ja": "しかしそれだけ遊んでも満足できないのか、りりあん特有の無尽蔵の体力で俺はひたすらに引っ張り回されていた。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "3072842e",
+      "speaker": "ベル",
+      "ja": "くっくっく！　よ～し、さっそくわがはいの腕前見せてやるぞ！",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "fb2a8ecc",
+      "speaker": "屋台のおじさん",
+      "ja": "お嬢ちゃん、お嬢ちゃん、その前にお金……って、自前の銃でやるつもりか？　ダメダメ、ちゃんとこっちで用意したのでやってもらわないと",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "f08634b2",
+      "speaker": "ベル",
+      "ja": "何故だっ！？　ちゃんとコルク銃だぞ！　本物じゃないんだからいいだろっ",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "c5af91fb",
+      "speaker": "屋台のおじさん",
+      "ja": "ダメダメ、インチキする人だっているんだから",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "ce1f237a",
+      "speaker": "ベル",
+      "ja": "むーっ！　{G_PlayerName}！　お前も何か言えっ！　これはおーぼーだっ！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "b8efd4c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "屋台の人の言うとおりだって。やるならお店の銃使えよ。それがルールなんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "73f9a5d5",
+      "speaker": "ベル",
+      "ja": "むー！　むーっ！　バカ助手め！　わかった、それじゃあちゃんと屋台の銃使うぞ……それでいいんだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "2a5df3e4",
+      "speaker": "屋台のおじさん",
+      "ja": "へい、毎度！　じゃあ５発分、好きなの狙っていいからな",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "81551165",
+      "speaker": "",
+      "ja": "俺はお金を払うと、ベルがコルク銃を受け取る。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "6252248e",
+      "speaker": "",
+      "ja": "すぐに撃つかと思いきや、まじまじと銃を見つめ、一人うんうん唸っていた。",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "a5a9284a",
+      "speaker": "ベル",
+      "ja": "よしよし、これなら問題無いな♪　わがはいの腕前をしかと見とけよ、助手",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "bdd61862",
+      "speaker": "{G_PlayerName}",
+      "ja": "へいへい、しっかり見てきますよ……",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "cdcecfca",
+      "speaker": "ベル",
+      "ja": "わっはっはっは～っ♪　我ながら銃の扱いに惚れ惚れするなぁ～♪　お前も見ていただろう？",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "82fc5017",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……マジですごかったな……ベルって爆弾だけじゃないんだな……",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "117c670f",
+      "speaker": "ベル",
+      "ja": "当たり前だっ！　わがはいを誰だと思っているんだ？　あのくらい朝飯前だ！　あははははははっ",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "4b4af8d9",
+      "speaker": "",
+      "ja": "俺の両手には抱えきれないほどの射撃の商品の数々が……。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "ab71868b",
+      "speaker": "",
+      "ja": "たった５発のコルク銃で何故これほどの景品をゲットできたのか……。",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "8a27efb8",
+      "speaker": "ベル",
+      "ja": "しかし思いのほか簡単だったな～……屋台側ならインチキ出来るだろう？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "60b92a2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはまぁ……そういう屋台もあるんだろうけどさ、少なくともココらの屋台でそういうのしてなさそうに思ったなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "4568cab",
+      "speaker": "{G_PlayerName}",
+      "ja": "屋台の人、真っ青になっていたぞ……？　なんで一つのコルクで５個くらい景品取れたんだよ？　ベルが何かした様子もなかったし……インチキしてないよな……？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "3f117173",
+      "speaker": "ベル",
+      "ja": "何だ助手、わがはいを疑うのか？　あんなのちょちょいって計算すれば楽勝だぞ♪",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "d0bc4086",
+      "speaker": "ベル",
+      "ja": "銃にもコルクにも何も細工されていなかったからな～♪　実に計算しやすかったぞ♪　もちろん、わがはいの抜群の銃の腕前があればこそだが！",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "3cc1c05f",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやいや、計算とかいうレベルじゃないだろ……そもそもいつそんな計算したんだよ……５発連続で撃っただけにしか思えんかったし",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "69febc99",
+      "speaker": "ベル",
+      "ja": "くっくっく♪　わがはいの頭脳をもってすればそんな計算一瞬だ、くくくっ♪",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "cd83920a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……なのか？　はぁ、疲れた……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "64136ba4",
+      "speaker": "ベル",
+      "ja": "あーーっ！　お前、何座ってるんだ！　まだ屋台回る予定なんだぞ！？",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "386c6ea5",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう散々遊んだだろ？　さすがに疲れたって。少しだけ休ませてくれ……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "ad69ded8",
+      "speaker": "ベル",
+      "ja": "むぅ……お前、そんなに疲れていたのか……？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "f64364fe",
+      "speaker": "",
+      "ja": "ベルが心配そうに俺の顔を覗き込む。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "573aee58",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　いや、少しだけ、ほんの少しだけ、なっ！？　ほれ、もう回復した！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "5f3d74e8",
+      "speaker": "",
+      "ja": "ベルにしては珍しい行動に俺は思わず立ち上がり、何でもないアピールをするようにスクワットをする。",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "7164e4b7",
+      "speaker": "",
+      "ja": "しかしベルは何かを考えるようにアゴに手を当て、じっと俺を心配そうに見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "1bb74537",
+      "speaker": "ベル",
+      "ja": "よし、じゃあ休憩だ！　助手は座って待ってろ！　ちょっと行ってくるっ！",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "55ed88da",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、おいっ！？　い、行っちまった……余計な心配かけてしまったかな……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "6489789c",
+      "speaker": "",
+      "ja": "ベルにとっては楽しいお祭り、それを台無しにしてしまったかもと落ち込んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "43b552cd",
+      "speaker": "",
+      "ja": "帰ってきたら謝ろう、そう思いながら俺は再びベンチに腰をおろした。",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "6eb57218",
+      "speaker": "ベル",
+      "ja": "待たせたな、助手！",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "7a34da32",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、戻ったか、さっきはすま……ん……？　なんかいい匂いするな",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "bb3f2424",
+      "speaker": "",
+      "ja": "戻ってきたベルの手にはビニール袋が一つ。",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "d31008ac",
+      "speaker": "",
+      "ja": "そこからなんともいい匂いが漏れ出し、俺は謝ることを忘れじっとビニール袋を見つめてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "df12209f",
+      "speaker": "ベル",
+      "ja": "くっくっく♪　さっき屋台で見つけたんだ、休憩がてらちょうどいいと思ってな",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "5197f19d",
+      "speaker": "",
+      "ja": "ベルは俺の横に座り、ガサゴソと何かを取り出す。",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "1a27cf21",
+      "speaker": "ベル",
+      "ja": "じゃーーーんっ！　これを食べて元気を出すのだっ！！",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "f9653c71",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……おおおおっ！？　そっ、それは……！！　爆弾焼き……！！",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "e1749076",
+      "speaker": "ベル",
+      "ja": "くっく♪　お前がさっき食べたそうに見つめていたからな～っ♪　嬉しいだろう？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "e22441b3",
+      "speaker": "ベル",
+      "ja": "よし、さっそく食うぞ、ほれ、あ～んって口開けろ",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "3e749536",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……？　お前何言ってんだよ？　自分で……",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "7f85d769",
+      "speaker": "ベル",
+      "ja": "ダメに決まっているだろ！　わがはいが食わせてやる、ほれ、あ～んしろっ",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "835f039a",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いきなりそんな……",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "3d90ec44",
+      "speaker": "ベル",
+      "ja": "ほら、さっさと口開けろっ！　冷めてしまうだろう！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "893f33cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ふぐっ！？　んぐぐぐぐぐっ！",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "5d7258dd",
+      "speaker": "",
+      "ja": "ベルは開いた俺の口にアツアツの爆弾焼きを押し込むように入れる。最初は熱さに驚いたが、噛んでいくと……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "a8fea33c",
+      "speaker": "{G_PlayerName}",
+      "ja": "美味いっ！　美味いぞーーーーーーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "a8c8a4c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（爆発しない爆弾焼きがこんなに美味いとは……）",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "c79b222a",
+      "speaker": "ベル",
+      "ja": "おおおっ！　そうか！　買いに行って良かったぞ♪　わがはいもどれ……あむっ",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "c35eabc7",
+      "speaker": "ベル",
+      "ja": "あむあむぅ……ごくんっ！　これは美味いなっ！",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "e93228d7",
+      "speaker": "ベル",
+      "ja": "ほれ、口開けろ、もう一個食えっ",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "d0ed1186",
+      "speaker": "",
+      "ja": "俺たちは二人で爆弾焼きを頬張り、あっという間に無くなってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "c0d8a3cb",
+      "speaker": "ベル",
+      "ja": "はー、食った食った♪　そろそろ戻るか？",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "ca6fee64",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、まだまだ遊ぶぞ！　美味い爆弾焼き食ったおかげで完全復活だ！",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "e4176f27",
+      "speaker": "ベル",
+      "ja": "む……助手、そのままストップ",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "b3e07502",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "54e73552",
+      "speaker": "ベル",
+      "ja": "いいからそのままじっとしてろ……",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "84795857",
+      "speaker": "ベル",
+      "ja": "……ちゅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "ee9a0440",
+      "speaker": "{G_PlayerName}",
+      "ja": "──なっ！？　ななななっ！？",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "c4755084",
+      "speaker": "",
+      "ja": "突然ベルは俺の口元にキスし、俺はいきなりの出来事でそのまま固まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "19969d3e",
+      "speaker": "ベル",
+      "ja": "口元にソースが付いていたぞ♥　でももう大丈夫だ",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "d306552d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ベル、待って……！",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "49e5f159",
+      "speaker": "ベル",
+      "ja": "助手ーっ♪　射撃の景品忘れるなよーっ♪　二人の大事な夏の思い出なんだからなーっ",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "695507f5",
+      "speaker": "",
+      "ja": "ベルは振り返り、大声で俺にそう言うと一人走って行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "f6988683",
+      "speaker": "",
+      "ja": "振り返ったベルの笑顔と、そして遠目からでもハッキリとわかるほど赤く染まっていた頬。",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "1094defe",
+      "speaker": "",
+      "ja": "初めて見たかもしれない女の子なベル。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "fc0fb631",
+      "speaker": "",
+      "ja": "俺は景品を持つと、そんなベルにドキドキと胸を高鳴らせながらあとを追いかけるのであった。",
+      "zh": ""
+    }
+  ]
+}
