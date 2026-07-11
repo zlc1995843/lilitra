@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "682fa0ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうですか？　幼甘祭は",
+      "zh": "幼甘祭……怎么样？"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "90c453cb",
+      "speaker": "",
+      "ja": "幼甘祭で賑わう街で{G_PlayerName}は横を歩く小さくなってしまった永虚に語りかける。",
+      "zh": "在因幼甘祭而热闹的街上，{G_PlayerName}对身旁那个变小了的永虚说道。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "9f755a5f",
+      "speaker": "",
+      "ja": "それを受けて永虚は賑やかな街を見回してしみじみとした様子で言った。",
+      "zh": "听了这话，永虚环视热闹的街道，感慨地说道。"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "f17e07f6",
+      "speaker": "永虚",
+      "ja": "催事というものは、いついかなる時でも人の賑わいを感じられて良い",
+      "zh": "祭典这玩意儿，无论在什么时候，都能让人感受到那份热闹的氛围，挺不错的。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "fd241776",
+      "speaker": "",
+      "ja": "そこまでは普通の会話だったが、永虚は急に物騒な台詞を口にした。",
+      "zh": "到这里还是普通的对话，但永虚突然说了一句危险的话。"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "bb603e03",
+      "speaker": "永虚",
+      "ja": "賑わいの中でも、刃を振るい命を奪うこともままあるがな",
+      "zh": "即便在这份喧嚣之中，挥刀夺命的事也时有发生呢。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "29e0a958",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？！",
+      "zh": "……诶？！"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "5267f274",
+      "speaker": "永虚",
+      "ja": "かえって、盾となることもあるが",
+      "zh": "不过，倒也能成为盾牌。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "e39bfdcb",
+      "speaker": "",
+      "ja": "祭りとは似つかわしくない単語の数々に{G_PlayerName}は慌てて言った。",
+      "zh": "面对这些与祭典格格不入的词语，{G_PlayerName}慌忙说道。"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "e1673196",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ちょっと！　お祭りの最中ですよ！",
+      "zh": "喂，喂！这可是祭典进行中啊！"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "9b225ad5",
+      "speaker": "永虚",
+      "ja": "ふ。斯様な場ではつまらぬ話か……詫びよう",
+      "zh": "哼。在这种场合说这些煞风景的话……我道歉就是了。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "5f6b751e",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、できれば楽しい話をしてほしいですね……せっかくのお祭りですし",
+      "zh": "哈哈，如果可以的话，希望能说些开心的事……毕竟难得有祭典嘛。"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "33eb6a8e",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の指摘に、永虚は素直に首を縦に振るとあたりの様子をうかがう。",
+      "zh": "面对{G_PlayerName}的指摘，永虚乖乖点了点头，然后四处张望起来。"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "5defad3b",
+      "speaker": "永虚",
+      "ja": "しかし、ひときわ賑わっているな、汝の気を惹くものはあるか？　飴でもくれてやろうか？",
+      "zh": "不过，那边格外热闹啊。有没有什么让你感兴趣的东西？要不，我给你买颗糖？"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "5a97547e",
+      "speaker": "",
+      "ja": "まるで母親が息子に世話を焼くような永虚の言葉に、{G_PlayerName}は思わず苦笑いを浮かべた。",
+      "zh": "对于永虚那简直像母亲照顾儿子一样的话语，{G_PlayerName}不禁露出了苦笑。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "9ab74fb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫です、お菓子なら山ほど準備してきたんで",
+      "zh": "没关系的，点心的话我带了很多。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "8a8b1d13",
+      "speaker": "",
+      "ja": "そう呟くと{G_PlayerName}は辺りに並んでいる屋台を見て思わず肩をすくめる。",
+      "zh": "这么嘀咕着，{G_PlayerName}看了看周围林立的摊位，不禁耸了耸肩。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "15e795f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……にしても確か”大人が小さい子供にお菓子を贈る”お祭りだってきいたけど……",
+      "zh": "……不过，我记得这应该是“大人给小孩子送点心”的祭典吧……"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "60d476d",
+      "speaker": "",
+      "ja": "お菓子を売る屋台は無料でお菓子を配るわけではなく、しっかりお金を取っていることに呆れ顔だ。",
+      "zh": "卖点心的摊位并不是免费发放点心，而是实打实地收钱，让他露出了无语的表情。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "fcb96b4f",
+      "speaker": "永虚",
+      "ja": "ふっ、菓子の備えを怠った者に向けた店か",
+      "zh": "哼，这是为那些没准备点心的人开的店吧。"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "f07a9fcb",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　そういうことなんですか？",
+      "zh": "咦？是这么回事吗？"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "51fe9200",
+      "speaker": "永虚",
+      "ja": "それ以外あるまい、少し思慮が浅いようだな",
+      "zh": "那也是没办法的事，看来你想得还不够深啊。"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "222b767e",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すみません……",
+      "zh": "对、对不起……"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "d8d0d778",
+      "speaker": "永虚",
+      "ja": "欲もあるが、それが助けでもある……世はそうして創られるのだな",
+      "zh": "欲望固然有，但那也是一种助力……世界不就是这样创造出来的嘛。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "914b65ae",
+      "speaker": "",
+      "ja": "しみじみとした感じでそう言った永虚は、辺りを見回しながら楽しそうに言った。",
+      "zh": "永虚感慨地说着，又环顾四周，显得很开心。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "96b63417",
+      "speaker": "永虚",
+      "ja": "では、我もこの星の児らに倣うとするか",
+      "zh": "那么，我也学学这星球上的孩子们吧。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "b97e0cfa",
+      "speaker": "{G_PlayerName}",
+      "ja": "永虚さんもお菓子を貰いにいくんですか？　甘いものが好きとか？　意外ですね",
+      "zh": "永虚先生也要去买零食啊？您喜欢吃甜的？真没想到。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "18c602a8",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の言葉に永虚は少し険しい表情を浮かべて告げる。",
+      "zh": "听到{G_PlayerName}这么说，永虚露出一丝严肃的表情说道。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "2ae98c8",
+      "speaker": "永虚",
+      "ja": "ここに来るまでも何個か施しを受けていてな、祭りには従おう、だが……『意外』とは。恐れを知らぬのか？",
+      "zh": "来这儿的路上我也受了几次照顾，祭典嘛就入乡随俗……不过，说“真没想到”是何意？难道你不懂得畏惧吗？"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "222b767e",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すみません……",
+      "zh": "对、对不起……"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "199b24c3",
+      "speaker": "",
+      "ja": "永虚に少し恫喝された{G_PlayerName}は思わず身をすくめて小さな声で謝っていた。",
+      "zh": "被永虚这么一喝，{G_PlayerName}不由缩起肩膀，小声道歉。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "dee6a66b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あまり遅くならないようにして下さいね",
+      "zh": "别回来太晚啊。"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "7a5248f8",
+      "speaker": "永虚",
+      "ja": "心配無用だ",
+      "zh": "不用担心。"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "ec7efeea",
+      "speaker": "{G_PlayerName}",
+      "ja": "知らない人にはついていったりもしないでくださいよ",
+      "zh": "可别跟着陌生人走哦。"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "cc9ea3d6",
+      "speaker": "",
+      "ja": "心配していろいろ言ってくる{G_PlayerName}に永虚は思わず苦笑いを浮かべて呟いた。",
+      "zh": "见{G_PlayerName}这么担心，叨叨个没完，永虚不由得苦笑一声，嘟囔道。"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "943bbc84",
+      "speaker": "永虚",
+      "ja": "ふっ、まるで父のような振る舞いだ",
+      "zh": "哼，简直像个老爸似的。"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "eefac0bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　そ、そうでした？　そんなつもりじゃなかったんですけど……",
+      "zh": "嗯？！是、这样吗？我没那个意思啊……"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "efdb1460",
+      "speaker": "",
+      "ja": "慌てて言い訳を口にする{G_PlayerName}を見て永虚は思わず苦笑しながら告げる。",
+      "zh": "见{G_PlayerName}慌忙辩解起来，永虚忍不住苦笑着开口。"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "2b5cdc03",
+      "speaker": "永虚",
+      "ja": "ふ、戯れよ。では行ってくる……夕餉までには帰るぞ♪",
+      "zh": "呵，逗你玩呢。那我去了……晚饭前会回来的♪"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "aba3d51b",
+      "speaker": "",
+      "ja": "そう言うと永虚はお菓子を貰うために楽しそうに駆け出していった。",
+      "zh": "永虚说完，便兴冲冲地跑去买点心了。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "6b5fe779",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今だけは女の子として楽しんでほしいな。）",
+      "zh": "（就现在，好好享受做女孩子的感觉吧。）"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "3465860c",
+      "speaker": "",
+      "ja": "そんな気持ちを持ちつつ、{G_PlayerName}は永虚の後ろ姿を見送った。",
+      "zh": "{G_PlayerName}怀着这样的心情，望着永虚离去的身影。"
+    }
+  ]
+}
