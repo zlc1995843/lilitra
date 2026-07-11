@@ -1,0 +1,1219 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "805ce9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ホント、いつ来ても夜は賑やかだな……）",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "6d869677",
+      "speaker": "",
+      "ja": "買い物帰りにふと立ち寄った繁華街。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "f4663b8a",
+      "speaker": "",
+      "ja": "多くの人で賑わい、キャバ嬢やソープ嬢が看板を手に客引きをしていた。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "1b3106d",
+      "speaker": "カルーア",
+      "ja": "しゃ、社長さ～～～～～～ん！！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "56688455",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ！？　カルーア！？　な、何だよいきなりっ！",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "307cf818",
+      "speaker": "カルーア",
+      "ja": "こ、ここで会ったが百年目です～～～～っ！　一緒にお店来てください～～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "12569d50",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、引っ張るなって……！！　なんだよ、その敵討ちみたいな文言は……！！　俺カルーアに何かしたか！？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f9f636e8",
+      "speaker": "カルーア",
+      "ja": "何もしてないから問題なんです～っ、今月のノルマ足りなくてぇ～……今日中に何とかしないとお仕事クビになっちゃいますっ！",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "5ef49f18",
+      "speaker": "カルーア",
+      "ja": "あたしを助けると思ってお店に来てください～～～っ！　スッキリしていってくださいぃ～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "8a024bf0",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんで俺が！　男ならその辺にたくさんいるだろ？　そういう目的のヤツ探せよ",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "d7113c58",
+      "speaker": "カルーア",
+      "ja": "声掛けてもダメなんですぅ～……もう機械士くんしかいないんですぅ……本当に、本当に、お願いしますぅ～……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "ebe42864",
+      "speaker": "カルーア",
+      "ja": "このお仕事がクビになったら、また面倒なお仕事探しからスタートしなきゃなんですぅ……！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "ae0bb38b",
+      "speaker": "{G_PlayerName}",
+      "ja": "だから引っ張るなって……！　リリアンの力で引っ張られたら腕もげるって……！",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "ba5f7fed",
+      "speaker": "カルーア",
+      "ja": "だったらお店来てください～……行くって言うまで離しませんからぁ～……！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "11a3b2ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "そもそもなんで今さら必死なんだよ？　今月ってことはひと月は猶予あったんだろ？　その間何してたんだよ",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "b89ab193",
+      "speaker": "カルーア",
+      "ja": "そ、そりゃぁ……今月は指名が全然でしたから……控室で漫画読んでたり？　寝てたり？　スマホ弄ってたり？",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "90730adc",
+      "speaker": "カルーア",
+      "ja": "あ、動画配信とか最高ですよ？　時間つぶしにはもってこいですからね♪　ドラマに映画にアニメに見放題♪　お金はちょーっとかかりますけどぉ、十分元が取れますし♪",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "dd767158",
+      "speaker": "{G_PlayerName}",
+      "ja": "だぁーーーっ！　全然仕事してねーじゃねーか！　もう筋金入りのぐーたら具合だな……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "c743dc17",
+      "speaker": "カルーア",
+      "ja": "えへへ……褒められることじゃないですよぉ～",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "42d32d86",
+      "speaker": "{G_PlayerName}",
+      "ja": "どこに褒める要素があったんだよ……。で、クビになるってマジ話なの？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "23e3e068",
+      "speaker": "カルーア",
+      "ja": "ま、まじ、ですぅ……本当に本当にクビになっちゃうんです……お願いします、助けてください～……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "620f33dd",
+      "speaker": "カルーア",
+      "ja": "絶対に……ぐすっ、後悔はさせませんからぁ……",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "cff15934",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、泣くなって……なんか俺が泣かせたような感じになってるじゃないか……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "30e90f6e",
+      "speaker": "カルーア",
+      "ja": "それじゃあお店来てくださいぃ……機会があればって前に言ってたじゃないですかぁ……今がその時ですぅ……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "309a7be2",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、でも俺そういう店とか入った経験ないし……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "6d4df0cd",
+      "speaker": "カルーア",
+      "ja": "初めてでも大丈夫ですよぉ～……ていうか、ドーテイでも全然問題なしですぅ～",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "3cdc297e",
+      "speaker": "カルーア",
+      "ja": "ほらほら、行きましょ？　社長さんを天国に連れて行ってあげますから～……♥",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "6de015ec",
+      "speaker": "カルーア",
+      "ja": "緊張……しているみたいですね……♥　本当にこういうお店、初めてだったんですか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "82039ab4",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからそう言ったじゃないか……",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "bd66c816",
+      "speaker": "カルーア",
+      "ja": "あたし、てっきり逃げるためのウソかと……でも……",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "1bb5d5ec",
+      "speaker": "",
+      "ja": "カルーアは何か言いかけると、じっと肉棒を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "c0f52392",
+      "speaker": "",
+      "ja": "熱い眼差しで肉棒を見つめられ、興奮と緊張にさらに肉棒が肥大化してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "13cb70a5",
+      "speaker": "カルーア",
+      "ja": "正直なおちんちんですね……期待でパンパンになってる……♥",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "e395bd76",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃそうなるって……カルーアみたいな子に、今から……",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "26e05673",
+      "speaker": "",
+      "ja": "頭の片隅で想像するだけで肉棒がビクンと跳ねてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "6247953a",
+      "speaker": "",
+      "ja": "カルーア自身も少し緊張しているのか、少し表情が強張り、恥ずかしそうに頬を赤らめる。",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "6163b069",
+      "speaker": "",
+      "ja": "初めて見るかもしれないカルーアのそんな表情に、今から起きることに期待がどんどん大きくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "eddbf743",
+      "speaker": "カルーア",
+      "ja": "それじゃあ、拭いていきますね……♥　じっとしててくださいね……♥",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "89d28e89",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、あ……くっ……！",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "8ed809ce",
+      "speaker": "",
+      "ja": "おしぼりが肉竿に触れ、心地よい熱さに思わず声が溢れる。",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "b523ddd8",
+      "speaker": "",
+      "ja": "カルーアはゆっくりと肉棒を扱くようにおしぼりを動かし陰茎を拭き始める。",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "53d1af41",
+      "speaker": "カルーア",
+      "ja": "（すごい……こんなに大きいの初めて……♥　こんなのあそこに挿れられたら……♥）",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "8ca5a70c",
+      "speaker": "カルーア",
+      "ja": "（あ、ダメダメ……今はお仕事に集中しなきゃ……♥　ムリに連れてきたんだから、少しでもいい思いを……♥）",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "57799230",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、く……ちょ、お、おい……！　拭くの激しいって……！　まさかこのままイかせようとしてないか？",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "929ab01c",
+      "speaker": "カルーア",
+      "ja": "あ……バレちゃいました……？　だってお口でやると疲れるし……♥",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "885b15be",
+      "speaker": "カルーア",
+      "ja": "でもお口でするのも手でするのも大して変わらないでしょ……？♥　だからこのままぴゅっぴゅーでも問題ないですよね……？♥",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "5cc5b53a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃ、まぁ……違いはないかもしれないけど、でも気分的な問題も……それにそれって職務怠慢じゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "1895974",
+      "speaker": "カルーア",
+      "ja": "そ、そそ、そんなことないですよぉ……♥　ほらほら、おしぼりでも気持ち良いでしょ？♥　拭き拭き拭き～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "b1c4dd63",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううううっ……！！　カルーア、そ、そんなとこ、強く……ぐっ！！",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "780dd2a0",
+      "speaker": "",
+      "ja": "カルーアはおしぼりで亀頭を拭き、湿り気のタオルで拭かれる快感に思わず腰が跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "f20e0425",
+      "speaker": "",
+      "ja": "俺が声を上げるとカルーアはにんまりと笑みを見せ、ゴシゴシと過敏な亀頭を拭き続ける。",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "75dd260d",
+      "speaker": "カルーア",
+      "ja": "こことかちょっとだけカスが溜まっていますよ～……♥　こんなんじゃ女の子に嫌われてしまいますし、綺麗綺麗しましょうね～♥",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "d72744e4",
+      "speaker": "カルーア",
+      "ja": "ついでに射精してくれると、助かりますので、出したくなったら出してくださいね～……♥",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "743179e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、ぐっ……！　これ完全に手コキだって……！",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "4d16d42e",
+      "speaker": "",
+      "ja": "カルーアは亀頭におしぼりを拡げて被せると、カリ首を擦るようにおしぼりの上から肉棒を扱く。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "b6367ab1",
+      "speaker": "",
+      "ja": "おしぼりの感触と、そこから伝わるカルーアの手の柔らかさ。",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "f78e1a73",
+      "speaker": "",
+      "ja": "俺が思っている以上に気持ち良くなってしまい、カルーアは男のモノを扱い慣れていることを実感してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "55be4618",
+      "speaker": "カルーア",
+      "ja": "感じやすいんですねぇ～……♥　あたしとしては大助かりです……♥　あ、カウパー溢れてきました……♥",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "7af28a0c",
+      "speaker": "カルーア",
+      "ja": "もっと感じてください……ココの中のザーメン、いつでもぴゅっぴゅっぴゅー、してくださいねぇ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "f17d13e6",
+      "speaker": "カルーア",
+      "ja": "（よかった……おちんちんシコシコするのひと月ぶりだけど、どうにかなってるみたい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "60b14ba8",
+      "speaker": "カルーア",
+      "ja": "（でもこんなに感じやすい人初めて……♥　男の人がみんなこんなに感じてくれれば楽でいいのになぁ～……♥）",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "4e078105",
+      "speaker": "",
+      "ja": "手の動きに合わせ、快感と共にぐちゅぐちゅといやらしい音が強くなる。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "4ddd50f4",
+      "speaker": "",
+      "ja": "亀頭をおしぼりでゴシゴシされ、思わず腰がビクンと跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "c2845a40",
+      "speaker": "",
+      "ja": "カルーアは俺の反応に頬を緩ませながらさらに手の動きを早めていく。",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "a59c1831",
+      "speaker": "カルーア",
+      "ja": "カウパー、ドクドク出ていますよぉ……♥　エッチな匂いも強くなってぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "d76d4aa2",
+      "speaker": "カルーア",
+      "ja": "もう出そうじゃないですか？♥　ガマンなんてしないで、びゅーびゅーしてくださいねぇ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "68e4a25a",
+      "speaker": "カルーア",
+      "ja": "（腕、疲れてきちゃった……早くイってくれないかなぁ……）",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "a8f3f2a0",
+      "speaker": "カルーア",
+      "ja": "（晩御飯、何食べよ……久しぶりにちゃんとお仕事したし、奮発して──）",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "9691dfb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうっ！？　カルーア、そ、そこダメだって……！　あ、あっ！！",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "3a0787f1",
+      "speaker": "カルーア",
+      "ja": "へ……？　あ、ここ、弱いんですね……それならぁ……カリカリカリ～っ……♥",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "f947418d",
+      "speaker": "カルーア",
+      "ja": "（裏筋、触っちゃってた……♥　ここ触られるの嫌がる人いるし、触らないようにしていたんだけど……でも弱点発見……♥　これで帰れる～っ♥）",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "cdb5bb51",
+      "speaker": "カルーア",
+      "ja": "ほら、ほらぁ……気持ち良くイっちゃってください……♥　満足ザーメン、おしぼりにいっぱい中出ししてくださいねぇ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "14fbb7a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう、うううう……！　カルーア、も、もうダメ……！　くっ、うううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "56322f30",
+      "speaker": "カルーア",
+      "ja": "あは……♥　出ちゃいましたね♥　最後まで出し切りましょうねぇ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "f5d5a702",
+      "speaker": "",
+      "ja": "カルーアは射精している肉棒を絶妙な加減で扱き、導かれるように何度も精液を吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "872335a",
+      "speaker": "",
+      "ja": "どろっとした精液がおしぼりの中で溢れ、そのヌルヌルが更なる快感をもたらす。",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "ff00b064",
+      "speaker": "",
+      "ja": "声を上げながら何度も果てる俺の様子を、カルーアは嬉しそうな笑みを浮かべて見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "20490159",
+      "speaker": "カルーア",
+      "ja": "出し終わりましたね、それじゃあこれで終わり……",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "9fc06366",
+      "speaker": "カルーア",
+      "ja": "って、なんでおちんちん大きいままなんですか？♥　あの……射精しましたよね……？♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "3613639c",
+      "speaker": "{G_PlayerName}",
+      "ja": "み、見ればわかるだろ……こんなに出たの初めてかも……はーっ……",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "f0da3e19",
+      "speaker": "カルーア",
+      "ja": "ですよねぇ……♥　こんなにいっぱい出す人、初めて見ました……♥　射精しても硬いままな人も……初めて……♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "b1803451",
+      "speaker": "カルーア",
+      "ja": "ホントすっごい……♥　何でおちんちん大きいままなんだろう……♥",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "71b3c67f",
+      "speaker": "",
+      "ja": "カルーアは感嘆の声をあげながら、勃起したままの肉棒を確かめるように軽く扱く。",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "899e4863",
+      "speaker": "",
+      "ja": "射精直後の肉棒に再び甘い快感が走り、両脚がビクビクと勝手に震えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "70c74bce",
+      "speaker": "カルーア",
+      "ja": "硬いままだと満足したとは言えませんよね……？♥",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "d772267c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう、だな……中途半端な満足感かもしれない",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "7c9d61a1",
+      "speaker": "カルーア",
+      "ja": "ですよねぇ～……♥　それならもっと気持ち良くします……♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "4076d609",
+      "speaker": "カルーア",
+      "ja": "だからチップ弾んでくださいね～……♥",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "4879d84a",
+      "speaker": "カルーア",
+      "ja": "あむぅ……♥　れる、れろっ……♥　ちゅ……ちゅぅ……ぢゅるっ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "661e9160",
+      "speaker": "",
+      "ja": "舌を裏筋に押し当てるように亀頭の先端を加え始めるカルーア。",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "e627a811",
+      "speaker": "",
+      "ja": "顔を前後に動かすたびにカリ首が擦られ、ゾクゾクした快感に身体が震え上がる。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "38e651c8",
+      "speaker": "",
+      "ja": "思わず腰を引いてしまいがちだが、カルーアはそっと俺を押さえると、強制的に快感を与えてきた。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "aecb7efe",
+      "speaker": "カルーア",
+      "ja": "（やっぱりおちんちん敏感……♥　頑張ればすぐに終わらせられそう……♥）",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "fea29fd0",
+      "speaker": "カルーア",
+      "ja": "（不思議……ザーメンの味なんて大っ嫌いだったけど、でも……今はそんなに嫌に思えないっていうか……♥）",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "e104c0fa",
+      "speaker": "カルーア",
+      "ja": "ぢゅるっ♥　ちゅ……ちゅぅぅ……！♥　れるれるっ♥　ぢゅる、ちゅ……ぢゅぼっ、ぢゅぼっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "64eed24e",
+      "speaker": "{G_PlayerName}",
+      "ja": "カルーア、待って！　そんなされたらすぐに出ちゃうって……！！",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "9b9ed325",
+      "speaker": "カルーア",
+      "ja": "すぐに出してくれた方があたしは助かるんです……♥　イキたくなったらすぐに出してくださいね……♥",
+      "zh": ""
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "cf6d0d8a",
+      "speaker": "カルーア",
+      "ja": "ちゅっ……ちゅぅぅぅっ！！♥　ぢゅる、ぢゅぼっ、ちゅちゅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "b1034467",
+      "speaker": "",
+      "ja": "カルーアは肉棒を吸い上げながら、顔の動きがどんどん大きくなる。",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "28db0b23",
+      "speaker": "",
+      "ja": "柔らかな唇がカリ首を執拗に擦り、裏筋にザラザラの舌を押し付ける。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "48f1724f",
+      "speaker": "",
+      "ja": "いやらしいフェラの音が俺に恥ずかしさと快感をもたらし、的確で容赦のないフェラに無様に悶えてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "c2d79e16",
+      "speaker": "カルーア",
+      "ja": "（……胸がどきどきしてきちゃった♥　こんなの初めて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "cec78e4d",
+      "speaker": "カルーア",
+      "ja": "（機械士くんが感じると、少し、嬉しい……♥　もっとしてあげたくなっちゃう……♥）",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "528dcd3",
+      "speaker": "カルーア",
+      "ja": "ちゅちゅっ！♥　ぢゅる、ぢゅぼっ！♥　れろぉ、れろれろっ……！♥　ちゅちゅぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "bcc887de",
+      "speaker": "{G_PlayerName}",
+      "ja": "カルーア、だからダメだって！　マジで出ちゃうからっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "ea5d8005",
+      "speaker": "カルーア",
+      "ja": "（いつも凛としてる機械士くんが、あたしにいい様にされちゃってる……♥　もっと、もっとしてあげる……♥　機械士くんを悶えさせてあげるから……♥）",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "fce21a6c",
+      "speaker": "",
+      "ja": "射精した肉棒からさらに精液を搾り取るかのように亀頭を吸われる。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "a3396b7b",
+      "speaker": "",
+      "ja": "先走りを強引に吸い取られ、あまりの快感に俺は天井を見上げながら声を上げ続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "e5c85b3e",
+      "speaker": "カルーア",
+      "ja": "（お客さんが毎日機械士くんだったらいいのになぁ……♥　いっぱい感じてくれるし、機械士くんのだったらいくらでもフェラできちゃいそうだし……♥）",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "9e403b47",
+      "speaker": "カルーア",
+      "ja": "（うーん……どうにか毎日機械士くんにお店に来てもらう方法とかないかな……♥）",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "928f64e8",
+      "speaker": "カルーア",
+      "ja": "ぢゅるるるるっ！♥　ぢゅぼぢゅぼぢゅぼっ！♥　ぢゅるっ！♥　ぢゅっ、ちゅっ！♥　ちゅちゅ……！♥　れろぉ、ぢゅるるるっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "5706aca0",
+      "speaker": "{G_PlayerName}",
+      "ja": "カルーア、マジで出っ……ううう！！　ぐ、ぐううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "f9621bc7",
+      "speaker": "カルーア",
+      "ja": "（機械士くんと毎日……なんか想像したら余計にドキドキしてきちゃった……♥　あたし、今すごくえっちになっちゃってる、かも……♥）",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "153e717f",
+      "speaker": "カルーア",
+      "ja": "（初めてお口で男の人をイかせたいって思っちゃってるかも……♥）",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "7162e59b",
+      "speaker": "カルーア",
+      "ja": "ぢゅぼぢゅぼっ！♥　ぢゅるっ！♥　ぢゅるちゅっ！♥　ちゅちゅちゅっ……ぢゅるちゅぼっ！♥　ぢゅるるるるるう！！♥",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "ab59a68d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あああ、出る、出るっ！！",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "4aed681c",
+      "speaker": "カルーア",
+      "ja": "ふううっ！？！？♥　んふぅっ！♥　ふーっ！♥　んふーっ！！♥　んっ、んんんんん……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "7aa58518",
+      "speaker": "",
+      "ja": "俺は快感に耐え切れず、カルーアの口の中に盛大に射精する。",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "bfc9dbd1",
+      "speaker": "",
+      "ja": "口の中に出されたことに驚きの視線を向けるカルーア。",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "156313ae",
+      "speaker": "",
+      "ja": "それでも射精を止めることができず、俺はオスの欲望をカルーアの小さな口の中に吐き出し続けた。",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "9e638d66",
+      "speaker": "カルーア",
+      "ja": "んぅぅ、ごほっ、ごほっ……んはぁっ！♥　うううう、い、いきなり口の中に出すなんてぇ～……出すなら出すって言ってくださいよぉ～～っ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "a4ae0acb",
+      "speaker": "{G_PlayerName}",
+      "ja": "はーっ、はーっ、はーっ！　で、出るって何回か言っただろ……",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "6e424a8",
+      "speaker": "カルーア",
+      "ja": "ええ？　ほ、本当、ですかぁ……？♥",
+      "zh": ""
+    },
+    {
+      "key": "400.0",
+      "line_index": 400,
+      "inline_index": 0,
+      "line_hash": "7a887073",
+      "speaker": "カルーア",
+      "ja": "（うう……そういえば考え事ばっかりしてたから、機械士くんの声全然聞こえていなかったかも……）",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "af96d27",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも口の中に出したのは謝るよ……ホントごめん……さすがに失礼すぎだよな",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "f08d2a5c",
+      "speaker": "カルーア",
+      "ja": "あ……い、いえ……別に謝る必要は……♥　ただいきなりで驚いてしまって……",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "247e46d1",
+      "speaker": "カルーア",
+      "ja": "でもこれで終わりですし、あとは……って！？♥　な、なんでおちんちんまだカチカチなんですかぁ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "e713d6a5",
+      "speaker": "カルーア",
+      "ja": "機械士くんって、絶倫なんですかぁ～……？♥　濃ゆいの二度も出したのに……♥",
+      "zh": ""
+    },
+    {
+      "key": "416.0",
+      "line_index": 416,
+      "inline_index": 0,
+      "line_hash": "710a7985",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかんない……でもカルーア相手ならまだまだできそうだ……",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "edbff75d",
+      "speaker": "カルーア",
+      "ja": "（機械士くん、ホントすごい……♥　うあ、あ、あそこきゅんきゅんしてきちゃった……♥　あたし、機械士くんとセックスしたいって思っちゃってるぅ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "423.0",
+      "line_index": 423,
+      "inline_index": 0,
+      "line_hash": "3479abcc",
+      "speaker": "カルーア",
+      "ja": "あ、あの……それなら本番オプション、付けませんか……？♥　お金、かかりますけどぉ……で、でも満足していないのでしたら……♥",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "2ad14069",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いいのか……？",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "5f691a4c",
+      "speaker": "カルーア",
+      "ja": "は、はい……♥　あたしも、その……このままじゃ……なんていうか、中途半端と言いますかぁ……そ、そんな感じですから……♥",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "3b481499",
+      "speaker": "",
+      "ja": "カルーアの頬がさらに紅く染まり、蕩けた視線で俺を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "433.0",
+      "line_index": 433,
+      "inline_index": 0,
+      "line_hash": "464bc2f0",
+      "speaker": "",
+      "ja": "そんな表情を見せられ、男として断れるはずもなく、俺は頷いてしまうのであった。",
+      "zh": ""
+    }
+  ]
+}

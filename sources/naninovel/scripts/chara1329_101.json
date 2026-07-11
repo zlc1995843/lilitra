@@ -1,0 +1,436 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "5e00b458",
+      "speaker": "カルーア",
+      "ja": "はぁ～……おやすみサイコー……♪　毎日がおやすみだったら幸せなのになぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "599077f3",
+      "speaker": "カルーア",
+      "ja": "{G_PlayerName}くん……？　黙っちゃってどうかしたんですかぁ～……？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "3f360284",
+      "speaker": "{G_PlayerName}",
+      "ja": "……どうもこうも……人の部屋に来たと思ったらベッドでゴロゴロ……何か用があったんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "790dab47",
+      "speaker": "カルーア",
+      "ja": "用はありますよ～……快適な{G_PlayerName}くんのお部屋でのんびりするって目的が～……♪",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "a73f3e",
+      "speaker": "カルーア",
+      "ja": "あたしの部屋と違って綺麗で快適ですし～……お部屋のお掃除とかちゃんとしてるんですね～",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "ea6ca8f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "f66c0c86",
+      "speaker": "{G_PlayerName}",
+      "ja": "（工具とか部品とか散らかっているんだが……この部屋が快適ってカルーアの部屋は一体全体どうなってんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "754a0073",
+      "speaker": "カルーア",
+      "ja": "ふあ……あーっ♪　……それにしても機械士くんは毎日毎日お仕事してて偉いですねぇ",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "36d0e153",
+      "speaker": "カルーア",
+      "ja": "正直、このお船って機械がすべてしてくれますし、わざわざ働く必要はなくないですか？",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "564c51fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ結構な部分自動化してるけどさ……それでも人手が欲しいとこはあるし",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "dc378b84",
+      "speaker": "{G_PlayerName}",
+      "ja": "何もしないでタダ飯食らってるわけにもいかないだろ。カルーアも遊びに来ては飯食ってんだし、少しくらい手伝いしろよ",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "99a01ee3",
+      "speaker": "カルーア",
+      "ja": "えー……絶対に嫌です……！　おやすみの日は何もしないって固く決意しているんですからぁ～",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "c661afff",
+      "speaker": "カルーア",
+      "ja": "あー……寝ているだけで給料がもらえるお仕事とかあればいいんですけどね～……ずっと寝て、ぐーだらしていたいし～……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "1a2b4648",
+      "speaker": "カルーア",
+      "ja": "あ……あたしがルミナさんのようにお姫様だったら何もせずに楽～に生きられたのかなぁ？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "aac46940",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナはルミナで色々大変みたいだぞ？　俺らにはわからない苦労とか結構あると思うし……",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "6ada640f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、俺らみたいな一般人は仕事しなきゃダメなんだよ。人生逆転したきゃ仕事しまくるか、お宝でも掘り当てるしかないって",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "72dd8bbf",
+      "speaker": "カルーア",
+      "ja": "えー……イヤですぅ……寝て過ごしたいですぅ……仕事覚えるのイヤですぅ……人と話すのもイヤですぅ～……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "976a97e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "どこまでダメ人間なんだよ……そもそもカルーアの仕事ってコミュニケーションとか必要そうだけど？　客と話さなきゃ成り立たなくないか？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "eb85995a",
+      "speaker": "カルーア",
+      "ja": "だって、選択肢なんて無かったですもん……そうしなきゃアパート追い出されそうだったし……ご飯食べられなかったですし……",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "9b8cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "e2d76be3",
+      "speaker": "",
+      "ja": "悲しげな瞳で虚空を見つめるカルーア。",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "5931f656",
+      "speaker": "",
+      "ja": "その様子を見て、触れてはいけない話題だったのかもしれない、と考えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "201fe80d",
+      "speaker": "カルーア",
+      "ja": "あ……！　良いこと思いつきました……！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "bb4cd455",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ……まさかお宝探すとか言わないよな？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "f84c726c",
+      "speaker": "カルーア",
+      "ja": "違います～……！　もっと現実的なことです～……！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "e887aa67",
+      "speaker": "カルーア",
+      "ja": "機械士くんがあたしを一生養ってくれれば解決ですよね～？　あ、なんならお嫁さんになってあげますよ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "6a4f57d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……一日中ぐーだら寝ているお嫁さんとか誰が欲しがるんだよ",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "a43762cc",
+      "speaker": "カルーア",
+      "ja": "あーーっ！　ひっどーい……！！　言っちゃいけないこと言った……！　あたしだって傷つくんですよっ！",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "57422dde",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ仮に結婚したとして、カルーアは何をするんだ？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "a5b9755f",
+      "speaker": "カルーア",
+      "ja": "そりゃ……ゲームしたり、動画見たり……お昼寝したり……あと色々と……色々忙しくなると思いますけど",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9cf0dcca",
+      "speaker": "{G_PlayerName}",
+      "ja": "それ、俺にとって何のメリットもないだろ。家事が得意とか料理がプロ並みとかそういうアピールは無いのか？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "2ea9a74a",
+      "speaker": "カルーア",
+      "ja": "そんなことできるわけないじゃないですか……あんまりあたしに期待しないでください……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "9b8cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "8ad5bc3f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（清々しいまでのダメ人間っぷりだな……でも突き放すとマジで路頭に迷いそうだし、どうにか普通に生きて欲しいんだけどなぁ……）",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "5cd76b51",
+      "speaker": "カルーア",
+      "ja": "あ……！　アピールできること、一つあります～♥",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "e968c1aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ……一日20時間寝れるとかそういうのか？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "12578b24",
+      "speaker": "カルーア",
+      "ja": "それも得意ですけど、エッチのことなら少しは自信ありますよ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "1cb4e33a",
+      "speaker": "カルーア",
+      "ja": "すっごいテクで、機械士くんなんてすぐにイかせちゃうんですから……♥",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "f64e5f99",
+      "speaker": "カルーア",
+      "ja": "どうです？　お嫁さんとしては最高のアピールになりませんかぁ～？♥",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "e4e6680b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ結婚するんならそういうのも大事、だよな……うん",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "fd2e81ac",
+      "speaker": "カルーア",
+      "ja": "でしょでしょ？♥　機械士くんと結婚して、機械士くんが毎日お店に来て、毎日あたしを指名すれば……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "c6745213",
+      "speaker": "{G_PlayerName}",
+      "ja": "何でそうなるんだよっ！　結婚までして何でお金払ってしなきゃいけないんだよっ！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "b5c1c346",
+      "speaker": "カルーア",
+      "ja": "でもでも、毎日来てくれれば毎日おちんちん気持ち良くしますよ～？♥　ウィンウィンの関係になれますよ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "158312cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は店に行くたびに金を失うんだが……ま、まぁそれに関しては機会があれば、な……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "de9ff4e",
+      "speaker": "カルーア",
+      "ja": "えーっ！　そんな『行けたら行く』みたいな……絶対に来てくれないやつじゃないですかぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "9652871",
+      "speaker": "カルーア",
+      "ja": "結婚とかそういうのはとりあえずどうでもいいんで、お店には来てくださいよ～",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "45360d",
+      "speaker": "カルーア",
+      "ja": "すっごいサービスしてあげますからぁ～……たまにはあたしに貢ぎに来てくださいね♥",
+      "zh": ""
+    }
+  ]
+}
