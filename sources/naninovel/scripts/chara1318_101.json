@@ -1,0 +1,454 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ec3d4fd3",
+      "speaker": "ラト",
+      "ja": "ええ、それが主の意思なのです……ですから、規律を守り日々を暮らすことが肝要で……",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "75c52d8c",
+      "speaker": "",
+      "ja": "街中でラトは民衆に向けての説教を行っていた。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "5e600f4d",
+      "speaker": "",
+      "ja": "真剣に聞き入っている人も多く、崇皇の威厳というのがまざまざと現れている。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "6fd1aa3f",
+      "speaker": "",
+      "ja": "その様子を{G_PlayerName}は遠目から見守っていた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a4ac6b6e",
+      "speaker": "",
+      "ja": "そして説教を終えるとラトは{G_PlayerName}の元へと歩み寄ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "7935a1ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "お疲れ様、いつにも増して立派な演説だったな",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "8cdf5dde",
+      "speaker": "ラト",
+      "ja": "演説ではありませんよ、主のお言葉をわかりやすくお伝えしているに過ぎません……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "1bedcfe6",
+      "speaker": "ラト",
+      "ja": "それに……あなたも準備を手伝っていただきありがとうございます……おかげで迷える信徒を導くことができました",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "e0b96a06",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても本当にラトは偉い人なんだな……家柄とも関係していたりするのか？",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "ab879d3c",
+      "speaker": "ラト",
+      "ja": "完全な世襲制という訳ではないのですよ？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "1f05604",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "1beb7f9d",
+      "speaker": "ラト",
+      "ja": "はい！　信仰を集めて民衆から認められて崇皇へと登り詰めたのです！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "5380a5db",
+      "speaker": "",
+      "ja": "ラトはどこか自慢げな感じでそう答えると胸を張ってみせた。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "2df551d8",
+      "speaker": "",
+      "ja": "しかしすぐに何か思い出したのか表情を曇らせる。",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "451f4780",
+      "speaker": "ラト",
+      "ja": "と言いましても、崇姫のような例外もおりますが……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "11e93d32",
+      "speaker": "",
+      "ja": "その名を口にした途端あからさまにラトの機嫌が悪くなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "fc9adb5e",
+      "speaker": "ラト",
+      "ja": "あぁ、思い出しただけでも腹立たしい……色々な所に現れては、ちやほやされてっ！",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "9553f2ac",
+      "speaker": "",
+      "ja": "グレメインに対して明らかな嫉妬心を剥き出しにしてしまうラトだが、次の瞬間誰かが声をかけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "d7d67190",
+      "speaker": "グレメイン",
+      "ja": "呼びましたか？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "a699fb95",
+      "speaker": "ラト",
+      "ja": "むっ……",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "adac4c51",
+      "speaker": "グレメイン",
+      "ja": "ふふふっ、何やらわたくしの話をしているようでしたので話しかけてしまいました",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "60cfbb83",
+      "speaker": "",
+      "ja": "突然姿を現したグレメインを見てラトは更に不機嫌になるが、わざと笑みを浮かべて話しかけていった。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "dc9a1de7",
+      "speaker": "ラト",
+      "ja": "あらあらあら、これはこれは崇姫さまではございませんか……こんな往来に出てきてよろしいのですか？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "823acafa",
+      "speaker": "ラト",
+      "ja": "信仰の偶像とも言えるようなお方が、おいそれと外出ですか？　いい御身分ですね！",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "320c90d7",
+      "speaker": "",
+      "ja": "嫌味臭いそんなラトの言葉をグレメインは涼しい顔で受け流す。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "bda99428",
+      "speaker": "グレメイン",
+      "ja": "いえいえ、あなたと同じで迷える子羊に教えを説いた帰り道ですよ♪　奇遇ですね♪",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "49661725",
+      "speaker": "ラト",
+      "ja": "ぐぬぬぬぬっ……！",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "eee107d5",
+      "speaker": "",
+      "ja": "軽く返されてしまったラトは悔しそうに唸っていた。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "e9ba2250",
+      "speaker": "",
+      "ja": "そんなラトを更に煽るようにグレメインは{G_PlayerName}の腕に自分の腕を回すとそのまま連れ去ろうとする。",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "95bf8bbb",
+      "speaker": "グレメイン",
+      "ja": "それでは行きましょうか♪",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "65d9128f",
+      "speaker": "ラト",
+      "ja": "っ！？　ダメです！　その方だけはあなたに譲るわけにはいきません",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "626f9236",
+      "speaker": "",
+      "ja": "慌てたラトはそう言うと{G_PlayerName}をグレメインから引き剥がすと自分の元へと引き寄せた。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "75d3da7c",
+      "speaker": "ラト",
+      "ja": "わたくしのっ！　わたくしのですからっ！　絶対に渡しませんからっ！！！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "2409353a",
+      "speaker": "",
+      "ja": "必死の形相で{G_PlayerName}を奪還しようとするラトを見て、グレメインはクスクスと笑い{G_PlayerName}から手を離す。",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "1337f8c7",
+      "speaker": "グレメイン",
+      "ja": "うふふ、冗談ですよ♪",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "5f4c75e1",
+      "speaker": "",
+      "ja": "どうやらグレメインはラトをからかう為に{G_PlayerName}にちょっかいを出したに過ぎないようだった。",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "b75349ed",
+      "speaker": "",
+      "ja": "そして冗談っぽい感じでラトに告げる。",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "6f5702a0",
+      "speaker": "グレメイン",
+      "ja": "こんなに愛し合っている二人の仲を裂く訳にはいきませんからね♪",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "b0af270",
+      "speaker": "ラト",
+      "ja": "うぐっ……",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "96781207",
+      "speaker": "グレメイン",
+      "ja": "それでは、ごきげんよう♪",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "d7db4487",
+      "speaker": "",
+      "ja": "グレメインはそう言って一礼すると、ラトと{G_PlayerName}の前から去って行った。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "123fda65",
+      "speaker": "",
+      "ja": "その後ろ姿を見送りながらラトは不満げな感じで呟く。",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "9ad16dc",
+      "speaker": "ラト",
+      "ja": "な、なんなんですかあの女っ！　人をからかうのもいい加減にして下さいよっ！　まったく……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "12a43dd5",
+      "speaker": "",
+      "ja": "しかし残った{G_PlayerName}の手前、取り乱した自分を取り繕うように言い訳がましい言葉を口にし始めた。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "3faf29a",
+      "speaker": "ラト",
+      "ja": "しょ、しょうがないでしょう……あなたが取られてしまうのではと焦ってしまったのです……",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "8f9c9813",
+      "speaker": "",
+      "ja": "そこまで言ったラトは恥ずかしそうに頬を赤らめ、モジモジしながら呟く。",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "bc541b38",
+      "speaker": "ラト",
+      "ja": "あなたがわたくしを見捨てたりはしないと信じて……信じてはおりましたが……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "5e8094ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラト……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "b1fb4a76",
+      "speaker": "ラト",
+      "ja": "そ、それでも不安になってしまったんです！",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "a0cbdee4",
+      "speaker": "",
+      "ja": "可愛らしく嫉妬しているラトの姿を見て{G_PlayerName}は自分が彼女に惹かれていることを自覚するのだった。",
+      "zh": ""
+    }
+  ]
+}

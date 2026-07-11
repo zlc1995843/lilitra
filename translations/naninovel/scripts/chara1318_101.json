@@ -1,0 +1,454 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ec3d4fd3",
+      "speaker": "ラト",
+      "ja": "ええ、それが主の意思なのです……ですから、規律を守り日々を暮らすことが肝要で……",
+      "zh": "嗯，这是主的旨意……所以，严守戒律度日才是根本……"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "75c52d8c",
+      "speaker": "",
+      "ja": "街中でラトは民衆に向けての説教を行っていた。",
+      "zh": "拉托在街头向民众布道。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "5e600f4d",
+      "speaker": "",
+      "ja": "真剣に聞き入っている人も多く、崇皇の威厳というのがまざまざと現れている。",
+      "zh": "认真聆听的人不少，崇皇的威严实实在在地显现了出来。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "6fd1aa3f",
+      "speaker": "",
+      "ja": "その様子を{G_PlayerName}は遠目から見守っていた。",
+      "zh": "{G_PlayerName}从远处守望着这一幕。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a4ac6b6e",
+      "speaker": "",
+      "ja": "そして説教を終えるとラトは{G_PlayerName}の元へと歩み寄ってくる。",
+      "zh": "布道结束后，拉托向{G_PlayerName}这里走来。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "7935a1ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "お疲れ様、いつにも増して立派な演説だったな",
+      "zh": "辛苦了，演说出色得一如既往啊。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "8cdf5dde",
+      "speaker": "ラト",
+      "ja": "演説ではありませんよ、主のお言葉をわかりやすくお伝えしているに過ぎません……",
+      "zh": "这可不是演说，我只是在浅显地传达主的话语而已……"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "1bedcfe6",
+      "speaker": "ラト",
+      "ja": "それに……あなたも準備を手伝っていただきありがとうございます……おかげで迷える信徒を導くことができました",
+      "zh": "而且……也得谢谢你帮忙准备……多亏了你，我才能引导迷途的信徒。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "e0b96a06",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても本当にラトは偉い人なんだな……家柄とも関係していたりするのか？",
+      "zh": "话虽如此，拉托还真是个了不起的人啊……这也跟家族出身有关吗？"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "ab879d3c",
+      "speaker": "ラト",
+      "ja": "完全な世襲制という訳ではないのですよ？",
+      "zh": "这可不是什么完全的世袭制哦？"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "1f05604",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？",
+      "zh": "是这样啊？"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "1beb7f9d",
+      "speaker": "ラト",
+      "ja": "はい！　信仰を集めて民衆から認められて崇皇へと登り詰めたのです！",
+      "zh": "正是！我是靠凝聚信仰、获得民众认可，才攀上崇皇之位的！"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "5380a5db",
+      "speaker": "",
+      "ja": "ラトはどこか自慢げな感じでそう答えると胸を張ってみせた。",
+      "zh": "拉托带着几分得意回答完，挺起了胸膛。"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "2df551d8",
+      "speaker": "",
+      "ja": "しかしすぐに何か思い出したのか表情を曇らせる。",
+      "zh": "可紧接着，他好像忽然想起了什么，表情阴沉下来。"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "451f4780",
+      "speaker": "ラト",
+      "ja": "と言いましても、崇姫のような例外もおりますが……",
+      "zh": "不过话说回来，也有像崇姬那样的例外……"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "11e93d32",
+      "speaker": "",
+      "ja": "その名を口にした途端あからさまにラトの機嫌が悪くなっていった。",
+      "zh": "一说出那名字，拉托的心情立刻明显变糟了。"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "fc9adb5e",
+      "speaker": "ラト",
+      "ja": "あぁ、思い出しただけでも腹立たしい……色々な所に現れては、ちやほやされてっ！",
+      "zh": "啊——光是想想就来气……她到处抛头露面，被人大吹大捧！"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "9553f2ac",
+      "speaker": "",
+      "ja": "グレメインに対して明らかな嫉妬心を剥き出しにしてしまうラトだが、次の瞬間誰かが声をかけてくる。",
+      "zh": "虽然拉托把对格雷梅因的嫉妒心赤裸裸地暴露了出来，但下一秒便有人叫住了他。"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "d7d67190",
+      "speaker": "グレメイン",
+      "ja": "呼びましたか？",
+      "zh": "您刚才叫我吗？"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "a699fb95",
+      "speaker": "ラト",
+      "ja": "むっ……",
+      "zh": "唔……"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "adac4c51",
+      "speaker": "グレメイン",
+      "ja": "ふふふっ、何やらわたくしの話をしているようでしたので話しかけてしまいました",
+      "zh": "呵呵，你们好像在聊我的事，我就忍不住过来搭个话啦。"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "60cfbb83",
+      "speaker": "",
+      "ja": "突然姿を現したグレメインを見てラトは更に不機嫌になるが、わざと笑みを浮かべて話しかけていった。",
+      "zh": "见格雷梅因突然现身，拉托更加不悦，但还是故作笑脸地迎了上去。"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "dc9a1de7",
+      "speaker": "ラト",
+      "ja": "あらあらあら、これはこれは崇姫さまではございませんか……こんな往来に出てきてよろしいのですか？",
+      "zh": "哎呀呀，这不是崇姬大人吗？……您这样尊贵的人，怎么跑到这等市井来了？"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "823acafa",
+      "speaker": "ラト",
+      "ja": "信仰の偶像とも言えるようなお方が、おいそれと外出ですか？　いい御身分ですね！",
+      "zh": "身为信仰的象征，竟然这么随便地抛头露面？真是好高贵啊！"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "320c90d7",
+      "speaker": "",
+      "ja": "嫌味臭いそんなラトの言葉をグレメインは涼しい顔で受け流す。",
+      "zh": "面对拉托酸溜溜的讥讽，格雷梅因只是面不改色地全当耳旁风。"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "bda99428",
+      "speaker": "グレメイン",
+      "ja": "いえいえ、あなたと同じで迷える子羊に教えを説いた帰り道ですよ♪　奇遇ですね♪",
+      "zh": "哪里哪里，我和你一样，只是去给迷途的羔羊传传道，回来的路上碰巧经过而已♪ 真是巧呢♪"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "49661725",
+      "speaker": "ラト",
+      "ja": "ぐぬぬぬぬっ……！",
+      "zh": "唔唔唔呜呜——！"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "eee107d5",
+      "speaker": "",
+      "ja": "軽く返されてしまったラトは悔しそうに唸っていた。",
+      "zh": "被轻飘飘地带过的拉托，只能不甘心地直哼哼。"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "e9ba2250",
+      "speaker": "",
+      "ja": "そんなラトを更に煽るようにグレメインは{G_PlayerName}の腕に自分の腕を回すとそのまま連れ去ろうとする。",
+      "zh": "格雷梅因像是要故意刺激拉托似的，一把挽住{G_PlayerName}的手臂，就要把人带走。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "95bf8bbb",
+      "speaker": "グレメイン",
+      "ja": "それでは行きましょうか♪",
+      "zh": "那我们走吧♪"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "65d9128f",
+      "speaker": "ラト",
+      "ja": "っ！？　ダメです！　その方だけはあなたに譲るわけにはいきません",
+      "zh": "不行！ 唯独这位，我绝不让给你！"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "626f9236",
+      "speaker": "",
+      "ja": "慌てたラトはそう言うと{G_PlayerName}をグレメインから引き剥がすと自分の元へと引き寄せた。",
+      "zh": "拉托一急，边说边把{G_PlayerName}从格雷梅因那儿拽了回来，护到自己身边。"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "75d3da7c",
+      "speaker": "ラト",
+      "ja": "わたくしのっ！　わたくしのですからっ！　絶対に渡しませんからっ！！！",
+      "zh": "是我的！ 他是我的！ 我绝对不会给你的！！！"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "2409353a",
+      "speaker": "",
+      "ja": "必死の形相で{G_PlayerName}を奪還しようとするラトを見て、グレメインはクスクスと笑い{G_PlayerName}から手を離す。",
+      "zh": "看着拉托那副拼死要抢回{G_PlayerName}的模样，格雷梅因轻笑一声，松开了手。"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "1337f8c7",
+      "speaker": "グレメイン",
+      "ja": "うふふ、冗談ですよ♪",
+      "zh": "呵呵，开个玩笑啦♪"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "5f4c75e1",
+      "speaker": "",
+      "ja": "どうやらグレメインはラトをからかう為に{G_PlayerName}にちょっかいを出したに過ぎないようだった。",
+      "zh": "看来格雷梅因只是为了逗弄拉托，才故意对{G_PlayerName}做出亲昵举动的。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "b75349ed",
+      "speaker": "",
+      "ja": "そして冗談っぽい感じでラトに告げる。",
+      "zh": "然后，半开玩笑地丢下这么一句。"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "6f5702a0",
+      "speaker": "グレメイン",
+      "ja": "こんなに愛し合っている二人の仲を裂く訳にはいきませんからね♪",
+      "zh": "我可不会去拆散你们这对恩爱的小两口呢♪"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "b0af270",
+      "speaker": "ラト",
+      "ja": "うぐっ……",
+      "zh": "唔……"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "96781207",
+      "speaker": "グレメイン",
+      "ja": "それでは、ごきげんよう♪",
+      "zh": "那么，告辞啦♪"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "d7db4487",
+      "speaker": "",
+      "ja": "グレメインはそう言って一礼すると、ラトと{G_PlayerName}の前から去って行った。",
+      "zh": "格雷梅因说完鞠了一躬，便从拉托和{G_PlayerName}眼前离开了。"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "123fda65",
+      "speaker": "",
+      "ja": "その後ろ姿を見送りながらラトは不満げな感じで呟く。",
+      "zh": "望着她离去的背影，拉托不满地嘟囔。"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "9ad16dc",
+      "speaker": "ラト",
+      "ja": "な、なんなんですかあの女っ！　人をからかうのもいい加減にして下さいよっ！　まったく……",
+      "zh": "搞、搞什么啊，那个女人！捉弄人也该有个限度吧！真是的……"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "12a43dd5",
+      "speaker": "",
+      "ja": "しかし残った{G_PlayerName}の手前、取り乱した自分を取り繕うように言い訳がましい言葉を口にし始めた。",
+      "zh": "可在留在原地的{G_PlayerName}面前，为了掩饰慌乱，他开口辩解了起来。"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "3faf29a",
+      "speaker": "ラト",
+      "ja": "しょ、しょうがないでしょう……あなたが取られてしまうのではと焦ってしまったのです……",
+      "zh": "没、没办法啊……我担心你会被抢走，一时着急了……"
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "8f9c9813",
+      "speaker": "",
+      "ja": "そこまで言ったラトは恥ずかしそうに頬を赤らめ、モジモジしながら呟く。",
+      "zh": "话说到这个份上，拉托羞红了脸，扭扭捏捏地嘟囔着。"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "bc541b38",
+      "speaker": "ラト",
+      "ja": "あなたがわたくしを見捨てたりはしないと信じて……信じてはおりましたが……",
+      "zh": "我相信你不会丢下我……虽然一直这样相信着……"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "5e8094ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラト……",
+      "zh": "拉托……"
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "b1fb4a76",
+      "speaker": "ラト",
+      "ja": "そ、それでも不安になってしまったんです！",
+      "zh": "可、可我还是觉得不安啊！"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "a0cbdee4",
+      "speaker": "",
+      "ja": "可愛らしく嫉妬しているラトの姿を見て{G_PlayerName}は自分が彼女に惹かれていることを自覚するのだった。",
+      "zh": "看着拉托吃醋的可爱模样，{G_PlayerName}才察觉到自己被她吸引了。"
+    }
+  ]
+}
