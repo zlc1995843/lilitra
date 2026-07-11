@@ -1,0 +1,328 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "ed859977",
+      "speaker": "コーゼ",
+      "ja": "くっそぉ……そう簡単にはいかないか～",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "c6d91642",
+      "speaker": "",
+      "ja": "砂浜に上がったコーゼはサーフィンに悪戦苦闘している様子だった。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "14ed09c4",
+      "speaker": "",
+      "ja": "コーゼは最近このサーフィンという文化を知り、波に乗れるよう練習中なのである。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "66c0479b",
+      "speaker": "",
+      "ja": "しかしそう簡単には上手くいかずに……。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "25844681",
+      "speaker": "コーゼ",
+      "ja": "う～む……こんな感じの方がいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "b40c7a07",
+      "speaker": "",
+      "ja": "あれこれ試行錯誤を繰り返しているところに{G_PlayerName}が通りかかり、気になったのでコーゼに声をかけた。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "4d07bcc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "それサーフィンってやつか？　出来ないのか？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "cc801441",
+      "speaker": "コーゼ",
+      "ja": "そんなに簡単じゃないんだからっ！　オタクくんには絶対に無理だよ～！",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "8c8ab4c5",
+      "speaker": "",
+      "ja": "カチンときたのか、コーゼは{G_PlayerName}を挑発するような台詞を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "53bba85d",
+      "speaker": "",
+      "ja": "そんなコーゼの言葉に軽く考えていた{G_PlayerName}が乗ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "d88e6d4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ……そこまで言うならちょっとやってみるか",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "5b8104a4",
+      "speaker": "コーゼ",
+      "ja": "いいよ、取りあえずやってみ♪",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "56057ca",
+      "speaker": "",
+      "ja": "そう言ってコーゼは{G_PlayerName}に自分のサーフボードを差し出した。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "649e3644",
+      "speaker": "",
+      "ja": "それを受け取った{G_PlayerName}は意気揚々と波に乗ろうと海に向かって行くのだったが。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "1c63bc74",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かこうやって……ボードに乗って……って、うわぁぁぁ！！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "21003266",
+      "speaker": "",
+      "ja": "簡単だと思っていたが波に乗ることができず、あえなく転倒して落水してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "d4c676b6",
+      "speaker": "",
+      "ja": "それを見てコーゼはクスクスと笑いながら海から上がってきた{G_PlayerName}に声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "b551385e",
+      "speaker": "コーゼ",
+      "ja": "ぷぷっ♪　ほらほら、だから言ったじゃんっ、簡単じゃないんだって～♪",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "86e554b3",
+      "speaker": "",
+      "ja": "そう言われた{G_PlayerName}は自分の言動を反省して謝罪した。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "32899556",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは……見た目以上に難しいな……すまん……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "59caa0f6",
+      "speaker": "コーゼ",
+      "ja": "でしょでしょ♪　そうなんだよ～、簡単じゃないんだよ～",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "de87ee02",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても、なんでそんなにこのサーフィンを練習するんだ？　普通に泳ぐだけでも楽しいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "feb4ed18",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の疑問にコーゼは軽い感じで答える。",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "89d976aa",
+      "speaker": "コーゼ",
+      "ja": "う～ん……カッコイイって思ったから？　それに途中でやめちゃうのってダサいじゃん？",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "c91cfb51",
+      "speaker": "",
+      "ja": "そう言ってコーゼは{G_PlayerName}からサーフボードを返却して貰うと再び波に乗る練習を再開させた。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "14a44d23",
+      "speaker": "コーゼ",
+      "ja": "次こそは……よっ♪　とっ……とっと……うわぁ！",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "35f4e2c5",
+      "speaker": "",
+      "ja": "何度か派手に水しぶきが上がり転倒を繰り返すコーゼだが、続ける程にコツが掴めてきたのかだいぶ様になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "c70bb7f6",
+      "speaker": "",
+      "ja": "そしてついになんとかかんとか波に乗ってボードの上に立てるようになってきた。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "b8dafbea",
+      "speaker": "コーゼ",
+      "ja": "おっ？　おぉっ！　これ、乗れてない？　ちゃんと波に乗れてるんじゃない♪",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "4548b9fd",
+      "speaker": "",
+      "ja": "一度波に乗れるとタイミングを掴んだようで面白いように波に乗れてフォームもどんどんキレイになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "849559bb",
+      "speaker": "コーゼ",
+      "ja": "いえ～い♪　見てた見てた？　ウチ、ちゃんとサーフィンできてたっしょ？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "f0af6061",
+      "speaker": "",
+      "ja": "海から上がってきたコーゼは満面の笑みを浮かべて{G_PlayerName}の元へと駆け寄ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9c72c7a6",
+      "speaker": "",
+      "ja": "そんなコーゼに{G_PlayerName}は驚きながら答える。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "3973368c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ちゃんと見てたよ、よかったな",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "aa2b2f08",
+      "speaker": "コーゼ",
+      "ja": "えへへ～♪　ありがとね、オタクくん♪",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "df976090",
+      "speaker": "",
+      "ja": "{G_PlayerName}は自分が良いと思ったことに心血を注ぐコーゼの努力家の一面を見て、これが彼女のいいところなんだろうなと素直に感じていた。",
+      "zh": ""
+    }
+  ]
+}
