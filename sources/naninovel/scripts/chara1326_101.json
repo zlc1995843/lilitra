@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "cec62df0",
+      "speaker": "スター",
+      "ja": "ねえ、兄くん……これ見てみて……",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "cf2dadd",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}の前に現れたスターは、仙夢迷宮に入った時に着ていた服を着ていた。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "187b1141",
+      "speaker": "スター",
+      "ja": "これね、あの時の服を再現したの、スターすごい……？",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "cb713438",
+      "speaker": "",
+      "ja": "そう言うとスターはくるりとその場で一回転して服を見せびらかす。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "c03d19c9",
+      "speaker": "",
+      "ja": "それは他のドレスとはまた違った感じで、スターの可愛らしさを引き立てていた。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "225f3eb2",
+      "speaker": "",
+      "ja": "そしてそれを纏ったスターは、まるでとびきりのおもちゃを見せびらかす子供のようで、目をキラキラと輝かせていた。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "aff82635",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、すごいよ、それに似合っているし",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "8d2b5d",
+      "speaker": "スター",
+      "ja": "えへへっ……♥　似合ってる……？♥",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "e89dc087",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉にスターは気分を良くしたのか、饒舌に話し始める。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "5da818fd",
+      "speaker": "スター",
+      "ja": "例えばね、兄くんがピンチの時にはスターがすぐに駆けつけられるように『高速移動モード』があるの……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "53fc9b53",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなんだ……す、すごいな……流石最新の高性能ＡＩだな",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "1fe933e1",
+      "speaker": "",
+      "ja": "そう言った直後、{G_PlayerName}はこんなことをアポロ内で言ったら高性能であることを鼻にかけていると怒られそうだなと思い、アポロの顔が脳裏をよぎっていった。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "4da03cf0",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}に構うことなく、褒められたスターは機嫌良く話を続ける。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "e94e758c",
+      "speaker": "スター",
+      "ja": "あとね、強盗に狙われた時に身を守るために『超広域スキャンモード』も備わっているんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "14503d4f",
+      "speaker": "",
+      "ja": "そんな話を{G_PlayerName}が聞いていると、スターは妙に照れながら呟く。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "a3161637",
+      "speaker": "スター",
+      "ja": "スター、今まで自分のお話、あまりできなかったから……ゴージャスベイのお客さんにも、スターのお話、あまり理解してもらえなかったの",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "4aa8759d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "6b65a412",
+      "speaker": "",
+      "ja": "確かにスターが語る機能の話は、カジノに遊びに来ている客にとってはどうでもいいかも知れない。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "d59054b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……でも俺が話し相手になれたみたいでよかったよ",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "507e94ac",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の言葉にスターは嬉しそうな笑みを浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "c6b0f55",
+      "speaker": "スター",
+      "ja": "うんっ！　兄くんと話すの楽しい……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "ec2cb346",
+      "speaker": "",
+      "ja": "心の内を打ち明けてくれたスターに、心の距離が縮まっているのを感じ{G_PlayerName}はほっこりとした気持ちになった。",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "efd3c987",
+      "speaker": "",
+      "ja": "するとスターは更に自慢するように{G_PlayerName}に服の機能を説明していく。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "9fe22f65",
+      "speaker": "スター",
+      "ja": "それからね、こんな機能もあるよ……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "19b2344",
+      "speaker": "",
+      "ja": "そう言うといきなりスターの衣装の一部が突然透明に変化して、白い素肌が露わになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "bab3ff15",
+      "speaker": "{G_PlayerName}",
+      "ja": "あわわっ？！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "cee9f721",
+      "speaker": "",
+      "ja": "それを見た{G_PlayerName}は慌てて目を逸らすがスターの方はキョトンとしたまま慌てることなく呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "818e03fa",
+      "speaker": "スター",
+      "ja": "あ……間違えちゃった",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "bae3b390",
+      "speaker": "",
+      "ja": "自らの衣装の変化など気にした様子もなく恥じらいのないスターの反応に{G_PlayerName}は更に動揺してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "b41e2421",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}のリアクションにスターは不思議そうな表情を浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "8cc26963",
+      "speaker": "スター",
+      "ja": "どうか……した……？",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "a6aa00b",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いやっ……なんでもない！　その機能すごいな、スター！",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "1f1a92f3",
+      "speaker": "",
+      "ja": "誤魔化す{G_PlayerName}の言葉をスターはそのままの意味で受け取り、再び満面の笑みを浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "145f45e0",
+      "speaker": "スター",
+      "ja": "えへへ、すごいでしょ？　でも、これ、エネルギーたくさん使うから、あんまり使わないようにしてるの……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "dbdc5eb6",
+      "speaker": "",
+      "ja": "そう言ったスターの胸元は元の色を取り戻して白い素肌が隠れていく。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "5a6affa9",
+      "speaker": "",
+      "ja": "それを確認した{G_PlayerName}はホッと胸を撫で下ろした。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "57985e2b",
+      "speaker": "スター",
+      "ja": "それでね……それでね……他にも色々な機能が……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "8b60849d",
+      "speaker": "",
+      "ja": "スターは得意げに機能について解説するが、{G_PlayerName}の瞼にはさっきの光景が焼き付いていて耳に入ってこない。",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "64eed5ba",
+      "speaker": "",
+      "ja": "そして一通りの機能を説明し終えたスターはニコニコしながら{G_PlayerName}に聞いてきた。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "5ca6f224",
+      "speaker": "スター",
+      "ja": "スターの衣装、気に入ってくれたかな……？　この機能があれば、前みたいに危険な目にあわず、兄くんも安心して旅……できるかも……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "6851bef9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……う、うん……そ、そうだね……ははっ……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "2f1605ff",
+      "speaker": "",
+      "ja": "純粋な笑みを浮かべているスターに対して{G_PlayerName}はそんな曖昧な返事しか返せない。",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "4418ede2",
+      "speaker": "",
+      "ja": "少しエッチなハプニングすら気にした様子もない無邪気なスターという存在が{G_PlayerName}の心を激しく揺さぶる出来事となった。",
+      "zh": ""
+    }
+  ]
+}
