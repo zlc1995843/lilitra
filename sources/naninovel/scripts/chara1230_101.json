@@ -1,0 +1,688 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "42953123",
+      "speaker": "ルミナ",
+      "ja": "魔法、少女……のアニメってそんなに見たことはないけど、どうすればいいの、かな……",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "45d0e34a",
+      "speaker": "ルミナ",
+      "ja": "みんなを照らす光って何をすれば……うぅ……わからない……",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "62a72dbb",
+      "speaker": "ルミナ",
+      "ja": "でも期待されているなら、応えないと……{G_PlayerName}くんもリーダーとして、頑張っているんだから……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "d6b55763",
+      "speaker": "ルミナ",
+      "ja": "あ、そうだ……アニメだと何か印象的なポーズをしていたような気がするし、まずは形から……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "904d2297",
+      "speaker": "",
+      "ja": "とりあえずやってみよう、私はそう考え魔法のステッキをクルクルと回す。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "fa3d7291",
+      "speaker": "",
+      "ja": "でも何か少し違う……もっと特徴的で一目で魔法少女ってわかるポーズにしないと……。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "33595b42",
+      "speaker": "ルミナ",
+      "ja": "印象的なポーズって意外と難しい……アニメなんかもポーズ考えるとき、いろいろ悩んで考えていたりするのかな……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "17d49331",
+      "speaker": "ルミナ",
+      "ja": "それとも自然と出たりするのかな……ん～……こんな感じ、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "bbd71a62",
+      "speaker": "",
+      "ja": "姿見の前で自分なりにカッコいいポーズを決める。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "8342b9a8",
+      "speaker": "",
+      "ja": "でも何かしっくりこない、ただそれっぽく見せているだけ。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "a8512471",
+      "speaker": "",
+      "ja": "とりあえずとバンザイをしてみたり、魔法のステッキで文字を書くように動かす。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "a40bee5f",
+      "speaker": "ルミナ",
+      "ja": "あ……今の結構いい感じ、かも……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "70eb14b5",
+      "speaker": "",
+      "ja": "スカートの端を僅かに手で持ち、そしてステッキでビシっとカッコよくポーズ。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "f1853c2d",
+      "speaker": "",
+      "ja": "自分なりに手ごたえを感じ、思わず笑みが零れる。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "b0209335",
+      "speaker": "ルミナ",
+      "ja": "良い感じだけど、でもこれを人前でするのは、結構恥ずかしい、かも……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "ac8ffa0c",
+      "speaker": "ルミナ",
+      "ja": "笑われたりしないかな……？　{G_PlayerName}くんはどう思うんだろう……？　一度見てもらった方が……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "16dc0b19",
+      "speaker": "ルミナ",
+      "ja": "うぅ……でもでも{G_PlayerName}くんの前でするの、恥ずかしい……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "335be5cb",
+      "speaker": "ルミナ",
+      "ja": "はぁ～……どうしよ……何をしても恥ずかしくて……",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "79017be",
+      "speaker": "ルミナ",
+      "ja": "でも……恥ずかしがってばかりもいられない……！　恥ずかしいなら慣れるまでポーズを決めればいいんだ、うん、慣れてしまえばだいじょうぶ……！",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "90e0b938",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……ルミナどこいるのかな？　部屋にいるのかな？　とりあえず行ってみるか……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "221e9d3a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナー、いるかー？　入るぞーっ",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "d44c2f7b",
+      "speaker": "ルミナ",
+      "ja": "魔法少女、プリンセスルミナ……！　光の彼方より参じょ……うっ？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "cbba236f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……へ？",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "c579f89d",
+      "speaker": "",
+      "ja": "部屋に入ると何かキメポーズのようなものをしていたルミナ。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "2b4e95fc",
+      "speaker": "",
+      "ja": "俺は思わず固まってしまい、ルミナも俺と同様にポーズを決めたまま固まってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "a31a6988",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん……！？　こ、これは、そ、そのっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "95d5be9",
+      "speaker": "{G_PlayerName}",
+      "ja": "すっ、すまん、なんか取り込み中みたいだったようだな……ま、またあとで来るから……！",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "9ddb502c",
+      "speaker": "ルミナ",
+      "ja": "まま、待って……！　違うの、い、行かないで……！！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "40cfc0db",
+      "speaker": "",
+      "ja": "ルミナは珍しく大慌てし、俺を行かせまいと服を引っ張る。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "7fd85c7b",
+      "speaker": "",
+      "ja": "俺はその迫力に負け、コクコクと何度も頷くと安心したのかルミナは服を放した。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "cd21e3be",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと、その……なんだ、もしかして……遊んで、た……？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "87ec2cba",
+      "speaker": "ルミナ",
+      "ja": "ち、違うの……！　えっと、魔法少女に選ばれたからにはちゃんとしないとって思って……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "90e2d88d",
+      "speaker": "ルミナ",
+      "ja": "だから何か特徴的なキメポーズをって……それで練習を……",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "36efeb40",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだったのか……すまん、てっきりポーズキメて遊んでいたものとばっかり……！",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "54badeb1",
+      "speaker": "ルミナ",
+      "ja": "ううん、こっちこそヘンなの見せちゃってごめん……",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "a870a781",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、ヘンではなかったと思うけど……？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "9b74d24c",
+      "speaker": "ルミナ",
+      "ja": "ほ、ほんとに……？",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "eede72ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……カワイイなって思ったよ？",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "c0bfc3b5",
+      "speaker": "ルミナ",
+      "ja": "かっ、カワイイ……？　そ、そうなんだ……特別ヘンじゃなかったんだ……",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "45a92df",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんていうか……それっぽい感じがした。でもルミナは真面目だな、期待に応えようと努力してさ",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "25b3964d",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺リーダーにされちゃったけど、特に何もしていなかったし……俺も何かした方がいいのかな～",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "36919296",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　それならルミナの手伝いさせてくれよ？　頑張ってるルミナを少しでも応援したいんだ……！",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "2abcfb5",
+      "speaker": "ルミナ",
+      "ja": "えっ……？　で、でも人前で、その……まだ恥ずかしい……",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "f7c5f2f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "一人でポーズ決めてても絶対に恥ずかしい気持ちは抜けないと思うぞ？　誰かに見てもらわなきゃ",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "e54a2a6",
+      "speaker": "ルミナ",
+      "ja": "そう、かな……？　そう、なの、かも……？",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "35b694d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだって……！　とりあえずさっきのカワイイポーズしてみようか！？",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "e0410e8e",
+      "speaker": "ルミナ",
+      "ja": "う、うん……！　わかった……！！",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "3eec78ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいよいいよ、そのポーズサイコーっ！　じゃあ次はもう少し足をあげよっか！",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "a3f87341",
+      "speaker": "ルミナ",
+      "ja": "……わかった！",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "b7bd5bef",
+      "speaker": "ジュエル",
+      "ja": "（ん……？　なんですか、この声……？　この部屋から聞こえてくるのですが……）",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "8785cdb9",
+      "speaker": "ジュエル",
+      "ja": "……なっ！？",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "3ba13c64",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいねいいね！　すっげー可愛いよ！　さすがお姫様！　いや、魔法少女……うーん、マジカルリリアン？　マジカル……ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "3f628f72",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ次はもう少しスカート捲ってみようか！？",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "ae029ef0",
+      "speaker": "ルミナ",
+      "ja": "ええっ！？　でもこれ以上捲ったらパンツ見えちゃう、よ……！？",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "c096d6a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのギリギリがたまらなくいいんだよっ！　よし、いけ！　マジカルルミナっ！",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "5a26c882",
+      "speaker": "ルミナ",
+      "ja": "こっ、こう……？♥　見えてない……！？♥　見えてない、よね……！？♥",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "c49c03b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "見えてない見えてない！　いいねえ、太ももが眩しいよ！　よし、そのままとびっきりの笑顔を見せて！",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "3e51d181",
+      "speaker": "ルミナ",
+      "ja": "これでいい……！？♥",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "245cbd70",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいねいいねえ！　笑顔も太もももサイコーっ！　キラっキラ輝いてるよっ！　よし、それじゃあ最後の仕上げに……ちょび～～っとだけパンツ見せよっか！？",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "c602457f",
+      "speaker": "ルミナ",
+      "ja": "えええっ！？♥　でも見せるのは、恥ずかしい……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "ce1e64ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "少しだけ、ほんの少しだけ……！　ファンサービスは大事だから！　じゃあやってみようか！！",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "c6610b6a",
+      "speaker": "ルミナ",
+      "ja": "で、でもぉ、でもでも、でもぉ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "60c7e586",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に少しでいいから……！　ちょびっと見せれば今感じてる恥ずかしさが消えるから！　俺を信じて、プリンセスルミナっ！",
+      "zh": ""
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "79126bc",
+      "speaker": "ルミナ",
+      "ja": "わ、わかった……！♥　少しだけ、少し、だけ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "a95b7878",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、お、おおっ……！？　みっ、見え──",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "1a70d428",
+      "speaker": "",
+      "ja": "……ガタン",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "1309d88",
+      "speaker": "ジュエル",
+      "ja": "……あっ",
+      "zh": ""
+    },
+    {
+      "key": "321.1",
+      "line_index": 321,
+      "inline_index": 1,
+      "line_hash": "8cae0be1",
+      "speaker": "ルミナ",
+      "ja": "……ふえっ！？　ジュエル、さん……！？",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "b7487d6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんでここに……！？",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "7c5f0c9b",
+      "speaker": "",
+      "ja": "今まで部屋に居なかった第三の存在が、ポーズを決めることに夢中になっていた俺たちを正気に戻す。",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "6fe594f1",
+      "speaker": "",
+      "ja": "ルミナはギリギリまで捲り上げていたスカートを慌てて戻し、ジュエルの存在に完全に顔面蒼白になってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "6ccb84c7",
+      "speaker": "ルミナ",
+      "ja": "あ……！　待って、これには理由が──！！",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "752863b6",
+      "speaker": "",
+      "ja": "弁明する前にジュエルは無言で部屋を出て、ルミナは慌ててそれを追いかける。",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "bfc9ba9d",
+      "speaker": "",
+      "ja": "俺はその場で完全に固まってしまい、ルミナの部屋で一人茫然としていた。",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "2ce16c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか俺、ルミナにすごい要求をしていたような気がする……でもルミナもなんだかんだでノリノリだったような……）",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "13aedbf3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（これがコスプレの魔力なのだろうか……？　それともルミナが実はチョロいとか……？　うーん、今後はこういうことはないように気を付けないと……）",
+      "zh": ""
+    }
+  ]
+}
