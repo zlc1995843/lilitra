@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "9b30213c",
+      "speaker": "",
+      "ja": "緑と獣の星にて……",
+      "zh": "在绿与兽的星球上……"
+    },
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "7c11f04",
+      "speaker": "雫",
+      "ja": "ちょっと！　もう少し詰めて下さいますか？",
+      "zh": "喂！再挤一挤好吗？"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "71bedd0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……でもこっちもスペースが限界だって",
+      "zh": "抱、抱歉……可我这边也没空间了。"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "a7c20acd",
+      "speaker": "",
+      "ja": "ルミナ達と別行動中に獣の群れに襲われ、木の洞に雫と逃げ込んだのだが……酷く狭く、雫と押し合いへし合いの状態になってしまっている。",
+      "zh": "和露米娜她们分头行动时，被兽群袭击，跟雫一起躲进了树洞……可里面窄得要命，只好紧紧贴在一起。"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "9aaba98e",
+      "speaker": "雫",
+      "ja": "……まったく……少しは気を利かせて下さい",
+      "zh": "……真是的……稍微机灵点行不行。"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1223ae31",
+      "speaker": "",
+      "ja": "申し訳なさそうにしている{G_PlayerName}に雫は少し苛立っている感じで吐き捨てる。",
+      "zh": "面对一脸歉意的{G_PlayerName}，雫有点不耐烦地甩出这句话。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "54743e93",
+      "speaker": "雫",
+      "ja": "どっかの誰かさんがドジ踏んだせいで、こんな事になってるんですから、もっと詰めるべきだと思います……",
+      "zh": "都怪某人笨手笨脚才搞成这样，你应该再贴紧一点……"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "6b13462a",
+      "speaker": "雫",
+      "ja": "というか……外に出ていただいても、わたくしは一向に構いませんよ……",
+      "zh": "或者说……你出去我也完全无所谓啊……"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "65a29512",
+      "speaker": "{G_PlayerName}",
+      "ja": "その節は……申し訳ございませんでした……反省してます……",
+      "zh": "那件事……实在对不起……我在反省了……"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "8c6f9d9c",
+      "speaker": "雫",
+      "ja": "ふんっ！",
+      "zh": "哼！"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "57dc209",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まさか人だと思って話しかけた影が大きな獣だったとは……）",
+      "zh": "（我还以为是个人才上去搭话，结果竟是一头巨兽……）"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "489a5f18",
+      "speaker": "",
+      "ja": "{G_PlayerName}は心の中で猛省するが、雫はダメ押しをかけるように{G_PlayerName}に囁きかけた。",
+      "zh": "{G_PlayerName}在心中深刻反省，雫却还要继续补刀，对着{G_PlayerName}连番质问。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "53513a92",
+      "speaker": "雫",
+      "ja": "ちゃんと反省してください……これに懲りたら勝手な行動をしないでください、非常に迷惑ですからっ！",
+      "zh": "好好反省吧……这次该吸取教训了，别再擅自行动，真的很烦人！"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "87963045",
+      "speaker": "{G_PlayerName}",
+      "ja": "す……すみません……",
+      "zh": "对……对不起……"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "c18962a7",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "…………"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "…………"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "8e7a76dc",
+      "speaker": "",
+      "ja": "その後雫と{G_PlayerName}は無言のまま潜伏を続けた。しかし密着している状態で隠れているので、互いの熱の逃げ場がなくどんどん温度が上がっていく。",
+      "zh": "之后，雫和{G_PlayerName}就这么默不作声地继续躲着。可两人贴得紧紧的，热气散不掉，体温越升越高。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "be117fd9",
+      "speaker": "",
+      "ja": "互いに汗ばみ雫の髪の毛はおでこにぺったりと張り付いてしまっていた。",
+      "zh": "两人都微微出汗，雫的头发湿答答地黏在了额头上。"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "4b1419d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか……すごく汗が出てるけど……",
+      "zh": "怎么……出了这么多汗……"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "11522c1d",
+      "speaker": "雫",
+      "ja": "しょうがないでしょう……この衣装、何重にも羽織ってるようなものなんですから……",
+      "zh": "没办法啊……这衣服，里三层外三层的……"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "cd56bfa4",
+      "speaker": "",
+      "ja": "少し恥ずかしそうにそう呟いた雫はいい訳がましい感じで独り言を呟く。",
+      "zh": "雫有些羞怯地嘟囔了一句，那语气就像在找借口似的自言自语。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "53ba3b82",
+      "speaker": "雫",
+      "ja": "まったく……いつもの服を破いてしまうなんて、なんて失態を……はぁ、今更言っても仕方のない事ですか……",
+      "zh": "真是的……我居然把常服都弄破了，实在太丢脸了……唉，现在说这些也没用了……"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "1ab93c67",
+      "speaker": "",
+      "ja": "そう言う雫の側で{G_PlayerName}は妙にドキドキしてしまった。",
+      "zh": "在雫这么说着的同时，{G_PlayerName}莫名地心跳加速起来。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "ff03cb5",
+      "speaker": "",
+      "ja": "それにこんな狭いところに閉じ込められているせいか、いつもは全く意識していない雫の匂いを否が応でも意識してしまう。",
+      "zh": "或许是因为被困在这种狭小的地方，平时完全没留意的雫的气息，现在却无可避免地强烈意识到了。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "231d5934",
+      "speaker": "",
+      "ja": "おまけに花嫁姿の可愛い女の子が密着しているという事実に{G_PlayerName}が堪えきれるはずもなく。",
+      "zh": "更别说，一个穿着新娘装的可爱女孩正紧紧贴着自己，{G_PlayerName}怎么可能忍得住。"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "a297ca00",
+      "speaker": "雫",
+      "ja": "ん……？　なにかお腹に硬いものが当たって……",
+      "zh": "嗯……？好像有什么硬硬的东西抵着我的肚子……"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": "啊……"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "2b6d2698",
+      "speaker": "",
+      "ja": "ついつい反応してしまった{G_PlayerName}の股間ではおちんちんがすっかり勃起してしまっていた。",
+      "zh": "{G_PlayerName}一个没忍住，胯下那东西已经硬邦邦地挺立起来了。"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "d197ac4e",
+      "speaker": "雫",
+      "ja": "……っ！？　ちょ、ちょっと待って下さいっ……こんな状況で、なに大きくしてるんですかっ！",
+      "zh": "……啊！？等等、快等一下……都这种状况了，你怎么还让它变那么大啦！"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "f121f53c",
+      "speaker": "{G_PlayerName}",
+      "ja": "無茶言うなよ……こんなに密着してたらさすがに意識しちまうって……",
+      "zh": "别乱说啊……贴得这么紧，我怎么可能没反应好不好……"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "b8754447",
+      "speaker": "",
+      "ja": "ついつい言い訳をしてしまう{G_PlayerName}だが、これは自分が招いた状況であるにもかかわらず陰茎を勃起させてしまったことに罪悪感を抱いていた。",
+      "zh": "{G_PlayerName}下意识地辩解起来，可这明明是自己招惹的局面，却还起了生理反应，这让他不免有些愧疚。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "f0a5ad8b",
+      "speaker": "雫",
+      "ja": "だからって……！　はぁ、本当に見境のないサルですねっ",
+      "zh": "那也不能……！唉，你真是只不分场合的猴子啊！"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "239398e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あんまり動くなよ……変に刺激されると我慢できなくなっちゃうだろっ",
+      "zh": "别乱动啊……你这样动会刺激到我，我怕自己会忍不住……"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "8bbbfbb",
+      "speaker": "",
+      "ja": "売り言葉に買い言葉という感じで{G_PlayerName}は雫の言葉に堂々とそう言い切った。",
+      "zh": "{G_PlayerName}一副针锋相对的架势，理直气壮地对雫这么说道。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "f380d290",
+      "speaker": "雫",
+      "ja": "は～？　何でそんなに堂々としているんですかっ？　申し訳ない気持ちで大きくなったものをすぐに小さくさせてくださいっ！",
+      "zh": "哈～？你凭什么还这么理直气壮的啊！？快把这因不好意思而变大的东西给我立刻弄软啦！"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "4ce9e5f1",
+      "speaker": "",
+      "ja": "そんな口論をしていると、獣の吠え声が近づいてきた。それに気づいた雫は真剣な表情を浮かべて外の様子をうかがう。",
+      "zh": "就在这样争吵的时候，兽吼声逼近了。雫察觉到后，露出严肃的表情窥探外面。"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "46328862",
+      "speaker": "雫",
+      "ja": "このくらいの数なら、少し足止めすれば逃げ切れそうですねっ……ほら、逃げますよっ！　さっさとそれを萎えさせて下さいっ！",
+      "zh": "就这么几只的话，稍微拖一下应该就能跑得掉……好啦，我们逃吧！快把那个弄软了！"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "d51cfc0",
+      "speaker": "",
+      "ja": "そう言うと雫は木の洞から飛び出して走り出した。{G_PlayerName}もその後を追って出るが、腰が引けている。",
+      "zh": "说完雫就从树洞里跳了出来，拔腿就跑。{G_PlayerName}也赶紧追出去，但脚步有些畏缩。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "c3971083",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ちょっと待てって！　勃ってると走れないんだってっ！",
+      "zh": "等、等等！这样硬着我跑不了啊！"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "c06f7327",
+      "speaker": "雫",
+      "ja": "自業自得ですっ！　さっさと走ってくださいねっ！",
+      "zh": "自作自受！你快点给我跑起来！"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "540c4e50",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁぁぁ！　待ってくれ～！",
+      "zh": "哇啊啊！等等我～！"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "bb008c88",
+      "speaker": "",
+      "ja": "{G_PlayerName}は走り去る雫の後をひょこひょこと必死で追いかけていくのだった。",
+      "zh": "{G_PlayerName}跌跌撞撞地拼命追着跑远的雫。"
+    }
+  ]
+}
