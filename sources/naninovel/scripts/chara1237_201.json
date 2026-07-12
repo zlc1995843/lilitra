@@ -1,0 +1,922 @@
+{
+  "lines": [
+    {
+      "key": "2.0",
+      "line_index": 2,
+      "inline_index": 0,
+      "line_hash": "e96ac28a",
+      "speaker": "",
+      "ja": "※本シナリオの主人公はミッドナイトガールズの主人公となっておりますが、名前はプレイヤー名で表示されます。※",
+      "zh": ""
+    },
+    {
+      "key": "3.0",
+      "line_index": 3,
+      "inline_index": 0,
+      "line_hash": "8774f4ac",
+      "speaker": "",
+      "ja": "※ミッドナイトガールズ世界のオスになったつもりでお楽しみください※",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "e807e98f",
+      "speaker": "",
+      "ja": "血相を変えたコレットが{G_PlayerName}の部屋へと飛び込んできた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "631fdf5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "わわわっ？！　コ、コレットさんっ？！　な、なにごとですか？！",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "c17e7964",
+      "speaker": "",
+      "ja": "異星の民にコレットは慌てた様子で迫っていく。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "3ba51fcb",
+      "speaker": "コレット",
+      "ja": "ぬし、何かしたか？　母乳が止まらなくなったのじゃが！？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "6f5a79f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ？！　ぼ、母乳って！？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b7190647",
+      "speaker": "",
+      "ja": "あまりのことに彼は驚きの声を上げてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "480e3e7b",
+      "speaker": "",
+      "ja": "しかし思い当たる節の無い彼は慌てて否定する。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "2756a084",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぼ、僕は何もしてませんよ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "452b4f2a",
+      "speaker": "",
+      "ja": "そんな彼の様子をみたコレットは考え込んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "3189c79d",
+      "speaker": "コレット",
+      "ja": "体内の魔力が暴走しておるのが原因かの……うぅむ……　これも銀河系跳躍の副作用か……",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "4d2e9aeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぎ、銀河系跳躍の影響……ですか……？",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "773bbb41",
+      "speaker": "",
+      "ja": "状況を上手く把握できていないのか、彼はきょとんとした顔でコレットを見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "6c159628",
+      "speaker": "",
+      "ja": "――そんな彼の身体が、突然まばゆい光に包まれる。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "afd4a2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あわわわわっ？！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "563afd58",
+      "speaker": "",
+      "ja": "なにごとかと慌てる彼とコレットだが、次第に光の奔流は静まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "d5d4fc06",
+      "speaker": "{G_PlayerName}",
+      "ja": "……い、今のはっ！　何の光だったんですかっ！",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "4fdc4f04",
+      "speaker": "コレット",
+      "ja": "まさかこんな事になってしまうとは……　ぬし、自分の隣をよく見てみるがよい……",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "fc4fc5da",
+      "speaker": "",
+      "ja": "彼が隣を見ると大柄ではあるが、顔つきが自身に似ている人物がそこにいた。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "d8ba55ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぼ、僕が二人いる……で、でもちょっと大きい……",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "a5c0c23a",
+      "speaker": "もう一人のあなた",
+      "ja": "な、なんで大きくなって……？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "6435eda8",
+      "speaker": "コレット",
+      "ja": "かなり珍しい現象じゃが、『存在の重複』というやつかの……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "2be10c1f",
+      "speaker": "",
+      "ja": "コレットいわく、これも銀河系跳躍の影響で分裂してしまっているとのことだった。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "b0f350a",
+      "speaker": "コレット",
+      "ja": "まあ、ちょうど良い……わしも母乳が止まらなくてムラついておったところじゃし……　二人同時に襲ってやるわ……♥",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "ec74d793",
+      "speaker": "",
+      "ja": "現在進行系で発生している怪奇現象よりも性欲に忠実なコレットは、",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "f3943687",
+      "speaker": "",
+      "ja": "分裂してしまった彼らに襲いかかってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "1f2cf649",
+      "speaker": "コレット",
+      "ja": "２人して肉棒がこんなになっておるぞ？♥　あれだけ慌てておったが、身体は正直じゃのう？♥",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "bb7237c4",
+      "speaker": "",
+      "ja": "勃起してしまっている２人のおちんちんを見ながら、コレットはからかうようにそう言って笑みを浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "7a13703b",
+      "speaker": "",
+      "ja": "そんなコレットに小さい彼は強制的に母乳を吸わされていて、大きい方は勃起した陰茎を握られている。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "427f38a5",
+      "speaker": "コレット",
+      "ja": "２人に増えても相変わらず弱いの～♥　じゃが……ぬしのサイズはなかなかにデカくなっておる♥",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "ee0b0392",
+      "speaker": "もう一人のあなた",
+      "ja": "そ、そんなに激しく握ったら……くっ……",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "f19b2f8a",
+      "speaker": "コレット",
+      "ja": "くくく、大きいのはサイズだけで、反応は初心なままじゃな♥",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "59c99815",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅ……んぐんぐ……ぢゅるぢゅるぢゅるぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "cbb38a19",
+      "speaker": "コレット",
+      "ja": "ん～？　小僧はわしの母乳に夢中で、それどころではないか♥　くははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "60dab04d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んんんんっ♥　ぢゅるるっ♥　ちゅうちゅう♥",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "9d720074",
+      "speaker": "コレット",
+      "ja": "物欲しげな目で見よって♥　安心せい、わしにかかれば２人同時に相手にするなど容易いことよ♥",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "7b6da0f3",
+      "speaker": "",
+      "ja": "そう言うとコレットは握った彼の勃起したおちんちんをゆっくりとしごき始めた。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "fb31ae12",
+      "speaker": "コレット",
+      "ja": "ほれほれ♥　わしの手はどうじゃ？　サイズが大きくなれば、いつもと違った快感が襲ってくるじゃろう？♥",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "1dacf8fb",
+      "speaker": "もう一人のあなた",
+      "ja": "うう……激しすぎて……",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "d691a668",
+      "speaker": "",
+      "ja": "手コキの快感に大柄な彼は激しく身悶えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "956a5e80",
+      "speaker": "",
+      "ja": "そんな彼の勃起した陰茎をコレットの手が容赦なくしごき上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "e094c647",
+      "speaker": "コレット",
+      "ja": "ほれほれ♥　どうじゃ？　こうやってしごかれると気持ちいいじゃろ？♥",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "a72c9b",
+      "speaker": "もう一人のあなた",
+      "ja": "ううっ！　だ、だめです、コレットさんっ……！",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "63aad325",
+      "speaker": "",
+      "ja": "完全に２人を翻弄しながらコレットは余裕の口ぶりで言う。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "15b6c6c0",
+      "speaker": "コレット",
+      "ja": "２人とも情けないのぅ♥　まだ始まったばかりだというのに、もう出すのではなかろうな？♥",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "c76a82ea",
+      "speaker": "",
+      "ja": "されるがままに悶える２人の姿をコレットは目を細めクスクスと笑いながら見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "616f5460",
+      "speaker": "",
+      "ja": "そして徐々に{G_PlayerName}の陰茎をしごく手の動きを速めていく。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "b00e6ec4",
+      "speaker": "もう一人のあなた",
+      "ja": "あううっ……あっ……あっ……あぁ……",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "1bdc75b4",
+      "speaker": "",
+      "ja": "しこしこと肉竿の部分を擦られる度に強烈な快感が股間から頭へと駆け上がってきた。",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "46b3abf",
+      "speaker": "",
+      "ja": "その気持ちよさに彼は小さく腰を震わせ、亀頭から我慢汁を溢れさせてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "be3aabc6",
+      "speaker": "コレット",
+      "ja": "もう先走りの汁が溢れてきておる♥　すんすん♥　なかなか濃い匂いじゃな♥",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "3eed3a77",
+      "speaker": "",
+      "ja": "楽しそうにそう呟きながら何度もおちんちんを手で擦っていった。",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "dd159438",
+      "speaker": "",
+      "ja": "その間にも小柄な彼は溢れ出ている母乳を音を立てて吸い続ける。",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "59291259",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぢゅる……ぢゅるぢゅる……んっ、んぐぅ……ちゅるる……♥",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "a9f3071a",
+      "speaker": "コレット",
+      "ja": "よいぞ、その調子でわしの母乳を全て飲み干すのじゃ♥",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "e512664f",
+      "speaker": "",
+      "ja": "そう命じられた彼は勃起した陰茎を脈打たせながら乳首に強く吸いついていった。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "c59b9345",
+      "speaker": "",
+      "ja": "しかしその程度では動じることなく、コレットは余裕の表情で手コキを続ける。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "68195421",
+      "speaker": "もう一人のあなた",
+      "ja": "あぁぁ……ダメだ……も、もう我慢できない……",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "4be25f64",
+      "speaker": "",
+      "ja": "ついに限界に達してしまった大柄な彼はそう言うと勢いよく白濁した汁をコレット目がけて放ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "e6a88f29",
+      "speaker": "",
+      "ja": "同じタイミングで母乳を吸っている小柄な彼も、コレットの膣内に精液を吐き出してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "ecd6c60",
+      "speaker": "コレット",
+      "ja": "ほう♥　ぬしの精液もなかなか質の良いものよ♥",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "6ee95dea",
+      "speaker": "",
+      "ja": "大柄な彼の精液を浴びたコレットは、それを確認して感嘆の声を上げた。",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "60f3edcf",
+      "speaker": "",
+      "ja": "そんなコレットに彼は込み上げてくるままに何度も精液を浴びせかけて果てる。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "1f7ba74f",
+      "speaker": "コレット",
+      "ja": "ふふふっ♥　２人とも呆気なく射精してしまったのぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "e1027f96",
+      "speaker": "",
+      "ja": "コレットはそう言うと握ったおちんちんを軽く刺激してきた。",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "b56bb06d",
+      "speaker": "",
+      "ja": "途端に大柄な彼の陰茎はビクッと反応して硬さを取り戻していってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "2d00ac6f",
+      "speaker": "",
+      "ja": "母乳を吸わされている彼の陰茎も射精した後も勃起したままでビクビクと小さく震えていた。",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "2b67986f",
+      "speaker": "コレット",
+      "ja": "おやおや♥　お互いに元気がいいようじゃのう♥　小僧共、たくさん搾り取ってやるわ♥",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "a1d00c75",
+      "speaker": "コレット",
+      "ja": "この程度でわしが満足すると思ったら大間違いじゃぞ♥　年寄りだからと侮るでない♥",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "7415d88b",
+      "speaker": "",
+      "ja": "そう言うとコレットは再び手を動かし始め彼らの肉竿をまたしごいていく。",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "a7db04ed",
+      "speaker": "コレット",
+      "ja": "ほれほれ♥　腰が引けてるぞ若造が♥　もっとしっかり勃起させんか",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "8386dc7b",
+      "speaker": "もう一人のあなた",
+      "ja": "あっ……ああっ……そんな立て続けに……うぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "17f255df",
+      "speaker": "",
+      "ja": "陰茎をしごかれた大柄な彼は思わず腰を震わせながら情けない声を漏らした。",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "fbbfaf52",
+      "speaker": "",
+      "ja": "そうしている間にもコレットはハッパをかけるように言う。",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "8a3b67a8",
+      "speaker": "コレット",
+      "ja": "小僧も腰をもっと動かさんか！♥　この程度では動かしているとは言えんぞ？♥　母乳もしっかり吸うのじゃ！♥",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "af8e3cb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はいっ！　んぢゅるるっ♥　ちゅうちゅう♥　んっ、んぐぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "fd7a45bc",
+      "speaker": "",
+      "ja": "コレットに指摘された小柄な彼は必死に腰を振りながら乳首を吸って母乳を飲み続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "b7a3ad5",
+      "speaker": "",
+      "ja": "それを見てコレットは満足げに呟く。",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "19d8813f",
+      "speaker": "コレット",
+      "ja": "ほれほれ♥　２人ともちと早すぎるが出せ、全部出せ♥　思う存分出してよいぞ～？♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "e075c283",
+      "speaker": "",
+      "ja": "そう言ってコレットは自ら腰を振りながら手にしたおちんちんを激しくしごいていった。",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "8ba47f1b",
+      "speaker": "もう一人のあなた",
+      "ja": "あうっ！　そんなに強くしごかれると……っ",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "4eadb465",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんんっ♥　うっ♥　うっ♥　んぐぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "5c90cb1d",
+      "speaker": "",
+      "ja": "どんどん速まるコレットの動きに彼らはすぐさま、また込み上げてくる感覚に襲われてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "d28737ce",
+      "speaker": "",
+      "ja": "それ程までにコレットはおちんちんを気持ちよくさせる術を知り尽くしているのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "ab14c1eb",
+      "speaker": "",
+      "ja": "そのテクニックに２人の男は情けなく腰をヘコヘコさせながら、絶頂へと追い込まれていく。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "25cae77a",
+      "speaker": "コレット",
+      "ja": "ほれほれっ♥　もうびくんびくんしておるぞ♥　我慢せずにどぴゅどぴゅ出してしまえ♥",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "6aab8e57",
+      "speaker": "もう一人のあなた",
+      "ja": "くぅぅ……そ、そんな……こんなに簡単にイかされるなんて……あっ……ああぁぁぁっ……",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "a21f6883",
+      "speaker": "",
+      "ja": "ヌルヌルの亀頭をこね回され、肉竿を絶妙な力で擦り上げられ、大柄な彼は限界に達してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "f94a7dd0",
+      "speaker": "",
+      "ja": "それは母乳を吸わされている小柄な彼も同様で、快感に腰を何度も跳ねさせる。",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "f05b2a90",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんんっ♥　んむぅぅぅっ♥　ぢゅるぢゅるっ♥　んふぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "1830a1a1",
+      "speaker": "",
+      "ja": "あまりにも気持ちよすぎて、たまらず２人はほぼ同時に射精してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "aa6b0a34",
+      "speaker": "コレット",
+      "ja": "２人同時に射精とは仲良しじゃの～♥　本当に息ぴったりであったぞ？♥　くははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "4bfbe0fc",
+      "speaker": "",
+      "ja": "噴き上がった２人の精液は再びコレットの体や顔にべっとりとこびり付いていった。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "f8b74bd9",
+      "speaker": "コレット",
+      "ja": "本当にいっぱい出るのぉ♥　２度目の射精とは思えぬ量じゃ♥",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "d7ce6659",
+      "speaker": "",
+      "ja": "そう言いながらコレットは手にしたおちんちんをしごき、尿道に残っている精液まで一滴残らず搾り取っていく。",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "55857459",
+      "speaker": "もう一人のあなた",
+      "ja": "うっ……あっ……あうぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "5bc3bae9",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もう……無理……あふぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "d0e4d9b8",
+      "speaker": "",
+      "ja": "２度も搾精されグッタリとしてしまっているが、コレットの方はまだまだ物足りないという感じで２人に告げた。",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "5eecd8a7",
+      "speaker": "コレット",
+      "ja": "むっ？♥　これで終わりなわけがなかろう？♥　若造は年寄りを労らんと、なぁ？♥",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "71bf4373",
+      "speaker": "",
+      "ja": "そんなコレットの言葉に２人は思わず震え上がる。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "381dec5b",
+      "speaker": "",
+      "ja": "コレットが満足するまで終わらないであろう搾精に、２人は地獄のような天国を見ることとなってしまうのだった。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "62455216",
+      "speaker": "コレット",
+      "ja": "ふむ……それにしてもわしらの世界では見たことのないものばかりじゃのう？",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "ef6d5d54",
+      "speaker": "",
+      "ja": "宇宙船の中を物珍しそうにコレットが見て回っている。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "7b5d2dbe",
+      "speaker": "異星の民",
+      "ja": "「コレットさんでも知らないことがあるんですね……で、でも勝手にウロウロして怒られちゃったり……」",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "c7345bb6",
+      "speaker": "",
+      "ja": "不安げに後に付いていきながらそう声をかけるけれど、コレットはお構いなしで興味の赴くままにあちこち歩き回っていた。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "5ec83415",
+      "speaker": "",
+      "ja": "そこに偶然{G_PlayerName}が通りかかり興味津々なコレットを見て声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "40578ce7",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ、その反応……機械に興味があるみたいだな！",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "e3214348",
+      "speaker": "コレット",
+      "ja": "おお、丁度良かった！　色々と案内してくれぬか？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "346c2885",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいですよ",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "f3f6bc82",
+      "speaker": "",
+      "ja": "{G_PlayerName}はコレットの頼みを快諾すると宇宙船の中のこと、宇宙のこと、機械のことをあれこれ説明した。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "6b694c5a",
+      "speaker": "",
+      "ja": "あれこれコレットと話をしていて{G_PlayerName}はふと気が合いそうなリリアンが思い当たる。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "c567639a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ、コレットさんと気が合いそうな子がいるんだけど呼んできてもいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "fc312232",
+      "speaker": "コレット",
+      "ja": "ほう、わしと気が合うとはどんな娘じゃろうな？",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "981cd59",
+      "speaker": "異星の民",
+      "ja": "「うーん……どんな方なんでしょうね」",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "e419f209",
+      "speaker": "異星の民",
+      "ja": "（もしかしてリリアンもお酒を飲んだりするのかな？）",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "94a8ade1",
+      "speaker": "",
+      "ja": "{G_PlayerName}が気が合いそうだというリリアンを呼びに行っている間、２人はそんな会話をしながらワクワクして待っていた。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "75dfaf9f",
+      "speaker": "",
+      "ja": "するとそこにラチャナを連れて{G_PlayerName}が戻ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "2ae60ea2",
+      "speaker": "ラチャナ",
+      "ja": "そなたがこやつの言っていたコレットか？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "54cceb6e",
+      "speaker": "コレット",
+      "ja": "そういうそなたは？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "30fc382c",
+      "speaker": "ラチャナ",
+      "ja": "ワシはラチャナじゃ、まああちらでお茶でもどうじゃ？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "3efc8f7a",
+      "speaker": "コレット",
+      "ja": "ほお、それは良いな♥",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "1e6e5de",
+      "speaker": "",
+      "ja": "妙に馬が合った２人はお茶を飲みながら年寄りトークに花を咲かせた。",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "ae59b706",
+      "speaker": "",
+      "ja": "それに{G_PlayerName}達も巻き込まれていってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "5137aaa3",
+      "speaker": "コレット",
+      "ja": "あぁ！こいつの紹介がまだじゃったのぉ♪",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "c4944855",
+      "speaker": "異星の民",
+      "ja": "ちょ、ちょっと……そんな……紹介なんて……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1ddd652e",
+      "speaker": "ラチャナ",
+      "ja": "……で、そちらの殿方は？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "670f27a2",
+      "speaker": "コレット",
+      "ja": "ふむ、何と紹介するのがいいか……まあ一言で言うならば虐められて喜ぶド変態じゃな！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "a0d8f17",
+      "speaker": "異星の民",
+      "ja": "「ちょ、ちょっと！　そんな紹介の仕方！」",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "aa673996",
+      "speaker": "ラチャナ",
+      "ja": "虐められて喜ぶ？　そんな変わった者がおるとは……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "40cb4c32",
+      "speaker": "コレット",
+      "ja": "なかなかの変態っぷりじゃぞ♥　しかもマゾで早漏でな……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "5afad26f",
+      "speaker": "異星の民",
+      "ja": "（うぅ……２人共僕の話題で盛り上がっちゃってる……。）",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "bd700ffa",
+      "speaker": "",
+      "ja": "２人が赤裸々な話題で盛り上がっているのを見て、マゾと言われた当の本人はついつい勃起してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "71bbcc9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うお……めちゃくちゃに言われてるよ……後で声かけて慰めてやろうと思ったけど……なんて声をかけたらいいんだ？）",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "32365fae",
+      "speaker": "",
+      "ja": "ぼろくそに言われている彼を気にかけながらも、あまりの罵詈雑言に{G_PlayerName}も徐々にいたたまれなくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "5a52f1e2",
+      "speaker": "",
+      "ja": "するとコレットが彼の方に視線を送ってニヤニヤしながら囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "b4972a93",
+      "speaker": "コレット",
+      "ja": "なんじゃ～？？　話で盛り上がっているから気づかんとでも思っておったか？♥",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "b5d5e592",
+      "speaker": "",
+      "ja": "その視線の先にラチャナも目を向け驚きの声を上げる。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "7c1eb471",
+      "speaker": "ラチャナ",
+      "ja": "ほ、本当に股間が腫れておる……まさか先程の話でか？　ワ、ワシの想像以上の者だな、そなたは……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "5cf2655",
+      "speaker": "",
+      "ja": "どん引きのラチャナとは対照的にコレットは妙に楽しそうに彼に声をかけた。",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "c4e2d59e",
+      "speaker": "コレット",
+      "ja": "旅先でもこれとは♥　リリアンの皆に迷惑をかけられんからのぉ♥　借りてよい部屋はあるか？♥",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "1a2643e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、ええ……まあ……空き部屋はありますけど……",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "b5c3a481",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}は近くにある空き部屋へと案内する。",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "f52f76b",
+      "speaker": "",
+      "ja": "コレットはその部屋に彼を流れるように自然な感じで連れ込んでいった。",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "679a6ffd",
+      "speaker": "コレット",
+      "ja": "ほれ♥　早くせぬか♥",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "6585f9a4",
+      "speaker": "異星の民",
+      "ja": "「あわわっ……コレットさん……あぁぁ……」",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "36b632d3",
+      "speaker": "ラチャナ",
+      "ja": "おお、手慣れておる……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "9d290958",
+      "speaker": "",
+      "ja": "コレットの行動を見てラチャナは妙に関心しているが、{G_PlayerName}の方は部屋に入って行く彼の後ろ姿を見送りながら思う。",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "e598322c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、後で俺は絶対に他の人に言いふらさないって声かけておくか……。）",
+      "zh": ""
+    }
+  ]
+}
