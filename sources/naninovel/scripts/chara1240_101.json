@@ -1,0 +1,481 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "6731cd77",
+      "speaker": "",
+      "ja": "{G_PlayerName}が部屋でのんびり過ごしていると、そこに霞が訪ねてくる。",
+      "zh": ""
+    },
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "d60c9ab1",
+      "speaker": "霞",
+      "ja": "旅鴉さん、つき合って下さい",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "af1be489",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　霞……つき合って下さいって？",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "7067c6f8",
+      "speaker": "",
+      "ja": "急な申し出に{G_PlayerName}は困惑しつつも、いつものようにからかわれていると思った。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "dd7ed5b",
+      "speaker": "",
+      "ja": "それを見透かしたように霞は不満げな表情を浮かべて{G_PlayerName}に迫る。",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "91074f78",
+      "speaker": "霞",
+      "ja": "なにボケっとしているんですか？　女の子からデートのお誘いを受けたのですからもっと喜んだらどうです？",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "5d180cb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……そ、そう……ですね",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "f26999bd",
+      "speaker": "霞",
+      "ja": "では和と桜花の星で待ち合わせということで……すっぽかさないでくださいね……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "2dd634ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はい……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "182c75a4",
+      "speaker": "",
+      "ja": "その返事を聞いて霞は{G_PlayerName}の部屋から去って行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "47377ab4",
+      "speaker": "{G_PlayerName}",
+      "ja": "同じ宇宙船にいるのだから一緒に行けばいいのに……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "37d0f91c",
+      "speaker": "{G_PlayerName}",
+      "ja": "し、仕方ない……つき合ってやるか……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "6bee29ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅ……霞とデートか……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "d9b6acc1",
+      "speaker": "",
+      "ja": "約束していた待ち合わせ場所で待機する{G_PlayerName}。まだ霞の姿は無く、近くにあった壁に背を預けて一息ついた。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "f4389b1a",
+      "speaker": "霞の声",
+      "ja": "待たせちゃいましたか？",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "10b38036",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺も今来たところ……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "2b8718fa",
+      "speaker": "",
+      "ja": "その姿に{G_PlayerName}は完全に驚き硬直してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "13b541b",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだ？　その姿",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "b3e9c4e4",
+      "speaker": "",
+      "ja": "あまりの衝撃に思わずそんな言葉を口にしてしまったが、霞は気にした様子も無くスカートを少し持ち上げて挨拶するような姿を見せて{G_PlayerName}に告げた。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "a304ee83",
+      "speaker": "霞",
+      "ja": "なにって……制服ですよ、制服♥　今から制服姿の私とデートするんです♪",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "2751077",
+      "speaker": "",
+      "ja": "そんな霞の言葉と姿に{G_PlayerName}はドキッとしてしまうが、{G_PlayerName}は平静を装って言った。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "82b123d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そっか……それじゃあ……い、行こうか",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "72322307",
+      "speaker": "霞",
+      "ja": "制服姿の女の子と一緒に歩いているなんて、あなたは周りの人からどういう風に見られているんでしょうね……♥",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "fe1f878e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どうって？　どう見られるんだよ",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "5893835",
+      "speaker": "霞",
+      "ja": "さあ……？　くすくす♪",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "dd101886",
+      "speaker": "",
+      "ja": "そんな調子で奇妙なデートは霞の主導で進み、{G_PlayerName}は連れ回されるような形になった。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "7e7eacea",
+      "speaker": "",
+      "ja": "数時間後。一通りあちこち連れ回された{G_PlayerName}に霞が告げる。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "91892361",
+      "speaker": "霞",
+      "ja": "それじゃあ最後に……雫さんへのお土産を買いたいので……そこのお店に行きましょう",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "48df104d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……ああ……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "f77a04d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり今日のこれってデートじゃなくて買い物につき合わされただけだったのか……）",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "79d1e1e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まあ……でも……結果楽しかったからいいか）",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "eccf83bb",
+      "speaker": "",
+      "ja": "そんなことを思っている{G_PlayerName}にお土産を見ていた霞が聞いてきた。",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "50279408",
+      "speaker": "霞",
+      "ja": "旅鴉さん……どんなお土産がいいと思いますか？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "17308d76",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　あっ……そうだなぁ……どんなのがいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "9dfc56df",
+      "speaker": "霞",
+      "ja": "あなた……今何か別のことを考えていましたね……？",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "4ab64b61",
+      "speaker": "{G_PlayerName}",
+      "ja": "あははっ……そ、そんなことはないけど……えっと……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "dca3d6bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "アクセサリーとかどうかな？　指輪はサイズもあるから……ペンダントとか……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "74ebf1fb",
+      "speaker": "霞",
+      "ja": "なるほど……ペンダントですか……それはいいかもしれませんね……",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "aa1dc076",
+      "speaker": "",
+      "ja": "しばらく迷っていた霞だが、結局お揃いのペンダントを購入することにしたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "ba3a68c8",
+      "speaker": "霞",
+      "ja": "これは私が思案した結果であり、あなたの意見を鵜呑みにしたわけではございませんので",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "6fd56183",
+      "speaker": "霞",
+      "ja": "それではお会計してきますから、お店の外で待っていて下さい……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "c8ecd6d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……うん、わかった",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "6a543e31",
+      "speaker": "",
+      "ja": "霞の指示に素直に従い{G_PlayerName}は店から出て外で待つことに。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "2a190f74",
+      "speaker": "",
+      "ja": "しばらくして会計を終えた霞が店から出てきて、{G_PlayerName}に包みを一つ差し出して言った。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "ddd9b2b6",
+      "speaker": "霞",
+      "ja": "はい……どうぞ……",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "3fa11ead",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　こ、これは……？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "ef3fe2d",
+      "speaker": "霞",
+      "ja": "これは旅鴉さんの分です……私たちと、おそろいですよ……♪",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "2ca31d3b",
+      "speaker": "",
+      "ja": "思わぬプレゼントを渡された{G_PlayerName}は顔を赤らめドギマギしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "5f212add",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を見て霞はクスクスと笑っていた。からかわれているのか純粋な好意かわからず、{G_PlayerName}は首を掻く。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "5690e50b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どっちなんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "2b344841",
+      "speaker": "",
+      "ja": "落ち着かない気分のまま、{G_PlayerName}は霞と一緒に帰路につくのだった。",
+      "zh": ""
+    }
+  ]
+}

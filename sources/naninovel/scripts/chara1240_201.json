@@ -1,0 +1,832 @@
+{
+  "lines": [
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "39630861",
+      "speaker": "霞",
+      "ja": "あの、旅鴉さん？　あなた一応大人なんですよね？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "1b15f25b",
+      "speaker": "{G_PlayerName}",
+      "ja": "一応って……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "d29c870e",
+      "speaker": "",
+      "ja": "いきなり部屋にやって来て小馬鹿にするようなことを言われ{G_PlayerName}は少しムッとした表情を浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "f880cfa3",
+      "speaker": "霞",
+      "ja": "であれば、お勉強もできますよね？　教えてくれませんか？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "ae58492c",
+      "speaker": "",
+      "ja": "そう言って霞は教科書を差し出してくる。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "d968d4a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ、機械工学の？",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "d60323db",
+      "speaker": "霞",
+      "ja": "お得意なんでしょ？　こういうお勉強",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "8f67cf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "6813a708",
+      "speaker": "",
+      "ja": "そう答えた{G_PlayerName}は霞から教科書を受け取って内容を確認していった。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "2e5cca09",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ……これは……",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "ac03b8db",
+      "speaker": "",
+      "ja": "霞が差し出した教科書は知らない知識が書かれていて、つい夢中になって読み耽ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "539ce293",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほどなるほど……ふーん",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "6028b275",
+      "speaker": "",
+      "ja": "自分をそっちのけに教科書を読んでいる{G_PlayerName}に対して、霞はムッとした顔で告げた。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "c021fab1",
+      "speaker": "霞",
+      "ja": "ねえ、ちょっと……人の事無視して、なに読み込んでるんですか？",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "bb2458d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　す、すまん",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "9a4f4536",
+      "speaker": "",
+      "ja": "あからさまに不機嫌な声でそう言われた{G_PlayerName}は慌てて教科書を読むのを止めるが時すでに遅し。",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "ed281766",
+      "speaker": "霞",
+      "ja": "あなたのそういう『機械馬鹿だからこんなことしちゃうけど許して受け入れてね』って態度……気に入らないです……♥",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "ecea08f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや……そういう訳では……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "d4a26a2a",
+      "speaker": "霞",
+      "ja": "ほら……抵抗しないで……あなたみたいな酷い人には、こうやって体に教え込まなければいけませんから……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "5fc8b8e2",
+      "speaker": "",
+      "ja": "霞はサディスティックな笑みを浮かべながら{G_PlayerName}のおちんちんを取り出しギュッと握ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "ff2212f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうぅ……っ！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "1fa99cb4",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}の陰茎はみるみるうちに硬く大きく勃起してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "f1804e9b",
+      "speaker": "霞",
+      "ja": "あーあ……旅鴉さんの大事なところ……ルミナさんたちに子種を植え付けるためのオスの象徴……私に握られちゃってますよ？",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "4f7e7231",
+      "speaker": "",
+      "ja": "自分の主導権を誇示するように霞は{G_PlayerName}にそう告げる。その言葉に{G_PlayerName}はドキドキしてしまい、更におちんちんを硬直させていった。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "f8cf949f",
+      "speaker": "",
+      "ja": "それを感じた霞はおもむろに舌を出して{G_PlayerName}の乳首を舐めながら肉竿を手でしごき始める。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "988f4ff0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あうっ……",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "8772a1e4",
+      "speaker": "",
+      "ja": "ゾクッとする感覚が{G_PlayerName}の乳首から全身へと駆け巡った。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "7d7a3d7d",
+      "speaker": "",
+      "ja": "ビクンと体を跳ねさせた{G_PlayerName}を見て霞は感情が無い感じで囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "d8f93eda",
+      "speaker": "霞",
+      "ja": "んちゅ……れろ……あらあら、旅鴉さんは乳首で感じちゃう人なんですね",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "787ba2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "違う……感じているわけないだろ……",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "90a31143",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう否定するが陰茎がビクンと跳ねてしまっているので、しっかりと感じていることは霞にはお見通しだった。",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "164d421b",
+      "speaker": "霞",
+      "ja": "そうだったんですね……まあ旅鴉さんは大人の男の人ですから乳首を舐められて感じるなんて……そんな情けないことあるわけないですよね♥",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "b6b9c32d",
+      "speaker": "",
+      "ja": "あえて{G_PlayerName}の言葉を肯定することで煽りながら、霞はニンマリと笑いながら乳首を転がすように舐め手にしたおちんちんをしごいていく。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "e5856b4f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっ……や、やめろって……感じてないんだから……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "97d8ac2a",
+      "speaker": "",
+      "ja": "慌てて制止しようとするが霞の方はお構いなしで乳首を舐め回しながら呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "69dfeada",
+      "speaker": "霞",
+      "ja": "感じていないなら別に構わないでしょ？♥　んぢゅるっ……♥　れろれろれろ……♥",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "9d506688",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうっ……うっ……くぅぅ……っ",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "b8ae603c",
+      "speaker": "",
+      "ja": "勃起してきた乳首を舐め回される度に{G_PlayerName}の快感は大きくなる一方で、しごかれている陰茎の先からは我慢汁が溢れ出てきている。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "7ad92b41",
+      "speaker": "霞",
+      "ja": "感じていないと言う割には、こんなに先走りの汁を溢れさせちゃって……♥　んちゅるぅ……♥　ぺちゃぺちゃぺちゃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "6fe74543",
+      "speaker": "",
+      "ja": "容赦なく乳首を責められおちんちんを激しく擦られた{G_PlayerName}は、込み上げてくる感覚に襲われていった。",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "f151f4bb",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}をからかうように、霞が意地の悪い口調で呟く。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "f55a33ad",
+      "speaker": "霞",
+      "ja": "んっ、んんっ……♥　こんなに乳首を勃起させて……♥　おちんちんもビクビクさせて……♥　ちゅるるっ♥　ぺちゃぺちゃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "11da9d7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……ああっ……",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "e488719d",
+      "speaker": "",
+      "ja": "乳首への刺激は徐々に大きくなってきて{G_PlayerName}は小さく体を震わせながら呻いた。",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "e0b5c4a1",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を追い込むように霞の手が反り返った陰茎を激しくしごいていく。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "70732f04",
+      "speaker": "霞",
+      "ja": "どうしたんです？　感じていないんでしょ？♥　射精なんて……しませんよね♥",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "22b8e285",
+      "speaker": "",
+      "ja": "そう言われると{G_PlayerName}は射精しにくくなるが、確実に込み上げてくる感覚は大きくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "2254c813",
+      "speaker": "霞",
+      "ja": "んんんっ……♥　まさか乳首でイっちゃいます？♥　んちゅぅぅ♥　ちゅっ♥　ちゅるるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "c88a51cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……くぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "46c512b0",
+      "speaker": "",
+      "ja": "乳首からの快感とおちんちんへの直接の刺激に{G_PlayerName}は息を荒げ抗いきれない射精衝動に襲われてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "49f89f66",
+      "speaker": "霞",
+      "ja": "あらあら、すごく気持ちよさそうな顔をして……♥　おちんちんもびっくんびっくんしているし……♥　もうイっちゃいそうなんですけど……♥",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "dce32979",
+      "speaker": "",
+      "ja": "霞は楽しそうにそう言いながら手の動きを一気に速めてきた。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "f11fcd22",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……！　だめだ……っ！　も、もう……くぅぅっ……！",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "7c4b6d08",
+      "speaker": "",
+      "ja": "その刺激にたまらず{G_PlayerName}はおちんちんを脈打たせ勢いよく射精してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "37dce8e7",
+      "speaker": "霞",
+      "ja": "あは……♥　乳首なんかで感じないと言っていた割には随分と早い射精ですね……♥",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "fe2007bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……うぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "702cb7eb",
+      "speaker": "",
+      "ja": "恥ずかしいやら情けないやらで{G_PlayerName}は顔を真っ赤にさせながら呻き声を漏らしていた。そんな{G_PlayerName}を煽るように霞は耳元で囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "294576af",
+      "speaker": "霞",
+      "ja": "まったく……こんなに早く射精するなんて……反省の色がまるで見えません",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "d6c57133",
+      "speaker": "{G_PlayerName}",
+      "ja": "反省って……反省ならもうしてる！　だから、こんなことやめてくれ！",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "736c03e6",
+      "speaker": "",
+      "ja": "必死にそう訴える{G_PlayerName}だが、霞は聞く耳持たずという感じで言った。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "6fa2c3",
+      "speaker": "霞",
+      "ja": "あは……♥　乳首舐めでイかされて男の尊厳が傷ついちゃいました？♥",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "718e7f5a",
+      "speaker": "",
+      "ja": "そう指摘された{G_PlayerName}は益々恥ずかしくなり沈黙してしまうが、霞は追い打ちをかけるように言葉を投げかける。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "4a051c70",
+      "speaker": "霞",
+      "ja": "まあやめて欲しいのならその、『もっと虐めて欲しいよ～』と主張しているマゾチンポを萎えさせたらどうです？♥",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "f9cd8161",
+      "speaker": "",
+      "ja": "小馬鹿にするようにそう言って霞はまだ萎える気配のない{G_PlayerName}のおちんちんを再びしごき始めた。",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "9ea5241b",
+      "speaker": "霞",
+      "ja": "んれぇ～……ちゅるちゅる……んっ、んんんっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "12a5682e",
+      "speaker": "",
+      "ja": "また乳首に舌を這わせ陰茎をしこしこと擦られた{G_PlayerName}は思わず体をのけ反らせて悶えていく。",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "7a590e4d",
+      "speaker": "",
+      "ja": "一度射精をしたことですっかり高ぶってしまった{G_PlayerName}は先程よりも乳首で感じてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "de2a03f6",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を見て霞はクスクスと笑いながら{G_PlayerName}を諭すように囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "307c52d8",
+      "speaker": "霞",
+      "ja": "ダメですよ……射精したらダメです♥　大人として私のことをないがしろにしたこと、反省しないといけないんですから……♥",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "63bb030a",
+      "speaker": "",
+      "ja": "そう言うと霞はすっかり固く尖った{G_PlayerName}の乳首に吸いついて甘噛みしながら舌で転がしてきた。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "9ff15f54",
+      "speaker": "霞",
+      "ja": "あむぅぅ♥　んちゅるっ……♥　ちゅっ……♥　んちゅるぅ……♥　れろれろれろっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "bfafaf11",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もうやめっ……あっ……あぁぁぁ……っ",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "f8652549",
+      "speaker": "",
+      "ja": "乳首への刺激に{G_PlayerName}は身悶えながら再びおちんちんを硬く勃起させてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "76635d1b",
+      "speaker": "",
+      "ja": "その硬直していく陰茎を、霞の小さな手が何度も擦り上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "c1922347",
+      "speaker": "霞",
+      "ja": "ほらほら……♥　乳首を刺激したらまた……こんなに固く大きくさせちゃって……♥",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "3fd66821",
+      "speaker": "",
+      "ja": "{G_PlayerName}をからかうようにそう囁きかけながら、霞は乳首を強く吸って硬くなっていくおちんちんを激しくしごいていく。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "58530ece",
+      "speaker": "",
+      "ja": "また高まっていく快感に{G_PlayerName}は情けない声を漏らしつつ腰を小さく跳ねさせた。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "b2484c1e",
+      "speaker": "霞",
+      "ja": "射精したばっかりで敏感になっているのかしら？♥　すぐにこんなにさせちゃって……♥　んっ、んちゅぅ♥　ぢゅるぢゅる……♥",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "22c31a95",
+      "speaker": "",
+      "ja": "強く乳首を吸われる度に{G_PlayerName}は陰茎を強く脈打たせ再び高まる快感に身悶えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "4d7be00d",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を容赦なく追い込むように霞は乳首を舌先で転がしつつ手を上下させ続けた。",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "91e9a743",
+      "speaker": "霞",
+      "ja": "んっ、んんんっ♥　んちゅるっ♥　おちんちんも乳首も勃起させて……♥　ちゅうちゅう……♥　そろそろまたイっちゃうかしら？♥",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "4268a902",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああっ……うぅぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "7357f",
+      "speaker": "",
+      "ja": "乳首への刺激と陰茎を激しく擦られる感覚に{G_PlayerName}はまた込み上げてくる感覚に襲われてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "7bc75ef2",
+      "speaker": "",
+      "ja": "それを見透かしたかのように霞は{G_PlayerName}の乳首を強く吸いながら手の動きを加速させていった。",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "bc37b0d4",
+      "speaker": "霞",
+      "ja": "んむぅ……♥　ちゅっ……♥　ちゅぅぅぅ♥　また乳首で気持ちよくなってイっちゃいましょうか？♥　ぢゅるぢゅるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "3495ab7",
+      "speaker": "",
+      "ja": "射精に誘うように霞の手が激しく上下していくと、さすがに{G_PlayerName}は堪えきれなくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "6bfb0bb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あああっ……また……で、出る……うぅぅっ……！",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "98a993f2",
+      "speaker": "",
+      "ja": "あまりにも激しい霞の手の動きと舌使いに、{G_PlayerName}は簡単に２回目の射精に至ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "2a6ff2ce",
+      "speaker": "霞",
+      "ja": "あーあ、今度はちゃんと反省して下さいって言ったのに……情けな～く射精しちゃいましたね～♥　もしかして乳首舐められるのクセになっちゃいました？♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "ca1b63cf",
+      "speaker": "",
+      "ja": "霞は目を細め{G_PlayerName}にそう告げる。{G_PlayerName}は霞に返す言葉もなく、ただただ精液を漏らし続けていた。そんな{G_PlayerName}に霞は笑いながら耳元で囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "83eac99c",
+      "speaker": "霞",
+      "ja": "乳首を舐められてこんなにも感じてしまって……婚約者さんにも乳首舐め、教えてあげたらどうです？♥",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "fda55946",
+      "speaker": "",
+      "ja": "まるで逆寝取りをしてやったと言わんばかりの言葉を投げかけながら霞は勝ち誇ったような笑みを浮かべていた。",
+      "zh": ""
+    }
+  ]
+}
