@@ -1,0 +1,400 @@
+{
+  "lines": [
+    {
+      "key": "10.1",
+      "line_index": 10,
+      "inline_index": 1,
+      "line_hash": "2b838db9",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんっ！　見てた、見てたっ？",
+      "zh": "哥哥！你刚才在看我吗？看到了对不对！"
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "d4f7e1c1",
+      "speaker": "",
+      "ja": "チアのパフォーマンスを終えたスゥが{G_PlayerName}の元に駆け寄ってくる。",
+      "zh": "结束啦啦队表演的苏，跑到了{G_PlayerName}身边来。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "77a12db7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、バッチリ見てたぞ、すごく頑張ってたな",
+      "zh": "嗯，我一直都盯着看呢，你真的很努力啊。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "9d4d46ec",
+      "speaker": "",
+      "ja": "{G_PlayerName}がスゥの頭を撫でながら褒めると、スゥはすごく嬉しそうな表情を浮かべる。",
+      "zh": "{G_PlayerName}一边摸着苏的头一边夸她，苏露出一副开心得不行的表情。"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "df42b934",
+      "speaker": "スゥ",
+      "ja": "えへへ、お兄ちゃんが見えたから、もっとがんばらなきゃ～って頑張ったんだよ♪",
+      "zh": "嘿嘿，因为哥哥在看，我就想着要更卖力点儿，所以才这么努力的啦♪"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "f49ed47d",
+      "speaker": "{G_PlayerName}",
+      "ja": "スゥだけじゃなくて、他の娘たちも頑張っていたな……",
+      "zh": "不止是苏，其他女孩子也很努力啊……"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "67f927f3",
+      "speaker": "",
+      "ja": "ついつい余計なことを{G_PlayerName}が言った瞬間、スゥの嬉しそうな表情が一変した。",
+      "zh": "就在{G_PlayerName}一不小心多嘴说出这句多余话的瞬间，苏开心的表情一下子就变了。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "c481d045",
+      "speaker": "スゥ",
+      "ja": "え？　もしかしてお兄ちゃん……他の泥棒猫のこと見てたの……？",
+      "zh": "咦？难道说哥哥……刚才在看其他偷腥猫……？"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "996d1a40",
+      "speaker": "",
+      "ja": "そう言って詰め寄ってくるスゥに気圧されるように{G_PlayerName}は後ずさりしながらいい訳を口走った。",
+      "zh": "被苏这么一边说一边逼过来，{G_PlayerName}感觉有点喘不过气，一边后退一边脱口而出找借口。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "cc7c41c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もちろんスゥのついでにチラッと見ただけだから……",
+      "zh": "当、当然是为了看你才顺便瞄了一眼而已啦……"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "748ed039",
+      "speaker": "スゥ",
+      "ja": "ふぅ～ん……まあ、スゥのことを一番に見てくれてたなら……許してあげる♥",
+      "zh": "哼～嗯……算了，既然你最关注的人是苏……那我就原谅你好了♥"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "d8dcc0bd",
+      "speaker": "",
+      "ja": "可愛らしい見た目のスゥだが嫉妬深い一面もあるのだとつくづく思い知らされた{G_PlayerName}は、言葉には気をつけようと思いつつ機嫌が直ったのでホッと胸を撫で下ろした。",
+      "zh": "{G_PlayerName}这下深深体会到外表可爱的苏原来也有爱吃醋的一面，心里一边提醒自己以后说话要小心，一边又因为她心情好转而松了口气。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "9c2e907d",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}に甘えるようにスゥが体を寄せながら可愛らしく囁きかけてくる。",
+      "zh": "苏像撒娇似的把身体凑过来，一边可爱地对着{G_PlayerName}小声低语。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "8a1d705c",
+      "speaker": "スゥ",
+      "ja": "ふふっ、だからお兄ちゃんのことも、いっぱい応援してあげる♪",
+      "zh": "哼哼，所以我也会拼命为哥哥加油的♪"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "f502188d",
+      "speaker": "",
+      "ja": "そう言うとスゥは小さい体をフルに使ってピョンピョンと跳びはねながらチアの応援を始めた。",
+      "zh": "说完，苏就尽情舞动小小的身体，蹦蹦跳跳地开始给啦啦队加油了。"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "2b6cb68c",
+      "speaker": "スゥ",
+      "ja": "フレっ、フレっ♪　お兄ちゃんっ♥　頑張れ、頑張れ、お兄ちゃん♥",
+      "zh": "加油、加油♪ 哥哥♥ 加油、加油、哥哥♥"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "408955d0",
+      "speaker": "",
+      "ja": "短い手足で必死に応援するその姿はまるで小動物のようで愛らしい。",
+      "zh": "她挥动着短短的四肢拼命加油的样子，简直就像只小动物，可爱极了。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "ed1c1703",
+      "speaker": "",
+      "ja": "そんなスゥを見つめながら{G_PlayerName}はふと呟く。",
+      "zh": "{G_PlayerName}凝视着这样的苏，忽然喃喃自语。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "c4e1252e",
+      "speaker": "{G_PlayerName}",
+      "ja": "恋人として可愛いと思ってしまうのは、どうなんだろうか……",
+      "zh": "把她当成恋人来看会觉得可爱，这感觉到底是怎么回事啊……"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "17ba80b5",
+      "speaker": "",
+      "ja": "{G_PlayerName}がそう思っていると不意にスゥが手を握ってきてそのまま一緒に歩き始めた。",
+      "zh": "就在{G_PlayerName}这么想着的时候，苏突然握住了他的手，然后就这么一起走了起来。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "fca6e72a",
+      "speaker": "スゥ",
+      "ja": "なになに？　お兄ちゃん、なんで難しそうな顔しているの……？",
+      "zh": "嗯嗯？哥哥，怎么一脸为难的样子……？"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "2ba643ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、スゥが可愛すぎて……劣情を抱いてしまうのはどうなんだろうって考えてたんだ",
+      "zh": "不，苏实在太可爱了……我刚刚在想，对她有那种念头是不是不太好。"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "e685095b",
+      "speaker": "スゥ",
+      "ja": "あはは、そんなこと考えてくれてたの？",
+      "zh": "啊哈哈，原来你在想这些呀？"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "8f3aca34",
+      "speaker": "",
+      "ja": "{G_PlayerName}の正直な言葉にスゥは笑いながらそう言うと、腕にしがみつきながら可愛らしく呟く。",
+      "zh": "听见{G_PlayerName}这么坦白，苏边笑边说，然后一把抱住他的胳膊，可爱地哼唧起来。"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "a2ededd6",
+      "speaker": "スゥ",
+      "ja": "スゥはお兄ちゃんのことが大好き♥　お兄ちゃんもスゥのこと大好き♥　幸せいっぱいでいいことだと思うけどな～♥",
+      "zh": "苏最喜欢哥哥了♥ 哥哥也最喜欢苏♥ 幸福成这样不是挺好的嘛～♥"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "3c76cdd",
+      "speaker": "",
+      "ja": "素直に{G_PlayerName}の気持ちを受け入れてくれるスゥに対して、ますます気持ちが高まっていった。",
+      "zh": "苏这么坦然地接受了{G_PlayerName}的心意，让他反而越来越亢奋。"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "880769e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、そうかもな……",
+      "zh": "是吗，也许吧……"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "27772bfc",
+      "speaker": "",
+      "ja": "妙に納得した{G_PlayerName}はそう答えるとスゥと並んで歩いていく。",
+      "zh": "{G_PlayerName}莫名被说服了似的这么回答，接着就和苏并肩走了起来。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "40731fc9",
+      "speaker": "",
+      "ja": "そのまましばし歩いていると不意にスゥが俺に切り出してきた。",
+      "zh": "走了一会儿，苏突然朝他开口了。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "9fefcad9",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん……キスしてくれる？♥",
+      "zh": "哥哥……可以亲我一下吗？♥"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "7e9b4845",
+      "speaker": "",
+      "ja": "いきなりそう言われた{G_PlayerName}は驚き足を止める。",
+      "zh": "突然被这么要求，{G_PlayerName}吃惊得停住了脚步。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "865aa6f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　と、突然すぎるって……",
+      "zh": "咦？！这、这也太突然了吧……"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "86c1ad9",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん♥　早く～♥",
+      "zh": "哥哥♥ 快一点～♥"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "10344023",
+      "speaker": "",
+      "ja": "真剣な感じで求められた{G_PlayerName}は断り切れずにスゥの顔に自分の顔を寄せると、そのまま唇を重ねた。",
+      "zh": "面对苏认真的请求，{G_PlayerName}无法拒绝，便把脸凑近苏的脸，就这么吻了上去。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "a03a273f",
+      "speaker": "スゥ",
+      "ja": "……んっ、ちゅっ♥",
+      "zh": "……嗯、啾♥"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "67366a2d",
+      "speaker": "",
+      "ja": "柔らかな唇の感触と甘い匂いが{G_PlayerName}の鼻腔をくすぐってくる。",
+      "zh": "柔软的触感和甜甜的气息搔得{G_PlayerName}鼻腔痒痒的。"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "ab028d7b",
+      "speaker": "",
+      "ja": "その感覚に{G_PlayerName}はドキドキしてしまった。",
+      "zh": "这感觉让{G_PlayerName}心里咚地跳了一下。"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "5c00124b",
+      "speaker": "",
+      "ja": "するとスゥはニコッと笑って{G_PlayerName}の耳元に囁きかけてくる。",
+      "zh": "接着苏抿嘴一笑，凑到{G_PlayerName}耳边轻声说——"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "446b137",
+      "speaker": "スゥ",
+      "ja": "どうだった、お兄ちゃん……スゥは幸せいっぱいだよ♥",
+      "zh": "怎么样，哥哥……苏幸福得不得了哦♥"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "2e6a74f5",
+      "speaker": "",
+      "ja": "そう言って笑みを浮かべるスゥに{G_PlayerName}はドキッとしながらも嬉しさが込み上げてきた。",
+      "zh": "望着苏满脸笑意，{G_PlayerName}心里又猛跳了一下，却也涌上了一阵欢喜。"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "f44e284f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺も幸せだよ",
+      "zh": "嗯，我也很幸福。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "72dcb778",
+      "speaker": "",
+      "ja": "素直にそう答えるとスゥも嬉しそうにニコニコしながら腕にギュッとしがみついてくる。",
+      "zh": "坦率地这么回答后，苏也开心得笑眯眯地，一把搂住了我的胳膊。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "5a4d6db0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ああ、こんなに可愛い女の子なんだから、好きになるのは当然か……）",
+      "zh": "（嗯，这么可爱的女孩子，会喜欢上也是理所当然的啊……）"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "71d95f24",
+      "speaker": "",
+      "ja": "妙に納得した{G_PlayerName}はそのままスゥと一緒に帰るのだった。",
+      "zh": "{G_PlayerName}莫名就接受了，然后就这样和苏一起回家了。"
+    }
+  ]
+}
