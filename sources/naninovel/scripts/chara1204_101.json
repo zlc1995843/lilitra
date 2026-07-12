@@ -1,0 +1,670 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "97a262dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ……！　んんん……！　んんんぅぅぅ……！",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "77faefb6",
+      "speaker": "{G_PlayerName}",
+      "ja": "んはっ……！　はーっ！　すぅ……！　はーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "ab6c1694",
+      "speaker": "",
+      "ja": "俺はゆっくりとダンベルを下ろすと息を整えるように大きく深呼吸をする。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a0f4fb26",
+      "speaker": "{G_PlayerName}",
+      "ja": "（トレーニングもすっかり日課になったな。やり始めたころは続けられるのかなって思ったけど、意外と継続できるものなんだな）",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "864cf10d",
+      "speaker": "",
+      "ja": "宇宙船に乗ってから日課になっている筋力訓練。最近ではその効果が出てきたのか、以前よりも体ががっしりとしてきていることを自分なりに実感できていた。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "aebabb65",
+      "speaker": "",
+      "ja": "どうにかみんなの力になりたい、そう思って始めた筋トレだが、リリアン相手になるとまったくの力になれないことも多い。しかしやらないよりはいい、そう自分に言い聞かせて毎日続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "597dc7bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（よし、次は──）",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "60b05b12",
+      "speaker": "永虚",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "d89b62f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うおおおおっ！？　え、永虚っ！？　い、いつの間に！？！？",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "842c9fbb",
+      "speaker": "",
+      "ja": "ふと顔を上げると、永虚がニコニコした笑みで俺を見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "63c07c2d",
+      "speaker": "",
+      "ja": "唐突に表れた永虚にさすがに驚き、俺は距離を取るように起き上がる。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "e1ef6dd0",
+      "speaker": "永虚",
+      "ja": "研鑽を重ねるとは、殊勲なことだ",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "8d1a7ab5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、日課だからな……って！　いつの間に部屋にいたんだよっ？　全然音なんて聞こえていなかったぞ",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "aeb6986b",
+      "speaker": "永虚",
+      "ja": "我の存在に気づかぬほど集中していたということだろう。無防備で、いつでも命を刈り取れたとも言えるが",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "30a7f0ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "こっ、怖くなること言うなよっ！　寒気が走っただろ！",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "b6597aba",
+      "speaker": "永虚",
+      "ja": "如何なる時も警戒を怠ってはならぬ。自室が安全という甘い考えは疾く捨てよ",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "f174d78a",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分の部屋にいるときくらいリラックスしていてもいいだろ、部屋いるときも警戒とか息が詰まって苦しいだけだって",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "d18db3b8",
+      "speaker": "永虚",
+      "ja": "我の忠告を無碍にするか。……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "6680f23d",
+      "speaker": "永虚",
+      "ja": "（思っていたよりは良い体躯をしておる。日々鍛錬していたとは……）",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "9d2da7ab",
+      "speaker": "永虚",
+      "ja": "（それにしてもなんという匂いだ……オス臭さが部屋中に漂っておる……❤　まったく、これがリリアンを引き付ける正体というわけだな……❤）",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "da26100d",
+      "speaker": "永虚",
+      "ja": "（本人は少しも気づいておらぬようだが……くく……❤）",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "35c6c04",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、人のことジーっと……あ！　も、もしかして汗びっしょりでそれで？　す、すまん、すぐに着替えるから……！",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "edea3bdd",
+      "speaker": "永虚",
+      "ja": "鍛錬の汗に嫌悪は示さぬ。そのままでよい",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "af6efd8a",
+      "speaker": "永虚",
+      "ja": "汝も鍛錬を行うのだな。日々を怠惰に過ごしていると思ったが",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "a5fe80a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、半分は趣味、みたいなものだとは思うけどな……リリアン相手じゃどんなにトレーニングしても厳しいしさ",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "ed9714db",
+      "speaker": "永虚",
+      "ja": "我々リリアンに腕力では敵わぬだろう。しかしそれを覆す技があれば勝手は違ってくると思うが？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "e4ba7ac2",
+      "speaker": "永虚",
+      "ja": "柔よく剛を制す、この言葉を聞いたことはないか？",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "c08f350",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゅうよく……？　いや、初耳だけど……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "a657b1f8",
+      "speaker": "永虚",
+      "ja": "ふむ……技を習得せず体躯ばかりを鍛えておったか、それではその筋肉も宝の持ち腐れだな",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "922a7760",
+      "speaker": "永虚",
+      "ja": "命を賭した状況では何一つ役に立てぬ。心技体、そのすべて揃わねば何も意味をなさぬのだ",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d84bbe0d",
+      "speaker": "{G_PlayerName}",
+      "ja": "言いたいことはわかる気がするが、いきなり技術的なものを身に着けろってさすがに無理だろ。自分でも必殺技みたいなものがあればいいとは思うけどさ",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "19a602d6",
+      "speaker": "永虚",
+      "ja": "なら特別に我がそなたに稽古をつけてやろう",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "b3c87b89",
+      "speaker": "{G_PlayerName}",
+      "ja": "──はぁっ？　あ、ちょ、ちょぉおっ！？",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "95155b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "は？　え、あ……？",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "c3fcd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（きっ、消えた！？　どこに行ったんだよっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "b4f42820",
+      "speaker": "",
+      "ja": "永虚から一切目を離していなかったが、まるで初めから存在しなかったかのように音も無く姿が消える。",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "9454329c",
+      "speaker": "",
+      "ja": "俺は永虚を探そうと部屋中を見渡すが、姿はおろか、物音一つ聞こえてこなかった。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "2d56da5",
+      "speaker": "{G_PlayerName}",
+      "ja": "どっ、どこ行ったんだよっ！？　ヘンな冗談はよせっ！",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "87c1308e",
+      "speaker": "永虚",
+      "ja": "冗談など言わぬ",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "a2e81779",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ！？　うあっ！？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "7ce86fe9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐはっ！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "eb2b33fc",
+      "speaker": "",
+      "ja": "永虚の声が耳元で聞こえた瞬間、背中を叩きつけられる衝撃と共に自分の部屋の天井を見ていた。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "a57145ac",
+      "speaker": "永虚",
+      "ja": "お前が望んだことだろう、稽古をつけてやる",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "a471f6a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、ううう……！？　ちょ、ちょ……！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "d3107fd8",
+      "speaker": "",
+      "ja": "永虚は俺に跨がり、コブシをみぞおちに当てる。それだけで異様な息苦しさを感じ、身体に石でも乗せられたように上半身が動かなくなった。",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "49f05753",
+      "speaker": "永虚",
+      "ja": "ふふふ、息ができぬだろう？　ここは人体の急所の一つ。ここを軽く抑えるだけで人間の上半身の動きを封じることができるのだ",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "6db81a73",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう゛！　や、やめ……！",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "467c01cc",
+      "speaker": "永虚",
+      "ja": "四肢は自由にしてやる。状況を脱してみせろ",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "abe480d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、そんなこと言われても……あぐっ！",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "c8bb87b2",
+      "speaker": "",
+      "ja": "永虚の身体を掴もうと腕を伸ばすと、永虚はみぞおちに僅かにコブシを食い込ませる。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "3391e13b",
+      "speaker": "",
+      "ja": "苦しみながらも脚をうまい具合に永虚の脇の間に入れることに成功し、身体をひっくり返そうとした。",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "a721255",
+      "speaker": "永虚",
+      "ja": "うむ、抜け出そうと足掻く意気やよし。だが……",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "28e11b2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぎっ！？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ea4dc553",
+      "speaker": "",
+      "ja": "永虚の身体がふっ、と俺の身体の上から消えると、いつの間にか立ち上がり俺の足首を掴んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "b3935819",
+      "speaker": "{G_PlayerName}",
+      "ja": "いだだだだ！！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "3c5b29c0",
+      "speaker": "永虚",
+      "ja": "足首も人の急所の一つ。抜け出そうとする余り意識を疎かにしては、別の急所を取られると心得よ",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "aad042f",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もう勘弁してくれぇええっ！　死ぬ、死ぬ！",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "34b1b236",
+      "speaker": "永虚",
+      "ja": "我は誰よりも人の死ぬ境界を心得ている。この程度では死なぬ……が、やかましいので緩めてやろう",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "a1dde80a",
+      "speaker": "永虚",
+      "ja": "鍛錬を続けるぞ。次は我が下になる故、抑え込んでみせよ",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "78b2b124",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、抑えろって……そ、そんなことできるはずが……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "ae9ec828",
+      "speaker": "永虚",
+      "ja": "手本は見せた。やってみせよ",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "e8da784",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、そういう意味じゃないって……！　女の子を抑えつけるとかそういうことできないって言ってんだよ……！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "9963089d",
+      "speaker": "永虚",
+      "ja": "暗殺組織の頭を前に、よくも少女などと……呆れるわ。少々灸をすえてやろう",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "6d4e3dc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ、やめ……うううっ！？",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "5d6f8d41",
+      "speaker": "永虚",
+      "ja": "くくっ、どうだ？　この絞め技は体格の差を無視できるぞ",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "799c2233",
+      "speaker": "{G_PlayerName}",
+      "ja": "（え、永虚の、股……股がっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "5251ddf8",
+      "speaker": "",
+      "ja": "永虚は恥ずかしがっていなかったが、顔が思いっきりあそこに触れ、思わず全身が熱くなる。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "beb770df",
+      "speaker": "",
+      "ja": "苦しさから思わず息を吸い込むと、僅かに漂ってくる甘い匂いにヘンな気分になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "a1e90eeb",
+      "speaker": "永虚",
+      "ja": "動けぬか？　この技から抜け出すには、腕を……",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "bc9ed3da",
+      "speaker": "",
+      "ja": "永虚は何かを言っているようだが、その言葉は俺の耳に入ってこなかった。",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "f16ff164",
+      "speaker": "",
+      "ja": "目の前のある永虚のあそこ、それだけに完全に意識を囚われ、痛みと幸せが同時に俺の中で沸き起こる。",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "d273032e",
+      "speaker": "永虚",
+      "ja": "──聞いておるのか！？　早う動け！",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "ea865474",
+      "speaker": "",
+      "ja": "永虚の声がだんだんと遠くなっていくような気がする。",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "fe992df2",
+      "speaker": "",
+      "ja": "それでも俺は目の前にある幸福から逃げることができず、気を失う寸前まで永虚の股に顔を押し付けているのであった。",
+      "zh": ""
+    }
+  ]
+}
