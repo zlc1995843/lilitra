@@ -422,6 +422,23 @@ def unknown_speakers(source_lines: List[Dict[str, Any]], glossary: Dict[str, str
     return sorted(values)
 
 
+PRONOUN_CANDIDATES = (
+    "俺様", "あたし", "あたい", "うち", "わし", "わたくし", "おいら",
+    "お前", "おまえ", "あんた", "きみ", "君", "こいつ", "そいつ", "あの子",
+    "お兄ちゃん", "お姉ちゃん", "兄さん", "姉さん", "坊や", "お嬢ちゃん",
+)
+
+
+def unknown_pronouns(source_lines: List[Dict[str, Any]], glossary: Dict[str, str]) -> List[str]:
+    unknown = set()
+    for line in source_lines:
+        text = str(line.get("ja") or "")
+        for candidate in PRONOUN_CANDIDATES:
+            if candidate in text and candidate not in glossary:
+                unknown.add(candidate)
+    return sorted(unknown)
+
+
 def load_name_by_id(repo_root: pathlib.Path) -> Dict[int, str]:
     result: Dict[int, str] = {}
     for char_id, item in load_name_rows(repo_root).items():
@@ -1119,10 +1136,11 @@ def main() -> int:
         source_bundle = ensure_bundle(runtime_root, repo_root, filename)
         source_lines = extract_lines(source_bundle)
         unknown = unknown_speakers(source_lines, name_glossary)
-        if unknown:
+        unknown_pronoun_values = unknown_pronouns(source_lines, name_glossary)
+        if unknown or unknown_pronoun_values:
             pending_path = pathlib.Path(r"C:\Users\曾罗畅\Downloads\莉莉对照") / "unknown_glossary.json"
-            write_json(pending_path, {"script": script, "unknown_speakers": unknown})
-            print(f"unknown glossary entries: {', '.join(unknown)}", file=sys.stderr)
+            write_json(pending_path, {"script": script, "unknown_speakers": unknown, "unknown_pronouns": unknown_pronoun_values})
+            print(f"unknown glossary entries: {', '.join(unknown + unknown_pronoun_values)}", file=sys.stderr)
             return 4
         write_json(repo_root / "sources/naninovel/scripts" / f"{script}.json", {"lines": source_lines})
         if args.no_translate:
