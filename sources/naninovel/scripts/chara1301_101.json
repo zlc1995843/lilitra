@@ -1,0 +1,274 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "c05ea7be",
+      "speaker": "",
+      "ja": "宇宙船の廊下の窓からイリアは星の海を眺めていた。",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "247afc38",
+      "speaker": "",
+      "ja": "そこに通りかかった{G_PlayerName}が声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "ab1ea5c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "イリアさんはこんな景色見慣れてますよね？　俺はいまだにスケールがデカすぎてよくわかんなくなりますよ",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "c0e3c29e",
+      "speaker": "イリア",
+      "ja": "あら……機械士さん。確かに、見慣れてはいますが……それでも、この景色はいつ見ても美しいと感じられますよ",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "ca46d868",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんですか……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "a5c70b7e",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう呟くと、イリアの横に並んで窓の外へと視線を送る。窓の外で星々が流れていき、いくつもの線を描いた。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "4f529d7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナに会う前の俺だったら、こんな光景なんて夢にも思わなかっただろうな……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "e8adc565",
+      "speaker": "",
+      "ja": "しみじみとしながら{G_PlayerName}がそう呟くと、イリアが少し遠い目をしながら呟く。",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "3b1f4ea8",
+      "speaker": "イリア",
+      "ja": "あなたは遠い星の生まれなのでしたね……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "60b0d92f",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、そうです",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "e4eb923b",
+      "speaker": "イリア",
+      "ja": "宇宙技術が発達していない星には、過度に干渉出来ない規則がありますから……こうしているのは奇跡と言えますね",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "148b842",
+      "speaker": "{G_PlayerName}",
+      "ja": "奇跡？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "d9f64714",
+      "speaker": "イリア",
+      "ja": "ええ♥　ルミナ様とどうお知り合いになったかは詳しく存じませんが、きっと天文学的な確率だったでしょうね♪",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "53c2344d",
+      "speaker": "イリア",
+      "ja": "最も、規則を破って別の星の人々と交流することは許されないことですが……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "f7c51a07",
+      "speaker": "{G_PlayerName}",
+      "ja": "ル、ルミナを罰したりしませんよね……？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "16ac74ef",
+      "speaker": "イリア",
+      "ja": "非常事態など例外はございますので、逃げ道はあるかと思います♥　……詳しく捜査した場合、罰さなければならなくなる可能性はありますけど",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "93fbc82f",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして俺たちが惑星を巡っているのって……良くないことだったりする？",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6a947d81",
+      "speaker": "",
+      "ja": "その問いかけにイリアは苦笑を浮かべて答えた。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "e17984f2",
+      "speaker": "イリア",
+      "ja": "どうでしょうか？　できる限り影響を与えすぎないようにしていると、雫さんからは聞いていますが……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "7f80cacb",
+      "speaker": "イリア",
+      "ja": "あなた方のように良い人達ばかりという訳ではないということです。宇宙技術を利用して悪事に手を染める方は珍しくありませんし",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "c02bcf23",
+      "speaker": "イリア",
+      "ja": "悪意なく、その星に多大な悪影響を与えてしまうケースもございますから……",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "76f9f553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "838b8984",
+      "speaker": "イリア",
+      "ja": "ふぅ……真面目な話ばかりでは疲れるでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "9c805268",
+      "speaker": "{G_PlayerName}",
+      "ja": "いえ……そんな……勉強になるなーと",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "2cf635ae",
+      "speaker": "イリア",
+      "ja": "ふふっ、どうですか？　次の目的地までまだ時間がかかるようですし……お茶でもいかがです？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "f55cc7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、はい！　いただきます",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "39bd52c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（実はイリアさんって結構すごい仕事をしてるんじゃ……？）",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "d10eec",
+      "speaker": "イリア",
+      "ja": "あっ、雫さんに美味しいケーキを用意して貰いましょう！　ふふっ、楽しみです♪",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "500d1e1",
+      "speaker": "",
+      "ja": "さっきまでの真面目な表情からは思いもつかないような、子供のような無邪気さでイリアは廊下を駆け出していった。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "d01e7630",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ちょっと！　待ってくださいよ！",
+      "zh": ""
+    }
+  ]
+}
