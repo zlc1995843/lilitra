@@ -1,0 +1,805 @@
+{
+  "lines": [
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "1c0bb0a0",
+      "speaker": "キャロット",
+      "ja": "機械士くん、今いい？",
+      "zh": "机械士，现在方便吗？"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "b1ce3ee3",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、なに？",
+      "zh": "嗯，什么事？"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "598560a7",
+      "speaker": "",
+      "ja": "{G_PlayerName}がそう言うとキャロットが部屋に入ってくる。",
+      "zh": "{G_PlayerName}这样一问，卡洛特便走进了房间。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "5cdffa9",
+      "speaker": "キャロット",
+      "ja": "じゃーん♥　この洋服の感想、2人の時に貰いたいなと思ってさ♪",
+      "zh": "锵锵♥ 这件衣服的感想，我本来想等只有咱们两个人的时候再说呢♪"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "4ffea251",
+      "speaker": "",
+      "ja": "そう言うとキャロットはファッションの説明をし始めた。",
+      "zh": "说完，卡洛特便开始介绍起这件衣服。"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "6e51eb7a",
+      "speaker": "",
+      "ja": "その説明に{G_PlayerName}はうんうんと頷きながら同意して言う。",
+      "zh": "{G_PlayerName}一边嗯嗯点头，一边表示赞同。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "1406da44",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごく可愛いよ",
+      "zh": "超可爱的。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "a8a6d8f",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう答えると、いつものキャロットよりも幼い雰囲気の格好に、こういう面のギャップがいいなと漠然と思っていた。",
+      "zh": "{G_PlayerName}这么一回答，看着卡洛特这身比平时更显稚气的打扮，他隐隐觉得这种反差感真不错。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "514839b8",
+      "speaker": "",
+      "ja": "するとキャロットが困惑しながら囁きかけてくる。",
+      "zh": "这时，卡洛特有些困惑地凑过来低语。"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "d9a202bf",
+      "speaker": "キャロット",
+      "ja": "えーっ、キミさぁ……最近忙しかった？　もしかして溜まっている？",
+      "zh": "诶，你啊……最近是不是太忙了？难道说，攒了很多？"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "59a27a66",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……？",
+      "zh": "诶……？"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "4b827b41",
+      "speaker": "",
+      "ja": "{G_PlayerName}はキャロットの視線を追って足下の方に視線を落とした。",
+      "zh": "{G_PlayerName}顺着卡洛特的视线，低头往下看去。"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "44592fcd",
+      "speaker": "",
+      "ja": "すると{G_PlayerName}の股間ではズボンの股間が大きく膨らんでいるのがわかる。",
+      "zh": "{G_PlayerName}这才发现，自己裤裆那里已经明显撑起了一个大包。"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "e4b38c65",
+      "speaker": "",
+      "ja": "それを確認した{G_PlayerName}は赤面して慌てて言い訳を始めた。",
+      "zh": "看到这个，{G_PlayerName}顿时满脸通红，慌忙开始解释。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "2c0cb8c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　えっ？　なんでだろう……キャロットひつじが可愛いから？",
+      "zh": "诶！？ 诶！？ 怎么会……因为卡洛特小羊太可爱了！？"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "f273fb47",
+      "speaker": "",
+      "ja": "困惑しつつも{G_PlayerName}がそう言うと、キャロットは一気に機嫌が良くなる。",
+      "zh": "虽然还在疑惑，但{G_PlayerName}这话一出口，卡洛特的心情立刻好了起来。"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "2a3721f5",
+      "speaker": "キャロット",
+      "ja": "その褒め言葉、ほんとにうれしー♪",
+      "zh": "这话我爱听，真的好开心哦♪"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "2fbdbf72",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　ええっ？",
+      "zh": "诶！？ 诶诶！？"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "71c9157f",
+      "speaker": "キャロット",
+      "ja": "じゃあキャロットひつじさんが、楽しいことしてあげちゃおうかな～？♥",
+      "zh": "那好，就让卡洛特小羊来帮你做些舒服的事吧～！？♥"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "9ca4659",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええええっ？！",
+      "zh": "诶诶诶诶！？！"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "79d6761c",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}に歩み寄ったキャロットは、ズボンの中から勃起してしまっているおちんちんを取り出した。",
+      "zh": "这样说着，卡洛特走近{G_PlayerName}，从裤子里掏出了已经勃起的肉棒。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "7c6febcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あっ……あわわ……",
+      "zh": "啊……啊……哇啊……"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "4b90141d",
+      "speaker": "",
+      "ja": "恥ずかしさと勃起したことに負い目を感じていた{G_PlayerName}はこの状況に大慌てになっている。",
+      "zh": "既羞耻又因为勃起而心虚的{G_PlayerName}，面对这状况彻底慌了神。"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "70ae5d84",
+      "speaker": "",
+      "ja": "しかしキャロットの方は目の前にある{G_PlayerName}の反り返っている陰茎を目を細めて見つめていた。",
+      "zh": "但卡洛特却眯起眼睛，盯着眼前{G_PlayerName}那根上翘的肉棒。"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "4a614834",
+      "speaker": "キャロット",
+      "ja": "すんすんっ♥　うわっ、おちんちんの匂いすっごーい♥",
+      "zh": "嗅嗅♥　哇，肉棒的味道好厉害♥"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "e4aef931",
+      "speaker": "",
+      "ja": "キャロットは{G_PlayerName}のおちんちんの匂いを嗅いでウットリとした表情を浮かべる。",
+      "zh": "卡洛特闻着{G_PlayerName}肉棒的气味，脸上浮现出陶醉的神情。"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "a1e5ff60",
+      "speaker": "",
+      "ja": "それを見て{G_PlayerName}は申し訳なさそうに呟いた。",
+      "zh": "看到这一幕，{G_PlayerName}难为情地嘟囔起来。"
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "d3ba16ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "臭くてごめん……",
+      "zh": "很臭吧，抱歉……"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "6ce9b70d",
+      "speaker": "",
+      "ja": "取りあえず謝る{G_PlayerName}にキャロットは興奮した感じで呟く。",
+      "zh": "卡洛特却兴奋地对先道歉的{G_PlayerName}嘟囔起来。"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "1ce5dae0",
+      "speaker": "キャロット",
+      "ja": "そんなことないよ……って言おうとしたけど……すんすん……うーん、ちょっと臭いかなっ♥",
+      "zh": "才没那回事呢……虽然想这么说……嗅嗅……嗯，好像是有点臭呢♥"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "9fd04366",
+      "speaker": "",
+      "ja": "そんなキャロットの言葉に羞恥心が煽られ、{G_PlayerName}は顔を真っ赤にさせてしまっていた。",
+      "zh": "卡洛特这番话更激起了羞耻心，{G_PlayerName}的脸一下子涨得通红。"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "80a1ff7d",
+      "speaker": "",
+      "ja": "逆にキャロットは興奮に顔を赤らめながら{G_PlayerName}の大きくなったおちんちんの匂いを嗅ぎまくる。",
+      "zh": "卡洛特反而兴奋得脸红了，对着{G_PlayerName}那根变大了的肉棒贪心地嗅个不停。"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "22d78003",
+      "speaker": "キャロット",
+      "ja": "でも大人のオスの匂いすごくって……すんすんっ♥　はぁぁ♥　クセになっちゃうかも……♥",
+      "zh": "不过成年雄性的味道好厉害……嗅嗅♥　哈啊♥　我可能会上瘾……♥"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "8dbc72bb",
+      "speaker": "",
+      "ja": "すっかり気持ちが高まったキャロットは、そう言うと目の前にある{G_PlayerName}の陰茎をぱっくりと咥え込んでいった。",
+      "zh": "情绪完全被点燃的卡洛特，说完便张大嘴，一口含住了眼前{G_PlayerName}的肉棒。"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "ea14213b",
+      "speaker": "キャロット",
+      "ja": "うむぅぅぅ♥　んぐぅぅぅ♥　んっ♥　んんんんっ♥",
+      "zh": "嗯唔呜呜♥　嗯咕呜呜♥　嗯♥　嗯嗯嗯嗯♥"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "976a98fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あっ……ああぁぁぁ……",
+      "zh": "呜……啊……啊啊啊……"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "793a91ef",
+      "speaker": "",
+      "ja": "生暖かい感触に{G_PlayerName}は思わず腰を震わせながら身悶えていく。",
+      "zh": "那股温热的触感让{G_PlayerName}不由得腰身一颤，扭动起来。"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "18cdba98",
+      "speaker": "キャロット",
+      "ja": "んもぐっ、んむっ、んごっ、ぢゅっ、んっ♥",
+      "zh": "嗯咕、嗯唔、嗯咕、啾、嗯♥"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "fe523afe",
+      "speaker": "",
+      "ja": "キャロットはそんな{G_PlayerName}のおちんちんを喉の奥まで咥え込み、ほぼ喋れない状態に状態になっていた。",
+      "zh": "卡洛特将{G_PlayerName}的肉棒深深含进喉咙里，几乎说不出话了。"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "fb670819",
+      "speaker": "",
+      "ja": "そんなキャロットの行為に{G_PlayerName}は驚きつつも為すがままになってしまう。",
+      "zh": "面对卡洛特的举动，{G_PlayerName}虽感惊讶，却也任由她摆布了。"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "ad307aaf",
+      "speaker": "キャロット",
+      "ja": "おむぅぅ、うっ、うぐぅぅ、ぢゅるぢゅる……んむぅぅ♥",
+      "zh": "唔姆……呃……呜呜……滋溜滋溜……嗯唔♥"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "7af4e2f9",
+      "speaker": "",
+      "ja": "完全に主導権を握ったキャロットは、{G_PlayerName}のおちんちんを音を立ててしゃぶり強く吸ってきた。",
+      "zh": "卡洛特完全掌握了主导权，对着{G_PlayerName}的肉棒又舔又吸，发出滋滋的水声。"
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "cc48ba0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああっ……そ、そんな……うっ……うぅぅ……",
+      "zh": "啊啊……不、不要这样……呃……呜呜……"
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "78a2112d",
+      "speaker": "",
+      "ja": "あまりの快感に{G_PlayerName}は腰を震わせ、亀頭から我慢汁を溢れさせてしまう。",
+      "zh": "强烈的快感让{G_PlayerName}腰肢颤抖，龟头不断渗出前列腺液。"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "c4731c2b",
+      "speaker": "",
+      "ja": "その匂いが口の中に広がって、キャロットの興奮を煽った。",
+      "zh": "那气味在口中弥漫开来，更加煽动了卡洛特的兴奋。"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "b0026b86",
+      "speaker": "キャロット",
+      "ja": "ぢゅっぷぢゅっぷ……んむぅぅぅ、うっ、んっぷっ、ぐふぅぅ♥",
+      "zh": "滋噗滋噗……嗯唔，呃，嗯噗，咕唔♥"
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "ee64568f",
+      "speaker": "",
+      "ja": "喉の奥で{G_PlayerName}のおちんちんを感じながらキャロットは舌を動かし裏スジを舐め上げていく。",
+      "zh": "卡洛特感受着{G_PlayerName}的鸡鸡顶在喉咙深处，舌头灵巧地舔弄着肉棒下方的系带。"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "2f8c8ab0",
+      "speaker": "",
+      "ja": "その度にゾクッとする快感が{G_PlayerName}の背筋を駆け上がっていった。",
+      "zh": "每一次都让{G_PlayerName}背脊窜过一阵酥麻的快感。"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "ffce0420",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あっ……き、気持ちいい……くぅぅ……",
+      "zh": "啊……啊……好、好舒服……唔唔……"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "5c59ff95",
+      "speaker": "",
+      "ja": "どんどん大きくなる快感に、{G_PlayerName}は小さく腰を前後させてしまう。",
+      "zh": "快感越来越强烈，{G_PlayerName}不由自主地轻轻前后摆动着腰。"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "3cf724a3",
+      "speaker": "",
+      "ja": "その度に喉の奥に亀頭が擦れて更に快感が増していった。",
+      "zh": "每一次，龟头都摩擦着喉咙深处，快感愈发强烈。"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "2eb5200a",
+      "speaker": "キャロット",
+      "ja": "んっ♥　んっ♥　んむぅぅっ♥　あむあうぅ♥　んぢゅるぅぅ♥",
+      "zh": "嗯♥ 嗯♥ 嗯唔唔♥ 啊呜啊呜♥ 滋溜滋溜♥"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "1799a05f",
+      "speaker": "",
+      "ja": "キャロットも{G_PlayerName}の陰茎を激しく舌で舐め回していく。",
+      "zh": "卡洛特也用舌头激烈地舔遍{G_PlayerName}的阴茎。"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "8765ef14",
+      "speaker": "",
+      "ja": "その舌使いに{G_PlayerName}は一気に高まって、キャロットの口の中で陰茎が脈打ち大きく跳ねた。",
+      "zh": "受到这样的舌技刺激，{G_PlayerName}瞬间勃起到极点，阴茎在卡洛特口中猛烈跳动。"
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "4922589f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あああぁぁ……",
+      "zh": "呃……啊啊啊……"
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "fb4f5633",
+      "speaker": "",
+      "ja": "声を震わせながら{G_PlayerName}は腰を小さく跳ねさせて大量の精液を出してしまう。",
+      "zh": "{G_PlayerName}颤抖着声音，腰部小幅挺动，大量射出了精液。"
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "6e31ee54",
+      "speaker": "キャロット",
+      "ja": "んむぅぅぅぅ！　んっ！　んっ！　ぐふぅぅぅぅ♥",
+      "zh": "唔唔唔！！ 嗯！！ 嗯！！ 咕噜噜噜♥"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "ffbcea7c",
+      "speaker": "",
+      "ja": "あまりにも多くの精液が流れ込んできて、キャロットは目を白黒させながら口から噴き出してしまっていた。",
+      "zh": "因为涌进来的精液实在太多，卡洛特翻着白眼，从嘴角喷了出来。"
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "27669477",
+      "speaker": "キャロット",
+      "ja": "んぷぅ！？　もごごっ、おごっ、ぷはっ、んぐっ、ごくっ！♥",
+      "zh": "唔噗！！？ 咕噜、咳、噗哈、唔、咕嘟！！♥"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "1d65ed3",
+      "speaker": "",
+      "ja": "それでも注ぎ込まれてくる精液に溺れそうになりつつも、キャロットはその大量の精液を何とか飲み干していく。",
+      "zh": "即便如此，卡洛特还是努力将不断注入的大量精液一饮而尽，尽管几乎要被淹没了。"
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "ada3e23d",
+      "speaker": "キャロット",
+      "ja": "んっ、んっ、ぢゅるぅ、むふぅぅ、んぐんぐんぐっ♥",
+      "zh": "唔、唔… 啾噜… 嗯呼… 嗯咕嗯咕嗯咕… ♥"
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "43a904c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……ああ、キャロット……俺っ！",
+      "zh": "哈啊……哈啊……哈啊……啊啊，卡洛特……我、我啊！"
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "4f93ad42",
+      "speaker": "",
+      "ja": "一度の射精が終わってもまだまだ興奮が治まらない{G_PlayerName}は、反撃とばかりに今度は自分から腰を振ってキャロットの喉を犯していった。",
+      "zh": "就算射了一次，兴奋还是停不下来的 {G_PlayerName}，就像要反击似的，这次自己主动挺腰，侵犯起卡洛特的喉咙。"
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "d20f4511",
+      "speaker": "キャロット",
+      "ja": "んぐううー！　こりゃ、らめらって、んぶぅ、んぐっ！",
+      "zh": "嗯呜呜—！这、不行……嗯噗、嗯咕！"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "2f268df5",
+      "speaker": "",
+      "ja": "いきなり激しく腰を振り始めた{G_PlayerName}を非難しつつも激しく喉の奥を突き上げられることにキャロットは感じてしまう。",
+      "zh": "虽然嘴上埋怨着突然开始猛干的 {G_PlayerName}，但喉咙深处被狠狠顶撞，卡洛特还是不争气地有了感觉。"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "48ca1d5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああっ……いいっ……キャロットの喉まんこ……き、気持ちいいよ……うぅぅ……",
+      "zh": "啊啊……好棒……卡洛特的喉穴……好、好舒服啊……呜呜……"
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "c014527b",
+      "speaker": "",
+      "ja": "{G_PlayerName}の腰が突き出される度にキャロットの喉が膨らんだ。",
+      "zh": "{G_PlayerName} 每挺一下，卡洛特的喉咙就会鼓起来。"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "a7887cf2",
+      "speaker": "",
+      "ja": "その様を見て{G_PlayerName}は自分の精液でキャロットの中を染めたいという衝動に駆られピストンを繰り返した。",
+      "zh": "看到这幕，{G_PlayerName} 满脑子只想用自己的精液灌满卡洛特，拼命地抽插不停。"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "4decda1d",
+      "speaker": "キャロット",
+      "ja": "あむぅ、うむぅぅ、んぐんぐぅ、んぢゅゆるぅ、うっ、んんんっ♥",
+      "zh": "啊姆、唔唔、嗯咕嗯咕、嗯啾噜噜……唔、嗯嗯嗯♥"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "5ea64fe3",
+      "speaker": "",
+      "ja": "舌の上に擦れる裏スジの感触や喉の奥を叩く亀頭の刺激に、息苦しさを感じながらもキャロットの体は熱く火照っていく。",
+      "zh": "舌头上摩擦肉筋的触感，还有龟头一下下撞到喉咙深处的刺激，虽然有点喘不过气，但卡洛特的身子却越来越燥热。"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "c02aa5c9",
+      "speaker": "",
+      "ja": "その高まる興奮にキャロットは必死に舌を動かして出入りするおちんちんを音を立てて舐め回していった。",
+      "zh": "随着兴奋飙升，卡洛特拼命动着舌头，啧啧有声地舔着嘴里进进出出的肉棒。"
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "1d4a27ef",
+      "speaker": "キャロット",
+      "ja": "ぢゅるぢゅる♥　んむぅぅぅ♥　ぢゅぽぢゅぽっ♥　むふぅぅぅ♥",
+      "zh": "啾噜啾噜♥ 嗯唔唔唔♥ 啾噗啾噗♥ 嗯呼呼呼♥"
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "6d561fe7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……す、すごい……んんん……キャ、キャロット……っ",
+      "zh": "啊啊……好、好厉害……嗯嗯嗯……卡、卡洛特……唔"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "26aaf9f1",
+      "speaker": "",
+      "ja": "気持ちが高まった{G_PlayerName}は腰の動きを速めて何度もキャロットの喉を突き上げていく。",
+      "zh": "爽到不行的 {G_PlayerName} 腰越动越快，反复猛顶卡洛特的喉咙。"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "f6126580",
+      "speaker": "",
+      "ja": "その度に{G_PlayerName}はまた込み上げてくる感覚に襲われた。",
+      "zh": "每顶一下，{G_PlayerName} 就又涌上一阵感觉。"
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "79a6f362",
+      "speaker": "キャロット",
+      "ja": "んむぅぅ、うぐうむぅぅ、うっ、うっ、んぐふぅぅぅ♥",
+      "zh": "嗯唔唔、呜咕唔唔、唔、唔、嗯咕呼唔唔♥"
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "85131dc9",
+      "speaker": "",
+      "ja": "ビクビクと脈打ち始める{G_PlayerName}のおちんちんを、キャロットの口が強く吸っていく。",
+      "zh": "卡洛特的嘴使劲吸着开始一跳一跳的 {G_PlayerName} 的肉棒。"
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "f035fe6a",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}はたまらず体を震わせながら気持ちよさそうな声をあげた。",
+      "zh": "这刺激让 {G_PlayerName} 忍不住浑身发抖，发出舒服的声音。"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "6b040d60",
+      "speaker": "{G_PlayerName}",
+      "ja": "あああっ……で、出る……うぅぅっ！",
+      "zh": "啊啊啊……要、要出来了……呜呜！"
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "ded0e9e4",
+      "speaker": "",
+      "ja": "あまりの快感に{G_PlayerName}は腰を突き出しておちんちんをキャロットの喉奥まで押し込むと、そのまままた射精してしまう。",
+      "zh": "爽到极致，{G_PlayerName} 挺得老深，把肉棒顶进卡洛特喉咙最里端，就这么又射了。"
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "acb1be4e",
+      "speaker": "キャロット",
+      "ja": "ぶちゅるっ、んぐぐぐっ、んん゛～～！♥♥♥",
+      "zh": "啵啾、唔咕咕、嗯嗯～～！！♥♥♥"
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "8e81bb32",
+      "speaker": "",
+      "ja": "キャロットは苦しそうに眉を下げ涙を浮かべつつも大量の精液を喉奥に注がれる事に快感を覚えてしまっていた。",
+      "zh": "卡洛特难受地蹙着眉头，眼里含泪，却在大量精液灌入喉咙深处时，感到了快感。"
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "93d95be",
+      "speaker": "",
+      "ja": "そんなキャロットの口に{G_PlayerName}は全ての精液を注ぎ込んで果てる。",
+      "zh": "{G_PlayerName}把全部精液都灌进卡洛特这样的嘴里，在她口中射尽了。"
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "5ea7aa8",
+      "speaker": "キャロット",
+      "ja": "んぐんぐっ……ごくごくぅ……うっ、むぅぅ……ぢゅるぢゅる♥",
+      "zh": "咕嘟……咕噜咕噜……唔、嗯……啾噜啾噜♥"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "6c30c1eb",
+      "speaker": "",
+      "ja": "キャロットは射精し終えた{G_PlayerName}の陰茎を舌で舐め回して綺麗にしていった。",
+      "zh": "卡洛特用舌头来回舔着{G_PlayerName}刚射完精的阴茎，把它清理得干干净净。"
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "731b1e57",
+      "speaker": "",
+      "ja": "しかしその刺激で{G_PlayerName}は我慢出来なくなってしまう。",
+      "zh": "但这番刺激却让{G_PlayerName}再也忍不住了。"
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "8e58dfc9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、キャロット！",
+      "zh": "啊啊，卡洛特！"
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "36d9a2c0",
+      "speaker": "キャロット",
+      "ja": "えっ？　あっ♥　あぁぁん♥",
+      "zh": "咦？啊♥ 啊啊～♥"
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "90ac0cd9",
+      "speaker": "",
+      "ja": "興奮が高まった{G_PlayerName}は、その後キャロットとのセックス何度も楽しむのだった。",
+      "zh": "兴奋不已的{G_PlayerName}，之后与卡洛特尽情享受了好几次性爱。"
+    }
+  ]
+}
