@@ -1,0 +1,796 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "fe8e9a74",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "e88d4813",
+      "speaker": "",
+      "ja": "浜辺に佇んで一人海を眺めていたルミナ。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "d27f62d8",
+      "speaker": "",
+      "ja": "俺は自分が泳ぐよりもルミナのことが気になってしまい、彼女の元に近づく。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "8a869a5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "96200fb0",
+      "speaker": "ルミナ",
+      "ja": "あ……{G_PlayerName}くん。どうし、たの……？",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "331f31f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ルミナが一人でいたのが気になってな……みんなと泳がないのか？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2d500631",
+      "speaker": "ルミナ",
+      "ja": "泳がない……というより……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "4481d477",
+      "speaker": "ルミナ",
+      "ja": "……泳げない……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "14640738",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう、ことか……泳ぐの苦手だったんだな",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "130b08a9",
+      "speaker": "ルミナ",
+      "ja": "うん……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "9f877352",
+      "speaker": "",
+      "ja": "ルミナは悲し気に、そして少し恥ずかしそうに小さく頷く。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "a1d181fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなら練習あるのみだな……！　泳げるようになろうぜっ！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "b4ca8ff",
+      "speaker": "ルミナ",
+      "ja": "……練習しても、たぶんダメ、だよ",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "fa45fca9",
+      "speaker": "{G_PlayerName}",
+      "ja": "諦めるのか？　俺は一緒にルミナと泳ぎたいし、練習するぞっ！",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "851c7c41",
+      "speaker": "ルミナ",
+      "ja": "わわっ……！？　{G_PlayerName}くんっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "f6b81d26",
+      "speaker": "",
+      "ja": "半ばあきらめの境地にあったルミナの手を引っ張り強引に立ち上がらせる。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6648b373",
+      "speaker": "",
+      "ja": "ルミナは浮き輪をぎゅっと抱きしめながら、俺の顔をじっと見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "34d32d5",
+      "speaker": "ルミナ",
+      "ja": "私も……{G_PlayerName}くんと一緒に、泳ぎ、たい……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "8cfdd066",
+      "speaker": "{G_PlayerName}",
+      "ja": "その意気やよしっ！　なら泳ぐぞっ！　向こうの島まで泳げるようになるぞっ！！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "5ea6cd6",
+      "speaker": "ルミナ",
+      "ja": "そ、そこまでは、ムリ、だよ……。{G_PlayerName}くん、キャラ、変わりすぎ……？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "f7bf8e30",
+      "speaker": "{G_PlayerName}",
+      "ja": "それだけルミナと一緒に泳ぎたいってこと！　気持ちが変わらないうちに行くぞっ！！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "b859b2f1",
+      "speaker": "ルミナ",
+      "ja": "ひゃぁぁ……！　手、引っ張らないでぇ～……！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "4f8eaba7",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、これ以上は……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "5956f3e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　さすがにこんな浅いとこじゃ練習できないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "e75a27a",
+      "speaker": "ルミナ",
+      "ja": "そう、かも……だけど、でも……これ以上海に入るの、不安、で……",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "9c7aba83",
+      "speaker": "",
+      "ja": "海に入るのが怖いのか、ルミナは立ち止まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c8511601",
+      "speaker": "",
+      "ja": "まだ膝から下の浅いところだったが、それでもルミナは不安そうに俺の手をぎゅっと握りしめていた。",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "150830f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "せめて腰までは海に入ってみよう？　そこまでいかないと練習にならないしさ",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "d5a70583",
+      "speaker": "ルミナ",
+      "ja": "う、うん……その……手、離さないで、ね……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "372d43",
+      "speaker": "ルミナ",
+      "ja": "な、なんか意外に……入れて、る……？",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "8a029152",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁこのくらいなら……お風呂とかで慣れてるんだよ。だからなんともないんだよ",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8a5d2f85",
+      "speaker": "ルミナ",
+      "ja": "そっか……そう、だよね……よくよく考えたら湯船に入る時、肩まで浸かるし……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "1cdd07a",
+      "speaker": "ルミナ",
+      "ja": "それなら、肩まで平気、なのかな……？",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "335a38a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "行ってみるか？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "59a9a050",
+      "speaker": "ルミナ",
+      "ja": "うん、がんばって……みる……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "bd723202",
+      "speaker": "ルミナ",
+      "ja": "うう、うううう……こ、これ以上、ムリ……だよ……波が……ううっ",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "8d1cc6c3",
+      "speaker": "",
+      "ja": "ルミナの肩まで海に浸かり、俺の手を握る手に力が入る。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "1a246030",
+      "speaker": "",
+      "ja": "全身がガチガチになっていることに不安を覚えるが、とにかく今は海に慣れることを優先して引き返すことはせずにいた。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "3d164c7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、じゃあここで練習しようか……手離すぞ？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "4684be34",
+      "speaker": "ルミナ",
+      "ja": "う、ん……ふぅ……足が付いているけど、やっぱり怖い、かも……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6b990964",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあこんな感じでどうだ？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "7929f7fa",
+      "speaker": "ルミナ",
+      "ja": "──ひゃぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "87304b55",
+      "speaker": "",
+      "ja": "俺はルミナを抱きかかえ、浮き輪の上に乗せる。",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "332bc6fd",
+      "speaker": "",
+      "ja": "お尻が良い具合にフィットし、ルミナは波にプカプカと浮かぶような形になった。",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "ddab2efd",
+      "speaker": "ルミナ",
+      "ja": "これならちょっと安心、かも……",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "a41c5d96",
+      "speaker": "{G_PlayerName}",
+      "ja": "しばらくはこのままでいるか。海を泳ぐのってどんな感じなのかルミナに教えてやるよっ",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "569f6945",
+      "speaker": "ルミナ",
+      "ja": "わわわわっ！？　{G_PlayerName}くんっ！？　わわっ、わぁああ～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "6fd95676",
+      "speaker": "",
+      "ja": "俺はルミナの浮き輪を後ろから押す形で泳ぎ始める。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "5a6ea107",
+      "speaker": "",
+      "ja": "沖の方には行かず、あくまでも海に慣れる一環で泳ぎの疑似体験をしてもらった。",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "f14a757f",
+      "speaker": "ルミナ",
+      "ja": "すごい、すごい……♪　泳ぐのってこんな感じなんだね……",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "927f1204",
+      "speaker": "{G_PlayerName}",
+      "ja": "な？　楽しいだろ、泳ぐのってさ。しばらくは俺が押すから、今はとにかく海に慣れてくれ",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "6fe29095",
+      "speaker": "ルミナ",
+      "ja": "うん……♪",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "ba0fc419",
+      "speaker": "",
+      "ja": "しばらくの間、ルミナの乗る浮き輪を押し続け海を泳ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "b7b65759",
+      "speaker": "",
+      "ja": "十二分に海に慣れたルミナの表情からは不安が消え、声に恐怖がまったくなくなっていた。",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "51068a12",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあそろそろ泳ぐ練習しよっか",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "a525416d",
+      "speaker": "ルミナ",
+      "ja": "うん……がんばるよ……",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "bfa5c1e0",
+      "speaker": "",
+      "ja": "ルミナは浮き輪から降り、肩まで海に浸かる。",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "4f201cc9",
+      "speaker": "",
+      "ja": "まだ不安そうではあったが、それでも最初の頃よりは幾分かリラックスしているようだった。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "90e4efb",
+      "speaker": "{G_PlayerName}",
+      "ja": "まずは泳げない原因から探さないとな……とりあえずルミナなりに泳いでみて",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "d8abf74",
+      "speaker": "ルミナ",
+      "ja": "わ、わかった、よ……わ、笑わないで、ね……？",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "849d0870",
+      "speaker": "",
+      "ja": "溺れてもすぐに助けられるようにと身構える。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "459dc20b",
+      "speaker": "",
+      "ja": "そしてルミナは顔を強張らせながら見様見真似で泳ぎ始めたが──",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "713d83d3",
+      "speaker": "ルミナ",
+      "ja": "ごぼっ……！　ごぼぼぼぼぼぼっ……！",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "a82c9f1a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナっ！？",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "5579fdf",
+      "speaker": "",
+      "ja": "ルミナは少しも前に進まず、不動のまま何かに引きずり込まれるように沈んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "5b1fd83b",
+      "speaker": "ルミナ",
+      "ja": "んはぁっ！　げほっ、げほっ！　はぁ、はぁ……！　ううう、泳げないぃ……ごほっ",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "438ab54f",
+      "speaker": "",
+      "ja": "俺は慌ててルミナを抱きかかえ、泳ぎのレベルに絶句してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "dfbbbfcc",
+      "speaker": "",
+      "ja": "いや、あれは泳げるとか以前の問題だ、どうすればいいんだろうか……。",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "adbe54e2",
+      "speaker": "ルミナ",
+      "ja": "やっぱり、ムリ……だよね……",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "bc448d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "……とりあえず浜に戻ろうか",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "4cac225c",
+      "speaker": "ルミナ",
+      "ja": "う、ん……",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "68d96d53",
+      "speaker": "ルミナ",
+      "ja": "私、やっぱり泳ぐの無理だよ……",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "9608a317",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、その……う、浮き輪、そう、浮き輪だ！　浮き輪ってそういう人のためにあるんだよ。浮き輪があれば万事解決だって",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "86b43fa3",
+      "speaker": "ルミナ",
+      "ja": "む～……なんか{G_PlayerName}くんらしくない……諦め、早くない……？",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "738e49c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、まぁ……だって、なぁ……？",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "5eabd7f",
+      "speaker": "",
+      "ja": "俺の変わり身の早さに不服そうなルミナ。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "9c295134",
+      "speaker": "",
+      "ja": "ジトッとした視線で俺を見つめ、露骨に目を逸らしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "8b0221e0",
+      "speaker": "ルミナ",
+      "ja": "練習、してもダメ……？",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "cf748110",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……練習すればいつかは……たぶん、いつかは……人生は長いんだし……",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "9741a25a",
+      "speaker": "{G_PlayerName}",
+      "ja": "泳げるチート能力に突然目覚めるとか……泳ぎマシンなるものが開発されるとか、すべての星から海が消滅するとか、そういう可能性も……",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "9d349790",
+      "speaker": "ルミナ",
+      "ja": "……それ遠回りにムリって言ってない？",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "9c470507",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そこまで言ってないから……あ、あーーっ！　コハルと雫が呼んでるぞ！　ほら、行こうぜっ！",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "642b68",
+      "speaker": "",
+      "ja": "俺は誤魔化すようにルミナの手を掴み、浮き輪片手に海に入る。",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "19e74985",
+      "speaker": "ルミナ",
+      "ja": "いつか……泳げるようになる……絶対……！",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "2e362784",
+      "speaker": "",
+      "ja": "静かに闘志を燃やすルミナ。",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "8af5ed80",
+      "speaker": "",
+      "ja": "珍しいルミナを見れたのは幸運だが──",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "d4a1a05b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（たぶんムリだろうな……）",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "e40d9fba",
+      "speaker": "",
+      "ja": "そんな不遜なことを考えながら、コハルたちの元に向かうのであった。",
+      "zh": ""
+    }
+  ]
+}

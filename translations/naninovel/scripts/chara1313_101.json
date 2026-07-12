@@ -1,0 +1,796 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "fe8e9a74",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "e88d4813",
+      "speaker": "",
+      "ja": "浜辺に佇んで一人海を眺めていたルミナ。",
+      "zh": "露米娜独自站在海边，静静地望着大海。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "d27f62d8",
+      "speaker": "",
+      "ja": "俺は自分が泳ぐよりもルミナのことが気になってしまい、彼女の元に近づく。",
+      "zh": "比起自己游泳，我更放心不下露米娜，便朝她走去。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "8a869a5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ",
+      "zh": "露米娜"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "96200fb0",
+      "speaker": "ルミナ",
+      "ja": "あ……{G_PlayerName}くん。どうし、たの……？",
+      "zh": "啊……{G_PlayerName}，你怎么来了……？"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "331f31f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ルミナが一人でいたのが気になってな……みんなと泳がないのか？",
+      "zh": "啊……我看你一个人待着，有点不放心……不和大家一起游吗？"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2d500631",
+      "speaker": "ルミナ",
+      "ja": "泳がない……というより……",
+      "zh": "不是不游……应该说……"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "4481d477",
+      "speaker": "ルミナ",
+      "ja": "……泳げない……",
+      "zh": "……我不会游泳……"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "14640738",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう、ことか……泳ぐの苦手だったんだな",
+      "zh": "原来是这样……你不擅长游泳啊。"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "130b08a9",
+      "speaker": "ルミナ",
+      "ja": "うん……",
+      "zh": "嗯……"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "9f877352",
+      "speaker": "",
+      "ja": "ルミナは悲し気に、そして少し恥ずかしそうに小さく頷く。",
+      "zh": "露米娜神情有些难过，又带着点害羞，轻轻点了点头。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "a1d181fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなら練習あるのみだな……！　泳げるようになろうぜっ！",
+      "zh": "那就只能多练练了……！ 咱们一起学会游泳吧！"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "b4ca8ff",
+      "speaker": "ルミナ",
+      "ja": "……練習しても、たぶんダメ、だよ",
+      "zh": "……练了估计也没用的。"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "fa45fca9",
+      "speaker": "{G_PlayerName}",
+      "ja": "諦めるのか？　俺は一緒にルミナと泳ぎたいし、練習するぞっ！",
+      "zh": "这就放弃了？ 我可是想和你一起游泳的，咱们练起来！"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "851c7c41",
+      "speaker": "ルミナ",
+      "ja": "わわっ……！？　{G_PlayerName}くんっ……！？",
+      "zh": "哇、哇……！？ {G_PlayerName}……！？"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "f6b81d26",
+      "speaker": "",
+      "ja": "半ばあきらめの境地にあったルミナの手を引っ張り強引に立ち上がらせる。",
+      "zh": "露出半放弃神情的露米娜，被我硬是拉着手拽了起来。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6648b373",
+      "speaker": "",
+      "ja": "ルミナは浮き輪をぎゅっと抱きしめながら、俺の顔をじっと見つめていた。",
+      "zh": "露米娜紧紧抱着游泳圈，目不转睛地看着我。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "34d32d5",
+      "speaker": "ルミナ",
+      "ja": "私も……{G_PlayerName}くんと一緒に、泳ぎ、たい……",
+      "zh": "我也想……和{G_PlayerName}一起，学游泳……"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "8cfdd066",
+      "speaker": "{G_PlayerName}",
+      "ja": "その意気やよしっ！　なら泳ぐぞっ！　向こうの島まで泳げるようになるぞっ！！",
+      "zh": "就是这个气势！ 那就开游！ 咱们要练到能游去对面那座岛！！"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "5ea6cd6",
+      "speaker": "ルミナ",
+      "ja": "そ、そこまでは、ムリ、だよ……。{G_PlayerName}くん、キャラ、変わりすぎ……？",
+      "zh": "到、到那么远不行的……。{G_PlayerName}，你人设变得有点快啊……？"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "f7bf8e30",
+      "speaker": "{G_PlayerName}",
+      "ja": "それだけルミナと一緒に泳ぎたいってこと！　気持ちが変わらないうちに行くぞっ！！",
+      "zh": "我就是想和露米娜一起游泳嘛！趁还没打退堂鼓，走起！！"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "b859b2f1",
+      "speaker": "ルミナ",
+      "ja": "ひゃぁぁ……！　手、引っ張らないでぇ～……！",
+      "zh": "呀啊！别拽我手啊～……！"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "4f8eaba7",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、これ以上は……",
+      "zh": "{G_PlayerName}，再往前就……"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "5956f3e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　さすがにこんな浅いとこじゃ練習できないぞ？",
+      "zh": "怎么了？这么浅的地方可没法练习哦。"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "e75a27a",
+      "speaker": "ルミナ",
+      "ja": "そう、かも……だけど、でも……これ以上海に入るの、不安、で……",
+      "zh": "嗯，可能吧……但是，再往深一点走，我就有点怕了……"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "9c7aba83",
+      "speaker": "",
+      "ja": "海に入るのが怖いのか、ルミナは立ち止まってしまう。",
+      "zh": "看来是害怕下海，露米娜停住了脚步。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c8511601",
+      "speaker": "",
+      "ja": "まだ膝から下の浅いところだったが、それでもルミナは不安そうに俺の手をぎゅっと握りしめていた。",
+      "zh": "明明还只在膝盖深的浅水区，露米娜却还是不安地紧紧攥着我的手。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "150830f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "せめて腰までは海に入ってみよう？　そこまでいかないと練習にならないしさ",
+      "zh": "至少走到腰那么深的地方试试吧？不到那儿根本没法练呀。"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "d5a70583",
+      "speaker": "ルミナ",
+      "ja": "う、うん……その……手、離さないで、ね……",
+      "zh": "嗯……那个……别松手，好么……"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "372d43",
+      "speaker": "ルミナ",
+      "ja": "な、なんか意外に……入れて、る……？",
+      "zh": "咦，没想到……我竟然能走到这儿……？"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "8a029152",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁこのくらいなら……お風呂とかで慣れてるんだよ。だからなんともないんだよ",
+      "zh": "这点深度的话……洗澡时早就泡惯了。所以完全没事。"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8a5d2f85",
+      "speaker": "ルミナ",
+      "ja": "そっか……そう、だよね……よくよく考えたら湯船に入る時、肩まで浸かるし……",
+      "zh": "也对……是啊……仔细想想，泡澡的时候水都到肩膀了嘛……"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "1cdd07a",
+      "speaker": "ルミナ",
+      "ja": "それなら、肩まで平気、なのかな……？",
+      "zh": "那，到肩膀也没问题……吗？"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "335a38a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "行ってみるか？",
+      "zh": "去试试看？"
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "59a9a050",
+      "speaker": "ルミナ",
+      "ja": "うん、がんばって……みる……",
+      "zh": "嗯，我加油……试试看……"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "bd723202",
+      "speaker": "ルミナ",
+      "ja": "うう、うううう……こ、これ以上、ムリ……だよ……波が……ううっ",
+      "zh": "唔，呜呜……再、再往前不行了……浪好大……呜呜"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "8d1cc6c3",
+      "speaker": "",
+      "ja": "ルミナの肩まで海に浸かり、俺の手を握る手に力が入る。",
+      "zh": "海水漫到露米娜的肩膀，她握着我的手更用力了。"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "1a246030",
+      "speaker": "",
+      "ja": "全身がガチガチになっていることに不安を覚えるが、とにかく今は海に慣れることを優先して引き返すことはせずにいた。",
+      "zh": "虽然感觉到她全身僵硬得让我有点担心，但现在还是优先让她适应海水，没有往回走。"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "3d164c7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、じゃあここで練習しようか……手離すぞ？",
+      "zh": "好，那我们就在这儿练习吧……我可要放手了哦？"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "4684be34",
+      "speaker": "ルミナ",
+      "ja": "う、ん……ふぅ……足が付いているけど、やっぱり怖い、かも……",
+      "zh": "嗯……呼……脚是能踩到底，但果然还是怕怕的……"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6b990964",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあこんな感じでどうだ？",
+      "zh": "那这样感觉怎么样？"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "7929f7fa",
+      "speaker": "ルミナ",
+      "ja": "──ひゃぁっ！？",
+      "zh": "──呀啊！？"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "87304b55",
+      "speaker": "",
+      "ja": "俺はルミナを抱きかかえ、浮き輪の上に乗せる。",
+      "zh": "我抱起露米娜，把她放在游泳圈上。"
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "332bc6fd",
+      "speaker": "",
+      "ja": "お尻が良い具合にフィットし、ルミナは波にプカプカと浮かぶような形になった。",
+      "zh": "屁股刚好嵌进去，露米娜就像在波浪中轻轻漂浮着一样。"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "ddab2efd",
+      "speaker": "ルミナ",
+      "ja": "これならちょっと安心、かも……",
+      "zh": "这样的话倒是可以放心一点了……大概吧。"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "a41c5d96",
+      "speaker": "{G_PlayerName}",
+      "ja": "しばらくはこのままでいるか。海を泳ぐのってどんな感じなのかルミナに教えてやるよっ",
+      "zh": "暂时先这样吧。我来教露米娜在海里游泳是什么感觉！"
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "569f6945",
+      "speaker": "ルミナ",
+      "ja": "わわわわっ！？　{G_PlayerName}くんっ！？　わわっ、わぁああ～～っ！",
+      "zh": "哇哇哇哇！？{G_PlayerName}君！？哇、哇啊啊啊～～！"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "6fd95676",
+      "speaker": "",
+      "ja": "俺はルミナの浮き輪を後ろから押す形で泳ぎ始める。",
+      "zh": "我从后面推着露米娜的游泳圈开始游泳。"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "5a6ea107",
+      "speaker": "",
+      "ja": "沖の方には行かず、あくまでも海に慣れる一環で泳ぎの疑似体験をしてもらった。",
+      "zh": "没有往深处去，只是让她先习惯大海，体验一下游泳的感觉。"
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "f14a757f",
+      "speaker": "ルミナ",
+      "ja": "すごい、すごい……♪　泳ぐのってこんな感じなんだね……",
+      "zh": "好厉害，好厉害……♪ 原来游泳是这种感觉啊……"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "927f1204",
+      "speaker": "{G_PlayerName}",
+      "ja": "な？　楽しいだろ、泳ぐのってさ。しばらくは俺が押すから、今はとにかく海に慣れてくれ",
+      "zh": "对吧？游泳很好玩吧。暂时我会推着你，现在你只要习惯大海就好。"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "6fe29095",
+      "speaker": "ルミナ",
+      "ja": "うん……♪",
+      "zh": "嗯……♪"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "ba0fc419",
+      "speaker": "",
+      "ja": "しばらくの間、ルミナの乗る浮き輪を押し続け海を泳ぐ。",
+      "zh": "一段时间里，我一直推着露米娜坐的游泳圈在海里游。"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "b7b65759",
+      "speaker": "",
+      "ja": "十二分に海に慣れたルミナの表情からは不安が消え、声に恐怖がまったくなくなっていた。",
+      "zh": "已经完全适应了大海的露米娜，脸上消失了不安，声音里也听不到丝毫恐惧了。"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "51068a12",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあそろそろ泳ぐ練習しよっか",
+      "zh": "那么差不多该练习游泳了吧。"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "a525416d",
+      "speaker": "ルミナ",
+      "ja": "うん……がんばるよ……",
+      "zh": "嗯……我会努力的……"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "bfa5c1e0",
+      "speaker": "",
+      "ja": "ルミナは浮き輪から降り、肩まで海に浸かる。",
+      "zh": "露米娜从游泳圈上下来，海水没到了肩膀。"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "4f201cc9",
+      "speaker": "",
+      "ja": "まだ不安そうではあったが、それでも最初の頃よりは幾分かリラックスしているようだった。",
+      "zh": "虽然看起来还是有些不安，但比起一开始似乎放松了不少。"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "90e4efb",
+      "speaker": "{G_PlayerName}",
+      "ja": "まずは泳げない原因から探さないとな……とりあえずルミナなりに泳いでみて",
+      "zh": "首先得找到她不会游泳的原因啊……总之你按自己的方式游游看。"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "d8abf74",
+      "speaker": "ルミナ",
+      "ja": "わ、わかった、よ……わ、笑わないで、ね……？",
+      "zh": "我、我知道了……可别笑话我哦……？"
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "849d0870",
+      "speaker": "",
+      "ja": "溺れてもすぐに助けられるようにと身構える。",
+      "zh": "摆好架势，以防溺水时能立刻获救。"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "459dc20b",
+      "speaker": "",
+      "ja": "そしてルミナは顔を強張らせながら見様見真似で泳ぎ始めたが──",
+      "zh": "接着，露米娜一脸紧张，照着样子开始游了起来，然而——"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "713d83d3",
+      "speaker": "ルミナ",
+      "ja": "ごぼっ……！　ごぼぼぼぼぼぼっ……！",
+      "zh": "咕嘟……！ 咕嘟嘟嘟嘟嘟……！"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "a82c9f1a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナっ！？",
+      "zh": "露米娜！！？"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "5579fdf",
+      "speaker": "",
+      "ja": "ルミナは少しも前に進まず、不動のまま何かに引きずり込まれるように沈んでいく。",
+      "zh": "露米娜一步都没往前，整个人一动不动，像被什么拽着似的往下沉。"
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "5b1fd83b",
+      "speaker": "ルミナ",
+      "ja": "んはぁっ！　げほっ、げほっ！　はぁ、はぁ……！　ううう、泳げないぃ……ごほっ",
+      "zh": "嗯哈！咳、咳咳！哈……哈……！呜、呜，游不动了……咳！"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "438ab54f",
+      "speaker": "",
+      "ja": "俺は慌ててルミナを抱きかかえ、泳ぎのレベルに絶句してしまう。",
+      "zh": "我慌忙抱住露米娜，对她的游泳水平彻底无语了。"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "dfbbbfcc",
+      "speaker": "",
+      "ja": "いや、あれは泳げるとか以前の問題だ、どうすればいいんだろうか……。",
+      "zh": "不对，这压根不是会不会游泳的问题，这可怎么办……"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "adbe54e2",
+      "speaker": "ルミナ",
+      "ja": "やっぱり、ムリ……だよね……",
+      "zh": "果然……不行吧……"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "bc448d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "……とりあえず浜に戻ろうか",
+      "zh": "……总之，先回岸边吧。"
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "4cac225c",
+      "speaker": "ルミナ",
+      "ja": "う、ん……",
+      "zh": "嗯……"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "68d96d53",
+      "speaker": "ルミナ",
+      "ja": "私、やっぱり泳ぐの無理だよ……",
+      "zh": "我果然还是不会游泳啊……"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "9608a317",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ、その……う、浮き輪、そう、浮き輪だ！　浮き輪ってそういう人のためにあるんだよ。浮き輪があれば万事解決だって",
+      "zh": "呃，那个……对了，游泳圈！有游泳圈不就行了嘛！游泳圈不就是给这种情况准备的吗？有它就万事大吉了！"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "86b43fa3",
+      "speaker": "ルミナ",
+      "ja": "む～……なんか{G_PlayerName}くんらしくない……諦め、早くない……？",
+      "zh": "呃……这不像{G_PlayerName}啊……这么快就放弃了？"
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "738e49c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、まぁ……だって、なぁ……？",
+      "zh": "呃，那个……毕竟，是吧……？"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "5eabd7f",
+      "speaker": "",
+      "ja": "俺の変わり身の早さに不服そうなルミナ。",
+      "zh": "露米娜似乎对我翻脸比翻书还快有点不满。"
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "9c295134",
+      "speaker": "",
+      "ja": "ジトッとした視線で俺を見つめ、露骨に目を逸らしてしまう。",
+      "zh": "她用不满的眼神盯着我，然后明显把脸别开了。"
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "8b0221e0",
+      "speaker": "ルミナ",
+      "ja": "練習、してもダメ……？",
+      "zh": "就算练习，也没用吗……？"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "cf748110",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……練習すればいつかは……たぶん、いつかは……人生は長いんだし……",
+      "zh": "这个嘛……只要练，总有一天……大概总有一天……人生还长呢……"
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "9741a25a",
+      "speaker": "{G_PlayerName}",
+      "ja": "泳げるチート能力に突然目覚めるとか……泳ぎマシンなるものが開発されるとか、すべての星から海が消滅するとか、そういう可能性も……",
+      "zh": "比如突然觉醒游泳作弊能力啦……发明出游泳机器啦，或者全宇宙的海都蒸发掉啦……也不是没可能嘛……"
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "9d349790",
+      "speaker": "ルミナ",
+      "ja": "……それ遠回りにムリって言ってない？",
+      "zh": "……你这不是拐着弯说不行嘛？"
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "9c470507",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そこまで言ってないから……あ、あーーっ！　コハルと雫が呼んでるぞ！　ほら、行こうぜっ！",
+      "zh": "我、我可没说到那份上……啊、啊——！小春和雫在叫我们呢！喂，快走啦！"
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "642b68",
+      "speaker": "",
+      "ja": "俺は誤魔化すようにルミナの手を掴み、浮き輪片手に海に入る。",
+      "zh": "我像是要掩饰什么，抓住露米娜的手，一手拿着泳圈走进了海里。"
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "19e74985",
+      "speaker": "ルミナ",
+      "ja": "いつか……泳げるようになる……絶対……！",
+      "zh": "总有一天……会学会游泳的……一定……！"
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "2e362784",
+      "speaker": "",
+      "ja": "静かに闘志を燃やすルミナ。",
+      "zh": "露米娜静静地燃起了斗志。"
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "8af5ed80",
+      "speaker": "",
+      "ja": "珍しいルミナを見れたのは幸運だが──",
+      "zh": "能看到露米娜难得的一面是很幸运，但是——"
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "d4a1a05b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（たぶんムリだろうな……）",
+      "zh": "（大概不行吧……）"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "e40d9fba",
+      "speaker": "",
+      "ja": "そんな不遜なことを考えながら、コハルたちの元に向かうのであった。",
+      "zh": "我一边想着这些狂妄的念头，一边朝小春她们走去。"
+    }
+  ]
+}
