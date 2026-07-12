@@ -1,0 +1,904 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "e6dcb7e4",
+      "speaker": "",
+      "ja": "ここは毒と腐敗の星の孤児院。",
+      "zh": "这里是堕落与腐败之星上的孤儿院。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "fb992879",
+      "speaker": "",
+      "ja": "そこでヒナタは孤児院にいる他のリリアンから、あのお兄さんの精液を貰ってきて、とこっそりお願いされていた。",
+      "zh": "在孤儿院里，日向被其他莉安偷偷请求，说：“去把那位哥哥的精液弄来。”"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "1c7711ae",
+      "speaker": "ヒナタ",
+      "ja": "えっ？！　そ、そんなことできないよ……何に使うの？",
+      "zh": "诶？！这、这种事我做不到啊……你要用来干什么？"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "221a4f1",
+      "speaker": "",
+      "ja": "驚いてそう聞いてもそのリリアンは恥ずかしがって教えてくれない。",
+      "zh": "就算我吃惊地追问，那个莉安也害羞得不肯说。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "a41c4ed7",
+      "speaker": "",
+      "ja": "ただそのリリアンは、あの人なら必要だからくださいって言えばくれるよ、私知ってるの、との謎の裏付けをしてきた。",
+      "zh": "只是那个莉安跟我说：“如果是那个人的话，说是必需品他就会给的，我知道的。”她信誓旦旦地保证，但听着很可疑。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "5e553118",
+      "speaker": "",
+      "ja": "でもそのリリアンは{G_PlayerName}との面識がないため急にこんなお願いはできないと必死にヒナタにお願いをしてくる。",
+      "zh": "可那个莉安不认识{G_PlayerName}，所以拼命求日向，说“突然去提这种请求可不行啊”。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "a4150eaf",
+      "speaker": "",
+      "ja": "ヒナタはなんで一方的に{G_PlayerName}の精液を欲しがるのか不思議に思いつつも、頼まれると断れない性格故に仕方なくその希望を叶えるべく{G_PlayerName}の部屋を訪れることにした。",
+      "zh": "日向虽然纳闷为什么对方单方面想要{G_PlayerName}的精液，但自己性格又不懂拒绝，只好无奈地决定去{G_PlayerName}的房间请求。"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "ed908b5f",
+      "speaker": "ヒナタ",
+      "ja": "あの～……兄さま……今いいですか？",
+      "zh": "那个……兄长大人……您现在方便吗？"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "42619658",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああヒナタ、どうしたんだい？",
+      "zh": "哦，日向，怎么了？"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "aa427d01",
+      "speaker": "",
+      "ja": "{G_PlayerName}は読んでいた本を閉じて顔を上げると、ヒナタを部屋に向かい入れる。",
+      "zh": "{G_PlayerName}合上手里的书，抬起头，请日向进屋。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "f80e83d3",
+      "speaker": "ヒナタ",
+      "ja": "（大人の男の人の部屋……。）",
+      "zh": "（成年男人的房间啊……。）"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "6dee9b7d",
+      "speaker": "",
+      "ja": "ヒナタはドキドキしながら部屋に入ると意を決した感じで{G_PlayerName}に頭を下げた。",
+      "zh": "日向忐忑不安地走进房间，然后鼓起勇气，向{G_PlayerName}低下头。"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "cd6155e2",
+      "speaker": "ヒナタ",
+      "ja": "あの！　兄さま！　何も聞かずに精液をわけてくれませんかっ！",
+      "zh": "那个！兄长大人！拜托您别问为什么，分我一些精液好吗！"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "c573392e",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　ヒナタ、今なんて？！",
+      "zh": "诶！？日向，你刚才说啥！？"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "61bb2181",
+      "speaker": "",
+      "ja": "驚く{G_PlayerName}のリアクションに急に恥ずかしくなったヒナタは顔を真っ赤にさせて半泣きになってしまう。",
+      "zh": "被{G_PlayerName}这么一惊，日向顿时羞红了脸，眼泪都快掉下来了。"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "d9015347",
+      "speaker": "",
+      "ja": "そんなヒナタを見て{G_PlayerName}もどうしていいかわからなくなっていた。",
+      "zh": "看着日向这副样子，{G_PlayerName}也乱了方寸。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "54268f1",
+      "speaker": "",
+      "ja": "だけど{G_PlayerName}はすぐに何か思い当たったようでヒナタに告げる。",
+      "zh": "不过{G_PlayerName}好像立刻明白了什么，对日向说。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "a23c6c39",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、そうか、大変だよなリリアンも",
+      "zh": "啊，是这样啊，莉安她也不容易呢。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "bf8d9c93",
+      "speaker": "",
+      "ja": "急に納得した{G_PlayerName}を見てヒナタはよくわかっていないけど少しホッとした。",
+      "zh": "日向虽然没太搞懂，但看到{G_PlayerName}突然就理解了，松了口气。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "65ce5fd3",
+      "speaker": "",
+      "ja": "そんなヒナタの頭を撫でながら{G_PlayerName}は安心させるように優しく声をかける。",
+      "zh": "{G_PlayerName}轻轻抚着日向的头，温柔地安慰她。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "1c038965",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかったよ、あとで渡すからそんなに震えないでくれよ",
+      "zh": "知道啦，等会儿就给你，别抖那么厉害嘛。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "8f5d2582",
+      "speaker": "ヒナタ",
+      "ja": "兄さま……♥",
+      "zh": "哥哥……♥"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "1e199bc5",
+      "speaker": "",
+      "ja": "{G_PlayerName}の優しさにヒナタは一瞬喜ぶものの、しっかりと友達の望みを叶えなければという責任感から申し出た。",
+      "zh": "对于{G_PlayerName}的温柔，日向一时欣喜，但想到必须好好满足朋友的愿望，责任感驱使她主动提了出来。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "f6753833",
+      "speaker": "ヒナタ",
+      "ja": "いえ！　わ、わたしがします！　お願いしている立場ですから！",
+      "zh": "不！ 我、我来！ 毕竟是我在求你嘛！"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "1c3e6a1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ？！",
+      "zh": "哎？！"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "80c9af97",
+      "speaker": "",
+      "ja": "驚く{G_PlayerName}に構わずにヒナタは少し暴走気味に無理矢理ズボンとパンツを脱がせてしまう。",
+      "zh": "不顾{G_PlayerName}的惊讶，日向有些失控，硬是把他的裤子和内裤扒了下来。"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "35a5d684",
+      "speaker": "",
+      "ja": "露わになった{G_PlayerName}のおちんちんを見たヒナタはポカンと口を開き一気に顔を真っ赤に染めた。",
+      "zh": "看到露出来的{G_PlayerName}的那根后，日向张口结舌，脸霎时涨得通红。"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "b756a259",
+      "speaker": "ヒナタ",
+      "ja": "わぁ……熱い……ドクドクしてますね？",
+      "zh": "哇……好烫……还在一跳一跳的呢？"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "861da607",
+      "speaker": "",
+      "ja": "初めて目の当たりにした{G_PlayerName}のおちんちんの感触にすっかり呆然としてしまっている。",
+      "zh": "第一次亲眼见到并摸到{G_PlayerName}的那里，那触感让她彻底愣住了。"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "87b148c5",
+      "speaker": "",
+      "ja": "ヒナタとしては乱暴にしたつもりはないけれど、リリアンの力には抗えずに脱がされてしまった{G_PlayerName}は抵抗を辞め、恥ずかしそうに呟いた。",
+      "zh": "日向本没想用强的，但{G_PlayerName}敌不过莉安的力气，被脱掉裤子后也就不再反抗，只是羞赧地哼哼。"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "e58df3c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そこまでジッと見つめられるとさすがに恥ずかしいんだけど……",
+      "zh": "被你那么直勾勾地盯着，果然还是会害羞的……"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "67f6fe1c",
+      "speaker": "",
+      "ja": "{G_PlayerName}が気まずそうにしているとヒナタは慌てて頭を下げる。",
+      "zh": "看到{G_PlayerName}一脸尴尬，日向慌忙低下头。"
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "c2e49dbe",
+      "speaker": "ヒナタ",
+      "ja": "はわわっ、すみません！",
+      "zh": "啊哇哇，对不起对不起！"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "7db065a9",
+      "speaker": "",
+      "ja": "そう謝りつつもヒナタは{G_PlayerName}の陰茎に触れようと試みた。",
+      "zh": "一边道歉，日向还是试着去碰{G_PlayerName}的那里。"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "3fc0f422",
+      "speaker": "ヒナタ",
+      "ja": "（よし触るよ……！　今から触ります……！　今……っ！）",
+      "zh": "（好，我要碰了……！ 现在就碰……！ 这就……！）"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "b7449354",
+      "speaker": "",
+      "ja": "何度も機会を逃しつつもヒナタは自分を奮い立たせて{G_PlayerName}のおちんちんに触れようとして、ついに両手で包み込む。",
+      "zh": "虽然好几次都错过了时机，日向还是鼓起勇气，终于用双手握住了{G_PlayerName}的那根。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "e9e457be",
+      "speaker": "ヒナタ",
+      "ja": "えっと……教えて貰ったのは、こうやって……",
+      "zh": "那个……你教我的，是这样……"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "ff0db9e4",
+      "speaker": "",
+      "ja": "そう呟きながらヒナタは両手で{G_PlayerName}の陰茎をしごき始めた。",
+      "zh": "日向低声说着，开始用双手套弄起{G_PlayerName}的那里。"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "9cc99f44",
+      "speaker": "ヒナタ",
+      "ja": "ああ……大きくて熱い……両手でも包みきれない……♥",
+      "zh": "啊……又大又烫……两只手都握不住……♥"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "d64ea531",
+      "speaker": "",
+      "ja": "成人男性のおちんちんの大きさに驚きつつもヒナタはドキドキしていってしまう。",
+      "zh": "尽管对成年男性那根的尺寸感到惊讶，日向还是心跳不已。"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "d6b9eb4f",
+      "speaker": "",
+      "ja": "そんなおずおずとしたヒナタの手コキに{G_PlayerName}は感じるというよりもむず痒さの方が強い。",
+      "zh": "日向那畏畏缩缩的手法，让{G_PlayerName}与其说有感觉，不如说痒得受不了。"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "64fed47",
+      "speaker": "",
+      "ja": "でもこんなに健気で可愛いヒナタが陰茎をじっと見つめて頬を染めていること自体がエッチで自然と興奮していった。",
+      "zh": "可是，看着日向这么努力又可爱，直勾勾盯着肉棒脸泛红，光是这样就够色了，{G_PlayerName}也自然而然地兴奋起来。"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "353a2fa",
+      "speaker": "ヒナタ",
+      "ja": "あっ、兄さまのおちんちん……また大きくなってビクンって♥",
+      "zh": "啊，哥哥的小鸡鸡……又变大了，还一跳一跳的♥"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "f7b6bfb7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それは……ヒナタにこんなことして貰ってるから……興奮しちゃって……",
+      "zh": "这、这是……因为日向在帮我弄，所以……我才会这么兴奋……"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "1b4e37ae",
+      "speaker": "",
+      "ja": "ついつい{G_PlayerName}が本音を口にすると、その言葉にヒナタはキュンとしてしまう。",
+      "zh": "{G_PlayerName}一不留神说出了真心话，日向听了心里怦然一动。"
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "7822874d",
+      "speaker": "ヒナタ",
+      "ja": "兄さまが……興奮してくれてる♥　ああっ……♥",
+      "zh": "哥哥……为我兴奋了♥　啊啊……♥"
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "514b4b0a",
+      "speaker": "",
+      "ja": "気恥ずかしさと嬉しさにヒナタは無意識のうちに手の動きを激しくさせていった。",
+      "zh": "羞怯与喜悦交织下，日向不知不觉中，手上的动作也激烈了起来。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "3c1034e2",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}はどんどん高ぶっていってしまう。",
+      "zh": "这一刺激，让{G_PlayerName}越来越亢奋，根本停不下来。"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "9a51a4f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……ああ……いい……うっ……うううっ……",
+      "zh": "啊……啊……好爽……唔……唔唔……"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "a657cc7a",
+      "speaker": "",
+      "ja": "ヒナタの手が上下する度に陰茎は強く脈打って先っぽから先走りの汁が滲み出てきた。",
+      "zh": "日向的手每动一下，肉棒就猛地一跳，马眼渗出了透明的先走汁。"
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "8aa746c",
+      "speaker": "ヒナタ",
+      "ja": "あっ……♥　兄さまのおちんちんの先っぽがヌルヌルしてきてる……♥",
+      "zh": "啊……♥　哥哥的小鸡鸡头变得滑溜溜的……♥"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "9c1ac904",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それは……ヒナタがしごいてくれるから……気持ちよくなっちゃって……",
+      "zh": "这、这是……都怪日向你弄得太舒服了……我才舒服成那样……"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "8995f29c",
+      "speaker": "ヒナタ",
+      "ja": "兄さま……♥　気持ちいいんですね♥　それじゃあもっと頑張ります♥",
+      "zh": "哥哥……♥ 果然很舒服对吧♥ 那我要更努力了♥"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "8283f91",
+      "speaker": "",
+      "ja": "そう言うとヒナタは手にしたおちんちんをしこしことしごいていく。",
+      "zh": "说完，日向便用手搓弄起鸡鸡，咕啾咕啾地撸动起来。"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "5b513e66",
+      "speaker": "",
+      "ja": "擦り上げられる陰茎は確実に射精に向かっていってビクビクと小さく上下に跳ねた。",
+      "zh": "被揉搓的肉棒明显朝着高潮迈进，开始微微颤抖，一跳一跳的。"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "b83d3ba2",
+      "speaker": "ヒナタ",
+      "ja": "んんっ……♥　兄さまのおちんちんが暴れてます♥　それにヌルヌルもいっぱい出てきて……ああ、すごい匂い♥",
+      "zh": "嗯嗯……♥ 哥哥的鸡鸡在乱跳呢♥ 而且滑滑的水也流了好多……啊啊，味道好浓♥"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "5fd9b579",
+      "speaker": "",
+      "ja": "興奮してきたのかヒナタは手にした陰茎をギュッと強く握って激しく上下に擦り上げていく。",
+      "zh": "日向大概是兴奋了，紧紧握住肉棒，开始用力地上下猛搓。"
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "9e846118",
+      "speaker": "",
+      "ja": "そのあまりにも強い刺激に{G_PlayerName}はたまらず腰を跳ねさせてしまう。",
+      "zh": "这刺激实在太强，{G_PlayerName}忍不住腰身猛挺了一下。"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "3a473438",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめんヒナタ、もう出る！",
+      "zh": "对不起日向，我要射了！"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "fc6c196a",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう言うと込み上げてきた感覚のままヒナタの顔めがけて一気に射精してしまった。",
+      "zh": "{G_PlayerName}一边这么说，一边让涌上来的快感决堤，朝着日向的脸一泄而出。"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "54655cc",
+      "speaker": "ヒナタ",
+      "ja": "ひゃあっ！？",
+      "zh": "呀啊！？"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "272bf445",
+      "speaker": "",
+      "ja": "いきなり顔に射精されたヒナタは驚きに短い悲鳴を上げて目を見開いている。",
+      "zh": "日向被这突然的颜射击中，吓得短促地惊叫一声，瞪大了双眼。"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "cf2d220d",
+      "speaker": "",
+      "ja": "そんなヒナタの目の前で{G_PlayerName}のおちんちんが上下に跳ねて血管が脈動した。",
+      "zh": "就在日向的眼前，{G_PlayerName}的肉棒上下跃动，青筋勃动。"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "993cd312",
+      "speaker": "",
+      "ja": "その度に精液がほとばしってヒナタの顔にかかっていく。",
+      "zh": "每跳一下，就有精液溅出，打在日向脸上。"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "8c04a127",
+      "speaker": "ヒナタ",
+      "ja": "あっ……♥　ああっ……♥　こ、このドロッとした感じ……んんんっ♥",
+      "zh": "啊……♥ 啊啊……♥ 这、这种黏黏的感觉……嗯嗯嗯♥"
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "709394f7",
+      "speaker": "",
+      "ja": "顔にかかった精液の熱さや匂い、どろついた感じも未知なるものでドキドキしていった。",
+      "zh": "脸上的精液又热又腥，那种黏腻的触感也是从未体验过的，让她忍不住心跳加速。"
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "13ac850e",
+      "speaker": "ヒナタ",
+      "ja": "（兄さま、何だかエッチ……おちんちん触ってるんだから当たり前なのかな？）",
+      "zh": "（哥哥，感觉好色……不过既然在摸你的小弟弟，这本来就是理所当然的吧？）"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "897fc5b9",
+      "speaker": "",
+      "ja": "そう思ったヒナタは{G_PlayerName}に甘えるようにおねだりする。",
+      "zh": "日向这样想着，撒娇似地向{G_PlayerName}恳求起来。"
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "ee674434",
+      "speaker": "ヒナタ",
+      "ja": "兄さま……もっといただいてもいいですか……？♥",
+      "zh": "哥哥……可以再多给我一点吗……？♥"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": "……咦？"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "41e9dade",
+      "speaker": "",
+      "ja": "ヒナタは{G_PlayerName}の返事を聞く前に再度手コキを再開した。",
+      "zh": "日向不等{G_PlayerName}回答，又重新套弄起来。"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "ed83641a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、くっ。ヒナタ……っ",
+      "zh": "呃、唔。日向……唔……"
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "18e4d126",
+      "speaker": "",
+      "ja": "{G_PlayerName}は大胆なヒナタの行為に驚きながらも制止出来ずにいる。",
+      "zh": "{G_PlayerName}虽然对日向的大胆举动感到惊讶，却也没能喊停。"
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "4a491fe1",
+      "speaker": "",
+      "ja": "ヒナタのお願いを了承したと思ったのか大胆に手を動かし始めた。",
+      "zh": "或许以为自己的请求已经被默许，日向越发大胆地动起了手。"
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "14dc3a36",
+      "speaker": "ヒナタ",
+      "ja": "んんっ……♥　兄さまのおちんちん……♥",
+      "zh": "嗯嗯……♥ 哥哥的小弟弟……♥"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "3c4c22da",
+      "speaker": "",
+      "ja": "{G_PlayerName}の陰茎を両手でしごいている間にヒナタの顔にかかった精液が垂れて頬を伝わっていく。",
+      "zh": "日向双手侍奉着{G_PlayerName}的肉棒时，脸上的精液淌了下来，顺着脸颊滑落。"
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "fd2d23a",
+      "speaker": "",
+      "ja": "その感触にヒナタはさらにドキドキしていった。",
+      "zh": "那种触感让日向的心跳得更快了。"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "74103761",
+      "speaker": "ヒナタ",
+      "ja": "（うう……すごい匂い……これが男の人の……赤ちゃんを作る為のせーえき……。）",
+      "zh": "（呜呜……味道好重……这就是男人的……用来生小宝宝的津液……。）"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "6b89847a",
+      "speaker": "",
+      "ja": "高ぶってきたヒナタの手の動きは精液を求めてどんどん激しくなっていく。",
+      "zh": "日向愈发亢奋，为了榨出精液，手部的动作一下比一下激烈。"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "eb413dd2",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}はまた込み上げてくる感覚に襲われていった。",
+      "zh": "那股刺激让{G_PlayerName}再次被一阵涌上来的快感攫住了。"
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "6e0bded7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに激しくされると……お、俺……うぅぅ……",
+      "zh": "这么激烈地弄……啊，我……呜……"
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "dee10696",
+      "speaker": "ヒナタ",
+      "ja": "兄さま♥　いつでも出して下さい♥　んしょ♥　んしょ♥",
+      "zh": "哥哥大人♥ 请随时都射出来吧♥ 嗯咻♥ 嗯咻♥"
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "330ace21",
+      "speaker": "",
+      "ja": "どんどん激しくなる手の動きに{G_PlayerName}は腰を小さく跳ねさせて悶えてしまう。",
+      "zh": "在越来越激烈的手活儿下，{G_PlayerName}的腰不住轻颤，陷入了苦闷。"
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "37a9ebd9",
+      "speaker": "",
+      "ja": "陰茎も脈動してきてまた射精しそうになってきた。",
+      "zh": "小兄弟也跟着跳动起来，好像又要射了。"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "827198a1",
+      "speaker": "ヒナタ",
+      "ja": "ああ♥　兄さまのおちんちん……びっくんびっくんして♥　すごく熱い♥",
+      "zh": "啊∼♥ 哥哥的那根……一跳一跳的♥ 好烫啊♥"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "215d41bd",
+      "speaker": "",
+      "ja": "ヒナタはウットリとした感じでそう呟くと、さらに激しく{G_PlayerName}のおちんちんをしごいていく。",
+      "zh": "日向一脸陶醉地呻吟着，手上的动作变得更加激烈，继续玩弄起{G_PlayerName}那根。"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "35d4f83c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あっ……ああっ……",
+      "zh": "呃……啊……啊啊……"
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "988a160a",
+      "speaker": "ヒナタ",
+      "ja": "（兄さま……気持ちいいんだ……♥　ヒナタの手で気持ちよくなっているんだ……♥",
+      "zh": "（哥哥……舒服吗……♥ 被日向的手弄得那么舒服……♥）"
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "4e57fcea",
+      "speaker": "",
+      "ja": "ヒナタは嬉しそうにそうに{G_PlayerName}の陰茎を愛おしそうにしごき続けた。",
+      "zh": "日向一脸开心，怜爱地继续撸动着{G_PlayerName}的那话儿。"
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "953ee12a",
+      "speaker": "",
+      "ja": "あまりにも高ぶったヒナタが裏スジをぐりゅっと擦り上げた瞬間{G_PlayerName}はまたおちんちんをビクンビクンと跳ねさせて勢いよく射精してしまう。",
+      "zh": "日向已经过于兴奋，当她的手指狠狠蹭过背筋的那一刻，{G_PlayerName}的那根又猛地一弹，一抖一抖地激烈喷发了。"
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "955d018f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐぅぅ！",
+      "zh": "咕呜！"
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "de371ca6",
+      "speaker": "",
+      "ja": "どぴゅどぴゅと飛び散る精液にヒナタはまた驚きの声を上げてしまった。",
+      "zh": "对着噗噗飞溅的精液，日向又一次惊叫出声。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "2e3af27e",
+      "speaker": "ヒナタ",
+      "ja": "わぁっ、わぁっ！",
+      "zh": "哇啊、哇啊！"
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "39b610a3",
+      "speaker": "",
+      "ja": "そんなヒナタの顔にまた大量の精液が降り注いでいく。",
+      "zh": "大量的精液又一次浇在日向的脸上。"
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "f40f6090",
+      "speaker": "",
+      "ja": "その熱さとドロッとした感触にヒナタはすごくドキドキしてしまっていた。",
+      "zh": "那股热度和黏糊糊的触感，让日向的心跳得飞快。"
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "6ccc5e0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……か、顔にかけてごめん、ヒナタ……でも、これでいいかい？",
+      "zh": "呼……呼……不、不好意思，弄到脸上了，日向……但是，这样可以吗？"
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "dd741b0",
+      "speaker": "",
+      "ja": "二度の射精に少しけだるそうな感じで時折腹筋をひくつかせる{G_PlayerName}の色気にヒナタはドギマギしてしまう。",
+      "zh": "连着射了两次，{G_PlayerName}似乎有些慵懒，腹肌不时抽动着，那份色气让日向心慌意乱。"
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "f602e546",
+      "speaker": "ヒナタ",
+      "ja": "は、はい♥　大丈夫です♥",
+      "zh": "是、是的♥ 没问题♥"
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "356bd211",
+      "speaker": "ヒナタ",
+      "ja": "（すごい……兄さまのおちんちんがヒナタの中に入ったらどうなっちゃうのかな……？♥）",
+      "zh": "（好厉害……哥哥的小弟弟要是插进日向的里面，会是怎么个感觉呢……？♥）"
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "54ed4198",
+      "speaker": "",
+      "ja": "そう答えながらもヒナタはまだ目の前でビクンビクンと揺れる{G_PlayerName}のおちんちんを見つめながらエッチな想像をしていた。",
+      "zh": "嘴上这么答应着，日向却还是盯着眼前仍在轻轻抖动的{G_PlayerName}的命根子，脑海里展开了色色的幻想。"
+    }
+  ]
+}

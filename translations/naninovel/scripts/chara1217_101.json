@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "41519d82",
+      "speaker": "ヒナタ",
+      "ja": "兄さま！　今大丈夫でしょうか！",
+      "zh": "大哥！您现在方便吗？"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "fb0b3f6b",
+      "speaker": "",
+      "ja": "宇宙船のリビングでくつろいでいた{G_PlayerName}の元にいきなりヒナタが勢いよく迫ってきた。",
+      "zh": "{G_PlayerName}正在宇宙船的起居室里放松，日向突然气势汹汹地冲了过来。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "affd98ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁ！？　な、何事だ？！",
+      "zh": "哇啊！？这、这是怎么了！？"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "69ea8864",
+      "speaker": "ヒナタ",
+      "ja": "取材というか何というか……と、とにかく兄さまのことを色々聞きたいんです！",
+      "zh": "算是采访也好，什么也好……总之，我有很多关于大哥的事情想问！"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "d5246593",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう……で、何を聞きたいんだ？",
+      "zh": "哦、哦……那你具体想问什么呢？"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "5b084c20",
+      "speaker": "",
+      "ja": "冷静さを取り戻した{G_PlayerName}はヒナタと向き合って聞く体勢を整える。",
+      "zh": "恢复冷静的{G_PlayerName}端正姿势，准备好好听日向说话。"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "9a33e9e1",
+      "speaker": "ヒナタ",
+      "ja": "セクシーな女性とかわいい女の子のどっちが好みですか！",
+      "zh": "性感的大姐姐和可爱的女孩子，你更喜欢哪一种？"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "9ff3cecf",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　こ、好みっ！？　なんで！？",
+      "zh": "诶！？喜、喜好？！怎么突然问这个？！"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "8671cb93",
+      "speaker": "ヒナタ",
+      "ja": "孤児院のお友達から聞いて欲しい！　って聞かれまして！",
+      "zh": "孤儿院的朋友们让我帮忙问问！就是这么一回事！"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "c5cc69d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……そうだなあ……",
+      "zh": "嗯……这个嘛……"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "8b77cc8c",
+      "speaker": "",
+      "ja": "突然浴びせかけられたよくわからない質問に戸惑いつつも、{G_PlayerName}はたどたどしく答えていく。",
+      "zh": "面对这些突如其来的无厘头问题，{G_PlayerName}虽然困惑，但还是吞吞吐吐地回答着。"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "355c5e78",
+      "speaker": "ヒナタ",
+      "ja": "それじゃあ、好みの髪型は？",
+      "zh": "那，喜欢的发型呢？"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "b4821c2e",
+      "speaker": "ヒナタ",
+      "ja": "大人しい女の子と元気な女の子ではどっちがいいですか？",
+      "zh": "文静的女生和活泼的女生，你选哪个？"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "f75a2cc1",
+      "speaker": "ヒナタ",
+      "ja": "おっぱいは大きい方がいいですか！　それとも小さい方がいいですか！",
+      "zh": "胸部是喜欢大的还是小的？！"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "ee0b355d",
+      "speaker": "",
+      "ja": "矢継ぎ早に投げかけられる質問は似たような質問ばかりで、{G_PlayerName}はタジタジになりつつも答えていった。",
+      "zh": "问题一个接一个，全是类似的提问，{G_PlayerName}被问得招架不住，但还是硬着头皮回答了。"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "166bb107",
+      "speaker": "ヒナタ",
+      "ja": "（う～ん……これは前途多難かなぁ……。）",
+      "zh": "（嗯……看来前路漫漫啊……）"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "2ebfafb6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうヒナタはどんな男が好みなんだ？",
+      "zh": "那日向你喜欢什么样的男人呢？"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "d6a4ac39",
+      "speaker": "ヒナタ",
+      "ja": "……えっ？　わたしですか？",
+      "zh": "……诶？问我吗？"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "b440a268",
+      "speaker": "",
+      "ja": "まさか自分が質問されると思っていなかったのか、ヒナタは少し考え込んでしまう。",
+      "zh": "可能没想到会被反问，日向微微陷入了沉思。"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "cbe647ae",
+      "speaker": "ヒナタ",
+      "ja": "う～ん……好みの男の人は～……",
+      "zh": "嗯……我喜欢的类型是……"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "b0ae276f",
+      "speaker": "ヒナタ",
+      "ja": "優しくて、お話を聞いてくれて、笑顔がかっこいい人？",
+      "zh": "温柔体贴，愿意听我说话，笑容还很帅气的人？"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "d731185",
+      "speaker": "",
+      "ja": "そんなヒナタの答えに{G_PlayerName}は笑顔を浮かべて呟いた。",
+      "zh": "听到日向这么说，{G_PlayerName}微微一笑，嘟囔道。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "e5a1a16a",
+      "speaker": "{G_PlayerName}",
+      "ja": "はははっ、それはなかなか難しいな",
+      "zh": "哈哈，这个要求可不低啊。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "3deb45bf",
+      "speaker": "ヒナタ",
+      "ja": "（あっ……。）",
+      "zh": "（啊……。）"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "ff72dc48",
+      "speaker": "",
+      "ja": "{G_PlayerName}の笑顔がヒナタの心に刺さる。",
+      "zh": "{G_PlayerName}的笑容让日向心里一阵刺痛。"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "52f00f4e",
+      "speaker": "",
+      "ja": "それを振り払うようにヒナタは頭を横に振ると{G_PlayerName}に頭を下げた。",
+      "zh": "日向晃了晃脑袋，像是要甩掉那种情绪，然后向{G_PlayerName}低头行了一礼。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "b7d6bd5f",
+      "speaker": "ヒナタ",
+      "ja": "兄さま、ありがとうございました！",
+      "zh": "哥哥，非常感谢您！"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "8f67cf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……",
+      "zh": "啊，嗯……"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "b96bdbc7",
+      "speaker": "",
+      "ja": "その場から立ち去っていくヒナタの背中を見送りつつ、{G_PlayerName}は思わず苦笑する。",
+      "zh": "望着日向离去的背影，{G_PlayerName}忍不住苦笑。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "6473275e",
+      "speaker": "{G_PlayerName}",
+      "ja": "今のは何だったんだろう？",
+      "zh": "刚才那是怎么回事啊？"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "f8de9e43",
+      "speaker": "ヒナタ",
+      "ja": "（兄さまはいい人だけど……せっかく友達を応援しようと思ったんだもん、好きになっちゃダメだよね！）",
+      "zh": "（哥哥确实是个好人……可我是来帮朋友加油的，怎么能自己先动心呢！）"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "33310df4",
+      "speaker": "",
+      "ja": "ヒナタはさっき湧き上がった自分の感情を否定して、足早にその場から立ち去っていくのだった。",
+      "zh": "日向否定了自己刚刚涌起的情感，匆匆离开了现场。"
+    }
+  ]
+}
