@@ -1,0 +1,346 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "fea06e56",
+      "speaker": "式場スタッフ",
+      "ja": "それでは思う存分お二人でご見学なさってください、お時間になりましたらお呼びさせていただきます",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "4bc92702",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "4dca81ea",
+      "speaker": "紅葉",
+      "ja": "では……お言葉に甘えて……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "5e77ad37",
+      "speaker": "",
+      "ja": "{G_PlayerName}と紅葉は潜入調査のために結婚するカップルを装い式場へと来た……という設定で、潜入の訓練をしている。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "e8daec59",
+      "speaker": "",
+      "ja": "一礼して立ち去るスタッフを見送り、ここからが本番なのだと固唾をのんだ。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "9f0ecac2",
+      "speaker": "紅葉",
+      "ja": "それじゃあ……始める……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "13196288",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。……何をしたら訓練成功なんだっけ？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "516d8695",
+      "speaker": "紅葉",
+      "ja": "ここに隠された資料や、証拠を見つけて手に入れること。……いくつか配置されてる、らしい",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "a5524507",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなところに資料とか証拠があるのか……？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "4aa3c97f",
+      "speaker": "",
+      "ja": "二人は手分けをしながらくまなく調査していく。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "ac22e41f",
+      "speaker": "",
+      "ja": "しばし調べていた{G_PlayerName}だったが、花嫁姿の紅葉が気になってしまいついつい目で追ってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "5d91acd7",
+      "speaker": "",
+      "ja": "その視線に気づいた紅葉は調査の手を止めて{G_PlayerName}にたずねる。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "3dc23386",
+      "speaker": "紅葉",
+      "ja": "どうか……した？　私に……なにか付いている？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "f97b3d21",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……それにしてもそのドレス……潜入の為とはいえ、よく似合ってるなって思って",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "9267cb7",
+      "speaker": "",
+      "ja": "不意を突く{G_PlayerName}の言葉に紅葉は一瞬キョトンとしてしまうが、すぐにその意味を理解して徐々に顔を赤らめていった。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "3541f173",
+      "speaker": "紅葉",
+      "ja": "な、何を言ってるの……は、早く調査を進めないと……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "d48ee3f4",
+      "speaker": "",
+      "ja": "照れ隠しに紅葉はそう言って調査を再開するが、心中ではまんざらでもない気持ちになっている。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "2146df8",
+      "speaker": "",
+      "ja": "そんな紅葉を見て{G_PlayerName}も調査を再開させた。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "8660cd70",
+      "speaker": "",
+      "ja": "そしてあらかた調査を済ませたところで{G_PlayerName}は改めて紅葉に告げる。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "f3a17d1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "紅葉……これで大体調べ終わったけど……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "a2d8a6a4",
+      "speaker": "紅葉",
+      "ja": "そう……いくつか目的の物は見つけたし、後は着替えて戻るだけ……",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "d548b5a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "着替えて……か……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "8a903291",
+      "speaker": "紅葉",
+      "ja": "なに……？　何か問題でも……？",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "8a92035",
+      "speaker": "{G_PlayerName}",
+      "ja": "問題……という訳じゃないんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "b7a7587b",
+      "speaker": "紅葉",
+      "ja": "言いたいことがあるなら……遠慮なく言った方がいい……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "808613dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ……さっきも言ったけど……そのウエディングドレス、よく似合ってるよ",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "bb447a59",
+      "speaker": "",
+      "ja": "改めて{G_PlayerName}が褒め言葉を口にすると、紅葉の顔がまた赤く染まっていった。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "f1c2d89",
+      "speaker": "紅葉",
+      "ja": "そ、そう……？　しかし潜入の為とはいえ……こんな格好をする必要があるかは疑問……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "d6991f9d",
+      "speaker": "",
+      "ja": "照れているのを悟られぬように紅葉はあえて少し愚痴っぽくそう呟く。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "79c8706b",
+      "speaker": "",
+      "ja": "しかし褒められたのが嬉しかったのか紅葉は言葉を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "2b66366a",
+      "speaker": "紅葉",
+      "ja": "でも……",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "71668466",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "ac4cc6c9",
+      "speaker": "紅葉",
+      "ja": "……あなたと出会わなかったら……こんな格好をする機会もなかったかもしれない……それについては感謝してる……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "611a55a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……感謝だなんて……そんな……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "253bea99",
+      "speaker": "紅葉",
+      "ja": "だから……ありがとう……♥",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "5ef08aa1",
+      "speaker": "{G_PlayerName}",
+      "ja": "紅葉……",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "952928da",
+      "speaker": "",
+      "ja": "嬉しそうに微笑むウエディングドレス姿の紅葉を見て、{G_PlayerName}はドキッとして照れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "89f94c28",
+      "speaker": "",
+      "ja": "こうして二人の潜入調査訓練は無事に幕を下ろしたのだった。",
+      "zh": ""
+    }
+  ]
+}
