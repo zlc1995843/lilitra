@@ -1,0 +1,301 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "189e1cd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？　なんだ？　なんだか甘い匂いがするな……",
+      "zh": ""
+    },
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "59cfe29c",
+      "speaker": "ヴィオラ",
+      "ja": "砂糖の量は……この程度で問題ございませんね♪　次は粉をふるいませんと……",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "fea641cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴィオラ、来てたのか！　何やってるんだ？　すごく甘くて美味しそうな匂いがしてるけど……",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "daa36244",
+      "speaker": "ヴィオラ",
+      "ja": "あらっ♪　機械士様、お邪魔しております♥　今、場所をお借りしてクッキーを作っているところですわ",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "df1f4018",
+      "speaker": "{G_PlayerName}",
+      "ja": "クッキー？　ヴィオラってクッキーも作るんだな……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "547559d0",
+      "speaker": "ヴィオラ",
+      "ja": "ええ♥　専門はチョコレートですが、他のお菓子もある程度は作れるように練習しておりましてよ♥",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "eb78116f",
+      "speaker": "",
+      "ja": "そう答えたあと、ヴィオラは急に心配そうな顔で告げた。",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "a82d590b",
+      "speaker": "ヴィオラ",
+      "ja": "ところで、機械士様は色んなお方にチョコをいただいておりましたけど……お返しは考えているのですか？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "76b43435",
+      "speaker": "{G_PlayerName}",
+      "ja": "お返し？　もらった人には一応、チョコとか別の物でお返ししたりしたけど……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "f61c9a8e",
+      "speaker": "ヴィオラ",
+      "ja": "まあ♥　それは素晴らしいですわ♥　お返しはとっても大事ですもの♥",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "f5795932",
+      "speaker": "ヴィオラ",
+      "ja": "でも気をつけなくてはいけませんわ。お返しするお菓子によっては、意味合いが違ってきますの♥",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "f3670c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "意味合い……？　そ、そうなのか？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "71b3c64e",
+      "speaker": "ヴィオラ",
+      "ja": "例えば……惑星を模したキャンディーには、星が爆発してもあなたを愛する♥　なんて意味がございますの♥",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "55ee03",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それは……重い意味だな。凄いな……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "54736841",
+      "speaker": "ヴィオラ",
+      "ja": "植物を模したクッキーならば、土に還って植物になるまで生涯を共にしよう♥　ですとか♥",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "216b5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "それも随分大げさだなぁ……！？",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "1f0e6dcb",
+      "speaker": "ヴィオラ",
+      "ja": "そうですか？　うーん、無難なところであれば、丸いクッキーの瓶詰めでしょうか？　日頃の感謝を込めて、という意味がありますわ♥",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "a9d4ed07",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、いいな。……それなら、俺にクッキー作りを教えてくれないか？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "4848a76c",
+      "speaker": "ヴィオラ",
+      "ja": "ふふふっ♥　それくらいお安いご用ですわ♥",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "1738a261",
+      "speaker": "{G_PlayerName}",
+      "ja": "チョコの時も思ってたけど、なかなか難しいなぁ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "a81ca56",
+      "speaker": "",
+      "ja": "初めてのクッキー作りに{G_PlayerName}は悪戦苦闘してしまう。その隣ではヴィオラが手際よく生地を捏ね回していた。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "ce9f8a03",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴィオラは手際もいいし準備も早いし、すごいなぁ",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "77215e5b",
+      "speaker": "ヴィオラ",
+      "ja": "わ、わたくしは製菓職人ですから♥　当然と言えば当然ですわ♥",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "e4c66d2e",
+      "speaker": "ヴィオラ",
+      "ja": "それにお菓子作りは何よりも気持ちが大事なのですわ♥　愛情を込めれば、どんなお菓子でも一級品になるのです♥",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "7700c9c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "へ～……じゃあ、俺が前にヴィオラに貰ったお菓子も絶品だったから、気持ちがこもってたんだな",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "9693ca32",
+      "speaker": "ヴィオラ",
+      "ja": "へ、へへえっ！！？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "8fc5e60f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どうしたヴィオラ。いきなり変な声あげて……",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "dba9e5ff",
+      "speaker": "ヴィオラ",
+      "ja": "（き、機械士様こそいきなり何を……！　た、確かにあのチョコは機械士様の事を想って作りましたけれど……！）",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "1e1762dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴィオラ、顔が赤いけど……大丈夫かい？",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "3afec54a",
+      "speaker": "ヴィオラ",
+      "ja": "だ、だ、大丈夫ですわ♥　な……っ、なんでもありませんの♥",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "adbdd572",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……？　じゃあ次の手順は？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "12d95aa8",
+      "speaker": "ヴィオラ",
+      "ja": "つ……次は生地を伸ばして……あとは型で抜いて焼いていきますわ",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "5e1cce59",
+      "speaker": "",
+      "ja": "内心穏やかでは無いクッキー作りだったが、何とか無事に立派なクッキーを焼き上げられ、胸を撫で下ろすヴィオラだった……",
+      "zh": ""
+    }
+  ]
+}
