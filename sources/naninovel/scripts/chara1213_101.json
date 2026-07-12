@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "abb901c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふ～……！　ほら、次コハルの番だぞ？　削れるもんなら削ってみろ、ムリだろうけどな。わははははは！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "aae15a1e",
+      "speaker": "コハル",
+      "ja": "いや、まだいけるから……そ～っと、そ～～っと……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "14c45f1",
+      "speaker": "",
+      "ja": "子供の頃に二人で遊んだ棒倒し。コハルがそれを思い出し、懐かしさから二人ですることに。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "72fba617",
+      "speaker": "",
+      "ja": "砂山を造り、そこに棒を突き立て互いに砂を削り合う。最初のうちは懐かしさ優先のお遊びであったが、いつの間にか俺たちは勝負に夢中になってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "efa992d5",
+      "speaker": "コハル",
+      "ja": "はい、クリア！　どう？　まだ棒倒れてないから",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "c45f0a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんで倒れないんだ！？　お前、イカサマしてるだろ！？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "8a403211",
+      "speaker": "コハル",
+      "ja": "ふふん、よくもまぁぬけぬけとそんなセリフが吐けるものねっ",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "5ed97e88",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……まるで俺が何か細工でもしたようなセリフぶりだなっ？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "1e87986e",
+      "speaker": "コハル",
+      "ja": "ふふふ、あたしからは見えない位置で小細工したみたいだけど、あんたの手の内なんてお見通しなんだから♪",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "c38bd767",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもこんなの、これ以上無理だろ……！",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "836c0d02",
+      "speaker": "リフル",
+      "ja": "お二人ともずいぶんとお楽しみになられているみたいですね……審判を押し付けられたわたくしをそっちのけで二人の世界で楽しんで……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "4c2ca390",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、忘れてないって……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "95686b0b",
+      "speaker": "",
+      "ja": "熱中するあまり、偶然通りかかったリフルに審判をお願いしていたのを思い出す。冷静になれば、CEOになんてことをさせているのだろうか……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "cba66352",
+      "speaker": "リフル",
+      "ja": "なんともまぁ、似たもの同士と言いますか、お似合いと言いますか……で、{G_PlayerName}様が無理だと判断するのであれば、この勝負{G_PlayerName}さんの負けですが",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "1f9db475",
+      "speaker": "{G_PlayerName}",
+      "ja": "んなぁっ！？　そんな！？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "11d706f",
+      "speaker": "リフル",
+      "ja": "しかしお金を賭けているわけでもないのに、よくそこまで熱くなれますね……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "b97a8c4b",
+      "speaker": "コハル",
+      "ja": "まぁ、昔を思い出しちゃって？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "5185f6fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなとこだな……ってことで次はコハルの浮き輪を１０秒持ってた方が勝ちな！　よーいドン！！",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "a13f592e",
+      "speaker": "コハル",
+      "ja": "へっ……！？　ちょ、何いきなり勝負始めてんのよ！　負け認めてからにしなさいよっ！　待ちなさーーーいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "33616ac1",
+      "speaker": "リフル",
+      "ja": "さ、流石に子供過ぎませんか……？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "738fe81f",
+      "speaker": "コハル",
+      "ja": "捕まえた……！！　浮き輪返せ～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "b75199cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おま……！　さすがに速すぎだろ！！　どんだけ勢いよく……ぶほっ！？　ちょ、水掛けるな！！　こうなりゃ俺も本気でやってやる……！！",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "30ec4667",
+      "speaker": "コハル",
+      "ja": "あ、ちょ……！　なに人の身体くすぐって……！！　や、やめ……あはははははっ！　そこ弱いの知っているでしょ……！　やめてって……！！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "360e39f1",
+      "speaker": "",
+      "ja": "俺たちは水を掛け合い、ときに物理的な攻撃を仕掛けながら浮き輪を奪い合う。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "2a5976e",
+      "speaker": "{G_PlayerName}",
+      "ja": "がぼっ！？　がぼぼぼぼぼっ！　沈めるな……！　息が……がぼぼっ！！",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "59f484a7",
+      "speaker": "コハル",
+      "ja": "うるさいバカ！　人の身体くすぐった罰よ！　ほら、浮き輪返して！！",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "363444c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやだ！　絶対に離すもんか……ごぼぼぼぼぼっ！！",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "633035bb",
+      "speaker": "リフル",
+      "ja": "（わたくしは一体何を見せつけられているのでしょうか……本当に仲の良いお二人ですね……）",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "7f12117f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごほっ、ごほっ！　お、お前なぁ、人を海に沈めるとか……死んだらどうする……！",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "37773aba",
+      "speaker": "コハル",
+      "ja": "ご、ごめん、さすがに少しやり過ぎたかも……でも最初に勝負を仕掛けてきたのはあんたなんだから",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "389e4167",
+      "speaker": "",
+      "ja": "俺たちはさすがに冷静になり、お互いに海から出る。海水をたらふく飲んだせいで喉が渇いたようにヒリヒリとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "babed2e1",
+      "speaker": "リフル",
+      "ja": "はぁ～……どうやらお二人とも気が済んだようですね",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "a13ca3c",
+      "speaker": "コハル",
+      "ja": "そう、ね……さすがに、ね……？",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "7bc84e46",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そうだな……つい昔を思い出してはしゃいじゃったよ……ほかの客に迷惑掛けてなかったかな？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "3cdd06b0",
+      "speaker": "リフル",
+      "ja": "まぁあの程度なら日常茶飯事ですので……ところで改めてお聞きしたいのですけど……お二人は恋仲なのですか？",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "26c08e67",
+      "speaker": "コハル",
+      "ja": "……へ？",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "bc55400c",
+      "speaker": "リフル",
+      "ja": "あなた方のグループは皆様仲が宜しそうで、誰が誰と恋仲なのかわかりにくいのですよね",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "1dc70443",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちっ、ちちちち、違うし……！　俺とコハルは幼馴染で腐れ縁だから……！！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "13339439",
+      "speaker": "",
+      "ja": "俺は恋仲という言葉に異様に反応してしまい、照れ隠しをするように思ってもいないことを口にしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "166795ff",
+      "speaker": "コハル",
+      "ja": "そっ、そうよ……！　でも……",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "346dac5e",
+      "speaker": "コハル",
+      "ja": "他の人からは、その……そう見えるってこと、なのよね……？",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "69dfdc2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はぁ……！？　そ、そんなことないだろ……！？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "a4a8f126",
+      "speaker": "コハル",
+      "ja": "あんたって昔からそうよね？　思ってもいないことを口にすると目が泳いで……それに今顔真っ赤よ？",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "7c4ed63f",
+      "speaker": "コハル",
+      "ja": "あんたもあたしと同じ気持ちだったら、嬉しいのに……",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "449c3d16",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、え、えっと……その……",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "1f5b2fdc",
+      "speaker": "",
+      "ja": "コハルの言葉と潤んだ瞳でじっと見つめられ、俺はその場に固まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "680eee90",
+      "speaker": "コハル",
+      "ja": "はい、浮き輪返してもらうわね……！　１０秒だっけ？　じゃあスタート！",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "b4dcce62",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　お前卑怯だぞ！",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "8f63cbdb",
+      "speaker": "コハル",
+      "ja": "あはははっ！❤　追いつけるものなら追いついてみなさいっ❤",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "92cacb8d",
+      "speaker": "リフル",
+      "ja": "いや、だから……わたくしを忘れないでくださいませ……",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "87383f49",
+      "speaker": "リフル",
+      "ja": "全く、完全に恋仲じゃないですか。やれやれ、馬に蹴られる前に退散しましょう",
+      "zh": ""
+    }
+  ]
+}

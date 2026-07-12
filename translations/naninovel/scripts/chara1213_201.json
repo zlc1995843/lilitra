@@ -1,0 +1,859 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "5c02dd0b",
+      "speaker": "コハル",
+      "ja": "ふぅ～、泳いだ泳いだ♪",
+      "zh": "呼～，游了个痛快♪"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "209d5eb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "泳いだというか、その浮き輪の上で足バタバタさせてただけじゃ……",
+      "zh": "说游泳也太夸张了，我就是趴在游泳圈上随便踢蹬了几下腿……"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "7296fdb9",
+      "speaker": "コハル",
+      "ja": "いいでしょ～？　これが優雅な海の楽しみ方なのよ",
+      "zh": "不错吧～？这才是享受大海的优雅方式哦。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "9fc46986",
+      "speaker": "コハル",
+      "ja": "あんたも疲れたでしょ？　そろそろ部屋に戻って休みましょ",
+      "zh": "你也累了吧？咱们回房间休息吧。"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "9a068b2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "へーい",
+      "zh": "好嘞～"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "fcae77cb",
+      "speaker": "コハル",
+      "ja": "浮き輪、空気抜かないとよねー",
+      "zh": "游泳圈得把气放掉才行呢。"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "246062ee",
+      "speaker": "",
+      "ja": "コハルがそう言いながら手を伸ばす。",
+      "zh": "小春一边说着，一边伸出了手。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "303b7ed3",
+      "speaker": "",
+      "ja": "小さな胸がぷるっと震えた気がして{G_PlayerName}は思わず凝視してしまった。",
+      "zh": "感觉到她那小小的胸脯轻轻一颤，{G_PlayerName}不由得看入了神。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "894791cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "(なんか……)",
+      "zh": "（总觉得……）"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "d48910de",
+      "speaker": "コハル",
+      "ja": "ん？　どうかした？　はしゃぎ疲れちゃったのかしら",
+      "zh": "嗯？怎么啦？是不是玩得太疯累着了？"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "e7293d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、コハルの水着姿ってまじまじ見ると……なんかエロい気がすると思って……",
+      "zh": "那个……仔细看小春的泳装，总觉得有点涩涩的……"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "228ea41b",
+      "speaker": "コハル",
+      "ja": "まじまじ見ないのー！　それ、セクハラっぽいから他の子に言わないでよー！？",
+      "zh": "不准死盯着看哦！这话太像性骚扰了，别对其他女孩说啊！"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "f6ef16cb",
+      "speaker": "コハル",
+      "ja": "全然露出してないのに、エ、エロいだなんて……",
+      "zh": "明明什么都没露出来，你、你居然说人家色……"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "795bcb74",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……",
+      "zh": "小春……"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "6eac6f90",
+      "speaker": "",
+      "ja": "{G_PlayerName}がコハルに背後から抱き着くと、コハルは慌てはするものの振り払おうとはしなかった。",
+      "zh": "{G_PlayerName}从背后抱住小春，小春虽然有些慌乱，却没有试图挣脱。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "2a1a86fd",
+      "speaker": "コハル",
+      "ja": "ふふ、もう。どうしたの？　今日は甘えん坊さんなのね？",
+      "zh": "哼哼，真是的。怎么啦？今天怎么变得这么爱撒娇了呀？"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "a9a49c2c",
+      "speaker": "コハル",
+      "ja": "でもこんなにひっつき虫してると、他の子に見つかっちゃうわよ？　ほら、お部屋に戻りましょ？",
+      "zh": "但这么黏着我，会被别的女生发现的哟～？好啦，回房间啦。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c025c2e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとちょっとだけ……",
+      "zh": "再一小会儿就好……"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "b02d3352",
+      "speaker": "コハル",
+      "ja": "きゃっ！",
+      "zh": "呀啊！"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "f9e89790",
+      "speaker": "",
+      "ja": "{G_PlayerName}はコハルの水着をずらし、むにゅりとその二つの膨らみを掴む。",
+      "zh": "{G_PlayerName}扯开小春的泳衣，软软地握住了她胸前那两团隆起。"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "ec12e0ed",
+      "speaker": "コハル",
+      "ja": "ばか、こんなところで……！　んっ♥　ど、どこ、触ってるのよぉ……っはぁ♥",
+      "zh": "笨蛋，在这种地方……！嗯♥ 你、你摸哪儿呢……啊♥"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "6eb206a6",
+      "speaker": "コハル",
+      "ja": "あっ、だめっ、水着脱がさないでっ、見られちゃう……っ",
+      "zh": "啊、不行，别脱我泳衣……会被人看见的……"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "3a71582",
+      "speaker": "{G_PlayerName}",
+      "ja": "海で見えないから大丈夫だって",
+      "zh": "在海里看不见的，没事啦。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "34e5dd66",
+      "speaker": "コハル",
+      "ja": "珍しく甘えてきて可愛いと思ったのに、これが目的だったのね……？",
+      "zh": "难得见你撒娇，还以为变可爱了呢……原来这才是你的目的啊……？"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "e531170c",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもコハルも触られて嬉しそうだけど？　ほらもう乳首立ってる",
+      "zh": "不过小春你被摸也挺爽的吧？看，乳头都硬了。"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "85bb2a2d",
+      "speaker": "",
+      "ja": "{G_PlayerName}はほぼ手を動かしていないにもかかわらず、コハルの乳首は固くなってきていた。",
+      "zh": "尽管{G_PlayerName}几乎没怎么动手，小春的乳头已经硬了起来。"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "31ca8ef3",
+      "speaker": "コハル",
+      "ja": "立ってないぃ……ん……っ♥　ほ、ほんとにここでするの！？",
+      "zh": "才没硬……嗯……♥ 你、你真要在这里做！？"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "2a1a36f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫大丈夫、最後まではしないから！",
+      "zh": "放心放心，不会做到最后的啦！"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "5842240b",
+      "speaker": "コハル",
+      "ja": "当たり前でしょ！　外でなんてしないわよ！？",
+      "zh": "当然不行！我才不在外面做这种事呢！？"
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "b1adf05",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらコハル。大きな声出すと周りに気づかれるぞ",
+      "zh": "喂小春，叫那么大声会被周围发现的哦。"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "34d4ed99",
+      "speaker": "コハル",
+      "ja": "ううぅ～～……！♥",
+      "zh": "唔唔～～……！！♥"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "c2e4f1d",
+      "speaker": "コハル",
+      "ja": "(最近こいつに丸めこまれてること多くない！？　あたし、大丈夫なのかしら……)",
+      "zh": "（最近是不是老被这家伙牵着鼻子走啊！？我这样真的没问题吗……）"
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "8350bca6",
+      "speaker": "コハル",
+      "ja": "あっ、んっ、んぅ……♥",
+      "zh": "啊、嗯、嗯唔……♥"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "4976a9b4",
+      "speaker": "コハル",
+      "ja": "指、やらしすぎ……んっ♥　あんた、そんなにおっぱい好きだったっけ……？♥",
+      "zh": "手指、太下流了……嗯♥ 你这家伙，原来这么喜欢胸部的吗……？♥"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "a6dbf28c",
+      "speaker": "{G_PlayerName}",
+      "ja": "男はみんなやらしいしおっぱいも好きだ",
+      "zh": "男人都色，也都喜欢胸部。"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "91982bc9",
+      "speaker": "コハル",
+      "ja": "そう、なのぉ？　んっ、はぁ……♥　あ、そこ……っ♥",
+      "zh": "是……这样吗？嗯、哈啊……♥ 啊、那里……♥"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "c5dd63d",
+      "speaker": "{G_PlayerName}",
+      "ja": "乳首の先、触られるの好きか？",
+      "zh": "喜欢被摸乳头尖儿吗？"
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "6f8401b2",
+      "speaker": "コハル",
+      "ja": "好きっていうか……あ、ジンジンして……んんっ",
+      "zh": "与其说喜欢……啊、酥酥麻麻的……嗯嗯"
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "e21eb91",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、こうやって指でスリスリされるの好きだろ？",
+      "zh": "不过，这样用手指来回蹭，你喜欢的吧？"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "fbab1738",
+      "speaker": "",
+      "ja": "{G_PlayerName}は中指でコハルのすっかり固く立ち上がった乳首をすりすりと撫でまわす。",
+      "zh": "{G_PlayerName}用中指来回摩挲着小春完全硬挺起来的乳头。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "78bec84a",
+      "speaker": "コハル",
+      "ja": "あっ♥　あっ♥　あっ……♥　それっ、すき……♥　あっ、だめっ……♥",
+      "zh": "啊♥ 啊♥ 啊……♥ 那里、好舒服……♥ 啊、不行了……♥"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "8b5f2865",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、素直でかわいいじゃんか",
+      "zh": "哈哈，这么坦率还挺可爱的嘛。"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "a98b970",
+      "speaker": "コハル",
+      "ja": "ばかに、してるでしょっ……？　んっ、あ、ねぇ、もうすりすりやめてっ",
+      "zh": "你把我当傻瓜了是吧……！？嗯、啊、喂，别蹭了！"
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "cc0ab879",
+      "speaker": "",
+      "ja": "コハルは快感から逃げるように体をよじるが、背後にいる{G_PlayerName}から逃れきることはできない。",
+      "zh": "小春像是要逃离快感般扭动身体，却摆脱不了身后的{G_PlayerName}。"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "246ca1ac",
+      "speaker": "",
+      "ja": "逆に胸をのけ反らせてより敏感な乳首を指に押し当てる結果となってしまった。",
+      "zh": "反而变成了后仰着胸，让更敏感的乳头直直顶住了手指。"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "202ad170",
+      "speaker": "コハル",
+      "ja": "ねぇ、だめだったら……っ、胸、変なのぉ……っ♥",
+      "zh": "喂，都说了不行……嗯、胸部感觉好奇怪……♥"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "36d20bda",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルの胸は変じゃないぞ。膨らみが控えめでちょうどいい",
+      "zh": "小春的胸才不奇怪呢。不大不小刚刚好。"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "afbf058c",
+      "speaker": "コハル",
+      "ja": "はぁっ、はぁっ、あっ……！♥　そうじゃなくてぇっ、ねぇ、分かってるんでしょ？♥　もう、とめて、ほんとにだめだから……っ♥",
+      "zh": "哈啊、哈啊、啊……♥ 我不是那个意思啦……喂，你明明就知道……♥ 快停下，真的不行了……♥"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "2469090a",
+      "speaker": "{G_PlayerName}",
+      "ja": "だめ。胸でイくまでやめない",
+      "zh": "不让。我会一直做到你用胸高潮为止。"
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "ec917c70",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}は柔らかな乳房の膨らみを撫でまわしながら、乳首を擦り続ける。",
+      "zh": "说着，{G_PlayerName}一边揉弄柔软的乳房，一边继续搓揉乳头。"
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "702c4835",
+      "speaker": "",
+      "ja": "コハルの胸に快楽が溜まっていき、コハルにはどうしようもなくなってしまう。",
+      "zh": "快感在小春的胸口越积越多，她再也无力抵抗。"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "b054bf7a",
+      "speaker": "コハル",
+      "ja": "あっ、だめだめだめ……っ♥　ほんとにきちゃう、きちゃうからぁ……っ！",
+      "zh": "啊、不行不行不行……♥ 真的要去了、要去了啊……！"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "44b69ce",
+      "speaker": "コハル",
+      "ja": "っやぁあ……！♥　あっ、んん～～っ！♥",
+      "zh": "呀啊……！♥ 啊、嗯嗯～～！♥"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "ef7efb48",
+      "speaker": "",
+      "ja": "コハルはびくりと背を反らして胸で絶頂を迎えてしまう。",
+      "zh": "小春浑身一颤，弓起后背，在胸部达到了高潮。"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "f969990f",
+      "speaker": "コハル",
+      "ja": "やだぁ……あたし、胸でイっちゃった……はぁ、はぁ……",
+      "zh": "讨厌……我竟然用胸部高潮了……哈啊、哈啊……"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "abcd445d",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、かわいい……",
+      "zh": "小春，你真可爱……"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "6df7ff7b",
+      "speaker": "",
+      "ja": "{G_PlayerName}は背後からうっとりとそう声を落とす。",
+      "zh": "{G_PlayerName}从身后陶醉地低语。"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "560a85fc",
+      "speaker": "",
+      "ja": "その熱のこもった声にコハルの背がぞくりと快感に震える。",
+      "zh": "那炽热的声音让小春的后背一阵酥麻，快感再次涌来。"
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "bf2a7f9d",
+      "speaker": "コハル",
+      "ja": "(あたし、こんなとこで……人に見られちゃうかもしれないのに……おっぱい触られてイっちゃった……)",
+      "zh": "（我竟然在这种地方……明明有可能被人看到……却被摸胸弄到高潮了……）"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "d035cc60",
+      "speaker": "コハル",
+      "ja": "はぁ、はぁ、もう、満足したでしょ……？　帰ろ……？",
+      "zh": "哈啊、哈啊……你满足了吧……？我们回去……？"
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "e7811482",
+      "speaker": "",
+      "ja": "本当はリリアンの力で無理やり抜け出すこともできるが、逞しい腕に抱かれているのは嫌じゃなくて振りほどけない。",
+      "zh": "其实以莉安的能力，硬要挣脱也不是办不到，但被那双结实的手臂抱着，并不讨厌，反而挣不开。"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "81a8e089",
+      "speaker": "コハル",
+      "ja": "(背中に熱いの当たってる……あたしで興奮してるんだ……)",
+      "zh": "（背上有个热热的东西顶着……是因为我兴奋起来了啊……）"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "b6d9ba16",
+      "speaker": "{G_PlayerName}",
+      "ja": "……じゃあそうやって体くねらせて、擦り付けるのやめろよ……勘違いする",
+      "zh": "……那就别这样扭来扭去地蹭我啊……会误会的。"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "34763a14",
+      "speaker": "",
+      "ja": "{G_PlayerName}に言われてコハルははっとする。",
+      "zh": "被{G_PlayerName}这么一说，小春一下子清醒了过来。"
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "364c553c",
+      "speaker": "",
+      "ja": "身長差から背中にあてられた熱い肉棒、無意識にその熱を感じようと体を押し当てていた。",
+      "zh": "因为身高差，背上顶着的那根滚烫肉棒，她下意识地想感受那股热度，把身体贴了上去。"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "84825e60",
+      "speaker": "コハル",
+      "ja": "あっ、す、擦り付けてなんか……っ、これは、ただ……",
+      "zh": "啊、没、没有在蹭……这只是……"
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "3f735414",
+      "speaker": "{G_PlayerName}",
+      "ja": "続き、するから",
+      "zh": "继续，我来继续。"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "f1e6efde",
+      "speaker": "",
+      "ja": "{G_PlayerName}は言いきって再び手をうごめかせ始める。",
+      "zh": "{G_PlayerName}说完，手又开始不安分地动了起来。"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "37539cee",
+      "speaker": "",
+      "ja": "形を確かめるように乳房全体をなぞって、ぐっと持ち上げてからぷるんと手を離す。",
+      "zh": "像是在确认形状似的，用手描摹着整个乳房，然后一把托起来再噗地松开。"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "a6c920ee",
+      "speaker": "",
+      "ja": "大人の大きな手ではすっぽり包んでしまえるような大きさだが、しかししっかりと膨らみを持っているその矛盾に途方もなく興奮していた。",
+      "zh": "以大人的大手，几乎能整个包住的大小，却又实实在在地挺翘饱满，这种矛盾让他兴奋得不行。"
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "34c512e6",
+      "speaker": "コハル",
+      "ja": "あっ、ん、はぁ……♥　もう、わがままなんだから……♥",
+      "zh": "啊、嗯、哈啊……♥ 真是的，这么任性……♥"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "3284ec03",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルもだろ。いつからそんなエロくなったんだよ",
+      "zh": "小春你也是吧。什么时候变得这么色了。"
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "783de1f6",
+      "speaker": "コハル",
+      "ja": "んっ、あっ、そんなの分かんないよぉっ♥　あたしエロくなんてないのにぃっ♥　あんっ♥",
+      "zh": "嗯、啊、我哪知道啊♥ 我明明一点都不色♥ 啊嗯♥"
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "83773060",
+      "speaker": "{G_PlayerName}",
+      "ja": "エロくないリリアンは乳首でイったりしないだろ",
+      "zh": "不色的莉安，可不会乳头高潮吧。"
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "afd4658e",
+      "speaker": "コハル",
+      "ja": "あんたのせい、だからぁっ♥　んっ、胸でイったこと、なかったのにぃっ♥　あんっ、あんたがたくさん触るからっ♥",
+      "zh": "都是你的错啦♥ 嗯、我以前用胸从来没高潮过的♥ 啊嗯、都怪你一直摸♥"
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "be19d2f4",
+      "speaker": "コハル",
+      "ja": "全部あんたがしたのよっ♥　はぁっ、んっ、責任、とりなさいよぉ……っ♥",
+      "zh": "全都是你弄的啦♥ 哈、嗯、给我负责啊……♥"
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "7eb30141",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そっか。じゃあ責任とる",
+      "zh": "……这样啊。那，我负责。"
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "24a06839",
+      "speaker": "",
+      "ja": "コハルの素直な言葉に気分がいい{G_PlayerName}は、触り方を変えてコハルの弱点だけを責めるようになる。",
+      "zh": "听到小春这么诚实的话，{G_PlayerName}心情大好，于是换了个摸法，开始专攻她的弱点。"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "e7c08d24",
+      "speaker": "コハル",
+      "ja": "あっ♥　あっ♥　あっ♥　それ、あんんっ♥",
+      "zh": "啊♥ 啊♥ 啊♥ 那里、啊啊嗯♥"
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "8e48559a",
+      "speaker": "{G_PlayerName}",
+      "ja": "この触り方が好きだよな？",
+      "zh": "这样摸很舒服吧？"
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "dac75b77",
+      "speaker": "コハル",
+      "ja": "乳首のさきぃ♥　すりすりってされたら、頭の奥がジンってしてぇ、へんなのぉっ♥",
+      "zh": "乳尖尖被这样揉来揉去的话，脑袋深处就一激灵，好奇怪的感觉啊♥"
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "901487aa",
+      "speaker": "コハル",
+      "ja": "あっ、またへんなのくるぅっ♥　あたしのおっぱい、おかしくなっちゃうよぉっ♥　あっ、あっ、あぁんっ♥",
+      "zh": "啊，又来了，那种奇怪的感觉♥ 人家的胸变得好奇怪了啦♥ 啊、啊、啊嗯♥"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "a7a89377",
+      "speaker": "{G_PlayerName}",
+      "ja": "またおっぱいでイくとこ見せてよコハル。ほら",
+      "zh": "再让我看看你用胸部高潮的样子啊，小春。来呀。"
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "7b2f22d1",
+      "speaker": "コハル",
+      "ja": "んん～……！♥　イくっ♥　イっちゃうっ♥　乳首きもちいいっ、だめだめだめっ、きちゃうっ……！♥",
+      "zh": "嗯～……！♥ 要、要去了♥ 要高潮了♥ 乳头好舒服，不行不行不行，要来了……！♥"
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "f0cfe9a1",
+      "speaker": "コハル",
+      "ja": "ひゃあああ……っ！　あっ、　あっ、んやぁああっ……！！♥♥",
+      "zh": "呀啊啊啊……！啊、啊、嗯呀啊……！！♥♥"
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "f77d3dfd",
+      "speaker": "",
+      "ja": "コハルはびくびくと震えながら再び絶頂を迎えてしまう。",
+      "zh": "小春浑身颤抖着，再次迎来了高潮。"
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "3e5a0815",
+      "speaker": "",
+      "ja": "そしてそれと同時にとろりと乳首から白濁した液体が垂れてきてしまう。",
+      "zh": "同时，乳头上还缓缓淌下了白浊的液体。"
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "707858b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、コハル、これって……",
+      "zh": "诶，小春，这是……"
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "3d0cab59",
+      "speaker": "コハル",
+      "ja": "やぁあっ♥　胸、ずっときもちいいっ♥　出るのとめられないっ♥　助けてぇっ♥",
+      "zh": "呀啊♥ 胸部一直好舒服♥ 要出来了，停不下来♥ 救救我啊♥"
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "fc2ddec",
+      "speaker": "{G_PlayerName}",
+      "ja": "……っ",
+      "zh": "……！"
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "d6473013",
+      "speaker": "",
+      "ja": "ゴクリと{G_PlayerName}が生唾を飲み込む。",
+      "zh": "{G_PlayerName}咕噜一声咽了下口水。"
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "d61b5649",
+      "speaker": "",
+      "ja": "幼馴染が自分の手によってどんどんエッチになってしまっている。",
+      "zh": "自己的青梅竹马，在自己手中变得越来越淫荡了。"
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "78e51320",
+      "speaker": "",
+      "ja": "乳首でイくだけでなく、感じすぎたせいで母乳まで出してしまった。",
+      "zh": "不仅用乳头高潮了，因为感觉太强烈，连母乳都流了出来。"
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "e3f102ff",
+      "speaker": "コハル",
+      "ja": "あたし、へんだよぉ……♥　あ、ああぁ……っ♥",
+      "zh": "我变得好奇怪啊……♥ 啊、啊啊……♥"
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "bdbe906",
+      "speaker": "",
+      "ja": "自分のせいでこんなことになってしまったのに、自分に助けを求めて縋ってくる姿を見て{G_PlayerName}の股間はさらに熱くなってしまった。",
+      "zh": "明明是因为我才变成这样，她却向我求助，还如此紧贴着我，让{G_PlayerName}胯下更热了。"
+    }
+  ]
+}
