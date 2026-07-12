@@ -1,0 +1,373 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "6032e2dd",
+      "speaker": "グリム",
+      "ja": "ねー、ガイドさ～ん、まだ着かないの～？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "c69e9e76",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もうすぐ着くから大人しく待っててくれ……えっと、今たぶんここだよな……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a2d70fe7",
+      "speaker": "",
+      "ja": "俺が必死で提示されている地図とにらめっこしている傍らで、ベンチに座って足をブラブラと遊ばせているグリム。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "14e5de88",
+      "speaker": "",
+      "ja": "突然俺に外に連れて行け、と騒ぎ始めたグリムに、渋々ながら宇宙船から降りたまでは良かったのだが……",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "484c51a7",
+      "speaker": "グリム",
+      "ja": "そもそもさぁ～……なんで道間違えるわけ？　最初にナビアプリはもらったでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "bb3e3377",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ナビアプリってのが何かまだよくわかってないけど、俺には使えなかったんだよ",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "b7d91c57",
+      "speaker": "グリム",
+      "ja": "あ、最新の端末じゃないから使えなかったんでしょ？　だっさぁ～♥　これがデートだったら即破局なんだけど～♥",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "a46901c1",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんって、すんごいアナログだよね～♪　……もしかしてお兄ちゃんの星って、地図はまだ紙なわけ？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7127e194",
+      "speaker": "{G_PlayerName}",
+      "ja": "綺麗な紙は高価だからな……ほとんどは羊皮紙だったけど",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "8288f60c",
+      "speaker": "グリム",
+      "ja": "うわ、思ってる１００倍古かった……",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "2a0ab9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "仕方ないだろ、星によって文化はバラバラなんだから！　……そもそも、なんで俺に案内とか頼むんだ？　グリムがそのアプリとやらを使えばいいのに",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "c6258dbc",
+      "speaker": "グリム",
+      "ja": "くすくすっ♪　だって～、お兄ちゃんにエスコートしてもらいたかったんだもん♥　それなのにさぁ～……お兄ちゃんって頼りにならないよね～",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "ed5d4358",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるさいな……よし、大体道はわかった。ほら、いくぞ",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "1bfcbaf2",
+      "speaker": "グリム",
+      "ja": "よくできました～♥　あとでご褒美にお菓子買ってあげる♥",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "d5d35fa6",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい……",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "ed66538f",
+      "speaker": "グリム",
+      "ja": "あーん！　遠い～、遠すぎぃ～～っ！　こんなに歩かされるなんて聞いてない～っ！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "cbb24134",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな文句ばっかり言うなって……まだ大して歩いてないから、疲れてないだろ",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "29ff2fb",
+      "speaker": "グリム",
+      "ja": "リリアンだから当たり前でしょ～っ！　ただ歩くだけっていうのが暇だから、イヤなの！",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "93cf4e68",
+      "speaker": "{G_PlayerName}",
+      "ja": "って言っても、グリムが行きたいって場所なんだから……もうすぐなんだし、頑張れ",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "a0fab93e",
+      "speaker": "グリム",
+      "ja": "はぁー……もー、しょうがないなー",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "24d8f996",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そのセリフはこっちなんだが……）",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "cbb8ec64",
+      "speaker": "グリム",
+      "ja": "ううううう……づがれだ～……お兄ちゃん、グリムもう限界だよぉ……",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "f2bee416",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっきから数分しか経ってないぞ……",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "ae07bf00",
+      "speaker": "グリム",
+      "ja": "ねぇ、お兄ちゃん休憩しよ……？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "8f02597",
+      "speaker": "{G_PlayerName}",
+      "ja": "休憩～？　疲れてないんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "95bbe8e1",
+      "speaker": "グリム",
+      "ja": "……ねぇ、お兄ちゃん、ちょっと耳貸して",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "f5260b9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "e76133fc",
+      "speaker": "グリム",
+      "ja": "あたし、もう限界……ガマンできない……♥",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "c703afdf",
+      "speaker": "",
+      "ja": "グリムがそっと耳元で艶めかしく囁き、ゾクゾクする痺れが耳から全身に走った。思わず顔が熱くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "315c9eb9",
+      "speaker": "グリム",
+      "ja": "……おんぶ、して……♥　おねがぁい……♥",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "1d6f61e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ、おんぶかよ……！　紛らわしい声出すな……！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8a9087cb",
+      "speaker": "グリム",
+      "ja": "ふぅ～ん、紛らわしいってどーいう意味ぃ～？♥　グリム小っちゃいからわかんなぁい♥",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "97c97cd9",
+      "speaker": "{G_PlayerName}",
+      "ja": "このガキ……！　わかってて言っただろ……！　まったくしょうがないヤツだな……ほら",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "dc2c80a",
+      "speaker": "",
+      "ja": "俺はそう言うと、グリムの前で屈む。俺の行動に今までの疲れがウソだったようにグリムは笑顔になり、ひょいっと俺の背中に勢いよく乗る。",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "4cd4039b",
+      "speaker": "グリム",
+      "ja": "えへへへ♥　ありがと、お兄ちゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "ed2f7428",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんの背中っておっきいよねぇ～♥　すりすりしちゃおっと♥　すりすりすり～♥",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "ced4cbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく、急に元気になりやがって……それじゃあ行くぞ",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "bb9729d0",
+      "speaker": "グリム",
+      "ja": "はぁ～い、お願いね、お兄ちゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "e57d5043",
+      "speaker": "",
+      "ja": "俺の背中に乗っているグリムは驚くほど素直で、なんとなくカワイイ妹のようにさえ思え、ほっこりとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "82081e66",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こうして素直ならカワイイんだけどな……）",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "75c113a4",
+      "speaker": "",
+      "ja": "俺はそう思いながら目的地に向かって歩き出すのであった。",
+      "zh": ""
+    }
+  ]
+}
