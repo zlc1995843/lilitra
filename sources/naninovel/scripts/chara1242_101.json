@@ -1,0 +1,418 @@
+{
+  "lines": [
+    {
+      "key": "10.1",
+      "line_index": 10,
+      "inline_index": 1,
+      "line_hash": "deaa940",
+      "speaker": "ニナ",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "254e796f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（じっと見られてる……。なんだか落ち着かないな）",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "f8f38d10",
+      "speaker": "",
+      "ja": "ニナは人形のように美しい顔で、こちらをじっと見つめている。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "dc8520c6",
+      "speaker": "",
+      "ja": "その視線には好奇心と、どこか底知れないものが混ざり合っているように感じる。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "4b105c75",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何か話しかけた方がいいのかな……？　でも、何を話せば……）",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "6141f770",
+      "speaker": "",
+      "ja": "沈黙が重くのしかかる。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "36e2dd1f",
+      "speaker": "",
+      "ja": "ニナは相変わらずこちらを見つめたままだ。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "c6a7364c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そうだ！　あれを試してみよう）",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "55c9a494",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの、ニナ。よかったら、これで遊ばない？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "af4d6cac",
+      "speaker": "",
+      "ja": "そう言って、機械仕掛けの人形を取り出す。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "210df16c",
+      "speaker": "",
+      "ja": "それは、精巧に作られた可愛らしい女の子の人形だった。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "4541b050",
+      "speaker": "ニナ",
+      "ja": "えっ、これ？　なにこれ、どうやって動くの？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "7f7cdd58",
+      "speaker": "",
+      "ja": "さっきまでの無表情が嘘のように、ニナの顔がぱぁっと明るくなる。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "141cfa0a",
+      "speaker": "",
+      "ja": "人形に興味津々な様子で、身を乗り出してくる。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "ddad8edb",
+      "speaker": "{G_PlayerName}",
+      "ja": "これはね、音を記録して、同じことをしゃべったり歌ったりしてくれるんだ",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "80cd70da",
+      "speaker": "{G_PlayerName}",
+      "ja": "それに、ほら、こんな風に……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "4f297068",
+      "speaker": "",
+      "ja": "人形の背中にあるスイッチを入れると、カタカタと小さな音がして、人形がゆっくりと動き出す。",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "63988172",
+      "speaker": "ニナ",
+      "ja": "へぇー、すごい！　かわいいー！",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "a13b78fa",
+      "speaker": "",
+      "ja": "ニナは人形を手に取り、まじまじと観察し始める。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "75ef2d3c",
+      "speaker": "",
+      "ja": "そして、人形のスカートを覗き込む。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "c03b100d",
+      "speaker": "ニナ",
+      "ja": "あ、パンツちゃんと履いてる",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "6175cd8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、こらこら……この子も女の子だし、やめてあげようね",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "ca57efff",
+      "speaker": "",
+      "ja": "やんわり止めてみたものの、ニナは言うことを聞こうとはしない。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "2a5eea4a",
+      "speaker": "",
+      "ja": "{G_PlayerName}も自身が彼女に何かを無理強いできるとは思っていないため、そのままにして次の話を進めた。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "a2fb7eac",
+      "speaker": "{G_PlayerName}",
+      "ja": "ニナも何かしゃべってみて。人形が真似してくれるから",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "39f1e21",
+      "speaker": "ニナ",
+      "ja": "うん、わかった",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "20d61f99",
+      "speaker": "",
+      "ja": "ニナは少し考えてから、口を開く。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "ae95f669",
+      "speaker": "ニナ",
+      "ja": "あたし、ニナっていうの。よろしくね",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "dac7a66e",
+      "speaker": "",
+      "ja": "すると、人形が機械を通した高い声で、ニナの言葉をそっくりそのまま繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "f4f7166d",
+      "speaker": "人形",
+      "ja": "あたし、ニナっていうの。よろしくね",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "efaa51",
+      "speaker": "ニナ",
+      "ja": "すごーい！　かわいいー！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "e937ba9b",
+      "speaker": "",
+      "ja": "ニナは目を輝かせて、人形と自分の声を聞き比べる。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "1429375c",
+      "speaker": "",
+      "ja": "まるで、新しいおもちゃを手に入れた子供のようだ。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "ec75f315",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ミステリアスな子だと思ってたけど、普通の女の子っぽいところもあるんだな）",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "c016001a",
+      "speaker": "",
+      "ja": "そんなニナの姿を見て、{G_PlayerName}は少しだけ安心した。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "9112952f",
+      "speaker": "ニナ",
+      "ja": "ねえ、お兄さん。この子、あたしにくれる？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "211130d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　うーん、まあ、いいけど……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "42d94401",
+      "speaker": "ニナ",
+      "ja": "やったー！　ありがとう、お兄さん！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "3d6857b4",
+      "speaker": "",
+      "ja": "ニナは人形を大事そうに抱きしめる。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "29053c2a",
+      "speaker": "ニナ",
+      "ja": "この子に、お名前つけてあげようかな。そうだなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "124fdda0",
+      "speaker": "",
+      "ja": "少し考えてから、ニナは人形の耳元で囁く。",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "964facef",
+      "speaker": "ニナ",
+      "ja": "今日からあなたは、『ニナ2号』ね",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "6af6ac48",
+      "speaker": "人形",
+      "ja": "今日からあなたは、『ニナ2号』ね",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "4b2df111",
+      "speaker": "ニナ",
+      "ja": "ふふっ、かわいい♥",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "f50ab200",
+      "speaker": "",
+      "ja": "ニナは人形を抱きしめたまま、満足そうに微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "1b1b84e5",
+      "speaker": "",
+      "ja": "その表情は、先程までのミステリアスな雰囲気とは打って変わり、年相応の少女のように無邪気だった。",
+      "zh": ""
+    }
+  ]
+}
