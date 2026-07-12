@@ -1,0 +1,949 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "8e4a4a0a",
+      "speaker": "ジュリア",
+      "ja": "はぁ……はぁ……あ、あの……そろそろ帰りますね……",
+      "zh": "哈啊……哈啊……那、那个……我差不多该回去了……"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a8970c91",
+      "speaker": "",
+      "ja": "二度も{G_PlayerName}を射精させたジュリアは、これで終わりだと思いそう切り出す。",
+      "zh": "让{G_PlayerName}射了两次后，朱莉亚觉得事情到此为止，便开口道。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "55f0ed3f",
+      "speaker": "",
+      "ja": "でも{G_PlayerName}はそんなジュリアを引き留めた。",
+      "zh": "但{G_PlayerName}却挽留了这样的朱莉亚。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "75a2008c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　俺、本番までのお金をリフルに……",
+      "zh": "诶！？我给莉芙尔的钱是包括本番的啊……"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "beb9c31e",
+      "speaker": "",
+      "ja": "言葉を濁しつつも{G_PlayerName}はジュリアに、まだ続きがある事を告げる。",
+      "zh": "{G_PlayerName}含糊其辞地告诉朱莉亚，这事还没完。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "1ef7549d",
+      "speaker": "",
+      "ja": "するとジュリアは顔を真っ赤にさせて慌てだした。",
+      "zh": "朱莉亚一听，顿时满脸通红，慌了手脚。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "4072b744",
+      "speaker": "ジュリア",
+      "ja": "わ、私聞いていないですけど！？",
+      "zh": "我、我可没听说啊！？"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "d9a6bedf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ～～……そういうプレイなんだな？　了解了解",
+      "zh": "啊～～……原来是这种玩法啊？懂了懂了。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "e2883500",
+      "speaker": "",
+      "ja": "{G_PlayerName}は何かを勘違いしているようで、こほんと咳払いして演技がかった声をあげる。",
+      "zh": "{G_PlayerName}似乎误会了什么，干咳一声，用装腔作势的语调说道。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "cc7cfb91",
+      "speaker": "{G_PlayerName}",
+      "ja": "イったらあと３日またサービス続けて貰うから、帰りたかったら我慢するんだな！",
+      "zh": "你要是能忍住，我就再续三天的服务。想回家的话就给我忍着！"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "1f8e72d8",
+      "speaker": "ジュリア",
+      "ja": "えっ？　なに？　き、機械士さんっ！？",
+      "zh": "诶？什么？机、机械师先生！？"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "e829a71f",
+      "speaker": "ジュリア",
+      "ja": "これでいいんですか？　あの、もうそろそろ私帰らないと……",
+      "zh": "这样就行了吗？那个，我差不多该回去了……"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "79625d23",
+      "speaker": "",
+      "ja": "{G_PlayerName}に言われてエッチなポーズをしながら、ジュリアは恥ずかしさに顔を真っ赤にさせて困惑していた。",
+      "zh": "朱莉亚按照{G_PlayerName}的指示摆出下流的姿势，脸羞得通红，不知所措。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "317819a9",
+      "speaker": "",
+      "ja": "そんなジュリアを見て{G_PlayerName}の加虐心は更にくすぐられてしまう。",
+      "zh": "看到朱莉亚这般模样，{G_PlayerName}的施虐心愈发被勾起。"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "fbb47e4f",
+      "speaker": "{G_PlayerName}",
+      "ja": "イくの我慢出来たらすぐ帰れるから、こっちもお金払っているんだから、ちゃんとサービスして貰わないと困るよ",
+      "zh": "能忍住的话马上就能回去。毕竟我也花了钱，不好好服务可不行哦。"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "bb87b810",
+      "speaker": "",
+      "ja": "帰りたがっているジュリアにそんな言いがかりをつけてとどめる。",
+      "zh": "对一心想回去的朱莉亚，他抛出这种歪理，硬是留住了她。"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "15b3d32",
+      "speaker": "ジュリア",
+      "ja": "（お金をいただいているとなると……私が我慢すればいいだけだよね……。）",
+      "zh": "（既然收了钱……那我只要忍住就是了……）"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "62068f5c",
+      "speaker": "",
+      "ja": "ジュリアは困惑しつつもそう自分に言い聞かせて{G_PlayerName}の言う通りにすることに決めた。",
+      "zh": "朱莉亚虽然困惑，但还是这样说服自己，决定听从{G_PlayerName}。"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "26ea2f1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ……",
+      "zh": "那么……"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "ecff727b",
+      "speaker": "",
+      "ja": "覚悟を決めたジュリアに{G_PlayerName}はそそり立った肉棒をズブズブと挿入していく。",
+      "zh": "朱莉亚下定了决心，{G_PlayerName}便将那根勃起的肉棒缓缓插入。"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "2aa25667",
+      "speaker": "ジュリア",
+      "ja": "んっ、んんんっ♥　んふぅぅ♥　あっ、あうぅ♥　んくぅぅぅ♥",
+      "zh": "嗯…嗯嗯嗯♥ 嗯呼呼♥ 啊、啊啊♥ 嗯咕呜呜♥"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "80d7e1fa",
+      "speaker": "",
+      "ja": "小さなおまんこを押し広げながら勃起したおちんちんが奥まで入り込んでいくと、ジュリアの口から甘い声が漏れ出た。",
+      "zh": "勃起的肉棒撑开那小小的蜜穴，缓缓顶到深处，朱莉亚口中便漏出了甜美的娇吟。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "119bb249",
+      "speaker": "",
+      "ja": "同時に肉棒をくわえ込んだ膣全体がびゅくびゅくと波打ちながら吸いついてくる。",
+      "zh": "同时，整条蜜穴紧紧含住肉棒，一波波地痉挛蠕动，死命吸吮。"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "b343658b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ジュリアのおまんこ、狭くて強く締まって……き、気持ちいい……",
+      "zh": "啊啊……朱莉亚的小穴又窄又紧，夹得我好舒服……"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "e5e58e56",
+      "speaker": "",
+      "ja": "{G_PlayerName}は気持ちよさに打ち震えながらすぐさま腰を振り始めた。",
+      "zh": "{G_PlayerName}爽得浑身发抖，立刻开始挺动腰身。"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "9fbd5e2",
+      "speaker": "ジュリア",
+      "ja": "あっ♥　ああっ♥　そんなっ……ずんずんしちゃ♥　あふぅ♥　おっ♥　んほぉぉ♥",
+      "zh": "啊♥ 嗯啊啊♥ 不要……这样一直顶的话♥ 啊呜♥ 哦♥ 嗯哦哦♥"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "e82f612c",
+      "speaker": "",
+      "ja": "膣の奥を強く突き上げられるとジュリアの体に電気が走ったような快感が駆け巡る。",
+      "zh": "花心被狠狠一撞，朱莉亚全身像有电流窜过，快感瞬间蔓延开来。"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "b25b7b2a",
+      "speaker": "",
+      "ja": "そして突き上げられる度におまんこは熱くなってネットリと濡れていった。",
+      "zh": "随着每一次抽插，小穴越来越烫，湿得一塌糊涂。"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "ff69d255",
+      "speaker": "ジュリア",
+      "ja": "（あぁぁ、帰るためにはおまた気持ちよくなっちゃだめぇ……前みたいな気持ちいいのになっちゃだめ……っ！）",
+      "zh": "（啊啊……不行，为了回去，不能觉得下面舒服……不能像上次那样又变得舒服起来……！）"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "b9d3ec16",
+      "speaker": "",
+      "ja": "ジュリアは必死に湧き上がる快感を抑えようとするが、{G_PlayerName}は容赦なく濡れてきたおまんこを深く貫いていく。",
+      "zh": "朱莉亚拼命想压下这股涌上来的快感，可{G_PlayerName}毫不留情，一下下深深插进湿滑的小穴。"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "26546b27",
+      "speaker": "{G_PlayerName}",
+      "ja": "イけっ！　イけっ！　あと３日ママでいてくれ！",
+      "zh": "高潮！高潮！再当三天妈妈给我看！"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "b003e86e",
+      "speaker": "ジュリア",
+      "ja": "や、やだぁっ……！",
+      "zh": "不、不要……！"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "6ff3c2bb",
+      "speaker": "",
+      "ja": "あまりにも気持ちの悪い{G_PlayerName}の言葉に、ジュリアの口からはついつい本音が出てしまった。",
+      "zh": "{G_PlayerName}这话太恶心了，朱莉亚一不小心就说出了真心话。"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "470b6225",
+      "speaker": "",
+      "ja": "しかしその言葉が{G_PlayerName}に火を付けたのか、意地でもイかせようと腰の動きを激しくさせていく。",
+      "zh": "可这句话反而点燃了{G_PlayerName}的欲火，他发了狠地挺腰，非要让她高潮不可。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "35c3d1b4",
+      "speaker": "ジュリア",
+      "ja": "ひっ、んんんっ♥　奥に当たるぅ♥　こ、こんなっ……激しすぎますぅ♥　んっ、はあぁぁ♥",
+      "zh": "噫嗯♥ 嗯嗯嗯♥ 顶到最里面了♥ 这、这样……太激烈了啦♥ 嗯…哈啊啊♥"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "68750315",
+      "speaker": "",
+      "ja": "あまりにも強い抽送に快感がどんどん大きくなった。",
+      "zh": "猛烈的抽插让快感变得越来越强烈。"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "10014f7a",
+      "speaker": "",
+      "ja": "おまんこはすっかりぐちゅぐちゅに濡れてしまい、{G_PlayerName}の腰が突き出される度にいやらしい水音が鳴る。",
+      "zh": "蜜穴早已泥泞不堪，{G_PlayerName}每次挺进都会响起咕啾咕啾的淫荡水声。"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "70a19d27",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなにおまんこぐちゅぐちゅにしてるんだから！　イけ！",
+      "zh": "你看你小穴都湿成这样了！快高潮！"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "c4deb8b9",
+      "speaker": "ジュリア",
+      "ja": "い、いやですぅ♥　イかないですぅ♥　んんんっ♥　ひっ、あううぅっ♥",
+      "zh": "不、不要嘛♥ 不能去啦♥ 嗯嗯嗯♥ 噫…啊嗯嗯♥"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "9b797f75",
+      "speaker": "",
+      "ja": "必死に快感を堪えようとするが、膣奥を強く何度も叩かれると、たまらず喘ぎ声が漏れた。",
+      "zh": "尽管拼命忍住快感，可花心被一次次狠狠撞击，还是忍不住泄出了娇喘。"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "8f0b7eec",
+      "speaker": "",
+      "ja": "そんなジュリアをイかせるために{G_PlayerName}は激しい抽送を繰り返す。",
+      "zh": "为了让那样的朱莉亚高潮，{G_PlayerName}不断猛烈抽送。"
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "14bb5c47",
+      "speaker": "ジュリア",
+      "ja": "んくぅぅぅっ！♥　んっ、むぅぅっ！♥　うふぅ！♥　おっ、ふぅぅ！♥",
+      "zh": "嗯、咕呜呜呜！♥　嗯、呣呜呜！♥　呜呼！♥　哦、呼呼！♥"
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "a1292239",
+      "speaker": "ジュリア",
+      "ja": "（だめぇ♥　もうイっちゃいますぅ♥　おまんこ気持ちよくて♥　３日間ママにされちゃうぅ♥）",
+      "zh": "（不行了♥　已经要去了♥　小穴好舒服♥　要当三天妈妈了♥）"
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "e53b559f",
+      "speaker": "",
+      "ja": "絶頂が近づいてきていることにジュリアの体がわなないた。",
+      "zh": "高潮快要来临，朱莉亚身体颤抖不已。"
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "a4e67cea",
+      "speaker": "",
+      "ja": "その瞬間{G_PlayerName}のおちんちんが膣内でびっくんびっくんと上下に跳ねる。",
+      "zh": "就在那时，{G_PlayerName}的肉棒在她体内上下弹跳。"
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "77012dff",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅっ……出すぞっ……おまんこの奥に出すぞ……",
+      "zh": "唔唔唔……要射了……射进小穴最里面！……"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "204f6b12",
+      "speaker": "",
+      "ja": "込み上げてくる感覚が強まり今にも射精しそうになった{G_PlayerName}はラストスパートをかけるようにピストンを激しくさせていった。",
+      "zh": "射精感越来越强烈，{G_PlayerName}快要忍不住了，于是开始最后的猛力冲刺。"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "6cbef267",
+      "speaker": "",
+      "ja": "その強い突き上げにジュリアも一気に登り詰めていく。",
+      "zh": "在猛烈的冲击下，朱莉亚也一下子攀上了顶峰。"
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "ed8f425d",
+      "speaker": "ジュリア",
+      "ja": "くううぅぅっ！♥　んくうぅぅ！♥　だめっ……も、もう……うっ、んんんんんっ！♥",
+      "zh": "呜、呜呜呜！♥　嗯、呜呜呜！♥　不行了……已经……唔、嗯嗯嗯嗯嗯！♥"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "6572e569",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ……で、出る……っ！",
+      "zh": "唔嗯……射、要射了……！"
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "1422025b",
+      "speaker": "",
+      "ja": "限界に達した{G_PlayerName}は大きく腰を突き出すとジュリアの膣奥に勢いよく熱い精をほとばしらせた。",
+      "zh": "到达极限的{G_PlayerName}猛地一挺身，将滚烫的精液狠狠射进了朱莉亚的最深处。"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "a4f8b43",
+      "speaker": "ジュリア",
+      "ja": "んっ♥　ぅんんんんっ♥",
+      "zh": "嗯♥　嗯呜呜呜♥"
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "2e009d97",
+      "speaker": "",
+      "ja": "どぴゅどぴゅとおまんこの奥に射精されたジュリアはギュッと目を閉じて絶頂を堪えようとするが、体の方はどうにもできず甘イきしてしまう。",
+      "zh": "噗呲噗呲地被内射在阴道深处，朱莉亚紧闭双眼想忍住高潮，可身体却不由自主地轻轻泄了。"
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "2ce922ac",
+      "speaker": "",
+      "ja": "その瞬間、射精しているおちんちんを搾るかのように膣がきゅうっと締まった。",
+      "zh": "就在那一刻，阴道紧紧一缩，仿佛要榨干正在射精的肉棒一样。"
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "722b8609",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー？　この締まり……イっていないか？　気のせいか……？",
+      "zh": "嗯？这收缩……是高潮了吗？还是我的错觉……？"
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "353d9f4",
+      "speaker": "",
+      "ja": "探るような声をかけられジュリアは快感に打ち震えながら、イったのがバレるんじゃないかとドキドキしてしまう。",
+      "zh": "被这么一问，正沉浸在高潮余韵中的朱莉亚心头一颤，生怕自己的高潮被人发现了。"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "62c554d7",
+      "speaker": "",
+      "ja": "すると膣が更に収縮して{G_PlayerName}の陰茎に強く吸いついていった。",
+      "zh": "阴道随之更加收紧，紧紧吸附住{G_PlayerName}的肉棒。"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "742a3292",
+      "speaker": "{G_PlayerName}",
+      "ja": "おぉっ！　気持ちっ……！　なんだこれぇ！",
+      "zh": "哦哦！爽……！这是什么感觉！"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "15bbaa66",
+      "speaker": "",
+      "ja": "あまりも強い締め付けに{G_PlayerName}は驚嘆の声を上げる。",
+      "zh": "如此强烈的紧夹感，让{G_PlayerName}不禁惊叹出声。"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "10e38f1",
+      "speaker": "",
+      "ja": "同時に興奮が一気に高まり、射精した肉棒は萎えることなくいきり立った。",
+      "zh": "兴奋感瞬间飙升，刚射精的肉棒非但没软，反而更加昂扬挺立。"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "6c1e8aaa",
+      "speaker": "ジュリア",
+      "ja": "な、なんで？！　おちんちん固いまんまでっ……んっ、ああああっ♥",
+      "zh": "诶、怎么回事？！ 明明还这么硬……嗯啊、啊啊啊！♥"
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "f147a4f7",
+      "speaker": "",
+      "ja": "脈打ちながら膣内で強く跳ねる肉棒の刺激にジュリアはたまらず声を上げてしまう。",
+      "zh": "肉棒在阴道内猛烈跳动，刺激得朱莉亚不由自主地叫出声来。"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "93ecd211",
+      "speaker": "",
+      "ja": "そんなジュリアの淫らな声に更に興奮を煽られた{G_PlayerName}はまた激しく腰を振り始めた。",
+      "zh": "朱莉亚那淫荡的叫声让{G_PlayerName}更加兴奋，又猛烈地挺动起腰来。"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "c278dd59",
+      "speaker": "{G_PlayerName}",
+      "ja": "あーっ、気持ちいいっ！　バニージュリア最高っ！　ずっとここにいよう！",
+      "zh": "啊——好舒服！ 兔女郎朱莉亚最棒了！ 真想一直待在这儿！"
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "b1d7aeed",
+      "speaker": "",
+      "ja": "興奮しすぎて訳のわからないことを口走りつつ{G_PlayerName}はジュリアの小さな体を激しく突き上げる。",
+      "zh": "兴奋得胡言乱语的{G_PlayerName}，猛烈地向上顶弄朱莉亚娇小的身体。"
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "3939ce8e",
+      "speaker": "",
+      "ja": "その度にジュリアの腰がびくびくっと小さく跳ねて出入りする{G_PlayerName}のおちんちんに強く吸いついた。",
+      "zh": "每顶一下，朱莉亚的腰都猛地一颤，紧紧吸住正在进出的{G_PlayerName}的小鸡鸡。"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "42e58348",
+      "speaker": "ジュリア",
+      "ja": "だめぇ♥　だめぇぇ♥　おまんこの奥とんとんしちゃだめぇ♥　おっ♥　おふうぅぅ♥",
+      "zh": "不、不行……♥ 不要一直戳小穴最里面啊……♥ 哦……♡ 呜嗯嗯……♥"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "786ea212",
+      "speaker": "",
+      "ja": "陰茎に絡みつく濡れた襞を掻き分けながら肉棒が抽送を繰り返すとジュリアは堪えきれず大きな声で喘ぐ。",
+      "zh": "肉棒拨开缠在阴茎上的湿滑嫩肉，反复抽送，朱莉亚再也忍不住，大声娇喘起来。"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "dcc8ce5",
+      "speaker": "",
+      "ja": "その声に煽られたのか{G_PlayerName}の腰の動きが更に激しさを増していき、強く子宮を押し上げた。",
+      "zh": "被那叫声刺激得，{G_PlayerName}的腰部动作越发猛烈，狠狠顶向子宫口。"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "91413457",
+      "speaker": "ジュリア",
+      "ja": "ひゃうううっ！♥",
+      "zh": "呀啊啊啊！♥"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "79e51683",
+      "speaker": "",
+      "ja": "あまりにも強い突き上げにジュリアは容易く絶頂に達してしまう。",
+      "zh": "过于强烈的顶弄，让朱莉亚轻易地达到了高潮。"
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "d658dc22",
+      "speaker": "",
+      "ja": "しかしそれでも{G_PlayerName}のピストンは止まらず、それどころか加速していった。",
+      "zh": "然而{G_PlayerName}的抽送毫不停歇，甚至越来越快。"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "b1a30f41",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう少しでまた出るからなっ！　フンッ！　フンッ！",
+      "zh": "马上又要射了哦！ 嗯！ 嗯！"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "725009c2",
+      "speaker": "ジュリア",
+      "ja": "も、もうおまんこいじめないでぇ！♥　んはああぁぁあっ！",
+      "zh": "别、别欺负小穴了……！♥ 嗯啊……啊啊啊！"
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "4d2aea2a",
+      "speaker": "",
+      "ja": "激しい抽送に露骨にイってしまったジュリアを見て{G_PlayerName}はおまんこを貫きながら詰問する。",
+      "zh": "见朱莉亚在激烈的抽送中明显高潮了，{G_PlayerName}一边继续贯穿她的小穴一边质问。"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "37bede83",
+      "speaker": "{G_PlayerName}",
+      "ja": "今イったな！　イったよな！",
+      "zh": "刚才高潮了吧！ 是高潮了吧！"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "d1403b5c",
+      "speaker": "",
+      "ja": "あまりの迫力で迫られもう誤魔化せないと思ったのかジュリアは素直にイってしまったことを認めた。",
+      "zh": "或许是迫于那股不容分说的气势，知道蒙混不过去了，朱莉亚坦率承认自己去了。"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "d6954019",
+      "speaker": "ジュリア",
+      "ja": "イ、イきましたぁっ♥　ごめんなしゃいぃ♥　勝手におまんこイってごめんなさぁいぃ♥",
+      "zh": "去、去了……♥ 对不起……♥ 擅自用小穴高潮了，对不起……♥"
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "345bfe1e",
+      "speaker": "",
+      "ja": "すっかりマゾの顔をしてジュリアは絶頂を認めて謝りまくる。",
+      "zh": "朱莉亚完全露出一副受虐狂的表情，承认自己高潮并连连道歉。"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "c6bf765c",
+      "speaker": "",
+      "ja": "その姿に激しく興奮した{G_PlayerName}は息を荒げながら何度も腰を突き出して、おまんこの奥を容赦なく叩いた。",
+      "zh": "她那副模样让{G_PlayerName}极度兴奋，喘着粗气，一次又一次地挺腰，毫不留情地撞击着小穴的最深处。"
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "c2e7585",
+      "speaker": "ジュリア",
+      "ja": "あひいぃっ♥　イくぅ♥　イくイくぅぅ♥　いっぱいイってごめんなさぁいっ♥",
+      "zh": "嗯啊嗯嗯♥ 去了♥ 去了去了呜♥ 一直高潮对不起啦♥"
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "8ea888bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "だめだ、許さないぞっ！　イったんだから、あと３日間ここで過ごすんだっ！　その間ママとしていっぱい甘えさせろーっ！",
+      "zh": "不行，我不会放过你的！既然已经去了，那接下来三天就待在这里！这段时间，就让我这个妈妈好好宠宠你吧！"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "2baabb4",
+      "speaker": "ジュリア",
+      "ja": "んはぁぁっ♥　らめえぇ♥　３日なんて体がもたないでしゅうぅ♥",
+      "zh": "嗯啊啊♥ 不要啦♥ 三天的话，身体会撑不住的啦♥"
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "5b7b0b3f",
+      "speaker": "",
+      "ja": "そう訴えても{G_PlayerName}は容赦なくズンズンとジュリアを突き上げまくる。",
+      "zh": "即便她这么求饶，{G_PlayerName}还是毫不留情地一下一下猛顶朱莉亚。"
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "1c8be38c",
+      "speaker": "",
+      "ja": "その度にジュリアは何度も何度もイきまくり、膣からは大量の愛液が溢れて糸を引いて滴り落ちていった。",
+      "zh": "每顶一下，朱莉亚就高潮不断，阴道里溢出大量爱液，拉成黏丝往下滴。"
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "9b22f5bf",
+      "speaker": "ジュリア",
+      "ja": "んほぉぉっ♥　お、おまんこいじめられちゃうぅ♥　３日もおまんこいじめないでぇ♥",
+      "zh": "嗯……哦哦♥ 小、小穴被欺负了啦♥ 不要连着欺负小穴三天嘛♥"
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "dfcd748e",
+      "speaker": "",
+      "ja": "そう言いつつも３日も{G_PlayerName}に責められ、ママになって甘えさせると思うと、彼女の背筋にぞくぞくする快感が走る。",
+      "zh": "嘴上这么说，可一想到要被{G_PlayerName}连续玩弄三天，还要当妈妈宠他，她的脊背就窜过一阵酥麻的快感。"
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "f8f02156",
+      "speaker": "",
+      "ja": "その瞬間出入りする{G_PlayerName}の肉棒をジュリアのおまんこが強く締め付けた。",
+      "zh": "就在这一瞬间，朱莉亚的小穴紧紧吸住了{G_PlayerName}进出的肉棒。"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "f22d950",
+      "speaker": "",
+      "ja": "途端にピストンしていたおちんちんが膣内で大きく跳ねて脈打つ。",
+      "zh": "紧接着，正在抽插的肉棒在她阴道里猛地一跳，剧烈地搏动起来。"
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "1ca3a036",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅ……ま、また出るっ……んんんんっ！",
+      "zh": "呜……又、又要射了……嗯嗯嗯嗯！"
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "345a634a",
+      "speaker": "",
+      "ja": "そう言うと{G_PlayerName}は大きく腰を突き出してジュリアの小さなおまんこの奥までおちんちんを突っ込むと込み上げてきた精液を一気に発射した。",
+      "zh": "说完，{G_PlayerName}猛地挺起腰，将肉棒深深顶进朱莉亚紧窄的小穴最深处，把涌上来的精液一口气全射了出来。"
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "81dadd6d",
+      "speaker": "ジュリア",
+      "ja": "んはあああぁっ♥　イっ、イっくぅぅぅぅぅぅ♥",
+      "zh": "嗯啊啊啊♥ 要、要去了——呜呜呜呜呜♥"
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "9dba5cce",
+      "speaker": "",
+      "ja": "多量の中出しにジュリアは派手にイってしまう。",
+      "zh": "被这么大量的内射，朱莉亚激烈地高潮了。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "fb91fce0",
+      "speaker": "",
+      "ja": "そんなジュリアの中に{G_PlayerName}は全ての精液を注ぎ込むと、ゆっくりと陰茎を引き抜いた。",
+      "zh": "在朱莉亚还在颤抖不止的时候，{G_PlayerName}将精液全部注入，然后缓缓拔出了阴茎。"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "7d862635",
+      "speaker": "",
+      "ja": "ぽっかりと開いたジュリアのおまんこから、{G_PlayerName}が出した白濁液がどろりと溢れ糸を引いて滴る。",
+      "zh": "朱莉亚的小穴微微张开，{G_PlayerName}射出的白浊精液黏稠地溢出来，拉成细丝往下滴。"
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "c4317e18",
+      "speaker": "",
+      "ja": "ジュリアはというと、息を荒げながらすっかり呆けた表情を浮かべていた。",
+      "zh": "再看朱莉亚，她喘息急促，一脸彻底恍惚失神的表情。"
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "58661cf1",
+      "speaker": "ジュリア",
+      "ja": "へっ♥　……へっ♥　……へへっ♥",
+      "zh": "嘻♥ ……嘻♥ ……嘻嘻♥"
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "7bb4139b",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそんなジュリアの姿を見て呟く。",
+      "zh": "{G_PlayerName}看到朱莉亚这副模样，不禁低吟了一声。"
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "6adde242",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅぅ……いつもは雫たちの尻に敷かれているから、たまにはこうやって思いっきり甘えたりストレス発散するのもいいなぁ",
+      "zh": "呼……平时总是被雫她们压得死死的，偶尔像这样尽情撒娇、发泄压力也挺好的啊。"
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "e4fafe29",
+      "speaker": "ジュリア",
+      "ja": "あひっ♥　ふっ♥　はふぅ♥　はぁ♥　はぁぁっ♥",
+      "zh": "啊呜♥ 呼♥ 哈噢♥ 哈♥ 哈啊……♥"
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "5f68b776",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉を聞きながらジュリアはだらしのない笑みを浮かべ、足をぷるぷると震わせていた。",
+      "zh": "一边听着{G_PlayerName}的话，朱莉亚一边露出散漫的笑容，脚丫还噗噜噗噜地抖着。"
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "e0f5267a",
+      "speaker": "",
+      "ja": "その振動でおまんこからは精液がとろとろとこぼれ落ち続けている。",
+      "zh": "随着振动，黏稠的精液还在从小穴里滴滴答答地不停淌下。"
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "6e978028",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジュリア、あと３日よろしくな",
+      "zh": "朱莉亚，就剩3天了，好好表现哦。"
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "e265e0a8",
+      "speaker": "ジュリア",
+      "ja": "は、はひっ……♥",
+      "zh": "啊、哈啊……♥"
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "9992efc0",
+      "speaker": "",
+      "ja": "{G_PlayerName}から最悪の宣言を受けたにも関わらず、ジュリアは完全に堕ちてしまっていていいなりになっていた。",
+      "zh": "尽管被{G_PlayerName}下达了最过分的命令，朱莉亚却已彻底沦陷，变得百依百顺了。"
+    }
+  ]
+}
