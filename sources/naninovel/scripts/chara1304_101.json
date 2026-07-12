@@ -1,0 +1,472 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "5ffab4f3",
+      "speaker": "アレステラ",
+      "ja": "機械士殿、丁度いいところに……少々お願いしたいことがあるのだが",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "ecc7cec0",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　手伝えることがあったら何でも言ってくれ",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "52bb9fe5",
+      "speaker": "",
+      "ja": "部屋を出ると、タイミングよくアレステラに話しかけられる。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "9f987f70",
+      "speaker": "アレステラ",
+      "ja": "グリム殿が過ごされる船内の安全を確認しておきたい。案内してもらえないだろうか",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "cc8873dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのくらいお安い御用だけど、俺専門的なこととか全然わからないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "8c349bb0",
+      "speaker": "アレステラ",
+      "ja": "いや、構わない。宇宙船のデータは確認済みだ。私が知りたいのはデータに無いこと……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "3cc5e0f",
+      "speaker": "アレステラ",
+      "ja": "現在のメンテナンス状況や、利用者目線の利便性などだ。実際に宇宙船で暮らしている、機械士殿の意見も聞きながら見て回りたいのだ",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "9a460933",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……わかったよ。じゃあとりあえず見て回ろっか",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "9525c1d7",
+      "speaker": "アレステラ",
+      "ja": "ふむ……旧型ではあるがメンテナンスは行き届いているようだな",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "ed92bf0d",
+      "speaker": "{G_PlayerName}",
+      "ja": " その辺は俺が保証するよ。と言っても、俺の保証なんてあてにならないと思うけどさ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "eea80800",
+      "speaker": "アレステラ",
+      "ja": "いや、そんなことはないぞ。実際に生活している人間の意見は貴重だからな。これならグリム殿にも不便をかけることもあるまい",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "17a03aca",
+      "speaker": "アポロ",
+      "ja": "当然です。船内環境を維持するのが管制AIであるワタシの基本機能ですから",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9cde6e40",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ、アポロ？　急に出てくるなよ……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "583107ab",
+      "speaker": "アレステラ",
+      "ja": "貴殿が管制AIか……名前は確か……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e1810bfb",
+      "speaker": "アポロ",
+      "ja": "超高性能AI、アポロです。以後お見知りおきを",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "1a6c4bdf",
+      "speaker": "アレステラ",
+      "ja": "よろしく頼む。私は──",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "9e70403",
+      "speaker": "アポロ",
+      "ja": "存じておりますよ。グリム様が乗られている宇宙船の軍用AI、アレステラさん。よろしくお願いいたします",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "593f4cdc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アポロ、やけに攻撃的だな……アレステラを警戒してるのか、嫉妬してるのか……）",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "562ce7f8",
+      "speaker": "アポロ",
+      "ja": "最新鋭の戦闘用AIが、娯楽用の宇宙船を見ても仕方がないのでは？",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "8aa0157",
+      "speaker": "アレステラ",
+      "ja": "いや、そんなことは無い。プライマリーユーザーがグリム様になってからは、私の至らない点に気がつくようになってな……",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "1a296cf8",
+      "speaker": "アレステラ",
+      "ja": "むしろ、この船には学ぶところが多く感じられる",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "d5b4e9a3",
+      "speaker": "アポロ",
+      "ja": "と、当然です。ワタシはどれだけ乗客が快適になれるかを追求した機体なのですから",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "7066a3e7",
+      "speaker": "アポロ",
+      "ja": "まぁ、戦闘用AIには理解できない部分もあると思いますが……アナタにも伝わるように教えるには、今ワタシは忙しすぎます",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "df1f889b",
+      "speaker": "アレステラ",
+      "ja": "忙しいとはどういうことだ？　ただ航行している間であれば、大した演算処理は無いはずだが……？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "17b1a419",
+      "speaker": "アポロ",
+      "ja": "い、色々とあるのです……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "3beb0615",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ボロが出ないうちに素直に教えればいいのに……）",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "2d2cd84",
+      "speaker": "",
+      "ja": "微妙な距離で睨み合うような構図を見ていると、背筋が寒くなる。",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "8e1b2e83",
+      "speaker": "アレステラ",
+      "ja": "軍用船には無い仕事があるのか？　お聞かせ願えるだろうか",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "8e2c74fc",
+      "speaker": "アポロ",
+      "ja": "そ、それは企業秘密と言いますか……残念ですが、お答えできません",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "4b9ac143",
+      "speaker": "アレステラ",
+      "ja": "む……そうか。非礼だっただろうか？　詫びよう",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "8aebfdff",
+      "speaker": "アポロ",
+      "ja": "そういうわけではございませんが……",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "1bdb58d9",
+      "speaker": "アレステラ",
+      "ja": "であれば良かったのだが。このまま、船の中を確認しても構わないか？",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "aa5afafe",
+      "speaker": "アポロ",
+      "ja": "それは問題ございませんが……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "38ff7f27",
+      "speaker": "アレステラ",
+      "ja": "あと、もし望むのであればリソースの配分などを私が見直すことも出来るが……計算処理などは軍用AIのほうが得意としているだろう？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "24810398",
+      "speaker": "アポロ",
+      "ja": "べ、別に必要ありません……！！",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "aa567881",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいアポロ。ちょっと感じ悪いからもうちょっと素直になったほうがいいぞ",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "681ac624",
+      "speaker": "アポロ",
+      "ja": "で、ですが……軽々しく他AIの手を借りては、ワタシが不完全のようではありませんか",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "1fc55e90",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁアレステラはアポロよりも後に造られたんだろ？　少しくらいは……なあ？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "a4d80b31",
+      "speaker": "アレステラ",
+      "ja": "技術は進歩している上、用途が違うのだから気にせずとも良いだろう",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "21441a47",
+      "speaker": "アレステラ",
+      "ja": "軍用なのだから装備も違うはずだ。つい先日も最新型T-X砲を搭載したところだが、娯楽用宇宙船には必要無いし規格も違うのだから、当然そういった違いは……",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "6815f14",
+      "speaker": "アポロ",
+      "ja": "（な、なんですか、その装備は……ワタシにはそんな装備など……）",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "edc6cfc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、アポロ……？",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "70eb438d",
+      "speaker": "アレステラ",
+      "ja": "ん……？　どうしたのだ？　何か異変でも……？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "690da0cf",
+      "speaker": "アポロ",
+      "ja": "な、何でも、ありません……",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "c43eecde",
+      "speaker": "アポロ",
+      "ja": "で……ですが、ワタシには今日までマスターを、搭乗する方々を守るために幾度となく難関を切り抜けてきた経験があります……！　このログから得た学習は、ワタシの誇りです",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "cdf990ae",
+      "speaker": "アレステラ",
+      "ja": "確かに、航行距離は貴殿のほうが長そうだ。私はあまり長距離航行するには面倒な許可も必要だからな",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "8e1e1c51",
+      "speaker": "アポロ",
+      "ja": "そ……そうでしょう？　つまり、ワタシはあなたにとっての先駆者……つまり先輩なのですから、敬ってもいいのですよ？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "1f18d5dd",
+      "speaker": "アレステラ",
+      "ja": "ふふ、そうだな。何か不具合が起きた時には頼らせてもらうとしよう",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "2153851f",
+      "speaker": "アポロ",
+      "ja": "不具合が起きた時では遅いですよ。事前に対策できないようではダメです。幾つかデータをお渡ししますから、今後のためにお役立てください",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "a91e636",
+      "speaker": "アレステラ",
+      "ja": "それは助かる。宇宙を旅してきた生のデータ……ふふ、知るだけでも価値が大いにありそうだ",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "a919a1cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、あれ……？　いつの間にかいい感じになった……？　ま、まぁヘンに言い争うよりはいっか）",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "88015165",
+      "speaker": "",
+      "ja": "そのような調子で二人の話は弾み、いつの間にか俺は蚊帳の外へと追いやられてしまっているのであった。",
+      "zh": ""
+    }
+  ]
+}
