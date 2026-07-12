@@ -1,0 +1,409 @@
+{
+  "lines": [
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "6ee12431",
+      "speaker": "ティティア",
+      "ja": "んしょ、んしょ……お、重い～……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "5c18dfef",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ……ティティアか、どこに向かってるんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "103007c",
+      "speaker": "",
+      "ja": "身体の半分はありそうな懐中時計を一生懸命に運んでいるティティア。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "a1bf1c02",
+      "speaker": "",
+      "ja": "手伝おうと一瞬思ったが、ふと頭の中に一つの疑問が浮かんでしまい声を掛けるのをやめてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "d6425f86",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いっつも時計を運んであっちこっち移動しているんだよな……それでいつの間にか消えていて……一体何してるんだろう……）",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "ec99d2fe",
+      "speaker": "ティティア",
+      "ja": "ひぃ、ひぃ……どうしてこんなに大きいのかなぁ～……もっと小さければいいのに……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "f75f577",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それはごもっともな意見だな……どう見てもティティアには大きすぎる時計だ……。そもそも時計ってもっと小さいモノだと思うんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "f1911722",
+      "speaker": "ティティア",
+      "ja": "ああ、時間が……！　急がなきゃ……！！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "eb3149d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（時間……？　一体何を急いでるんだろ……気になる……。ちょっと後をつけてみるか……）",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "44a1b9ac",
+      "speaker": "ティティア",
+      "ja": "うんうん、だいじょうぶ……！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "d169fa43",
+      "speaker": "",
+      "ja": "ティティアは時計に耳を当て何かを確認し始める。たまにガシャガシャと揺すったりと、その行動に何の意味があるのか、さっぱりと理解できなかった。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "e83473a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、あの時計一体なんなんだ……？　中の音を確認したってことは何か重要なことなんだよな……？）",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "a29e7aec",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うう……気になるぞ……！！　一体中身に何が……！）",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "7a007f67",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こっ、今度はなんだ……？　突然キョロキョロしだしたぞ……？）",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "173585a0",
+      "speaker": "",
+      "ja": "ティティアが辺りを警戒し始めたので俺は思わず隠れる。どうやら俺の存在には気づいていないようで、ほっと胸を撫でおろす。",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "4bfa3d46",
+      "speaker": "ティティア",
+      "ja": "よし、急ごう……！！",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "3b2c8de7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（また移動するのか……！　こうなったらとことん追いかけてやる。今日こそ何をしているのか解明してやるぞ……ついでに時計の中身も教えてもらう！！）",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "3626c615",
+      "speaker": "ティティア",
+      "ja": "ん～……ん～……んんん～",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "88397203",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだか警戒が強くなったぞ……？　あんなにきょろきょろあっちこっち見ながら歩いたら危ないだろ……）",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "3171b5a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかしリリアンは全体的に小さいけど、ティティアはなんかそれに輪をかけて小さいな……おかげで何度も見失いかけたし……）",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "20916386",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも本当に何が目的なんだ……何で移動しているのかさっぱりだ……）",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "9b56a152",
+      "speaker": "ティティア",
+      "ja": "（お兄さん、さっきから後つけてる……どうしてなのかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "1ff7db2",
+      "speaker": "",
+      "ja": "バレバレの{G_PlayerName}の尾行、さすがに鈍いティティアでもそれに気が付いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "3fc664e6",
+      "speaker": "ティティア",
+      "ja": "（うう……お兄さんの視線がどんどん真剣になって……まっ、まさか……！？）",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "2453ba0e",
+      "speaker": "ティティア",
+      "ja": "（お兄さん、もしかしてティティのことが……！？　それでついてきてるの……！？）",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "9ef9c0b9",
+      "speaker": "ティティア",
+      "ja": "（そういえばリデル様の本で、好きな人を追いかける話があったような……）",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "2916bba9",
+      "speaker": "ティティア",
+      "ja": "（ふえ、ふえええ！？　やっぱり……！　はわわわ、お兄さん、ティティのこと好きなんですかっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "b767e33b",
+      "speaker": "ティティア",
+      "ja": "（ひょえええ……！　お兄さん、そんなに熱い眼差しでティティを見つめないでぇ～～っ！）",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "5f124e9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！！　また……！！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "49530ff5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ここにもいない……くそぉ……また見失ってしまうとは……！！）",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "91b6a5be",
+      "speaker": "",
+      "ja": "ティティアが突然走り出し、俺は完全に彼女を見失ってしまった。あれからあっちこっちを探し回ったが、それでもティティアの影すら見つからず途方に暮れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "7d4b665a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もう諦めるか……それにしても汗かいたな……シャワーでも浴びるか……）",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "ab66eb2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ～……それにしても歩き回るだけで結構汗かくもんだな……",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "3b1c7089",
+      "speaker": "",
+      "ja": "俺は汗で肌に纏わりつくシャツを脱ぐとカゴの中に投げ捨てる。そしてパンツを脱ごうとしたその瞬間──",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "3fc0066c",
+      "speaker": "ティティア",
+      "ja": "──ひゃああぁぁぁぁぁ！？",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "49de29de",
+      "speaker": "{G_PlayerName}",
+      "ja": "わぁあああああっ！？",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "625d75ea",
+      "speaker": "",
+      "ja": "突然脱衣所に甲高い悲鳴が響き、俺は思わず脱ぎ掛けていたパンツを元に戻す。",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "c224f088",
+      "speaker": "ティティア",
+      "ja": "ごめんなさいごめんなさいごめんなさい～～っ！！　迷っちゃって……ティティ何も見ていません、本当ですからぁ～～～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "c9bb17b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ティティアっ！？　いたのか！？　ぜっ、全然気づかなかった……誰もいないの確認したはずなのに……！？",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "4646ee89",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いったい何故……謎が多すぎる……",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "1c57c017",
+      "speaker": "",
+      "ja": "俺はティティアを追うこともできず、その場に茫然と立ち尽くしていた。",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "d2add820",
+      "speaker": "ティティア",
+      "ja": "（時間を止めてフラフラしてたら、間違えてお風呂に……お兄さんの裸、見ちゃったよぉ～っ！　はわわわわわわっ！！）",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "b3251af4",
+      "speaker": "ティティア",
+      "ja": "（す、すごく逞しい身体で大きくて……うう、あんな身体に抱きしめられたら……♥　はううううう……♥）",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "f76a6716",
+      "speaker": "",
+      "ja": "私は恥ずかしさのあまり、逃げるように脱衣所を出た。",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "7d92981a",
+      "speaker": "",
+      "ja": "頭に浮かぶのはお兄さんの逞しい身体、それにドキドキしながら一直線に自分の部屋に逃げ込むのであった。",
+      "zh": ""
+    }
+  ]
+}
