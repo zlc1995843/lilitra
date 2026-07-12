@@ -1,0 +1,1435 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "75f4c37f",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそっ……やっぱり難しいな",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "2092d5b8",
+      "speaker": "",
+      "ja": "あれから再びリフルのカジノ、ゴージャスベイに来た{G_PlayerName}。チップが無くなったのを察したのかリフルが近づいてくる。",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "610607e8",
+      "speaker": "リフル",
+      "ja": "負け犬さんにはこれ以上の勝負は難しいでしょうか？　くすくす♥",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "7a42d203",
+      "speaker": "{G_PlayerName}",
+      "ja": "負けっ……これ以上続けるとなると、ルミナ達に迷惑かけないといけないしな……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "6a23936e",
+      "speaker": "",
+      "ja": "賭けを続けさせるため、わざと煽っているのだろう。リフルの言葉には乗らず、冷静なフリをする。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "88f41448",
+      "speaker": "リフル",
+      "ja": "それでは嫌でも賭けさせてあげます♥　この試作『賭け賭けマシーンくん』でねっ！",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "b31063f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "またそれか……大丈夫なのか？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "ce117154",
+      "speaker": "リフル",
+      "ja": "この『賭け賭けマシーンくん』は、対象の相手を強制的に卓に座らせて行動を制限することが出来るんです！　すごいでしょ？♥",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "30eaf275",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごいというか……何というか……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "e41e11b6",
+      "speaker": "",
+      "ja": "リフルは前に起こした騒動のことなど忘れてしまったように興奮して新たな試作機を見せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "15be356b",
+      "speaker": "リフル",
+      "ja": "……あれ？　動かない……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "3461ef56",
+      "speaker": "",
+      "ja": "うろたえるリフルを見かねて、機械の様子を確認してみる。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "233e1beb",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして……ここのボタンを押すんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "407ab34d",
+      "speaker": "リフル",
+      "ja": "あっ、どうもです",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "ec5a512f",
+      "speaker": "",
+      "ja": "しかし、起動した『賭け賭けマシーンくん』は俺ではなく、再びリフルを拘束しだした。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "bb66b01a",
+      "speaker": "リフル",
+      "ja": "なっ！？　何をしたのですか！？　まさか、今の一瞬で『賭け賭けマシーンくん』をハックしたのですか？！",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "2d1beea5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんなこと出来るわけないだろ……前と同じ状態なんだから直ってなかったんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "410d7676",
+      "speaker": "",
+      "ja": "『賭け賭けマシーンくん』はリフルを完全に拘束してはいるものの、それ以上何をするでもなく動きを止めている。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "45a0dafb",
+      "speaker": "リフル",
+      "ja": "まったく……お兄さんはわたくしのことをこうやって辱めたいと、いっつも思っていたのですね",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "21ed4d9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "いつもって……会ったばかりだろ。あとよくわからんから助けられんぞ",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "18396246",
+      "speaker": "",
+      "ja": "すると『賭け賭けマシーンくん』が急に動き出して、拘束したリフルを突然くすぐり始めた。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "49cc0c85",
+      "speaker": "リフル",
+      "ja": "んひぃぃぃ！　あははははっ！　な、なんでくすぐるのぉ！　いひひひひぃ！",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "d2056a",
+      "speaker": "",
+      "ja": "想定外の動きに驚きながらも、リフルはくすぐったくて大笑いしている。",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "bbe5b764",
+      "speaker": "リフル",
+      "ja": "ひいっ！　ひいっ！　あははははっ！　あっ、やばっ！　きゃははははっ！　と、止めてっ！　お願いだから止めてぇぇ～！",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "f8324dd6",
+      "speaker": "",
+      "ja": "手が付いたアームはリフルの腋の下や脇腹、それに太ももやお尻や足の裏で小刻みに指を動かしている。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "7a2a919",
+      "speaker": "",
+      "ja": "その刺激にたまらずリフルは身をよじりながら大笑いした。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "1c8d7dd",
+      "speaker": "リフル",
+      "ja": "きゃははははっ！　そこくすぐっちゃっ！　ひいっ！　ひいいっ！　くすぐたいっ！　あははははっ！",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "778e4380",
+      "speaker": "",
+      "ja": "さすがにこのまま放置するのも可哀想なので俺は『賭け賭けマシーンくん』を止める為に調べ始める。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "e8535d38",
+      "speaker": "リフル",
+      "ja": "はははっ！　は、早く止めてぇ！　いひひひひっ！　くすぐったいっ！　あひぃぃぃぃっ！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "228260a",
+      "speaker": "{G_PlayerName}",
+      "ja": "って言っても、さっきのボタンは反応しないし……",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "2bd8ef12",
+      "speaker": "",
+      "ja": "マシーンのアームはリフルをくすぐり続け、そのうちの筆先のようなものが付いている２本のアームが乳首を責め始める。",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "4786a07d",
+      "speaker": "リフル",
+      "ja": "ひゃうううううっ♥　な、なんで乳首ぃぃぃ？！　んひゃああぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "36cd43d5",
+      "speaker": "リフル",
+      "ja": "や、やめてぇぇ♥　くすぐたぁいっ♥　ち、乳首こちょこちょしないでぇ♥　はははははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "21884c6c",
+      "speaker": "",
+      "ja": "リフルは涙を浮かべて笑いつつも、その声は少し喘ぎっぽい声も混ざっているような……",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "b1875c7d",
+      "speaker": "リフル",
+      "ja": "あははははっ♥　は、早くぅ♥　早く止めてぇぇ♥　いひひひひっ♥",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "bbc0151d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう言われても……この機械はよくわからん……",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "c8645726",
+      "speaker": "リフル",
+      "ja": "そ、そんなぁぁ♥　ひいっ♥　いひぃぃ♥　も、もうだめぇ♥　あっ、あははははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "6f5243a1",
+      "speaker": "",
+      "ja": "笑いながらも乳首を筆で弄ばれ、リフルは顔を赤らめながら小さく腰を跳ねさせた。おまんこが濡れてきているのか、ほのかに雌の匂いが漂う。",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "c1752c6f",
+      "speaker": "リフル",
+      "ja": "ひいっ♥　ひいっ♥　ち、乳首だめぇ♥　んんんっ♥　あっ♥　ああああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "bcf961ef",
+      "speaker": "",
+      "ja": "リフルは笑いながらも絶頂に向かっているのか体がビクンビクンと激しく痙攣した。そして限界に達したのか大きく体がのけ反っていく。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "fecf9c84",
+      "speaker": "リフル",
+      "ja": "いくっ♥　乳首いきするぅ♥　んはははは～♥",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "74d275c7",
+      "speaker": "",
+      "ja": "大笑いして涙まで流しながら、リフルは絶頂に達していた。それでも機械は無慈悲にも止まることなくリフルを責め続ける。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "63444b0e",
+      "speaker": "リフル",
+      "ja": "乳首だめだめだめぇええ！　あははっ、ひっ、イってるのにぃ！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "bbc7e514",
+      "speaker": "",
+      "ja": "いくらそう言っても機械が聞く耳を持つわけなく、黙々とそして確実にリフルを責めまくった。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "8ac6d557",
+      "speaker": "リフル",
+      "ja": "ひっ、くるしっ、し、死ぬっ！　機械士さんはやくぅ！",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "d570e610",
+      "speaker": "",
+      "ja": "必死に懇願してくるリフルだが、散々馬鹿にされてカチンときていた俺は、冷たい感じで言い放つ。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "8da5a819",
+      "speaker": "{G_PlayerName}",
+      "ja": "おーおー、楽しそうで何より。でも今のところ何もわかってないから、いつ止まるかはわからないぞ",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "518b9fc8",
+      "speaker": "リフル",
+      "ja": "そ、そんなぁ！　あははははっ！　ひいっ！　いひぃー！",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "1fea4c57",
+      "speaker": "リフル",
+      "ja": "はっ♥　はっ♥　胸いやぁっ♥　ジンジンとまらないぃっ！　いやっ♥　はぁあぅうっ♥",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "88e7ef0a",
+      "speaker": "",
+      "ja": "眉を下げて目を細めて口を半開きにしながらリフルは恍惚の表情を浮かべている。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "80402eec",
+      "speaker": "リフル",
+      "ja": "乳首いじらないでぇ♥　ひいっ♥　んはぁぁ♥　またイっちゃうっ♥　乳首でイっちゃうぅ♥　おほぉぉぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "b5e544f5",
+      "speaker": "",
+      "ja": "淡々と動き続けるアームは腋の下をこちょこちょして、筆先のようなものは乳輪をなぞるようにくすぐり、ぷっくり膨れた乳首を掃くように刺激した。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "30a4603b",
+      "speaker": "リフル",
+      "ja": "も、もうやめてぇ♥　これ以上乳首責めないでぇ♥　お、おかしくなっちゃうぅ♥　んほおぉぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "79b367c",
+      "speaker": "",
+      "ja": "リフルは手と筆のくすぐりに激しく悶え何度も腰を跳ねさせる。そしてまた限界に達したのか全身が激しく震えた。",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "ef802512",
+      "speaker": "リフル",
+      "ja": "乳首イくのいやあああああっ！　お兄さん助けて！　おにいさんっ、おにいさんんっ！　イぐっ、イっぐうううううううっ！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "9749d7c7",
+      "speaker": "",
+      "ja": "もはや拷問のようだ。目をギュッと閉じて歯を食いしばりながら、ぼろぼろと涙を流している。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "c23c76a1",
+      "speaker": "リフル",
+      "ja": "イぐぅぅ！　ち、乳首でイぐぅぅぅっ！　もういやぁぁ！　乳首でイぎたぐないのに！　んほぉぉ！　イっ、イっぢゃうぅぅ！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "a33953c0",
+      "speaker": "",
+      "ja": "それから数分後、ようやく『賭け賭けマシーンくん』は止まったが……リフルは涙と鼻水とマン汁を溢れさせて体をピクピクさせていた。",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "ba213d3c",
+      "speaker": "リフル",
+      "ja": "ぜー……ぜー……はー……はー……",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "2262bfb8",
+      "speaker": "",
+      "ja": "笑いすぎて息を切らしリフルはうつ伏せに倒れ込んでいる。",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "cf4d94ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい……大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "f0a64e59",
+      "speaker": "",
+      "ja": "俺が声をかけるとリフルはキッと睨み付けてきて的外れの怒りをぶつけてきた。",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "165857be",
+      "speaker": "リフル",
+      "ja": "クズめっ！　わたしの体をもてあそぶ為に機械までハックするとは……！",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "6a92a781",
+      "speaker": "",
+      "ja": "完全に誤解しているリフルに俺は必死に告げる。",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "a44f47b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……俺じゃない……",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "22dac6e0",
+      "speaker": "リフル",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "61d6a703",
+      "speaker": "",
+      "ja": "ハッキリと否定するが、リフルは沈黙したまま俺を見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "afe1a047",
+      "speaker": "",
+      "ja": "そしてしばらくすると、このまま黙っているかと思っていたリフルが変な事を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "d169dd19",
+      "speaker": "リフル",
+      "ja": "今のわたくしであればお兄さんでも簡単にエッチできますよね……",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "df05b117",
+      "speaker": "{G_PlayerName}",
+      "ja": "……はぁ？",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "b0e060d0",
+      "speaker": "",
+      "ja": "何を言い出すのかと思ったが斜め上からの発言に俺はポカンとしてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "a11e8ac8",
+      "speaker": "{G_PlayerName}",
+      "ja": "んなことしないから早く休んだらどうだ？　俺はもう帰るよ",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "f70651c5",
+      "speaker": "",
+      "ja": "そう言って俺が相手にしないとわかると、リフルは更に変な方向から言葉を投げかけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "b302bef7",
+      "speaker": "リフル",
+      "ja": "あーあ！　こんなにめちゃくちゃにされたわたくしが、おまんこぐちゃ濡れにしてるから、このままだと機械士さんのおちんぽ入れられても抵抗できませんねー！？",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "f4aa9901",
+      "speaker": "",
+      "ja": "そう言ってリフルはチラチラと物欲しそうに濡れたおまんこを指でめくってアピールしてきた。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "1bb4dd8d",
+      "speaker": "",
+      "ja": "そこはもうヌルヌルでヒクヒクしている。ここまで来ると俺も呆れてしまい俺はリフルの尻をペチンと叩く。",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "9a4355a3",
+      "speaker": "リフル",
+      "ja": "きゃんっ！",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "8606223c",
+      "speaker": "",
+      "ja": "尻を叩かれたリフルは短い悲鳴を上げた。そんなリフルに俺はハッキリと言い放つ。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "b2dd7198",
+      "speaker": "{G_PlayerName}",
+      "ja": "して欲しいなら最初からそう言え",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "9a0e4c48",
+      "speaker": "リフル",
+      "ja": "だ、だってぇ……",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "bbf52013",
+      "speaker": "",
+      "ja": "ガラにもなくモジモジしてろリフルを見て俺は股間で屹立してきたおちんちんを露わにさせた。",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "5e51e4a2",
+      "speaker": "リフル",
+      "ja": "やっぱり♥　お兄さんは、わたくしとおまんこしたくて仕方なかったんですね♥",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "161d78ae",
+      "speaker": "",
+      "ja": "俺が勃起した肉棒を挿入してもリフルは余裕そうな笑みを浮かべている。しかしその頬は紅潮していて、全身に汗がじっとりと浮かんでいた。",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "e5b44547",
+      "speaker": "リフル",
+      "ja": "だからあんなことをして、仕方のない方♥",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "e307ffc4",
+      "speaker": "",
+      "ja": "妙な解釈を披露するリフルに俺は冷静なツッコミを入れる。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "69022f8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはお前だろっ",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "fbc9e16a",
+      "speaker": "",
+      "ja": "そう言うと同時に俺はズンと腰を突き出しておまんこを深々と貫いた。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "b4d88409",
+      "speaker": "リフル",
+      "ja": "ひゃうぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "1eac04a1",
+      "speaker": "",
+      "ja": "リフルが可愛らしい声を上げて体をビクンと跳ねさせる。同時に膣が俺の陰茎をギュッと締め付けてきた。",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "7232c10f",
+      "speaker": "",
+      "ja": "それがあまりにも気持ちよくて、俺はそのまま腰を前後させていく。",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "7eec5cfa",
+      "speaker": "リフル",
+      "ja": "あっ♥　あっ♥　あぁんっ♥　お兄さんのおちんちんが、わたくしのおまんこをずんずんしてるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "9b50c73b",
+      "speaker": "",
+      "ja": "俺が腰を突き出す度にリフルの口からは気持ちよさそうな声が漏れた。",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "c1de51d8",
+      "speaker": "",
+      "ja": "それにさっきイきまくったオマンコはとろとろで、抽送するとくちゅくちゅという淫らな水音が鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "d4b12e38",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっき乳首でイきまくったから、おまんこがぬるぬるだ",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "f033c849",
+      "speaker": "",
+      "ja": "俺はそう囁きかけるとぴんぴんに尖っている乳首を両手で責め始めた。",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "3db9d3df",
+      "speaker": "リフル",
+      "ja": "ひゃっ、あっ、乳首は今、敏感だからっ……！",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "72ed9279",
+      "speaker": "",
+      "ja": "さっきまで余裕で軽口を叩いていたリフルは乳首を刺激した途端に急に大人しくなる。",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "36d3ac14",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こうすると静かで可愛いかも……。）",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "5214455e",
+      "speaker": "",
+      "ja": "そう思った俺はリフルの勃起乳首を指で捏ねくり回しながらガンガン腰を打ち付けていった。",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "c2365e1f",
+      "speaker": "リフル",
+      "ja": "んんっ♥　ち、乳首ぃ♥　じんじんするぅ♥　ううっ♥　おふぅ♥　あっ♥　あうううっ♥",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "43560339",
+      "speaker": "",
+      "ja": "強いピストンにリフルは淫らな喘ぎ声を漏らしながら腰を震わせる。",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "918131d4",
+      "speaker": "",
+      "ja": "それに俺の肉棒を咥え込んだおまんこも波打つようにびゅくびゅくと蠢いてきた。",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "a3a2de05",
+      "speaker": "",
+      "ja": "吸いついてくるような感覚に俺の興奮は高まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "cb6ee7d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "132e38fd",
+      "speaker": "",
+      "ja": "息を荒げ夢中で腰を振り続けていると、リフルはビクンビクンと腰を跳ねさせた。",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "dac7723e",
+      "speaker": "リフル",
+      "ja": "おっ♥　おふぅっ♥　や、やばっ♥　また乳首やばっ♥　おっ♥　ほぉぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "ca1fff2b",
+      "speaker": "",
+      "ja": "膣の締まりも強くなってきて、溢れる愛液が勃起した陰茎に絡みついてくる。",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "4bac0350",
+      "speaker": "",
+      "ja": "それがあまり気持ちよくて俺はラストスパートをかけるように、ピストンを激しくさせて乳首を捏ねくり回していった。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "29a7f465",
+      "speaker": "リフル",
+      "ja": "あっ♥　あっ♥　乳首とおまんこ激しくしちゃ♥　んんんっ♥　くっ、んふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "f1cbb26f",
+      "speaker": "",
+      "ja": "イきそうになってきたリフルは、まるでそれを隠すようにギュッと口を閉ざす。",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "9e772b71",
+      "speaker": "",
+      "ja": "それでも俺は腰の動きをどんどん速めて濡れた膣を容赦なく突き上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "5519a4b",
+      "speaker": "",
+      "ja": "その抽送にリフルの足がガクガクと震えていく。",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "d5afcef5",
+      "speaker": "リフル",
+      "ja": "んふぅぅぅ♥　あっ♥　うむぅぅ♥　くっ、うぅんっ♥　あぐっ、うぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "c54bd702",
+      "speaker": "",
+      "ja": "膣の締まりが急に強くなってきて、濡れた肉襞が出入りする肉棒に絡みついて擦れると、俺は堪えきれなくなってきた。",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "a3db43ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……くぅぅ……す、すごいっ……気持ちいい……あうぅっ",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "af130a41",
+      "speaker": "",
+      "ja": "ドクンドクンと脈打つ陰茎はすでに限界に達してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "34a17249",
+      "speaker": "",
+      "ja": "俺は大きく腰を突き出すと亀頭で子宮を押し上げながら込み上げてきた精液を勢いよく放出した。",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "67fa9b9a",
+      "speaker": "リフル",
+      "ja": "んんんんんん～～～～～っ！！！",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "64a283c2",
+      "speaker": "",
+      "ja": "俺が中に出したのと同時にリフルはギュッと目と口を閉ざし腰を何度も跳ねさせる。",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "8e093661",
+      "speaker": "",
+      "ja": "イったのがバレないように堪えているみたいだけど、股間からはプシャーっと派手に潮を吹いてるから絶頂がバレバレなんだけど。",
+      "zh": ""
+    },
+    {
+      "key": "417.0",
+      "line_index": 417,
+      "inline_index": 0,
+      "line_hash": "e80cc05c",
+      "speaker": "",
+      "ja": "そんなリフレのおまんこに、俺は何度も熱い精液を注ぎ込み続けた。",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "939e940b",
+      "speaker": "リフル",
+      "ja": "んんっ♥　んっ♥　んんんんんんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "422.0",
+      "line_index": 422,
+      "inline_index": 0,
+      "line_hash": "b3d83464",
+      "speaker": "",
+      "ja": "中に射精する度に可愛いお尻がプルプル震える。",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "351ceb45",
+      "speaker": "",
+      "ja": "それでもリフレは絶頂を隠そうと声を必死に押し殺して身悶えた。",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "3c3b0d53",
+      "speaker": "",
+      "ja": "そのまま俺が全て中に出し切ると、膣内に収まりきらなかった精液が繋がったところから溢れ出してくる。",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "5e0be03d",
+      "speaker": "リフル",
+      "ja": "んふぅぅ♥　あっ……ふぅぅ……あふっ……んふぅぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "431.0",
+      "line_index": 431,
+      "inline_index": 0,
+      "line_hash": "65e7ced5",
+      "speaker": "",
+      "ja": "俺が全て出しきると、リフレは甘い吐息を漏らして絶頂に余韻に浸っているように見えた。",
+      "zh": ""
+    },
+    {
+      "key": "433.0",
+      "line_index": 433,
+      "inline_index": 0,
+      "line_hash": "ddd931d0",
+      "speaker": "",
+      "ja": "だけど俺は彼女を休ませる気はなく、すぐさまピストンを再開して勃起乳首をまた指先で転がす。",
+      "zh": ""
+    },
+    {
+      "key": "439.0",
+      "line_index": 439,
+      "inline_index": 0,
+      "line_hash": "de770496",
+      "speaker": "リフル",
+      "ja": "んんんんっ♥　そ、そんなっ♥　またぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "441.0",
+      "line_index": 441,
+      "inline_index": 0,
+      "line_hash": "2b1f2804",
+      "speaker": "",
+      "ja": "不意を突かれたリフルはたまらず喘ぎ声を上げた。でも俺は構うことなく何度も腰を突き出してリフルに言葉を投げかける。",
+      "zh": ""
+    },
+    {
+      "key": "444.0",
+      "line_index": 444,
+      "inline_index": 0,
+      "line_hash": "da8ee715",
+      "speaker": "{G_PlayerName}",
+      "ja": "イったの隠すな！　今イっただろ！",
+      "zh": ""
+    },
+    {
+      "key": "447.0",
+      "line_index": 447,
+      "inline_index": 0,
+      "line_hash": "d9ece742",
+      "speaker": "",
+      "ja": "俺は激しくリフルのオマンコを突き上げながら勃起した乳首をつまんで引っ張りながら捏ね回した。",
+      "zh": ""
+    },
+    {
+      "key": "449.0",
+      "line_index": 449,
+      "inline_index": 0,
+      "line_hash": "aa2a6278",
+      "speaker": "",
+      "ja": "その責めにリフルはたまらず大きな声で叫ぶ。",
+      "zh": ""
+    },
+    {
+      "key": "452.0",
+      "line_index": 452,
+      "inline_index": 0,
+      "line_hash": "df2c88e9",
+      "speaker": "リフル",
+      "ja": "イっ、イきましたぁっ♥　だからもう乳首とおちんぽ止めてぇっ♥　乳首とおまんこ感じすぎてこわれちゃうぅぅうっ♥",
+      "zh": ""
+    },
+    {
+      "key": "454.0",
+      "line_index": 454,
+      "inline_index": 0,
+      "line_hash": "6121fe70",
+      "speaker": "",
+      "ja": "情けなく許しを請うリフルだが、当然ながら俺はやめるわけもなくズンズンと腰をお尻に打ち据えていった。",
+      "zh": ""
+    },
+    {
+      "key": "456.0",
+      "line_index": 456,
+      "inline_index": 0,
+      "line_hash": "c6d57a5a",
+      "speaker": "",
+      "ja": "その度にパンパンという肉を叩く音とグチュグチュという水音が響き渡る。",
+      "zh": ""
+    },
+    {
+      "key": "459.0",
+      "line_index": 459,
+      "inline_index": 0,
+      "line_hash": "226064b9",
+      "speaker": "リフル",
+      "ja": "ひいっ♥　あひいっ♥　おっ♥　んふぅ♥　らめっ♥　らめぇぇぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "461.0",
+      "line_index": 461,
+      "inline_index": 0,
+      "line_hash": "7faede64",
+      "speaker": "",
+      "ja": "絶頂直後の激しいピストンにリフルはどんどん乱れていった。",
+      "zh": ""
+    },
+    {
+      "key": "463.0",
+      "line_index": 463,
+      "inline_index": 0,
+      "line_hash": "645e88f9",
+      "speaker": "",
+      "ja": "そんなリフルの姿に興奮した俺は激しく何度も腰を突き出しておまんこの奥まで貫いていく。",
+      "zh": ""
+    },
+    {
+      "key": "465.0",
+      "line_index": 465,
+      "inline_index": 0,
+      "line_hash": "de854e8b",
+      "speaker": "",
+      "ja": "その度にリフルのお尻がビクビクッと震えていった。",
+      "zh": ""
+    },
+    {
+      "key": "468.0",
+      "line_index": 468,
+      "inline_index": 0,
+      "line_hash": "13692604",
+      "speaker": "リフル",
+      "ja": "おふぅ♥　おぉぉ♥　んっ♥　んくぅっ♥　ち、乳首ぃ♥　お、おまんこぉ♥　あっ♥　ほぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "470.0",
+      "line_index": 470,
+      "inline_index": 0,
+      "line_hash": "eb3ab595",
+      "speaker": "",
+      "ja": "そんなお尻の震えに合わせてリフルの膣も震えて俺の勃起したおちんちんに吸いついてくる。",
+      "zh": ""
+    },
+    {
+      "key": "473.0",
+      "line_index": 473,
+      "inline_index": 0,
+      "line_hash": "4b4d31d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ……すごい……くっ……うぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "476.0",
+      "line_index": 476,
+      "inline_index": 0,
+      "line_hash": "cb9f6b16",
+      "speaker": "",
+      "ja": "俺はあまりの快感に高ぶってまた夢中で腰を振ってしまった。その突き上げにリフルは我を忘れて乱れていく。",
+      "zh": ""
+    },
+    {
+      "key": "479.0",
+      "line_index": 479,
+      "inline_index": 0,
+      "line_hash": "4edcdad6",
+      "speaker": "リフル",
+      "ja": "やばいぃぃ♥　気持ちいい～♥　乳首感じちゃうぅ♥　お、おまんこずんずんされるとおかしくなるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "482.0",
+      "line_index": 482,
+      "inline_index": 0,
+      "line_hash": "33e6dba5",
+      "speaker": "{G_PlayerName}",
+      "ja": "おかしくなれっ！　おかしくしてやるっ！　こうやって乳首を責めてっ！",
+      "zh": ""
+    },
+    {
+      "key": "486.0",
+      "line_index": 486,
+      "inline_index": 0,
+      "line_hash": "382ff69d",
+      "speaker": "リフル",
+      "ja": "はうぅんっ♥　また乳首でイかされるぅ♥　おまんこでもイくぅぅっ♥　おっ♥　おふぅぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "488.0",
+      "line_index": 488,
+      "inline_index": 0,
+      "line_hash": "19be37b",
+      "speaker": "",
+      "ja": "俺は激しくピストンを繰り返し固く尖った乳首を指の腹で転がした。",
+      "zh": ""
+    },
+    {
+      "key": "491.0",
+      "line_index": 491,
+      "inline_index": 0,
+      "line_hash": "ee374177",
+      "speaker": "リフル",
+      "ja": "らめぇ♥　もうらめぇ♥　おっ♥　おふぅ♥　またイかされるぅ♥　乳首とおまんこでイかされるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "494.0",
+      "line_index": 494,
+      "inline_index": 0,
+      "line_hash": "3d01388b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺も……そろそろ、また……くぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "497.0",
+      "line_index": 497,
+      "inline_index": 0,
+      "line_hash": "ede5f31c",
+      "speaker": "",
+      "ja": "これ以上は堪えきれなくなって、俺は大きく腰を突き出して動きを止める。",
+      "zh": ""
+    },
+    {
+      "key": "500.0",
+      "line_index": 500,
+      "inline_index": 0,
+      "line_hash": "c164f5a8",
+      "speaker": "リフル",
+      "ja": "んんんんっ♥　イくぅっ♥　もうらめぇぇぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "502.0",
+      "line_index": 502,
+      "inline_index": 0,
+      "line_hash": "23e846d5",
+      "speaker": "",
+      "ja": "俺はまた込み上げてきた精液をリフルの膣内に一気に放った。",
+      "zh": ""
+    },
+    {
+      "key": "511.0",
+      "line_index": 511,
+      "inline_index": 0,
+      "line_hash": "f941a258",
+      "speaker": "リフル",
+      "ja": "お゛～～～～～っ！？　やべっ、イぐっ♥　お兄さんちんぽでおまんこ屈服ぐるぅうっ♥　ほぉっ、おおおおっ♥",
+      "zh": ""
+    },
+    {
+      "key": "513.0",
+      "line_index": 513,
+      "inline_index": 0,
+      "line_hash": "42e0f9e9",
+      "speaker": "",
+      "ja": "リフルはまた潮を吹きながら、下品な喘ぎ声を上げて絶頂に達している。",
+      "zh": ""
+    },
+    {
+      "key": "515.0",
+      "line_index": 515,
+      "inline_index": 0,
+      "line_hash": "2704ccb4",
+      "speaker": "",
+      "ja": "狭い膣が射精しているおちんちんに強く吸いついてきて搾り取られるような感覚に襲われた。",
+      "zh": ""
+    },
+    {
+      "key": "517.0",
+      "line_index": 517,
+      "inline_index": 0,
+      "line_hash": "3ba00781",
+      "speaker": "",
+      "ja": "その感覚に俺は何度もリフルの中に射精して全て出しきる。",
+      "zh": ""
+    },
+    {
+      "key": "520.0",
+      "line_index": 520,
+      "inline_index": 0,
+      "line_hash": "66c7c34e",
+      "speaker": "リフル",
+      "ja": "おふぅ♥　おっ♥　ほおぉぉ♥　わ、わたくしぃ、お兄さんちんぽでおまんこ屈服させられちゃったのぉぉ♥",
+      "zh": ""
+    },
+    {
+      "key": "522.0",
+      "line_index": 522,
+      "inline_index": 0,
+      "line_hash": "635961b1",
+      "speaker": "",
+      "ja": "すっかり蕩けた顔をしたリフルは絶頂の余韻の中でそんなことを呟いていた。",
+      "zh": ""
+    }
+  ]
+}
