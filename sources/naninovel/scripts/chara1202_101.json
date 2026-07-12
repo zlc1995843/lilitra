@@ -1,0 +1,355 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "a02fde2c",
+      "speaker": "",
+      "ja": "最近運動不足である事を気にしていた{G_PlayerName}はランニングをしていた。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "adb51535",
+      "speaker": "{G_PlayerName}",
+      "ja": " はぁ……はぁ……はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "54d26f5d",
+      "speaker": "",
+      "ja": "少し走っただけで息が切れてしまうことに不甲斐なさを感じつつも走り続けていると霞とばったり出くわしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "69b18619",
+      "speaker": "霞",
+      "ja": "あら……旅鴉さん、走り込みですか……意外ですね",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "3eb6c19a",
+      "speaker": "{G_PlayerName}",
+      "ja": " 霞もか？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "256889e",
+      "speaker": "霞",
+      "ja": "あなたと一緒にしないでください。日課の訓練です……体が鈍らないように",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "ef1eda31",
+      "speaker": "霞",
+      "ja": "修行の時は毎日走り込み……その後すぐ、他の方と手合わせをして……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "72613080",
+      "speaker": "",
+      "ja": "霞が語る修行内容はすごくハードで、それを聞いた{G_PlayerName}は焦りを覚える。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "f1802655",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の心を見透かしたかのように、霞は一つ提案してきた。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "222c1b88",
+      "speaker": "霞",
+      "ja": "あなたも走り込みだけでは物足りなさそうですね旅鴉さん",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "86d8d634",
+      "speaker": "霞",
+      "ja": "よろしければ軽く私と手合わせをしませんか？",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "257dddfc",
+      "speaker": "{G_PlayerName}",
+      "ja": " えっ？　いや……俺は別に……そもそも戦いなんて……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "2118c010",
+      "speaker": "霞",
+      "ja": "安心して下さい。当然、ちゃんと手加減してさしあげますから",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "13bf7e68",
+      "speaker": "",
+      "ja": "どこか挑発的な霞の視線に、{G_PlayerName}はプライドを傷つけられ虚勢を張ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "807235f1",
+      "speaker": "{G_PlayerName}",
+      "ja": " そこまで言われると、俺だって引けないな",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "8ed07d9f",
+      "speaker": "霞",
+      "ja": "お互い武器は無し、先に胴体に触れたほうが勝ちということで……それでは、参りますね",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "c2aae695",
+      "speaker": "",
+      "ja": "そう言うと同時に霞の姿が消え失せた。……いや、正確には空中へと飛び上がった。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "398eeaa7",
+      "speaker": "{G_PlayerName}",
+      "ja": " は、速っ……！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "bc88a11c",
+      "speaker": "霞",
+      "ja": "どうしました？　……まさか旅鴉さん、この程度の動きにもついてこれないのですか？",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "5faf665d",
+      "speaker": "",
+      "ja": "小馬鹿にするような霞の言葉にカチンときた{G_PlayerName}は必死に腕を伸ばしたが、最小の動きでかわされた。",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "a4f5ce75",
+      "speaker": "霞",
+      "ja": "それでは……お返しですね",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "c1963cab",
+      "speaker": "",
+      "ja": "微笑みを浮かべたまま、霞が{G_PlayerName}の下へと滑り込む。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "30e6dadc",
+      "speaker": "{G_PlayerName}",
+      "ja": " えっ……？！",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "799b2bbc",
+      "speaker": "",
+      "ja": "次の瞬間{G_PlayerName}の視界はぐらりと揺れ、気がつくと床に倒れてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "b42577d5",
+      "speaker": "霞",
+      "ja": "ああ、本当にか弱くていらっしゃるのですね",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "243d4772",
+      "speaker": "",
+      "ja": "恥ずかしいやら悔しいやら、{G_PlayerName}は顔を真っ赤にさせた。しかし霞はいつの間にか{G_PlayerName}の体を強く締め上げ、解説を始める。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1cec614e",
+      "speaker": "霞",
+      "ja": "このままここを押さえたら力が入らないでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "94b3b2fe",
+      "speaker": "{G_PlayerName}",
+      "ja": " ううっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "cdc0ba37",
+      "speaker": "",
+      "ja": "まるで弄ぶように関節や筋肉の説明をする霞。それでも力は緩めず、じわじわと{G_PlayerName}を締め上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "7ecb98cd",
+      "speaker": "{G_PlayerName}",
+      "ja": " いたたたたっ！　こ、降参だっ！",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "8d95363c",
+      "speaker": "霞",
+      "ja": "ご冗談がお上手ですね",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "33e08b23",
+      "speaker": "{G_PlayerName}",
+      "ja": " ……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "f33e090f",
+      "speaker": "霞",
+      "ja": "まさか、この程度で本気なわけありませんもんね",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "afccb9d6",
+      "speaker": "{G_PlayerName}",
+      "ja": " い、いや……俺は……",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "b46f0bb",
+      "speaker": "霞",
+      "ja": "さあ、どうぞ本気で抵抗していただいてよろしいですよ",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "eb8d4ff1",
+      "speaker": "",
+      "ja": "楽しそうにそう言いながら、次第に霞の力が強まる。肉が絞り上げられ、骨は軋む音を上げた。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "2faaaba8",
+      "speaker": "{G_PlayerName}",
+      "ja": " 無理無理！　もう勘弁してくれ～！",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "9d4c39b1",
+      "speaker": "",
+      "ja": "霞は、ジタバタ苦しむ{G_PlayerName}を見てさらに笑みを深める。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "98940199",
+      "speaker": "",
+      "ja": "その暗い笑みに恐怖を覚えながらも、どこか興奮、快感のような物も微かに感じる{G_PlayerName}なのだった……",
+      "zh": ""
+    }
+  ]
+}

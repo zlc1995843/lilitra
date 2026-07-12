@@ -1,0 +1,355 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "a02fde2c",
+      "speaker": "",
+      "ja": "最近運動不足である事を気にしていた{G_PlayerName}はランニングをしていた。",
+      "zh": "{G_PlayerName}最近总觉得自己运动不足，于是去跑步了。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "adb51535",
+      "speaker": "{G_PlayerName}",
+      "ja": " はぁ……はぁ……はぁ……はぁ……",
+      "zh": "哈啊……哈啊……哈啊……哈啊……"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "54d26f5d",
+      "speaker": "",
+      "ja": "少し走っただけで息が切れてしまうことに不甲斐なさを感じつつも走り続けていると霞とばったり出くわしてしまう。",
+      "zh": "才跑了一会儿就上气不接下气，正懊恼自己没用，却还是继续跑着，结果撞见了霜。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "69b18619",
+      "speaker": "霞",
+      "ja": "あら……旅鴉さん、走り込みですか……意外ですね",
+      "zh": "哎呀……旅鸠先生，出来跑步吗……真少见呢。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "3eb6c19a",
+      "speaker": "{G_PlayerName}",
+      "ja": " 霞もか？",
+      "zh": "霜，你也是吗？"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "256889e",
+      "speaker": "霞",
+      "ja": "あなたと一緒にしないでください。日課の訓練です……体が鈍らないように",
+      "zh": "别把我和你相提并论，这只是我的日常训练……免得身体生锈。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "ef1eda31",
+      "speaker": "霞",
+      "ja": "修行の時は毎日走り込み……その後すぐ、他の方と手合わせをして……",
+      "zh": "我修行的时候每天都要跑……跑完马上就和别人过招……"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "72613080",
+      "speaker": "",
+      "ja": "霞が語る修行内容はすごくハードで、それを聞いた{G_PlayerName}は焦りを覚える。",
+      "zh": "霜说的修行内容极其严苛，{G_PlayerName}听了不由焦躁起来。"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "f1802655",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の心を見透かしたかのように、霞は一つ提案してきた。",
+      "zh": "像是看穿了{G_PlayerName}的不安，霜提出了一个建议。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "222c1b88",
+      "speaker": "霞",
+      "ja": "あなたも走り込みだけでは物足りなさそうですね旅鴉さん",
+      "zh": "旅鸠先生，我看你光是跑步好像还不过瘾吧。"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "86d8d634",
+      "speaker": "霞",
+      "ja": "よろしければ軽く私と手合わせをしませんか？",
+      "zh": "方便的话，要和我简单过两招吗？"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "257dddfc",
+      "speaker": "{G_PlayerName}",
+      "ja": " えっ？　いや……俺は別に……そもそも戦いなんて……",
+      "zh": "咦？……呃，我倒不是……再说比试什么的……"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "2118c010",
+      "speaker": "霞",
+      "ja": "安心して下さい。当然、ちゃんと手加減してさしあげますから",
+      "zh": "放心，我当然会手下留情的。"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "13bf7e68",
+      "speaker": "",
+      "ja": "どこか挑発的な霞の視線に、{G_PlayerName}はプライドを傷つけられ虚勢を張ってしまった。",
+      "zh": "霜那略带挑衅的眼神刺痛了{G_PlayerName}的自尊，他于是逞强道。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "807235f1",
+      "speaker": "{G_PlayerName}",
+      "ja": " そこまで言われると、俺だって引けないな",
+      "zh": "既然你都这么说了，我怎么能认怂。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "8ed07d9f",
+      "speaker": "霞",
+      "ja": "お互い武器は無し、先に胴体に触れたほうが勝ちということで……それでは、参りますね",
+      "zh": "双方都不拿武器，先碰到对方身体就算赢……那我上了哦。"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "c2aae695",
+      "speaker": "",
+      "ja": "そう言うと同時に霞の姿が消え失せた。……いや、正確には空中へと飛び上がった。",
+      "zh": "话刚说完，霜的身影就消失了……不，准确说是跳到了空中。"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "398eeaa7",
+      "speaker": "{G_PlayerName}",
+      "ja": " は、速っ……！",
+      "zh": "哈，好快……！"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "bc88a11c",
+      "speaker": "霞",
+      "ja": "どうしました？　……まさか旅鴉さん、この程度の動きにもついてこれないのですか？",
+      "zh": "怎么了？……旅鸠先生，该不会连这种程度的动作都跟不上吧？"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "5faf665d",
+      "speaker": "",
+      "ja": "小馬鹿にするような霞の言葉にカチンときた{G_PlayerName}は必死に腕を伸ばしたが、最小の動きでかわされた。",
+      "zh": "霜那轻蔑的话语让{G_PlayerName}火冒三丈，他拼命伸手去抓，却被她轻易闪开了。"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "a4f5ce75",
+      "speaker": "霞",
+      "ja": "それでは……お返しですね",
+      "zh": "那么……该我回敬你了。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "c1963cab",
+      "speaker": "",
+      "ja": "微笑みを浮かべたまま、霞が{G_PlayerName}の下へと滑り込む。",
+      "zh": "霜脸上挂着微笑，朝{G_PlayerName}身下滑去。"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "30e6dadc",
+      "speaker": "{G_PlayerName}",
+      "ja": " えっ……？！",
+      "zh": "诶……？！"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "799b2bbc",
+      "speaker": "",
+      "ja": "次の瞬間{G_PlayerName}の視界はぐらりと揺れ、気がつくと床に倒れてしまっていた。",
+      "zh": "下一瞬间，{G_PlayerName}的视野猛地一晃，回过神来已经倒在了床上。"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "b42577d5",
+      "speaker": "霞",
+      "ja": "ああ、本当にか弱くていらっしゃるのですね",
+      "zh": "啊呀，还真是可爱呢。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "243d4772",
+      "speaker": "",
+      "ja": "恥ずかしいやら悔しいやら、{G_PlayerName}は顔を真っ赤にさせた。しかし霞はいつの間にか{G_PlayerName}の体を強く締め上げ、解説を始める。",
+      "zh": "又羞又恼，{G_PlayerName}脸涨得通红。但霜不知何时已经紧紧锁住了{G_PlayerName}的身体，开始解说起来。"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1cec614e",
+      "speaker": "霞",
+      "ja": "このままここを押さえたら力が入らないでしょ？",
+      "zh": "只要被我按住这里，你就使不上力了吧？"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "94b3b2fe",
+      "speaker": "{G_PlayerName}",
+      "ja": " ううっ……！？",
+      "zh": "呜……！？"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "cdc0ba37",
+      "speaker": "",
+      "ja": "まるで弄ぶように関節や筋肉の説明をする霞。それでも力は緩めず、じわじわと{G_PlayerName}を締め上げていった。",
+      "zh": "霜像在玩弄似的讲解着关节和肌肉，手上的力道却丝毫不减，一点一点地收紧了对{G_PlayerName}的束缚。"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "7ecb98cd",
+      "speaker": "{G_PlayerName}",
+      "ja": " いたたたたっ！　こ、降参だっ！",
+      "zh": "疼疼疼疼！ 我、我投降！"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "8d95363c",
+      "speaker": "霞",
+      "ja": "ご冗談がお上手ですね",
+      "zh": "您可真会说笑。"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "33e08b23",
+      "speaker": "{G_PlayerName}",
+      "ja": " ……えっ？",
+      "zh": "……诶？"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "f33e090f",
+      "speaker": "霞",
+      "ja": "まさか、この程度で本気なわけありませんもんね",
+      "zh": "你该不会这点程度就当真了吧？"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "afccb9d6",
+      "speaker": "{G_PlayerName}",
+      "ja": " い、いや……俺は……",
+      "zh": "啊、不……我是……"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "b46f0bb",
+      "speaker": "霞",
+      "ja": "さあ、どうぞ本気で抵抗していただいてよろしいですよ",
+      "zh": "来吧，请认真地反抗给我看看。"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "eb8d4ff1",
+      "speaker": "",
+      "ja": "楽しそうにそう言いながら、次第に霞の力が強まる。肉が絞り上げられ、骨は軋む音を上げた。",
+      "zh": "她愉快地说着，同时霜的力道逐渐加强。肌肉被紧紧勒住，骨头发出嘎吱的声响。"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "2faaaba8",
+      "speaker": "{G_PlayerName}",
+      "ja": " 無理無理！　もう勘弁してくれ～！",
+      "zh": "不行不行！饶了我吧～！"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "9d4c39b1",
+      "speaker": "",
+      "ja": "霞は、ジタバタ苦しむ{G_PlayerName}を見てさらに笑みを深める。",
+      "zh": "霜看着挣扎痛苦的{G_PlayerName}，笑意更深了。"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "98940199",
+      "speaker": "",
+      "ja": "その暗い笑みに恐怖を覚えながらも、どこか興奮、快感のような物も微かに感じる{G_PlayerName}なのだった……",
+      "zh": "虽然对那阴暗的笑容感到恐惧，但{G_PlayerName}却也隐约感受到一丝兴奋和快感……"
+    }
+  ]
+}
