@@ -1,0 +1,337 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "289e2f2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もうこんな時間か……早く朝ご飯食べないと、昼ご飯になりそうだ）",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "6bc07f64",
+      "speaker": "",
+      "ja": "宇宙船の外を眺めているリリアンに気づき、声を掛けようと近づく。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2e3be50d",
+      "speaker": "",
+      "ja": "背中しか見えなかったが、特徴的な姿……女王特有の圧？　のような物に、思わずためらってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "30c89811",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ナハト、だよな……？　外なんて見て何しているんだろう……）",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "8675f0d",
+      "speaker": "ナハト",
+      "ja": "（星を……民を守るためとは言え、国民を時間の牢獄にずっと閉じ込めていた日々……）",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "e49f419b",
+      "speaker": "ナハト",
+      "ja": "（ようやく終わりを迎えたと言っても、実感が湧きませんね……）",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "d7e3dbf5",
+      "speaker": "",
+      "ja": "宇宙を観ながら茫然と考える。民を苦しめたことや、滅ぶ星の運命に悔しさを感じてはいる。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "49ac2cfd",
+      "speaker": "",
+      "ja": "しかし、間違ったことをした、別の手段があったという後悔は無い。……自分も周りも、最善を尽くした確信がある。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "bbf8f6a8",
+      "speaker": "ナハト",
+      "ja": "（……このようなことでは、{G_PlayerName}様達に失望されてしまうでしょうか）",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "67ad683e",
+      "speaker": "ナハト",
+      "ja": "（かと言って、滅びを受け入れる選択など、論外でしょうし……）",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "e7c13537",
+      "speaker": "",
+      "ja": "悔いて改めるにしても、どこを、何を変えるべきか理解していなければそれは不可能。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "6f70aa8a",
+      "speaker": "",
+      "ja": "こんな考えのままでは、同じことを繰り返してしまうのでは……",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "340926f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "やぁ、ナハト。外を見て何してるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "83b9a5b2",
+      "speaker": "ナハト",
+      "ja": "えっ？　あ、ああ、{G_PlayerName}様……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "39884111",
+      "speaker": "ナハト",
+      "ja": "（{G_PlayerName}様は、わたくしが怖くないのでしょうか……？　リリアンでもありませんのに、不思議なお方……）",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "36e4fd45",
+      "speaker": "ナハト",
+      "ja": "特に何も……流れる宇宙の景色を見て、どこまでも宇宙は続くのだな……と思っていました……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "81a987e9",
+      "speaker": "ナハト",
+      "ja": "わたくしとしたことが、ご挨拶が遅れましたね。こんばんは、{G_PlayerName}様",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "b8b7945a",
+      "speaker": "{G_PlayerName}",
+      "ja": "今は朝なんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "6036cc2",
+      "speaker": "ナハト",
+      "ja": "えっ！？　そ、そうなのですか？　……そうですね、照明がついていますね",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "da1e9a92",
+      "speaker": "{G_PlayerName}",
+      "ja": "……もしかして、夜からずっと外見ていたのか？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "d07f92eb",
+      "speaker": "ナハト",
+      "ja": "そういうことに……なりますね。眠れなくて、少し散歩でも……と思ったのですが",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "403aa88b",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかして悩みとか……？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "6ce071e2",
+      "speaker": "ナハト",
+      "ja": "いえ、問題ございませんわ。……まだ生活のリズムが宇宙船に合わせられていないのかと",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "42c72f90",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……なら良かったけど、何か困ったことがあったらいつでも言えよ？　なるべく力になるからな",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "579ba3f4",
+      "speaker": "ナハト",
+      "ja": "（助けてもらえるような悩みではありませんね……元凶がどのような顔をして、と思われそうですし）",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "f4fdf17f",
+      "speaker": "ナハト",
+      "ja": "（ですが……こんなことを言われるのは、とても久しぶりですね……）",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "a80768e5",
+      "speaker": "ナハト",
+      "ja": "（……わたくしに足りていなかった物は、対話……？　永い時間の繰り返しで、そんなことにも気づけていなかったのでしょうか）",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "848282ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "ナハト……？　ど、どうしたんだ？　なんか急に調子が良さそうな表情に……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "bb6c2c49",
+      "speaker": "ナハト",
+      "ja": "そうですね、少しだけ良い事がありました。ありがとうございます、{G_PlayerName}様",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "ef5f77a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　えっ？　な、なんか礼を言われるようなことした？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "575a7bb7",
+      "speaker": "ナハト",
+      "ja": "ふふ、どうでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "d65c3ad4",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよそれ、俺何したんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "c3599f90",
+      "speaker": "ナハト",
+      "ja": "……秘密です♥　それよりももう少しだけお話に付き合ってもらってもいいですか？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "53b205d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは別に構わないけど、とりあえずご飯食べないか？　食べながらでも大丈夫ならいいけど……",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "fe6c0891",
+      "speaker": "ナハト",
+      "ja": "ええ、それでも構いません。あなたのこと、いろいろ教えてください。あなたの星のことなどを……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "811d1dad",
+      "speaker": "",
+      "ja": "人との対話の中で、何か答えが見つかるかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "be3c21d5",
+      "speaker": "",
+      "ja": "次は選択を誤らないために……愛するあの星を守るために……。",
+      "zh": ""
+    }
+  ]
+}
