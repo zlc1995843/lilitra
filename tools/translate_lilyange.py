@@ -8,6 +8,7 @@ import pathlib
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 
@@ -153,6 +154,14 @@ def normalize_translation_text(
     if player_placeholder:
         result = PLAYER_NAME_PLACEHOLDER_RE.sub(player_placeholder, result)
         result = PLAYER_NAME_TRANSLATED_PLACEHOLDER_RE.sub(player_placeholder, result)
+        if player_placeholder not in result:
+            # Keep the game variable usable even when the model omitted it.
+            for pronoun in ("他", "她", "你", "我"):
+                if pronoun in result:
+                    result = result.replace(pronoun, player_placeholder, 1)
+                    break
+            else:
+                result = player_placeholder + result
     for old, new in TEXT_NAME_ALIASES.items():
         result = result.replace(old, new)
     for old, new in TEXT_KANA_NOISE.items():
@@ -533,7 +542,11 @@ def refresh_translated_index(repo_root: pathlib.Path) -> None:
                 continue
             relative_path = path.relative_to(repo_root).as_posix()
             files.append(relative_path)
-            hashes[relative_path] = hashlib.sha256(path.read_bytes()).hexdigest()
+            digest = hashlib.sha256()
+            with path.open("rb") as fh:
+                for chunk in iter(lambda: fh.read(1024 * 1024), b""):
+                    digest.update(chunk)
+            hashes[relative_path] = digest.hexdigest()
     write_json(repo_root / "translated_files.json", {"files": files, "sha256": hashes})
 
 
@@ -963,16 +976,24 @@ def translate_lines(
     api_key: str,
     model: str,
     chunk_size: int,
+    parallel: int = 1,
 ) -> Dict[str, str]:
     result = dict(existing)
     pending = [line for line in source_lines if not result.get(line["key"])]
-    for start in range(0, len(pending), chunk_size):
-        chunk = pending[start : start + chunk_size]
-        if not chunk:
-            continue
-        translated = call_deepseek(api_key, model, chunk, name_glossary)
-        result.update(translated)
-        print(f"translated {min(start + len(chunk), len(pending))}/{len(pending)} lines", flush=True)
+    chunks = [pending[start : start + chunk_size] for start in range(0, len(pending), chunk_size)]
+    if parallel > 1 and len(chunks) > 1:
+        with ThreadPoolExecutor(max_workers=parallel) as pool:
+            futures = {pool.submit(call_deepseek, api_key, model, chunk, name_glossary): chunk for chunk in chunks}
+            completed = 0
+            for future in as_completed(futures):
+                result.update(future.result())
+                completed += len(futures[future])
+                print(f"translated {completed}/{len(pending)} lines", flush=True)
+    else:
+        for start, chunk in enumerate(chunks):
+            translated = call_deepseek(api_key, model, chunk, name_glossary)
+            result.update(translated)
+            print(f"translated {min((start + 1) * chunk_size, len(pending))}/{len(pending)} lines", flush=True)
     return normalize_translations(source_lines, result, name_glossary)
 
 
@@ -995,6 +1016,7 @@ def main() -> int:
     parser.add_argument("--adv", help="comma separated adv ids")
     parser.add_argument("--limit", type=int)
     parser.add_argument("--chunk-size", type=int, default=50)
+    parser.add_argument("--parallel", type=int, default=1)
     parser.add_argument("--reverse", action="store_true", help="process the story manifest from newest to oldest")
     parser.add_argument("--skip-existing", action="store_true")
     parser.add_argument("--no-translate", action="store_true")
@@ -1081,7 +1103,7 @@ def main() -> int:
             continue
 
         existing = {} if args.force_retranslate else from_review_translation(review_path)
-        zh_map = translate_lines(source_lines, existing, name_glossary, api_key, args.model, args.chunk_size)
+        zh_map = translate_lines(source_lines, existing, name_glossary, api_key, args.model, args.chunk_size, max(1, args.parallel))
         save_review(review_path, item, source_lines, zh_map)
         print(f"review draft: {review_path}")
         if review_only:
