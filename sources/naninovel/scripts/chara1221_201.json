@@ -1,0 +1,1273 @@
+{
+  "lines": [
+    {
+      "key": "2.0",
+      "line_index": 2,
+      "inline_index": 0,
+      "line_hash": "1fedd5ac",
+      "speaker": "",
+      "ja": "本シナリオの主人公は「シュガーコンフリクト」の主人公となっておりますが、名前はプレイヤー名で表示されます。",
+      "zh": ""
+    },
+    {
+      "key": "3.0",
+      "line_index": 3,
+      "inline_index": 0,
+      "line_hash": "ebbee557",
+      "speaker": "",
+      "ja": "「シュガーコンフリクト」の主人公になったつもりでお楽しみください。",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "d8fd0a4b",
+      "speaker": "エーブレスキーバ",
+      "ja": "ふむふむ……ん……？　あ……もうこんな時間なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "40ceaf9",
+      "speaker": "",
+      "ja": "少しでもこの世界の知識を得たい、その思いがいつまでもボクに本を読ませ続ける。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "bfe6035",
+      "speaker": "",
+      "ja": "もう深夜とも言える時間だったが、眠気は一向に訪れず本を読みたい欲ばかりが自分の中に募っていく。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "e22c4158",
+      "speaker": "エーブレスキーバ",
+      "ja": "あと一冊だけ……一冊だけ読んだら寝よう……。いつまでこの世界にいられるかわからないし、知識は少しでも蓄えておきたいからね",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "bfa80a50",
+      "speaker": "",
+      "ja": "ボクは自分にそう言い訳をすると、山積みの本から適当に一冊本を取り出す。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a98ca52a",
+      "speaker": "",
+      "ja": "ジャンルは何でもよかった、フィクションでもノンフィクションでも、学術書でも魔術書でも数学書でも。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "db72500f",
+      "speaker": "",
+      "ja": "とにかく知識を……そう思いながらタイトルも見ずに本を開くと──。",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "2f54442d",
+      "speaker": "エーブレスキーバ",
+      "ja": "……えっ？　こ、これは……",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "8c2b61fb",
+      "speaker": "",
+      "ja": "思わず内容にビックリしてしまい、本のタイトルを見る。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "aeef49c8",
+      "speaker": "エーブレスキーバ",
+      "ja": "男性の喜ばせ方、気持ち良くさせ方……こ、これって、え、エッチの指南書……？　なんでこんなものが……？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "bd0d48c",
+      "speaker": "",
+      "ja": "本をパラパラとめくり、書いてある内容に思わず顔が熱くなる。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "f64471e",
+      "speaker": "",
+      "ja": "ふと手が止まり、あるページがボクの視界に入る。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "2e285c0d",
+      "speaker": "エーブレスキーバ",
+      "ja": "これならボクにもできそうだなぁ……普段お世話になっているパティシエにお礼がしたいって思っていたし……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "c80e8955",
+      "speaker": "エーブレスキーバ",
+      "ja": "ふむふむ……なるほどなるほど……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "585c2d8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……ん……！　そろそろ寝るか……。しかしいつになったら元の世界に帰れるのだろうか",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "75c0bfe9",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさかずっとこのままなんてことはないとは思うが──",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "6da5f17e",
+      "speaker": "エーブレスキーバ",
+      "ja": "パティシエ、まだ起きてるかな？　ボクだよ、エーブレスキーバだ",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "688f82d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "エーブレスキーバ？　こんな時間にどうしたんだ？　開いているから入ってきてもいいぞ",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "cb5bb84e",
+      "speaker": "エーブレスキーバ",
+      "ja": "夜遅くにごめんね……失礼するよ",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "2fe529ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　オレに何か用か？",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "1b50dccd",
+      "speaker": "エーブレスキーバ",
+      "ja": "君にお礼がしたいと思ってね。立っているならちょうどいいかな……そのまま動かないで……",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "2d1a3f0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "？？？　あ、ああ、別に構わないが……いったい何をするつも──……ッッ！？！？",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "9f333d8f",
+      "speaker": "",
+      "ja": "エーブレスキーバは突然しゃがみこむと、何を思ったのかオレのズボンを一気に脱がす。",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "5969aa02",
+      "speaker": "",
+      "ja": "オレは突然の彼女の行動に驚き、その場に固まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "fb139820",
+      "speaker": "エーブレスキーバ",
+      "ja": "あ……これがおちんちん……っていうんだよね……ふにゃふにゃのままだ……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "6769fce6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、あ、当たり前だ……！　いきなり何をするんだ……！",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "37ff9429",
+      "speaker": "",
+      "ja": "オレはズボンを履こうと手を伸ばすが、エーブレスキーバはそれを笑みを浮かべながら制止する。",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "8c274e72",
+      "speaker": "エーブレスキーバ",
+      "ja": "でもだいじょうぶだよ……♥　ちゃんと本読んで男の人を勃起させる方法は学んだんだ……♥",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "9d7acee6",
+      "speaker": "{G_PlayerName}",
+      "ja": "本……？　お前は一体何を考えて……エーブレスキーバ！？",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "fbcbf939",
+      "speaker": "エーブレスキーバ",
+      "ja": "わわっ！？♥　い、一瞬でおちんちんがカチコチだ……♥　こ、こんなにすぐに大きくなるなんて本に書いてなかったよ？♥",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "d448da95",
+      "speaker": "",
+      "ja": "エーブレスキーバは突然服をはだけさせ、綺麗な胸が露わになる。",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "eafef121",
+      "speaker": "",
+      "ja": "それを見た瞬間、オレの肉棒は信じられない速さで勃起してしまい、オレ自身驚きを隠せない。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "777c69b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、く……！　な、なに舐めて……や、やめろって……！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "9820427e",
+      "speaker": "",
+      "ja": "オレがあっけに取られているとエーブレスキーバはなんの迷いもなく肉棒に舌を這わせ始める。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "cc4be2f7",
+      "speaker": "",
+      "ja": "裏筋を舐める舌の快感にゾクっと背筋が震え、さらに肉棒に血が集まる。",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "1a5f3e95",
+      "speaker": "",
+      "ja": "エーブレスキーバがオレのを……そう思うだけで心臓がドクンと大きく高鳴り、息苦しさを感じるほど大きく鳴り響く。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "fd2e01a4",
+      "speaker": "エーブレスキーバ",
+      "ja": "痛くないかな？♥　おちんちんってデリケートだから優しくって本に書いてあったけど……♥",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "b6566249",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっきから本って……一体何を読んだんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "b68b6554",
+      "speaker": "エーブレスキーバ",
+      "ja": "男の人を喜ばせる本だよ？♥　ルミナさんにたくさん本借りたんだけど、その中にあったんだ♥",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "c04a944a",
+      "speaker": "エーブレスキーバ",
+      "ja": "せっかくの機会だし、普段からお世話になっているからね……♥　パティシエにお礼がしたいなって……♥",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "3ec4ca88",
+      "speaker": "{G_PlayerName}",
+      "ja": "だからっていきなりこんなこと……ぐっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "81df8b0",
+      "speaker": "",
+      "ja": "小さな舌が裏筋からカリを舐め、どんどん快感が強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "9ad3a033",
+      "speaker": "",
+      "ja": "本で知識を得たのは本当のようで、戸惑いながらも的確に男のツボを舌でクニクニと舐める。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "5ca2f80d",
+      "speaker": "",
+      "ja": "本当なら今すぐにでもやめさせなければいけないのだが、オレのオスの欲望がそれを許さず、快感を欲するようにそのまま立ち尽くしていた。",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "17bb1ae4",
+      "speaker": "エーブレスキーバ",
+      "ja": "ふふ、お汁が溢れてきてる……♥　これがパティシエの……れる、れるっ……♥　本に書いてあった通りだ、想い人のは全然気にならないって……♥",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "1f8db6eb",
+      "speaker": "",
+      "ja": "小さなか細い声、しかし確かにオレの耳に入ってきた、想い人と……。",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "e533d6da",
+      "speaker": "",
+      "ja": "オレはエーブレスキーバの行動に依然として驚きつつも、健気に行為に及んでくれる彼女に異様な昂ぶりを感じていた。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "d70fc97f",
+      "speaker": "エーブレスキーバ",
+      "ja": "パティシエ、気持ちよさそう……♥　決して揶揄うとかそういう気持ちは無いから♥　ボクの想い、受け取って……♥",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "a10ea125",
+      "speaker": "エーブレスキーバ",
+      "ja": "んふぅっ♥　ぢゅるっ、ちゅ……ちゅっ！♥　れるぅ……ちゅちゅ……ぢゅるるっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "79cc4d6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "くう、うう、な、何もそこまでぇ……！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "ee87a869",
+      "speaker": "",
+      "ja": "エーブレスキーバは小さな口を目いっぱい広げ亀頭をぱくりと咥えこむ。",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "1647694b",
+      "speaker": "",
+      "ja": "口内で小さな舌がレロレロと亀頭を舐め、唇に引っ掛けるようにカリ首を擦る。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "107e8cb1",
+      "speaker": "",
+      "ja": "ぎこちなさはあったが、一連の流れが完全にオレのツボを掴み、甘く強烈な快感に思わず天を見上げて悶える。",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "fc284d0a",
+      "speaker": "エーブレスキーバ",
+      "ja": "（パティシエのあんな顔初めてだ……♥　いつも冷静で大人な印象が強いけど、なんだか今は子供みたいな感じ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "728ff38f",
+      "speaker": "エーブレスキーバ",
+      "ja": "（すごくカワイイなぁ……♥　これが母性本能をくすぐるっていうのかな……♥）",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "935291d6",
+      "speaker": "",
+      "ja": "オレの反応を見ながら少しずつ舌の動きが大きくなり、鈴口を穿る様に舌先が蠢く。",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "97302d8e",
+      "speaker": "",
+      "ja": "思わず腰を引いてしまうが、エーブレスキーバは身体を前に突き出し肉棒を離さない。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "f702868d",
+      "speaker": "",
+      "ja": "ちゅちゅ、と肉棒を吸う音が少しずつ強くなり、それと比例するようにゾクゾクした快感が強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "90207ab6",
+      "speaker": "エーブレスキーバ",
+      "ja": "んはぁっ♥　どうかな……？♥　ボクのお口の中……気持ち良い……？♥",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "12921df1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……すごく……",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "627aeb1e",
+      "speaker": "",
+      "ja": "頬を紅らめ上目遣いにオレを見つめるエーブレスキーバ。",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "b401c9fc",
+      "speaker": "",
+      "ja": "照れくささと快感から上手く言葉が口から出てこず、オレはそっと彼女の頭に手を伸ばす。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "77e66c77",
+      "speaker": "",
+      "ja": "柔らかな髪を撫でると、嬉しそうに目を細める。",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "2b005942",
+      "speaker": "",
+      "ja": "ただでさえ可愛いエーブレスキーバがより一層可愛くなる。",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "5548a9ad",
+      "speaker": "エーブレスキーバ",
+      "ja": "パティシエ、もっと気持ち良くしてあげるからね……♥　覚えたことをまだ全然試しきれていないから……♥",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "55fd5e99",
+      "speaker": "エーブレスキーバ",
+      "ja": "あむぅ……ぢゅるっ、ちゅぼっ！♥　ちゅちゅ、ぢゅる、んふぅ……！♥　ちゅ、れろぉ……ぢゅる、ぢゅぼっ、ちゅぼっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "9d8bbdd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐうう……！　は、はげしっ……！！　そんなにされたら……ぐっ！！",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "4cca5f8d",
+      "speaker": "",
+      "ja": "エーブレスキーバの一生懸命な奉仕にもう抵抗する意思が完全に消え失せる。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "db7bb84a",
+      "speaker": "",
+      "ja": "彼女の思いのまま、されるがままに肉棒を差し出し、その快感を享受する。",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "247f620b",
+      "speaker": "エーブレスキーバ",
+      "ja": "（お汁どんどん溢れてきてる……♥　なんだかボクのあそこまで濡れてきちゃった……♥これが性的興奮っていうものなのかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "e4416a8c",
+      "speaker": "エーブレスキーバ",
+      "ja": "（でも今は自分のことよりパティシエを気持ち良くしなきゃ……♥　ボクの気持ちを少しでもパティシエに伝えるんだ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "f6dcaf92",
+      "speaker": "エーブレスキーバ",
+      "ja": "（ボクがパティシエを好きで好きでたまらない子なんだって少しでも知ってほしいっ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "ca14b9f",
+      "speaker": "エーブレスキーバ",
+      "ja": "ちゅっ、ぢゅるっ……ちゅちゅぅっ！♥　れろぉっ♥　ちゅ、んふぅ、ぢゅる……！！♥　ちゅぼ、ぢゅるぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "616b7f32",
+      "speaker": "",
+      "ja": "裏筋を執拗にぐにぐにと押され、どんどん射精感が強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "b9e4d5bb",
+      "speaker": "",
+      "ja": "エーブレスキーバが口を離した隙に出す、そう思ってはいたが一向に離れない。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "3c4cefe8",
+      "speaker": "",
+      "ja": "その間も彼女はオレの反応を見ながら巧みに舌と唇を動かし、どんどんオレを射精へと追い詰めていく。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "4e67a279",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、ぐっ……！　もうこれ以上はダメだ……！　離れてくれっ……！　もう出るっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "eca4893d",
+      "speaker": "エーブレスキーバ",
+      "ja": "（出る……？♥　あぁ、もう射精するんだ……♥　それなら最後は本に書いてあった通りに……♥）",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "52992f12",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ！？　すっ、吸わっ……！　や、やめっ……！！　本当に出てしまうっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "ee8da584",
+      "speaker": "エーブレスキーバ",
+      "ja": "いいよ、らひて……♥　ボクの口、パティシエのでいっぱいにして……！♥",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "2c185263",
+      "speaker": "エーブレスキーバ",
+      "ja": "んふぅっ！？♥　んぅ、んっ、ふぅぅぅ……！♥　ふ、ふぅっ……！♥　んぅ、んんんんん……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "c3168197",
+      "speaker": "",
+      "ja": "オレは射精を我慢できず、エーブレスキーバの口の中に射精してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "c7a20170",
+      "speaker": "",
+      "ja": "彼女はそれを逃げもせずに口で受け止め、溢れた精液が口の端から漏れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "13cfe67d",
+      "speaker": "",
+      "ja": "エーブレスキーバの口の中に射精している……その現実がオレを異様に高ぶらせ、熱い塊が何度も肉竿を駆け上がった。",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "6220ad1c",
+      "speaker": "エーブレスキーバ",
+      "ja": "（すごい……♥　ほ、本で読んだのと全然違う……♥　こんなに量があるなんて聞いてないよ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "14a85433",
+      "speaker": "エーブレスキーバ",
+      "ja": "（でも全部飲まなきゃ……♥　愛する人のを全部飲むのがボクの想いの証明なんだから……♥）",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "75fa8fe2",
+      "speaker": "",
+      "ja": "ゴクゴクと喉を鳴らしながら飲み込んでいくエーブレスキーバ。",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "3045c6f7",
+      "speaker": "",
+      "ja": "一生懸命に飲み込んでいく様子に胸が熱くなり、オレは少しでも労わるように頭を撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "8797d0e7",
+      "speaker": "エーブレスキーバ",
+      "ja": "ぷはぁっ！♥　はぁ、はぁっ！♥　パティシエのすごい量……♥　でも気持ち良くなってくれてよかったぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "f319c1d0",
+      "speaker": "エーブレスキーバ",
+      "ja": "ボクのお口で射精してくれて本当に嬉しいよ♥",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "a3e5dff4",
+      "speaker": "",
+      "ja": "エーブレスキーバは安堵の笑みを見せ、その表情にオレの心臓が再びドクンと高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "2c4606af",
+      "speaker": "",
+      "ja": "ムラムラした気持ちが射精する前より強くなってしまい、あれだけ出したにも関わらず一向に肉棒は勃起したままだった。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "1ab42a6a",
+      "speaker": "エーブレスキーバ",
+      "ja": "おちんちんまだカチコチのままだね……パティシエ、もっとしてあげる……♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "dc031567",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや！　もういい……！！",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "5d1b8295",
+      "speaker": "エーブレスキーバ",
+      "ja": "あむぅっ♥　ぢゅるっ、ちゅぼっ、ちゅ……♥　れるぅ、れろれろっ♥　れるんっ♥　ちゅちゅ、ぢゅるるるるっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "f4a800a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううう……！　な、なんで……もう十分……ぐっ！！",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "ab9e21c0",
+      "speaker": "",
+      "ja": "エーブレスキーバはオレの言葉を無視するように再び肉棒を咥える。",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "5144da91",
+      "speaker": "",
+      "ja": "射精直後の過敏な亀頭にザラザラでねっとりした舌が纏わり、あまりの快感に両足が震える。",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "8f6d0fb0",
+      "speaker": "",
+      "ja": "思わず腰を引くが、エーブレスキーバはオレの腰をそっと抑えながら、肉棒をさらに口の奥へと押し込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "52da2b29",
+      "speaker": "エーブレスキーバ",
+      "ja": "（身体が熱い……♥　もっと、もっとパティシエの精液が欲しい……♥　もっとパティシエの気持ち良かった証、飲み込んであげたい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "41ef508c",
+      "speaker": "",
+      "ja": "エーブレスキーバの瞳がとろんと蕩け、頬がさらに紅く染まる。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "ed16bb9",
+      "speaker": "",
+      "ja": "完全に発情した女の顔へと豹変し、顔を前後に揺すりながら、裏筋に舌を押し当てる。",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "6ca44b24",
+      "speaker": "",
+      "ja": "オレはどうにかやめさせようと声を掛けるが、もうオレの言葉が耳に入らないのか止まる気配が無い。",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "fc4afa49",
+      "speaker": "",
+      "ja": "肉棒を夢中にしゃぶり、彼女のいやらしい一面に興奮で身体が熱くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "a628c8e4",
+      "speaker": "エーブレスキーバ",
+      "ja": "（あぁぁ……パティシエのエッチな声、すごく素敵だ……♥　もっと聞かせて……♥　ボクがいくらでも気持ち良くしてあげるから……♥）",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "f4520b69",
+      "speaker": "エーブレスキーバ",
+      "ja": "（パティシエのためだったら何度でもペロペロしてあげるから……♥　だからもっと感じて……パティシエの心をボクでいっぱいにして……♥）",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "f3bc3448",
+      "speaker": "エーブレスキーバ",
+      "ja": "（今だけでいいから、ボクだけを見て……♥　あなたに思いを伝えたいボクを脳裏に焼き付けて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "5abf52fa",
+      "speaker": "",
+      "ja": "優秀なエーブレスキーバは完全にオレのモノを把握し、的確に、そして激しく攻め立てる。",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "58f2dfc4",
+      "speaker": "",
+      "ja": "射精したばかりの肉棒からさらに精液を搾り取ろうと舌で肉棒を舐め回し、唇で扱く動きがどんどん大きく大胆になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "2adb164d",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もうやめろって……！　また口の中に出してしまう……！　エーブレスキーバをこれ以上汚したくはないんだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "79838971",
+      "speaker": "エーブレスキーバ",
+      "ja": "んはっ♥　汚すだなんてそんなこと……♥　パティシエが射精するとすごく嬉しいんだよ♥",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "7b5b64ac",
+      "speaker": "エーブレスキーバ",
+      "ja": "これはボクからのお礼なんだから、パティシエは何も考えずに好きな時に射精していいんだからね？♥",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "e86a3580",
+      "speaker": "エーブレスキーバ",
+      "ja": "女の子は好きな人の色に染められるのが大好きらしい……♥　今喜びを感じているボクもきっとそう……だからボクに少しでも気があるのなら、パティシエの色にボクを染めて……♥",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "879c0d23",
+      "speaker": "エーブレスキーバ",
+      "ja": "あむっ！♥　ぢゅぼっ！♥　ぢゅる、ちゅっ、ちゅぢゅるっ！！♥　れるぅ、ちゅぢゅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "fdb28b67",
+      "speaker": "",
+      "ja": "激しいフェラに肉棒が限界以上に勃起し、エーブレスキーバの口内でビクンと何度も跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "58cd5e2b",
+      "speaker": "",
+      "ja": "溢れる先走りを喉を鳴らしながら飲み込み、オレを射精させようと一心不乱に舌と唇を動かす。",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "607b2ad0",
+      "speaker": "",
+      "ja": "もう射精の限界が近い……エーブレスキーバは口の中に出されるのを望んでいたが、やはり女の子の口に出すのは気が引ける。",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "706ceeb1",
+      "speaker": "",
+      "ja": "なんとか射精を堪えるが、エーブレスキーバのもたらす快感を前にすべては無駄な努力……そう思わせる快感に両脚の震えがとまらなくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "dafb1e4b",
+      "speaker": "エーブレスキーバ",
+      "ja": "パティシエ、だして……♥　もう一回射精するところ見せて……♥　パティシエの一番エッチなところ、ボクに見せて……♥",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "cde34441",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、ううっ！　もう、ダメだ……また出る……！！",
+      "zh": ""
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "21ad20e5",
+      "speaker": "エーブレスキーバ",
+      "ja": "出して……！♥　パティシエの精液、ボクにちょうだい……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "8630ad0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ！　おぉっ、おおおおおっ！！",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "295144fd",
+      "speaker": "",
+      "ja": "オレはうなり声を上げながら腰を跳ねらせこみ上げてきたモノを一気に吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "a3741024",
+      "speaker": "",
+      "ja": "口に出すのは失礼だと肉棒を強引に口から引っ張り出したが、今度は顔にびちゃびちゃと精液が掛かり、余計にエーブレスキーバを汚す結果になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "b1fd887d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまない……顔に掛けるつもりはなかったんだが……！　うう……！！",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "8c30b36c",
+      "speaker": "エーブレスキーバ",
+      "ja": "別に構わないよ……♥　顔に掛ける……それも男の人が女の子に望んでいることだもんね……♥",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "95045c4f",
+      "speaker": "{G_PlayerName}",
+      "ja": "べ、別に望んでは……あぎっ！？　ま、待っ……！　扱くのっ、やめ……ぐっ！！",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "6ae95231",
+      "speaker": "",
+      "ja": "エーブレスキーバが肉竿を優しく扱き、強烈な快感に再び熱いモノが肉竿を駆ける。",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "37153553",
+      "speaker": "",
+      "ja": "彼女の綺麗な顔が精液で汚れ、申し訳ないと思う一方で自分のモノにしている……そんなドス黒い感情が自分の中で芽生える。",
+      "zh": ""
+    },
+    {
+      "key": "400.0",
+      "line_index": 400,
+      "inline_index": 0,
+      "line_hash": "e0b37c20",
+      "speaker": "エーブレスキーバ",
+      "ja": "すごくいっぱい出たね……♥　君がボクでいっぱい感じてくれて嬉しいよ……♥",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "e370bce6",
+      "speaker": "エーブレスキーバ",
+      "ja": "それにしても本当に精液って不思議だなぁ……独特の匂いで……♥　それに身体がヘンに熱くなって……♥　顔に掛けられてすごく幸せを感じているよ……♥",
+      "zh": ""
+    },
+    {
+      "key": "406.0",
+      "line_index": 406,
+      "inline_index": 0,
+      "line_hash": "492faef1",
+      "speaker": "エーブレスキーバ",
+      "ja": "それでどうだったかな？♥　ボクのフェラチオ？……っていうんだったかな……付け焼刃だったけど、上手にできてた？♥",
+      "zh": ""
+    },
+    {
+      "key": "408.0",
+      "line_index": 408,
+      "inline_index": 0,
+      "line_hash": "7920a11d",
+      "speaker": "",
+      "ja": "上目遣いに見上げながら微笑むエーブレスキーバ。",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "1f8f7def",
+      "speaker": "",
+      "ja": "オレは少しでも彼女を安心させようと、そっと頭を撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "fb168f",
+      "speaker": "エーブレスキーバ",
+      "ja": "そっかぁ♥　少しは上手にできていたってことかな？♥　これで少し自信が付いたかも……♥",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "49ebbdd8",
+      "speaker": "エーブレスキーバ",
+      "ja": "もし君がまたボクで射精したいって思ったら遠慮なく言ってね？♥　君のためだったら何度でもペロペロしてあげるから♥",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "e8aa381d",
+      "speaker": "エーブレスキーバ",
+      "ja": "あ……最後にお掃除してあげるね♥　本にも最後は綺麗にしなくちゃいけないって書いてあったんだ……れるぅ、れるんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "ae666a5f",
+      "speaker": "",
+      "ja": "エーブレスキーバはそういうと再び肉棒に舌を這わせていく。余計なことを全部忘れさせてくれるようなエーブレスキーバの優しいお掃除。",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "c4546c2d",
+      "speaker": "",
+      "ja": "オレはそんな奉仕に甘えるように肉棒を舐められながら、射精の余韻に浸るのであった。",
+      "zh": ""
+    }
+  ]
+}

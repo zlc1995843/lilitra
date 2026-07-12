@@ -1,0 +1,400 @@
+{
+  "lines": [
+    {
+      "key": "3.0",
+      "line_index": 3,
+      "inline_index": 0,
+      "line_hash": "1fedd5ac",
+      "speaker": "",
+      "ja": "本シナリオの主人公は「シュガーコンフリクト」の主人公となっておりますが、名前はプレイヤー名で表示されます。",
+      "zh": ""
+    },
+    {
+      "key": "4.0",
+      "line_index": 4,
+      "inline_index": 0,
+      "line_hash": "ebbee557",
+      "speaker": "",
+      "ja": "「シュガーコンフリクト」の主人公になったつもりでお楽しみください。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "aa341bec",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……あれは……？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "88b2ebc5",
+      "speaker": "機械士",
+      "ja": "で、ここのボタンを押すとご飯が出てくるんだ",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "8d91bdcc",
+      "speaker": "エーブレスキーバ",
+      "ja": "へ～……ボタン押すだけでいいの？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "8c1a8709",
+      "speaker": "機械士",
+      "ja": "うん、あとは機械が全部やってくれる。簡単だろ？",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "1a02f5c1",
+      "speaker": "エーブレスキーバ",
+      "ja": "本当だね。　仕組みに魔法は使われているのかな？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7b41c070",
+      "speaker": "機械士",
+      "ja": "魔法は……多分使われてない、かな？　俺も構造を全部理解してないからわからないけど……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "a84db898",
+      "speaker": "{G_PlayerName}",
+      "ja": "（エーブレスキーバと機械士か。船内の機械について質問してるんだな……）",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "829f5ea3",
+      "speaker": "",
+      "ja": "探求心が旺盛のエーブレスキーバ、それは別の世界に来ても変わらないようだ。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "55fdca94",
+      "speaker": "",
+      "ja": "エーブレスキーバに話したいことがあったが、邪魔をしては悪いと思い少し離れて様子を見ることにした。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "faff80a",
+      "speaker": "エーブレスキーバ",
+      "ja": "うーん、ここの機械は聞けば聞くほど魔法みたいなことが出来るんだね……他の人も、聞いたら驚くだろうなあ",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "e9996764",
+      "speaker": "機械士",
+      "ja": "俺も最初はそう思ったけど、上手く説明できないな。申し訳ない……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "4638ab1c",
+      "speaker": "エーブレスキーバ",
+      "ja": "ううん、大丈夫だよ。なんとなくだけど仕組みはわかってきたからね",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "fce2d1ad",
+      "speaker": "機械士",
+      "ja": "ほんとうに？　俺の説明でわかるものなのか？　凄いな……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "62bc02a0",
+      "speaker": "エーブレスキーバ",
+      "ja": "色々聞いちゃってごめんね。ありがとう、機械士さん♪",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "53131be",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "4881e435",
+      "speaker": "",
+      "ja": "エーブレスキーバの笑顔を見ると、何故か胸が少しモヤモヤした気がした。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "20afeb8c",
+      "speaker": "エーブレスキーバ",
+      "ja": "ん……？　あっ、パティシエ！",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "a5a1eb5b",
+      "speaker": "エーブレスキーバ",
+      "ja": "パティシエもお散歩？　ボクは今機械士さんに不思議な道具についていろいろ聞いていたんだ",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "e50c08d4",
+      "speaker": "エーブレスキーバ",
+      "ja": "すごいよね、この船。ボク達の知らないことで満ち溢れている感じ。いろいろ勉強になるよ",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "b9dce203",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだな。不思議な船だ……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "ad62ef27",
+      "speaker": "エーブレスキーバ",
+      "ja": "……あっ！？　ねぇ、機械士さん、あれは何かなっ！？",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "4ca62fba",
+      "speaker": "",
+      "ja": "エーブレスキーバはまた自分の興味を惹かれるものを見つけたのか、あれこれと機械士に質問を繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "35fbdc2a",
+      "speaker": "エーブレスキーバ",
+      "ja": "……へぇ～、そういうのもあるんだ？　本当に何でもある船だね",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "1561f1f7",
+      "speaker": "",
+      "ja": "再び、どこか胸にモヤッとした物を感じる。これはまさか……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "686ce751",
+      "speaker": "{G_PlayerName}",
+      "ja": "（も……もしかして、嫉妬！？　２人はただ話してるだけなのに……！）",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "1117d43b",
+      "speaker": "エーブレスキーバ",
+      "ja": "ふむふむ……うわぁっ！　機械士さん、こんなのを使いこなせるなんてすごいね",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "b317869d",
+      "speaker": "機械士",
+      "ja": "いや、大したことじゃないって。説明された通りに動かしているだけだしさ",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "10f9cb5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや、用事があるのに話しかけられないからモヤモヤしてるだけだ。話に入れないから嫉妬して拗ねるなんて、そんな子供みたいな……）",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "8d635639",
+      "speaker": "{G_PlayerName}",
+      "ja": "（よし、もう話しかけよう。いるのには気づかれたわけだしな）",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "80dc9529",
+      "speaker": "{G_PlayerName}",
+      "ja": "エーブレスキーバ、ちょっといいか？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "5ad440cc",
+      "speaker": "エーブレスキーバ",
+      "ja": "ん？　パティシエ、どうかした？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "54c3069",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ちょっと用があったんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "3e416259",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、えーっと。その機械で何か飲みながら話すか？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "5cdc3e16",
+      "speaker": "エーブレスキーバ",
+      "ja": "そうだね！　あ、機械士さん。何か飲み物を注文してもらえるかな？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "d44036bf",
+      "speaker": "機械士",
+      "ja": "えーっと……ちょっと俺も用事があってな！　確か前、パティシエには使い方を教えたよな？",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "560b2227",
+      "speaker": "パティシエ",
+      "ja": "えっ？　ま、まあ覚えてるけど……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "24ebf659",
+      "speaker": "機械士",
+      "ja": "じゃあ大丈夫だな！　何かあったらアポロを呼べば出てくるから！　じゃあなー！",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "6d813233",
+      "speaker": "エーブレスキーバ",
+      "ja": "ど、どうしたんだろう急に。そんなに急ぎの用事があったのかな？",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "e5dd5475",
+      "speaker": "{G_PlayerName}",
+      "ja": "（も、もしかして……顔に出てたんだろうか？　気を遣わせて申し訳ないことをしてしまった……）",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "e9dd52de",
+      "speaker": "エーブレスキーバ",
+      "ja": "ふふ、でもパティシエとは久しぶりに２人になれた気がするね。さっそく、この機械の使い方を教えてよ",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "b15c436f",
+      "speaker": "{G_PlayerName}",
+      "ja": "お……おう。任せてくれ！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "f33866b7",
+      "speaker": "",
+      "ja": "気恥ずかしさが急に湧き上がってきたものの、なんとか飲み物を出して２人で落ち着く時間を過ごせたのだった……",
+      "zh": ""
+    }
+  ]
+}
