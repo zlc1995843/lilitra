@@ -1,0 +1,670 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "6d7b6c8d",
+      "speaker": "サティア",
+      "ja": "へぇ～……今時の子はこういうとこで魔法の勉強してるのね……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "9afc0fc7",
+      "speaker": "",
+      "ja": "サティアに”今”の魔と叡智の星の様子を見たい、そう頼まれオーロラに案内を頼んでやって来たわけだが──",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "3c89cb6f",
+      "speaker": "オーロラ",
+      "ja": "そうなんだよ……って言っても、わたしもちゃんと授業受けてないから、あんま教室使ってないや",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "981799c8",
+      "speaker": "",
+      "ja": "オーロラ自身、自由気ままにマイペースで”今”を知るには若干人選ミスだったかもと少し後悔してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "adde1317",
+      "speaker": "サティア",
+      "ja": "ふふっ、あなたはそれで良いのよ。格式ばった研究より、自由に探究する方が合っていると思うから",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "d3baa58f",
+      "speaker": "サティア",
+      "ja": "とは言え、わたしは学校にも通っていなかったから少し羨ましい、かも",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "c56b8ae7",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもサティアはすごいな……誰かに教わったとかそういうの無いんだろ？　それなのに魔法使いこなしているんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "5a7daaf1",
+      "speaker": "オーロラ",
+      "ja": "そうだよね～、私も勉強は一応していたし、独学であれだけの知識を得たのはすごいなって思うよ",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "a2605fcc",
+      "speaker": "サティア",
+      "ja": "そんなに褒められることでもないわ、必要だったから身に付けただけだから",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "ff56f4dd",
+      "speaker": "サティア",
+      "ja": "色々と頼まれごとをこなしているうちに……そんな感じかしらね",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "68b00f9d",
+      "speaker": "サティア",
+      "ja": "わたしにとってはそれが学校の代わりだったと、今ならそう思うから",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "343ffd71",
+      "speaker": "{G_PlayerName}",
+      "ja": "人助けしながら旅してるんだっけ？　なんか伝承になってるとか……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "ad83ec5c",
+      "speaker": "オーロラ",
+      "ja": "うんうん、困った人を魔法で助けてくれるお姉さん、でも大掛かりなイタズラを仕掛けてくるお茶目さん",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "4ed49d3a",
+      "speaker": "オーロラ",
+      "ja": "鏡の魔女って大昔の伝承？　伝説？　とにかく超有名だよ～",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "e1fe1c5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "待って、人助けしまくって有名になったのはわかる、でもなんでイタズラ……？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "1e3284d2",
+      "speaker": "サティア",
+      "ja": "んー……ちょっとした気分転換？♪　わたしも少しは遊んでみたくもなります♪",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "f42f1cb",
+      "speaker": "サティア",
+      "ja": "でも困るようなイタズラはしていないつもりだったんだけど……尾ひれが付いているんじゃないかしら……？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "ef99f1bb",
+      "speaker": "サティア",
+      "ja": "……例えばどんなイタズラが伝承に残っているの？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "c0cbae4e",
+      "speaker": "オーロラ",
+      "ja": "そうだな～……記憶力が抜群に良くなる代わりに、口が全く聞けなくなってしまったってのは有名かも？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "b384c6c9",
+      "speaker": "サティア",
+      "ja": "え？　何それ……？　わたし、そんなことしていないけど……？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "72bfff1e",
+      "speaker": "オーロラ",
+      "ja": "あとはその逆パターンとか……何かの願いを叶える代わりに何かを失うイタズラが多いかなぁ？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "d709f771",
+      "speaker": "オーロラ",
+      "ja": "全部が全部そういうわけじゃないんだけど、たまにそういうことをしている？　みたいな感じだよ",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "30a864e6",
+      "speaker": "サティア",
+      "ja": "なんでそんなことが……わたしのしたイタズラって銀を金に変えるとか、なるべくプラスになるようなことばかりだったはずだけど……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "883c1ee1",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ言い伝えだしなぁ……あれこれ脚色していった結果、そういう話になっちゃった、とか？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "40a4f728",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとは……誰か違う人の話が混ざったとか、そういう類なんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "7f07642a",
+      "speaker": "サティア",
+      "ja": "それならいいんだけど……でも嫌だな……もうイタズラは止めようかしら……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "a0665535",
+      "speaker": "オーロラ",
+      "ja": "でもでも、どっちにしろすごいよね～♪　いろんな人の記憶に残ってそれが物語になっているんだもん",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "44ce7d83",
+      "speaker": "オーロラ",
+      "ja": "そういえばさぁ……大昔からの伝承だけど、サティアちゃんって何歳なの？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "b839f1a5",
+      "speaker": "サティア",
+      "ja": "……ふふ、オーロラさん、レディに歳を尋ねるなんて大罪ですよ？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "c185d8ef",
+      "speaker": "サティア",
+      "ja": "──ねぇ、{G_PlayerName}さん？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "2f3be99b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ッ！？　あ、ああ……そ、そうだぞ、オーロラ！　やみくもにそういうことを聞くもんじゃないぞ、うん",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "9631b8f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんだ……！？　今一瞬凄い圧が……この手の話サティアにタブーなのか？　なら気を付けないと……）",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e5deda55",
+      "speaker": "オーロラ",
+      "ja": "そうなんだ～？　わかったよ",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "6969293b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（オーロラはオーロラでサティアの一瞬の圧を感じなかったのか？　それともオーロラ自身が実は何かしらの圧を掛けていたとか……？）",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "bfab7ccf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まぁこの二人似た者同士かもしれないな……片や伝承に残る鏡の魔女、片や学園一の天才（問題児ではあるけど）……）",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "77c5c6c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（オーロラも将来はサティアのように伝承に残る魔女になるのかも……）",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "1e3fdbe8",
+      "speaker": "",
+      "ja": "二人の天才の他愛のないやり取り、それを見ていると戦う能力がない自分が情けなく思えてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "ff67d41f",
+      "speaker": "サティア",
+      "ja": "{G_PlayerName}さん？　なんか落ち込んでいるけどどうかしたの？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "cc5259c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "……へっ？　あ、ああ、すまん……なんか二人を見ていたらさ、自分が情けなく思えてきて……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "e8430366",
+      "speaker": "オーロラ",
+      "ja": "なんで～？　別に何かしたつもりはないんだけど……？",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "712989f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、二人がどうこうしたわけじゃなくて……二人は純粋にすごいなって……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "a9caa1fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺にも何かしら特別な力があれば……いつだって俺だけ戦えない場面が多いし……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "abc76d70",
+      "speaker": "サティア",
+      "ja": "特別な力……だから{G_PlayerName}さんは魔法に興味があったのね",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "91daa535",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……魔法の一つでも使えたらみんなの力になれるのかなって……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "f258dfc0",
+      "speaker": "サティア",
+      "ja": "わたしは{G_PlayerName}さんに”特別な力”があると思うけどね",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "516fbd71",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなのないだろ？　その辺にいる普通の人間だしさ",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "16a6dd6a",
+      "speaker": "サティア",
+      "ja": "そうかしら？　だってあなたの周りはいつも笑顔で溢れていますよ？　これはあなたに何かしらの力があるからじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "a0a356a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは……別に俺がいなくてもみんな笑っていると思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "39edd3d",
+      "speaker": "サティア",
+      "ja": "ふふ……ずいぶんと自信喪失しちゃってるのね。でもね、周りの人が笑顔でいられるって実は結構特別なことなのよ？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "7fe68dc8",
+      "speaker": "サティア",
+      "ja": "例えるなら……太陽みたいなものかしらね。あなたという暖かい太陽が存在するから、みんなその日差しを浴びて笑顔になっている……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "34a69ee1",
+      "speaker": "サティア",
+      "ja": "あなたが太陽とは逆の……冷たいブラックホールみたいな存在だったら、笑顔どころか誰もあなたに見向きもしないし、近づきもしない",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "2f186e9f",
+      "speaker": "サティア",
+      "ja": "みんなあなたの存在を認めて、努力しているのを知っているから、あなたのために力になりたいって思う人も多いと思うの",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "ef7486d",
+      "speaker": "サティア",
+      "ja": "そういう存在は誰にだってなれるわけじゃない。それはあなたが持つ”特別な力”なのだから",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "a6dc2591",
+      "speaker": "オーロラ",
+      "ja": "そうだよ～、結構特別な存在だと思うよ～？　学校にはそういう人いないと思うし……そういう魔法ってあるのかな？",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "b52ff4a0",
+      "speaker": "サティア",
+      "ja": "んー……ありそうで無さそう……。そう考えるとあなたの存在は魔法を超越していると言ってもいいわね",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "5ae0f4b6",
+      "speaker": "{G_PlayerName}",
+      "ja": "さ、さすがにそれは褒め過ぎだって……",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "d526fd28",
+      "speaker": "サティア",
+      "ja": "ふふっ、あなたにはあなたの才能がある、だから胸を張って",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "47407be1",
+      "speaker": "サティア",
+      "ja": "それに、あなたが本当に困ったときは、わたしが助けになるから",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "60f67527",
+      "speaker": "サティア",
+      "ja": "伝承の鏡の魔女もまた、あなたという太陽に魅せられた一人なんだから",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "a01761b4",
+      "speaker": "オーロラ",
+      "ja": "わわっ♪　今のセリフ、愛の告白みたい♪",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "942332f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぅえっ！？　お、おい、オーロラ、あまりサティアを揶揄うなよ……！",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "7288e624",
+      "speaker": "サティア",
+      "ja": "ふふふっ、本当ね……♥　ちょっと恥ずかしくなってきたかも……？♥",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "c07df8fe",
+      "speaker": "",
+      "ja": "サティアの頬が僅かに紅く染まり、俺もそれに釣られて恥ずかしくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "d0b6fe9e",
+      "speaker": "",
+      "ja": "オーロラはそんな俺たちを楽しそうに見つめ、俺は何かを誤魔化すように天井を見上げる。",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "3a5d32fa",
+      "speaker": "サティア",
+      "ja": "さて、それじゃあ次は街の方を見て回りたいわ。案内してくれるかしら？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "ed146a18",
+      "speaker": "オーロラ",
+      "ja": "えへへ、任せて♪　あ、その前に～……二人は並んで歩いてねっ♪",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "497aa5cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいっ……！　お前、いい加減に……！",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "780f5175",
+      "speaker": "オーロラ",
+      "ja": "それじゃあ先に行くけど、二人はゆっくり着いてきてね～♪",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "1159b010",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまん、サティア……オーロラのヤツちょっと調子に乗ってるみたいだ",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "181df7ff",
+      "speaker": "サティア",
+      "ja": "いえ……でもせっかくの心遣いだから……",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "4cba0297",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう、だな……それじゃあ行くか……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "85a3a9e4",
+      "speaker": "",
+      "ja": "サティアは小さく頷くと、そっと俺の手を取る。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "e889840f",
+      "speaker": "",
+      "ja": "いきなり手を繋がれ照れくささはあったものの、サティアの小さな手のぬくもりにどこか安心感を覚える。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "c8baac9c",
+      "speaker": "",
+      "ja": "その日一日手を繋ぎながら街を散策し、サティアと楽しい思い出を作るのであった。",
+      "zh": ""
+    }
+  ]
+}

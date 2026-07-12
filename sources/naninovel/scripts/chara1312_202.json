@@ -1,0 +1,1363 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "9b774896",
+      "speaker": "",
+      "ja": "『私の魔法の秘密、教えてあげます♪』",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "a8ff2c1d",
+      "speaker": "",
+      "ja": "鏡の中から突然現れたサティアにそう言われ、俺は気になり彼女の部屋に向かう。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "1e24b264",
+      "speaker": "",
+      "ja": "先日のこともあり、サティアに会うのに少し恥ずかしいと思う気持ちはある。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "4fbcb84c",
+      "speaker": "",
+      "ja": "それでも鏡の中を移動する魔法に純粋に興味があった。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "f763ff26",
+      "speaker": "",
+      "ja": "もしかしたら自分でも使えるようになるかも……そんな淡い気持ちを抱きながら通路を歩く。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "102530eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "サティア、{G_PlayerName}だけど……いる？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "f94df4fe",
+      "speaker": "サティア",
+      "ja": "……どうぞ入って",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "b33a839e",
+      "speaker": "",
+      "ja": "部屋の中からサティアの声が聞こえ、心臓が高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "63491989",
+      "speaker": "",
+      "ja": "俺はもう一度深呼吸をすると、平静さを装いながら部屋の中に入った──",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "55b7a93e",
+      "speaker": "{G_PlayerName}",
+      "ja": "──なぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "3c605e0d",
+      "speaker": "",
+      "ja": "部屋の中に入ると、サティアの姿に思わず声を上げてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "99400b61",
+      "speaker": "サティア",
+      "ja": "……あの、ドア閉めて",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "b5a148bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……す、すまん……！",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "19ef3eff",
+      "speaker": "",
+      "ja": "サティアは頬を紅く染め、服を着崩した姿でベッドの横に立っていた。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "ea2fbc8e",
+      "speaker": "",
+      "ja": "俺は目のやり場に困りその場に立ち尽くすと、誤魔化すようにキョロキョロと部屋の中を見渡す。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "6fb0359c",
+      "speaker": "サティア",
+      "ja": "ふふ……♥　そんなに照れて……カワイイ……♥",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "ca4bcfed",
+      "speaker": "{G_PlayerName}",
+      "ja": "だだだって……！　魔法の秘密って話だったし……！　いきなり過ぎて心の準備が……！！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "a1643dd2",
+      "speaker": "サティア",
+      "ja": "この恰好で何を求めているのか、理解が早くて助かるわね……♥",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "2dd2633",
+      "speaker": "サティア",
+      "ja": "この前はお預けされたし、今度は二人で気持ち良く……♥　機械士さん、こちらへ……♥",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "c187a21d",
+      "speaker": "",
+      "ja": "サティアは俺の手を優しく取り、ベッドの方へと歩き出す。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "c3fff316",
+      "speaker": "",
+      "ja": "一歩一歩足を進めるたびに心音が強くなり息苦しさを覚える。",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "f93cfd86",
+      "speaker": "",
+      "ja": "肉棒はすでにはちきれんばかりに膨張し、歩くのも辛いほど肥大化してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "2563b2af",
+      "speaker": "サティア",
+      "ja": "くすっ♥　もうおちんちんがこんなに……♥　すぐに楽にしてあげるわね♥",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "a8c0ba63",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　脱ぐくらい自分で……！！",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "56273f23",
+      "speaker": "サティア",
+      "ja": "いいの……このままわたしにさせて……♥",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "4c50def",
+      "speaker": "サティア",
+      "ja": "今は機械士さんに色々してあげたい気分なの……だから全部わたしに任せてね……♥",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "4c849762",
+      "speaker": "サティア",
+      "ja": "んんっ……！♥　あぁ、おっきぃ……！♥　んぅぅぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "1cd0b627",
+      "speaker": "",
+      "ja": "サティアは俺の服をすべて脱がすと、我慢できなかったのかいきなり肉棒を膣に押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "7a7ddbbe",
+      "speaker": "",
+      "ja": "ぐちゅりと卑猥な水音と共に肉棒を包み込む熱い柔膣。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "25d405",
+      "speaker": "",
+      "ja": "まるで歓迎するようにぎゅっと締め付け、蕩け切った膣ヒダの刺激に腰が勝手に震えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "909d8ec5",
+      "speaker": "サティア",
+      "ja": "ふふ……困惑しているわね……♥　わたしがこういうことをするのは意外だった……？♥",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "a65a8219",
+      "speaker": "{G_PlayerName}",
+      "ja": "そこまで意外でもないけど……でも早急すぎて色々と自分の中で追いつかない……",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "5145b168",
+      "speaker": "サティア",
+      "ja": "ごめんなさい……♥　でももうこれ以上自分を抑えられなくて……♥　初めてあなたのを見た時から今日までお預けだったから……♥",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "f9b6d3e3",
+      "speaker": "サティア",
+      "ja": "あなた一人満足して……女をほっといて一人眠るなんて……♥",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "b2a6ea7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　あれは……うううっ！？　うあ、締め付けヤバ……！！",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "fc03ae5",
+      "speaker": "サティア",
+      "ja": "……これは今日はあなた一人だけ満足させないってわたしの意思♥　今日こそいっぱい愛し合いましょう、ね……♥",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "3f9cff2",
+      "speaker": "",
+      "ja": "サティアは潤んだ瞳でじっと俺を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "47f47d83",
+      "speaker": "",
+      "ja": "吸い込まれそうな大きな瞳、それを見ているだけで俺の興奮がどんどん高まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "f9482808",
+      "speaker": "サティア",
+      "ja": "機械士さんに見つめられるだけで胸が高鳴る……♥　あの時からわたし、あなたのことばかり考えていました……♥",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "82491b1",
+      "speaker": "サティア",
+      "ja": "ううん、違うかな……あなたに初めて会ったあの日からわたしはあなたに恋を……一目惚れしたの……♥",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "62b4da80",
+      "speaker": "サティア",
+      "ja": "運命なんて言葉、そんなに信じないけど……でもあなたとの出会いは間違いなく運命だったって信じられる……♥",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "bc8a4efc",
+      "speaker": "サティア",
+      "ja": "この広い宇宙でたった一人の、わたしの運命の人……♥　あなたは間違いなくその相手……♥",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "2a7b8e15",
+      "speaker": "{G_PlayerName}",
+      "ja": "サティア……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "1cc8c778",
+      "speaker": "",
+      "ja": "サティアの想いがヒシヒシと瞳と言葉から伝わってくる。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "3e9fe27",
+      "speaker": "",
+      "ja": "俺は口にはできない自分の想いを伝えるようにそっとサティアの頬に手を伸ばす。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "eadde5cc",
+      "speaker": "サティア",
+      "ja": "ふふ……大きな手……♥　ねぇ、これからはこの大きな手でわたしを撫でてくれる？♥　硬い腕でわたしを抱きしめてくれる……？♥",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "e41ef555",
+      "speaker": "サティア",
+      "ja": "逞しいおちんちんでわたしを愛してくれる……？♥",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "c3db22b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……俺も同じ気持ちだから……魔法のことだけじゃない、サティア自身のこと、もっと知りたいから……知って、もっと好きになりたいから……",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "7287a958",
+      "speaker": "サティア",
+      "ja": "ふふ……♥　嬉しい……♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "bd4657c",
+      "speaker": "サティア",
+      "ja": "んっ……！♥　んはぁ、はぁぁ……あ、ああ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "fb426a04",
+      "speaker": "",
+      "ja": "サティアは一言呟くと腰をゆっくりと動かす。",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "55439d02",
+      "speaker": "",
+      "ja": "その表情は甘く蕩け、いつものミステリアスさがまったくない。",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "7002556f",
+      "speaker": "",
+      "ja": "サティアの新たな一面に俺は興奮し、彼女を抱き寄せるようにそっと腰を掴む。",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "95bb7bd5",
+      "speaker": "サティア",
+      "ja": "おちんちん、気持ち良い……♥　腰が勝手に早くなっちゃう……♥　もっとじっくり愛し合いたいのに……♥",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "48b39e7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "一度や二度で終わらないから……今日はずっとサティアを愛するから",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "49c8c78e",
+      "speaker": "サティア",
+      "ja": "ふふ……約束、だからね？♥　また寝ちゃったら寝込み襲うから……♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "5648e1f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、是非そうしてくれ……俺もサティアが寝ちゃったら襲うから",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "d0980cb8",
+      "speaker": "サティア",
+      "ja": "ええ……♥　ああぁ、はぁ、んぅぅ……！♥　はぁ、あ、はぁぁんっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "6a7b25ce",
+      "speaker": "",
+      "ja": "サティアが動くほどに膣が締め付け、膣ヒダが亀頭を包み込む。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "594bb028",
+      "speaker": "",
+      "ja": "無数の柔らかなヒダで先端を舐められ、その気持ち良さに腰が勝手に震える。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "8aa3dc2a",
+      "speaker": "",
+      "ja": "サティアの口からどんどん甘い声が漏れ、狭い膣だったが溢れる愛液がローションとなり抽送を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "446e6570",
+      "speaker": "サティア",
+      "ja": "好き、好き……好き……♥　機械士さん、大好きっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "b47ea103",
+      "speaker": "{G_PlayerName}",
+      "ja": "サティア、好きだ……！　ううう……！",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "247d81ce",
+      "speaker": "",
+      "ja": "お互いの身体から汗が滲み、サティアの綺麗な身体が艶々としていく。",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "5470db3b",
+      "speaker": "",
+      "ja": "俺はサティアの小さな胸にそっと手を伸ばすと、汗を塗りたくるように柔らかな乳房を揉んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "acb69f0d",
+      "speaker": "",
+      "ja": "乳首を摘まむとビクンと身体が跳ね、甘い声がどんどん大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "c0a8094",
+      "speaker": "",
+      "ja": "サティアの感じる声をもっと聴きたい、それはそんな想いで乳首をコリコリと弄り続けた。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "14e40366",
+      "speaker": "サティア",
+      "ja": "んはぁ……！♥　あああぁ、ダメ、胸もあそこも感じて……んんっ！♥　乳首、ジンジンするぅ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "1197bb4c",
+      "speaker": "サティア",
+      "ja": "あっ！♥　あっ！♥　そんなに摘まんじゃ……！♥　んくぅっ！♥　うううう……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "94d69cc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "うあっ！？　サティア、ま、待っ……！　ぐ、ううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "6d346023",
+      "speaker": "",
+      "ja": "サティアはまるで競争するように腰の動きが早くなり、腰を打ち付けるようにピストンを激しくさせる。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "d78f876a",
+      "speaker": "",
+      "ja": "サティアが動くたびに締まる柔膣に肉棒を締め付けられ、ぐちゅぐちゅと水音が鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "62bd31a5",
+      "speaker": "",
+      "ja": "ただでさえ狭い膣がさらに狭くなり、サティアの喘ぎ声の大きさに比例するように肉棒に吸い付いてくる。",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "1395253d",
+      "speaker": "サティア",
+      "ja": "んんんっ！♥　先っぽ膨らんでるっ♥　もう出ちゃいそうなんですねっ♥",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "d1a92942",
+      "speaker": "サティア",
+      "ja": "ガマンなんてしないでこのまま出して……！♥　あなたの精液、おまんこで受け止めさせてっ♥",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "80674818",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……！　中に出したら……！",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "7d64c4e0",
+      "speaker": "サティア",
+      "ja": "んぅ、んんっ！♥　だから今日あなたをお誘いしたんです……！♥　安全な日だから……んはぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "86338782",
+      "speaker": "サティア",
+      "ja": "今なら……はぁ、はぁっ！♥　お姉さんのおまんこに種付けし放題、だからっ♥",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "5bfb8fae",
+      "speaker": "",
+      "ja": "サティアは身体を傾け前屈みになると小刻みに腰を揺する。",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "a6da4471",
+      "speaker": "",
+      "ja": "大量の汗が額から滴り、サティアの体温が俺にまで伝わってくる。",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "1b3b79f1",
+      "speaker": "サティア",
+      "ja": "あぁ、はぁっ！♥　出して……！♥　おまんこにあなたの精液でマーキングしてぇ～～っ！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "fdc28d55",
+      "speaker": "",
+      "ja": "健気なサティアの行動にこみ上げる射精衝動を抑えられない。",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "f5eb95c2",
+      "speaker": "",
+      "ja": "俺はぎゅっとサティアの腰を掴むと、陰茎を駆け上げる塊を一気にぶちまけた。",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "180ff400",
+      "speaker": "サティア",
+      "ja": "あふううっ！？♥　うあ、ああぁ……！！♥　んぅ、んんんんっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "6b16a984",
+      "speaker": "",
+      "ja": "膣奥でビクビクと震えながら射精すると、サティアは驚きながら甘い悲鳴を上げる。",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "5743321",
+      "speaker": "",
+      "ja": "身体を大きく跳ねらせ、狭い膣が肉棒をぎゅっと締め付ける。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "bed486a1",
+      "speaker": "",
+      "ja": "膣が肉棒を扱くようにうねり、吸われるような快感と共に俺は何度も精液を子宮へと注ぎ込む。",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "7727e04",
+      "speaker": "サティア",
+      "ja": "機械士さんの……たくさん……嬉しい♥　んふふ……もっとぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "5e8eceb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！　サティア……！！",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "7c2be41f",
+      "speaker": "サティア",
+      "ja": "熱いの、びゅくびゅくでてるぅ……！♥　イクの、止まらないっ♥　おまんこ溶けるぅ……♥　あはぁ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "3789f2c0",
+      "speaker": "",
+      "ja": "絶頂した喜びに口元を緩め嬉しそうなサティア。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "6bb0cece",
+      "speaker": "",
+      "ja": "しかしいつまでもお互いの絶頂は続かず、すべてを吐き出したころには俺もサティアも完全に息を切らせていた。",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "214adc13",
+      "speaker": "サティア",
+      "ja": "んはぁ、はぁ……♥　こんなに激しく動いたの何時以来でしょうか……♥",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "ff9ffdd5",
+      "speaker": "",
+      "ja": "サティアは額の汗を手で拭い、その姿に妙ないやらしさを覚えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "872c3c4b",
+      "speaker": "",
+      "ja": "肉棒が膣の中でビクンと跳ねてしまい、それを悟ったサティアは表情をいやらしく歪ませる。",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "9c025f01",
+      "speaker": "サティア",
+      "ja": "ふふ……まだまだおちんちん元気そうで安心しました……♥",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "45fca606",
+      "speaker": "{G_PlayerName}",
+      "ja": "……とてもじゃないが収まる気配がしない、今度は俺が……",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "379b850d",
+      "speaker": "サティア",
+      "ja": "ダメ……まだわたしにさせて……♥　さっきも言ったでしょう？♥　今日はあなたに色々してあげたい気分だから……♥",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "3cbe6305",
+      "speaker": "サティア",
+      "ja": "んぅぅぅっ！♥　んはぁ、あああ……はぁっ♥　あ、あああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "8483ec9e",
+      "speaker": "",
+      "ja": "サティアは再び腰を動かし始め、ぐちゅぐちゅと卑猥な音が膣から響く。",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "a63e2eb",
+      "speaker": "",
+      "ja": "よほど感じているのか、動くたびに尿道から潮がプシュっと噴き出し、汗と共に俺の身体がいやらしく濡れる。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "43849216",
+      "speaker": "",
+      "ja": "俺は何を思ったのか、サティアから溢れる体液を指で掬うとペロペロと舐めだしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "b59bcffc",
+      "speaker": "サティア",
+      "ja": "あうっ……！♥　そんなの舐めちゃ……んっ、さすがに恥ずかしい……！♥",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "4ad87a58",
+      "speaker": "{G_PlayerName}",
+      "ja": "大好きな人のだったら気にならないだろ……？　俺もサティアも同じだから……",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "4421832c",
+      "speaker": "サティア",
+      "ja": "それは理解するけどぉ……んっ！♥　恥ずかしいモノは、恥ずかし……あひぃっ！？♥　あ、あっ！♥　クリちゃんダメぇえっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "9d8e770b",
+      "speaker": "サティア",
+      "ja": "そんなところコリコリしないでぇっ！♥　あなたの硬い指っ、気持ち良すぎるぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "a6862445",
+      "speaker": "",
+      "ja": "俺は少しでもサティアを感じさせようと、限界まで肥大化していたクリトリスを指の腹で擦る。",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "a8ae68a4",
+      "speaker": "",
+      "ja": "サティアはよほど気持ち良いのか、身体をブルブルと震わせ甘い悲鳴を口から漏らす。",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "4dc39e5c",
+      "speaker": "",
+      "ja": "それでも腰の動きは一切止まらず、健気すぎるサティアの姿に俺の興奮は最高潮に達する。",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "e7168ac9",
+      "speaker": "サティア",
+      "ja": "機械士さんっ、好き、好き、好きぃっ！♥　ああぁ、もっと、もっとクリちゃんイジメてぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "b2af219b",
+      "speaker": "{G_PlayerName}",
+      "ja": "任せろ……！　いくらでもするからっ……！",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "fcd9925e",
+      "speaker": "サティア",
+      "ja": "んぎぃっ！♥　んぅ、はぁ、はぁっ！♥　ダメ、　何回も、イっ……！♥　んんんっ！♥　こんなの、初めてぇっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "94f9da",
+      "speaker": "サティア",
+      "ja": "大好きな人の指、おちんちん、いいのっ！♥　心も身体もあなたの虜になっちゃうよぉっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "49812c83",
+      "speaker": "",
+      "ja": "お互いの汗、お互いの精液と愛液を掻き回すいやらしい音が部屋中に響く。",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "85dc9a98",
+      "speaker": "",
+      "ja": "力なく上半身を俺に預け、抱き合うような形で俺たちは素直にセックスに興じる。",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "13756504",
+      "speaker": "",
+      "ja": "サティアは安心したように俺を見上げ、さらに腰を力強くピストンさせ卑猥な水音がさらに大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "39563e07",
+      "speaker": "サティア",
+      "ja": "機械士さん、大好きっ♥　ずっと、ずっとあなたとこうしていたい……毎日セックスしていたい……♥",
+      "zh": ""
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "e9a581ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もだ……！　毎日だってサティアを抱きたい……！　サティアとずっといたい……！　そのくらい好きだっ！",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "e34bf913",
+      "speaker": "サティア",
+      "ja": "好き好き好き好きっ！♥　んんっ！♥　大好きぃぃぃ～～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "80a8cd2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐぅぅ！？　うあ、す、吸わっ……！！　うう、サティア、ダメだ、気持ち良すぎて、また出るっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "b217373e",
+      "speaker": "サティア",
+      "ja": "出して、出してぇっ！♥　いつでもおまんこの中に射精してぇっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "58cb2c0",
+      "speaker": "サティア",
+      "ja": "何度でも受け止めるからっ♥　大好きな人の精液でおまんこ溢れさせてぇっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "9915bf09",
+      "speaker": "サティア",
+      "ja": "ひゃぁぁっ！？♥　あっ、あっ！♥　機械士さんっ、ダメっ！♥　突き上げないでぇっ！♥　ああああ、おまんこ気持ち良い～～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "d5ba95ad",
+      "speaker": "",
+      "ja": "サティアが悶え喘ぐたびに、膣からは愛液が溢れ俺たちの下半身がグチョグチョに濡れる。",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "7a6bb06f",
+      "speaker": "",
+      "ja": "限界まで蕩け切った膣に何度も強く締め付けられ、射精感がさらに強くなってくるのを感じる。",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "281591c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "サティアっ、出すぞ……！　また俺の精液受け止めてくれぇっ！！",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "ceb8c1d9",
+      "speaker": "サティア",
+      "ja": "来てっ！♥　出してぇっ！♥　中出しでイかせてぇ～～～～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "57bf421b",
+      "speaker": "サティア",
+      "ja": "んぅぅぅっ！♥　イ、クぅ……！♥　んはっ、あああぁぁぁ～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "1317466e",
+      "speaker": "",
+      "ja": "興奮のままに膣奥へ射精すると、その反動でサティアは絶頂する。",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "25d65b93",
+      "speaker": "",
+      "ja": "締まる膣が肉棒に吸い付き、その締まりに何度も射精を繰り返してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "713ef8d4",
+      "speaker": "",
+      "ja": "射精のたびにサティアは絶頂し、プシャっと何度も潮を噴き出させていた。",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "ffe7b599",
+      "speaker": "サティア",
+      "ja": "はぁ、んはぁ、中出し、気持ち良いよぉ……♥　もっと出してぇ……♥　何度でもイかせてぇ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "417.0",
+      "line_index": 417,
+      "inline_index": 0,
+      "line_hash": "691747da",
+      "speaker": "",
+      "ja": "俺はサティアの期待に応えようと腰を小刻みに揺すり精液を扱き出す。",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "b6d79a27",
+      "speaker": "",
+      "ja": "サティアは恍惚とした笑みを浮かべながら精液を子宮で受け止め、歓喜の甘い悲鳴を口から漏らしていた。",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "764a897f",
+      "speaker": "サティア",
+      "ja": "はぁ、んはぁ……♥　気持ち、良かった……♥",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "563f30d2",
+      "speaker": "サティア",
+      "ja": "あなたと最後まで愛し合えて、心が幸せでいっぱい……♥",
+      "zh": ""
+    },
+    {
+      "key": "427.0",
+      "line_index": 427,
+      "inline_index": 0,
+      "line_hash": "4dd5fda3",
+      "speaker": "{G_PlayerName}",
+      "ja": "最後……？",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "f5bc8a2",
+      "speaker": "サティア",
+      "ja": "ひゃうっ！？♥　あっ、んあっ！？♥　待って、今は……あうっ！♥　す、少し休ませてぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "434.0",
+      "line_index": 434,
+      "inline_index": 0,
+      "line_hash": "d143ca33",
+      "speaker": "",
+      "ja": "これで終わりなのかと勘違いした俺は更なる快感を求め腰を突き上げる。",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "e7624221",
+      "speaker": "",
+      "ja": "サティアは絶頂したばかりで過敏な膣の快感に耐えられないのか、腰を捩らせ俺の身体の上で悶える。",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "17ac7c39",
+      "speaker": "",
+      "ja": "俺はサティアの小さな身体をぎゅっと抱きしめると、ピストンのペースを落とし安心させるように頭をそっと撫でた。",
+      "zh": ""
+    },
+    {
+      "key": "440.0",
+      "line_index": 440,
+      "inline_index": 0,
+      "line_hash": "f897f79d",
+      "speaker": "サティア",
+      "ja": "はぁ～……はぁ～……もう、機械士さんってば……♥　終わりだと勘違いしちゃった……？♥",
+      "zh": ""
+    },
+    {
+      "key": "443.0",
+      "line_index": 443,
+      "inline_index": 0,
+      "line_hash": "55c13e8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "最後までって言われたら勘違いするって",
+      "zh": ""
+    },
+    {
+      "key": "447.0",
+      "line_index": 447,
+      "inline_index": 0,
+      "line_hash": "4e640d23",
+      "speaker": "サティア",
+      "ja": "ふふ……ごめんなさい……♥　でも今は少し休ませて……♥　あなたの腕の中で満ち溢れる幸せな余韻を堪能したいの……♥",
+      "zh": ""
+    },
+    {
+      "key": "450.0",
+      "line_index": 450,
+      "inline_index": 0,
+      "line_hash": "fe887be5",
+      "speaker": "サティア",
+      "ja": "落ち着いたら……あなたの好きに愛して……♥",
+      "zh": ""
+    },
+    {
+      "key": "452.0",
+      "line_index": 452,
+      "inline_index": 0,
+      "line_hash": "93de70fb",
+      "speaker": "",
+      "ja": "サティアの甘えるようなおねだりに、俺の心臓がドクンと一際大きく高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "453.0",
+      "line_index": 453,
+      "inline_index": 0,
+      "line_hash": "43f54538",
+      "speaker": "",
+      "ja": "すぐにでも動きたい衝動に駆られるが、その気持ちをぐっと堪えながら頭を撫で続けた。",
+      "zh": ""
+    },
+    {
+      "key": "456.0",
+      "line_index": 456,
+      "inline_index": 0,
+      "line_hash": "639cd4e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかったよ、でもそんなに長く待てないから",
+      "zh": ""
+    },
+    {
+      "key": "460.0",
+      "line_index": 460,
+      "inline_index": 0,
+      "line_hash": "4950c161",
+      "speaker": "サティア",
+      "ja": "ええ……今日はずっとセックスしてようね……♥　お姉さんを何度でもイかせてね……♥",
+      "zh": ""
+    },
+    {
+      "key": "462.0",
+      "line_index": 462,
+      "inline_index": 0,
+      "line_hash": "bcee5c9",
+      "speaker": "",
+      "ja": "俺は頷くとサティアが嬉しそうに微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "463.0",
+      "line_index": 463,
+      "inline_index": 0,
+      "line_hash": "9179dc63",
+      "speaker": "",
+      "ja": "サティアの笑みとぬくもりを感じながら俺はサティアが落ち着くまで射精の余韻に浸っているのであった。",
+      "zh": ""
+    }
+  ]
+}
