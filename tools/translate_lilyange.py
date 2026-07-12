@@ -415,6 +415,8 @@ def unknown_speakers(source_lines: List[Dict[str, Any]], glossary: Dict[str, str
     values = set()
     for line in source_lines:
         speaker = str(line.get("speaker") or "").strip()
+        if speaker.startswith("{") and speaker.endswith("}"):
+            continue
         if speaker and speaker not in glossary:
             values.add(speaker)
     return sorted(values)
@@ -1118,7 +1120,7 @@ def main() -> int:
         source_lines = extract_lines(source_bundle)
         unknown = unknown_speakers(source_lines, name_glossary)
         if unknown:
-            pending_path = repo_root / ".worklogs" / "unknown_glossary.json"
+            pending_path = pathlib.Path(r"C:\Users\曾罗畅\Downloads\莉莉对照") / "unknown_glossary.json"
             write_json(pending_path, {"script": script, "unknown_speakers": unknown})
             print(f"unknown glossary entries: {', '.join(unknown)}", file=sys.stderr)
             return 4
