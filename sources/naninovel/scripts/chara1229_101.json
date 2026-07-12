@@ -1,0 +1,742 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "882d8c97",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふあぁ……あ～……そろそろ起きるか……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "afff5aac",
+      "speaker": "{G_PlayerName}",
+      "ja": "ってぇっ！？　昼！？　今お昼！？　な、なんで！？",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "f82d2cd",
+      "speaker": "",
+      "ja": "朝だと思って目を覚ましたら昼だった。思いもしないほどの時間の経過に俺は慌ててベッドから飛び起きる。",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "74dd9555",
+      "speaker": "アポロ",
+      "ja": "どうやらお目覚めのようですね。おはようございます",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "aa57c522",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、おはよう……って、なんで起こしてくれなかったんだ……！？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "66db3d00",
+      "speaker": "アポロ",
+      "ja": "ご自分で起きて欲しいものですが……現在見つけたワームホールを通り、宴と平和の星に着陸しています",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "c9028794",
+      "speaker": "アポロ",
+      "ja": "ルミナ様たちは街に出ております。{G_PlayerName}様はおやすみだったようで、ルミナ様がそのまま眠らせてあげてと……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "20737e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんなことあったのか……？　全然気づかなかった……",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "51948608",
+      "speaker": "アポロ",
+      "ja": "今日一日は宴と平和の星に滞在の予定です。何か街に用があるのでしたらどうぞご自由に。私は少々トラブルがあったので失礼します",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "c22a0d87",
+      "speaker": "",
+      "ja": "アポロは必要なことを言うと消えてしまった。アポロが忙しくなるほどのトラブルがあったんだろうか……？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "1d49117",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、ここにいても仕方ないし、俺も降りるか……？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "ad223c57",
+      "speaker": "グリム",
+      "ja": "お・に・い・ちゃんっ♪",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "4e31d451",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぉっ！？　グリム！？",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "7da2ee06",
+      "speaker": "",
+      "ja": "突然グリムに耳元で囁かれ、俺は慌てて振り向く。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "ca0d7c5a",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんはルミナお姉ちゃん達と買い物に行かなかったんだ～？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "8d1f59da",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、ずっと寝ててな……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "fe925aa5",
+      "speaker": "グリム",
+      "ja": "へ～……あの揺れで眠れてたんだ？　お兄ちゃんって結構鈍感？　あはははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "4bd92d50",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、悪かったな！　鈍感で……！　って、まさか……宇宙船のトラブルってお前が原因とかじゃないよな……？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "31c44c25",
+      "speaker": "グリム",
+      "ja": "どうなんだろうね～？♥　くすくす♥",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "5dad9453",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前、マジでなんかやったのか！？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "c3e6bb7f",
+      "speaker": "グリム",
+      "ja": "さぁ？　この船が旧式だったからじゃない？　それよりさ、お兄ちゃん、どーせ暇でしょ？　グリムが特別にデートしてあげるっ♪　嬉しいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "4e160cd7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、別に……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "f69aa9f4",
+      "speaker": "グリム",
+      "ja": "えーっ！？　なにそれぇっ！　ちょっとひどくない！？　いいからお兄ちゃんはグリムとデートするの！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "e9705064",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんが付き合ってくれないと……本当に宇宙船に何かしちゃうよぉ？　くすくす♪",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "93cb7c71",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、そういうのはやめろよっ！　わかった付き合うよ、それでいいんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "cd8dde50",
+      "speaker": "グリム",
+      "ja": "やった♪　じゃあちょーっと待っててね～♥　色々準備するからさぁ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "525647ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ準備って……まぁいいや、とりあえず待つとしよう……怒らせるとマジで宇宙船に何かしかねんし……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "7b6b9502",
+      "speaker": "グリム",
+      "ja": "お待たせ、お兄ちゃん♪",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "2fdb20b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……そ、そんなに待ってないけどな……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "fa666812",
+      "speaker": "{G_PlayerName}",
+      "ja": "（準備って服着替えたのか……かわいいじゃん……）",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "c6fcc38b",
+      "speaker": "",
+      "ja": "思わずグリムの姿に見惚れてしまう。俺のそんな視線に気づいたのか、グリムは笑みを見せると、可愛くクルンとその場で一回転する。",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ceb9cf74",
+      "speaker": "グリム",
+      "ja": "どう？　どう？　似合う？　似合うでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "a9146af",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そうだな……似合うぞ、うん……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "c7521ede",
+      "speaker": "グリム",
+      "ja": "ありがと、お兄ちゃん、それじゃあ街に行こっ",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "4b524de2",
+      "speaker": "",
+      "ja": "数時間後……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "c607c312",
+      "speaker": "{G_PlayerName}",
+      "ja": "（お、重い……！！　グリムのヤツ、いつまで買い物する気なんだよ……！　もう三時間、買い物買い物買い物の連続だぞ……！！）",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "915e5cc6",
+      "speaker": "グリム",
+      "ja": "あ、そうだ、せっかくだし、この星のオモチャも買っていこうっと♪　面白そうなのあるかな～♪　ほら、お兄ちゃん早く行くよ♪",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "f3d787eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前、俺にちょっとは気を遣えよ……！　こんなに大荷物でテキパキ動けるわけないだろ……！！",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "e2a0dea1",
+      "speaker": "グリム",
+      "ja": "今従者もいないしさぁ、お兄ちゃんに持ってもらうしかないんだよね～。仕方ないじゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "369c0934",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分で少しは持つとかそういうのはないのか？",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "8a9cfcc2",
+      "speaker": "グリム",
+      "ja": "グリムは王女様だよ？　あるわけないじゃーん♥　それよりほら、早く行こっ",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "df85b772",
+      "speaker": "{G_PlayerName}",
+      "ja": "引っ張るなって……！　荷物崩れる……！！",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "e243f6c3",
+      "speaker": "グリム",
+      "ja": "（うぅ……なんだかタイミングが掴めない……二人っきりになればチョコを渡すタイミングなんていくらでもあると思ったのに……）",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "c02edf78",
+      "speaker": "グリム",
+      "ja": "（そもそもこういうのってどういう感じで渡せばいいのかな……誰かに何かをあげたことなんてないし……）",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "eda1005b",
+      "speaker": "グリム",
+      "ja": "（やっぱりやめ……うう、ダメダメ！　何弱気になってるの……！　こんなのパっと渡しちゃえばいいのよ……！）",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "a79dbb27",
+      "speaker": "グリム",
+      "ja": "お兄ちゃん、ちょっと渡したい物が──",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "c4594ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁっ！？　急に降り出しやがったぞ！？　さっきまで晴れていたのに！！",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "af425c8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム、このままじゃ荷物が濡れてしまう！　どっかで雨宿りするぞ！",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "2e17d88",
+      "speaker": "グリム",
+      "ja": "う、うん……！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "2bc32f1",
+      "speaker": "グリム",
+      "ja": "（ううううう！　なんで急に雨なんてぇ～っ！　お空のバカバカバカ～～～っ！！）",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "3eeb446a",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム、こっちだ……！　あそこなら雨宿りできそうだ！",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "345a85c0",
+      "speaker": "",
+      "ja": "激しい雨の中、どうにか雨宿りできそうなところを見つけダッシュする。",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "45c10d3c",
+      "speaker": "グリム",
+      "ja": "ま、待ってよ、お兄ちゃん、そんなに急いだら転んで……あぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "28d18d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム、どうした！？　急がないと二人揃ってびしょ濡れ……",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "1a9eec30",
+      "speaker": "",
+      "ja": "グリムの声に振り向くと、地面を見つめながら茫然と立ち尽くしていた。",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "fe3fa9dc",
+      "speaker": "",
+      "ja": "何かを見つめる様に地面を見ていたグリム、その視線を追うと……",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "85acf48b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　なにか荷物落とした！？　すまん、すぐ拾うから！",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "2a582aa1",
+      "speaker": "",
+      "ja": "綺麗にラッピングされた小さな真っ白な箱、それが水溜りの上に落ちていた。俺は拾おうとするが、それより先にグリムが慌てて箱を拾い上げる。",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "1edc3808",
+      "speaker": "グリム",
+      "ja": "うう……水浸し……チョコ、ダメになっちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "bb5f110f",
+      "speaker": "グリム",
+      "ja": "頑張って準備してたのに……一生懸命ラッピングしたのに……ぐすっ……",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "639a3d69",
+      "speaker": "グリム",
+      "ja": "……ううぅ、うううう……すっ、ぐす……うぅぅうぅ……",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "a7e1c8c2",
+      "speaker": "",
+      "ja": "土砂降りの雨の中でもハッキリとわかるほど大粒の涙をこぼすグリム。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "1f051df3",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム……ここにいたら風邪引くから……とりあえず雨宿りしよう",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "84499410",
+      "speaker": "グリム",
+      "ja": "……うん",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "fac2b7fb",
+      "speaker": "",
+      "ja": "俺は荷物を持ちながらグリムの手を握ると、急いで雨宿りできそうな場所へと向かった。",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "ef9c5bc4",
+      "speaker": "グリム",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "243c6534",
+      "speaker": "",
+      "ja": "どうにか雨を凌げる場所を見つけたが、グリムはずっと無言のままだった。泣くのをガマンしようと身体を震わせ、見ているだけで心がぎゅっと締め付けられる。",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "fb355d2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム、チョコありがとうな",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "86d2beb2",
+      "speaker": "グリム",
+      "ja": "あ……",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "a2810c3d",
+      "speaker": "",
+      "ja": "俺はグリムが大事そうに持っていた箱をひょいっと取る。グリムは俺の行動に再び瞳に涙を浮かべ、悲しい表情のまま俺を茫然と見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "2a0c6d5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリムからチョコ貰えるとか思ってもいなかったから本当に嬉しいよ",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "39b7d292",
+      "speaker": "グリム",
+      "ja": "でも……ダメになっちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "3d8cf3cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "箱はな……でも中身は大丈夫なんじゃないか？　ちょっとやそっと濡れたくらいで食えないってことはないと思うし",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "e9b28ce9",
+      "speaker": "グリム",
+      "ja": "で、でもでも……ちゃんと包装していないから、たぶんチョコまで……",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "3c6cde33",
+      "speaker": "{G_PlayerName}",
+      "ja": "包装……？　もしかしてこれグリムの手作りだったりする？",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "7f4f4f6e",
+      "speaker": "グリム",
+      "ja": "う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "71eb13dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……グリムの手作りか。なら喜びが倍だな。俺のために作ってくれたなんて最高だよ",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "ad8fdbcf",
+      "speaker": "グリム",
+      "ja": "ほ、本当に……？　形、ちょっとだけヘンだけど……それでも喜んでくれるの……？",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "129fd027",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に形なんて気にしないって。グリムが作ってくれたことが嬉しいんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "bb3977df",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ今回はトラブルがあったけど、また作ってくれよ？　グリムが作ったんだったら喜んで食うからさ",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "76b7956",
+      "speaker": "グリム",
+      "ja": "うん……ありがとう、お兄ちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "a0450c7f",
+      "speaker": "グリム",
+      "ja": "（お兄ちゃん、優しいな……こんなのじゃ、ますます好きになっちゃいそう……♥）",
+      "zh": ""
+    }
+  ]
+}
