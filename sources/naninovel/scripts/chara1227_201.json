@@ -1,0 +1,841 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "6367fd05",
+      "speaker": "",
+      "ja": "その日デートをしたトーリと{G_PlayerName}は帰ってくると二人で{G_PlayerName}の部屋へと一緒に入る。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "e97d3044",
+      "speaker": "{G_PlayerName}",
+      "ja": "疲れたんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "8e765e71",
+      "speaker": "トーリ",
+      "ja": "わらわは平気じゃが……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "a0dbf8d6",
+      "speaker": "",
+      "ja": "そう言いつつもトーリはどこか落ち着かずにモジモジとしていた。",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "938e619a",
+      "speaker": "",
+      "ja": "そんなトーリの姿に{G_PlayerName}の頭には？が浮かんでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "b096433d",
+      "speaker": "",
+      "ja": "察しが悪い{G_PlayerName}に対してトーリは少し苛立ち顔を真っ赤にさせながら言った。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "35e2dea7",
+      "speaker": "トーリ",
+      "ja": "わ、わらわに言わせる気かっ……！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "1267f2ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うん？　ごめん……わからなくて……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "fec26b77",
+      "speaker": "",
+      "ja": "理解出来ていない{G_PlayerName}は困惑しながらトーリにそう告げる。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "fbcfe9ea",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の鈍感さに呆れつつも、トーリはモジモジしながら小声で呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "f4ef60f6",
+      "speaker": "トーリ",
+      "ja": "きょ、今日は帰りたくない、のじゃ……おぬしともっと一緒にいて……おぬしのことを感じたい……",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "91cc038b",
+      "speaker": "",
+      "ja": "トーリのその言葉で夜のお誘いだと気づいた{G_PlayerName}は、一気に顔を赤らめてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "cf1ef555",
+      "speaker": "",
+      "ja": "そしてその照れを隠すようについつい軽口を叩いてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "4f064c42",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめんごめん、そういうことか！　トーリに言わせてしまったな",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "ed7eab59",
+      "speaker": "",
+      "ja": "そう言って笑う{G_PlayerName}を見てトーリはむくれて非難の言葉を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "1af48f4a",
+      "speaker": "トーリ",
+      "ja": "むぅ……笑うでない……！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "a3628d4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "5882a2cf",
+      "speaker": "",
+      "ja": "からかうつもりはなかったが、結果的にからかう感じになってしまった事に{G_PlayerName}は素直に謝ると、打って変わって真剣な顔でトーリに語りかけた。",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "f521cd8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺も……トーリが良ければもっと一緒にいたい……朝まで、とか……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "5d81a560",
+      "speaker": "",
+      "ja": "照れながらもそう言うとトーリも表情が和らいでいく。",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "a1b50f80",
+      "speaker": "トーリ",
+      "ja": "おぬし……♥",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "94d415",
+      "speaker": "{G_PlayerName}",
+      "ja": "トーリ……♥",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "1d3c02f2",
+      "speaker": "",
+      "ja": "そのまま二人は抱き合いながら唇を重ねていった。",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "fb04db3",
+      "speaker": "トーリ",
+      "ja": "んんん……うっ……ふぅぅん……あっ……ああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "bed5bd50",
+      "speaker": "",
+      "ja": "{G_PlayerName}の手が股間で蠢くとトーリの口から甘い声が漏れる。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "ff3368ab",
+      "speaker": "",
+      "ja": "そんなトーリの割れ目をなぞるように{G_PlayerName}の指先が何度も往復していった。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "eeee3969",
+      "speaker": "トーリ",
+      "ja": "ああっ……そ、そこ……んふぅぅ♥　はぁ♥　はぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "2bdca715",
+      "speaker": "",
+      "ja": "気持ちよさそうに喘ぎながらトーリの腰がもっと快感を求めるように小さく跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "97e3076e",
+      "speaker": "",
+      "ja": "そしてもどかしそうな感じで{G_PlayerName}に訴えかけていった。",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "5dd67031",
+      "speaker": "トーリ",
+      "ja": "まだ入れぬのか？　わ、わらわを焦らすつもりか？",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "ccf69a2c",
+      "speaker": "",
+      "ja": "少しいじけたような顔をしてそう呟いたトーリを見て{G_PlayerName}はドキドキしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "258c1162",
+      "speaker": "",
+      "ja": "すでにネットリと濡れてきているおまんこは物欲しげにひくひくと蠢いていた。",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "5860066",
+      "speaker": "トーリ",
+      "ja": "はぁ……はぁ……は、早く……中も……んんんっ……掻き回して……あっ……あぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "4572f57c",
+      "speaker": "",
+      "ja": "もどかしげにそう呟くトーリの濡れた穴に、{G_PlayerName}の指がゆっくりと入り込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "c6d8755c",
+      "speaker": "トーリ",
+      "ja": "んぅ♥　あっ、ごつごつした指……わらわのと違う……っ♥",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "94b82e3d",
+      "speaker": "",
+      "ja": "膣内に入り込んできた指の感触に、トーリはゾクッとする快感を覚えて身をよじった。",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "4ba278bf",
+      "speaker": "",
+      "ja": "顔を赤らめ眉を下げ薄く開いた口から甘い声が漏れ出る。",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "9783d829",
+      "speaker": "トーリ",
+      "ja": "んふぅぅ♥　あふっ♥　じ、自分でするのと全然違う……くふぅぅ♥　あっ、あふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "36231f50",
+      "speaker": "",
+      "ja": "淫らに喘ぐトーリの膣を擦るように{G_PlayerName}の指がゆっくりと出入りし始めた。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "c39bc3f",
+      "speaker": "トーリ",
+      "ja": "あっ♥　ああっ♥　い、いいっ♥　気持ちいいっ♥　あふっ……うふぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "823c79",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうすっかりおまんこが熱くなって……ねっとり濡れてるな……",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "bfd9897b",
+      "speaker": "トーリ",
+      "ja": "ば、ばかぁ♥　恥ずかしい事を言うではない……んふぅぅ♥　はぁ……♥　はぁぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "a2b00567",
+      "speaker": "",
+      "ja": "そう言いつつもトーリは快感に喜びを覚え小刻みに体を震わせて悶えていく。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "31083220",
+      "speaker": "",
+      "ja": "濡れた膣もヒクヒクと蠢いて{G_PlayerName}の指を締め付けてきていた。",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "9eec0a11",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここを、しっかりとほぐしておかないとな",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "4f9f6783",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう呟くと肉襞を掻き分けるように抽送しながらクリトリスを刺激する。",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "d7136e60",
+      "speaker": "トーリ",
+      "ja": "あっ、ああっ♥　そこは……んんんっ♥　ひっ、んはぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "bfe07bc4",
+      "speaker": "",
+      "ja": "敏感な突起を転がされた瞬間、まるで電気でも走ったかのようにトーリの体が跳ねた。",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "f66ab99e",
+      "speaker": "",
+      "ja": "同時に膣からネットリとした汁が溢れ出てくる。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "ce662d8f",
+      "speaker": "",
+      "ja": "それが{G_PlayerName}の指に絡みついて淫靡な水音を奏で始めた。",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "5b70ef94",
+      "speaker": "{G_PlayerName}",
+      "ja": "どんどん濡れてきてるぞ……ほら、こんなにくちゅくちゅって音が鳴ってる",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "dd1c37f5",
+      "speaker": "",
+      "ja": "少しからかうような言葉を投げかけられ、トーリは恥ずかしさから顔を真っ赤にさせる。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "21735d27",
+      "speaker": "トーリ",
+      "ja": "そ、そんなこと言うではない……は、恥ずかしいではないか……あっ、あぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "97f5fa1d",
+      "speaker": "",
+      "ja": "羞恥心が高まるほどにトーリの興奮は大きくなって膣から愛液が溢れた。",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "11553701",
+      "speaker": "",
+      "ja": "それを絡ませながら、{G_PlayerName}は徐々に指の抽送を速くさせていく。",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "b04cec6c",
+      "speaker": "トーリ",
+      "ja": "あっ♥　あっ♥　んふぅぅ♥　いいっ……気持ちよくて……んんっ♥　も、もう……イきそうじゃ……あっ、あふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "60fc23ad",
+      "speaker": "",
+      "ja": "甘い声を漏らしながら腰を浮かせて喘ぐトーリを絶頂へと導くように、{G_PlayerName}の指が膣壁を激しく擦り上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "aad34ad6",
+      "speaker": "",
+      "ja": "高まる快感にトーリはわなわなと唇を震わせながら可愛らしい声で喘ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "3954d7ce",
+      "speaker": "トーリ",
+      "ja": "んんんっ♥　あっ、ああっ♥　もうイっちゃう♥　イくっ♥　イくっ♥　んくぅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "2ecc2a10",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいぞ……イっても……ほら……ほら……",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "dd1ee69a",
+      "speaker": "",
+      "ja": "{G_PlayerName}の指で激しくおまんこを掻き回されたトーリは一気に絶頂へと追い込まれていった。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "12312d51",
+      "speaker": "トーリ",
+      "ja": "あっ♥　あっ♥　くるっ、くるのじゃ♥　ああああぁあああ～～っ！♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "ab21817a",
+      "speaker": "",
+      "ja": "大きな声で叫びながらトーリは何度も腰を跳ねさせてイってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "3baa5d9b",
+      "speaker": "",
+      "ja": "目を閉じて涙を浮かべながら大きな快感に打ち震えながら絶頂を味わっていた。",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "79b958e2",
+      "speaker": "トーリ",
+      "ja": "んんんっ♥　あっ♥　あああっ♥　あっ、はぁぁぁぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "2d2eb6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "トーリ……可愛い顔でイっちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "59cca582",
+      "speaker": "",
+      "ja": "{G_PlayerName}は絶頂に達したトーリの姿に激しく興奮してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "ecef2a6d",
+      "speaker": "",
+      "ja": "そしてもっと彼女のイき顔が見たくなり、すぐさまおまんこの愛撫を再開させた。",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "2a2049f5",
+      "speaker": "",
+      "ja": "まだ絶頂の余韻が残っている中で刺激を受けたトーリは慌てた感じで声を上げる。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "1c027de8",
+      "speaker": "トーリ",
+      "ja": "今イったから、もういいっ♥　もう、おまんこほぐさなくていいからぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "d1f3ae20",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな小さなおまんこ、もっとほぐさないと入らないだろ？",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "1492338d",
+      "speaker": "",
+      "ja": "トーリの訴えに聞く耳を持たず、{G_PlayerName}は丹念な愛撫を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "e45a5e69",
+      "speaker": "",
+      "ja": "すでに蕩けきったおまんこからはお漏らしでもしたかのようにねっとりとした汁が滴る。",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "7ae04ad7",
+      "speaker": "トーリ",
+      "ja": "んんんっ♥　そ、そんなにいじったらだめぇぇ♥　あっ♥　んはぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "7c9d34b9",
+      "speaker": "",
+      "ja": "{G_PlayerName}の指が蠢く度にくちゅくちゅという水音が大きくなってきた。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "c1298b47",
+      "speaker": "",
+      "ja": "その音にトーリの喘ぎ声が重なって{G_PlayerName}の興奮を煽る。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "3d5ddb64",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらほら……もっと気持ちよくなってくれ……！",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "155b9b65",
+      "speaker": "トーリ",
+      "ja": "くっ、んんんっ♥　も、もうこれ以上気持ちよくなったら……あっ♥　あああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "3aa681ca",
+      "speaker": "",
+      "ja": "あまりの快感にトーリの腰が何度も大きく跳ねて濡れたおまんこがひくひくと痙攣した。",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "668043a1",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は膣壁を激しく指で擦り上げていく。",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "3d160e3f",
+      "speaker": "トーリ",
+      "ja": "んはぁぁぁ♥　あっ♥　あっ♥　あはぁぁぁんっ♥　また来ちゃうっ♥　んっ♥　はううっ♥",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "6458f51c",
+      "speaker": "",
+      "ja": "どんどん速まる指の抽送にトーリは大きく口を開き喘ぎ声を上げた。",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "ff12e485",
+      "speaker": "",
+      "ja": "全身がピクピクと震えまたイきそうになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "6cc54a",
+      "speaker": "トーリ",
+      "ja": "も、もうだめぇ♥　あああっ♥　またイくぅ♥　イっちゃうぅ♥　あっ♥　あはぁぁぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "818fcb88",
+      "speaker": "",
+      "ja": "そのままトーリは登り詰めていき、大きく体をのけ反らせた。",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "aaf513a4",
+      "speaker": "トーリ",
+      "ja": "またイくっ！♥　やめろぉっ！♥　もう、おまんこいじるなぁ！♥　んはぁぁぁぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "e0092e05",
+      "speaker": "",
+      "ja": "トーリは大きく口を開いて絶叫しながらプシャァァと潮まで吹いて絶頂してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "718f7b1c",
+      "speaker": "",
+      "ja": "あまりの快感のせいで目に涙すら浮かべていた。",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "490036b3",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は手を止めずに、濡れたおまんこを掻き回していく。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "21309032",
+      "speaker": "",
+      "ja": "その度にトーリは潮を吹きながら絶頂を繰り返した。",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "27bd4ce5",
+      "speaker": "トーリ",
+      "ja": "もうイってるぅ！　イくぅぅっ！　あっ！♥　あああっ！♥　も、もうだめぇぇぇぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "ef38a51",
+      "speaker": "",
+      "ja": "{G_PlayerName}の愛撫にトーリは大きな声で叫びながら腰を激しく跳ねさせる。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "8a0aa09c",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は手を止めずにトーリをイかせ続けた。",
+      "zh": ""
+    }
+  ]
+}

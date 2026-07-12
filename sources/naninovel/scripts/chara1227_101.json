@@ -1,0 +1,409 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "860aecd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば前に、ひな祭り関係の食べ物しか食べた事なかったって言っていたけど、あれから新しい食生活や文化には慣れたかな？",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "3857f571",
+      "speaker": "",
+      "ja": "トーリが宇宙船に遊びに来ていた際、{G_PlayerName}はふとそんなことを聞いてみる。",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "8ddfe08d",
+      "speaker": "トーリ",
+      "ja": "うむ、少しずつ慣れてきておる、なかなか面白い物が多いのお",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "9a38dbcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、それは良かった",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "cf330964",
+      "speaker": "",
+      "ja": "そこで{G_PlayerName}はトーリに少し聞いてみる事にする。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "143b6c1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば、トーリはショコラ・デイが終わってからチョコ作ったか？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "bda677e7",
+      "speaker": "トーリ",
+      "ja": "うーむ、作っても渡す相手がおらんからな。１人では作る理由が無い",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "cd3047f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "だったら、せっかく遊びに来てるんだし作り合ってチョコを交換しないか？",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "2cb59172",
+      "speaker": "トーリ",
+      "ja": "おお、それは面白い提案じゃな♥　張り切って作ってやるのじゃ♥",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "b1ff8e92",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあキッチンに行くか！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "eaebee82",
+      "speaker": "トーリ",
+      "ja": "ふふ……お互いに見えぬようチョコを作って、どちらが相手をより喜ばせるか勝負じゃな！",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "979eb1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、受けて立つ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "174d4dba",
+      "speaker": "{G_PlayerName}",
+      "ja": "さてと……トーリにお似合いのチョコってどんなのかな？",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "99bb9653",
+      "speaker": "",
+      "ja": "{G_PlayerName}はヴィオラからもらったチョコのレシピ教本を開いて物色するが、色々な形や色のチョコレートが並んでいて目移りしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "ab495cb0",
+      "speaker": "",
+      "ja": "そんな中で{G_PlayerName}の目を引いたのは桜の花に似た形のチョコレート。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "4c048d57",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは……なんだかトーリの雰囲気に合ってる気がするな。これにするか",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "3cd79d98",
+      "speaker": "{G_PlayerName}",
+      "ja": "喜んで貰えるといいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "7c00319c",
+      "speaker": "",
+      "ja": "少しドキドキしながら、{G_PlayerName}は慣れない手つきでチョコを作り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "2494a0d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふう、なんとか作り終わった……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "13f1fe2f",
+      "speaker": "トーリ",
+      "ja": "遅いのじゃ！　ふふん、早さはわらわの勝ちじゃな♪",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "4b916bd9",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……でもより喜ばせたほうが勝ちだからな！　ほら、これ！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "67d9fccb",
+      "speaker": "トーリ",
+      "ja": "おおっ……！",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "9989b6cf",
+      "speaker": "",
+      "ja": "綺麗にラッピングした箱を見て、トーリが目を丸くする。が、すぐに誤魔化すように軽く咳払いをした。",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "7bbf26a4",
+      "speaker": "トーリ",
+      "ja": "み、見てくれはまあまあじゃな！　……わらわからはこれじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "c01d8c00",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "d95d8e92",
+      "speaker": "",
+      "ja": "トーリが取り出したのは、布に覆われた皿だった。ひな祭りらしい意匠の布で、ほのかに桃の香りがしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "188b242f",
+      "speaker": "{G_PlayerName}",
+      "ja": "け、結構重いな……！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "290fafdd",
+      "speaker": "トーリ",
+      "ja": "ふふん！　量こそパワーじゃ！　絶対満足するぞ！",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "5dde10f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ……早速、中を見てもいいか？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "8de16a10",
+      "speaker": "トーリ",
+      "ja": "もちろんじゃ♥　それじゃあ一緒に開けるとするか？",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "ca3f179a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、せーの",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "d5c4c0ab",
+      "speaker": "",
+      "ja": "２人は同時に包みを開けてチョコを確認した。トーリは箱の中にある桜の形をしたチョコを見てぱぁっと表情をほころばせる。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "142ff242",
+      "speaker": "トーリ",
+      "ja": "これは♥　桜の花ではないか♥　なんと可愛らしい♥",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "84c21d93",
+      "speaker": "{G_PlayerName}",
+      "ja": "トーリのイメージにピッタリかなって思って……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "d846f444",
+      "speaker": "",
+      "ja": "その言葉にトーリの頬が赤く染まっていった。",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "9a43770e",
+      "speaker": "トーリ",
+      "ja": "も、もう……♥　おぬしという奴は……♥　桜のように可憐で美しいなどと、恥じらいもせずに……！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "e8d03fb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そこまで言ってないけど……こっちも、すごいな……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "10e74e80",
+      "speaker": "",
+      "ja": "皿の上には、ピンクと黒のハート型チョコレートが並んでいる。周囲には、桃のソースが可愛らしく散りばめられていた。",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "8a13fb22",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……あ、ありがとうな！　トーリ！",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "b6a99fca",
+      "speaker": "トーリ",
+      "ja": "ほっほっほ！　これはわらわの勝ちかのう？",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "9a5e7c56",
+      "speaker": "{G_PlayerName}",
+      "ja": "なにいっ！　……いや、確かに凄く嬉しいけど……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "63e16c68",
+      "speaker": "トーリ",
+      "ja": "……否、引き分けかも知れんな",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "30a82d89",
+      "speaker": "トーリ",
+      "ja": "わらわも、こんなに嬉しいプレゼントは初めてじゃ♥",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "3d7e835b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ト、トーリ……",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "da6f039",
+      "speaker": "",
+      "ja": "その後、トーリと仲良く談笑しながらお互いのチョコレートを食べ、ゆっくりとした時間を過ごすのだった……",
+      "zh": ""
+    }
+  ]
+}
