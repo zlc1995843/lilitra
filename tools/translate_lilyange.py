@@ -778,7 +778,13 @@ def patch_bundle(
                 changed += 1
                 object_changed = True
         if object_changed:
-            obj.save_typetree(tree)
+            try:
+                obj.save_typetree(tree)
+            except (KeyError, TypeError, ValueError) as exc:
+                # Some legacy Unity objects contain incomplete RefIds. Keep the
+                # valid objects and leave this malformed object unchanged.
+                print(f"bundle object skipped during patch: {type(exc).__name__}: {exc}", flush=True)
+                continue
     if changed or name_changed:
         output_bundle.parent.mkdir(parents=True, exist_ok=True)
         output_bundle.write_bytes(env.file.save())
