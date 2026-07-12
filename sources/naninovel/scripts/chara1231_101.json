@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "8791cd6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……やっぱり俺には何が何だかさっぱりだな。内容がほとんど理解できない",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "b0a77c36",
+      "speaker": "",
+      "ja": "魔法少女のリーダーになったからと、自分なりに魔法の勉強をしようと借りた魔導書。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "235e7eca",
+      "speaker": "",
+      "ja": "貸してくれたフォニーは子供でも理解できる内容と言っていた。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "d8d97761",
+      "speaker": "",
+      "ja": "しかし魔法の下地とも言える知識がほぼ無い俺には到底扱えそうにない代物だった。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "b69a3f89",
+      "speaker": "{G_PlayerName}",
+      "ja": "返しに行くか……そもそも俺が魔法使えなくても何も問題は無いんだろうし",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "8f39929f",
+      "speaker": "フニ",
+      "ja": "ばぁ～っ！　うらめしや～～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "7b0e6bd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおおおおおっ！？　フニっ！？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "42d86164",
+      "speaker": "フニ",
+      "ja": "きゃははははっ♪　今の{G_PlayerName}ちゃんの顔、すんごい面白かったーっ！　もう一度見せて～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "8df21687",
+      "speaker": "",
+      "ja": "ドアを開けると突然部屋に飛び込んできたフニ。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "3309f891",
+      "speaker": "",
+      "ja": "どうやら俺が部屋から出るのを待ち構えていたようで、いまだに幽霊として人を驚かすことを続けているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5d22c009",
+      "speaker": "{G_PlayerName}",
+      "ja": "まったく……！　人を驚かせたらダメって何度も言ってるだろっ？　ここは墓場じゃないんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "2ee4b4f0",
+      "speaker": "フニ",
+      "ja": "そんなこと言ったってわたし幽霊だもんっ♪　人間を驚かすのがお仕事だもんっ♪",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "bc77c376",
+      "speaker": "{G_PlayerName}",
+      "ja": "どんな仕事なんだよ……お化け屋敷じゃないんだぞ……。そもそもさ、魔法少女が人間を驚かせていいのか？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "c4346e91",
+      "speaker": "フニ",
+      "ja": "いいんだよ～っ。人助けもするもんっ！　それに～……以前と違ってすり抜けて驚かせていないし、セーフだよ、セーフっ",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "9eff34c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "何がセーフなんだよ……すり抜けようが、部屋の前で待ち構えようが、人を驚かせたことに変わりないだろ……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "ebe22459",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、何か用か？　まさか俺を驚かせたかっただけじゃないよな？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "4073ae9",
+      "speaker": "フニ",
+      "ja": "そんなわけないよ～っ♪　フニ魔法少女になったでしょ？　だからみんなの力になりたいんだ～",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "3ddf8d5d",
+      "speaker": "フニ",
+      "ja": "だから困っている人、一緒に探して、リーダーっ♪　ほら、行こうよっ！　宇宙には困っている人がたくさんいるんだからさ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "2910f329",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょちょ……！　手引っ張るなって……！！",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "654d640a",
+      "speaker": "フニ",
+      "ja": "困っている人、怖がらないで出ておいで～♪　魔法少女のフニがいっぱいお助けしてあげるよ～～っ",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "a7c48876",
+      "speaker": "{G_PlayerName}",
+      "ja": "呼べば出てくるってものでもないだろ。そもそも困っている人なんて、少なくとも船内にはいないと思うぞ？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "267568d9",
+      "speaker": "フニ",
+      "ja": "えええ～～っ！？　じゃあフニどうすればいいの？",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "408a833",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは……俺に聞かれても困る",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "d560ae32",
+      "speaker": "フニ",
+      "ja": "えーっ！　なにそれ～っ！　{G_PlayerName}ちゃん、リーダーなんだからちゃんとしてよ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "e55a11f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなこと言われてもなぁ……とりあえずあっちこっち行こうか？　どっかに困っている人がいるかもしれない……",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "7a09297e",
+      "speaker": "{G_PlayerName}",
+      "ja": "犬も歩けば棒に当たるって言うしな",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "d17f7a56",
+      "speaker": "フニ",
+      "ja": "フニ、ワンワンじゃないよっ！　幽霊で魔法少女なんだよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "666b6457",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかったわかった、ほら、魔法少女の怖くてカワイイフニちゃん、とりあえずラウンジに行こうか",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "4418d4a0",
+      "speaker": "フォニー",
+      "ja": "あれ……？　インクが……もう、すぐに無くなっちゃうんだから……また取りに行かないと……",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "31d36ffc",
+      "speaker": "フニ",
+      "ja": "あっ……！　困っていそうな人発見……！！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "2cab94a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……ホントだ……。うーん、犬も本当に棒に当たるんだな……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "f01c5a42",
+      "speaker": "フニ",
+      "ja": "だからフニはワンワンじゃない～～っ！　フォニーちゃんっ！　何か困り事！？　魔法少女フニがお助けに来たよーっ！",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "158e29e7",
+      "speaker": "フォニー",
+      "ja": "あら……？　二人揃ってどうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "a595c890",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、フニが魔法少女として人助けしたいって言っててさ、その付き合い。フォニー何か困っていることないか？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "2549f5b7",
+      "speaker": "フォニー",
+      "ja": "困り事……？　んー……今は特に無いけど……",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "6e6bc4b",
+      "speaker": "フニ",
+      "ja": "えーーーっ！？　フォニーちゃんウソついてるーっ！　さっき困ってそうな顔してたもんっ！　遠慮しなくていいから言ってよ",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "2f8bdc24",
+      "speaker": "フォニー",
+      "ja": "べ、別にウソなんて……ただインクが切れちゃって、また取りに行かないとって思っただけよ",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "773e25f",
+      "speaker": "",
+      "ja": "フォニーは何かを書いていたのか、ノートを俺たちに見せる。",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "854ac3ab",
+      "speaker": "",
+      "ja": "ノートの隅から隅までびっしりと埋まった文字に俺は驚愕し、思わず腰を抜かしそうになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "9e6817f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何書いてたんだ？　魔法の研究か何か……？",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "49bc0797",
+      "speaker": "フォニー",
+      "ja": "そう、新しい魔法の研究。つい夢中に書き連ねちゃって、インクがすぐに無くなっちゃうのよね",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "e1b2aaa8",
+      "speaker": "フニ",
+      "ja": "インクだねっ！？　わかった、フニ取ってくる！　フォニーちゃん、ちょっとだけ待っててねっ！",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "e5589d00",
+      "speaker": "フォニー",
+      "ja": "あ……！　フニさんっ！？　い、行っちゃった……別にインクくらい自分で取りに行くのに……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "cb96544c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ今フニは人助けしたくてたまらなくなってるから……あ、そうだ、ついでだし、この前借りた魔導書返すよ。やっぱ俺にはさっぱりだった",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "e7c12f10",
+      "speaker": "フォニー",
+      "ja": "そう？　一番簡単なの貸したんだけど……やっぱり他の星の人達には難しいのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "bada8ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "少なくとも俺にはさっぱりだったな……すまん、わざわざ貸してくれたのに",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "2eba79f3",
+      "speaker": "フォニー",
+      "ja": "別に謝らなくても──",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "753cb87a",
+      "speaker": "フニ",
+      "ja": "フォニーちゃん！　持ってきたよーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "8ed99d43",
+      "speaker": "フォニー",
+      "ja": "きゃっ！？　えっ！？　えっ！？　えええ～～っ！？　ちょ、ちょっと……？",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "736a8fcb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、お前、どれだけ持ってきたんだよっ！？",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "fcd1884",
+      "speaker": "",
+      "ja": "両手に山のようにインクのビンを抱え、落としてしまわないか見ているだけでハラハラしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "252e2ec1",
+      "speaker": "フニ",
+      "ja": "これだけあれば安心だよね～！？　ささ、フォニーちゃん、どうぞ～っ",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "cbebb9c5",
+      "speaker": "フォニー",
+      "ja": "インク切れの心配はしなくて済みそうだけど、その……さすがに多すぎるというか……ちょっと、あなたも何か言ってよ",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "ec761f94",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……フニ、インク重いだろ？　俺が持つから……",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "7a429c0",
+      "speaker": "フニ",
+      "ja": "へーきへーきっ♪　このくらいへっちゃら……あっ！？",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "9571b14",
+      "speaker": "フォニー",
+      "ja": "あっ、あぶな──！！",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "20e9b046",
+      "speaker": "{G_PlayerName}",
+      "ja": "フニっ！？",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "c76b4044",
+      "speaker": "",
+      "ja": "フニの身体が傾き、抱えていたビンがグラっと揺れる。",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "e60195ee",
+      "speaker": "",
+      "ja": "俺は慌ててビンを抑え、崩れなかったことにほっと胸を撫でおろす。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "7ac29b47",
+      "speaker": "{G_PlayerName}",
+      "ja": "フォニー、インク少し持って……さすがにこのままじゃ危ない",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "3349bcbd",
+      "speaker": "フォニー",
+      "ja": "え、ええ……そうね……落としちゃったら大変だからね",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "74652aa4",
+      "speaker": "フニ",
+      "ja": "えっと、その……もしかして、お助けになってなかった……？",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "a0536c58",
+      "speaker": "",
+      "ja": "俺とフォニーの様子にフニは何かを察したのか、しょんぼりとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "38220284",
+      "speaker": "フォニー",
+      "ja": "い、いえ、十分助けてもらったから。さすがにこのインクの量には驚いたけどね……",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "f8146db5",
+      "speaker": "フォニー",
+      "ja": "ありがとう、やさしい魔法少女さん",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "f324543f",
+      "speaker": "{G_PlayerName}",
+      "ja": "さて……インク一つあれば十分だよな？　残りは元の場所に戻しに行くか",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "da396cbd",
+      "speaker": "フォニー",
+      "ja": "そうね、ここに置いておくわけにもいかないし……",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "e2e3b12a",
+      "speaker": "フニ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "c0f1b3b0",
+      "speaker": "",
+      "ja": "大量のインクを元の場所に戻し、俺たちはフォニーと別れ部屋に戻ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "dfbc17fe",
+      "speaker": "",
+      "ja": "しかしフニは落ち込んだ様子で、あれだけ元気でおしゃべりなフニが一言も言葉を発していなかった。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "afa86269",
+      "speaker": "{G_PlayerName}",
+      "ja": "……フニ、元気出せって",
+      "zh": ""
+    },
+    {
+      "key": "305.1",
+      "line_index": 305,
+      "inline_index": 1,
+      "line_hash": "8b1fd395",
+      "speaker": "フニ",
+      "ja": "で、でも……フニ、フォニーちゃんにもリーダーちゃんにも迷惑掛けちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "dc3f8e30",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に俺もフォニーも迷惑だなんて思ってないって",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "d1de47da",
+      "speaker": "フニ",
+      "ja": "でも……でもでもでも……うう……",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "9ac1df09",
+      "speaker": "{G_PlayerName}",
+      "ja": "フニはやる気が少しだけ空回りしちゃっただけだよ。誰かにためを思って力を尽くすことのできるフニは立派な魔法少女だよ",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "5e9e753f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにフォニーも喜んでいただろ？　だから誰も迷惑なんて思ってないよ",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "7c9395ee",
+      "speaker": "フニ",
+      "ja": "本当に……？",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "c56947d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当だって。だからこれからも人助けしような？　俺も手伝うからさ",
+      "zh": ""
+    },
+    {
+      "key": "330.1",
+      "line_index": 330,
+      "inline_index": 1,
+      "line_hash": "3a5953ce",
+      "speaker": "フニ",
+      "ja": "う、うん……えへへ、ありがとう、リーダーちゃん。フニこれからも頑張るね",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "5346185",
+      "speaker": "フニ",
+      "ja": "うーんと学んで立派な魔法少女になるよっ♪",
+      "zh": ""
+    }
+  ]
+}
