@@ -1,0 +1,355 @@
+{
+  "lines": [
+    {
+      "key": "10.1",
+      "line_index": 10,
+      "inline_index": 1,
+      "line_hash": "fe940436",
+      "speaker": "エリィ",
+      "ja": "(お兄さん、いつもありがとうございますのプレゼントをあげたいけど……)",
+      "zh": ""
+    },
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ad8fc04c",
+      "speaker": "エリィ",
+      "ja": "(でも、急に渡したら変かな？　お兄さんに……き、気があるって思われちゃう？)",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "4246afce",
+      "speaker": "",
+      "ja": "エリィはぶつぶつ言いながら考え込み始めた。",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "9f723a81",
+      "speaker": "エリィ",
+      "ja": "自然にプレゼントを渡す方法は……",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "4514bfce",
+      "speaker": "エリィ",
+      "ja": "そうだ！　またサンタになってこっそり枕元に置いてあげたらいいですよね！",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "ae62df14",
+      "speaker": "",
+      "ja": "そう言うと、エリィはそそくさとラグシェのもとへ向かった。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "84f149c6",
+      "speaker": "",
+      "ja": "皆が寝静まった夜、ラグシェの力で再びサンタの衣装を身に纏ったエリィは{G_PlayerName}の部屋にこっそりと入り込むのだが、そこに{G_PlayerName}の姿はなかった。",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "3075a051",
+      "speaker": "エリィ",
+      "ja": "あれー？　お兄さん、どこに行っちゃったのかな？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "ae981236",
+      "speaker": "",
+      "ja": "部屋に不在の{G_PlayerName}がどこに行ったのかエリィはあれこれ考える。",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "aabee53a",
+      "speaker": "エリィ",
+      "ja": "ひょっとして、誰か他の女の子のところ……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "cafd26c5",
+      "speaker": "",
+      "ja": "そんな想像をしてエリィは勝手にヤキモチを焼き始めた。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "ae9c25a0",
+      "speaker": "エリィ",
+      "ja": "むぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "9dfcfbea",
+      "speaker": "エリィ",
+      "ja": "もう！　変な事を考えるのはやめやめ！",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "3b07fb3c",
+      "speaker": "",
+      "ja": "エリィはそう言うと気を取り直して{G_PlayerName}が戻ってくるのを隠れて待ち伏せすることにした。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "b6c22e51",
+      "speaker": "エリィ",
+      "ja": "べ、別にお兄さんが他の女の子と逢瀬中なのかを確かめたいだなんて思っていないんだからっ！",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "607890d1",
+      "speaker": "エリィ",
+      "ja": "さてと……どこに隠れましょうか？　ベッドの下は冷たいし、クローゼットの中も外の様子がわからないかも……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "910db1bb",
+      "speaker": "エリィ",
+      "ja": "じゃあ、ギリギリまでベッドの中に隠れてお兄さんを待とう！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "3a8cb97",
+      "speaker": "",
+      "ja": "{G_PlayerName}のベッドに入り込んだエリィは残り香を嗅いでドキッとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "b0bf9621",
+      "speaker": "エリィ",
+      "ja": "みんなが使っているのとは違うシャンプーの香り……男の人の……♥",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "53220bd2",
+      "speaker": "エリィ",
+      "ja": "……すぅ～……♥",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "9d20d3fc",
+      "speaker": "エリィ",
+      "ja": "って、きゃー♥　何をしてるんでしょう私！　お兄さんに見られたら引かれちゃいます♥",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "a707bdf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぁあ～……機械いじりで時間使いすぎてしまった……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "4679b207",
+      "speaker": "",
+      "ja": "{G_PlayerName}はガチャガチャと機材を持って自室へと戻ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "5f58ca09",
+      "speaker": "",
+      "ja": "すると自分のベッドでエリィがスヤスヤと幸せそうに眠っているのを見つける。",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "305fce",
+      "speaker": "エリィ",
+      "ja": "すぅ～……すぅ～……",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "8c41a6ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんっ？　エリィ……？",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "9943e5e3",
+      "speaker": "",
+      "ja": "{G_PlayerName}はエリィが何故にサンタの格好で自分のベッドで寝ているのか理解出来ず驚いていた。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "5cf24d6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでここに……ま、いいか……",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "c3641ad3",
+      "speaker": "",
+      "ja": "しかし疲れと眠気から{G_PlayerName}はそのままあまり考えずにベッドに潜り込んで眠ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "77d69280",
+      "speaker": "エリィ",
+      "ja": "ふわぁぁぁ……あっ……眠っちゃって……えっ？！",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "be36229b",
+      "speaker": "",
+      "ja": "目を覚ましたエリィは隣で寝ている{G_PlayerName}を見て一気に顔が真っ赤に染まっていった。",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "5309adb1",
+      "speaker": "エリィ",
+      "ja": "あ、あたし……なんで……お兄さんと一緒に……",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "8fafca01",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんぅ～……？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "913aaeec",
+      "speaker": "エリィ",
+      "ja": "！！　あ、み、見つかっ――",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "b4c27cdd",
+      "speaker": "",
+      "ja": "{G_PlayerName}は寝返りを打ちながら、エリィをそのまま抱き込んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "2f3d3725",
+      "speaker": "エリィ",
+      "ja": "ひゃわ～っ！　お、お兄さん……？　まだ寝てるんですか？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "d6a0cd67",
+      "speaker": "エリィ",
+      "ja": "(うう～。逃げなきゃなのに、あったかくて逃げられないよぉ～！)",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "2d26d2d2",
+      "speaker": "",
+      "ja": "そのままもう一度寝入ってしまったエリィ。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "17b51484",
+      "speaker": "",
+      "ja": "2人の慌てた声が部屋から響き渡るのはもう少し後になるのであった。",
+      "zh": ""
+    }
+  ]
+}
