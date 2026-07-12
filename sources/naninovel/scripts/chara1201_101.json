@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "b8c61952",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまんルミナ、前の星で回収した資材の件なんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "874d729a",
+      "speaker": "",
+      "ja": "{G_PlayerName}がルミナの部屋の前、ドア越しに声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "95c016f1",
+      "speaker": "",
+      "ja": "すると自動ドアがシュンっと開くが部屋の中にルミナの姿はなかった。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a11a7f73",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　外出中か……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "2064387b",
+      "speaker": "",
+      "ja": "一応ルミナからいつでも入っていいと許可を貰っているものの、女の子の部屋も居座るというのも気が引けた{G_PlayerName}は踵を返して戻ろうとする。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "d35c197b",
+      "speaker": "",
+      "ja": "そこにジュースやお菓子を両手で抱えたグリムが姿を現した。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "15437850",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリムじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "76e83d09",
+      "speaker": "グリム",
+      "ja": "あれ？　お兄ちゃんどうしたの？　お姉ちゃんに用事？　今いないでしょ",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "3979eff9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、どこにいるか知らないかい？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "9e9a9f3f",
+      "speaker": "グリム",
+      "ja": "しらなーい、グリムもお姉ちゃんに用事があったんだけど、お留守だからお部屋で待とうかな～って思って、ほらお菓子とかジュースとかいっぱい持ってきたの♥",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "4aa8759d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f76ad281",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんもお姉ちゃんに用事があるならグリムと一緒に戻ってくるの待とうよ",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "1fff1a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……勝手にひとの部屋に入るのは……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "1ca4d659",
+      "speaker": "グリム",
+      "ja": "だけど、すれ違いになったら宇宙船広いし大変だよ？　どうせお兄ちゃんもお姉ちゃんに部屋に勝手に入っていいって言われてるんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "77a78c35",
+      "speaker": "",
+      "ja": "そう言ってグリムは{G_PlayerName}を追い越して、ずかずかとルミナの部屋に入っていく。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6ec96301",
+      "speaker": "",
+      "ja": "グリムが言った通り広い宇宙船でルミナと遭遇する確率は低い、それならば待つという選択が正しいような気もしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "31572071",
+      "speaker": "",
+      "ja": "気まずいとは思いつつも{G_PlayerName}は結局ルミナの部屋でグリムと一緒に待つことにして、部屋へと入っていった。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "e346c722",
+      "speaker": "",
+      "ja": "先に部屋に入ったグリムは当然のようにベッドの上にぽふりと座り、{G_PlayerName}は地べたに直接座る。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "aa3920d0",
+      "speaker": "",
+      "ja": "それからしばしグリムはお菓子を食べたりジュースを飲んだりして過ごしていたが、徐々に暇を持てあまし始めた。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "e08fda00",
+      "speaker": "グリム",
+      "ja": "う～、暇だよ～、お兄ちゃん遊ぼうよ～",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "32a5215",
+      "speaker": "{G_PlayerName}",
+      "ja": "遊ぶって……何をして遊ぶ？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "bcce6d2b",
+      "speaker": "グリム",
+      "ja": "宇宙船に備わってるゲームくらいあるでしょ～？　それして遊ぼ！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "bc1a3e8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うーん……やったことあるけど、どれも苦手なんだよな……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "4d185bef",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の故郷で子供達がやってた遊びをするか？　道具も使わないし",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "3d486533",
+      "speaker": "グリム",
+      "ja": "なになに？　その遊びって",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "c7440699",
+      "speaker": "{G_PlayerName}",
+      "ja": "言葉つなぎって遊びだよ。順番に言葉の最後を同じ文字で繋げて、言えなくなったほうが負けって単純な遊びだ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "7b3b4614",
+      "speaker": "グリム",
+      "ja": "なんだか簡単そうだけど……無限に続くんじゃないの？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "bae0f7c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "一度使った言葉は二度使えないから、難しくなっていくんだ。あと最後に、ん、が付くと負け",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "62a23580",
+      "speaker": "グリム",
+      "ja": "ふ～ん、ちょっと面白そうだからやろっ♪　お兄ちゃん",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "84f95f1a",
+      "speaker": "",
+      "ja": "未知の遊びに食いついてきたグリムと{G_PlayerName}は、言葉つなぎを始める。",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "5afa871b",
+      "speaker": "{G_PlayerName}",
+      "ja": "まずは、そうだな……じゃあ王女。『じょ』だ",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "bbc2d000",
+      "speaker": "グリム",
+      "ja": "じょ……ジョールキスタ星間条約",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "8576ec5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………え？",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "c1b2bb17",
+      "speaker": "グリム",
+      "ja": "はい、く！　くだよ、お兄ちゃん",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "fa3a64fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……く……靴",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "56b74f2a",
+      "speaker": "グリム",
+      "ja": "ツンヌバッヘ星雲保護条約",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "8c2baf2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "db545d66",
+      "speaker": "グリム",
+      "ja": "ほら～、くだよ？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "6809b166",
+      "speaker": "{G_PlayerName}",
+      "ja": "く……クリーム！",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "ce34c59e",
+      "speaker": "グリム",
+      "ja": "ムデテガ禁止条約！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "477c8545",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の知ってる言葉でやれって！　わざとだろ！？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "3c19ea29",
+      "speaker": "グリム",
+      "ja": "きゃははっ♥　バレた～！？♥",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "eeb5020d",
+      "speaker": "",
+      "ja": "イタズラ心を捨てられないとは言え、子供の遊びに夢中なグリムを見て{G_PlayerName}は愛らしさを覚えていた。",
+      "zh": ""
+    }
+  ]
+}

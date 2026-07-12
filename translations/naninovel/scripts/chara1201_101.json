@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "b8c61952",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまんルミナ、前の星で回収した資材の件なんだけど……",
+      "zh": "抱歉，露米娜，关于在上个星球回收的物资……"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "874d729a",
+      "speaker": "",
+      "ja": "{G_PlayerName}がルミナの部屋の前、ドア越しに声をかける。",
+      "zh": "{G_PlayerName}站在露米娜的房间门口，朝门里喊了一声。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "95c016f1",
+      "speaker": "",
+      "ja": "すると自動ドアがシュンっと開くが部屋の中にルミナの姿はなかった。",
+      "zh": "自动门唰地打开，但房间里没有露米娜的身影。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a11a7f73",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　外出中か……",
+      "zh": "咦？出去了吗……"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "2064387b",
+      "speaker": "",
+      "ja": "一応ルミナからいつでも入っていいと許可を貰っているものの、女の子の部屋も居座るというのも気が引けた{G_PlayerName}は踵を返して戻ろうとする。",
+      "zh": "虽然露米娜说过随时都可以进来，但一想到要在女生房间里待着，{G_PlayerName}还是觉得不好意思，转身想要回去。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "d35c197b",
+      "speaker": "",
+      "ja": "そこにジュースやお菓子を両手で抱えたグリムが姿を現した。",
+      "zh": "这时，双手抱着果汁和点心的格林出现了。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "15437850",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリムじゃないか",
+      "zh": "这不是格林吗。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "76e83d09",
+      "speaker": "グリム",
+      "ja": "あれ？　お兄ちゃんどうしたの？　お姉ちゃんに用事？　今いないでしょ",
+      "zh": "咦？哥哥怎么来了？找姐姐有事？她现在不在哦。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "3979eff9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、どこにいるか知らないかい？",
+      "zh": "啊，你知道她在哪儿吗？"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "9e9a9f3f",
+      "speaker": "グリム",
+      "ja": "しらなーい、グリムもお姉ちゃんに用事があったんだけど、お留守だからお部屋で待とうかな～って思って、ほらお菓子とかジュースとかいっぱい持ってきたの♥",
+      "zh": "不知道呀～我也有事找姐姐，就想在房间里等她，你看，我带了超多零食和果汁来♥"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "4aa8759d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f76ad281",
+      "speaker": "グリム",
+      "ja": "お兄ちゃんもお姉ちゃんに用事があるならグリムと一緒に戻ってくるの待とうよ",
+      "zh": "哥哥要是也找姐姐有事，就跟我一起等她回来吧。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "1fff1a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……勝手にひとの部屋に入るのは……",
+      "zh": "不过……随便进别人房间不太好……"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "1ca4d659",
+      "speaker": "グリム",
+      "ja": "だけど、すれ違いになったら宇宙船広いし大変だよ？　どうせお兄ちゃんもお姉ちゃんに部屋に勝手に入っていいって言われてるんでしょ？",
+      "zh": "可是万一错过了，飞船这么大很麻烦啊？反正姐姐不是也说过你可以随便进她房间吗？"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "77a78c35",
+      "speaker": "",
+      "ja": "そう言ってグリムは{G_PlayerName}を追い越して、ずかずかとルミナの部屋に入っていく。",
+      "zh": "说完，格林越过{G_PlayerName}，大摇大摆地走进了露米娜的房间。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6ec96301",
+      "speaker": "",
+      "ja": "グリムが言った通り広い宇宙船でルミナと遭遇する確率は低い、それならば待つという選択が正しいような気もしてくる。",
+      "zh": "正如格林所说，飞船这么大，能碰到露米娜的概率很低，这么一想，在房间里等好像也是对的。"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "31572071",
+      "speaker": "",
+      "ja": "気まずいとは思いつつも{G_PlayerName}は結局ルミナの部屋でグリムと一緒に待つことにして、部屋へと入っていった。",
+      "zh": "虽然有点尴尬，但{G_PlayerName}最终还是决定和格林一起在露米娜的房间里等，走进了房间。"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "e346c722",
+      "speaker": "",
+      "ja": "先に部屋に入ったグリムは当然のようにベッドの上にぽふりと座り、{G_PlayerName}は地べたに直接座る。",
+      "zh": "先进去的格林理所当然地往床上一坐，{G_PlayerName}则直接坐在地上。"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "aa3920d0",
+      "speaker": "",
+      "ja": "それからしばしグリムはお菓子を食べたりジュースを飲んだりして過ごしていたが、徐々に暇を持てあまし始めた。",
+      "zh": "之后，格林吃吃点心、喝喝果汁，过了一会儿，开始觉得无聊起来。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "e08fda00",
+      "speaker": "グリム",
+      "ja": "う～、暇だよ～、お兄ちゃん遊ぼうよ～",
+      "zh": "唔～好无聊哦～哥哥陪我玩嘛～"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "32a5215",
+      "speaker": "{G_PlayerName}",
+      "ja": "遊ぶって……何をして遊ぶ？",
+      "zh": "玩……是要玩什么？"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "bcce6d2b",
+      "speaker": "グリム",
+      "ja": "宇宙船に備わってるゲームくらいあるでしょ～？　それして遊ぼ！",
+      "zh": "船上肯定有游戏吧～？ 一起来玩吧！"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "bc1a3e8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うーん……やったことあるけど、どれも苦手なんだよな……",
+      "zh": "唔……虽然玩过，但都不太擅长啊……"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "4d185bef",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の故郷で子供達がやってた遊びをするか？　道具も使わないし",
+      "zh": "要不要玩我老家小孩玩的游戏？而且不用道具。"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "3d486533",
+      "speaker": "グリム",
+      "ja": "なになに？　その遊びって",
+      "zh": "什么什么？那是什么游戏？"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "c7440699",
+      "speaker": "{G_PlayerName}",
+      "ja": "言葉つなぎって遊びだよ。順番に言葉の最後を同じ文字で繋げて、言えなくなったほうが負けって単純な遊びだ",
+      "zh": "叫词语接龙。轮流用前一个词的最后一个字接龙，接不上的人就输，很简单。"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "7b3b4614",
+      "speaker": "グリム",
+      "ja": "なんだか簡単そうだけど……無限に続くんじゃないの？",
+      "zh": "好像挺简单……但不会无限接下去吗？"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "bae0f7c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "一度使った言葉は二度使えないから、難しくなっていくんだ。あと最後に、ん、が付くと負け",
+      "zh": "用过的词不能再用了，所以会越来越难。而且最后以“ん”结尾算输。"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "62a23580",
+      "speaker": "グリム",
+      "ja": "ふ～ん、ちょっと面白そうだからやろっ♪　お兄ちゃん",
+      "zh": "嗯～好像有点意思，来玩吧♪ 哥哥。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "84f95f1a",
+      "speaker": "",
+      "ja": "未知の遊びに食いついてきたグリムと{G_PlayerName}は、言葉つなぎを始める。",
+      "zh": "被新游戏吸引的格林和{G_PlayerName}开始了词语接龙。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "5afa871b",
+      "speaker": "{G_PlayerName}",
+      "ja": "まずは、そうだな……じゃあ王女。『じょ』だ",
+      "zh": "那我先来……“公主”。轮到“じ”。"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "bbc2d000",
+      "speaker": "グリム",
+      "ja": "じょ……ジョールキスタ星間条約",
+      "zh": "じ……乔尔基斯塔星际条约"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "8576ec5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………え？",
+      "zh": "……诶？"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "c1b2bb17",
+      "speaker": "グリム",
+      "ja": "はい、く！　くだよ、お兄ちゃん",
+      "zh": "好，用“く”！轮到“く”了，哥哥。"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "fa3a64fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……く……靴",
+      "zh": "哦、哦……く……靴"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "56b74f2a",
+      "speaker": "グリム",
+      "ja": "ツンヌバッヘ星雲保護条約",
+      "zh": "屯努巴赫星云保护条约"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "8c2baf2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？",
+      "zh": "诶诶！？"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "db545d66",
+      "speaker": "グリム",
+      "ja": "ほら～、くだよ？",
+      "zh": "你看～，要用“く”哦？"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "6809b166",
+      "speaker": "{G_PlayerName}",
+      "ja": "く……クリーム！",
+      "zh": "く……クリム！"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "ce34c59e",
+      "speaker": "グリム",
+      "ja": "ムデテガ禁止条約！",
+      "zh": "穆德特加禁止条约！"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "477c8545",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の知ってる言葉でやれって！　わざとだろ！？",
+      "zh": "用我听得懂的话说啊！你是故意的吧！？"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "3c19ea29",
+      "speaker": "グリム",
+      "ja": "きゃははっ♥　バレた～！？♥",
+      "zh": "啊哈哈♥ 露馅了～！？♥"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "eeb5020d",
+      "speaker": "",
+      "ja": "イタズラ心を捨てられないとは言え、子供の遊びに夢中なグリムを見て{G_PlayerName}は愛らしさを覚えていた。",
+      "zh": "虽说恶作剧的心还是改不掉，可看到格林那么痴迷孩子的游戏，{G_PlayerName}不禁觉得他有点可爱。"
+    }
+  ]
+}
