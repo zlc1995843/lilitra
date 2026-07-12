@@ -1,0 +1,967 @@
+{
+  "lines": [
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "19a9a2dd",
+      "speaker": "ラグシェ",
+      "ja": "機械士しゃま、がっこーって楽しいところでしゅねっ♥",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "e382eb6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……みんなで勉強するのが新鮮で楽しいよな",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "7e2633fb",
+      "speaker": "",
+      "ja": "授業がすべて終わり、放課後ラグシェと学校生活のことで花を咲かせる。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "bf4c00ae",
+      "speaker": "",
+      "ja": "俺にとっても学校生活は新鮮だが、サンタとして日々を過ごしていたラグシェには学校生活がさらに新鮮に映っていたようだ。",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "836156f6",
+      "speaker": "",
+      "ja": "楽しそうに学校のことを話すラグシェを見ているだけで俺も楽しくなり、時間を忘れ会話に夢中になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "f2b3aa78",
+      "speaker": "ラグシェ",
+      "ja": "あ……でも機械士しゃまってなんだか『せんせー』って気がしましゅけど……大人でしゅし……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "335e7f4a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、かな……？　でも俺、先生できるほど頭良くないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "214c314a",
+      "speaker": "ラグシェ",
+      "ja": "でもでもそんな気がするんでしゅ♥　機械士しゃま、せんせーやってみるでしゅよ♥",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "c5e08586",
+      "speaker": "{G_PlayerName}",
+      "ja": "んなこと言われてもなぁ……まぁ少しやってみるか？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "1a04f6d0",
+      "speaker": "ラグシェ",
+      "ja": "えへへっ♥　やった♥　機械士しゃま……ううん、せんせーしゃまと学校ごっこでしゅ！♥",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "469cc114",
+      "speaker": "",
+      "ja": "俺はラグシェの言葉に乗せられるように教壇に立つ。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "168bf39",
+      "speaker": "ラグシェ",
+      "ja": "それで……せんせーしゃまは何を教えてくれるでしゅか？♥",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "3fda352c",
+      "speaker": "",
+      "ja": "そんな俺に純粋な視線を向けるラグシェ。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "cb7274c8",
+      "speaker": "",
+      "ja": "純真無垢な大きな瞳をキラキラさせながら見つめられ、なんかヘンな気分になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "3fda4192",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま♥　授業するでしゅよ♥　ラグシェに色々教えてくださいでしゅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "2624242",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、色々……その、な、なんでもいいか……？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "3881174e",
+      "speaker": "ラグシェ",
+      "ja": "はいっ♥　せんせーしゃまに教えてもらえるなら何でもいいでしゅ♥",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "c10a88f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うう……ダメだ、ラグシェのまっすぐな視線のせいでヘンな考えしか浮かんでこない……）",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "ace39e83",
+      "speaker": "",
+      "ja": "我ながら自分のスケベさに呆れかえってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "68d09b0c",
+      "speaker": "",
+      "ja": "それでもムラムラはさらに強くなり、学生服に身を包むラグシェの姿に邪なオスの感情がどんどん大きくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "a7019d24",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃまっ♥　早く早くぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "a8383fb6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……じゃあその……保健、とか？　言葉で教えるのは難しいし、保健なら実技でできると思うしさっ",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "bd9d332c",
+      "speaker": "ラグシェ",
+      "ja": "ほ、けん……？♥　保健って……何でちか？♥　あたちは何をしたら良いでしゅか？♥",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "5ab0cbd6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……それじゃあまずは──",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "528f8bfa",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま……こ、こうでしゅか？♥　この姿勢、結構きついでしゅね……♥　お母さんもこんなことしていなかったような気がするでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "15754e50",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……でもすぐに慣れると思うから……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "4cd0805e",
+      "speaker": "ラグシェ",
+      "ja": "でも保健ってエッチのお勉強なんでしゅね……♥　学校でエッチなことを教えるなんてしりませんでちた……♥",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "2a8627be",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まぁ……大人になるためには色々学ぶ必要があるからな……これもその一環ってことで……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "5b572d2c",
+      "speaker": "ラグシェ",
+      "ja": "わかりまちたでしゅ♥　ラグシェ、色々勉強するでしゅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "b604bee9",
+      "speaker": "",
+      "ja": "ラグシェは突然のエッチな授業に困惑しながらも足の裏でしっかりと肉棒を挟み込む。",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "f508a034",
+      "speaker": "",
+      "ja": "俺は最低だと思いながらもラグシェの無防備な股間に視線が向き、タイツ越しに感じる柔らかな足の刺激にゾクゾクと背筋を震わせてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "f209b3b3",
+      "speaker": "ラグシェ",
+      "ja": "んぅ、んはぁ……♥　機械士しゃまの……どんどんおっきくなってるでしゅ……♥　それに熱くて……♥",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "6ebea83",
+      "speaker": "{G_PlayerName}",
+      "ja": "機械士じゃないだろ……？　俺今先生なんだからさ",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "c72cca5b",
+      "speaker": "ラグシェ",
+      "ja": "そうでした……♥　ごめんなさいでしゅ、せんせーしゃま♥",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "fc725d5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあそろそろ……",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "6dd52646",
+      "speaker": "ラグシェ",
+      "ja": "わかりました……♥　せんせーしゃまをいっぱい気持ち良くするでしゅ……♥　１００点満点取っちゃうでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "20a41995",
+      "speaker": "ラグシェ",
+      "ja": "はぁ……♥　はぁ……♥　こんな感じでいいでしゅか……？♥　なんだか足の裏くすぐったいでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "1c86f17f",
+      "speaker": "",
+      "ja": "ラグシェはたどたどしく足を動かし始め、肉棒をゆっくりと足の裏で扱いていく。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "b8c45c54",
+      "speaker": "",
+      "ja": "ラグシェに足コキをされているだけでも異様に興奮するのに、場所が学校というだけでその興奮がさらに加速する。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "317555a0",
+      "speaker": "ラグシェ",
+      "ja": "おちんちん、どんどん熱くなってるでしゅ……♥　興奮、しているんでしゅか？♥",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "6e5824cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ラグシェはどうなんだ……？　興奮してる……？",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "4a45d50d",
+      "speaker": "ラグシェ",
+      "ja": "うん……してる、でしゅ……♥　授業なのにエッチな気分になっちゃっているでしゅ……♥　あたち、いけない子でしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "c6744536",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に悪いことしているわけじゃないから……うわ、今の良い感じ……続けてくれるかな？",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "b99707f5",
+      "speaker": "ラグシェ",
+      "ja": "わかったでしゅ……♥　あぁ……おちんちんの先っぽヌルヌルになってきたでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "d4960ea2",
+      "speaker": "",
+      "ja": "ラグシェは俺の反応に合わせるように足を大きく上下に動かし、肉竿を扱き上げる。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "137e22c7",
+      "speaker": "",
+      "ja": "足裏がカリ首に触れるだけで甘く強烈な快感が背筋を駆け、心臓が一際大きくドクンと高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "65082e42",
+      "speaker": "",
+      "ja": "静かな教室内に俺とラグシェの吐息のみが聞こえ、どんどん熱が籠っていくラグシェの息に俺の肉棒も反応してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "c66e31c9",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま……ラグシェの足、何点でしゅか？♥",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "da3346a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "……て、点数か？　８０点ってとこかな……もう少し足を速く動かしてくれると点数あがるぞ",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "1ac8d36",
+      "speaker": "ラグシェ",
+      "ja": "わかりまちた……♥　ラグシェ、１００点取れるまで頑張りましゅっ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "53718d8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう……イイ感じ……ゾクゾクしてくるっ……！",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "8a0e0ac7",
+      "speaker": "",
+      "ja": "ラグシェの足がさらに速く動き、気持ち良さがどんどん大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "8de4bc2a",
+      "speaker": "",
+      "ja": "カリ首から亀頭をグリグリと擦り上げられ、あまりの気持ち良さに思わず腰を引きそうになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "944a1904",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま……♥　おちんちんビクンビクンしてるでしゅ……♥　お汁いっぱい溢れてきているでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "bdeb1b01",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうラグシェだって……",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "1d770159",
+      "speaker": "",
+      "ja": "俺は視線をラグシェのあそこに向けると、頬がさらに紅く染まる。",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "e1cf9597",
+      "speaker": "",
+      "ja": "自分でもぐちゅぐちゅに濡れているのを理解している様子だが、それでも隠すことをせずに肉棒を一心に足で扱く。",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "c71104f3",
+      "speaker": "",
+      "ja": "溢れる愛液がパンツやタイツから染み出し、僅かに透けるぷっくりとした割れ目が俺の興奮をどんどん高ぶらせていく。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "3c6edd60",
+      "speaker": "ラグシェ",
+      "ja": "ぬるぬるしゅごいでしゅぅ……♥　せんせーしゃま、もっと、もっとぬるぬるするでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "52c66b0a",
+      "speaker": "ラグシェ",
+      "ja": "もっとおちんちんビクンビクンさせるでしゅ……♥　気持ち良くなるでしゅよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "184bd2b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、くう、ラグシェ……！　ああ、もうダメだ……！　これ以上ガマンが……！！",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "42f2c81d",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま……？♥　苦しそうな声を上げてどうしたでしゅか？♥　ラグシェ何か悪いことを──",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "ed2da0db",
+      "speaker": "ラグシェ",
+      "ja": "──ひゃあぁっ！？♥　うあ、あ、出て、出てるでしゅっ……！♥　しゃせーしてるんでしゅかっ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "3cee8df7",
+      "speaker": "",
+      "ja": "ラグシェは俺が射精すると思っていなかったのか、驚きの声を上げながらびゅるびゅると精液を身体で受け止める。",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "8f0f3dbd",
+      "speaker": "",
+      "ja": "胸や顔が精液で真っ白に汚れ、その様子に俺は余計に興奮してしまいさらに射精を繰り返してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "f092e18e",
+      "speaker": "ラグシェ",
+      "ja": "ふえ、ふえぇ……びっくりでしゅ……♥　でも、せんせーしゃまの声、すごくえっちで……ドキドキしちゃったでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "d2697446",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま……今さらでしゅけど、あたち何をしたんでしゅか……？♥　どうしてしゃせーしたんでちか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "55d377ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わからずにしていたのか……？",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "8b27fe8f",
+      "speaker": "ラグシェ",
+      "ja": "はい、でしゅ……♥　お母さんもこんなことしていなかったでしゅ……♥　しゃせーは手と口とお股だけだったでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "cb7c4cc5",
+      "speaker": "",
+      "ja": "ラグシェの無知さ加減が俺を余計に刺激し、射精直後だというのに肉棒がビキビキと大きくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "ec1e6764",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラグシェ、頼む、もう一回足で扱いてくれ……！　さっきよりも強く……頼む……！",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "6eff03cf",
+      "speaker": "ラグシェ",
+      "ja": "わ、わかりまちた……♥　せんせーしゃまがそういうのでちたら……♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "4603bf9b",
+      "speaker": "ラグシェ",
+      "ja": "はぁ、はぁ……♥　せんせーしゃまのおちんちん、もっと熱くなってきてるでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "397028d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……ラグシェの足が気持ち良いから……うう……！",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "24e6d6c4",
+      "speaker": "ラグシェ",
+      "ja": "授業なのに気持ち良くなって……悪いせんせーしゃまでしゅっ……♥　もっともっと気持ち良くして悪いせんせーにしてあげるでしゅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "cbc55da9",
+      "speaker": "",
+      "ja": "ラグシェも興奮を隠さなくなり、精液と愛液を肉竿に擦り込むように足を動かす。",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "82c4b1a6",
+      "speaker": "",
+      "ja": "ヌルヌルのタイツで何度も肉棒を擦られ、気持ち良さのあまり両足が勝手に震え上がる。",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "8bbd2322",
+      "speaker": "",
+      "ja": "俺の反応が嬉しいのか、どんどんラグシェの足が大きく動き、タイツから染み出す愛液の量がどんどん増えていく。",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "3d89f832",
+      "speaker": "ラグシェ",
+      "ja": "べちゃべちゃのタイツでシコシコされるのがいいんでしゅね♥　こういう気持ち良くさせ方があるって知れてよかったでしゅ♥",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "37d629cf",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま、もっと……もっと気持ち良くしてあげたいでしゅ♥　もっとエッチなこと教えてくださいでしゅ♥",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "2d3f72b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それなら裏筋を……グリグリ擦ってくれ……もっと気持ち良くなれるから……",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "6ede46cd",
+      "speaker": "ラグシェ",
+      "ja": "裏筋……でしゅか？♥　ここの筋みたいなところでいいんでしゅか？♥",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "51b83e2a",
+      "speaker": "",
+      "ja": "ラグシェは足の指で裏筋に触れると、上下に脚を動かす。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "9dd9ea6c",
+      "speaker": "",
+      "ja": "カリ首を擦られるのとは違う快感に思わず声が口から漏れ、肉棒の先端からどぷりと先走りが溢れる。",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "9ed6cdb0",
+      "speaker": "ラグシェ",
+      "ja": "ココも気持ち良いんでしゅね……♥　男の人のおちんちんは不思議がいっぱいでしゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "e6dc6146",
+      "speaker": "ラグシェ",
+      "ja": "んふふ……なんだかあたちも身体があつくなってきちゃいました♥　せんせーしゃま……もっとエッチになってるせんせーしゃまを見せて……♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "ba379b64",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐう、うう、ラグシェぇ……！　くっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "39906419",
+      "speaker": "",
+      "ja": "ラグシェはどんどん肉棒のことを学習しているのか、的確に感じるポイントを攻め立てる。",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "490b28a8",
+      "speaker": "",
+      "ja": "最初はやりづらそうに動かしていた足もどんどんスムーズになり、絶妙な加減と速度が肉棒を気持ち良くする。",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "cf9161ec",
+      "speaker": "",
+      "ja": "今さっきあれだけ射精したにも関わらず肉棒はガチガチに膨張し、ラグシェの足の裏の間でビクンビクンと激しく何度も跳ねてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "28179cfa",
+      "speaker": "ラグシェ",
+      "ja": "せんせーしゃま♥　おちんちん、ビクンビクンしゅごいでしゅ♥　またしゃせーしそうになってるんでしゅね♥",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "c06eb0aa",
+      "speaker": "ラグシェ",
+      "ja": "またいっぱいぴゅっぴゅしてくだしゃいでしゅ♥　せーしいっぱい出してくだしゃいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "f49d5549",
+      "speaker": "",
+      "ja": "ラグシェが亀頭をグリグリと足裏で擦り、俺は目の前がチカチカになるほど快感に襲われる。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "20138561",
+      "speaker": "",
+      "ja": "俺に射精させようと脚を執拗に動かし続け、肉棒が爆発寸前にまで追い詰められていく。",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "4f4b95c4",
+      "speaker": "ラグシェ",
+      "ja": "出ちて……！♥　せんせーしゃまのイクところ、あたちに見せてくだしゃいっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "ddacdde7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐうううっ！　ラグシェぇっ！！",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "c32bab16",
+      "speaker": "ラグシェ",
+      "ja": "ふあぁっ！♥　ああ、またいっぱいぴゅっぴゅでしゅぅ～っ！♥　しゅごい……さっきよりいっぱい出てるでしゅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "201b7e79",
+      "speaker": "",
+      "ja": "俺は獣のように声を上げると、こみ上げてきたモノを一気に外に吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "14004614",
+      "speaker": "",
+      "ja": "びちゃびちゃとラグシェの顔や髪、身体に大量の精液が降り注ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "e6213033",
+      "speaker": "",
+      "ja": "ラグシェは驚きながらも俺の射精を受け止め、さらにドロドロに汚れていくラグシェに興奮し、何度も熱いモノが肉竿を上っていく。",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "cfbc899e",
+      "speaker": "ラグシェ",
+      "ja": "ほわぁ……♥　せんせーしゃまのいっぱい……足でシコシコって気持ち良いんでしゅね……♥",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "8aef32a",
+      "speaker": "ラグシェ",
+      "ja": "それならもっとしてあげましゅね……♥　ぬめぬめでもっと早くシコシコできましゅから……♥",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "22aa1489",
+      "speaker": "ラグシェ",
+      "ja": "もっとあたちの足できもちよくなってくだしゃい♥　せんせーしゃまっ♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "a57ce7c0",
+      "speaker": "",
+      "ja": "ラグシェは再び足を動かし、ぬるぬるのタイツが肉棒を扱き上げる。",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "6d19883a",
+      "speaker": "",
+      "ja": "脳まで蕩けてしまうような快感に俺は何もできず、ラグシェの行為に甘えるようにその場でじっとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "92d9f9c4",
+      "speaker": "",
+      "ja": "エッチな授業はまだまだ終わらない。",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "80738711",
+      "speaker": "",
+      "ja": "そう思いながら俺は声にならない声を上げながら、甘く蕩ける快感に浸るのであった。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "825ee2f5",
+      "speaker": "ラグシェ",
+      "ja": "んー……あと何を書こう～……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "f0d75101",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラグシェ、なんか一生懸命書いてるみたいだけど、何やってんだ？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "5527ff5d",
+      "speaker": "ラグシェ",
+      "ja": "あっ！　機械士しゃまっ！　アイにお手紙書いてましゅ！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "3e8c8146",
+      "speaker": "ラグシェ",
+      "ja": "学校でお手紙のこと習いましたし、それをお手紙でアイに伝えたいって思って",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "4086f12f",
+      "speaker": "ラグシェ",
+      "ja": "あとあと、学校で覚えたこと、あったこと、いっぱいアイに伝えたいでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "50b85683",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……いいな、手紙。俺も何か手伝おうか？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "7d0cf9c4",
+      "speaker": "ラグシェ",
+      "ja": "ありがとうございましゅ！　それではおかしなところがないか見て欲しいでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "e8642b01",
+      "speaker": "",
+      "ja": "ラグシェはそう言うと無邪気に便箋を俺に見せる。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "b2f7e24e",
+      "speaker": "",
+      "ja": "中身を見ていいのか思わずためらってしまうが、ラグシェの笑顔に思わず受け取ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "54a845df",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……そのさ、中見ていいのか……？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "a0d8008f",
+      "speaker": "ラグシェ",
+      "ja": "……？？？　構わないでしゅよ……？　それに読まないとおかしなところわからないでちよね……？",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "fbefefa5",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁそうなんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8ff91322",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本人がいいって言ってんだしいいのかな……？　まぁ内容は俺の心の中に留めておけば問題ないか）",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "e150ac74",
+      "speaker": "ラグシェ",
+      "ja": "さぁさぁ読んでくだしゃいっ♪　おかしなところあったらおしえてくだしゃいっ♪",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "346fd454",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった……んー、どれどれ……んなぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "f8b5e604",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだこりゃ……！？　なんて書いてあるんだ！？　さ、さっぱりわからんぞ……？）",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "ec020dc7",
+      "speaker": "",
+      "ja": "便箋にびっしりと書き込まれているどこの星の物かわからない未知の言語。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "1f08c574",
+      "speaker": "",
+      "ja": "一応文章のようにきれいに文字が羅列しているように見えるが、俺の知っている文字とは明らかに違いすぎる。",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "3ec7289f",
+      "speaker": "ラグシェ",
+      "ja": "あっ、そうだ、機械士しゃまにお手伝いしてもらったこともアイに伝えましゅ♪",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "a3888edc",
+      "speaker": "ラグシェ",
+      "ja": "えへへ、どんどん書くことが増えて嬉しいでしゅ♪",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "9ce9a002",
+      "speaker": "ラグシェ",
+      "ja": "お手紙って書きたいことがいっぱいありましゅね～♪　全部伝えるのは大変でしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "91dc2a07",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そう、だな……細かいところまで伝えるのは大変だよな",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "b184115d",
+      "speaker": "ラグシェ",
+      "ja": "機械士しゃま……？　どうかしたんでちか？　お手紙ちゃんと書けていなかったでしゅか……？",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "d6a09b4e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……えっと、まぁ、その……書けて、いると思うが……",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "f01e5779",
+      "speaker": "ラグシェ",
+      "ja": "えへへっ♪　本当でちか？　機械士しゃまに確認してもらったから大丈夫でしゅねっ♪",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "2c2e2d89",
+      "speaker": "ラグシェ",
+      "ja": "よーし、もっともっと書きましゅーっ♪　んー、何書きましゅか……機械士しゃま、他にはどんなこと書いたらいいでしゅか？",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "3b65315e",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　ま、まぁ、その……学校での出来事を書けばいいと思うが……",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "b61e7e8a",
+      "speaker": "ラグシェ",
+      "ja": "んー……でもだいたいは書いたと思いましゅよ……？　何か書いてないことありまちた……？",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "6465990d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（内容を聞かれても困る……！　今さら聞き返すわけにもいかんし……！　んー、何か、何かラグシェが書いていないようなこと……何かないか……！？）",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "bdebaf7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあその……制服、他の生徒の制服のことはどうなんだ？　アイってそういうの好きそうじゃないか……？",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "eb44ca4",
+      "speaker": "",
+      "ja": "もうすでに書いてある内容だったらどうしよう、そう思いながらラグシェの内容を提案する。",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "3d795816",
+      "speaker": "ラグシェ",
+      "ja": "おおおーっ！　制服のこと忘れていまちた……！　さすが機械士しゃまでしゅっ！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "ada1e5e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、そうか、それはよかった……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "3265abd5",
+      "speaker": "ラグシェ",
+      "ja": "よーし、制服のこと書きましゅー……！　んー、どういう風に説明しましゅか……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "c82258db",
+      "speaker": "ラグシェ",
+      "ja": "機械士しゃま、教えてくだしゃい……わたち、お洋服のことあまりわからないでしゅ……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "880374bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだなぁ……服のことを文章にするのって難しいよな……ラグシェの星に今着ている制服と似たデザインの服とか無いかな？",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "7d892fa5",
+      "speaker": "{G_PlayerName}",
+      "ja": "それに絡めて説明すれば少しは伝えやすくなるかも",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "29e536a8",
+      "speaker": "ラグシェ",
+      "ja": "なるほど、なるほどー……でもでも、あたち、サンタ服のことしか知らないでしゅ",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "85a16b7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……あ！　そうだ、手紙って文章だけじゃなくてもいいんだし、制服の絵を描けばいいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "693100c0",
+      "speaker": "ラグシェ",
+      "ja": "おおおおーーっ！　それはいいアイディアでしゅ！　さすが機械士しゃまでしゅっ！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "7d5284df",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかりやすいように色も付けたほうがいいな……よし、待ってろ、色鉛筆持ってくるから",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "2126330f",
+      "speaker": "ラグシェ",
+      "ja": "ありがとうございましゅ！　それじゃあわたちは制服の絵を描きましゅ！　えへへ、機械士しゃまのおかげでお手紙の中身がどんどん充実していくでしゅっ！",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "80fa6902",
+      "speaker": "",
+      "ja": "──１時間後",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "8bdf1770",
+      "speaker": "ラグシェ",
+      "ja": "できましゅたーっ！",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "9ebec165",
+      "speaker": "{G_PlayerName}",
+      "ja": "上手く描けたな！　これなら絶対にアイに伝わると思うぞ",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "c8048e53",
+      "speaker": "ラグシェ",
+      "ja": "ありがとうございましゅ！　機械士しゃまが色鉛筆貸してくれたおかげでしゅ！　ありがとうでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "a5ff4979",
+      "speaker": "ラグシェ",
+      "ja": "あとはこのお手紙をアイに送ればいいんでしゅね……！　えへへ、アイどんな反応するのか……楽しみでしゅ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "16aec667",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょい待った。便箋は確かに書き終わったが封筒がまだだろ？　宛先とか必要なんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "47d4db",
+      "speaker": "ラグシェ",
+      "ja": "あ……！　宛先忘れていましゅた……！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "f90a72a2",
+      "speaker": "ラグシェ",
+      "ja": "そーいえば宛先のこと習った気がしましゅ！　機械士しゃま、ありがとうございましゅ！　このままではお手紙が宇宙で迷子になるところでちたねっ",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "e17e04",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そういえば宛先ってどこの星なんだろ……？）",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "f47acee",
+      "speaker": "",
+      "ja": "妙に気になってしまい、封筒に文字を連ねているラグジェを横目に盗み見をしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "e88a5baa",
+      "speaker": "",
+      "ja": "ラグシェは特に隠す様子は無かったが、なんとなくだが知ってはいけない、そんな気分になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "6eb6cb2d",
+      "speaker": "ラグシェ",
+      "ja": "よし、書き終わりまちた……！　あとは封筒にお手紙を入れて～……これで完成でしゅっ！",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "bd196921",
+      "speaker": "ラグシェ",
+      "ja": "無事にアイのところに届きましゅように！　どんな感想がもらえるか楽しみでしゅねっ！　その時は一緒にアイからのお返事読んでくだしゃい、機械士しゃまっ♪",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "14038198",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そう、だな……返事が来たら一緒に、な",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "ee5b74a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（結局手紙の内容も宛先も１ミリもわからなかった……！）",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "1c2ebcbc",
+      "speaker": "",
+      "ja": "その後、手紙は無事に配達されたようで、アイは喜んで読んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "fd3eb852",
+      "speaker": "",
+      "ja": "しかしあの奇妙な文字から得体のしれない星の文化に触れた気もしてしまい、なんとなく不思議な体験をしてしまったと思ってしまうのであった。",
+      "zh": ""
+    }
+  ]
+}
