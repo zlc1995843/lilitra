@@ -1,0 +1,922 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "b3b5833d",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……キララ……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "4f7406f7",
+      "speaker": "",
+      "ja": "前回のことがあってからしばし経つが、最近キララの姿を見かけない。{G_PlayerName}は自分の部屋で彼女のことに思いをはせていた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "2fcac54d",
+      "speaker": "",
+      "ja": "不意に部屋の扉が開き、キララが気まずそうにしながら入ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "fa207a04",
+      "speaker": "{G_PlayerName}",
+      "ja": "キララ！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "32007c0",
+      "speaker": "キララ",
+      "ja": "いやー、久しぶりだね機械士ちゃん",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "acd09d3e",
+      "speaker": "{G_PlayerName}",
+      "ja": "久しぶりだねじゃないよ！　今までどこに行ってたんだ！　心配してたんだぞ！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "bd960d0c",
+      "speaker": "",
+      "ja": "{G_PlayerName}が本気で心配しているのが伝わったキララは少し申し訳なさそうな表情を浮かべて呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "113aea56",
+      "speaker": "キララ",
+      "ja": "しばらくカジノに戻ってて……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "182926b",
+      "speaker": "{G_PlayerName}",
+      "ja": "それならそれで行く前に言ってくれてもいいじゃないか！",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "e7661b8",
+      "speaker": "キララ",
+      "ja": "あはは、あたしがいなくても他にもリリアンもいるじゃんか",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "8dc479e6",
+      "speaker": "",
+      "ja": "すごく心配されていたのを痛感したキララは気恥ずかしさもあって冗談っぽく軽口を叩く。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "a36b823b",
+      "speaker": "キララ",
+      "ja": "それにさぁ……あんなことした後だと会うの恥ずかしかったし……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "2f5bc5cd",
+      "speaker": "",
+      "ja": "キララは寂しそうに、それでいて自虐的に呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "1d3c03ac",
+      "speaker": "キララ",
+      "ja": "お兄ちゃんも、実際エッチする分にはいいけど……彼女にするならキララみたいな体型のリリアン、好みじゃないだろうし",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "66508e9d",
+      "speaker": "",
+      "ja": "まるで自ら身を引き距離を取ろうとするような発言に、{G_PlayerName}は寂しさを覚えると同時に少し怒りを覚えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "c7b63d4d",
+      "speaker": "",
+      "ja": "そして真剣な顔でキララと向き合うとキッパリと告げた。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "113fc814",
+      "speaker": "{G_PlayerName}",
+      "ja": "……キララ、俺と賭けをしないか？",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "dc53859f",
+      "speaker": "",
+      "ja": "{G_PlayerName}が口にした賭けという言葉にキララは目を輝かせて食いついてくる。",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "a4f90b77",
+      "speaker": "キララ",
+      "ja": "賭け？！　するする！　どんな賭けするの？！",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "dd23479b",
+      "speaker": "",
+      "ja": "そして賭けの詳細も聞かずに{G_PlayerName}の賭けに乗ってきた。{G_PlayerName}が提案した賭けというのは……。",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "24f5edcf",
+      "speaker": "キララ",
+      "ja": "んっ！　お、お兄ちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "c24632b",
+      "speaker": "",
+      "ja": "勃起したおちんちんをいきなり挿入されたキララが艶っぽい声を漏らした。",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "265619c",
+      "speaker": "",
+      "ja": "赤面しながら困り笑いを浮かべて、キララは{G_PlayerName}に問いかける。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "ee2b6873",
+      "speaker": "キララ",
+      "ja": "ちょ、ちょっと……赤ちゃんができるかの賭けって……そんなのいつもしてるの、お兄ちゃん？",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "eec38576",
+      "speaker": "",
+      "ja": "{G_PlayerName}が出した賭けの条件にキララはかなり困惑していた。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "15457715",
+      "speaker": "{G_PlayerName}",
+      "ja": "これも立派な賭けだろっ、キララは受精しないように本気出していいから",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "73bab0d3",
+      "speaker": "",
+      "ja": "そんな訳のわからないことを言いつつ、{G_PlayerName}はゆっくりと腰を振り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "f6d871a4",
+      "speaker": "キララ",
+      "ja": "んっ♥　ま、まったく……♥　イケメンヤリチン機械士さんは、こういうのも慣れっこなんだねー",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "b649aa3b",
+      "speaker": "",
+      "ja": "からかうようにそう言うキララだが、{G_PlayerName}は関係ないとばかりに抽送を続ける。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "71f5d27b",
+      "speaker": "",
+      "ja": "その突き上げにキララは感じつつも気恥ずかしさを隠すように軽口を叩いた。",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "52c8650a",
+      "speaker": "キララ",
+      "ja": "でもキララと遊ぶよりも本当に好きな子だけにしておかないと、そのうちあの幼馴染みの子にも愛想つかされちゃうよ？",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "3eabdc9c",
+      "speaker": "",
+      "ja": "セックスの肉欲は受け入れつつも、あくまで自分は遊び相手であるというスタンスを変えないキララに{G_PlayerName}は苛立ちを覚えて叫ぶ。",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "8459dafd",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるさいなっ！　黙ってセックスに集中しろよっ！",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "184a8f1f",
+      "speaker": "",
+      "ja": "そう言うと同時に{G_PlayerName}は湧き上がった苛立ちをぶつけるようにピストンを激しくさせていった。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "c5d69016",
+      "speaker": "",
+      "ja": "その強い突き上げにキララは喘ぎながらも強気な言葉を口にした。",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "d2cee425",
+      "speaker": "キララ",
+      "ja": "んっ♥　んぅっ♥　わ、わかったわっ♥　でも、どうせ賭けはあたしの勝ちだよっ♥　好きな人とのセックスじゃないと、赤ちゃんできないもんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "408fbf5",
+      "speaker": "",
+      "ja": "自信満々にそう言ったキララは賭けに勝つ気満々だ。だがそれが{G_PlayerName}の心に火を付け、一層腰の動きが激しくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "347b9d41",
+      "speaker": "キララ",
+      "ja": "……んっ、うぅんっ♥　そんなに激しくしたって無駄なんだからっ♥　んふぅ♥　あっ♥　あふぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "2c0738d1",
+      "speaker": "",
+      "ja": "{G_PlayerName}のおちんちんが奥まで押し込まれる度にキララの口からは甘い喘ぎと強気の言葉が漏れる。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "27d54821",
+      "speaker": "",
+      "ja": "固い陰茎で擦られる膣はどんどん熱を帯びてきてねっとりとした汁が溢れ出た。",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "a2364f93",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなこと言って……おまんこはもうヌルヌルだぞっ",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "8a3be92f",
+      "speaker": "キララ",
+      "ja": "そ、それは……んんんっ♥　おちんちんずぼずぼされたら……勝手に濡れるのっ♥　くふぅ♥　んふうぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "b4331ec3",
+      "speaker": "",
+      "ja": "{G_PlayerName}の指摘にも強がるキララだが、内心ではかなり感じてしまっている。",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "a74df02f",
+      "speaker": "キララ",
+      "ja": "（やばい♥　すごく気持ちよくなっちゃってる♥　お兄ちゃんのおちんちん、すごくいいっ♥）",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "1cd3b9fc",
+      "speaker": "",
+      "ja": "そんな気持ちを表に出さずに、キララは必死に堪えていた。しかし{G_PlayerName}は感じていないという言葉を信じて感じさせようとムキになる。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "916cd8dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそぉ！　意地でもイかせて孕ます！　このっ、このぉっ！",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "609d3cda",
+      "speaker": "",
+      "ja": "激しさを増す突き上げに、キララの腰は小さく何度も跳ねて濡れた膣が出入りする陰茎に強く吸いついてきた。",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "432a0f67",
+      "speaker": "",
+      "ja": "その締め付けに{G_PlayerName}も徐々に絶頂へと向かっていく。それはキララも同じだったがあくまで強がってみせた。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "fa7df219",
+      "speaker": "キララ",
+      "ja": "お兄ちゃん……そろそろ精液お漏らししちゃうんじゃない？♥　おちんちん、びっくんびっくんしちゃってるよー♥",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "780333bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅ……くそおぉ……",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "a43e6150",
+      "speaker": "",
+      "ja": "どんどん射精したいという衝動が強くなってきた{G_PlayerName}だが何とかキララをイかそうと必死に腰を振り続ける。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "847b4b47",
+      "speaker": "",
+      "ja": "その突き上げにキララの快感も高まって絶頂が近づいているのを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "97fdd25b",
+      "speaker": "キララ",
+      "ja": "（やばいっ♥　イっちゃうっ♥　お兄ちゃんのおちんちんでイっちゃう♥　孕まされちゃうぅ♥）",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "b1da09f2",
+      "speaker": "",
+      "ja": "それを意識した途端にキララの小さな膣が{G_PlayerName}のおちんちんを強く締め付ける。",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "3d505a14",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、出すぞ！　おまんこの奥に出すぞ！　くぅぅ……は、孕めっ！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "a3ae3c21",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう言って強く脈打つおちんちんを奥までねじ込むと、込み上げてきた精液を勢いよく発射した。",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "d2617b51",
+      "speaker": "キララ",
+      "ja": "ぅっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "887589f1",
+      "speaker": "",
+      "ja": "{G_PlayerName}が膣内に射精すると同時にキララも絶頂に達してしまう。キララは必死に声を押し殺した。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "8c506cee",
+      "speaker": "",
+      "ja": "そうしている間にも{G_PlayerName}はおまんこの中に射精し続け、いっぱいになった膣から白濁したドロドロの汁が大量にこぼれ落ちていく。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "5d37ef80",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうだ！　イったし受精したか！？",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "679bfcd",
+      "speaker": "",
+      "ja": "絶頂に至ったことに{G_PlayerName}は気づいていて、そう問い詰めるがキララは首を横に振って強がった。",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "3e67838d",
+      "speaker": "キララ",
+      "ja": "はぁ……はぁ……い、いや……受精してないし……イってもないから……っ",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "2284817d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……だったら次は派手にイかせてやる！",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "1ba0df92",
+      "speaker": "",
+      "ja": "素直に認めないキララに少し苛ついた{G_PlayerName}は射精し終えるとすぐにまた腰を激しく振り始める。",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "90a400c9",
+      "speaker": "キララ",
+      "ja": "んはああぁ♥　ま、またそんなっ、激しくずんずんって♥　んくうぅっ♥　おっ、ほおぉっ♥",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "9124956a",
+      "speaker": "",
+      "ja": "絶頂で敏感になっているおまんこを容赦なく突かれ、キララは思わず淫らな声で喘いでしまった。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "1600cbb5",
+      "speaker": "",
+      "ja": "そんなキララを{G_PlayerName}の勃起ちんぽが何度も奥まで貫いていく。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "768bf0b9",
+      "speaker": "キララ",
+      "ja": "おふぅっ♥　お、お兄ちゃんっ、やりすぎぃ♥　ひっ、ひああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "96b008d5",
+      "speaker": "",
+      "ja": "{G_PlayerName}の強い突き上げにキララはついつい大きな声を上げ、腰を小さく跳ねさせた。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "c6af1ba8",
+      "speaker": "",
+      "ja": "その度に小さなおまんこが出入りするおちんちんに強く吸いついてきて、{G_PlayerName}は我を忘れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "b13d8f0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "好きだキララ！　絶対に孕ませる！　もうどこにも行かせないっ、受精してくれっ！",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "dc65952e",
+      "speaker": "",
+      "ja": "興奮で気持ちが高ぶった{G_PlayerName}は正直な気持ちを思わず叫んでピストンを繰り返した。",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "373e52b1",
+      "speaker": "キララ",
+      "ja": "す、す、す、好きって？！　お兄ちゃんがあたしを？！",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "3f7689b",
+      "speaker": "",
+      "ja": "予想外の告白にキララは驚き戸惑ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "54a3f26e",
+      "speaker": "",
+      "ja": "おまけに勢いで告白してしまった{G_PlayerName}の気持ちは高ぶって腰の動きが速まり、その突き上げに彼女の快感がどんどん大きくなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "9d6dfecd",
+      "speaker": "キララ",
+      "ja": "あぁんっ♥　何それ、お兄ちゃん♥　そんなの知らなかったのにっ♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "55d215b1",
+      "speaker": "キララ",
+      "ja": "あんっ♥　あぁっ♥　だめっ♥　好きって言われたら恋人セックスになっちゃうっ♥",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "32c39169",
+      "speaker": "",
+      "ja": "動揺と気持ちよさに頭の中がぐちゃぐちゃになってしまったキララは、遠回しに自分も好きだと言うことを口走ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "eff6ad88",
+      "speaker": "",
+      "ja": "それを聞いた{G_PlayerName}は俄然張り切りだして力強く腰を突き出していった。",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "51e86b86",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ！　恋人セックスだ！　ということはキララも俺の事好きってことだろ！　好き同士でセックスしたら孕むんだろ！",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "bfc32d0f",
+      "speaker": "キララ",
+      "ja": "はふぅんっ♥　んっ♥　んはぁ♥　しゅきぃー♥　しゅきしゅきー♥　お兄ちゃんしゅきー♥",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "270753",
+      "speaker": "",
+      "ja": "あまりにも激しいピストンにキララも思考が働かなくなってきて、ついつい素直になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "9d2a1da0",
+      "speaker": "",
+      "ja": "そんなキララを更に愛おしく思った{G_PlayerName}は興奮に任せてその体に貪りついていった。",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "66554d5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "絶対に孕ませる！　孕むまで……いや孕んでもキララとのセックスをやめないからな！",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "7d16644c",
+      "speaker": "キララ",
+      "ja": "しょんなぁ♥　負けちゃうぅ♥　お兄ちゃんの赤ちゃん欲しくなってりゅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "c96721d0",
+      "speaker": "",
+      "ja": "完全に気落ちの歯止めが利かなくなったキララは素直な気持ちを叫んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "eeabd2f0",
+      "speaker": "",
+      "ja": "その言葉に応えるように{G_PlayerName}は子宮を貫くぐらいの勢いで何度も膣の奥をおちんちんの先で叩きまくった。",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "29fd890e",
+      "speaker": "キララ",
+      "ja": "らめぇ♥　気持ちよしゅぎりゅう♥　あんっ♥　うほぉんっ♥　イっちゃうぅ♥　妊娠しちゃうぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "d323d2cf",
+      "speaker": "",
+      "ja": "ずっと堪えてきた反動か、キララは肉棒で突かれる度にどんどん乱れていく。",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "6616645d",
+      "speaker": "",
+      "ja": "その姿に興奮した{G_PlayerName}はピストンを加速させていった。",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "3c1d0fa9",
+      "speaker": "{G_PlayerName}",
+      "ja": "孕め！　孕め！　すぐにボテ腹にさせるからな！",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "528e8316",
+      "speaker": "キララ",
+      "ja": "おふぅぅ♥　おっ、おほぉ♥　しゅごぉい♥　おまんこの奥ずんずんされたら……あっ♥　あふぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "b8435526",
+      "speaker": "",
+      "ja": "キララが大きな声で喘ぐ程におまんこの締まりが強くなって{G_PlayerName}は強い射精衝動に襲われてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "ae6b7730",
+      "speaker": "",
+      "ja": "その強く込み上げてくる感覚に、{G_PlayerName}はこれ以上は堪えきれなくなった。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "396e352a",
+      "speaker": "{G_PlayerName}",
+      "ja": "出すぞっ！　孕ませるぞっ！　うっ、くうぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "521185a1",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}は大きく腰を突き出すとそのままおまんこの奥に熱い精を勢いよくほとばしらせる。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "a8e59a44",
+      "speaker": "キララ",
+      "ja": "イくううううううっ！♥　赤ちゃんできちゃううううううっ！",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "644d3e",
+      "speaker": "",
+      "ja": "大量に注がれる精子の熱さにキララは絶頂しながら受精を確信してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "cbc923b8",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は容赦なく小さく何度も腰を突き出しキララの子宮を勃起したおちんちんで押し上げながら射精する。",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "e5db8773",
+      "speaker": "{G_PlayerName}",
+      "ja": "孕め孕め孕め！　絶対デキるまで今日は離さないぞ！",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "c1b6f32e",
+      "speaker": "キララ",
+      "ja": "ふわああぁぁ♥　今イってるからぁ♥　もう受精したからぁ♥　デキてるからあぁ♥　だからおまんこの奥とんとんするのやめてえぇぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "7cb6240",
+      "speaker": "",
+      "ja": "いくらそう訴えても{G_PlayerName}は大量に射精を続け、その度にキララは大きな声で喘ぎまくるのだった。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "7aaddd22",
+      "speaker": "",
+      "ja": "{G_PlayerName}の部屋でキララは、だらだらと本を読んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "17d79e3e",
+      "speaker": "",
+      "ja": "部屋の主である{G_PlayerName}がいなくても勝手に入って好き勝手するのはいつものこと。",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "1dc9b0e3",
+      "speaker": "キララ",
+      "ja": "んー、お兄ちゃんどこで何してるんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "906fde43",
+      "speaker": "",
+      "ja": "キララがそう思っているとタイミング良く{G_PlayerName}が部屋に駆け込んできて、少し興奮気味に告げた。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "b16d49cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいキララ！　お前が好きだっていうギャンブル、これからここでできるようになったぞ！",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "6421f605",
+      "speaker": "キララ",
+      "ja": "えー？　ルフレでも連れてきたのー？",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "21acc071",
+      "speaker": "",
+      "ja": "息巻いている{G_PlayerName}とは対照的にキララはあまり真剣に取り合わない。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "702d3ff4",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}はキララに熱弁を繰り広げる。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "58c9739f",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺、ルフレの指導を受けてルミナたち相手にギャンブルの進行役、ディーラーの練習をしていたんだ！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "7fbb90dc",
+      "speaker": "キララ",
+      "ja": "んー？　でもあれ、結構難しいと思うけど……ディーラーもかなり頭使うやつでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "dfa72df0",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉をまだ信じていないキララだが、{G_PlayerName}はふふんと胸を張り自信満々に告げた。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "a214519f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに信用出来ないなら、今からやってみようぜ",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "8ddacd87",
+      "speaker": "",
+      "ja": "そう言うと{G_PlayerName}は慣れた手つきでカードを扱いギャンブルを進行してみせる。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "8072d8b3",
+      "speaker": "",
+      "ja": "それを見たキララは、これまでの{G_PlayerName}とは明らかに違うと感じた。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "e2655443",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらね、ちゃんとできるようになっただろ？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "ab08a7f3",
+      "speaker": "キララ",
+      "ja": "いやー、まさか駆け引きまでできるようになるとは！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "4ec0b4e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃキララに喜んで貰いたくて頑張って覚えたんだよ",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "b8f12ecd",
+      "speaker": "キララ",
+      "ja": "キララの為に？　うれしー♥　ありがとー、お兄ちゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "5adf2db0",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやー、それ程でも",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "96b37c15",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもキララに喜んで貰えて良かった……。）",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "ff82b2ff",
+      "speaker": "キララ",
+      "ja": "ねえ、いっそお兄ちゃんもカジノ開いたら？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "25f59434",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、今のところ俺はキララ専門店としか考えてないけどな。カジノの再現、アポロも難航してたくらいだし……",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "8e9281ed",
+      "speaker": "キララ",
+      "ja": "やばっ♥　じゃあキララがめちゃくちゃ通ってあげなきゃ♥　きゃはは♥",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "798bc132",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うわ……きゃらきゃら笑うキララ……か、かわいい……。）",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "d89a8614",
+      "speaker": "キララ",
+      "ja": "お兄ちゃん、どーしたのー？　ニヤニヤしてるけどー",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "e1827a2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "べ、別になんでもないよ",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "8c66ab22",
+      "speaker": "",
+      "ja": "そう突っ込んでくるキララに{G_PlayerName}は平静を装って見せるが内心はバクバクになってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "ab11d5bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やばい……一度この可愛さを認識してしまうと、俺がキララのことが好きだと自覚してしまって……。）",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "9a77b83f",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うわーーーーーーーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "12c5a3e",
+      "speaker": "",
+      "ja": "自分がまるで少女漫画のような恋心をキララに向けていると自覚した{G_PlayerName}は、あまりの小っ恥ずかしさにベッドの上でジタバタしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "e55811f7",
+      "speaker": "キララ",
+      "ja": "もう！　お兄ちゃん、ベッドの上で暴れないのー！",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "f2b9736c",
+      "speaker": "",
+      "ja": "キララはそう言ってジタバタしている{G_PlayerName}のお尻をパンと叩いた。",
+      "zh": ""
+    }
+  ]
+}

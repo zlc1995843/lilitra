@@ -1,0 +1,877 @@
+{
+  "lines": [
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "dbe75d9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "だー！　また負けたー！",
+      "zh": "啊——！又输了——！"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "11d8f995",
+      "speaker": "",
+      "ja": "部屋でキララとポーカー勝負をしていた{G_PlayerName}は、全戦全敗にカードを投げ上げて後ろに倒れ込む。",
+      "zh": "在房间里和琪拉拉赌扑克的{G_PlayerName}，把把都输，把牌一扔，仰天倒了下去。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "d6c40217",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を見てキララはクスクスと笑って言った。",
+      "zh": "看到这样的{G_PlayerName}，琪拉拉咯咯地笑着说。"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "645fdea1",
+      "speaker": "キララ",
+      "ja": "ふふふっ♥　お兄ちゃん、じゃあ次の賭け……しよっ♥",
+      "zh": "哼哼♥ 哥哥，那接下来就赌……继续吧♥"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "3af23b9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや……いいよ……もう疲れたし……",
+      "zh": "不、不用了……不了……我已经累了……"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "9897bc01",
+      "speaker": "",
+      "ja": "完全にやる気を無くしてひっくり返ったままの{G_PlayerName}にキララは胸元を少しはだけて見せつけながら甘い声で囁きかける。",
+      "zh": "对着完全丧失斗志、瘫倒在地上的{G_PlayerName}，琪拉拉微微扯开胸口，故意露给他看，甜腻地在他耳边低语。"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f9733a58",
+      "speaker": "キララ",
+      "ja": "ほらぁ♥　次の勝負で勝ったら、お兄ちゃんがだーい好きな、このおっきなキララのおっぱいにお仕置きしてもいいんだけどなー♥",
+      "zh": "你看♥ 下一把你要是赢了，就可以随便惩罚哥哥最喜欢的、琪拉拉这双大胸胸了哦♥"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "656601f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……！？",
+      "zh": "什……！！？"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "bb12bbb0",
+      "speaker": "",
+      "ja": "キララの胸元に目が釘付けになった{G_PlayerName}は顔が真っ赤になっていった。",
+      "zh": "{G_PlayerName}的目光钉在琪拉拉胸口上，脸涨得通红。"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "96e3dba5",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を煽るようにキララは胸を強調して迫ってくる。",
+      "zh": "琪拉拉像是要煽动{G_PlayerName}的，挺着胸脯凑了过来。"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "d13ec71e",
+      "speaker": "キララ",
+      "ja": "さっ、もう一勝負しよ♪　本気でかかってきていいよー♪",
+      "zh": "来，再赌一把♪ 尽管放马过来就是了♪"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "cc4fa3db",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、言ったな～！",
+      "zh": "你、你说了啊～！"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "e4c6243f",
+      "speaker": "",
+      "ja": "乗り気になった{G_PlayerName}とポーカー勝負をする為に、キララは散らばったカードを拾い集めると慣れた手つきでシャッフルした。",
+      "zh": "为了和顿时来了劲的{G_PlayerName}赌牌，琪拉拉捡起散落的纸牌，手法熟练地洗好牌。"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "ca9344cc",
+      "speaker": "",
+      "ja": "そして勝負の結果は……。",
+      "zh": "而胜负的结果是……。"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "56f58c57",
+      "speaker": "キララ",
+      "ja": "にひひー♥　お兄ちゃん、さすが男の人だねー♥　エッチがかかれば勝てちゃうんだー♥",
+      "zh": "嘻嘻♥ 哥哥，真不愧是男人呢♥ 一沾上色色就能赢♥"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "756f3edf",
+      "speaker": "",
+      "ja": "露わになった大きな乳房は{G_PlayerName}によって鷲づかみにされギュッと寄せられていた。",
+      "zh": "裸露出来的硕大乳房，被{G_PlayerName}一手抓住，挤得紧紧贴在一起。"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "daf1b192",
+      "speaker": "",
+      "ja": "そしてその谷間に{G_PlayerName}は勃起したおちんちんを挿入している。その圧倒的な存在感に{G_PlayerName}は思わず呟いた。",
+      "zh": "接着{G_PlayerName}把勃起的鸡鸡插进了那道乳沟里。那压到窒息的乳肉包围感，让他不由得闷哼出声。"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "aaf85753",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそっ、デカすぎるっ！",
+      "zh": "妈的，实在太大了！"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "73e62358",
+      "speaker": "",
+      "ja": "柔らかな乳房で挟んだ陰茎は、その気持ちよさにびくんびくんと脈打って更に太く固く反り返っていく。",
+      "zh": "被柔软乳房夹住的阴茎，爽得一抖一抖地搏动，变得更粗更硬，朝上翘起。"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "a2021a17",
+      "speaker": "キララ",
+      "ja": "お兄ちゃんのおちんちん、すごく熱くなってがっちがちになってるー♥　やらしーんだー♥",
+      "zh": "哥哥的鸡鸡，变得好烫，硬邦邦的♥ 好色哦♥"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "aa3878ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるさい！　リリアンは慎ましい胸のかわいい存在の筈なのに……こんな下品な長乳しやがって！",
+      "zh": "闭嘴！莉安明明应该是那种文静可爱小胸部的存在……竟然长着这么下流的长奶子！"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "b456c2ee",
+      "speaker": "",
+      "ja": "キララに煽られた{G_PlayerName}は、ついつい彼女の長乳を性的に見ていたことを認めるような発言をしてしまった。",
+      "zh": "被琪拉拉这么一激，{G_PlayerName}不小心说出了自己其实一直用色色的眼光在看她的长胸。"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "e354aa7b",
+      "speaker": "キララ",
+      "ja": "やっぱりお兄ちゃんキララのおっぱいをそんな風に見てたんだー♥　ほんとにエッチなんだからー♥",
+      "zh": "果然哥哥就是用那种色眯眯的眼神在看琪拉拉的胸部呢♥ 真是个大色鬼♥"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "87e48d97",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるさいうるさい！　こんなエロい長乳はこうしてやるっ！",
+      "zh": "啰嗦死了！看我怎么整治这种淫荡的长奶子！"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "f61ea102",
+      "speaker": "",
+      "ja": "散々煽られた{G_PlayerName}は興奮に任せて腰を振り始める。",
+      "zh": "被狠狠挑逗了一番的{G_PlayerName}，兴奋得不管不顾，开始拼命挺腰。"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "5078e2ad",
+      "speaker": "キララ",
+      "ja": "うわあぁ、賭で勝ったからって女の子のおっぱいをこんなに乱暴にするなんて、お兄ちゃんさいてー♥",
+      "zh": "呜哇～就因为打赌赢了，就这么粗暴地对待女孩子的胸部，哥哥最差劲了♥"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "39e6cc66",
+      "speaker": "",
+      "ja": "乳房の間で必死に肉棒をしごく{G_PlayerName}をからかうようにキララは笑いながらそう言った。",
+      "zh": "琪拉拉笑着说，像在逗弄那个在乳沟之间拼命撸棒的{G_PlayerName}。"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "f79aeac6",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は腰の動きを止めずに柔らかな乳房の感触を味わうように何度も谷間におちんちんを抜き差ししていく。",
+      "zh": "即便如此，{G_PlayerName}依旧没有停下腰的动作，一边品味着柔软乳房的触感，一边在乳沟里反复抽插。"
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "1949f403",
+      "speaker": "キララ",
+      "ja": "小さいリリアン性愛者のお兄ちゃんは、おっきなおっぱい怖いもんね～♥　ずうーっとお仕置きしたくて仕方なかったんだぁ？♥　あはは♥",
+      "zh": "你这个小小的莉安控哥哥，其实很怕大胸吧～♥ 早就忍不住想好好惩罚我对不对？♥ 啊哈哈♥"
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "869290ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅ……好き勝手言いやがって、このぉ！",
+      "zh": "呜……你爱怎么说就怎么说吧，你这个家伙！"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "b74b5eb3",
+      "speaker": "",
+      "ja": "とは言ってもキララの大きなおっぱいが気持ちよすぎて{G_PlayerName}は腰の動きを止めらず何度も谷間に陰茎を擦りつけていく。",
+      "zh": "话虽如此，琪拉拉的大胸部实在太舒服了，{G_PlayerName}根本停不下来，不停地用肉棒在乳沟里摩擦。"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "36e0f850",
+      "speaker": "",
+      "ja": "そんな必死になっている{G_PlayerName}を見てキララは更にからかうような言葉を投げかけ続けた。",
+      "zh": "看着如此拼命的{G_PlayerName}，琪拉拉继续抛出更加调侃的话语。"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "d798ae7f",
+      "speaker": "キララ",
+      "ja": "そんなにおっぱいもみもみして、おちんちん谷間に擦りつけちゃって♥　もっとキララのおっぱいにお仕置きしていいんだよー？♥",
+      "zh": "这么又揉胸又在乳沟里蹭弟弟的♥ 可以再多惩罚惩罚琪拉拉的胸部哦～？♥"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "b19fd19c",
+      "speaker": "",
+      "ja": "キララに煽られた{G_PlayerName}は少しムキになってキララの大きなおっぱいを責め立てるように勃起した肉棒で突きまくる。",
+      "zh": "被琪拉拉这么一激，{G_PlayerName}有点上头，用硬邦邦的肉棒对着琪拉拉的大胸部一通狂顶，仿佛在惩罚她。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "9090faa7",
+      "speaker": "",
+      "ja": "そんな必至になっている{G_PlayerName}を見てキララは笑いながら小馬鹿にする感じで呟いた。",
+      "zh": "看着这么拼命的{G_PlayerName}，琪拉拉笑着，带着点嘲弄地嘟囔道。"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "807a7d3b",
+      "speaker": "キララ",
+      "ja": "あれ～？　おちんちんの先っぽから先走りのお汁がにじみ出てきてるよ～♥　もしかしてお兄ちゃん、キララのおっぱいで気持ちよくなっちゃってるの～？♥",
+      "zh": "咦～？小弟弟前面都渗出黏黏的水了耶～♥ 难道哥哥用琪拉拉的胸部已经爽得不行了？♥"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "6dea2edf",
+      "speaker": "キララ",
+      "ja": "おっきいおっぱいで、おちんちんしこしこするの、そんなにいいんだー♥　もしかしてこのままびゅるるってお漏らししちゃいそうかなー？♥",
+      "zh": "用大胸部给你磨弟弟，就那么舒服啊～♥ 该不会马上要噗嗤噗嗤漏出来了吧～？♥"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "3019e10e",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うるさいっ！　こんなやらしいおっぱいは、こうしてやるぅ！",
+      "zh": "啰、啰嗦！看我就这么弄你这对淫荡的奶子！"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "1082268f",
+      "speaker": "",
+      "ja": "キララに図星を突かれた{G_PlayerName}は恥ずかしさを誤魔化すようにピストンを激しくさせていく。",
+      "zh": "被琪拉拉戳穿了心思的{G_PlayerName}，像是要掩饰害羞一般，开始了更加激烈的抽插。"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "fc2a4783",
+      "speaker": "",
+      "ja": "その度に陰茎が柔らかな乳房に擦れてゾクゾクする快感が{G_PlayerName}を襲った。",
+      "zh": "每一下，肉棒蹭过柔软的乳房，都有一股酥爽的电流传遍{G_PlayerName}全身。"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "2ddd062f",
+      "speaker": "キララ",
+      "ja": "お兄ちゃんったら、へこへこ腰を振って気持ちよさそうな顔しちゃってー♥",
+      "zh": "哥哥呀，扭得这么欢，一脸很享受的样子嘛♥"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "829d36fa",
+      "speaker": "キララ",
+      "ja": "それにおちんちんからエッチなお汁があふれてきて♥　オスのにおいが濃くなって、すごーいっ♥",
+      "zh": "而且小弟弟还流出了好多色色的液体♥ 男生的味道越来越重，太棒了♥"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "fa62f2a9",
+      "speaker": "",
+      "ja": "とにかく{G_PlayerName}をキララは言葉で煽りまくる。",
+      "zh": "总之琪拉拉用言语不断挑逗{G_PlayerName}。"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "2655b098",
+      "speaker": "",
+      "ja": "その言葉にのせられた{G_PlayerName}は息を荒げながら乳房の間で抽送を繰り返した。",
+      "zh": "被这番话一激，{G_PlayerName}喘着粗气，在乳房之间不断地抽插起来。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "60459f4a",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……うっ……んんんっ……",
+      "zh": "唔……呃……嗯嗯……"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "bfa29a7d",
+      "speaker": "",
+      "ja": "興奮が高まっていくにつれ{G_PlayerName}は強烈に込み上げてくる射精感に襲われる。",
+      "zh": "随着兴奋不断增强，{G_PlayerName}被一股强烈的射精感席卷。"
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "8479b0d2",
+      "speaker": "",
+      "ja": "同時にキララの胸の谷間で限界に近づいたおちんちんが脈打ちながら強く跳ねた。",
+      "zh": "与此同时，夹在琪拉拉乳沟里的小弟弟也逼近极限，随着脉搏强烈地跳动着。"
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "4ebf496d",
+      "speaker": "キララ",
+      "ja": "おちんちんお漏らししちゃうー？♥　びっくんびっくんしてるよー♥　ほらほらー♥　我慢しないで漏らしちゃえー♥",
+      "zh": "小弟弟要射出来了吗？♥ 你看它一跳一跳的♥ 快啦快啦♥ 别忍着，痛痛快快地射吧♥"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "bc270da7",
+      "speaker": "",
+      "ja": "キララに煽られ興奮してしまった{G_PlayerName}はとうとう我慢できなくなってしまい、ピストンを止めて呻き声を漏らした。",
+      "zh": "被琪拉拉这样一挑逗，{G_PlayerName}兴奋得再也忍不住了，停下抽插的动作，漏出了呻吟声。"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "9c7f5a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ……で、出る……ぅぅぅっ！",
+      "zh": "唔……要、要射了……呜呜！"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "b46f60e5",
+      "speaker": "",
+      "ja": "込み上げて来る感覚は止められず、{G_PlayerName}はそのまま勢いよく精液をぶちまけてしまう。",
+      "zh": "翻涌而上的快感再也控制不住，{G_PlayerName}就这么猛力地射出了精液。"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "6e0e2636",
+      "speaker": "キララ",
+      "ja": "んんんっ♥　出た出たっ♥　おっぱいの間でおちんちんがびくんびくんしてるぅ♥",
+      "zh": "嗯嗯♥ 射了射了♥ 小弟弟在奶子中间一抽一抽的♥"
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "d45ecb4",
+      "speaker": "",
+      "ja": "どぴゅどぴゅと{G_PlayerName}のおちんちんが乳房の間で射精するとキララは眉を下げてニヤニヤと笑いながら言った。",
+      "zh": "{G_PlayerName}的小弟弟在乳沟里噗噗地射个不停，琪拉拉则垂下眉毛，一脸坏笑地说。"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "83b49bbb",
+      "speaker": "キララ",
+      "ja": "あらら～♥　こんなに出しちゃっていいのかなぁ？♥　結局おっぱいには勝てないオスってことがバレちゃうけどなぁ～？♥",
+      "zh": "哎呀呀♥ 射这么一大滩，没事吗？♥ 这下不就暴露了嘛，你根本抵挡不住奶子嘛～♥"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "21b140f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううぅぅ……",
+      "zh": "唔唔唔……"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "c5c445d",
+      "speaker": "",
+      "ja": "キララに小馬鹿にされても{G_PlayerName}の射精は止まらず、激しく脈打ちながら何度も精液を出し続ける。",
+      "zh": "就算被琪拉拉嘲笑，{G_PlayerName}还是射个不停，剧烈地抽搐着，一股一股地持续喷出精液。"
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "f710f25d",
+      "speaker": "",
+      "ja": "ほとばしった白濁汁はキララの乳房の間をドロドロにしてしまった。",
+      "zh": "迸射而出的白浊液体，把琪拉拉的乳沟弄得粘糊糊一片。"
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "f6bc3b0d",
+      "speaker": "キララ",
+      "ja": "うっはー♥　谷間がぐっちょぐっちょになっちゃったー♥　こんなに出すなんて、どんだけたまってたのー？♥",
+      "zh": "哇哈♥ 乳沟整个湿淋淋的♥ 射成这样，你究竟憋了多久啊？♥"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "a5969803",
+      "speaker": "キララ",
+      "ja": "しかもキララのおっぱいの間のおちんちん、まだがっちがちだしー♥　まだ出したりないわけー？♥",
+      "zh": "而且夹在我奶子里的那根小弟弟，还硬得跟什么似的♥ 还没射够啊？♥"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "fc498b6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだとぉ……！",
+      "zh": "你说什么……！"
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "6e8a59dc",
+      "speaker": "",
+      "ja": "挑発的なキララの言葉にイラッとした{G_PlayerName}は再び腰を振り、柔らかでドロドロになった乳房の間に肉棒を擦りつけていく。",
+      "zh": "被琪拉拉挑逗的话语惹恼，{G_PlayerName}再次挺动腰部，将肉棒在柔软又黏糊糊的乳沟间来回摩擦。"
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "c6f99f43",
+      "speaker": "",
+      "ja": "再開された抽送にキララは徐々に感じてきて少しずつ余裕を失い始めていた。",
+      "zh": "随着抽插重新开始，琪拉拉渐渐来了感觉，一点点失去了从容。"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "c4aa6046",
+      "speaker": "キララ",
+      "ja": "ん……っ♥　まだ出す気なんだぁ♥　こんなに精液出されたらキララのおっぱい孕んじゃうかも♥　おっぱい孕ませられるか賭けてみる？♥",
+      "zh": "嗯……唔♥　还打算射出来啊♥　射这么多精液，可能会让琪拉拉的胸部怀孕呢♥　要不要赌赌看，能不能让我胸部怀上？♥"
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "85900635",
+      "speaker": "",
+      "ja": "煽るようなキララの言葉に{G_PlayerName}は夢中でピストンを繰り返す。",
+      "zh": "受到琪拉拉这样煽动的言语，{G_PlayerName}在梦中更起劲地反复抽送。"
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "f581743c",
+      "speaker": "{G_PlayerName}",
+      "ja": "リリアンのクセにこんなやらしい乳しやがって！　フンッフンッ！",
+      "zh": "明明顶着一张莉安的脸，胸部却这么下流！嗯！嗯！"
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "b37ab063",
+      "speaker": "",
+      "ja": "精液でヌルヌルになっている谷間を{G_PlayerName}のおちんちんが滑るように出入りした。",
+      "zh": "{G_PlayerName}的小鸡鸡在被精液弄得滑溜溜的乳沟里顺畅地进出。"
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "b8f51d5e",
+      "speaker": "",
+      "ja": "精液をローション代わりにして抽送すると、{G_PlayerName}はすごい快感を覚えてしまう。",
+      "zh": "把精液当作润滑剂来抽插，{G_PlayerName}感受到了强烈的快感。"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "b52f9efe",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やべぇ！　なんだこれっ！　ぐちゅぐちゅになったらすげえ気持ちいいっ！　おまんこよりも気持ちいいんじゃないか？！）",
+      "zh": "（糟糕！这什么啊！变得黏糊糊的也太爽了吧！比小穴还舒服不是吗？！）"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "f484e100",
+      "speaker": "",
+      "ja": "そう思った瞬間、{G_PlayerName}の興奮がまた一気に高まってぬるぬるの乳房をおちんちんで突き上げていった。",
+      "zh": "这么一想，{G_PlayerName}的兴奋度瞬间再次飙升，用鸡鸡一下下顶弄着滑腻的乳房。"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "d329ace0",
+      "speaker": "キララ",
+      "ja": "も、もう♥　お兄ちゃんたら、そんなにキララのおっぱいを、おちんちんで擦っちゃ♥　やばっ、乳首勃ってきちゃうー♥",
+      "zh": "不、不行了♥　哥哥你这样用力用鸡鸡蹭琪拉拉的胸部♥　糟了，乳头都硬起来了♥"
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "b77544c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あぁぁ……",
+      "zh": "啊……啊啊……"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "267bd4ba",
+      "speaker": "",
+      "ja": "確かにキララの乳首はすっかり勃起していて、それに気づいた{G_PlayerName}の興奮が一気に高まっていった。",
+      "zh": "琪拉拉的乳头果然已经完全勃起了，发现这点的{G_PlayerName}兴奋度一口气冲高。"
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "75c25654",
+      "speaker": "",
+      "ja": "その興奮をぶつけるように{G_PlayerName}は腰の動きを激しくさせていく。",
+      "zh": "仿佛要宣泄这股兴奋似的，{G_PlayerName}愈发猛烈地挺动腰部。"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "7bb4c37",
+      "speaker": "キララ",
+      "ja": "あんっ♥　そんなにおっぱい揉んでおちんちんで擦られたら♥　んんんっ♥　や、やばいってぇ♥",
+      "zh": "啊嗯♥　被你这样又是揉胸又是用鸡鸡蹭♥　嗯嗯嗯♥　糟、糟糕了啦♥"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "65ce5306",
+      "speaker": "",
+      "ja": "だんだん甘い声を漏らし始めるキララに{G_PlayerName}は更に興奮していった。",
+      "zh": "听着琪拉拉渐渐发出甜腻的娇喘，{G_PlayerName}更加兴奋了。"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "b15dc22",
+      "speaker": "",
+      "ja": "その高まりに{G_PlayerName}は激しく腰を振ってキララの乳房を強く突いていく。",
+      "zh": "随着兴奋高涨，{G_PlayerName}激烈地挺腰，狠狠顶弄琪拉拉的乳房。"
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "13bf1b62",
+      "speaker": "{G_PlayerName}",
+      "ja": "このっ！　このっ！",
+      "zh": "看招！ 看招！"
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "64555f9f",
+      "speaker": "キララ",
+      "ja": "んんんっ♥　おっぱいに熱いおちんちんが擦れて♥　はうぅん♥　お、お兄ちゃん♥　激しすぎだよー♥",
+      "zh": "嗯嗯嗯♥　热热的鸡鸡在胸部上蹭来蹭去♥　哈呜♥　哥、哥哥♥　太激烈了啦♥"
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "286db9b1",
+      "speaker": "",
+      "ja": "さっきまであったキララの余裕は徐々に無くなり甘い喘ぎ声が溢れ出た。",
+      "zh": "刚才还留有的从容渐渐消失，琪拉拉开始不断泄出甜美的喘息。"
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "1fcba024",
+      "speaker": "",
+      "ja": "その声に煽られて{G_PlayerName}は夢中でピストンを繰り返し、また登り詰めていく。",
+      "zh": "被那声音撩拨得不能自已，{G_PlayerName}在梦中反复抽送，又一次攀向顶峰。"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "3afa4e2d",
+      "speaker": "キララ",
+      "ja": "あんっ♥　お兄ちゃんのおちんちんが、またびっくんびっくんしてっ♥　おっぱいの間で暴れてるぅ♥　あっ、ふぅぅんっ♥",
+      "zh": "嗯哼♥ 哥哥的小弟弟又在人家胸口扑通扑通跳啦♥ 在咪咪中间乱乱动♥ 啊、呼啊啊嗯♥"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "d77943e5",
+      "speaker": "",
+      "ja": "{G_PlayerName}はキララの乳房で肉棒を強く締め付けながら何度も腰を大きく突き出し、絶頂へと向かっていった。",
+      "zh": "{G_PlayerName}用琪拉拉的乳房紧紧裹住肉棒，用力挺动腰部，一次又一次地向着顶峰冲刺。"
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "61b24587",
+      "speaker": "",
+      "ja": "その気持ちよさにキララの柔らかなおっぱいの間で反り返ったおちんちんが跳ねて強く脈打つ。",
+      "zh": "在这快感之中，琪拉拉柔软的胸部间，翘起的肉棒弹跳着，猛烈地脉动着。"
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "1e7a3d7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、出る……また……っぅぅぅ！",
+      "zh": "要、要射了……又来了……唔唔唔！"
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "a47ecf2d",
+      "speaker": "",
+      "ja": "込み上げてきた{G_PlayerName}は抽送を止めると小さく腰を震わせた。",
+      "zh": "涌上来的快感让{G_PlayerName}停止了抽送，腰部轻轻颤抖。"
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "835cfda1",
+      "speaker": "",
+      "ja": "それと同時にまた勢いよく白濁汁が噴き上がる。",
+      "zh": "与此同时，又一股浓稠的白浊液猛烈地喷涌而出。"
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "424ab5a6",
+      "speaker": "キララ",
+      "ja": "あぁん♥　また熱いのがびゅびゅーっていっぱい出てるー♥　おっぱいにどぴゅどぴゅって♥　んはぁぁぁ♥",
+      "zh": "啊嗯♥ 热热的东西又噗噗地射了好多出来♥ 全都射在人家胸口上啦♥ 嗯哈啊啊♥"
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "531baad4",
+      "speaker": "",
+      "ja": "谷間に吐き出される精液の感触にキララはわなわなと唇を震わせながら蕩けた表情を浮かべた。",
+      "zh": "被射在乳沟里的精液的触感弄得琪拉拉嘴唇微微颤抖，脸上浮现出迷醉的表情。"
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "114d3274",
+      "speaker": "",
+      "ja": "それを見て興奮した{G_PlayerName}は腰を跳ねさせながら何度も射精を続ける。",
+      "zh": "看到这一幕，兴奋的{G_PlayerName}挺动着腰部，一次又一次地持续射精。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "6838099c",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅっ……キ、キララ……っ！",
+      "zh": "唔嗯……琪、琪拉拉……！"
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "e09aa5d7",
+      "speaker": "",
+      "ja": "呻き声を漏らしつつ{G_PlayerName}は二度目とは思えない程の白濁汁を吐き出した。",
+      "zh": "{G_PlayerName}发出呻吟声，射出了完全不像是第二次的巨量白浊液。"
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "c1f0ac75",
+      "speaker": "キララ",
+      "ja": "はぁ、はぁ……♥　あーあ、こんなにいっぱい出しちゃって♥　これはおっぱい妊娠しちゃったかも♥",
+      "zh": "哈啊、哈啊……♥ 哎呀，射了这么多♥ 人家的胸部说不定怀上宝宝了哦♥"
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "51ea2196",
+      "speaker": "キララ",
+      "ja": "お兄ちゃんのおちんちん、キララのおっぱいと結婚しなきゃねっ♥",
+      "zh": "哥哥的小鸡鸡，要跟人家的咪咪结婚才行哦♥"
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "eb470083",
+      "speaker": "",
+      "ja": "キララは熱い精液の感触に興奮しつつも{G_PlayerName}をまだ煽った。",
+      "zh": "琪拉拉感受着火热精液的触感兴奋不已，却还在煽动{G_PlayerName}。"
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "3252f28f",
+      "speaker": "",
+      "ja": "その言葉に{G_PlayerName}はドキッとしてしまい小刻みに腰を振るわせる。",
+      "zh": "这句话让{G_PlayerName}心里一紧，腰部微微颤抖起来。"
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "f60d7b24",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、うっ！　キララのおっぱい、好きだっ……！　イくっ！",
+      "zh": "唔、唔！琪拉拉的咪咪，我喜欢……！要射了！"
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "e7717635",
+      "speaker": "",
+      "ja": "大きな声で{G_PlayerName}は本音を吐露しながら最後の一滴までキララのおっぱいに出しきって果てた。",
+      "zh": "{G_PlayerName}大声说出了真心话，将最后一滴都射进了琪拉拉的胸部里，彻底释放。"
+    }
+  ]
+}
