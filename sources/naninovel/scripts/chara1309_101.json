@@ -1,0 +1,706 @@
+{
+  "lines": [
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "6f8747a",
+      "speaker": "ピュア",
+      "ja": "（勢いで作っちゃったけど、これどうしよう……）",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "daba94a6",
+      "speaker": "",
+      "ja": "私の手の上にちょこんと乗る男女のぬいぐるみ。一つはお兄さんをイメージして作り、自分のことながらかなりそっくりなデキと褒めたくなる。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "f217fb8e",
+      "speaker": "",
+      "ja": "もう一つは少しだけ私をイメージして作ったぬいぐるみ。一つだけだとお兄さんぬいぐるみが寂しがるかもと思って作ったけど……。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "43b749c9",
+      "speaker": "ピュア",
+      "ja": "（ヘンに意識しているってお兄さんに思われないかな……ううん、それ以前にこんなの渡してお兄さんに迷惑にならないかな……）",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "19839e5d",
+      "speaker": "ピュア",
+      "ja": "（でもせっかく作ったんだし、せめてお兄さんぬいぐるみだけでも……）",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "5a824039",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん～～っ……！　身体バッキバキだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "d2ff7ced",
+      "speaker": "",
+      "ja": "つい機械弄りに夢中になり、何時間も小さな部品を弄り続けていた。そのおかげで身体がガチガチに硬くなり、全身のコリをほぐすように大きく背筋を伸ばす。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "4e63e1f9",
+      "speaker": "ピュア",
+      "ja": "ひゃわぁっ！？　お兄さんっ！？",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "5e410beb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、ピュア、どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "20baff1f",
+      "speaker": "ピュア",
+      "ja": "えっ、あの、なんでラウンジに……！？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "ce37882d",
+      "speaker": "ピュア",
+      "ja": "（てっきりお部屋にいるものだと……ぬいぐるみ見られていないかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "4d6448df",
+      "speaker": "ピュア",
+      "ja": "（でも……うぅ……ぬいぐるみ隠しちゃった……せっかく会えたんだから勢いで渡せばよかったのにぃ……）",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "15adb832",
+      "speaker": "{G_PlayerName}",
+      "ja": "ピュア、どうしたんだ？　なんか辛そうだけど……あ、何か困り事でもあった？　何かわからないこととかあったら遠慮なく聞いてくれよ？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "b3fb5d96",
+      "speaker": "ピュア",
+      "ja": "へ……？　あ、い、いえっ！　全然です、全然大丈夫です……！　へっちゃらです……！　困り事とかありません……！",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "d1941fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……それならいいんだけど。あ、せっかくだし、一緒にお茶しないか？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "5b3aeb55",
+      "speaker": "ピュア",
+      "ja": "はへっ！？　お、お茶っ！？　え、えっ！？　そ、それって……！！",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "e37eaf5c",
+      "speaker": "ピュア",
+      "ja": "（男の人がお茶に誘う……これってもしかして、な、ナン……！？　えっ、えーっ！？　お兄さんが私を！？）",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "77070e9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ピュア……？　あ、ごめん、もしかして他に用あったのかな？",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "1dea097",
+      "speaker": "ピュア",
+      "ja": "あ……！　とっ、特に用事とかは……その、えっと、ありますけど……えっと、えっと……お兄さんが目当て……あっ！　ち、違う、その……！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "ad5a426a",
+      "speaker": "ピュア",
+      "ja": "よっ、喜んでお茶します、します、いっぱいしますーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "d8e28729",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……わ、わかった。じゃあちょっと待っててくれ。何がいい？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "3a37047f",
+      "speaker": "ピュア",
+      "ja": "えっと、オレンジジュース……が欲しい、です……",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "f993567e",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった、すぐに持ってくるよ",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "256b6a47",
+      "speaker": "ピュア",
+      "ja": "（はわわわ……お兄さんと一緒に……お茶……。うぅ、なんだかドキドキしてきちゃった……）",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "d5fa90d7",
+      "speaker": "ピュア",
+      "ja": "（でもこれなら話の流れでぬいぐるみ渡せるかな……？　やっぱりお兄さんに受け取って欲しい……頑張って勇気出さなきゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "ea193e9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "おまたせ",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "351779ac",
+      "speaker": "ピュア",
+      "ja": "い、いえっ、全然待ってないです……ありがとう、ございます",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "852327c4",
+      "speaker": "ピュア",
+      "ja": "（あぁ……お兄さんが目の前に……やっぱりカッコいい、な……♥　見ているだけでドキドキしてきちゃう……）",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "3c9681bc",
+      "speaker": "ピュア",
+      "ja": "（何とかしてぬいぐるみを渡さないと……せっかくのチャンスなんだから……）",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "dd771f0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえばさ、ピュアって今も服作ってるの？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "fc4d6e1e",
+      "speaker": "ピュア",
+      "ja": "あ、はい、宇宙船に乗ってからも製作は続けています……素敵なお洋服に終わりはありませんから……",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "6576d7de",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっかぁ……なんていうかピュアってプロだよな。ずっと追求し続けてるって感じがするし。俺も見習わないと",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ba7a390d",
+      "speaker": "ピュア",
+      "ja": "い、いえ、そんなことは……お兄さんのような人が見習うことなんて何も……私の方こそお兄さんを見習わなきゃですし……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "da0cb8c9",
+      "speaker": "ピュア",
+      "ja": "あ、そういえばお兄さんってどんな服が好きなのですか？",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "2fc5680c",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……そうだなぁ……デザインとかは特にこだわらないかな。動きやすくて長持ちするのが良い",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "59494bab",
+      "speaker": "ピュア",
+      "ja": "そ、そうですよね……機能性、大事ですし……。私の服とかは着ないですよね……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "282f627",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、ごめんごめん、別に着飾った服が嫌いとかそういうのじゃないから。ピュアの作る服はカワイイと思うぞ？",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "bd6ca887",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんて言うんだろうなぁ……ピュアの作った服を着ている人ってみんなちょっと元気になっている印象があるんだよな",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "bf40cf7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分に自信が持てるって言うのかな？　俺に可愛い服とか似合わないと思うけど、見ているこっちも楽しくなってくるよ",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "a5b230b8",
+      "speaker": "ピュア",
+      "ja": "あ、えっと、そ、そんな……そこまで褒められることじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "ef1bf63f",
+      "speaker": "ピュア",
+      "ja": "（元気にしてくれる服、自分に自信が持てる服、ずっと目指してきた私の道……ちゃんと他の人に伝わっていたんだ……）",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "d622c5f3",
+      "speaker": "ピュア",
+      "ja": "（お兄さんにも……大好きな人にもそれが伝わって……嬉しい……）",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "4ff837e0",
+      "speaker": "ピュア",
+      "ja": "えへへ……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "103bfdf1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（かっ、可愛すぎだろ……！　服もそうだけど、それ以上にピュアが可愛すぎる……！）",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "218ef827",
+      "speaker": "",
+      "ja": "思わず顔が熱くなり、思いっきり抱きしめたい衝動に駆られてしまう。俺はそんな感情を誤魔化すようにジュースを一気に飲み干す。",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "32113ebd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅ……それじゃあそろそろ俺行くわ。ありがとうな、付き合ってくれて",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "cd39b523",
+      "speaker": "ピュア",
+      "ja": "あ……！　お兄さん、待ってください……！",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "c256345e",
+      "speaker": "",
+      "ja": "立ち上がると俺を慌てて引き留めるピュア。懐から何かを取り出し、恐る恐る俺に差し出してくる。",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "14c3d399",
+      "speaker": "ピュア",
+      "ja": "えっと、その……これを、お兄さんにって……よかったらもらってください……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "92329098",
+      "speaker": "",
+      "ja": "普段は控えめで他人と目を合わせないピュア。真っ赤な表情でまっすぐに俺を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "f0b9d",
+      "speaker": "",
+      "ja": "俺の言葉がきっかけかはわからないが、ピュアが笑ってくれて、そして俺の目をまっすぐと見つめながら言葉を発する様子に胸が熱くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "517ed662",
+      "speaker": "ピュア",
+      "ja": "あ……ごめんなさい、やっぱり男の人にぬいぐるみなんて……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "afa693f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あーーっ！　ごめんごめん！　ついボケっとしちゃって……！　これピュアが作ったの？　よくできているな！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "e708a846",
+      "speaker": "",
+      "ja": "俺は小さなぬいぐるみを受け取ると、ぬいぐるみをまじまじと見る。小さくてもディテールまでしっかりと作りこまれ、はっきりとこのぬいぐるみが誰を元に作られたのかわかる。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "cefffbab",
+      "speaker": "",
+      "ja": "ピュアの神がかり的な器用さに、貰うのを思わずためらってしまうほどデキが良いぬいぐるみだった。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "cf5e1085",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ俺だよな？　すごいな……小さくてもしっかりと自分のぬいぐるみだってわかるよ",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "f5c1aa6",
+      "speaker": "ピュア",
+      "ja": "あ、ありがとうございます……あの、えっと……その……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "48829388",
+      "speaker": "ピュア",
+      "ja": "（お兄さんが喜んでくれてる……それならこっちの方も……！　反応が怖いけど、でも……お兄さんに受け取って欲しい……！）",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "23c8177a",
+      "speaker": "ピュア",
+      "ja": "こっちも……受け取ってください……！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "3ac2bc1b",
+      "speaker": "",
+      "ja": "ピュアはもう一つのぬいぐるみを懐から取り出し、今度は勢いそのままに俺に差し出してくる。",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "741a52fd",
+      "speaker": "",
+      "ja": "俺はそれを受け取ると、これまた誰を元に作ったのかはっきりわかるほどデキが良かった。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "7c61f238",
+      "speaker": "{G_PlayerName}",
+      "ja": "こっちはピュアか……カワイイな",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "e31d4279",
+      "speaker": "ピュア",
+      "ja": "ふえっ！？　やっぱり、その……わかっちゃいますか……？　うぅ、服とか違うんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "b701d1e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは、器用さがアダとなったな。誰が見てもピュアって丸分かりだ",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "3def052",
+      "speaker": "ピュア",
+      "ja": "うううう……やっぱりヘン、ですよね……自分のぬいぐるみをプレゼントするなんて……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "e1c25cdc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことないって。ほら、こうして並べると心なしか俺のぬいぐるみが喜んで見えるだろ？　俺の心情をよく表した良いぬいぐるみだよ",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "8130f8e3",
+      "speaker": "ピュア",
+      "ja": "ありがとう、ございます……えへへ……",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "e87478be",
+      "speaker": "ピュア",
+      "ja": "（なんだか私のぬいぐるみも喜んでいるように見えちゃう……私の心情を表してる……嬉しい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "e495adc6",
+      "speaker": "ピュア",
+      "ja": "あ……！　お兄さん、その……お願いがあるんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "f06ebb2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "e0452924",
+      "speaker": "ピュア",
+      "ja": "こ、今度はお兄さんの服、作らせてください……！　私、頑張って機能性のある服作りますから……！",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "e02a6fbb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいのか！？　それはありがたいなぁ……ピュアの作ってくれる服か……楽しみだ",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "74df93",
+      "speaker": "ピュア",
+      "ja": "（ふあ……！　お兄さんが喜んでくれてる……！　あぁ、勢いで言っちゃったけど、でも言って良かった……）",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "e7448662",
+      "speaker": "ピュア",
+      "ja": "（いっぱい、いっぱい頑張らなきゃ……！　お兄さんに失望されない服作らなきゃ……！　徹夜でも何でもして最高の服を作らなきゃ……！！）",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "d66955f1",
+      "speaker": "ピュア",
+      "ja": "で、では……！　私、作業に入りますから……！！",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "7103ce7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……！　行っちゃった……そんなに慌てる必要ないのに",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "17adef0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それにしてもピュアの笑顔、反則過ぎだろ……",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "b364702e",
+      "speaker": "",
+      "ja": "俺はピュアに貰ったぬいぐるみを見つめながら、そんなことをひとり呟くのであった。",
+      "zh": ""
+    }
+  ]
+}
