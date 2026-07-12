@@ -1,0 +1,1309 @@
+{
+  "lines": [
+    {
+      "key": "2.0",
+      "line_index": 2,
+      "inline_index": 0,
+      "line_hash": "1fedd5ac",
+      "speaker": "",
+      "ja": "本シナリオの主人公は「シュガーコンフリクト」の主人公となっておりますが、名前はプレイヤー名で表示されます。",
+      "zh": ""
+    },
+    {
+      "key": "3.0",
+      "line_index": 3,
+      "inline_index": 0,
+      "line_hash": "ebbee557",
+      "speaker": "",
+      "ja": "「シュガーコンフリクト」の主人公になったつもりでお楽しみください。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "b059bf77",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、それほどではないと思うが──",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "5db8437",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃん、すごく楽しそう……）",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "c67adfb",
+      "speaker": "",
+      "ja": "初対面に近いこの船の人達とスムーズにコミュニケーションを取っているお兄ちゃん。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "e75ea8df",
+      "speaker": "",
+      "ja": "内気で臆病なわたしではあんな風にいろんな人とお話なんでできない。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "4bf96bde",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……それは参考になる意見だ。今後にも活かせるな",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "dcdef28d",
+      "speaker": "ヌガー",
+      "ja": "（あんなに女の子にデレデレのお兄ちゃん、初めてかも……）",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "dee6bcfa",
+      "speaker": "ヌガー",
+      "ja": "（わたしみたいな子よりも、元気だったり、自分の意見をはっきり言えたり、気品があったり、そういう子の方がいいのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "9ae075e9",
+      "speaker": "",
+      "ja": "お兄ちゃんの楽し気な表情を見るたびに、誰かにお兄ちゃんを取られてしまうのではないか、そんな不安が心の中で大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "1a34231b",
+      "speaker": "",
+      "ja": "私はこれ以上この場にいることができなくなり、一人静かに部屋に戻った。",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "3b6e1dba",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃん、あの後も楽しそうにお話していたのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "e05b53a2",
+      "speaker": "",
+      "ja": "部屋に戻り数時間、頭の中に浮かぶのは楽しそうに他の子と話をするお兄ちゃんの姿。",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "a3fde0dd",
+      "speaker": "ヌガー",
+      "ja": "（ううう……気になる……本当にどんなお話をしたんだろう……。あぁ、わたしってもしかして嫉妬深い性格だったのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "48632c7b",
+      "speaker": "ヌガー",
+      "ja": "（聞きに行くべき、なのかな……お兄ちゃんに限ってそう言うことは無いと思うけど、でも、でも……）",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "ad2c8035",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかし普段とは勝手が違う異世界とはいえ、そこまで困ることが無いな。それだけこの船に備わっている機能が優れているということなのだろうか）",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "1f91d507",
+      "speaker": "{G_PlayerName}",
+      "ja": "（問題は元の世界に戻れるのか、それだけ──）",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "66f64cd4",
+      "speaker": "",
+      "ja": "トントン──",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "c91fe706",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　誰だ、こんな時間に……？",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "2e9498e8",
+      "speaker": "ヌガー",
+      "ja": "吾輩だ、入るぞ",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "f3807495",
+      "speaker": "",
+      "ja": "ドアが開くと同時に部屋に入ってくるヌガー。",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "4a3a8316",
+      "speaker": "",
+      "ja": "しかし普段の気の小さなヌガーではなく、英雄の娘の殻を被ったヌガーだった。",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "6f4f5994",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヌガーか、こんな時間にどうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "c2625389",
+      "speaker": "ヌガー",
+      "ja": "少々話があってな、そこに座れ",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "3aadab4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "6625d75d",
+      "speaker": "",
+      "ja": "俺がベッドに座ると、ヌガーもひょいっと俺の隣に座る。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "9a86c9ab",
+      "speaker": "",
+      "ja": "妙に距離が近い、そんな風に思うが特に言及などはしなかった。",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "11a8e240",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、なんの話なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "636b7b60",
+      "speaker": "ヌガー",
+      "ja": "あ、ああ……まぁ、その、なんだ……困っていること、とか無いかと思ってな……。吾輩はお前の上官だ、話し位は聞いてやろうと……",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "d76ba165",
+      "speaker": "{G_PlayerName}",
+      "ja": "困ってること……？　いや、オレは特にないが……ヌガーこそどうなんだ？　ずっと部屋に居たみたいだが、困りごととかないのか？",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "f8e39c54",
+      "speaker": "ヌガー",
+      "ja": "吾輩にそのようなことなどあるはずもなかろう",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "47ca933f",
+      "speaker": "",
+      "ja": "ヌガーは何故かオレにぐいっと寄せると、身体が触れ合うほどオレ達の距離が縮まる。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "6569e1ce",
+      "speaker": "",
+      "ja": "どういう意図で身体を近づけてくるのか理解できないが、それでもヌガーから漂う甘い身体の匂いにオレは思わず意識してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "866f9cbf",
+      "speaker": "ヌガー",
+      "ja": "ほら、早く言え、遠慮することは無いぞ？　そもそも何か困っていたからこの船の連中と話をしていたんだろう？",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "5ec707af",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、オレはただ世間話をしていただけ──……ッ！？",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "33dc1435",
+      "speaker": "",
+      "ja": "ヌガーがオレの手をそっと掴み、思わず心臓がドクンと大きく高鳴ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "2cd8e57e",
+      "speaker": "ヌガー",
+      "ja": "（ああ……お、思わず手触っちゃった……♥　うう、お、怒っていない、かな……？♥　だいじょうぶ、だよね……？♥　このくらいなら……♥）",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "31c489b",
+      "speaker": "ヌガー",
+      "ja": "（あ……！♥　お、お兄ちゃんの……お、おっきく……♥　こ、これ、わたしで……？♥）",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "68c2dcc1",
+      "speaker": "",
+      "ja": "ヌガーの視線がオレの下半身に向き、自分が勃起してしまっていたことを初めて知る。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "bf04d927",
+      "speaker": "",
+      "ja": "俺は悟られないようにと手で隠すが、それもバレバレな様子で、ヌガーの頬が僅かに紅く染まっているのを見てしまう。",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "99887a5e",
+      "speaker": "ヌガー",
+      "ja": "……まったく、上官の前で……どうしようもないお兄ちゃんですね……♥",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "64dab7ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちっ、違──！　これは、ただの生理現象で──！！",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "ea42a0bf",
+      "speaker": "",
+      "ja": "オレのごまかしの弁明にヌガーは小さく微笑む。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "f1504dc5",
+      "speaker": "",
+      "ja": "なんとも可愛らしいその表情にオレは完全に自分がコントロールできなくなり、ムラムラした気持ちと共に全身が熱くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "baa7cd3c",
+      "speaker": "ヌガー",
+      "ja": "女の前で興奮したんだ、何かして欲しいのだろう？♥　ほら、早く言え、これは上官命令だ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "8b0faaac",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、その……！　そ、そのうち元に戻るから何もしなくてもいい……！　うううっ！？　ヌガー！　ま、待て……！！",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "32fcb25e",
+      "speaker": "",
+      "ja": "ヌガーの手が俺の股間に触れ、頭が一瞬真っ白になる。",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "a8b62fc1",
+      "speaker": "",
+      "ja": "肉棒が何かを求めるようにさらに大きくなり、ドクンドクンと心音に合わせるように肉棒もズボンの中で蠢く。",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "495b8ed3",
+      "speaker": "ヌガー",
+      "ja": "さぁ言え……！♥",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "518cf2c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、う……！　そっ、それは……！！",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "81772812",
+      "speaker": "ヌガー",
+      "ja": "……足でして欲しいとか、ずいぶんとねじ曲がった性癖をしているな……♥　まったくしょうがない男だ……♥",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "bbd9e096",
+      "speaker": "",
+      "ja": "ヌガーの言葉に俺は何も言えなかった。まさか自分からこんな願いを言ってしまうとは少しも思っていなかった。",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "ac9c85c3",
+      "speaker": "",
+      "ja": "一体どうして足でなど……普段と違う環境がオレをそうさせてしまったのだろうか。",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "e0f2919c",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃんのお願いとは言え、本当に足で踏み踏みしてもいいのかな……？♥　でもお兄ちゃんのお願いなら……♥）",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "bf45e257",
+      "speaker": "ヌガー",
+      "ja": "（わたしにだって、わたしにしかできないことあるんだから……お兄ちゃんにそう認めてもらうんだから……♥）",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "a18a4b8e",
+      "speaker": "ヌガー",
+      "ja": "で、それで貴様は快楽を得るとして、ゴールはどこだ？♥　やはり射精に至るまでか？♥",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "7e9008e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……できれば、そうして欲しい……こ、こんなこと言って本当にすまん、もし嫌なら……",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "7ef7cc33",
+      "speaker": "ヌガー",
+      "ja": "嫌だったらとっくに貴様のモノを踏み潰している♥　ま、やり方までは保証しないが、興奮で高ぶった貴様の心を吾輩が少しでも静めてやる♥",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "6075b9a1",
+      "speaker": "",
+      "ja": "ヌガーは口調こそ団長モードのままだったが、まんざらでもない笑みに俺の心音がさらに高鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "ddea8863",
+      "speaker": "",
+      "ja": "もう自分ではどうしようもない、そんな言い訳を自分にしながら性的な期待に肉棒がさらに硬く、そして大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "e4ae0e4",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃんがわたしを必要としてくれてる……♥　期待に応えなきゃ……♥　お兄ちゃん、わたしでいっぱい気持ち良くなって……♥）",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "97841bf6",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃんにはわたしが必要なんだって、そう思って……♥）",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "5aff90fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……！　ううぅっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "4d2c8de3",
+      "speaker": "",
+      "ja": "ヌガーの小さな足が肉棒に触れ、思わず口から声が漏れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "9dd3ab9a",
+      "speaker": "",
+      "ja": "冷たくもなく熱すぎるわけでもない、絶妙なヌガーの体温。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "e510e02a",
+      "speaker": "",
+      "ja": "すべすべな肌が亀頭を中心にゆっくりと動き、気恥ずかしさと興奮に心臓が、ドッドッドッと息苦しさを感じるほど鳴り響く。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "38ac5540",
+      "speaker": "ヌガー",
+      "ja": "（あぁ……お兄ちゃん気持ち良さそう……♥　これでいいんだ……これでお兄ちゃんが気持ち良くなってくれる……♥）",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "340c275b",
+      "speaker": "ヌガー",
+      "ja": "（わたしのこと、今よりも全然意識してもらえる……♥　お兄ちゃん、お兄ちゃん、もっとしてあげるね……♥　もっとわたしで気持ち良くなって……♥）",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "669ab7b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、あっ……！　ヌガー、す、少し待っ……！　うう……！！",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "ddba7d34",
+      "speaker": "ヌガー",
+      "ja": "……何を待つ必要があるのだ？♥　吾輩の足で感じているのだろう？♥　しかしこんなものでいいのか……男とはわからないものだ……♥",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "a4e03fab",
+      "speaker": "ヌガー",
+      "ja": "ほら、もっと喜べ……♥　吾輩の足で感じていることに男として恥じながら悶えろっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "5769baef",
+      "speaker": "",
+      "ja": "ヌガーの足の動きがどんどん大きくなり、スカートの中の女性器が見え隠れする。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "43630c70",
+      "speaker": "",
+      "ja": "いつの間にパンツを脱いでいたのか、それはわからなかったが、俺は初めて見るヌガーの女性器に完全に目を奪われてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "b77754b5",
+      "speaker": "ヌガー",
+      "ja": "（あぁぁ……♥　お兄ちゃんの視線、わたしのあそこに……♥　思い切って脱いじゃったけど、やっぱり見られるの恥ずかしいぃ……！♥）",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "7895361c",
+      "speaker": "ヌガー",
+      "ja": "（すごい視線……なんだか男って感じが……あぁ、余計に恥ずかしくなるぅ……！♥）",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "938ade1a",
+      "speaker": "ヌガー",
+      "ja": "（でも、でも……お兄ちゃんがわたしを見てくれるなら、このくらいガマンしなきゃ……♥　お兄ちゃんが興奮してくれる、ならっ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "2ddb48b9",
+      "speaker": "ヌガー",
+      "ja": "ほら、ほら……どうだ？♥　感じるか？♥　感じるならそう言えっ♥",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "e86a1f0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！？　そ、そこはぁ……！　うぐううっ！！　く、くううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "ee3d3559",
+      "speaker": "ヌガー",
+      "ja": "ほぉ……この出っ張りがいいのか？♥　それならもっとしてやろう……♥　ふふふっ、もっと悶えろ、貴様のその表情がたまらなくいい……！♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "a5bc66fc",
+      "speaker": "ヌガー",
+      "ja": "（ふあ、ふあ……おちんちんの先っぽから何か出て……これ、わたしと同じ……♥　そうなんだ、男の人も興奮するとこうなるんだ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "c6dc6a93",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃんが感じてる……わたしで喜んでくれてる……♥　うれしい、うれしいよぉ……♥　お兄ちゃん、もっと感じて……♥　いくらでもおちんちんシコシコしてあげるからぁ♥）",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "c1ef99aa",
+      "speaker": "",
+      "ja": "ヌガーは興奮に身を任せるようにカリ首を執拗に足の裏で擦る。",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "40cb7a96",
+      "speaker": "",
+      "ja": "だんだんとコツを掴んできたのか、その動きがリズミカルなものに変わり、自分の手で扱くのとは比べ物にならない快感に襲われる。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "78b0689f",
+      "speaker": "",
+      "ja": "何よりもヌガーが自分のモノを扱いている、その事実が興奮をより一層高めていた。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "8bfa6053",
+      "speaker": "ヌガー",
+      "ja": "ふふ、どんどん貴様のモノが濡れていくぞ？♥　なんともいやらしい匂いだ……ここまで貴様の匂いが漂ってくる♥",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "f69e2aea",
+      "speaker": "ヌガー",
+      "ja": "上官相手にここまでなって……本当に貴様は……♥",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "bf696824",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、くっ！！　ま、待って……本当にこれ以上はダメだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "85b62347",
+      "speaker": "ヌガー",
+      "ja": "何がダメなのだ？♥　ちゃんと言葉にせねば相手には伝わらないぞ♥",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "fdc33018",
+      "speaker": "",
+      "ja": "射精してしまう、そう言いたかったが恥ずかしさからその言葉が口から出てこない。",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "36763fab",
+      "speaker": "",
+      "ja": "もう射精も限界まで達し、今にも爆発寸前にまで追い詰められる。",
+      "zh": ""
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "df53744",
+      "speaker": "ヌガー",
+      "ja": "（おちんちん震えている……♥　感じてるから……？♥　でもお兄ちゃんが気持ち良さそうだし、このまま──）",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "89ad5854",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もう……！！　うう、出っ……！",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "ed4f8ccb",
+      "speaker": "ヌガー",
+      "ja": "出……？♥　ひゃううっ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "1e7633da",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、うううっ！　うううっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "2774caf1",
+      "speaker": "ヌガー",
+      "ja": "出て、る……？♥　これ、もしかして精液……？♥　こ、こんなに……♥",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "753a9a11",
+      "speaker": "",
+      "ja": "ガマンの限界を超え、俺は睾丸からせり上がってきたモノを一気に外へと吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "1420207",
+      "speaker": "",
+      "ja": "塊のような精液がびゅるっと吹き出し、びちゃびちゃとヌガーの足を真っ白に汚す。",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "70465365",
+      "speaker": "ヌガー",
+      "ja": "こんなに出るとは……♥　なんともすごい量だな……♥　それに匂いも……♥",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "fb450f33",
+      "speaker": "",
+      "ja": "ヌガーはオレの射精をまじまじと見つめ、その恥ずかしさにオレはさらに興奮してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "5c304649",
+      "speaker": "",
+      "ja": "何度も睾丸から熱いモノが肉竿を駆け上がり、射精のたびに快感に全身が震える。",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "d87dcfc0",
+      "speaker": "ヌガー",
+      "ja": "（す、ごい……本で読んだのと全然違う……♥　おしっこみたいにチョロチョロ出るものだと思ってた……♥　こんなに勢いよく出るなんて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "d0d422bc",
+      "speaker": "ヌガー",
+      "ja": "（でもわたしで感じてくれて嬉しい……♥　あぁ、わたしなんかでもお兄ちゃんのためにできることがあるんだ……♥　もっと、もっと出して、もっとわたしで感じて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "ca6cbd3a",
+      "speaker": "",
+      "ja": "ヌガーは小刻みに足を動かし、オレは容赦なく何度も射精させられる。",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "6b335d9",
+      "speaker": "",
+      "ja": "やがて射精は収まり、熱り立っていた肉棒は静かになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "afa823ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こ、こんなの初めてだ……身体から何もかもが抜き取られた気分……なんてすごい……んっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "c4c8d7a3",
+      "speaker": "",
+      "ja": "俺はヌガーの股間に目を向け、僅かに開いた割れ目がぐっしょりと濡れているのを見てしまう。",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "3114a88",
+      "speaker": "",
+      "ja": "射精で一度は収まった心音、しかしそれを見た瞬間、今まで以上に大きく心臓が鳴り響き息をするのを忘れてヌガーのスカートの中を凝視してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "14c5dbf",
+      "speaker": "ヌガー",
+      "ja": "え……？♥　おちんちんがまた……♥　まだ興奮が収まらないのか？♥　なんていやらしい男なんだ、貴様は……♥",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "2f0d42b6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違──！　これはっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "b25e70b3",
+      "speaker": "ヌガー",
+      "ja": "何が違うんだ？♥　現実に今貴様の肉棒が再び大きくなってきているのだ♥　まったく、しょうがない……これはまた射精させてやる必要性がありそうだ♥",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "1bb85f40",
+      "speaker": "{G_PlayerName}",
+      "ja": "くうっ！　ヌガー、今はダメだっ！　ぐううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "ea36b957",
+      "speaker": "",
+      "ja": "ヌガーは再び足を動かし、精液を刷り込むように足の裏で肉棒を圧迫しながら動く。",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "f9662dd9",
+      "speaker": "",
+      "ja": "肉竿の根元から先端までを大きく扱かれ、射精直後の過敏な肉棒に強烈な快感が走る。",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "e3e930d6",
+      "speaker": "ヌガー",
+      "ja": "ダメだといいながら喜びおって……♥　貴様のそんないやらしい顔を見ることになるとは……♥　なんともたまらないことだ♥",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "a5c1db17",
+      "speaker": "ヌガー",
+      "ja": "ここがいいんだろう？♥　貴様のは大体覚えた♥　また射精させてやるから大人しく吾輩に扱かれろっ♥",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "e3b51408",
+      "speaker": "ヌガー",
+      "ja": "（あぁ……お兄ちゃんがあんなに声出して……♥　胸のどきどきが止まらない……♥　身体が熱い……♥　お腹の奥がヘンにきゅんきゅんしてくる……♥）",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "62b26037",
+      "speaker": "ヌガー",
+      "ja": "（もっともっと精液びゅるびゅるさせてあげるね……♥　だからわたしでいっぱい感じて……♥　さっきよりも気持ち良くなって……♥）",
+      "zh": ""
+    },
+    {
+      "key": "404.0",
+      "line_index": 404,
+      "inline_index": 0,
+      "line_hash": "f53cc926",
+      "speaker": "ヌガー",
+      "ja": "（いっぱい射精して……♥　わたしをお兄ちゃんの精液の匂いでマーキングして……！♥）",
+      "zh": ""
+    },
+    {
+      "key": "406.0",
+      "line_index": 406,
+      "inline_index": 0,
+      "line_hash": "87802228",
+      "speaker": "",
+      "ja": "一度射精させ自信が付いたのか、動きがどんどん大きく、激しくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "abb02146",
+      "speaker": "",
+      "ja": "ヌガーが脚を大きく開き、はっきりと見えてしまう濡れた割れ目。",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "dc3efb79",
+      "speaker": "",
+      "ja": "オレはそれから目が離せなくなってしまい、僅かに開いているいやらしい割れ目に興奮し肉棒にどんどん血が集まる。",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "d4a61eee",
+      "speaker": "ヌガー",
+      "ja": "また貴様のが震えているぞ……♥　もう射精しそうなのか？♥　ずいぶんと早いではないか♥",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "77cce498",
+      "speaker": "ヌガー",
+      "ja": "そんなに早くては女を満足させられないのではないのか？♥　男としてずいぶんと情けないな♥　ははははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "83d85f89",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！　ヌガーにされたら誰だって……！　こんなのガマンできるわけが……！！",
+      "zh": ""
+    },
+    {
+      "key": "422.0",
+      "line_index": 422,
+      "inline_index": 0,
+      "line_hash": "c799e2a0",
+      "speaker": "ヌガー",
+      "ja": "そのセリフを他の女にも言うんだろう？♥　そう、例えばこの船の、人たちとか……",
+      "zh": ""
+    },
+    {
+      "key": "425.0",
+      "line_index": 425,
+      "inline_index": 0,
+      "line_hash": "1076bdf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、誰にもそんな感情抱くわけが……オレには……ぬぁっ！！",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "774ab5fc",
+      "speaker": "ヌガー",
+      "ja": "（あぁぁ……おちんちん扱くだけでお兄ちゃんがこんなにも悶えて……♥　カッコいいお兄ちゃんがこんなにも乱れて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "6f4d4777",
+      "speaker": "ヌガー",
+      "ja": "（また射精して欲しい……♥　わたしでイって欲しい……♥　お兄ちゃんのイクところ、もう一度見たい……！♥）",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "6ed273d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぁっ！　ふぅ、ふううっ！　ヌガー、本当に待ってくれぇ……！　ま、また出てしまう……！！",
+      "zh": ""
+    },
+    {
+      "key": "439.0",
+      "line_index": 439,
+      "inline_index": 0,
+      "line_hash": "c3052834",
+      "speaker": "ヌガー",
+      "ja": "出せばいいだろう？♥　そのために貴様のを扱いているんだ♥　遠慮せずにすべて吐き出してしまえ♥",
+      "zh": ""
+    },
+    {
+      "key": "442.0",
+      "line_index": 442,
+      "inline_index": 0,
+      "line_hash": "dc2f22d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもそれだとまた汚れ……ぐぅっ！！",
+      "zh": ""
+    },
+    {
+      "key": "446.0",
+      "line_index": 446,
+      "inline_index": 0,
+      "line_hash": "4aa1890b",
+      "speaker": "ヌガー",
+      "ja": "（そんなの気にしなくてもいいよぉ♥　お兄ちゃんに汚されるなんて少しも思ってないもん♥　だから出して……また精液ぴゅっぴゅしてええっ♥）",
+      "zh": ""
+    },
+    {
+      "key": "448.0",
+      "line_index": 448,
+      "inline_index": 0,
+      "line_hash": "53426e48",
+      "speaker": "",
+      "ja": "目の前がチカチカし、思考が射精一色へ変わっていく。",
+      "zh": ""
+    },
+    {
+      "key": "451.0",
+      "line_index": 451,
+      "inline_index": 0,
+      "line_hash": "7860cd9a",
+      "speaker": "ヌガー",
+      "ja": "さぁ出せ……！♥　もう一度貴様の果てる姿を吾輩に見せろっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "460.0",
+      "line_index": 460,
+      "inline_index": 0,
+      "line_hash": "977b34b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "おぉっ！　ぐぅ、うう、んおおお……！！",
+      "zh": ""
+    },
+    {
+      "key": "463.0",
+      "line_index": 463,
+      "inline_index": 0,
+      "line_hash": "561be029",
+      "speaker": "",
+      "ja": "俺はうなり声を上げながらこみ上げてきたモノを一気に出す。",
+      "zh": ""
+    },
+    {
+      "key": "464.0",
+      "line_index": 464,
+      "inline_index": 0,
+      "line_hash": "e720bd35",
+      "speaker": "",
+      "ja": "肉棒から派手に精液が吹き飛び、ヌガーの身体にまでびちゃびちゃと精液が降り注ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "467.0",
+      "line_index": 467,
+      "inline_index": 0,
+      "line_hash": "65ddca95",
+      "speaker": "ヌガー",
+      "ja": "んはぁ♥　なんともすごい勢いだな♥　さっきよりも出ているではないか♥",
+      "zh": ""
+    },
+    {
+      "key": "470.0",
+      "line_index": 470,
+      "inline_index": 0,
+      "line_hash": "f172f12a",
+      "speaker": "ヌガー",
+      "ja": "足で扱かれてこんなに出して……貴様はとんだヘンタイだな♥",
+      "zh": ""
+    },
+    {
+      "key": "472.0",
+      "line_index": 472,
+      "inline_index": 0,
+      "line_hash": "3978e50e",
+      "speaker": "",
+      "ja": "ヌガーは降り注ぐ精液を気にするが、それでも表情をあまり崩さない。",
+      "zh": ""
+    },
+    {
+      "key": "473.0",
+      "line_index": 473,
+      "inline_index": 0,
+      "line_hash": "1f5bd5dd",
+      "speaker": "",
+      "ja": "しかしヌガーを汚してしまっている、その事実に俺は興奮し、精液が何度も肉竿を駆け上がる。",
+      "zh": ""
+    },
+    {
+      "key": "476.0",
+      "line_index": 476,
+      "inline_index": 0,
+      "line_hash": "8e466f23",
+      "speaker": "ヌガー",
+      "ja": "（お兄ちゃんの精液がいっぱい……あぁ、嬉しい♥　嬉しいよぉ♥　もっと、もっとかけて……お兄ちゃんの精液でわたしを汚してぇ♥）",
+      "zh": ""
+    },
+    {
+      "key": "478.0",
+      "line_index": 478,
+      "inline_index": 0,
+      "line_hash": "220619d3",
+      "speaker": "",
+      "ja": "ヌガーは執拗に肉棒を扱き、脳みそが蕩けそうなほどの快感に襲われる。",
+      "zh": ""
+    },
+    {
+      "key": "479.0",
+      "line_index": 479,
+      "inline_index": 0,
+      "line_hash": "81792e35",
+      "speaker": "",
+      "ja": "頭の中が完全に真っ白になり、もう何も考えられない。",
+      "zh": ""
+    },
+    {
+      "key": "481.0",
+      "line_index": 481,
+      "inline_index": 0,
+      "line_hash": "e222dd12",
+      "speaker": "",
+      "ja": "強烈な疲労感にオレは指先すら動かせなくなり、ヌガーにされるがままに肉棒を扱かれ続けてしまうのであった。",
+      "zh": ""
+    }
+  ]
+}

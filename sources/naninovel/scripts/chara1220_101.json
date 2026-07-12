@@ -1,0 +1,742 @@
+{
+  "lines": [
+    {
+      "key": "4.0",
+      "line_index": 4,
+      "inline_index": 0,
+      "line_hash": "1fedd5ac",
+      "speaker": "",
+      "ja": "本シナリオの主人公は「シュガーコンフリクト」の主人公となっておりますが、名前はプレイヤー名で表示されます。",
+      "zh": ""
+    },
+    {
+      "key": "5.0",
+      "line_index": 5,
+      "inline_index": 0,
+      "line_hash": "ebbee557",
+      "speaker": "",
+      "ja": "「シュガーコンフリクト」の主人公になったつもりでお楽しみください。",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "cac545ba",
+      "speaker": "ヌガー",
+      "ja": "このあたりの敵はあらかた片づけたな、敵はまだいるか？",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "1c7e3330",
+      "speaker": "",
+      "ja": "突如宇宙船を襲う魔物の群れ。短い距離をテレポートする性質があるため、ヌガー達は大急ぎで対処に奔走していた。",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "cbc81114",
+      "speaker": "ルミナ",
+      "ja": "アポロ、どう？　まだ敵、いる……？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "3a2253e9",
+      "speaker": "アポロ",
+      "ja": "廊下の反応は消失。……ラウンジに新たな反応が増えたようです",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "1560891b",
+      "speaker": "雫",
+      "ja": "ラウンジはコハル様と機械士が……！　あの男は役に立ちません、急がなくてはコハル様が危険かも知れませんね",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "28a48c3d",
+      "speaker": "ヌガー",
+      "ja": "よし、すぐに向かうぞ、{G_PlayerName}、吾輩と共に来い、ルミナと雫は残って敵が現れ次第対処しろ",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "d871aa88",
+      "speaker": "ルミナ",
+      "ja": "わかった……！",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "6928c26c",
+      "speaker": "コハル",
+      "ja": "もう……！　こいつらどっから湧いてくるのよぉっ！！　キリがないわよ！！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "d2ee3bd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、また来たぞ！　だいじょうぶかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "694d3016",
+      "speaker": "コハル",
+      "ja": "大丈夫も何もやるしか──",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "bcfcfae2",
+      "speaker": "ヌガー",
+      "ja": "はぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "eb68a8ea",
+      "speaker": "コハル",
+      "ja": "わわっ！？　すごっ……敵を一撃……！？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "12674f46",
+      "speaker": "ヌガー",
+      "ja": "気を抜くな！　まだ敵が来るぞ……！！　{G_PlayerName}達は背後を守れ！",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "498d42ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "任せろ……！",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "4527730b",
+      "speaker": "コハル",
+      "ja": "はぁぁっ！！",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "3cf8112c",
+      "speaker": "ヌガー",
+      "ja": "やぁっ！！",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "ef7a7eeb",
+      "speaker": "機械士",
+      "ja": "おおっ！　ナイス連携……！！",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "eac8dced",
+      "speaker": "ヌガー",
+      "ja": "{G_PlayerName}、敵はまだいるか！？",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "54f9dcbd",
+      "speaker": "{G_PlayerName}",
+      "ja": "敵は引き上げた、今ので最後のようだ",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "78d21550",
+      "speaker": "ヌガー",
+      "ja": "そうか……お前、ケガはないか？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "16499c6",
+      "speaker": "コハル",
+      "ja": "わたしは大丈夫よ、それより助けに来てくれてありがとう、あたしとコイツだけだったら結構危なかったかも……",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "3f228772",
+      "speaker": "ヌガー",
+      "ja": "気にするな。怪我が無くて何よりだ。ああ、あとルミナと雫にこっちは終わったと伝えに行ってくれないか？",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "dd1d6b33",
+      "speaker": "コハル",
+      "ja": "ええ、わかった。本当にありがとう、ヌガー。ほら、あんたも行くわよ！",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "b304d456",
+      "speaker": "機械士",
+      "ja": "わかってるって……！　うおっ！　ひ、引っ張るな！　バカ力過ぎだろっ！　手取れるっ！！",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "1c79789e",
+      "speaker": "コハル",
+      "ja": "はぁっ！？　誰がバカよ！　このバカっ！！　さっさと行くわよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "4eac4afe",
+      "speaker": "ヌガー",
+      "ja": "ふふ……二人とも仲がいいなあ……",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "f801972d",
+      "speaker": "",
+      "ja": "突然の賊の襲来、ヌガーは持ち前の指揮能力の高さを発揮し、何事もなく賊の撃退に成功。",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "d36a0c51",
+      "speaker": "",
+      "ja": "この船の連中も荒事には慣れているのか、ずいぶんと戦い慣れているようだった。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "3dae49b6",
+      "speaker": "",
+      "ja": "宇宙を旅するのはオレの想像よりも危険を孕んだものなのかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "44af5456",
+      "speaker": "ヌガー",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "178e61cf",
+      "speaker": "ヌガー",
+      "ja": "（よかった……無事撃退できて……本当に良かった……）",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "23f2dc7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヌガー……？",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "b7b0acd4",
+      "speaker": "",
+      "ja": "一人茫然とその場に立ち尽くしていたヌガー。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "9187cc3b",
+      "speaker": "",
+      "ja": "先ほどまでとは全然違う様子が気になり、そっとヌガーの小さな肩に手を置く。",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "99c35216",
+      "speaker": "ヌガー",
+      "ja": "あ……お兄ちゃん……。ごめんなさい、その……気が抜けちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "1448b9b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、オレの方こそもう少し早く声をかけるべきだった。だいじょうぶか？",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "52b0a05",
+      "speaker": "ヌガー",
+      "ja": "わたしはだいじょうぶ……。でもこの船の人達すごく強いね……ちょっと驚いちゃったかも……",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "6b1e79d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、どうやらこの手のことは日常茶飯事らしい……どこの世界も程度は違えど似たようなものなのかもしれない",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "6b9a5075",
+      "speaker": "{G_PlayerName}",
+      "ja": "それより部屋で少し話さないか？　ここだと落ち着けないだろう？",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "2300795e",
+      "speaker": "ヌガー",
+      "ja": "……うん、ありがとう、お兄ちゃん",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "d1ca8469",
+      "speaker": "",
+      "ja": "ヌガーは言葉少なげに返答するとオレの服の袖をそっと掴む。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "c114a28d",
+      "speaker": "",
+      "ja": "オレはその手に自分の手を重ねると、ヌガーは僅かに笑みを見せる。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "e009da72",
+      "speaker": "",
+      "ja": "その笑みに思わず顔が熱くなってしまうが、オレはわざとらしく咳ばらいをし誤魔化すとヌガーを連れて部屋に向かった。",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "55e87fdd",
+      "speaker": "",
+      "ja": "一時的だが、貸してもらった部屋に入る。足取りがおぼつかないヌガーを、ベットの上へ座るように促した。",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "21c768d7",
+      "speaker": "ヌガー",
+      "ja": "ありがとう、お兄ちゃん、気を使ってくれて……こんな情けない団長の姿なんて誰にも見せられませんよね……",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "8d64b400",
+      "speaker": "{G_PlayerName}",
+      "ja": "あまりそう自分を卑下するものでもないだろう？　誰だって弱い部分はある、それでもヌガーがいたから誰もケガすることなく賊を撃退できたんだ",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "14a4e368",
+      "speaker": "{G_PlayerName}",
+      "ja": "誇るべきだと思う。ヌガーはもっと自分に自信を持っていい",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "ba4e9967",
+      "speaker": "ヌガー",
+      "ja": "ふふ……お兄ちゃんにそう言われると、本当に少しだけ自信がわいてきちゃいますね",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "756dffa6",
+      "speaker": "ヌガー",
+      "ja": "でもやっぱりまだ不安の方が大きいです……別世界に飛ばされて、他の人達と離れ離れ……",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "bfddb599",
+      "speaker": "ヌガー",
+      "ja": "この船の人達は皆さん良い人ですけど、それでもこういう状況で指揮を執るのは……わたしのせいで怪我とかさせたらって思うと……",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "1b3d710",
+      "speaker": "",
+      "ja": "ヌガーは俯き、そして小さな身体が恐怖から僅かに震える。",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "fb614857",
+      "speaker": "",
+      "ja": "どれだけ団長として気丈に振舞っても、賊を撃退できたとしても、異世界という現実に変わりはない。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "cfc206af",
+      "speaker": "",
+      "ja": "本当に元の世界に戻れるのか……ヌガーの小さな心はその不安で押しつぶされそうになっているのかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "ecd0be9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……オレはヌガーを誇りに思う。こんな異常事態でも団長としての振る舞いを崩さない",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "fd3f1dd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはヌガーの強さと今までの努力の成果なんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "480f232f",
+      "speaker": "ヌガー",
+      "ja": "そう、なのでしょうか……でもお兄ちゃんに言われるとそうなんじゃないかと思えてくるのが不思議ですよね……",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "17dcd6f8",
+      "speaker": "ヌガー",
+      "ja": "本当にありがとう、お兄ちゃん……なんだかこの世界でもやっていけるような気がしてきました",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "2c374f0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁずっとこの世界にいるわけにもいかないが……ただこの世界に来れたのは良かったと思う",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "4a4c329e",
+      "speaker": "{G_PlayerName}",
+      "ja": "知らない世界を知るのは今後において必ず役に立つだろうし",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "1f942d2a",
+      "speaker": "ヌガー",
+      "ja": "そうですね、この船の人達とも知り合えましたし♪",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "14c8671f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヌガーにとってはそれが一番なのか？　他に何か良い事とかあったか？",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "c6538867",
+      "speaker": "ヌガー",
+      "ja": "この船の人達と知り合えたのは……二番、ですね。一番は──",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "4f4822c7",
+      "speaker": "ヌガー",
+      "ja": "お兄ちゃんと一緒にいられる時間が増えて嬉しい、ですね",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "5a9e57e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……？　オレ……？　オレとなら普段からいるだろう？　オレが言いたいのはそういうことじゃなくて──",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "70b55108",
+      "speaker": "",
+      "ja": "ヌガーの思わぬ返答にオレは動揺してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "37f0b230",
+      "speaker": "",
+      "ja": "どうにか言葉を繋ぐが、そんなオレをヌガーはニコニコと見つめ、それが余計にヘンな恥ずかしさを生んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "1f7851f5",
+      "speaker": "ヌガー",
+      "ja": "あ……でも一つだけ悲しいことがあります……",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "a9787510",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ、なんだ……！？",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "2fe657cc",
+      "speaker": "ヌガー",
+      "ja": "クマさんと一緒に寝られないことです",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "809187b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そういう意味の悲しい、か……。着の身着のままこの世界に飛ばされたからな",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "e9a15524",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもこの船にクマのぬいぐるみの一つや二つはありそうだ、借りられないか相談してみようか",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "d2dc891d",
+      "speaker": "ヌガー",
+      "ja": "んー……そこまで深刻にならなくても大丈夫ですよ？　だって……",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "3f187444",
+      "speaker": "ヌガー",
+      "ja": "だって、お兄ちゃんが一緒に寝てくれますもんねっ？♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "aac78b37",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぉっ！？　ヌガーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "ed954c58",
+      "speaker": "",
+      "ja": "ヌガーは言葉と共にオレに抱きつき、オレ達はそのままベッドの上に倒れ込む。",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "230c12b7",
+      "speaker": "ヌガー",
+      "ja": "クマさんよりもお兄ちゃんのほうが全然ぬくぬくで良いですっ♥　今日はお兄ちゃんと一緒に寝たいな……ダメ、ですか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "e3430cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、まぁその……ヌガーがそうして欲しいなら……。今日のご褒美として……",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "f5da1408",
+      "speaker": "ヌガー",
+      "ja": "本当ですかっ！？♥　ありがとう、お兄ちゃんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "7159fb2b",
+      "speaker": "",
+      "ja": "ヌガーの勢いに負け、オレはなし崩し的に共に寝ることになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "3dec8960",
+      "speaker": "",
+      "ja": "すぐに眠りにつくヌガーとは逆にオレは目が冴えに冴え、そのまま一睡もできずに朝を迎える羽目になってしまうのであった。",
+      "zh": ""
+    }
+  ]
+}
