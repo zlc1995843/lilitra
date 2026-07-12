@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "80776ab4",
+      "speaker": "",
+      "ja": "早朝起きた{G_PlayerName}が宇宙船のラウンジへと足を運ぶと、そこには先客がいた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "4e690401",
+      "speaker": "",
+      "ja": "そこではフウリが何やら集中している。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b0bb055b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　こんな朝から何をやっているんだ？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2b4a475",
+      "speaker": "フウリ",
+      "ja": "……あなたには関係ないことです。用がないならお部屋に戻られては？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "9956922f",
+      "speaker": "",
+      "ja": "素っ気ないフウリの言葉に{G_PlayerName}は困惑してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "54d20316",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……なんだか冷たいなぁ……そんなに意固地にならなくてもいいのに……。）",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "c7198acb",
+      "speaker": "",
+      "ja": "そう思いつつも『毒と腐敗の星』での一連の出来事があるので{G_PlayerName}は気を遣って大人しくその場を後にする。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "fe03a95c",
+      "speaker": "",
+      "ja": "その後、朝食を済ませた{G_PlayerName}だが、やはりフウリの事が気になっていた。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "ba840f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "う～ん……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "efb52db",
+      "speaker": "",
+      "ja": "部屋にいてもモヤモヤするだけで、どこか落ち着かずにいると、不意にドアが開いて心配そうな顔をしてヴァインが入ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "7a54b3df",
+      "speaker": "ヴァイン",
+      "ja": "すみません……休憩中でしたでしょうか……？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "293ef870",
+      "speaker": "{G_PlayerName}",
+      "ja": "あぁ……いや、大丈夫だよ、どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "18deb4dc",
+      "speaker": "",
+      "ja": "ヴァインの急な来訪に少し驚きつつも、{G_PlayerName}は平静を装ってそう答えた。",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "c34ee310",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にヴァインは気遣うように聞いてくる。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "bebc1e3a",
+      "speaker": "ヴァイン",
+      "ja": "いえ……朝食を摂られている時に、どこか上の空のご様子でしたので……何かあったのかと思いまして……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "78c7e318",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ～、それのことなんだが……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "c7c324a9",
+      "speaker": "",
+      "ja": "{G_PlayerName}はフウリの事をヴァインに相談してみることにした。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "f325b9fe",
+      "speaker": "ヴァイン",
+      "ja": "なるほど……そういうことですか……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "7349e8f8",
+      "speaker": "",
+      "ja": "話を聞いたヴァインは少し困惑した表情で頷くと{G_PlayerName}に諭すように告げる。",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "c863b645",
+      "speaker": "ヴァイン",
+      "ja": "フウリはあなた様が思うような、冷たい人間ではないのです……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "58c2cbdc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう……なのか……？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "3cdc66",
+      "speaker": "ヴァイン",
+      "ja": "はい……少し、長い目で見てあげてください",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e8cce1cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ。わかった",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "74e234fc",
+      "speaker": "",
+      "ja": "{G_PlayerName}がそう答えるとヴァインは不安げな表情を少し明るくさせ頭を下げた。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "89bf0548",
+      "speaker": "ヴァイン",
+      "ja": "それでは、失礼します",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "41de3c59",
+      "speaker": "",
+      "ja": "そういうとヴァインは{G_PlayerName}の部屋を後にする。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "265ca64c",
+      "speaker": "",
+      "ja": "その後ろ姿を見送りながら{G_PlayerName}はフウリの事に想いを馳せていた。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "6c410003",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、ヴァインがあそこまで言うんだから、きっとフウリは冷たい意固地な子って訳じゃないんだろうな",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "db409da7",
+      "speaker": "",
+      "ja": "そんな事があった後、夕方に宇宙船の廊下を{G_PlayerName}が歩いていると前から笑顔のヒナタとカシミアがやってくる。",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "e8a5b6a1",
+      "speaker": "",
+      "ja": "二人は{G_PlayerName}を見つけるとニコニコしながら駆け寄ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "7eabeafd",
+      "speaker": "ヒナタ",
+      "ja": "兄さま！　これ見て下さい！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "bbf67502",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？　どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "f31f7351",
+      "speaker": "",
+      "ja": "嬉しそうな二人は首から提げた木彫りのメダリオンを自慢げに{G_PlayerName}に見せつけてくる。細かな細工が施され、素人目にも手の込んだ代物だった。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "5871ecbd",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ……どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "b12afdd2",
+      "speaker": "ヒナタ",
+      "ja": "これフウリさんが作ってくれたんです！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6c11604c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　フウリが？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "fea2e47a",
+      "speaker": "ヒナタ",
+      "ja": "うん！　いいでしょ、兄さま",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "7bd8e89e",
+      "speaker": "カシミア",
+      "ja": "いーい？",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "bdc6030b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そんなすごいメダリオン作って貰ったなんて、良かったな",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "b5233986",
+      "speaker": "ヒナタ",
+      "ja": "うんっ！",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "8ecfb08d",
+      "speaker": "カシミア",
+      "ja": "あーい！",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "d7fc3dbd",
+      "speaker": "",
+      "ja": "嬉しそうな二人を見て{G_PlayerName}はホッコリとした気持ちになる。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "fba3c256",
+      "speaker": "",
+      "ja": "それと同時に朝集中して作業をしていた彼女の姿を思い出した。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "66b42ef3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もしかして、あの時フウリがしていた作業って……これだったのか？）",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "7da776bc",
+      "speaker": "",
+      "ja": "そう思った{G_PlayerName}はヒナタ達と別れた後、それを確かめるために宇宙船のラウンジへと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "582dc1c",
+      "speaker": "",
+      "ja": "するとラウンジではテーブルに向かって何やら紙にしたためているフウリの姿があった。",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "cd1f0524",
+      "speaker": "",
+      "ja": "声をかけようかどうしようか一瞬迷った{G_PlayerName}だがヴァインが言っていたことを信じて思い切って声をかけることにする。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "ee0d5b1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "フウリ、なにをしているんだ？",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "a2f500e4",
+      "speaker": "",
+      "ja": "その言葉にフウリは少し怪訝な表情を浮かべて振り返ると淡々とした口調で言った。",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "1de4fdf5",
+      "speaker": "フウリ",
+      "ja": "この機器の使い方がわからないと言う人が多いでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "fbe454e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そうだね",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "6c2ec801",
+      "speaker": "フウリ",
+      "ja": "だから、このように紙に書いて貼っておけばわかりやすいかと思いまして",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "5da9e582",
+      "speaker": "",
+      "ja": "そんなフウリの言葉に{G_PlayerName}はヴァインの言葉を思い出す。",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "5a35c574",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ヴァインの言った通り、フウリはパッとした見た目や言動ではわかりにくいだけで、実際はとても優しい女の子なんだな。）",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "8521d2d0",
+      "speaker": "",
+      "ja": "そのことを実感しつつ{G_PlayerName}は機械の説明を書き綴るフウリの姿を見つめていた。",
+      "zh": ""
+    }
+  ]
+}

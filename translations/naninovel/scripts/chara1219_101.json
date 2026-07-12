@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "80776ab4",
+      "speaker": "",
+      "ja": "早朝起きた{G_PlayerName}が宇宙船のラウンジへと足を運ぶと、そこには先客がいた。",
+      "zh": "一大早，{G_PlayerName}走到飞船的休息室，发现已经有人先到了。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "4e690401",
+      "speaker": "",
+      "ja": "そこではフウリが何やら集中している。",
+      "zh": "芙莉正聚精会神地在弄什么。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b0bb055b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　こんな朝から何をやっているんだ？",
+      "zh": "咦？一大清早的，你在干嘛？"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2b4a475",
+      "speaker": "フウリ",
+      "ja": "……あなたには関係ないことです。用がないならお部屋に戻られては？",
+      "zh": "……跟你没关系。没事的话，回你自己房间去。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "9956922f",
+      "speaker": "",
+      "ja": "素っ気ないフウリの言葉に{G_PlayerName}は困惑してしまった。",
+      "zh": "芙莉这冷淡的语气让{G_PlayerName}一时不知所措。"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "54d20316",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……なんだか冷たいなぁ……そんなに意固地にならなくてもいいのに……。）",
+      "zh": "（……怎么这么冷淡啊，其实不用这么固执的……。）"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "c7198acb",
+      "speaker": "",
+      "ja": "そう思いつつも『毒と腐敗の星』での一連の出来事があるので{G_PlayerName}は気を遣って大人しくその場を後にする。",
+      "zh": "这么想着，但想到在“毒腐之星”上经历的那些事，{G_PlayerName}还是识趣地默默走开了。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "fe03a95c",
+      "speaker": "",
+      "ja": "その後、朝食を済ませた{G_PlayerName}だが、やはりフウリの事が気になっていた。",
+      "zh": "之后，吃完早饭，{G_PlayerName}还是放心不下芙莉。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "ba840f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "う～ん……",
+      "zh": "唔……"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "efb52db",
+      "speaker": "",
+      "ja": "部屋にいてもモヤモヤするだけで、どこか落ち着かずにいると、不意にドアが開いて心配そうな顔をしてヴァインが入ってくる。",
+      "zh": "在房间里也心神不宁，正坐立不安时，门突然开了，维因一脸担心地走了进来。"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "7a54b3df",
+      "speaker": "ヴァイン",
+      "ja": "すみません……休憩中でしたでしょうか……？",
+      "zh": "打扰了……你在休息吗？"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "293ef870",
+      "speaker": "{G_PlayerName}",
+      "ja": "あぁ……いや、大丈夫だよ、どうしたんだ？",
+      "zh": "啊……没事，我没关系的，出什么事了？"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "18deb4dc",
+      "speaker": "",
+      "ja": "ヴァインの急な来訪に少し驚きつつも、{G_PlayerName}は平静を装ってそう答えた。",
+      "zh": "虽然对维因的突然到访有些惊讶，{G_PlayerName}还是故作镇定地答道。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "c34ee310",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にヴァインは気遣うように聞いてくる。",
+      "zh": "{G_PlayerName}维因见状，放轻了语气问。"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "bebc1e3a",
+      "speaker": "ヴァイン",
+      "ja": "いえ……朝食を摂られている時に、どこか上の空のご様子でしたので……何かあったのかと思いまして……",
+      "zh": "没有……只是看到你吃早饭的时候有点心不在焉，担心是不是出了什么事……"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "78c7e318",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ～、それのことなんだが……",
+      "zh": "啊～，你说那个啊……"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "c7c324a9",
+      "speaker": "",
+      "ja": "{G_PlayerName}はフウリの事をヴァインに相談してみることにした。",
+      "zh": "{G_PlayerName}打算跟维因说一下芙莉的事情。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "f325b9fe",
+      "speaker": "ヴァイン",
+      "ja": "なるほど……そういうことですか……",
+      "zh": "是这样啊……原来如此……"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "7349e8f8",
+      "speaker": "",
+      "ja": "話を聞いたヴァインは少し困惑した表情で頷くと{G_PlayerName}に諭すように告げる。",
+      "zh": "听完，维因面露一丝困惑，点了点头，然后语重心长地对{G_PlayerName}说。"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "c863b645",
+      "speaker": "ヴァイン",
+      "ja": "フウリはあなた様が思うような、冷たい人間ではないのです……",
+      "zh": "芙莉这个人，并不像你想的那样冷淡……"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "58c2cbdc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう……なのか……？",
+      "zh": "哦，这样啊……？"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "3cdc66",
+      "speaker": "ヴァイン",
+      "ja": "はい……少し、長い目で見てあげてください",
+      "zh": "是……请你稍微，耐心一点看待他。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e8cce1cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ。わかった",
+      "zh": "啊，嗯。明白了。"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "74e234fc",
+      "speaker": "",
+      "ja": "{G_PlayerName}がそう答えるとヴァインは不安げな表情を少し明るくさせ頭を下げた。",
+      "zh": "听{G_PlayerName}这么回答，维因脸上的不安稍缓，低下了头。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "89bf0548",
+      "speaker": "ヴァイン",
+      "ja": "それでは、失礼します",
+      "zh": "那么，先告辞了。"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "41de3c59",
+      "speaker": "",
+      "ja": "そういうとヴァインは{G_PlayerName}の部屋を後にする。",
+      "zh": "说完，维因离开了{G_PlayerName}的房间。"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "265ca64c",
+      "speaker": "",
+      "ja": "その後ろ姿を見送りながら{G_PlayerName}はフウリの事に想いを馳せていた。",
+      "zh": "目送他离开，{G_PlayerName}想着芙莉的事。"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "6c410003",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、ヴァインがあそこまで言うんだから、きっとフウリは冷たい意固地な子って訳じゃないんだろうな",
+      "zh": "嘛，维因都那么说了，看来芙莉也不是个冷漠固执的女孩子吧。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "db409da7",
+      "speaker": "",
+      "ja": "そんな事があった後、夕方に宇宙船の廊下を{G_PlayerName}が歩いていると前から笑顔のヒナタとカシミアがやってくる。",
+      "zh": "那之后，傍晚时分，{G_PlayerName}走在飞船走廊上，日向和卡西米亚笑嘻嘻地迎面走来。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "e8a5b6a1",
+      "speaker": "",
+      "ja": "二人は{G_PlayerName}を見つけるとニコニコしながら駆け寄ってきた。",
+      "zh": "两人一发现{G_PlayerName}，就笑嘻嘻地跑了过来。"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "7eabeafd",
+      "speaker": "ヒナタ",
+      "ja": "兄さま！　これ見て下さい！",
+      "zh": "哥哥！请看这个！"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "bbf67502",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？　どうしたんだ？",
+      "zh": "嗯？怎么了？"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "f31f7351",
+      "speaker": "",
+      "ja": "嬉しそうな二人は首から提げた木彫りのメダリオンを自慢げに{G_PlayerName}に見せつけてくる。細かな細工が施され、素人目にも手の込んだ代物だった。",
+      "zh": "两人开心地把挂在脖子上的木雕徽章炫耀给{G_PlayerName}看。做工很细，一眼就看得出来是下了功夫的。"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "5871ecbd",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ……どうしたんだ？",
+      "zh": "这是……哪来的？"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "b12afdd2",
+      "speaker": "ヒナタ",
+      "ja": "これフウリさんが作ってくれたんです！",
+      "zh": "这是芙莉小姐给我们做的！"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6c11604c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　フウリが？",
+      "zh": "诶？芙莉做的？"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "fea2e47a",
+      "speaker": "ヒナタ",
+      "ja": "うん！　いいでしょ、兄さま",
+      "zh": "嗯！不错吧，哥哥。"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "7bd8e89e",
+      "speaker": "カシミア",
+      "ja": "いーい？",
+      "zh": "不错吧？"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "bdc6030b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そんなすごいメダリオン作って貰ったなんて、良かったな",
+      "zh": "啊，芙莉做了这么棒的徽章给你们，真不错啊！"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "b5233986",
+      "speaker": "ヒナタ",
+      "ja": "うんっ！",
+      "zh": "嗯！"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "8ecfb08d",
+      "speaker": "カシミア",
+      "ja": "あーい！",
+      "zh": "呀吼——！"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "d7fc3dbd",
+      "speaker": "",
+      "ja": "嬉しそうな二人を見て{G_PlayerName}はホッコリとした気持ちになる。",
+      "zh": "看着两人那么开心，{G_PlayerName}心里也暖洋洋的。"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "fba3c256",
+      "speaker": "",
+      "ja": "それと同時に朝集中して作業をしていた彼女の姿を思い出した。",
+      "zh": "同时，也想起了她早上专心工作的样子。"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "66b42ef3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もしかして、あの時フウリがしていた作業って……これだったのか？）",
+      "zh": "（难道说，那时候芙莉忙活的事情……就是这个？）"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "7da776bc",
+      "speaker": "",
+      "ja": "そう思った{G_PlayerName}はヒナタ達と別れた後、それを確かめるために宇宙船のラウンジへと向かう。",
+      "zh": "这么想着，{G_PlayerName}跟日向她们分开后，便朝飞船的休息室走去，想确认一下。"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "582dc1c",
+      "speaker": "",
+      "ja": "するとラウンジではテーブルに向かって何やら紙にしたためているフウリの姿があった。",
+      "zh": "到了休息室，只见芙莉正对着桌子，认认真真地在纸上写着什么。"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "cd1f0524",
+      "speaker": "",
+      "ja": "声をかけようかどうしようか一瞬迷った{G_PlayerName}だがヴァインが言っていたことを信じて思い切って声をかけることにする。",
+      "zh": "{G_PlayerName}一下拿不准要不要搭话，但想到维因说过的话，便鼓起勇气开了口。"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "ee0d5b1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "フウリ、なにをしているんだ？",
+      "zh": "芙莉，你在干什么呢？"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "a2f500e4",
+      "speaker": "",
+      "ja": "その言葉にフウリは少し怪訝な表情を浮かべて振り返ると淡々とした口調で言った。",
+      "zh": "芙莉略显诧异地回过头，淡淡地应道："
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "1de4fdf5",
+      "speaker": "フウリ",
+      "ja": "この機器の使い方がわからないと言う人が多いでしょう？",
+      "zh": "很多人都不太会用这台机器吧？"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "fbe454e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そうだね",
+      "zh": "啊、嗯……也是。"
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "6c2ec801",
+      "speaker": "フウリ",
+      "ja": "だから、このように紙に書いて貼っておけばわかりやすいかと思いまして",
+      "zh": "所以我就想，像这样写在纸上贴出来，大家应该一看就明白了。"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "5da9e582",
+      "speaker": "",
+      "ja": "そんなフウリの言葉に{G_PlayerName}はヴァインの言葉を思い出す。",
+      "zh": "听芙莉这么说，{G_PlayerName}又想起了维因的话。"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "5a35c574",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ヴァインの言った通り、フウリはパッとした見た目や言動ではわかりにくいだけで、実際はとても優しい女の子なんだな。）",
+      "zh": "（果然跟维因说的一样。芙莉乍看之下难以捉摸，其实是个特别温柔的女孩啊。）"
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "8521d2d0",
+      "speaker": "",
+      "ja": "そのことを実感しつつ{G_PlayerName}は機械の説明を書き綴るフウリの姿を見つめていた。",
+      "zh": "{G_PlayerName}心里感慨着，一直静静望着芙莉埋头写说明的身影。"
+    }
+  ]
+}
