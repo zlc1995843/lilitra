@@ -391,7 +391,33 @@ def load_name_glossary(repo_root: pathlib.Path) -> Dict[str, str]:
         zh = item.get("zh", "")
         if ja and zh:
             result[ja] = zh
+    external = pathlib.Path(r"C:\Users\曾罗畅\Downloads\莉莉对照")
+    external_names = external / "name_glossary.json"
+    if external_names.exists():
+        try:
+            for item in read_json(external_names):
+                if isinstance(item, dict) and item.get("ja") and item.get("zh"):
+                    result[str(item["ja"])] = str(item["zh"])
+        except Exception:
+            pass
+    pronouns = external / "pronoun_glossary.json"
+    if pronouns.exists():
+        try:
+            data = read_json(pronouns)
+            if isinstance(data, dict):
+                result.update({str(k): str(v) for k, v in data.items() if k and v})
+        except Exception:
+            pass
     return result
+
+
+def unknown_speakers(source_lines: List[Dict[str, Any]], glossary: Dict[str, str]) -> List[str]:
+    values = set()
+    for line in source_lines:
+        speaker = str(line.get("speaker") or "").strip()
+        if speaker and speaker not in glossary:
+            values.add(speaker)
+    return sorted(values)
 
 
 def load_name_by_id(repo_root: pathlib.Path) -> Dict[int, str]:
@@ -1090,6 +1116,12 @@ def main() -> int:
             continue
         source_bundle = ensure_bundle(runtime_root, repo_root, filename)
         source_lines = extract_lines(source_bundle)
+        unknown = unknown_speakers(source_lines, name_glossary)
+        if unknown:
+            pending_path = repo_root / ".worklogs" / "unknown_glossary.json"
+            write_json(pending_path, {"script": script, "unknown_speakers": unknown})
+            print(f"unknown glossary entries: {', '.join(unknown)}", file=sys.stderr)
+            return 4
         write_json(repo_root / "sources/naninovel/scripts" / f"{script}.json", {"lines": source_lines})
         if args.no_translate:
             existing = from_review_translation(review_path) or from_existing_translation(translation_path)
