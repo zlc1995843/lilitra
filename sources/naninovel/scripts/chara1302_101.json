@@ -1,0 +1,400 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "ce1aa079",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……次はどんな星なのかな）",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "79586279",
+      "speaker": "",
+      "ja": "ラウンジの椅子に座りながら、ふとそんなことを考える。資材の搬入もすべて終わり、あとは次の目的に旅立つだけ。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "9ac1bc11",
+      "speaker": "",
+      "ja": "この星でも色々あったけど、終わってみればいい思い出になる、毎回旅立つときはそんな感想を抱く。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "f070f476",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そろそろか……またこの星に来れるといいな）",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "7ba4983b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──ななっ！？！？　なんだなんだっ！？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "52faf7fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだったんだ……？　どっか故障したのか……？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "dbcca8",
+      "speaker": "グリム",
+      "ja": "あ、お兄ちゃん、こんなとこいたんだ？　ねぇねぇ、宇宙船止まってるみたいだけど、どうしたの？？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "ef193e75",
+      "speaker": "{G_PlayerName}",
+      "ja": "二人とも……なんともなかったか？　なんかすっごい揺れてたし、ケガとかしてないか？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "b852764c",
+      "speaker": "ドリー",
+      "ja": "いえ、ケガとかは特に……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "2266d513",
+      "speaker": "グリム",
+      "ja": "旧式は色々大変だねぇ～♪　グリムの宇宙船ならこんなトラブル、絶対に起きないのに……くすくすっ♪",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "c72f8d98",
+      "speaker": "{G_PlayerName}",
+      "ja": "……グリム、お前何かやったんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "1b3b14f7",
+      "speaker": "グリム",
+      "ja": "なにそれぇ……グリムが何かしたって疑ってんの！？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "8bf5786d",
+      "speaker": "ドリー",
+      "ja": "いえ、グリム様は特に何もしていないかと……近くにいましたんで",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "c783ca8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……ならトラブルは別にってことか……何が原因だと思う？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "3884485c",
+      "speaker": "ドリー",
+      "ja": "うちに聞かれても……んー……とりあえずこういう場合は制御装置に問題がある、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "26d28884",
+      "speaker": "ドリー",
+      "ja": "ちょっと様子を見てみましょうか",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "8fdbb4db",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なら行ってみるか",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "7d58a394",
+      "speaker": "グリム",
+      "ja": "こっちとか怪しいよね～っ♪",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "d7b204a7",
+      "speaker": "ドリー",
+      "ja": "あ、ちょっと待ってくださいよ……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "6a605715",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、ここに何かあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "93dc56d6",
+      "speaker": "ドリー",
+      "ja": "グリム様、勘はいいですからね……ちょっと見てみましょうか",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "6428dd22",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、グリムはどこいったんだ？　奥か？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "4dad932f",
+      "speaker": "ドリー",
+      "ja": "グリム様ー？",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "bba81773",
+      "speaker": "{G_PlayerName}",
+      "ja": "──なんっ……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "c4248771",
+      "speaker": "？？？",
+      "ja": "──ひゃぁああっ！！！",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "ad7cf1",
+      "speaker": "",
+      "ja": "突然部屋が真っ暗になり、同時に響き渡る大きな悲鳴。腕に何かが抱きつき、身体をぐいっと引っ張られる。",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "5d1b467d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだなんだ？　誰が抱きついてるんだ……！？）",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "bae779e2",
+      "speaker": "",
+      "ja": "俺は誰なのか探ろうとそっと手を伸ばす。少なくともグリムの頭では無さそう……髪に結び目が二つ……ならその人物は──",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "d4ae7dc3",
+      "speaker": "ドリー",
+      "ja": "ご、ごご、ごめん、なさい……急に暗くなって、驚いて……",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "71c64ffb",
+      "speaker": "ドリー",
+      "ja": "も、もうちょっとこのままで……いいですか……？",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "a32c898c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……わかった",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "4299fff8",
+      "speaker": "",
+      "ja": "ドリーは震えた声で訴えかけ、ぎゅっと俺の腕を掴み直す。俺が返事をしながら頷くと安心したのか、腕に寄り添うように身体を預けてくる。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "4fbb14bd",
+      "speaker": "",
+      "ja": "普段の気怠そうでひょうひょうとしているドリーから考えられない弱々しい姿。少しでも落ち着かせようと俺はドリーの小さな身体をそっと抱きしめた。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "345ece47",
+      "speaker": "ドリー",
+      "ja": "（機械士さんの身体……大きい……うちの身体なんてすっぽり隠れるくらいに……）",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "bf260e37",
+      "speaker": "ドリー",
+      "ja": "（すごく落ち着くけど、めっちゃハズい……うぅ、ドキドキしてきた……）",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "3521a3ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "（思わず抱きしめちゃったけど、いいのかコレ……でも嫌がってないし、緊急事態だし、今はドリーを落ち貸せないと……うん……）",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "aac75df",
+      "speaker": "",
+      "ja": "暗闇の中で俺たちは無言でお互いを抱きしめ合う。ドリーの身体を抱きしめているうちに胸がどんどん高鳴り、それがドリーに聞こえないか不安になってくる。",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "5ee58a66",
+      "speaker": "",
+      "ja": "もう完全にドリーを意識してしまい、なんて言葉をかけたらいいかわからなくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "48f3aa5d",
+      "speaker": "ドリー",
+      "ja": "（うちら、いつまで抱き合ってるんだろ……でもまぁ……いっか、このままでも……）",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "21493830",
+      "speaker": "ドリー",
+      "ja": "（{G_PlayerName}さんの腕の中、なんかいい匂いで居心地いいし……）",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "b00a61a2",
+      "speaker": "グリム",
+      "ja": "くすくすっ♪　上手く行ったかな？",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "db74b6ea",
+      "speaker": "",
+      "ja": "ドリーの{G_PlayerName}に対する心を以前から見抜いていたたグリム。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "728e086c",
+      "speaker": "",
+      "ja": "二人の仲を進めようとグリムはアポロにお願いし不調を装わせ、倉庫のブレーカーを意図的に落とした。",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "e4fecaab",
+      "speaker": "グリム",
+      "ja": "グリムちゃんってばなんて優しい王女様なんだろうなぁ～♪　こんなこと思いつくなんて天才かも？　くすくすっ♪",
+      "zh": ""
+    }
+  ]
+}
