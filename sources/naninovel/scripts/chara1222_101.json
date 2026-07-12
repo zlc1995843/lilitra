@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "2.0",
+      "line_index": 2,
+      "inline_index": 0,
+      "line_hash": "1fedd5ac",
+      "speaker": "",
+      "ja": "本シナリオの主人公は「シュガーコンフリクト」の主人公となっておりますが、名前はプレイヤー名で表示されます。",
+      "zh": ""
+    },
+    {
+      "key": "3.0",
+      "line_index": 3,
+      "inline_index": 0,
+      "line_hash": "ebbee557",
+      "speaker": "",
+      "ja": "「シュガーコンフリクト」の主人公になったつもりでお楽しみください。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "307205f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅ……ここにいると驚きの連続だな",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2dec845d",
+      "speaker": "",
+      "ja": "夜、慣れない環境のためか眠れないパティシエは、船内のラウンジへと来ていた。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "68493f26",
+      "speaker": "",
+      "ja": "唯一操作を覚えた飲み物を出す機械で、温かい飲み物を注文していると、近寄ってくる足音が聞こえる。",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "dc13acef",
+      "speaker": "ショートケーキ",
+      "ja": "あら、パティシエ？　どうしたの、こんな時間に。休憩中？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "937f84ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "なかなか眠れなくてな。ショートケーキは……もしかして訓練してたのか？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "9dbe5523",
+      "speaker": "ショートケーキ",
+      "ja": "うん、今日のぶんは終わり！　気分転換にお散歩でもしようかと思って。わたしにも何か、飲み物出してくれる？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "76bb5946",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、いいよ",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "7a9251dc",
+      "speaker": "",
+      "ja": "ショートケーキは{G_PlayerName}の近くに座り、どこか楽しげに機械の操作を眺め始めた。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "66ea89db",
+      "speaker": "",
+      "ja": "落ち着かない気分で機械を操作し、無事に飲み物を注文し終わる。テーブルに置いて、２人で並んでソファに座った。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "a82f086e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お疲れ様。……でも、ここでまで訓練しないでいいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "23beeefb",
+      "speaker": "ショートケーキ",
+      "ja": "ありがと！　ううん、帰ってからパクパクと戦えなかったら困るよ。体はすぐなまるからね！",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "dfaefccb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう時、俺も戦えたらよかったんだけどな……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "67e348bb",
+      "speaker": "ショートケーキ",
+      "ja": "ううん、パティシエは皆の支えになってるよ！　戦えなくても、パティシエにしか出来ないことなんていっぱいあるし！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "d9f15cd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう。……機械士も似たような悩みがあるらしいな。リリアン？　に比べて力不足だから、足手まといになるんじゃ……って言ってたよ",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "c02be9d4",
+      "speaker": "ショートケーキ",
+      "ja": "皆、悩みがあるのは一緒だね……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "ee1f9bb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ショートケーキも、何か悩んでるのか？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "3ae4b62",
+      "speaker": "ショートケーキ",
+      "ja": "へっ！？　ま……まあ……そりゃ、誰だって悩みの１つや２つあるでしょ！？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "ff296f1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の悩みも聞いてもらったからな。良かったら、話聞くぞ？",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "5fd19990",
+      "speaker": "",
+      "ja": "普段だったら照れて言えないようなことも、夜だからなのか、疲れがあるからか口から出てしまう。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "2cd8b61b",
+      "speaker": "ショートケーキ",
+      "ja": "う、うーん……嬉しいけど……パティシエに話したら、悩みじゃなくなるっていうか……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "677bc009",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　だったらそれこそ話せばいいじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "4aee5252",
+      "speaker": "ショートケーキ",
+      "ja": "だ、ダメっ！　……話せる悩みだったらいつもパティシエには話してるって！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "c1d74f16",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　まあ、話しにくい悩みだってあるよな、特に女の子だし",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "bdb7133f",
+      "speaker": "ショートケーキ",
+      "ja": "そうだよ！　……でも、ありがとね",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "5851153f",
+      "speaker": "",
+      "ja": "自然と、２人が黙ってしまう。沈黙に包まれるラウンジ。",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "732073e4",
+      "speaker": "",
+      "ja": "無意識に、逃げるように飲み物を飲み下す音がかすかに響く。",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "31e9e08",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんだ……この雰囲気……）",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "6ecf6a66",
+      "speaker": "",
+      "ja": "星の光に照らされるショートケーキの横顔を見る。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "e9358dda",
+      "speaker": "",
+      "ja": "視線に気づいてか気づかずか、ショートケーキもこちらを向いた。お互いの視線が混ざり合い、沈黙がさらに深まる。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "2724672d",
+      "speaker": "ショートケーキ",
+      "ja": "……そ",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "42a7bf2c",
+      "speaker": "ショートケーキ",
+      "ja": "そうだっ！　甘いもの食べたくない！？",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "706dd57",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　い、今からか？　こんな時間に？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "ab663282",
+      "speaker": "ショートケーキ",
+      "ja": "甘いものを食べたら、きっとぐっすり眠れるよ！　……どう？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "d6d16218",
+      "speaker": "{G_PlayerName}",
+      "ja": "ショートケーキが食べたいならいいけど……",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "c27cdd6f",
+      "speaker": "ショートケーキ",
+      "ja": "じゃあ決まり！　こっち来て！",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "a25ce0c6",
+      "speaker": "",
+      "ja": "ショートケーキはそう言いながら、パティシエの手を取って引っ張った。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "e68a9532",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　ショートケーキ？　ちょ、ちょっと……",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ef7112ff",
+      "speaker": "ショートケーキ",
+      "ja": "何が食べたいか、材料見て決めないと！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "9a95e1eb",
+      "speaker": "",
+      "ja": "繋いだお互いの手が少し汗ばんでいるのは気のせいなのか。",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "c354452a",
+      "speaker": "",
+      "ja": "そんな事を思いつつ、{G_PlayerName}はショートケーキに引っ張られるままその場を後にするのだった。",
+      "zh": ""
+    }
+  ]
+}
