@@ -1,0 +1,310 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "5453ac53",
+      "speaker": "",
+      "ja": "{G_PlayerName}が部屋でくつろいでいると、突然ノックの音が響き渡る。",
+      "zh": "{G_PlayerName}正在房间休息，突然传来敲门声。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "5a1b24da",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、どうぞ……",
+      "zh": "请进……"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "b819ca3c",
+      "speaker": "炉亞",
+      "ja": "ちょっと、この機械のことで聞いてみたいことがありまして、よろしいです？",
+      "zh": "打扰一下，关于这台机器我有些事想问，可以吗？"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "a23e5334",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ！　けほっ、何でも聞いてくれ！",
+      "zh": "嗯！咳，尽管问！"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "c6b6d61a",
+      "speaker": "",
+      "ja": "機械のことを聞かれて{G_PlayerName}は目を輝かせるが、炉亞の方は気になったことを口にする。",
+      "zh": "被问到机械，{G_PlayerName}双眼发亮，而炉亚则开口说出了自己在意的事。"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "5a5d6489",
+      "speaker": "炉亞",
+      "ja": "あなた、大丈夫ですか？　咳が出ていますけれど……",
+      "zh": "你还好吗？你一直在咳嗽……"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "fc7de0ae",
+      "speaker": "",
+      "ja": "心配する炉亞をよそに{G_PlayerName}はキョトンとした顔で答えた。",
+      "zh": "{G_PlayerName}无视了担心的炉亚，一脸茫然地回答。"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "786d40ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー？　体は平気だし、大丈夫だろ……こほっ",
+      "zh": "嗯？我身体挺好啊，没事的……咳。"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "dee1ec11",
+      "speaker": "炉亞",
+      "ja": "そんなに咳が出てるのですから大丈夫ではないでしょ、余計なお世話かもしれませんが軽く喉やリンパを見せていただいても？",
+      "zh": "咳这么厉害还说没事？虽然可能是我多管闲事，能让我简单看看你的喉咙和淋巴吗？"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "608d5c8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "炉亞、お医者さんみたいだな",
+      "zh": "炉亚，你真像个医生啊。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "d4bf601f",
+      "speaker": "炉亞",
+      "ja": "いいから、ほら喉を見せて、あーって声を出して下さい",
+      "zh": "好了好了，快让我看看喉咙，说“啊——”。"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "43ab566a",
+      "speaker": "",
+      "ja": "まるで本当のお医者さんのように診察を始める炉亞に、博識で何でも出来るんだなと{G_PlayerName}は驚いていた。",
+      "zh": "炉亚像真正的医生一样开始检查，{G_PlayerName}心想她真是学识渊博什么都会啊。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "406b957e",
+      "speaker": "炉亞",
+      "ja": "早くして下さい、はい、あー",
+      "zh": "快点儿，来，啊——。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "d72cff52",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー",
+      "zh": "啊——。"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "8133139b",
+      "speaker": "",
+      "ja": "大きく口を開けた{G_PlayerName}の喉を覗き込み、炉亞はお医者さんがするような診察を続ける。",
+      "zh": "炉亚看着{G_PlayerName}张大的嘴，继续像医生一样检查他的喉咙。"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "ba9e6942",
+      "speaker": "炉亞",
+      "ja": "……本来であれば違う用途ですが、人体に使っても問題は無いでしょう",
+      "zh": "……原本是别的用途，不过用在人身上应该也没问题。"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "817320fc",
+      "speaker": "",
+      "ja": "どこから取り出したのか、何か管のような物を取り出して、炉亞が{G_PlayerName}の体にあてた。反対側は、炉亞の耳へと続いている。",
+      "zh": "炉亚不知从哪里掏出一根管子似的东西，贴在{G_PlayerName}身上，另一头连着自己的耳朵。"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "10ae3fba",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……これ、もしかして体の中の音を聞かれてるのか？）",
+      "zh": "（……这难道是在听我体内的声音？）"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "f81fb561",
+      "speaker": "",
+      "ja": "{G_PlayerName}はくすぐったいような気恥ずかしいような複雑な気持ちになっていた。",
+      "zh": "{G_PlayerName}心里痒痒的，又有些难为情。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "f3807c09",
+      "speaker": "炉亞",
+      "ja": "喉が少し赤くなっていますが、その他は大きな異常はありませんね、水分をこまめに摂るといいでしょう",
+      "zh": "喉咙稍微有点红，其他没什么大问题，注意多喝水就好。"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "14088b62",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうですか……",
+      "zh": "是吗……"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "10f4001",
+      "speaker": "",
+      "ja": "{G_PlayerName}は説明を聞いてホッとすると同時に炉亞の優秀さに頭が下がる思いを抱く。",
+      "zh": "{G_PlayerName}听完说明，松了口气，同时也不禁佩服起炉亚的优秀来。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "2abbf865",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}に炉亞はついでとばかりに提案してきた。",
+      "zh": "炉亚见状，干脆顺势向{G_PlayerName}提出了一个建议。"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "353bb67c",
+      "speaker": "炉亞",
+      "ja": "ついでにあなたの体のデータも集計しておきましょう",
+      "zh": "顺便也把你的身体数据一起统计了吧。"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "d460c9af",
+      "speaker": "",
+      "ja": "そう言うと彼女はタブレットを取り出して{G_PlayerName}へと向ける。",
+      "zh": "说着，她拿出了平板电脑，对准了{G_PlayerName}。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "967816",
+      "speaker": "",
+      "ja": "すると{G_PlayerName}の身体データらしき物が表示された。炉亞は意味ありげな笑みを浮かべて呟く。",
+      "zh": "随即，貌似是{G_PlayerName}身体数据的东西显示了出来。炉亚浮起意味深长的笑容，低声呢喃。"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "714ec547",
+      "speaker": "炉亞",
+      "ja": "へぇ～、あなたってこんな形をしているのね♥",
+      "zh": "嚯～，原来你是这个样子的呀♥"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "b22122aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　形？　なんの形？！",
+      "zh": "啊？样子？什么样子？！"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "657120a6",
+      "speaker": "炉亞",
+      "ja": "なるほどなるほど♥　うんうん♥　こうなっているのですね♥",
+      "zh": "原来如此、原来如此♥ 嗯嗯♥ 是这样子的呢♥"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "fc92244d",
+      "speaker": "",
+      "ja": "一人納得している炉亞を見て、{G_PlayerName}は自分がまるで丸裸にされたような気持ちになり、顔を赤くして布団に潜り込んだ。",
+      "zh": "看着独自心领神会的炉亚，{G_PlayerName}感觉自己仿佛被看光了一样，脸一红钻进了被窝。"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "261ff495",
+      "speaker": "炉亞",
+      "ja": "あ、ちょっと！　隠さないでください！",
+      "zh": "啊，等等！别藏起来呀！"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "6f6a9c2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "な……なんか嫌だ！",
+      "zh": "这……这让我有点不爽！"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "6f4b5931",
+      "speaker": "炉亞",
+      "ja": "減る物でもないでしょう！　ほら、わたくしに全てさらけ出すのです♥",
+      "zh": "又不会少块肉！来嘛，全都袒露给我看吧♥"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "bdc60e6a",
+      "speaker": "",
+      "ja": "ベッドの上で、しばらく炉亞との攻防が繰り広げられるのだった……",
+      "zh": "于是，在床上，{G_PlayerName}和炉亚的攻防战就这样持续了好一阵子……"
+    }
+  ]
+}
