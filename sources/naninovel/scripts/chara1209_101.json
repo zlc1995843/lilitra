@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "1479bd6c",
+      "speaker": "アポロ",
+      "ja": "{G_PlayerName}さん、ラグシェ様を見ましたか？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a36337c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "a72f95bf",
+      "speaker": "アポロ",
+      "ja": "ラグシェ様にアイ様からメッセージが届いたことをお伝えするためです。システムの点検中で把握できておりませんでした",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "cba067ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ……ああ、思い出した。確か植物園に行くって言ってたな",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "2ce37f9",
+      "speaker": "アポロ",
+      "ja": "ありがとうございます。では……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "789db3a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺もちょうど植物園に行こうとしてたんだ。伝えておくよ",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "4fad103e",
+      "speaker": "アポロ",
+      "ja": "そうですか？　……では、お願いいたします",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "77f70123",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ……？　いないな……おーい、ラグシェー！　いないかーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "31ae5d5d",
+      "speaker": "ラグシェ",
+      "ja": "{G_PlayerName}しゃま！？　ここにいましゅーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "dca8193f",
+      "speaker": "",
+      "ja": "ラグシェは木々の合間から俺にわかりやすいように、ぴょんぴょんと跳ねながら手を振る。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "b94d2372",
+      "speaker": "",
+      "ja": "ラグシェらしいな、と思いながら俺も手を振りながらラグシェのもとへと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "d436295",
+      "speaker": "ラグシェ",
+      "ja": "{G_PlayerName}しゃま、どうかしたんですか？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "c7253770",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、アイからメッセージが届いたってさ",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "bf5c5138",
+      "speaker": "ラグシェ",
+      "ja": "ありがとうございましゅ！　飾り付けが終わったら連絡するでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "70af4b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "飾り付け……そういえば木に何かつけてるけど、何してるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "ff9c4edd",
+      "speaker": "",
+      "ja": "木を眺めていると、白い綿、星の形や綺麗に包装された箱、それに靴下など様々なものが気に吊るされていた。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "1b2eedcf",
+      "speaker": "",
+      "ja": "正直見ただけでは何がなんだかさっぱりわからない、それでも特に不快に思うことも無く、なんとなく楽しい気分にさせられるような気がした。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "8064ae62",
+      "speaker": "ラグシェ",
+      "ja": "サンタ一族に伝わる飾りをつけているんでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "b799071c",
+      "speaker": "ラグシェ",
+      "ja": "あ！　ルミナしゃまの許可は取ってるでしゅよ！？　勝手にしたんじゃないでしゅからね！？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "e8cd66df",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ルミナなら許可の一つや二つ出しそうだしな。でもサンタってプレゼントがどうこうってだけじゃないんだな",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "d18270fb",
+      "speaker": "ラグシェ",
+      "ja": "そうでしゅ！　プレゼントも大事ですけど、みんなで楽しくパーティーすることもありましゅ！　飾り付けが終わったらみんなでパーティーでしゅよっ！",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "7df5e4f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "パーティーか！　それはいいな！　なぁ、俺も手伝っていい？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1793c358",
+      "speaker": "ラグシェ",
+      "ja": "もちろん大歓迎でしゅ！　一緒にツリーに飾り付けするでしゅっ！",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "c62ed2b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、ラグシェ。よし！　じゃあさっそくするか！　ところでさ……この白い綿は何なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "84e7042e",
+      "speaker": "ラグシェ",
+      "ja": "それは雪をイメージしたものでしゅ。サンタ一族が住む場所は、寒くて雪がいっぱい降りましゅからね！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "82094a05",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、なるほどな。ラグシェの周りが寒い理由も、生まれた時寒かったからだっけ",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "3ff2e00e",
+      "speaker": "",
+      "ja": "そんなことをしみじみとつぶやきながら白い綿をポンと木々の葉の上に乗せていく。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "eeb2209d",
+      "speaker": "",
+      "ja": "確かに白い綿が雪に見えないこともない、そう思いながらポンポンとリズム良く白い綿でツリーを着飾っていく。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "95a4401",
+      "speaker": "ラグシェ",
+      "ja": "あ、あの～……",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "ecfbcbf9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　どうしたんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "9dd137ae",
+      "speaker": "",
+      "ja": "モジモジと上目遣いに俺を見つめるラグシェ。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "da928db3",
+      "speaker": "",
+      "ja": "その仕草が小動物のように思え、可愛らしいラグシェがより一層可愛らしく思えてくる。",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "be848d5c",
+      "speaker": "ラグシェ",
+      "ja": "た、高いところにも飾り付けしたいのでしゅが……わたち、その……ちょび～とだけ背が小しゃくて届かなくて……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "ee102a5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんくらいお安い御用だ、俺に任せとけ",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "16b9ddd8",
+      "speaker": "",
+      "ja": "ラグシェの頭を撫でながら星を受け取る。しかし頭を撫でられるのがお気に召さなかったのか、む～っとした表情で俺を見つめてくる。",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "c6abe527",
+      "speaker": "ラグシェ",
+      "ja": "子供扱いは止めるでしゅ～～っ。わたちは立派なサンタでしゅ～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "113408",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは、そうだな、ラグシェは立派な大人でサンタだな",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "87555bd1",
+      "speaker": "ラグシェ",
+      "ja": "むむむむむ～～っ！　頭ぐにぐにやめるでしゅ～っ！　これ以上背が伸びなくなってしまいましゅぅ～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "c5cc00f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、悪い悪い、じゃあ高いところは俺に任せろ。低いところはラグシェに任せるからさ",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "434a1dcf",
+      "speaker": "ラグシェ",
+      "ja": "わかったでしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "c6f7eed6",
+      "speaker": "ラグシェ",
+      "ja": "ふふふ～ん、ふふふ～ん、ふふふふ～～ふ～ん♪",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "cb87f76",
+      "speaker": "",
+      "ja": "二人で飾り付けをしていると、楽しそうな鼻歌が耳に入る。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "ad9bd503",
+      "speaker": "{G_PlayerName}",
+      "ja": "サンタがやってくるのってさ、上手く言葉にできないけど……楽しくなる？　なんかそんな感じがして、いいな",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "69e7242a",
+      "speaker": "ラグシェ",
+      "ja": "えへへへっ♪　クリスマスの楽しさ、理解してもらえてうれしいでしゅっ♪",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "923c55f6",
+      "speaker": "",
+      "ja": "ラグシェは誇らしそうに胸を張り、それも可愛く思えてくる。",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "69990a67",
+      "speaker": "{G_PlayerName}",
+      "ja": "（宇宙には本当にいろんな文化があるな……みんなそれぞれ違って……。サンタなんてラグシェに出会えなければたぶん一生知らないままだったろうし……）",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "ea4a68d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……でも、待てよ？　この飾りとかパーティーを足がかりに、サンタに侵略されちゃったりしないだろうな……？）",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "5d4819d6",
+      "speaker": "ラグシェ",
+      "ja": "{G_PlayerName}しゃま？　手が止まっているみたいでしゅが、どうかちましたか？",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "768bdf58",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そのちょっと考え事を、な……",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "f251fd70",
+      "speaker": "",
+      "ja": "何か裏があったりするのではないのか……脳裏によぎるそんな考えを振り払う。",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "cf4e393a",
+      "speaker": "",
+      "ja": "そんな不安などいざ知らず、ラグシェは楽しそうにツリーを着飾っているのであった。",
+      "zh": ""
+    }
+  ]
+}
