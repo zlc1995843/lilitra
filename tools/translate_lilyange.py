@@ -1137,11 +1137,15 @@ def main() -> int:
         source_lines = extract_lines(source_bundle)
         unknown = unknown_speakers(source_lines, name_glossary)
         unknown_pronoun_values = unknown_pronouns(source_lines, name_glossary)
-        if unknown or unknown_pronoun_values:
+        if unknown:
             pending_path = pathlib.Path(r"C:\Users\曾罗畅\Downloads\莉莉对照") / "unknown_glossary.json"
-            write_json(pending_path, {"script": script, "unknown_speakers": unknown, "unknown_pronouns": unknown_pronoun_values})
-            print(f"unknown glossary entries: {', '.join(unknown + unknown_pronoun_values)}", file=sys.stderr)
+            write_json(pending_path, {"script": script, "unknown_speakers": unknown, "unknown_pronouns": {item: "需要确认" for item in unknown_pronoun_values}})
+            print(f"unknown speaker entries: {', '.join(unknown)}", file=sys.stderr)
             return 4
+        if unknown_pronoun_values:
+            pending_path = pathlib.Path(r"C:\Users\曾罗畅\Downloads\莉莉对照") / "unknown_glossary.json"
+            write_json(pending_path, {"script": script, "unknown_speakers": [], "unknown_pronouns": {item: "不要额外处理" for item in unknown_pronoun_values}})
+            print(f"unknown pronouns recorded for DS context: {', '.join(unknown_pronoun_values)}", file=sys.stderr)
         write_json(repo_root / "sources/naninovel/scripts" / f"{script}.json", {"lines": source_lines})
         if args.no_translate:
             existing = from_review_translation(review_path) or from_existing_translation(translation_path)
