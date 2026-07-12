@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "ce5b0546",
+      "speaker": "ジラド",
+      "ja": "{G_PlayerName}！　番長であるジラド様と戦え！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "e7655567",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……？　唐突に何言い出すんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "f6420cb9",
+      "speaker": "",
+      "ja": "放課後、教室の掃除を終え帰ろうとしていた矢先、ジラドがそんなことを言い出す。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "a2595ca5",
+      "speaker": "ジラド",
+      "ja": "暇なんだよーっ！　ジラド様と腕相撲で勝負しろっ！　お前をコテンパンにしてやるからーっ！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "f18b3e0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんで俺がジラドにコテンパンにされなきゃいけないんだよ。俺何かしたか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "a8e2b20e",
+      "speaker": "ジラド",
+      "ja": "番長は学校の支配者なんだぞ？　クラスメイトをシメるのが仕事なのだ！",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "e450e9e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな仕事あってたまるか！　わかったわかった、遊んでやるから。それでいいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "ff8228e9",
+      "speaker": "ジラド",
+      "ja": "ふふん♪　初めからそー言えばいいのだ！　よし、腕相撲で勝負だ！",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "84e56c4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "人間がリリアンと腕相撲して勝てるか！　たまには頭を使う遊びとかどうだ？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "2e12fd75",
+      "speaker": "ジラド",
+      "ja": "頭……？　なんだ、頭突き勝負でもするのか？",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "5fed7f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっちの頭じゃないって！　頭脳だよ、たまには脳みそ使わないとダメだろ",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "e8ac7d6e",
+      "speaker": "ジラド",
+      "ja": "むうう……！　なんだかその言い方ムカつくぞ……！　ジラド様が普段から何も考えていないみたいじゃないか……！！",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "890a8ea1",
+      "speaker": "ジラド",
+      "ja": "授業だってちゃんと真面目に受けてるんだぞ……！！",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "b7a00b0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめんごめん、ちょっと言い過ぎた。でもたまには静かに遊ぶのもいいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "6acad60f",
+      "speaker": "ジラド",
+      "ja": "まぁ……そう、だなぁ……？　{G_PlayerName}は張り合いが無さすぎるし",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "a97d2329",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジラドが体力も腕力も有り余りすぎなんだっての。じゃあ俺の故郷でやってた三角陣取りゲームで勝負と行こうぜ",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "43cecf4b",
+      "speaker": "ジラド",
+      "ja": "三角……何？　私、そんな遊び知らないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "3ad0a737",
+      "speaker": "{G_PlayerName}",
+      "ja": "遊び方教えるよ。準備するからちょっと待ってな",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "3359cb54",
+      "speaker": "",
+      "ja": "俺はそう言いだすと、ノートを取り出して真っ白なページを開くと、適当に点を書き連ねていく。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "4d6fb1a4",
+      "speaker": "ジラド",
+      "ja": "何してるのだ？　点なんてたくさん書いて……これが遊びなのか……？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "77d22932",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、このくらいでいいだろ。ジラドはそこのペン使ってくれ",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "33281ff5",
+      "speaker": "ジラド",
+      "ja": "お、おお……。で、何をする遊びなのだ？　点をたくさん書けば勝ちなのか？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "1fe5366b",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっとな……簡潔に言うと、ジャンケンで勝った方が点と点を一本だけ結んで三角形を作る遊びなんだよ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "81fe9702",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、三角形が作れなくなったらゲームは終わり。どっちの三角形が多いか、それで勝ち負けが決まるってわけ。故郷じゃ地面と石でやってたけどな",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "8dc168e5",
+      "speaker": "ジラド",
+      "ja": "むむ……よくわからないぞ……",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "e9467a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "まずはやってみようか？　最初はジラドが線を引いてみてくれ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "ff5884a5",
+      "speaker": "ジラド",
+      "ja": "お、おお……わかったのだ。……これでいいのか？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "4c80e67f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、そんな感じで。よし、じゃあ次からジャンケンだ、じゃんけん……",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "ddab39e6",
+      "speaker": "ジラド",
+      "ja": "ぽん！　お！　やった！　ジラド様の勝ちだ！　よしよし、たしか三角形を作ればいいんだよな？　なら隣に線をもう一本……♪",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "2a5dff4f",
+      "speaker": "ジラド",
+      "ja": "ふふん♪　あと一本線を書けばジラドの三角形ができるぞ！　なんだ、簡単じゃないか♪",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "c742027e",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁそう都合よく行かないのがこのゲームの醍醐味なんだよ。よし、またジャンケンだ。じゃんけん……",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "a26d4d63",
+      "speaker": "ジラド",
+      "ja": "ぽん！　あっ！　負けてしまったのだ……！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "a1ec6192",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ俺はここに線を一本、と……。で、俺の陣地と……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "9062d52f",
+      "speaker": "",
+      "ja": "俺は出来上がった三角形を自分の陣地と表すように三角形を塗りつぶす。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "673c3623",
+      "speaker": "ジラド",
+      "ja": "あーーーっ！！　そこジラド様が書くつもりだったんだぞ！　なんでお前の物になるんだよぉっ！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "ce196238",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうゲームなんだよ。安易に三角形を書こうとするとこうなってしまうってわけ",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "7dab1a52",
+      "speaker": "ジラド",
+      "ja": "なんだよそれぇ！　ずるいぞ！　ジラド様の三角形返せっ！",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "fa1b1a39",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダメダメ、そういうルールなんだから。もうこの三角形は俺の物。欲しければ別の三角形を新しく作れ",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "e7a629e5",
+      "speaker": "ジラド",
+      "ja": "ううううう！　むかつくぅ！　絶対に三角形作ってやるのだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "98547559",
+      "speaker": "ジラド",
+      "ja": "ああーーーーっ！　またーーーっ！　なんでお前だけ三角形作れるんだよーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "57b2ba17",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジラドが安易に三角形作ろうとしすぎなんだよ。ジャンケンで負ける可能性も考慮しないと",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "9eb15efa",
+      "speaker": "ジラド",
+      "ja": "むーむーむーーーっ！　お前ズルしてるだろっ！　だからお前だけ三角形を作れるんだ！",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "66b07016",
+      "speaker": "{G_PlayerName}",
+      "ja": "してないって！　んー、ジラドには少し難しい遊びだったか？",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "7d2a2070",
+      "speaker": "ジラド",
+      "ja": "うぐぐぐ……ジラド様はまだお前と遊びたいのだ……！　しょうがない、このまま続けてもいいぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "24272617",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ続けるぞ？　じゃーんけーん……",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "fffdc575",
+      "speaker": "ジラド",
+      "ja": "ぽん！　やった！　ジラド様の勝ちーっ！　よーし、見てろよー……今度こそ三角形作ってやるのだ……！",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "2c8683e6",
+      "speaker": "ジラド",
+      "ja": "うううううう！！　もう三角形作れないーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "573e9bee",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ俺の勝ちだな",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "b6636cf5",
+      "speaker": "ジラド",
+      "ja": "なんでなんだよぉっ！　さては裏技だなーっ！",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "d5df310e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなのないって。それにこのゲーム、俺結構子どもとやってたからな……",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "63c50442",
+      "speaker": "ジラド",
+      "ja": "なんだとっ！？　得意なゲームなんてずるいのだ！",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "f9171c72",
+      "speaker": "ジラド",
+      "ja": "それなら次はジラド様の得意な遊びで勝負だ！　待ってろ、今考えてくるからーっ！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "18b0441b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ！　おい、ジラド！？　い、行ってしまった……",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "45107e12",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジラドの得意なゲームってなんだろ……？　なんかヘンな遊びとかされなきゃいいんだが……",
+      "zh": ""
+    }
+  ]
+}
