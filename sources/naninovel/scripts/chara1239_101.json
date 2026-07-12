@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "30a097ff",
+      "speaker": "",
+      "ja": "宇宙船のラウンジを通りかかったヒナタは、たまたま{G_PlayerName}を見かけた。",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "a7efe8ed",
+      "speaker": "ヒナタ",
+      "ja": "あっ、兄さま……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "415523cf",
+      "speaker": "",
+      "ja": "声をかけようとした時、{G_PlayerName}と一緒にいるカシミアが頭を撫でて貰っているのを目撃してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "ea341966",
+      "speaker": "",
+      "ja": "カシミアも{G_PlayerName}にすごく甘えているようで、それを目の当たりにしたヒナタの中にもやっとした感情がわき上がってきた。",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "dabe3af2",
+      "speaker": "ヒナタ",
+      "ja": "に、兄さま……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "c1001d23",
+      "speaker": "",
+      "ja": "言葉では説明出来ないもやもやとした感情は大きくなる一方ですごく気持ち悪くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "8e3664b6",
+      "speaker": "",
+      "ja": "でもその感情が何なのか、どうしたらよいのかわからずに、ヒナタはどうしてよいか悩んでしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "79a767e0",
+      "speaker": "ヒナタ",
+      "ja": "これは何なんだろ……わたし、どうしたらいいの……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "fbcca6c1",
+      "speaker": "",
+      "ja": "色々と考えた結果ヒナタが至った結論は……",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "7390a081",
+      "speaker": "ヒナタ",
+      "ja": "兄さまに聞いてみようかな！　そのほうが早いよね！　うんうん",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "d4d9b469",
+      "speaker": "",
+      "ja": "自分に言い聞かせるようにそんな独り言を言って、ヒナタは{G_PlayerName}の部屋へと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "7fdf7745",
+      "speaker": "ヒナタ",
+      "ja": "兄さま！　い、今ちょっといいですかっ！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "2c786210",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　ど、どうしたんだ、ヒナタ",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "8e4b86dc",
+      "speaker": "",
+      "ja": "思い詰めた顔で部屋に入ってきたヒナタを見て{G_PlayerName}は心配そうに声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "38697e6",
+      "speaker": "ヒナタ",
+      "ja": "実は……兄さまに聞きたいことがあって……",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "c3f9a524",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだ？　俺で良ければ話を聞くぞ",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "d695ea15",
+      "speaker": "ヒナタ",
+      "ja": "兄さま……",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "6da8016d",
+      "speaker": "",
+      "ja": "ヒナタはこれまでの経緯を全て{G_PlayerName}へと語った。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "bfcd4cad",
+      "speaker": "",
+      "ja": "それを聞いた{G_PlayerName}は……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "8e226750",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そ、それって……もしかして嫉妬では……？）",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "f291ea77",
+      "speaker": "",
+      "ja": "ヒナタが嫉妬心を抱いてくれているということは{G_PlayerName}に気があるということになるので、内心ドキドキしてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "9bb4b36f",
+      "speaker": "",
+      "ja": "しかしそれに気づいていないヒナタは真剣な顔で{G_PlayerName}に聞いてくる。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "9de0fbb3",
+      "speaker": "ヒナタ",
+      "ja": "兄さま……どうしたらいいんでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "b6a88318",
+      "speaker": "{G_PlayerName}",
+      "ja": "う～ん……そうだなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "ad7ca3fb",
+      "speaker": "",
+      "ja": "{G_PlayerName}はどう対応するのが良いのかかなり悩んでしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "4df0e9",
+      "speaker": "",
+      "ja": "するとヒナタは何か思いついたような表情を浮かべ不意に{G_PlayerName}へお願いしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "440d33a7",
+      "speaker": "ヒナタ",
+      "ja": "あっ、あのっ！　私も兄さまに頭を撫でてもらえないでしょうか！",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "a7028613",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　あ、頭を撫でるのか？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "71dd9344",
+      "speaker": "ヒナタ",
+      "ja": "はいっ！　兄さまに頭を撫でて貰えたら何かわかるかもしれないので！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "98fb12c9",
+      "speaker": "",
+      "ja": "赤面しながら目を輝かせてそう訴えてくるヒナタを見て{G_PlayerName}は驚きつつも少し微笑ましく思った。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "3e197244",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……ヒナタの頼みなら……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "e4031d71",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう言うとヒナタの頭を優しく撫でてあげる。",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "adc5546b",
+      "speaker": "ヒナタ",
+      "ja": "（わぁぁ♥　兄さまの手、大きい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "4baf11dd",
+      "speaker": "",
+      "ja": "頭を撫でられたヒナタは更に顔を赤らめ、改めて{G_PlayerName}が男の人なんだと強く意識して黙り込んでしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "1f9dbcf9",
+      "speaker": "",
+      "ja": "そんなヒナタのリアクションが少女らしくて可愛いなと思った{G_PlayerName}は更にドキドキしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "29deb8ae",
+      "speaker": "ヒナタ",
+      "ja": "に、兄さま……♥　もっと頭をなでなでしてください♥",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "9df78f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……いいぞ",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "73b58aee",
+      "speaker": "",
+      "ja": "そのまま{G_PlayerName}はヒナタの頭を撫でながら思った。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "1e5d26e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（悩みの相談はもういいのか？）",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "b8203637",
+      "speaker": "",
+      "ja": "しかしすっかりご機嫌で嬉しそうにしているヒナタの可愛らしい姿に{G_PlayerName}はホッコリしながら笑みを浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "fd72f9ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……まあ、いいか！）",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "5338b540",
+      "speaker": "ヒナタ",
+      "ja": "えへへっ♥　兄さま♥",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "14143af3",
+      "speaker": "",
+      "ja": "今日は存分に甘えさせようと思い納得するまでヒナタの頭を撫で続ける{G_PlayerName}だった。",
+      "zh": ""
+    }
+  ]
+}
