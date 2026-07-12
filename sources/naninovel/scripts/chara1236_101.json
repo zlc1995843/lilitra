@@ -1,0 +1,436 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "423454e9",
+      "speaker": "ムルムル",
+      "ja": "なんだろう？　これは……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "b7ef8e3",
+      "speaker": "",
+      "ja": "{G_PlayerName}と一緒に植物園に来たムルムルは、設置された前後に揺れるブランコに興味を示す。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "8e5d4e52",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはブランコって言う遊具だよ、乗ってみるかい？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "95e37e87",
+      "speaker": "",
+      "ja": "{G_PlayerName}の提案にムルムルはブランコをジッと見つめながら考え込んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "5528108b",
+      "speaker": "ムルムル",
+      "ja": "ん～～～～～……揺れるの、少し怖いかも……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "8000a1ed",
+      "speaker": "",
+      "ja": "自分で浮かべるムルムルとしては、ブランコに身を任せて揺らされることに少し不安を感じている。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "827238e2",
+      "speaker": "",
+      "ja": "それを見て{G_PlayerName}は優しい笑みを浮かべながら言った。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "b785405d",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ無理しなくていいぞ",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "54e7492a",
+      "speaker": "ムルムル",
+      "ja": "むぅぅ～～～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "6462d10",
+      "speaker": "",
+      "ja": "優しさから言った{G_PlayerName}の言葉を馬鹿にされたと感じたのか、ムルムルは口を尖らせる。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "2fc3da",
+      "speaker": "",
+      "ja": "でもその視線はずっとブランコに向けられていた。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "2710fc31",
+      "speaker": "",
+      "ja": "明らかに乗りたそうにしているのがハッキリとその視線に表れている。",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "3ba7ff41",
+      "speaker": "",
+      "ja": "それを察した{G_PlayerName}はムルムルに提案をした。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "9e89fba",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、それじゃあ俺がちゃんと支えておいてやるから安心して乗ってみな",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8a04f3d1",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の心遣いにムルムルは素直に甘えることにする。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "2bd63078",
+      "speaker": "ムルムル",
+      "ja": "……わかった……契約者のこと……信じてるから",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "156af801",
+      "speaker": "",
+      "ja": "そう言うとムルムルは少しワクワクしながらブランコに腰を下ろした。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "4dd0fd4f",
+      "speaker": "",
+      "ja": "同時に{G_PlayerName}が背後に回りその背中をしっかりと支える。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "370a1054",
+      "speaker": "",
+      "ja": "するとムルムルは少し照れた感じで小声で呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "9d453185",
+      "speaker": "ムルムル",
+      "ja": "あ、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "7fbc2659",
+      "speaker": "",
+      "ja": "素直にお礼を言うムルムルに{G_PlayerName}は思わずドキッとしてしまいつつも、ゆっくりとブランコを前後に揺らし始める。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "34c4ff44",
+      "speaker": "ムルムル",
+      "ja": "わあっ……ちょっと速いよっ！？",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "6c5d43d9",
+      "speaker": "",
+      "ja": "そんなに早く動かしてはいないのだが、初めてのブランコなのでムルムルの体感的にはかなり速く思えているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "f420a90c",
+      "speaker": "",
+      "ja": "そんなムルムルの耳元で{G_PlayerName}が優しく囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "a78b99b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、大丈夫だろ？",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "517b22e1",
+      "speaker": "",
+      "ja": "その言葉で落ち着きを取り戻したムルムルはブランコに揺られ心地よい風を感じている。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "fcd32d04",
+      "speaker": "",
+      "ja": "そしてブランコに揺られる感覚がどんどん楽しくなって表情がほころんでいった。",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "3058d6d6",
+      "speaker": "ムルムル",
+      "ja": "……うん♪　意外と……楽しいかも♪",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "4b622e35",
+      "speaker": "",
+      "ja": "喜んでいるムルムルを見て{G_PlayerName}はホッと胸を撫で下ろす。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "b43651f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（楽しそうにしてくれている……良かった。）",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "8a7175cb",
+      "speaker": "",
+      "ja": "水色の瞳をまるで子供のようにキラキラさせているムルムルの顔を見て、{G_PlayerName}は何より嬉しさを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "25233291",
+      "speaker": "ムルムル",
+      "ja": "うん♪　もう満足したから……そろそろ降りるよ",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "fad68707",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか？　それじゃあブランコを止めるよ",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "fda7412",
+      "speaker": "",
+      "ja": "すっかり満足したムルムルは止まったブランコから降りようとする。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "f65bff86",
+      "speaker": "",
+      "ja": "しかし初めて乗ったブランコの感覚が残っていた彼女は、バランス感覚が狂ったようでつまづきよろけてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "2c811bfa",
+      "speaker": "ムルムル",
+      "ja": "あっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "6462b85",
+      "speaker": "{G_PlayerName}",
+      "ja": "危ないっ！！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "8087518b",
+      "speaker": "",
+      "ja": "転びそうになったムルムルを{G_PlayerName}は慌てて回り込んで抱きとめる。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "6bf512fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か？！",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "fc2deaaa",
+      "speaker": "ムルムル",
+      "ja": "う、うん……大丈夫……あ、ありがとう……♥",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "33a4a49",
+      "speaker": "",
+      "ja": "{G_PlayerName}に抱きとめられたムルムルは少し恥ずかしそうにそう呟いて密着していた体を離した。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "6e22b31d",
+      "speaker": "",
+      "ja": "思わず抱き留めてしまった{G_PlayerName}の方も、かなり照れたのか誤魔化すような言葉を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "439d663e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おまえ……楽しくなって油断してただろ？",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "461223bf",
+      "speaker": "",
+      "ja": "照れ隠しで{G_PlayerName}がからかうと、ムルムルは顔を赤くして目を逸らし小さな声で呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "a7918b95",
+      "speaker": "ムルムル",
+      "ja": "……だ、だって……きみが支えてくれるって思っていたから",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "fdd93b6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ムルムル……",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "1c41abb1",
+      "speaker": "",
+      "ja": "自分のことを信頼してくれていると身をもって知った{G_PlayerName}は感無量になる。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "6c874413",
+      "speaker": "",
+      "ja": "そして普段は優秀なメイドさんだが、こうして素直な反応を自分に見せてくれる程にムルムルと仲良くなれたことを嬉しく思う{G_PlayerName}だった。",
+      "zh": ""
+    }
+  ]
+}
