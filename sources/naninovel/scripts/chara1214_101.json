@@ -1,0 +1,220 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "2e007133",
+      "speaker": "",
+      "ja": "{G_PlayerName}はゴージャスベイの海辺に遊びにきていた。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "b5f41f5e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラギオラ、飲み物もらってきたよ",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "62213dfb",
+      "speaker": "ラギオラ",
+      "ja": "ああ、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "52f4ca55",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あまり楽しくないか？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "28ebfe22",
+      "speaker": "ラギオラ",
+      "ja": "そんなことない……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "67fa78bf",
+      "speaker": "",
+      "ja": "そう言いつつもラギオラは妙な緊張感を出している。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "55793287",
+      "speaker": "ラギオラ",
+      "ja": "見慣れぬ場所に心躍っているのは事実だ。しかし、普段長として気を張ってばかりで、このような時どうすればよいか……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "138dfe56",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……じゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "b8e49d42",
+      "speaker": "ラギオラ",
+      "ja": "えっ？　な、なんだ、手を握って……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "4a9a785b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あそこのビーチチェアに寝転がってみないか？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "354c6f14",
+      "speaker": "",
+      "ja": "手を引かれるままビーチチェアに連れてこられたラギオラは{G_PlayerName}に促されるままにそこに寝転がってみる。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "66ae97ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "飲み物はここに置いておくから、好きに飲んでくれ",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "3d7758c",
+      "speaker": "",
+      "ja": "そう言いつつ{G_PlayerName}はビーチパラソルの角度を調整した。",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "697d32a2",
+      "speaker": "ラギオラ",
+      "ja": "ああ……ありがとう",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "4a8c836e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのまま目を閉じてみるんだ",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "79a199b3",
+      "speaker": "ラギオラ",
+      "ja": "目を閉じる……うん……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "1143f3e9",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉に従って目を閉じたラギオラは風と音が彼女の全身を包み込む。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "d1a5f456",
+      "speaker": "ラギオラ",
+      "ja": "（この感じ……なんだ……心地いい……。）",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "b139b0ee",
+      "speaker": "",
+      "ja": "海からの潮風はラギオラにとって馴染みがないもので、波の音が新鮮に感じられた。",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "5a9a2f8c",
+      "speaker": "ラギオラ",
+      "ja": "なるほど……よく力を抜け、と言われることがあったが……こういう時間を取ることを言うのだな",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "dd9edabc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだろうな……たまには族長じゃなくてただのラギオラになってもいいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "54659f82",
+      "speaker": "ラギオラ",
+      "ja": "なら後でアイスとやらを食べてみたいな。……もう少しこのまま休んだ後でいいか？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "875f4a24",
+      "speaker": "{G_PlayerName}",
+      "ja": "もちろん！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "109fb988",
+      "speaker": "",
+      "ja": "その後{G_PlayerName}とラギオラはゆったりとした時間を過ごし、二人で仲良くアイスを食べたのだった。",
+      "zh": ""
+    }
+  ]
+}
