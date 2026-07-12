@@ -1,0 +1,967 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "306d4e9b",
+      "speaker": "",
+      "ja": "自室のベットの上で雑誌を読んでいた{G_PlayerName}だが、集中できずにぱさりと顔に雑誌を被ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "ade017fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれから、アイ来ないな……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "e74c973f",
+      "speaker": "",
+      "ja": "アイと性的な触れ合いをしてから一か月ほど、アイはラグシェと共に宇宙へと飛び去ったきりであった。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "d27d3710",
+      "speaker": "{G_PlayerName}",
+      "ja": "(……あれ、からかわれてたのかな。俺のこと好きって、いきなりだったし……)",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "333f1842",
+      "speaker": "",
+      "ja": "アイの振る舞いは俗にいう『メスガキ』じみたもので、あの熱っぽい言葉も、好きだという漏れ出た単語も大人をからかうものだったのかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "9228b7bb",
+      "speaker": "",
+      "ja": "あんなにかわいいリリアンの少女が自分に懸想するなんて、思い上がりも甚だしかったのかも。オモチャとして遊ばれただけだ。",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "fdbdf8c4",
+      "speaker": "",
+      "ja": "そう自分に言い聞かせても、心の奥底はアイはそんな子じゃないと信じたくなっている自分がいることがみじめだった。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "9be431be",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f3d8c224",
+      "speaker": "アイ",
+      "ja": "でっかいため息、どうかしたのー？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "61ead5e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、わぁっ！？　アイ！？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ac2ad469",
+      "speaker": "アイ",
+      "ja": "えへへー、こないだぶりー♥",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "313e9471",
+      "speaker": "",
+      "ja": "雑誌を慌てて跳ねのけると、そこには今会いたいようで会いたくないアイがいた。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "9a402c1e",
+      "speaker": "アイ",
+      "ja": "ノックしても返事ないから入っちゃった♪",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "337a763c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そういう時は、入らないのが普通なんだぞ",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "c6e1b67c",
+      "speaker": "アイ",
+      "ja": "まぁまぁ、アイとおにーさんの仲じゃーん！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "dcf0b8e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "急にどうしてここに来たんだ？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "c47c3c16",
+      "speaker": "アイ",
+      "ja": "ん？　ラグシェがまた遊びに来たいって言ったから、お仕事中だけど休み作ってきたんだよー？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "d2746b16",
+      "speaker": "アイ",
+      "ja": "てかさ～、おにーさんなんか機嫌悪い？",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "e04d9ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に……ただ久しぶりだなって",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "38507572",
+      "speaker": "",
+      "ja": "アイはけろっとしており、あんな行為があったことも、しばらく離れていたことも感じさせない振る舞いで{G_PlayerName}は面白くない気持ちだった。",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "d22acfef",
+      "speaker": "アイ",
+      "ja": "えー？　うそだー、ちょっと機嫌悪いよー。ほら、眉間にシワ♪",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "564e548a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "4158d5bd",
+      "speaker": "",
+      "ja": "アイは気にせずきゃらきゃら笑いながら、寝ている{G_PlayerName}に馬乗りになって上から眉間をくるくると弄ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "8f751fba",
+      "speaker": "{G_PlayerName}",
+      "ja": "(……こいつ、前からこんな格好だったか？　動くたびパンツ見えてるし……)",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "9c5c87e8",
+      "speaker": "アイ",
+      "ja": "んー？",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "a9dccebb",
+      "speaker": "{G_PlayerName}",
+      "ja": "(ていうか乳首立ってないか！？　こんな格好で他の奴の前にいたのかよっ)",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "f31e1445",
+      "speaker": "",
+      "ja": "アイの扇情的な恰好もそういう文化なんだろうと他のリリアンのように流していたはずなのに、今になってやたらと目についてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "aedb9d09",
+      "speaker": "アイ",
+      "ja": "ねぇ～、変態さーん？♥　なーにじろじろ見てるのかなー？♥",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "fa66a61f",
+      "speaker": "アイ",
+      "ja": "あは♥　ひょっとして前回のおぱんつしこしこ思い出しちゃった？♥",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "d90392c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうだけど",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "404636c4",
+      "speaker": "アイ",
+      "ja": "えっ！？　ほ、ほんと？　じゃあ、今おちんちん……ひゃっ、おおきくなってるっ！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "79297f1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それはアイが……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "3ce52d5e",
+      "speaker": "アイ",
+      "ja": "うぅ～～♥♥　これ、ほんと？♥　おにーさん、アイのこと意識してるの？♥♥",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "be779950",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ、アイの方から俺のこと……好きって言ってきたんじゃんか",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "da2c496c",
+      "speaker": "アイ",
+      "ja": "うんっ♥　言ったぁ♥　言ったよー♥　えっと……こういうときは……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "1920b32c",
+      "speaker": "",
+      "ja": "何故か嬉しそうにしているアイを不思議に思うも、アイは一生懸命何かを考え込んだ後に妙案が思いついたように声を弾ませる。",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "fea43cd",
+      "speaker": "アイ",
+      "ja": "あっ！　そうだ！　ねぇー大人の男の人がリリアンにおちんぽビキビキしちゃったら、どうするのかなー？♥　あんっ♥　あっ♥　アイ分かんないなぁー？♥",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "7004025",
+      "speaker": "",
+      "ja": "そうくすくす笑いながらくねくねと{G_PlayerName}の股間に自身の股間を擦り付け、甘い声を出す。",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "3f0131df",
+      "speaker": "{G_PlayerName}",
+      "ja": "っっ！！　アイ！！",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "3d1744f",
+      "speaker": "アイ",
+      "ja": "ひゃあんっ♥　もうっ、おにーさん、がっつきすぎぃ♥",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "c128b535",
+      "speaker": "",
+      "ja": "アイの服を剥いて、ベッドに押し倒すと少女特有の体の柔らかさからか足はアイの顔元まで上がってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "6e7ec7e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅ、ふぅっ、お前が煽るから……！　逃げるなら今の内だからな……！",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "d7e8e900",
+      "speaker": "アイ",
+      "ja": "あは♥　分かっちゃった？♥　だってぇ、おにーさんかわいすぎだもん♥",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "22272c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "またそうやって……！　大人の男にリリアンが好きとかいうとこういうことになるんだぞ！",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "669bb87e",
+      "speaker": "アイ",
+      "ja": "うん♥　して♥　おにーさんにシてほしかったの♥　生意気なガキまんこ、懲らしめてー？♥　……なんちゃって？",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "1ada4d37",
+      "speaker": "{G_PlayerName}",
+      "ja": "(思ってた反応と違う……！？)",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "5ded652f",
+      "speaker": "アイ",
+      "ja": "でも、ちょっと驚いたっていうか、おにーさんオスみが出すぎじゃない……？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "118e4956",
+      "speaker": "",
+      "ja": "いつもの飄々としたアイが照れているような焦っている様子に、ムラつきがとまらずつい{G_PlayerName}も気持ちを口走ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "42457bfa",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイ、おまんこピッチリ閉じてて……かわいいな",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "703e82d8",
+      "speaker": "アイ",
+      "ja": "えっ、ちょっとやだ！　そういうガチ変態さんなのはやめれる？",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "77722805",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺のこと好きなんじゃないのか！？",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "e9eba2d2",
+      "speaker": "アイ",
+      "ja": "好きだけど！　ちょっと今のおにーさん怖いっていうかぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "663ceae",
+      "speaker": "アイ",
+      "ja": "きゃんっ！　ちょ、最初からはげしすぎっ、あっ、もっ、もっとゆっくりっ！",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "34def51a",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイっ！　俺も好きだっ！",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "407412a5",
+      "speaker": "アイ",
+      "ja": "んひゃうっ♥　今、そんなん言われたらおまんこ締まっちゃうからぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "d97b0f41",
+      "speaker": "アイ",
+      "ja": "あっ♥　狭いおまんこに、太いおちんちん無理やり入ってきてるぅっ♥　ずこずこってされて、おっ♥　感じてるぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "916b622e",
+      "speaker": "",
+      "ja": "アイは健気にまんぐり返しの体勢の中、{G_PlayerName}の動きに合わせて腰を揺らしていた。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "93ad4c80",
+      "speaker": "",
+      "ja": "しかし{G_PlayerName}はそれさえもしなくていいと示すようにアイのおまんこの奥深くにまで陰茎を潜り込ませ、アイの動きを封じてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "2b39ca72",
+      "speaker": "アイ",
+      "ja": "あっ、あんっ♥　おまんこ、きついぃっ♥　そんな奥までされたらっ♥　子宮ひらいちゃうううっ♥",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "cbddf608",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、気持ち良すぎるっ、アイっ、アイっ……！",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "fc47271a",
+      "speaker": "アイ",
+      "ja": "あうっ♥　名前呼ぶの今だめぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "11525250",
+      "speaker": "アイ",
+      "ja": "おちんちん、長すぎ……っ♥　あっ、無理っこれイくっ♥　おにーさんにイかされるっ…！♥",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "647b5675",
+      "speaker": "{G_PlayerName}",
+      "ja": "イっていいからなっ、いつでも気持ち良くなってくれっ！",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "f91ae67",
+      "speaker": "",
+      "ja": "{G_PlayerName}はアイに言われて嬉しかったことをお返しのように言いながらアイの頬を優しく撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "8c233233",
+      "speaker": "",
+      "ja": "それだけでアイのおまんこはぎゅうぎゅうと目の前の想い人を締め付け、離すまいとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "a798d49",
+      "speaker": "アイ",
+      "ja": "そんな優しいこと言われたらぁっ♥　あっ♥　イっちゃうっ♥　無理、イくっ♥　おまんこ幸せでイくぅうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "378ee065",
+      "speaker": "アイ",
+      "ja": "あ～～っ♥　もうだめっ♥　おにーさんすきっ♥　すきすきすきっ……♥　んくぅうっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "423b0f2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もっ、イっくぅ……！　ぐぅうっ……！",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "d75ab6fd",
+      "speaker": "アイ",
+      "ja": "あぁああんっ！♥　深ぁっ♥　あっ、好きな人のおちんちんすごぉいっ♥　イくっ♥　ずっとイくぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "ffb2f83d",
+      "speaker": "",
+      "ja": "主人公は最奥に射精しきるため、ぐりぐりと陰茎を子宮口に押し付ける。",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "be30ce81",
+      "speaker": "",
+      "ja": "すると狭すぎる少女の膣からこぷりと精液があふれてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "736cf41d",
+      "speaker": "アイ",
+      "ja": "うぁ～～～……♥　はぁー♥　はぁーっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "275492d5",
+      "speaker": "アイ",
+      "ja": "精子、もったいない……♥　大好きなおにーさんの精子……♥",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "c24a1899",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイ、本当にかわいいな……、もう離したくない……俺も好きだ……",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "60d3466f",
+      "speaker": "アイ",
+      "ja": "ちょっ、だめぇ♥　幸せ過ぎて、あたしまたイっちゃうからぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "e3ad962a",
+      "speaker": "アイ",
+      "ja": "じゃあ～、キスしよ♥　ん～～♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "f1a257d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん、ちゅ、ぢゅうっ",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "f3d734a5",
+      "speaker": "アイ",
+      "ja": "んぢゅううっ♥　んれぇ♥　れろれろっ♥",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "23cd0b25",
+      "speaker": "",
+      "ja": "アイは思いが通じたことと、存分にイチャつけることを幸せに思っていたが、キスを続けるうちに下半身に違和感を覚え始める。",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "ad6df04d",
+      "speaker": "アイ",
+      "ja": "んぢゅうっ、あむっ♥　んん……っ♥　ぷはっ♥　えっ、待って……おにーさん、おちんちんまた大きくなってない？",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "1607071c",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイ……ごめん、もう一回いいか？",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "67445248",
+      "speaker": "アイ",
+      "ja": "え……？　あ、えっと、いいよ……♥　でも、一回イってて敏感だから、優しくしてね……？",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "6b16adc6",
+      "speaker": "",
+      "ja": "しかしたまらなくなった{G_PlayerName}の腰使いは優しさとはかけ離れたものになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "acc55fbc",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイ、アイっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "f0e80876",
+      "speaker": "アイ",
+      "ja": "んおおおっ！？♥　ちょっ、おにーさんっ！　やさしくっ！♥　おっ！♥　やさしくっていったのにぃっ！",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "6c5dc262",
+      "speaker": "",
+      "ja": "ばちゅばちゅと肉のぶつかるいやらしい音を部屋に響かせながら、獣のような吐息を吐きながらひたすらにアイを貪る。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "c1420d14",
+      "speaker": "",
+      "ja": "アイは表情を取り繕う余裕もなくなり、ひたすら声をなんとか耐えようとする。",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "b730c024",
+      "speaker": "アイ",
+      "ja": "おっ♥　おぅっ♥　おっ、おお゛っ♥　だめだめだめぇっ♥　おまんこ分からせないでぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "2beab1e9",
+      "speaker": "アイ",
+      "ja": "初めてのセックスでぇっ、受精しちゃうからぁっ♥　ラブラブセックスじゃなくて、本気交尾になっちゃうからぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "754d702a",
+      "speaker": "{G_PlayerName}",
+      "ja": "フーッ！　フッ、フッ、フゥウウッ！！",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "fa72552c",
+      "speaker": "アイ",
+      "ja": "きゃひぃっ♥　おちんちんだめぇっ♥　大人ちんぽとめてぇっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "63438066",
+      "speaker": "アイ",
+      "ja": "リリアンなのに大人になっちゃうっ♥　ママになっちゃうよぉっ♥",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "d2fc580c",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイッ、アイッ……！　ごめん、もう出るっ！",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "fc0db711",
+      "speaker": "アイ",
+      "ja": "はやくイってっ！♥　アイ壊れちゃうっ！♥　もうイぐっ！♥　あっ、イっでるからぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "b70e4d17",
+      "speaker": "アイ",
+      "ja": "ちんぽとめてっ♥　もうイぐのだめっ♥　おっ♥おほっっ♥　おんっ♥　お゛っ～～！♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "658bd3dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "出る出る出るっ……アイの中に出すぞっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "a6fea7c0",
+      "speaker": "アイ",
+      "ja": "ほぉおおおお～～～っ♥♥　ガチヤバイキぐるぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "29005cf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ、アイっ、気持ちいいよアイ……っ",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "7cf9634e",
+      "speaker": "アイ",
+      "ja": "イぐぅううっ！♥　ふぅううっ♥　ううううぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "ad490a32",
+      "speaker": "",
+      "ja": "射精の快感にとろんと幸福感に浸っている{G_PlayerName}と対照的に、アイはガクガクと全身を痙攣させながら強すぎる快感に仰け反っていた。",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "6dff5b3d",
+      "speaker": "アイ",
+      "ja": "イっでる♥　おにーさんのせーしでイっでるよぉおおっ♥　おっ、おぉおっ♥　イくのとまんにゃいいいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "1f8358f",
+      "speaker": "アイ",
+      "ja": "おにーさんだいすきっ♥　アイのことお嫁さんにしてぇっ♥　赤ちゃん産むからぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "859755aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、アイ、一生一緒にいよう……くぅっ、まだ出るっ",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "acf6a677",
+      "speaker": "アイ",
+      "ja": "はへっ♥　へっ♥　もう、だめぇ♥　本気で、おまんこおかしくなるぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "c2e380b2",
+      "speaker": "",
+      "ja": "この日を境にアイからの煽りは、お誘いに変わった。",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "9c02c06",
+      "speaker": "",
+      "ja": "しかしあまりにもおちんちんで誰が彼氏なのか分からせてしまったせいか、ひっきりなしに誘われるようになり",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "51078fb4",
+      "speaker": "",
+      "ja": "思いが通じて互いに幸せではあるものの、しばらくは下半身の休む間もなかった{G_PlayerName}なのであった。",
+      "zh": ""
+    }
+  ]
+}
