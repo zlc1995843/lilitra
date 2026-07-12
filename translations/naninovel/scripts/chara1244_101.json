@@ -1,0 +1,256 @@
+{
+  "lines": [
+    {
+      "key": "10.1",
+      "line_index": 10,
+      "inline_index": 1,
+      "line_hash": "a75fcf0e",
+      "speaker": "セラ",
+      "ja": "周辺のパトロール！　完了しました！",
+      "zh": "周边巡逻完毕！"
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "cd06467d",
+      "speaker": "",
+      "ja": "敬礼しながらセラは{G_PlayerName}に報告する。",
+      "zh": "塞拉一边敬礼，一边向{G_PlayerName}报告。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "ab8adc3e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お疲れ様、相変わらずセラはがんばりやさんだな",
+      "zh": "辛苦啦，塞拉还是这么勤快呢。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "d2f12960",
+      "speaker": "",
+      "ja": "労をねぎらいつつ{G_PlayerName}が褒めるとセラは嬉しそうな表情を浮かべた。",
+      "zh": "{G_PlayerName}这么一夸，塞拉露出了开心的表情。"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "af01200b",
+      "speaker": "セラ",
+      "ja": "いえいえ！　パトロールはセラのお仕事ですから！　もっとも～っとがんばっちゃいますよ♪",
+      "zh": "不不不！巡逻是塞拉的职责嘛！我会更更加油啦♪"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "341210d7",
+      "speaker": "セラ",
+      "ja": "みなさんに危険が及んではいけませんからっ！",
+      "zh": "绝不能让各位遇到危险啊！"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "3e551b13",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても……頑張る姿を見てると出会った時のことを思い出すなぁ……",
+      "zh": "不过……看到你这么努力，我就想起刚遇见你的时候……"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2e2ae25a",
+      "speaker": "セラ",
+      "ja": "……えっ？",
+      "zh": "……咦？"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "427bb06d",
+      "speaker": "{G_PlayerName}",
+      "ja": "警察って、衛兵みたいな職業なんだろ？　まさかそんな人が遭難しているとは……",
+      "zh": "警察不就是像卫兵一样的职业吗？真没想到那样的人竟然会遇险……"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "3f535312",
+      "speaker": "セラ",
+      "ja": "あわわっ！　そ、その節はご迷惑をおかけしました……っ",
+      "zh": "哇哇！那、那次真是给您添麻烦了……"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "f9c73cab",
+      "speaker": "セラ",
+      "ja": "で、でも……そのおかげで機械士さんたちと出会うことができましたから！",
+      "zh": "但是……多亏了那次，我才能遇到机械士们啊！"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "e31cdb0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははっ、確かにその通りかもな……",
+      "zh": "哈哈，这么说倒也没错……"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "782348dd",
+      "speaker": "セラ",
+      "ja": "そうですっ！　だから遭難しちゃったのも無駄じゃなかったんですっ！",
+      "zh": "对呀！所以那次遇险也不是白费的！"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "273c32a",
+      "speaker": "セラ",
+      "ja": "宇宙の平和を守るために必要なことだったんです……きっと……たぶん……お、おそらく……",
+      "zh": "那一定是为了守护宇宙的和平所必须的经历……一定……大概……或、或许……"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "1fe3c7cc",
+      "speaker": "",
+      "ja": "最初は元気だったセラだが、話しているうちに自信がなくなってきたようで声が小さくなっていった。論理の飛躍を自覚しているようだ。",
+      "zh": "塞拉一开始还很有精神，但说着说着声音就变小了，似乎意识到自己的逻辑有点跳跃。"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "4a55388d",
+      "speaker": "セラ",
+      "ja": "（やっぱり……セラの運転が悪かったのでは……？）",
+      "zh": "（果然……是塞拉开车技术太差了吗……？）"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "5f98f15f",
+      "speaker": "",
+      "ja": "表情がみるみる落ち込んでいくセラを見て、{G_PlayerName}は話題を変えることにした。",
+      "zh": "看到塞拉的表情越来越沮丧，{G_PlayerName}便换了个话题。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "aab5367b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ところで……何でセラは『宇宙の平和』を守りたいんだ？",
+      "zh": "话说回来……塞拉为什么想要守护“宇宙的和平”呢？"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "545406e9",
+      "speaker": "",
+      "ja": "いつもひたむきに宇宙の平和を守ると言っているセラのルーツがどこにあるのか知りたくなってそうたずねる。",
+      "zh": "因为想了解总是把守护宇宙和平挂在嘴边的塞拉，这种想法的根源是什么，于是这样问道。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "16971668",
+      "speaker": "",
+      "ja": "そんな問いかけにセラは、そんなの当たり前とでも言いたげな表情でキッパリと答えた。",
+      "zh": "面对这个问题，塞拉露出理所当然的表情，干脆地回答道。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "b0f46ab0",
+      "speaker": "セラ",
+      "ja": "だって……こんなに素晴らしい出会いに満ちている宇宙が、ずっとずーっと続いて欲しいって思いませんか？",
+      "zh": "可是……你不觉得，这个满载着美妙邂逅的宇宙，真希望能一直一直延续下去吗？"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "9b930189",
+      "speaker": "",
+      "ja": "真っ直ぐなセラの瞳に、{G_PlayerName}はドギマギしてしまい、一瞬反応が遅れてしまう。",
+      "zh": "在塞拉直率的眼神注视下，{G_PlayerName}有些惊慌失措，反应慢了一拍。"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "667042f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……ずっと続いていけばいいな",
+      "zh": "是啊……要是能一直继续下去就好了。"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "d5c38d6b",
+      "speaker": "セラ",
+      "ja": "そうですよね！　機械士さんも同じ意見ですよね！",
+      "zh": "对吧！机械士先生也是这么想的吧！"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "e9a6249",
+      "speaker": "セラ",
+      "ja": "これからもセラがこの宇宙の平和を守っていきます！　安心して下さい！",
+      "zh": "从今以后，我塞拉也会守护这个宇宙的和平！请尽管放心！"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "95b19ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん……これからもよろしく頼むよ",
+      "zh": "嗯……以后也拜托你了。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "9cddc547",
+      "speaker": "セラ",
+      "ja": "はい！　このセラに任せて下さい、機械士さん！",
+      "zh": "是！就交给我塞拉吧，机械士先生！"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "c1225259",
+      "speaker": "",
+      "ja": "屈託のない笑顔で理想を語るセラ。そしてそんな優しくて思いやりのあるセラを支えていきたいと、{G_PlayerName}は思うのだった。",
+      "zh": "塞拉以无忧无虑的笑容讲述着理想。而{G_PlayerName}心想，想要支持这样温柔又体贴的塞拉。"
+    }
+  ]
+}
