@@ -1,0 +1,328 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "6ff2dc69",
+      "speaker": "シュー",
+      "ja": "ふんふんふ～ん……♪",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "71e421e3",
+      "speaker": "",
+      "ja": "ラウンジで椅子に座っているのは豪華な衣装を身にまとってご機嫌なシューだった。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "cd485f68",
+      "speaker": "",
+      "ja": "そこに{G_PlayerName}が偶然通りかかる。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "81c83e2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　シュー？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "867e85b5",
+      "speaker": "",
+      "ja": "いつもと違う格好のシューを見て{G_PlayerName}は足を止めた。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "d942015c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　シュー、その服可愛いな",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "afeb450",
+      "speaker": "",
+      "ja": "そう声をかけるとシューは凄く嬉しそうに笑みを浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "f3465c77",
+      "speaker": "シュー",
+      "ja": "えへへ……♪　おにいちゃん、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "4f59f563",
+      "speaker": "{G_PlayerName}",
+      "ja": "シューにとても似合ってるぞ",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "40a9015b",
+      "speaker": "",
+      "ja": "そう褒めつつも{G_PlayerName}は一つ疑問点があった。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7e7f2b5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ところで……その服はどうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "42ef52c6",
+      "speaker": "",
+      "ja": "その問いかけにシューは嬉しそうに答える。",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "37626bf",
+      "speaker": "シュー",
+      "ja": "冒険好きの女の人から、とっても褒められて、これもらったんだ……シューくらいの子がいるんだって",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "de6743e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ……でも、シューはなんでその人に褒められたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "77295439",
+      "speaker": "シュー",
+      "ja": "倒れてた女の人に声をかけて……お水をあげたから……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "55aef8eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "へぇ～、それは凄いな",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "787d72e2",
+      "speaker": "",
+      "ja": "{G_PlayerName}が褒めるとシューは照れくさそうに笑いながらも、どこか誇らしげだった。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "aa331a45",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば、シューのお母さんは？",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "226dc51f",
+      "speaker": "",
+      "ja": "その問いかけに、シューの表情が曇った。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "39b4ac6a",
+      "speaker": "シュー",
+      "ja": "昔、坑道の事故にあっちゃって……それからずっと坑道の奥で暮らしているから会えないんだって……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "33a7a796",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しまった……知らなかったとはいえ、聞いてはいけないことを聞いてしまった……。）",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "e8b000e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだ！　せっかくシューが可愛い服を着ているんだし、どこかにお出かけしないか？",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f0ac11e1",
+      "speaker": "",
+      "ja": "その提案にシューの顔が明るくなった。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "5d3bf475",
+      "speaker": "シュー",
+      "ja": "いくいくっ……♪　おにいちゃんとおでかけするー……♪",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "f32cc381",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、それじゃあどこにお出かけしようか？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "446b3fc3",
+      "speaker": "シュー",
+      "ja": "えっとね……おにいちゃんと一緒におでかけするなら、どこでもいいよ……♪",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "1135a606",
+      "speaker": "{G_PlayerName}",
+      "ja": "う～ん、そうだなぁ……う～ん……悩むなぁ",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "7f69e1f8",
+      "speaker": "シュー",
+      "ja": "あっ……おにいちゃん、もうこんな時間……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "e09ee195",
+      "speaker": "",
+      "ja": "楽しく考えているうちに、いつの間にか日が暮れてしまっていたようだ。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "f897ae61",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……しまった……お出かけはまた今度かな",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "973c898b",
+      "speaker": "シュー",
+      "ja": "えー……残念……",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "c6a86db5",
+      "speaker": "",
+      "ja": "お出かけを断念したシューは悲しそうな顔をしたが、すぐに気を取り直したのかニッコリと笑って{G_PlayerName}に告げた。",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "ae80f76b",
+      "speaker": "シュー",
+      "ja": "でも、いつか絶対にお出かけしようね、おにいちゃん♪",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "7e997aff",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、それじゃあ今日はお出かけのプランをじっくり考えようか",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8d8f37e1",
+      "speaker": "シュー",
+      "ja": "うんっ……♪",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "6b1bf377",
+      "speaker": "",
+      "ja": "その後{G_PlayerName}とシューは次回のお出かけに向けてあれこれと計画を立てたのだった。",
+      "zh": ""
+    }
+  ]
+}

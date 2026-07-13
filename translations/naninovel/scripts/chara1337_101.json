@@ -1,0 +1,328 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "6ff2dc69",
+      "speaker": "シュー",
+      "ja": "ふんふんふ～ん……♪",
+      "zh": "哼哼哼～……♪"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "71e421e3",
+      "speaker": "",
+      "ja": "ラウンジで椅子に座っているのは豪華な衣装を身にまとってご機嫌なシューだった。",
+      "zh": "休息室里，坐在椅子上的正是身着华服、心情极好的修。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "cd485f68",
+      "speaker": "",
+      "ja": "そこに{G_PlayerName}が偶然通りかかる。",
+      "zh": "这时{G_PlayerName}恰好路过。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "81c83e2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　シュー？",
+      "zh": "咦？修？"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "867e85b5",
+      "speaker": "",
+      "ja": "いつもと違う格好のシューを見て{G_PlayerName}は足を止めた。",
+      "zh": "看到和平常打扮不同的修，{G_PlayerName}停下了脚步。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "d942015c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　シュー、その服可愛いな",
+      "zh": "咦？修，你这件衣服好可爱啊。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "afeb450",
+      "speaker": "",
+      "ja": "そう声をかけるとシューは凄く嬉しそうに笑みを浮かべる。",
+      "zh": "这样一搭话，修露出了非常开心的笑容。"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "f3465c77",
+      "speaker": "シュー",
+      "ja": "えへへ……♪　おにいちゃん、ありがとう……",
+      "zh": "诶嘿嘿……♪ 大哥哥，谢谢你……"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "4f59f563",
+      "speaker": "{G_PlayerName}",
+      "ja": "シューにとても似合ってるぞ",
+      "zh": "修，这衣服真是太适合你了。"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "40a9015b",
+      "speaker": "",
+      "ja": "そう褒めつつも{G_PlayerName}は一つ疑問点があった。",
+      "zh": "虽然嘴上这么夸着，但{G_PlayerName}还是有一个疑问。"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7e7f2b5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ところで……その服はどうしたんだ？",
+      "zh": "话说回来……你这衣服是怎么来的？"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "42ef52c6",
+      "speaker": "",
+      "ja": "その問いかけにシューは嬉しそうに答える。",
+      "zh": "面对这个问题，修开心地回答。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "37626bf",
+      "speaker": "シュー",
+      "ja": "冒険好きの女の人から、とっても褒められて、これもらったんだ……シューくらいの子がいるんだって",
+      "zh": "是一位喜欢冒险的女士送我的，她使劲夸我……说是有个跟我差不多大的孩子……"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "de6743e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ……でも、シューはなんでその人に褒められたんだ？",
+      "zh": "这样啊……不过，修为什么会被那个人夸奖呢？"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "77295439",
+      "speaker": "シュー",
+      "ja": "倒れてた女の人に声をかけて……お水をあげたから……",
+      "zh": "因为我对一位倒下的女士打了招呼……给了她水喝……"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "55aef8eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "へぇ～、それは凄いな",
+      "zh": "哦～，那可真是了不起啊。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "787d72e2",
+      "speaker": "",
+      "ja": "{G_PlayerName}が褒めるとシューは照れくさそうに笑いながらも、どこか誇らしげだった。",
+      "zh": "{G_PlayerName}这么一夸，修虽然不好意思地笑着，却又有些得意。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "aa331a45",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば、シューのお母さんは？",
+      "zh": "说起来，修，你妈妈呢？"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "226dc51f",
+      "speaker": "",
+      "ja": "その問いかけに、シューの表情が曇った。",
+      "zh": "面对这个提问，修的表情黯淡了下来。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "39b4ac6a",
+      "speaker": "シュー",
+      "ja": "昔、坑道の事故にあっちゃって……それからずっと坑道の奥で暮らしているから会えないんだって……",
+      "zh": "以前，她在矿道里遭遇了事故……从那以后就一直住在矿道深处，所以见不到了……"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "33a7a796",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しまった……知らなかったとはいえ、聞いてはいけないことを聞いてしまった……。）",
+      "zh": "（糟了……虽说不是故意的，但不小心听到了不该听的事……。）"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "e8b000e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだ！　せっかくシューが可愛い服を着ているんだし、どこかにお出かけしないか？",
+      "zh": "对了！难得修穿得这么可爱，咱们出去玩吧？"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "f0ac11e1",
+      "speaker": "",
+      "ja": "その提案にシューの顔が明るくなった。",
+      "zh": "听到这个提议，修的眼睛都亮了。"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "5d3bf475",
+      "speaker": "シュー",
+      "ja": "いくいくっ……♪　おにいちゃんとおでかけするー……♪",
+      "zh": "要去要去～♪ 和哥哥一起出门咯～♪"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "f32cc381",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、それじゃあどこにお出かけしようか？",
+      "zh": "好，那咱们去哪儿逛呢？"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "446b3fc3",
+      "speaker": "シュー",
+      "ja": "えっとね……おにいちゃんと一緒におでかけするなら、どこでもいいよ……♪",
+      "zh": "唔……只要跟哥哥一起，去哪里都行哦～♪"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "1135a606",
+      "speaker": "{G_PlayerName}",
+      "ja": "う～ん、そうだなぁ……う～ん……悩むなぁ",
+      "zh": "嗯……这样啊……唔……真难办啊。"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "7f69e1f8",
+      "speaker": "シュー",
+      "ja": "あっ……おにいちゃん、もうこんな時間……",
+      "zh": "啊……哥哥，都这个点了……"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "e09ee195",
+      "speaker": "",
+      "ja": "楽しく考えているうちに、いつの間にか日が暮れてしまっていたようだ。",
+      "zh": "正开开心心地商量着，不知不觉天都黑了。"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "f897ae61",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……しまった……お出かけはまた今度かな",
+      "zh": "啊……糟了……看来只能改天再出去了。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "973c898b",
+      "speaker": "シュー",
+      "ja": "えー……残念……",
+      "zh": "诶——好可惜哦……"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "c6a86db5",
+      "speaker": "",
+      "ja": "お出かけを断念したシューは悲しそうな顔をしたが、すぐに気を取り直したのかニッコリと笑って{G_PlayerName}に告げた。",
+      "zh": "修因为不能出门而一脸失落，但很快又打起精神，笑着对{G_PlayerName}说："
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "ae80f76b",
+      "speaker": "シュー",
+      "ja": "でも、いつか絶対にお出かけしようね、おにいちゃん♪",
+      "zh": "不过，以后一定要一起出去玩哦，哥哥♪"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "7e997aff",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、それじゃあ今日はお出かけのプランをじっくり考えようか",
+      "zh": "好，那今天我们就好好策划一下下次的出行计划吧。"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8d8f37e1",
+      "speaker": "シュー",
+      "ja": "うんっ……♪",
+      "zh": "嗯……♪"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "6b1bf377",
+      "speaker": "",
+      "ja": "その後{G_PlayerName}とシューは次回のお出かけに向けてあれこれと計画を立てたのだった。",
+      "zh": "后来，{G_PlayerName}和修就为了下一次的出门计划各种商量，讨论得热火朝天。"
+    }
+  ]
+}

@@ -1,0 +1,1093 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "ccc6518a",
+      "speaker": "永虚",
+      "ja": "うう……",
+      "zh": "唔、唔……"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "6fd3f5d7",
+      "speaker": "",
+      "ja": "ホテルの一室で永虚は悶々としていた。",
+      "zh": "在酒店房间里，永虚正独自烦恼着。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "73caf56e",
+      "speaker": "",
+      "ja": "{G_PlayerName}を喜ばせることに喜びと興奮を覚えてしまった前日のことを思い出して、自分が{G_PlayerName}のことを好ましく思っていることに気づく。",
+      "zh": "想起昨天让{G_PlayerName}高兴时自己感到的喜悦和兴奋，她察觉到，自己其实对{G_PlayerName}抱有好感。"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "7a7a3f72",
+      "speaker": "永虚",
+      "ja": "少女のように恋をするとは……",
+      "zh": "竟像少女一样坠入爱河……"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "c26c236f",
+      "speaker": "",
+      "ja": "永虚は自嘲気味にそう呟くが、反面確固たる気持ちを固めていた。",
+      "zh": "永虚自嘲地嘀咕着，但内心却坚定了想法。"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "dee2dbb",
+      "speaker": "永虚",
+      "ja": "しかし今なら……",
+      "zh": "但如果是现在的话……"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "e3a5e673",
+      "speaker": "",
+      "ja": "逢瀬が可能でしかも{G_PlayerName}は襲われることを拒否しない今なら、自分の想いを遂げることが可能なのではと考え、永虚はそれを実行に移すことにする。",
+      "zh": "“{G_PlayerName}现在或许不会拒绝被推倒，那自己的心意不是就有机会实现了吗？”这么一想，永虚便决定付诸行动。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "2a5e6fe7",
+      "speaker": "",
+      "ja": "後日、永虚は自身が宿泊しているホテルの一室に{G_PlayerName}を呼び出した。",
+      "zh": "几天后，永虚把{G_PlayerName}叫到了自己下榻的酒店房间。"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "a4129af5",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、ええっと……なんの用？　今日も特訓か？　それとも今日は普通に遊びに行くとか……",
+      "zh": "呃，那个……找我有什么事？今天也特训？还是说，今天只是普通地出去玩……"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "86e5a38e",
+      "speaker": "",
+      "ja": "また特訓されるかと思っている{G_PlayerName}は警戒しつつも、少し期待の孕んだ表情をしている。",
+      "zh": "{G_PlayerName}以为又要被特训，一边戒备着，一边又带着些许期待的神情。"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "e5f02331",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}に永虚は真剣な表情で告げた。",
+      "zh": "面对这样的{G_PlayerName}，永虚一脸认真地开了口。"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "2b05b459",
+      "speaker": "永虚",
+      "ja": "おい、我はそなたのことを好いている",
+      "zh": "喂，我喜欢你。"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "56f0848",
+      "speaker": "",
+      "ja": "ストレートすぎる告白に{G_PlayerName}はポカンとしてしまうが、永虚は構わず言葉を続ける。",
+      "zh": "这过于直白的告白让{G_PlayerName}当场愣住，但永虚毫不在意地继续说道。"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "6a318990",
+      "speaker": "永虚",
+      "ja": "我の男になれ、強くしてやる",
+      "zh": "做我的男人吧，我会让你变强。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "7451be50",
+      "speaker": "",
+      "ja": "口調は素っ気ないものの、内心ドキドキしながら{G_PlayerName}からの返事を待った。",
+      "zh": "语气虽然冷淡，但她内心却扑通扑通地跳着，等待{G_PlayerName}的答复。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "1b281dd9",
+      "speaker": "",
+      "ja": "一瞬きょとんした後に告白されたことをやっと理解した{G_PlayerName}は、じわじわと笑みを浮かべていく。",
+      "zh": "{G_PlayerName}先是愣了一瞬，随后才终于理解自己被表白了，脸上渐渐绽开笑容。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "ec8360cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ、まじか……永虚が俺のこと……おねがい、します……でいいかな、この場合って。",
+      "zh": "哇，真的假的……永虚竟然对我……那我要说“请多指教”……这样对吗？"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "e141166a",
+      "speaker": "永虚",
+      "ja": "そっ、そうか……我を受け入れるのだな？♥",
+      "zh": "这、这样啊……你愿意接受我吗？♥"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "a5c9e214",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺も好きだよ永虚。訓練はきついけど……永虚が望むような男になるよう頑張って食らいつくつもりだ。これからもよろしく頼む",
+      "zh": "嗯，我也喜欢你，永虚。训练虽然辛苦……但我打算努力成为你期望的那种男人，咬紧牙关跟上你。以后还请多指教。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "bf5030a3",
+      "speaker": "",
+      "ja": "思いもよらず両思いである事が発覚したことに永虚は喜んでいた。",
+      "zh": "没想到竟然是两情相悦，永虚开心不已。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "2a41ec8e",
+      "speaker": "",
+      "ja": "照れ隠しのためにクールに振る舞おうとしているが、その表情から喜んでいるのがバレバレだ。",
+      "zh": "他明明想装酷掩饰害羞，可那高兴的表情早就出卖了他。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "bbe0e96c",
+      "speaker": "永虚",
+      "ja": "ふむふむ、そうかそうか……それならば話は早い♥",
+      "zh": "嗯嗯，原来如此原来如此……那事情就简单了♥"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "c8d9247e",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？？",
+      "zh": "诶？？"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "181b320",
+      "speaker": "永虚",
+      "ja": "思いを遂げた男女がすることはひとつだ、そなたにも分かるだろう？♥",
+      "zh": "两情相悦的男女要做的事只有一个，你该懂吧？♥"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "24c96500",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、即物的な……",
+      "zh": "这、这也太直接了吧……"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "a1b555a0",
+      "speaker": "永虚",
+      "ja": "いやか？　我はそなたの恋人だ、嫌がることはしたくない",
+      "zh": "你不愿意？我可是你的恋人，不想让你不高兴。"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "6dec0526",
+      "speaker": "",
+      "ja": "永虚の不安そうな表情を見て、ふっと{G_PlayerName}も肩ひじを張るのをやめて率直に話しだす。",
+      "zh": "看到永虚不安的表情，{G_PlayerName}也顿时放松下来，不再端着架子，直率地开口了。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "6a198a50",
+      "speaker": "",
+      "ja": "永虚は強者なので感情を隠さない。自分だけ見栄を張ってかっこつけても2人が幸せになれる日は来ないと{G_PlayerName}は理解した。",
+      "zh": "永虚是强者，感情从不掩饰。{G_PlayerName}明白了，光自己一个人硬撑装样子，两个人是没法幸福的。"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "4bc64989",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いやじゃない。俺も永虚としたい",
+      "zh": "……不，我愿意。我也想和永虚做。"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "be48f51d",
+      "speaker": "",
+      "ja": "永虚は満足そうな笑みを浮かべつつするすると水着を脱ぎ捨てると、{G_PlayerName}を押し倒して上に覆い被さった。",
+      "zh": "永虚露出满足的笑容，利落地脱下泳衣，然后将{G_PlayerName}推倒，压了上去。"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "52d7b390",
+      "speaker": "永虚",
+      "ja": "ふふ、可愛い顔をしているな♥",
+      "zh": "呵呵，表情真可爱呢♥"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "1f00d857",
+      "speaker": "",
+      "ja": "永虚は上から{G_PlayerName}のことを愛おしそうに見下ろしている。",
+      "zh": "永虚居高临下，怜爱地俯视着{G_PlayerName}。"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "d521bfd5",
+      "speaker": "",
+      "ja": "その視線と言葉に照れた{G_PlayerName}は顔を赤らめながら呟いた。",
+      "zh": "被那视线和话语弄得害羞，{G_PlayerName}红着脸闷哼了一声。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "35b5667c",
+      "speaker": "{G_PlayerName}",
+      "ja": "やめてくれよ、俺は男だぞ……",
+      "zh": "别这样，我可是男的啊……"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "fb071ad5",
+      "speaker": "",
+      "ja": "{G_PlayerName}は恥ずかしがりながらも、まんざらでもないという表情を浮かべる。",
+      "zh": "{G_PlayerName}虽然害羞，但脸上却也透出“倒也不是不行”的神情。"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "1d0592b0",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}の股間で勃起しているおちんちんは、柔らかな割れ目にあてがわれ上下に揺れていた。",
+      "zh": "而{G_PlayerName}股间勃起的分身，被那柔嫩的裂缝夹住，上下摇晃着。"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "e1199c06",
+      "speaker": "永虚",
+      "ja": "そなたのおちんちん……我の中に早く入りたいとピクピクしているな♥",
+      "zh": "你的那话儿……正一抽一抽的，急着想进到我里面去呢♥"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "840b3865",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そりゃ……おまんこを押しつけられたら……我慢出来なくなっちゃうって",
+      "zh": "那、那当然……被你用那里贴着，我怎么可能忍得住啊。"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "49d82fbd",
+      "speaker": "永虚",
+      "ja": "ふふっ♥　焦らずともすぐに我の穴に入れてやる♥",
+      "zh": "呵呵♥ 别急嘛，马上就能让你进到我里面了♥"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "9b371160",
+      "speaker": "",
+      "ja": "そう言うと永虚は小さく腰を揺らし割れ目で陰茎を擦ってくる。",
+      "zh": "说着，永虚就轻轻扭动腰肢，用裂缝蹭起了那根东西。"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "5ff6adcc",
+      "speaker": "",
+      "ja": "柔らかく温かいその感触に{G_PlayerName}の肉竿がどんどん勃起していった。",
+      "zh": "那种柔软又温暖的触感，让{G_PlayerName}的肉棒越来越硬了。"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "a17bdbd0",
+      "speaker": "永虚",
+      "ja": "ほお♥　どんどん大きくなって……すごく熱い……♥",
+      "zh": "嗯♥ 越来越大了……好烫……♥"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "43163d8f",
+      "speaker": "",
+      "ja": "その硬さと熱さに永虚も興奮していってしまい、腰の動きが徐々に激しくなっていく。",
+      "zh": "那种坚硬和滚烫让永虚也兴奋起来，腰的动作渐渐变得激烈。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "9691df48",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もう……焦らさないでくれよ……俺……もう……",
+      "zh": "已、已经……别再吊我胃口了……我……已经……"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "3a904aa4",
+      "speaker": "永虚",
+      "ja": "ふふっ♥　仕方ないな……♥",
+      "zh": "哼哼♥ 真拿你没办法……♥"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "6aa7de6c",
+      "speaker": "",
+      "ja": "求められた永虚は嬉しそうにそう呟くと{G_PlayerName}の勃起したおちんちんを自らのおまんこへと導いて、ゆっくりと挿入していった。",
+      "zh": "被这么一求，永虚开心地嘟囔着，把{G_PlayerName}硬挺挺的肉棒引向自己的小穴，慢慢地插了进去。"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "d3bf508b",
+      "speaker": "永虚",
+      "ja": "んっ……♥　くる……♥　お、奥まで……ぅぅん♥",
+      "zh": "嗯……♥ 进来了……♥ 顶、顶到最里面了……嗯嗯♥"
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "62c8fcbb",
+      "speaker": "",
+      "ja": "甘い声を漏らしながら{G_PlayerName}の陰茎を根本まで呑み込むと永虚の腰が小さく前後し始める。",
+      "zh": "永虚一边漏出甜腻的喘息，一边把{G_PlayerName}的肉棒整根吞下，然后腰开始轻轻地前后摇了起来。"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "4ad45e56",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅ……あっ……き、気持ちいい……",
+      "zh": "唔……啊……好、好舒服……"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "36597be7",
+      "speaker": "",
+      "ja": "強く締まる膣の感触に{G_PlayerName}は気持ちよさそうな声を漏らした。",
+      "zh": "小穴紧紧夹住的感觉，让{G_PlayerName}爽得叫出了声。"
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "aa60c693",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}を見つめながら永虚は幸せそうな笑みを浮かべる。",
+      "zh": "永虚望着那样的{G_PlayerName}，露出了幸福的笑容。"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "89ace180",
+      "speaker": "永虚",
+      "ja": "くっ……♥　思いが通じた男とっ♥　んっ……するのは生まれて初めてだっ♥",
+      "zh": "嗯……♥ 跟心意相通的男人做这种事♥ 嗯……我这辈子还是第一次♥"
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "8959409e",
+      "speaker": "",
+      "ja": "そう言って永虚は{G_PlayerName}を気持ちよくさせようと一生懸命腰を振り抽送を繰り返していた。",
+      "zh": "说完，永虚为了让{G_PlayerName}更舒服，拼命地扭着腰，反复抽插起来。"
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "ec46ce06",
+      "speaker": "",
+      "ja": "いつも余裕綽々な永虚とは違い、そのギャップに{G_PlayerName}はドキドキしてしまう。",
+      "zh": "跟平时游刃有余的永虚完全不同，这种反差让{G_PlayerName}心跳加速。"
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "c441d37d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（永虚……か、かわいい……♥）",
+      "zh": "（永虚……好、好可爱……♥）"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "5b1389b6",
+      "speaker": "",
+      "ja": "すっかりメロメロになってしまった{G_PlayerName}の上で永虚が腰をくねらせた。",
+      "zh": "在已经彻底被迷住的{G_PlayerName}身上，永虚扭动着腰肢。"
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "7641248e",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}の男性器を確認するようにおまんこでしごき上げながら、ウットリとした表情を浮かべて呟く。",
+      "zh": "接着，永虚一边用小穴套弄着{G_PlayerName}的肉棒，像是在确认它的形状，一边露出陶醉的神情低语。"
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "947c6b56",
+      "speaker": "永虚",
+      "ja": "これからこれは我のもの♥　それで良いのだろ♥",
+      "zh": "从今以后，这个就是我的了♥ 你说对吧♥"
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "e5e001f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……それでいいよ……",
+      "zh": "嗯……这样就好……"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "1b4dec6",
+      "speaker": "",
+      "ja": "{G_PlayerName}の言葉に永虚は嬉しそうな表情を浮かべて腰の動きを速めていった。",
+      "zh": "听到{G_PlayerName}这么说，永虚开心地扬起了嘴角，加快了腰的摆动。"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "5af8037c",
+      "speaker": "",
+      "ja": "そして普段とはまるで違う甘い声を上げて身悶えていく。",
+      "zh": "接着她发出和平常完全不同的甜腻叫声，扭动着身子。"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "d4d594e3",
+      "speaker": "永虚",
+      "ja": "ああっ♥　心が満たされるとこんなにも感じるのか♥　気持ちがいいのか♥　んっ♥　んんんっ♥",
+      "zh": "啊♥ 原来心被填满会这么有感觉啊♥ 好舒服啊♥ 嗯♥ 嗯嗯嗯♥"
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "4426ed17",
+      "speaker": "",
+      "ja": "抽送が激しくなる程に永虚の膣は愛液でヌルヌルになってきてグチュグチュという淫らな水音が鳴り始めた。",
+      "zh": "随着抽送越来越激烈，永虚的小穴被爱液弄得滑溜溜的，开始发出咕啾咕啾的淫荡水声。"
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "49a29293",
+      "speaker": "",
+      "ja": "その音が{G_PlayerName}の興奮を煽り膣で咥え込んだ陰茎が脈打ち始めてしまう。",
+      "zh": "那声音更激起了{G_PlayerName}的兴奋，被肉壁含住的阴茎开始一跳一跳的。"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "dac931d0",
+      "speaker": "永虚",
+      "ja": "んっ♥　んああっ♥　我の中でそなたのおちんちんが暴れてるぅ♥　す、すごいっ♥　気持ちよすぎておかしくなりそうだ♥　あああっ♥",
+      "zh": "嗯♥ 嗯啊啊♥ 你的肉棒在我里面乱撞♥ 好、好厉害♥ 舒服得快要疯了♥ 啊啊啊♥"
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "67b66aa7",
+      "speaker": "",
+      "ja": "すっかり高ぶった永虚は{G_PlayerName}の上で踊るように抽送を激しくさせていった。",
+      "zh": "彻底兴奋起来的永虚，在{G_PlayerName}身上像跳舞一样加快着抽送。"
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "1d3a2eb8",
+      "speaker": "",
+      "ja": "その激しいピストンに{G_PlayerName}の興奮は一気に高まっていく。",
+      "zh": "在那激烈的活塞运动中，{G_PlayerName}的兴奋感直线飙升。"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "2e97fc71",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅ……永虚っ……そ、そんなに激しくされたら……お、俺……",
+      "zh": "呜……永虚……这、这么激烈的话……我、我……"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "1a4d1253",
+      "speaker": "永虚",
+      "ja": "わ、我もっ♥　もうイきそうだっ♥　だけどもう止まれないっ♥　ああっ♥　あふぅぅぅ♥",
+      "zh": "我、我也快了♥ 但是已经停不下来了♥ 啊啊♥ 啊唔唔唔♥"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "c1930d90",
+      "speaker": "",
+      "ja": "柔らかな肉襞が擦れる程に{G_PlayerName}の陰茎はどくんどくんと脈打って今にも射精してしまいそうになっていた。",
+      "zh": "柔软肉褶的摩擦让{G_PlayerName}的阴茎“咚咚”地跳，眼看就要射了。"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "f836f902",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あっ……もう限界だ……で、出る……",
+      "zh": "呃……啊……极限了……要射了……"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "205bd480",
+      "speaker": "",
+      "ja": "{G_PlayerName}が呻きながらそう呟くと永虚は激しく腰を振りながら囁きかける。",
+      "zh": "{G_PlayerName}呻吟着这么一说，永虚激烈地摇着腰，低声说道。"
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "f3933f47",
+      "speaker": "永虚",
+      "ja": "中に出せっ♥　我を孕ませろっ♥",
+      "zh": "射进来♥ 让我怀孕♥"
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "976f117c",
+      "speaker": "",
+      "ja": "そのおねだりに堪えきれなくなった{G_PlayerName}は腰を浮かせて膣奥に射精してしまった。",
+      "zh": "被她这么一求，{G_PlayerName}再也忍不住了，腰往上一挺，射在了花心深处。"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "bd4d70d",
+      "speaker": "永虚",
+      "ja": "んっ♥　んんんんっ♥　ああぁっ♥　だめぇぇぇ……！♥",
+      "zh": "嗯♥ 嗯嗯嗯嗯♥ 啊啊啊♥ 不行了……！♥"
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "4296e70",
+      "speaker": "",
+      "ja": "房中術で鍛えたのとは違う、これまでで一番大きい快感に飲まれ、永虚は普通の女の子のようにイってしまう。",
+      "zh": "被这和房中术练就的滋味截然不同、有生以来最强烈的快感淹没，永虚像个普通女孩一样高潮了。"
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "e116f8b9",
+      "speaker": "",
+      "ja": "その可愛らしいリアクションに興奮した{G_PlayerName}は、そのまま永虚のおまんこに全ての精液を注ぎ込んで果てた。",
+      "zh": "那可爱的反应让{G_PlayerName}兴奋不已，顺势把所有精液都灌进了永虚的小穴，然后攀上了高峰。"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "80d0c9e7",
+      "speaker": "永虚",
+      "ja": "あっ♥　んああぁぁっ♥　熱いっ♥　熱いのが流れ込んできて♥　おっ♥　おふぅぅぅ♥",
+      "zh": "啊♥ 嗯啊啊啊♥ 好烫♥ 热热的流进来了♥ 哦♥ 哦唔唔唔♥"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "c0db36e8",
+      "speaker": "",
+      "ja": "繋がった部分からは精液が溢れてドロリと溢れを落ちる。",
+      "zh": "相连的部位溢出精液，黏稠地滴落下来。"
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "cace5ace",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……え、永虚……っ",
+      "zh": "哈啊……哈啊……哈啊……咦、永虚……？"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "b8f5914d",
+      "speaker": "",
+      "ja": "一度の射精ではまだ{G_PlayerName}の興奮は治まらず、勃起した陰茎が萎える気配はなかった。",
+      "zh": "只射一次，{G_PlayerName}的兴奋完全没退，硬挺的那根一点要软的意思都没有。"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "310dad53",
+      "speaker": "",
+      "ja": "それを感じた永虚は一気に気持ちが高ぶって再び腰を振り始める。",
+      "zh": "感觉到的永虚一下子情绪高涨，重新扭起腰来。"
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "a52025d8",
+      "speaker": "永虚",
+      "ja": "そなたっ♥　そなたぁっ♥　愛してるぅっ♥",
+      "zh": "你呀♥　你啊♥　爱你啊♥"
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "39d4779d",
+      "speaker": "",
+      "ja": "可愛らしく喘ぐ永虚の動きに合わせて{G_PlayerName}も下から突き上げていった。",
+      "zh": "配合着永虚可爱的娇喘，{G_PlayerName}也从下面往上顶。"
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "3261ae5b",
+      "speaker": "",
+      "ja": "奥まで貫く抽送にイったばかりの永虚はさらに淫らに悶えていく。",
+      "zh": "刚刚去过的永虚，被深深抽送又搅得更加淫乱难耐。"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "9942293d",
+      "speaker": "永虚",
+      "ja": "おっ♥　おおっ♥　そんなっ……お、奥にっ♥　んふうぅぅ♥",
+      "zh": "哦♥　噢噢♥　不……别、顶到里面♥　嗯呜呜呜♥"
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "52087749",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……永虚……くっ……うっ……",
+      "zh": "啊啊……永虚……呜……嗯……"
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "501c439c",
+      "speaker": "",
+      "ja": "２人は互いに求め合い強く腰を重ね合った。",
+      "zh": "两人渴求着彼此，腰紧紧重合在一起。"
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "39525240",
+      "speaker": "",
+      "ja": "その度に膣内の精液が掻き回されてグチュグチュといういやらしい音が響く。",
+      "zh": "每动一下，里边的精液就被翻搅，响起咕啾咕啾的淫荡水声。"
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "35adc50b",
+      "speaker": "永虚",
+      "ja": "はぁ♥　はぁぁ♥　いいっ♥　そなたに愛されるの……すごくいい♥",
+      "zh": "哈啊♥　哈哈♥　好棒♥　被你疼爱……太美了♥"
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "bf58e3fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺も……永虚と愛し合うの……たまらないっ",
+      "zh": "我也……跟永虚交合……爽得不行。"
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "ac75a2b4",
+      "speaker": "永虚",
+      "ja": "嬉しいっ♥　ああ、好き♥　好き好き♥　もっと激しく我を愛してっ♥",
+      "zh": "好高兴♥　啊啊，喜欢你♥　喜欢喜欢♥　再狠一点爱我♥"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "b68fdcda",
+      "speaker": "{G_PlayerName}",
+      "ja": "永虚……っ！",
+      "zh": "永虚……！"
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "713e44da",
+      "speaker": "",
+      "ja": "永虚はすっかり普通の女の子になって可愛らしく喘ぎながら夢中で腰を振った。",
+      "zh": "永虚完全变成了一个普通女孩，可爱地喘着，忘情地摇着腰。"
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "3cda2682",
+      "speaker": "",
+      "ja": "普段とのギャップに{G_PlayerName}の興奮も高まるばかりで下からの突き上げが強くなっていく。",
+      "zh": "与平时的巨大反差让{G_PlayerName}越发兴奋，从底下往上顶得越来越凶。"
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "8cd72507",
+      "speaker": "永虚",
+      "ja": "んっ♥　んんんっ♥　そ、そんなに奥をぐりぐりされると……んふぅ♥　おっ……おふぅぅ♥",
+      "zh": "嗯♥　嗯嗯嗯♥　你、你那样使劲钻人家最里面……嗯呜♥　哦……哦唔唔♥"
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "6c576a31",
+      "speaker": "",
+      "ja": "すっかり興奮しきった２人は互いを求め合い獣のように交わり続けた。",
+      "zh": "彻底亢奋的两人像野兽一样不断交缠索取。"
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "ab8c8503",
+      "speaker": "",
+      "ja": "その抽送に{G_PlayerName}も永虚もすぐに高みへと駆け上がっていく。",
+      "zh": "在那一波波抽送中，{G_PlayerName}和永虚都猛地冲向顶峰。"
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "bf22ec31",
+      "speaker": "永虚",
+      "ja": "あふぅ♥　あっ♥　ああっ♥　ま、またイくっ♥　すぐにイっちゃう♥　んはぁぁ♥　あっ♥　ああああっ♥",
+      "zh": "啊呜♥　啊♥　啊啊♥　又、又要去了♥　马上要去了♥　嗯哈哈♥　啊♥　啊啊啊啊♥"
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "98555cef",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺も……また出そうだ……",
+      "zh": "哦、我也……又快射了……"
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "2e003f41",
+      "speaker": "永虚",
+      "ja": "んふぅぅ♥　な、中に出してっ♥　子宮にいっぱい注いで孕ませてっ♥　あっ♥　あふぅぅん♥",
+      "zh": "嗯唔～♥ 喂、射在里面♥ 往子宫里灌得满满的，让我怀上吧♥ 啊♥ 啊唔唔嗯♥"
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "5b94c07",
+      "speaker": "",
+      "ja": "甘い声でおねだりしてくる永虚を{G_PlayerName}の脈打つ陰茎が何度も奥まで貫いた。",
+      "zh": "永虚用甜腻的声音撒着娇，{G_PlayerName}搏动的肉棒一次又一次地顶进她的最深处。"
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "2a066fab",
+      "speaker": "永虚",
+      "ja": "はうぅんっ♥　お、奥に出してぇ♥　あっ♥　あっ♥　あああぁぁっ♥",
+      "zh": "哈呜嗯♥ 射、射到最里面♥ 啊♥ 啊♥ 啊啊啊啊啊♥"
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "f468f71e",
+      "speaker": "",
+      "ja": "永虚のおまんこは{G_PlayerName}の精液を求めるようにおちんちんに強く吸いついていく。",
+      "zh": "永虚的小穴仿佛在渴求{G_PlayerName}的精液，紧紧地吸住肉棒不放。"
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "a88d1fbc",
+      "speaker": "",
+      "ja": "その締め付けに{G_PlayerName}は射精衝動が抑えきれなくなっていった。",
+      "zh": "在那样的紧夹之下，{G_PlayerName}再也压不住射精的冲动了。"
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "d22ccfd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……あああっ……ま、また……くぅぅ……",
+      "zh": "啊……啊啊啊……又、又要……唔呃……"
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "2d95c0f8",
+      "speaker": "",
+      "ja": "込み上げてくる感覚が強くなり{G_PlayerName}の腰が小さく跳ねる。",
+      "zh": "那股上涌的感觉越来越强烈，{G_PlayerName}的腰忍不住轻轻一挺。"
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "10b0b75",
+      "speaker": "",
+      "ja": "それと同時に{G_PlayerName}の陰茎が強く脈動していった。",
+      "zh": "与此同时，{G_PlayerName}的肉棒猛地搏动起来。"
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "1eb0f5b8",
+      "speaker": "永虚",
+      "ja": "イくっう♥　イくっ、イくっ♥　あっ♥　あっ♥　またイくっ♥　んんんっ♥",
+      "zh": "要去了嗯♥ 要去了、要去了♥ 啊♥ 啊♥ 又要去了♥ 嗯嗯嗯♥"
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "e455a236",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺も……出るっ……うぅぅ……",
+      "zh": "哦、我也……要射了……呜……"
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "da0cd87e",
+      "speaker": "",
+      "ja": "{G_PlayerName}と永虚は同時に腰を震わせながら絶頂へと登り詰めてしまう。",
+      "zh": "{G_PlayerName}和永虚同时颤抖着腰肢，一同攀上了绝顶的高潮。"
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "32c72e19",
+      "speaker": "永虚",
+      "ja": "イっくぅぅぅぅぅっ♥　んはあぁぁぁっ♥",
+      "zh": "去——了——嗯♥ 嗯啊啊啊啊♥"
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "2c84c398",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……うぅぅ……っ！",
+      "zh": "唔……呃呃……呃！"
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "bd15bf55",
+      "speaker": "",
+      "ja": "絶頂に達した永虚の中で{G_PlayerName}の陰茎が激しく跳ねて熱い飛沫を迸らせた。",
+      "zh": "在攀上绝顶的永虚体内，{G_PlayerName}的肉棒剧烈跳动，喷涌出滚烫的白浊。"
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "21b1d124",
+      "speaker": "",
+      "ja": "膣奥に勢いよく精液を注がれた永虚は恍惚の表情を浮かべながらワナワナと唇を震わせる。",
+      "zh": "被大量精液猛烈灌注到阴道深处的永虚，一脸恍惚，嘴唇不住地颤抖。"
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "d00714ca",
+      "speaker": "",
+      "ja": "そんな永虚の見たことのない姿に高ぶった{G_PlayerName}は２回目とは思えない程の精液を出し続けてしまった。",
+      "zh": "看到永虚那前所未有的放荡模样，兴奋起来的{G_PlayerName}射出了完全不像是第二次的量，持续不断地喷射。"
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "e878bdca",
+      "speaker": "永虚",
+      "ja": "はぁ……はぁ……んふぅ……ふぅ……んはぁぁ……♥",
+      "zh": "哈啊……哈啊……嗯呼……呼……嗯哈啊啊……♥"
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "2864925b",
+      "speaker": "",
+      "ja": "甘い吐息を漏らしながら永虚は{G_PlayerName}の上でピクピクと体を痙攣させる。",
+      "zh": "永虚一边吐出甜美的喘息，一边在{G_PlayerName}身上微微痉挛着。"
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "531a4ad1",
+      "speaker": "{G_PlayerName}",
+      "ja": "永虚……すごく気持ちよかったよ……",
+      "zh": "永虚……感觉真是太舒服了……"
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "88e3e17f",
+      "speaker": "永虚",
+      "ja": "我も♥　そなたとの性行為は……すごく気持ちよかったぞ♥　んはぁぁ♥",
+      "zh": "我也♥ 和你做爱……真是爽死了♥ 嗯啊啊♥"
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "91d06200",
+      "speaker": "",
+      "ja": "永虚は上に乗ったまま息を切らしつつ熱い視線を{G_PlayerName}へと向けて幸せそうに微笑んでいた。",
+      "zh": "永虚依旧骑在上面，屏住呼吸，热切地看着{G_PlayerName}，露出了幸福的微笑。"
+    }
+  ]
+}

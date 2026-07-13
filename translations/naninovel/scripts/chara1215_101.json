@@ -1,0 +1,274 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "72555260",
+      "speaker": "永虚",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "6368653",
+      "speaker": "",
+      "ja": "無言で……いや、無音で{G_PlayerName}の部屋に入室する永虚。",
+      "zh": "永虚一言不发……不对，是悄无声息地走进{G_PlayerName}的房间。"
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "24ce79ca",
+      "speaker": "永虚",
+      "ja": "不在か。気配でわかってはいたがな",
+      "zh": "不在啊。虽然从气息上就知道你不在。"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "f5ba0826",
+      "speaker": "永虚",
+      "ja": "この部屋は侵入が容易すぎるな……あと……",
+      "zh": "这房间也太好闯进来了……还有……"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "82ba2667",
+      "speaker": "",
+      "ja": "永虚は散らかっている室内を一瞥し、曇った表情を更に曇らせた。",
+      "zh": "永虚扫了一眼乱糟糟的房间，脸色更阴沉了。"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "1d4e7df2",
+      "speaker": "永虚",
+      "ja": "……",
+      "zh": "……"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "c3aa42b8",
+      "speaker": "",
+      "ja": "部屋の中はどこかの星で入手した機械の雑誌や本、それを梱包していたと思われる包装、広告やチラシ等が積み上がっている。",
+      "zh": "房间里堆满了不知从哪个星球弄来的机械杂志和书籍，还有似乎是打包用的包装纸、广告单和传单。"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "2c16a23e",
+      "speaker": "永虚",
+      "ja": "足の踏み場もない、とはこの事か",
+      "zh": "连个下脚的地方都没有，就是指这个吧。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "4de268e5",
+      "speaker": "",
+      "ja": "呆れ顔でそう呟くとベッドに腰を下ろそうとしたが、そのベッドの上も洗濯を終えた衣類や下着が畳まれもせずに散乱していた。",
+      "zh": "他一脸无奈地嘟囔着，想坐到床上，却发现床上也散落着洗好却没叠的衣服和内衣。"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "44f7812d",
+      "speaker": "永虚",
+      "ja": "はぁ……",
+      "zh": "唉……"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "a1fbed53",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー、満腹満腹。続き作っていくか～",
+      "zh": "呼——，吃饱喝足。接着做吧～"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": "……诶？"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "2a6fd5bd",
+      "speaker": "",
+      "ja": "散らかっていた部屋はすっかり綺麗になり、ベッドの上で正座した永虚がせっせと服を畳んでいた。",
+      "zh": "刚才还乱糟糟的房间现在一尘不染，永虚正端坐在床上，麻利地叠着衣服。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "65b5ac80",
+      "speaker": "{G_PlayerName}",
+      "ja": "永虚？！　部屋には鍵をかけていたのに、どうやって入ったんだ……ですか！？",
+      "zh": "永虚？！我明明锁了房门，你是怎么……进来的，吗！？"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "18a2336f",
+      "speaker": "永虚",
+      "ja": "暇だったのでな。稽古でもつけてやろうと思って来たが……",
+      "zh": "闲着也是闲着嘛。本来想来帮你打扫一下……结果……"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "dda4e91b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（答えになってない……）",
+      "zh": "（这根本答非所问……）"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "5240622e",
+      "speaker": "永虚",
+      "ja": "汝は稽古以前の問題のようだ。身体か精神。どちらかに問題がなければこのような部屋になっていないだろう",
+      "zh": "你这个问题，在打扫之前就有了。是身体，还是精神？要是都没问题，房间也不至于成这样。"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "8861fe84",
+      "speaker": "{G_PlayerName}",
+      "ja": "勝手に入っておいて失礼な事言わないでくださいよ……人を呼ぶなら掃除くらいしましたって",
+      "zh": "你招呼都不打就闯进来，还说这么失礼的话……既然要叫人，好歹帮忙打扫一下再叫啊。"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "c17f2d9",
+      "speaker": "",
+      "ja": "子供の言い訳のような返答をしてしまい、徐々に気恥ずかしくなってくる。",
+      "zh": "我像小孩子找借口一样回答了，渐渐觉得不好意思起来。"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "93b05e9d",
+      "speaker": "永虚",
+      "ja": "下着にも名前すら書いておらぬではないか、これでは誰の物かわからぬであろう",
+      "zh": "连内衣上都不写名字，这样谁分得清是谁的啊。"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "1b3c31d6",
+      "speaker": "",
+      "ja": "そう言って永虚が{G_PlayerName}の下着を突きつける。",
+      "zh": "说着，永虚一把把{G_PlayerName}的内裤递到面前。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "597ba0d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなもの握らないで？！　も、もういいですからっ！",
+      "zh": "别抓那个啊？！我、我已经不用了啦！"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "de9b641d",
+      "speaker": "",
+      "ja": "恥ずかしがる{G_PlayerName}だが永虚はキョトンとした顔で手にした下着を見つめた。",
+      "zh": "{G_PlayerName}羞得不行，永虚却一脸呆萌地盯着手里的内裤。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "3c32abff",
+      "speaker": "永虚",
+      "ja": "清め終わった衣服なのだから恥を覚えずともよい、香りも良いぞ",
+      "zh": "洗干净的衣服有什么好害羞的，而且味道还很香哦。"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "b1e6a3e8",
+      "speaker": "",
+      "ja": "そう言って永虚は{G_PlayerName}の下着を顔に当ててクンクンと匂いを嗅ぐ。",
+      "zh": "说着，永虚把{G_PlayerName}的内裤贴到脸上，小狗似的嗅个不停。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "c4564a01",
+      "speaker": "{G_PlayerName}",
+      "ja": "わーっ！　とっ、とにかく掃除してくれてありがとうございます！　後は自分でするんでっ！",
+      "zh": "哇啊！总、总之谢谢你帮我打扫！剩下的我自己来！"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "6cd8fcc7",
+      "speaker": "",
+      "ja": "慌てふためく{G_PlayerName}を見て、永虚はクスクスと笑った。",
+      "zh": "见{G_PlayerName}手忙脚乱的样子，永虚噗嗤一声笑了。"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "a9127035",
+      "speaker": "永虚",
+      "ja": "望むならそなたの母として、いつでも面倒をみてやるぞ？",
+      "zh": "只要你想，以后我就像妈妈一样，随时照顾你哦？"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "d5bba10f",
+      "speaker": "",
+      "ja": "からかうように永虚からそう言われた{G_PlayerName}はガックリと肩を落として呟く。",
+      "zh": "被永虚这么一逗，{G_PlayerName} 丧气地耷拉下肩膀，发出一声呻吟。"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "c89422ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう……勘弁して……",
+      "zh": "唉……饶了我吧……"
+    }
+  ]
+}

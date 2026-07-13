@@ -1,0 +1,481 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "870fe850",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そろそろか……）",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "7097eca8",
+      "speaker": "メイメイ",
+      "ja": "{G_PlayerName}くんっ！？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "203b7cf8",
+      "speaker": "",
+      "ja": "腕時計に視線を向けていると、聞き慣れた声が耳に届く。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "f781c33f",
+      "speaker": "",
+      "ja": "顔を上げると、メイメイが驚きの視線を俺に向けていた。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "13dbcfdb",
+      "speaker": "メイメイ",
+      "ja": "もしかして迎えに来てくれたの？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "ac3af789",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そんな格好だと不安だしな……もう夜も遅いんだし送り迎えくらいさせてくれ",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "e42277aa",
+      "speaker": "メイメイ",
+      "ja": "もう……心配なんてしなくていいって言ったのに……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "8be7f600",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ俺が勝手に心配してるだけだし、メイメイは何も気にしなくていいって",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "25b27297",
+      "speaker": "{G_PlayerName}",
+      "ja": "それより調査うまくいってるか？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "ee9a4917",
+      "speaker": "メイメイ",
+      "ja": "あら？　そんなこと気にしてたの？　作家は情報収集のプロよ？　大船に乗ったつもりで私に任せて！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "693b537e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……うまくいってんなら何よりだよ。で……何か新しい情報とかあった？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f54c2804",
+      "speaker": "メイメイ",
+      "ja": "あー……そ、それは……ほ、ほら、いつまでもこんなとこに突っ立ってないでそろそろ行きましょ？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "154354b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな、お店に迷惑かけるしな",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "f6e8c4a5",
+      "speaker": "メイメイ",
+      "ja": "（参ったな……情報なんて全然なのに……推しくんに良い恰好したいからってウソついてしまったわ……）",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "27a5a8bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも作家ってのはすごいな……情報とか集められてさ……俺、こういう場合どうしていいかさっぱりだしなぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "caf35b19",
+      "speaker": "メイメイ",
+      "ja": "ま、まぁ、ね……大人の色香？　そのおかげでお客さんもメロメロなのよ……！",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "fb71fc",
+      "speaker": "メイメイ",
+      "ja": "なんていうか、お客もスタッフも向こうから勝手に話してくれる感じ？　こちらとしては助かるんだけどね～♪",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "855ee4a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……ちゃんとやれてそうで安心したよ。正直に言うとさ、メイメイにキャバ嬢とかムリなんじゃないかって思ってたしさ",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "7be7b41d",
+      "speaker": "メイメイ",
+      "ja": "ふふん♪　作家がどれだけの人物を書き分けていると思っているのよ♪　他の誰かになれるなんて余裕なんだから♪",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "c077685f",
+      "speaker": "メイメイ",
+      "ja": "キャバ嬢だって例外じゃないのよ。　ふふふっ♪",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "54b8fb42",
+      "speaker": "メイメイ",
+      "ja": "（もう……もう……！　なんでこんなしょうもないウソついちゃってるのよ、私ってば……！）",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "21fe2afc",
+      "speaker": "メイメイ",
+      "ja": "（接客すらロクにできてないのに……陰キャの私にキャバ嬢は難しすぎるわよ……）",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "bc6749d4",
+      "speaker": "メイメイ",
+      "ja": "（派手な恰好すれば新しい自分になれるかもー、なんて気楽に考えて……根っこの性格部分なんてそうそう変わるわけないのに……）",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "5da2d2b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういやさ、ああいうお店だと指名とかもあるんだよな？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "62ae9327",
+      "speaker": "メイメイ",
+      "ja": "そ、そうね……指名とか入りっぱなし？　収入は良くなるけど、忙しいったらないわね♪",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "75bb981f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことになってるのか……それなら何か対策した方がいいかもしれないな……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "a962f1bf",
+      "speaker": "メイメイ",
+      "ja": "えっ？　えっ？　対策……？　そ、それってもしかして……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "fdd7f3eb",
+      "speaker": "メイメイ",
+      "ja": "私が指名されまくって嫉妬してるの！？　え、なにそれ？　よく考えたら尊い？　いや、よく考えなくても尊いわ……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "12816341",
+      "speaker": "メイメイ",
+      "ja": "想い人がお仕事とは言え、他の男を相手する……事情があるからと理解してるけど、心の整理が付かない淡い男心……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "59265123",
+      "speaker": "メイメイ",
+      "ja": "夜が訪れるたびに胸が締め付けられて、いてもたってもいられずに送り迎えと称して会いに来る……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "51536b3f",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、えっと……メイメイ……？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "9949753",
+      "speaker": "メイメイ",
+      "ja": "もし彼女がお仕事がうまくいっていなかったら、それを口実にやめさせようと……うんうん、わかるわかる、やめさせたいよね……！",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "d885aac0",
+      "speaker": "メイメイ",
+      "ja": "でもそれも叶いそうにない……彼女は天性の才能で男たちを虜にして……何故自分だけを見てくれないのか、どうして自分だけのモノになってくれないのか",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "fcddf77e",
+      "speaker": "メイメイ",
+      "ja": "何故、何故、何故、俺だけの蝶でいてくれないのか、どうして俺だけに羽ばたいてくれないのか、そう自問自答する日々……！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "1d4c3a1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……メイメイ？　おーい、メイメイ？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "df850fbf",
+      "speaker": "メイメイ",
+      "ja": "嫉妬とは独占欲！　推しくんはそう結論し、夜の蝶を自分だけのものにしようと手籠めに……！",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "2c32a01f",
+      "speaker": "メイメイ",
+      "ja": "ああ、ダメっ！♥　ダメよっ♥　今お仕事中なのよっ♥　周りにお客さんもスタッフもいるのよ？♥　それなのに、こんなところで～～～～っ！♥",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "4435ba43",
+      "speaker": "メイメイ",
+      "ja": "彼女は拒否するけど、推しくんの尊い思いまで拒否しきれないっ♥　でもやめさせなきゃ！♥　でも断り切れないっ♥",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "fb543d9f",
+      "speaker": "メイメイ",
+      "ja": "あぁ、あぁぁあ～～っ♥　この場合、どう答えてあげればいいのっ？♥　どうするのが正解なのっ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "be02970d",
+      "speaker": "メイメイ",
+      "ja": "推しくんも悩む！　彼女も悩む！　心は通じ合っているのにすれ違う日々！　どうすればこのズレを元に戻せるのっ！？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "fd9a8c71",
+      "speaker": "メイメイ",
+      "ja": "答えはいつまでも出ない！　でも推しくんの愛は止まらない！　大勢のお客とスタッフの前で彼女を──",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "be2ea123",
+      "speaker": "{G_PlayerName}",
+      "ja": "──メイメイ！！",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "aead157c",
+      "speaker": "メイメイ",
+      "ja": "……へ？　あ、な、何？",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "bee6c1a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "落ち着けって！　またわけわかんない妄言繰り返していたぞ？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "a464c1e2",
+      "speaker": "メイメイ",
+      "ja": "あ、あー……ご、ごめん……推しくんが嫉妬してるなんて思ったら、なんか妄想が一気に脳内に溢れて……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "21132f77",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に嫉妬とかしてないって。純粋に心配なだけだよ。危険なヤツとか来たりもするんだろう？　ヘンに加害されないために自衛手段とかそういうの必要なんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "620aa026",
+      "speaker": "メイメイ",
+      "ja": "あー……そ、そういうこと、ね……ちょっと残念……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "3f2fbf96",
+      "speaker": "メイメイ",
+      "ja": "で、でも大丈夫よ、悪い人ばかりじゃないから……何なら今度お店に来てみる？　私の働きっぷりを見せてあげるわ",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "88e90872",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうしたいけどさ、俺ああいった店に行ったことないんだよな……お酒とか注文しまくらないとダメとかあるんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "f113de89",
+      "speaker": "メイメイ",
+      "ja": "別にそんなにムリして注文なんてしなくても……普通におしゃべりするだけだし……まぁ、いろいろ注文してくれた方がいいとは思うけど",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "6e9c03f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……なら考えておくよ",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "b238040f",
+      "speaker": "メイメイ",
+      "ja": "ふふっ♪　推しくんが来てくれたらお値段以上にサービスしてあげる、だからいつでも来てね♪",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "900f34db",
+      "speaker": "メイメイ",
+      "ja": "（ああ、もう……私ったらまた大見得を切って……こうなったら推しくんが来るまでになんとか完璧な夜の蝶にならないと……）",
+      "zh": ""
+    }
+  ]
+}

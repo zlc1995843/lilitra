@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "8a5ef560",
+      "speaker": "セーヌ",
+      "ja": "～～～♪",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "a305f3d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……セーヌ！？　あいつまた何か企んでるのか！？）",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "6c655862",
+      "speaker": "{G_PlayerName}",
+      "ja": "こらっ！　セーヌ！！",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "e0cb689f",
+      "speaker": "セーヌ",
+      "ja": "ふえっ！？　き、機械士くんっ！？　な、なんだよ、突然……驚くじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "ad3b5c18",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなとこで何してんだ？　ヘンなこと企んでるんじゃないだろうな！？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "e40901cd",
+      "speaker": "セーヌ",
+      "ja": "た、企んでなんて……ただ散歩……あ、いや！　下見……そう、下見に来ただけだよ！　何も悪いことはしてないよ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "c9c9f9ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "下見って……やっぱ何か企んでるじゃん……まったく、しょうがない奴だな",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "b9edf814",
+      "speaker": "セーヌ",
+      "ja": "ふふ～ん、褒め言葉として受け取っておくよ～♪　はははは♪",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "4fc62ef8",
+      "speaker": "{G_PlayerName}",
+      "ja": "どこに褒める要素があったんだよ。お前、そのうち痛い目見るぞ？　泥棒なんてやめとけって",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "3942409a",
+      "speaker": "セーヌ",
+      "ja": "それは無理な注文だね♪　機械士くんさ、今から息を止めろって言われて止めるかい？　それと同じことをあなたは言っているんだよ",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "291b40db",
+      "speaker": "セーヌ",
+      "ja": "そう……怪盗こそがわたしの生きる道、生命活動なんだよ。わはははははっ",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "2c8e911a",
+      "speaker": "",
+      "ja": "セーヌはカッコよくくるりと回り決めポーズ。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "b676e43",
+      "speaker": "",
+      "ja": "いちいちリアクションがオーバーなのがセーヌらしい。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "50b155ce",
+      "speaker": "セーヌ",
+      "ja": "ところで機械士くんはこんなところで何をしているの？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "685f3134",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、グレメインに頼まれて街でトラブルが起きていないか見回り中だ",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "6a48b8ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "……お前を見かけるまではトラブルらしいトラブルなんて無かったんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "951dd448",
+      "speaker": "セーヌ",
+      "ja": "やれやれ……まだ何もしてないわたしを犯人扱いかい？　そういうのは良くないと思うよ？",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "a225cc2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー……前科がどれくらいあるか知らんけど、泥棒が何言ってんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "2081e047",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしてもさ……お前、昼間っからそんな格好なんだな……メチャクチャ目立つぞ？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "97535c39",
+      "speaker": "セーヌ",
+      "ja": "ふふん♪　これはわたしの正装だからね♪　いついかなる時もエレガントにいるために身に付けていないと♪　なんたって……",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "12b674d1",
+      "speaker": "セーヌ",
+      "ja": "大っ♪",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "e40d8eeb",
+      "speaker": "セーヌ",
+      "ja": "怪っ♪",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "a88cc5ea",
+      "speaker": "セーヌ",
+      "ja": "盗っ♪",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "10cd04a0",
+      "speaker": "セーヌ",
+      "ja": "だからね～♪　あはははは♪",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "992ab5d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええい！　いちいちポーズ決めんな！　鬱陶しい！！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "633c4598",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかしまぁ……泥棒のくせになんていうか……周囲の視線が温かいな……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "1408344b",
+      "speaker": "セーヌ",
+      "ja": "そうなんだよね～……なんかさ、わたしの求めている反応と違うんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "403859e3",
+      "speaker": "セーヌ",
+      "ja": "怪盗なんて日陰者で、街の嫌われ者……常に何かに追われ、ギリギリでスリリングな毎日を送る……はずなんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "69d70e4e",
+      "speaker": "セーヌ",
+      "ja": "どういうわけかパンを買えばオマケしてくれるし、レストランに行けば一品サービスしてくれるし……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "bd1c68b8",
+      "speaker": "セーヌ",
+      "ja": "お礼を言われたり握手を求められたり……いったいどうなっているんだろう……不思議だ",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "ca93a12b",
+      "speaker": "",
+      "ja": "セーヌは今の状況が不満なのか、大きくため息をつく。",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "9d65a160",
+      "speaker": "{G_PlayerName}",
+      "ja": "（セーヌの怪盗行為が実は住民のためになってるなんて言わないでおこう……義賊扱いされているなんて言ったらヘンなことしそうだし……）",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "a9d4af1d",
+      "speaker": "セーヌ",
+      "ja": "もっとこう……派手に活動したほうがいいのだろうか",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "27f61e39",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、今のまま……あ、違うか、泥棒自体やめとけって",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "254a7f9f",
+      "speaker": "セーヌ",
+      "ja": "だからそれはムリって言ってるでしょ♪　怪盗になるのがわたしの運命なんだからさ～",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "3043684d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……まぁ、運命かどうか知らんけど、腕前はすごいよな……リリアンとはいえ、警備隊から難なく逃げ切ってるしさ",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "94fd6c28",
+      "speaker": "セーヌ",
+      "ja": "そりゃあ、子供の頃から憧れていたからね～♪　ずいぶんと練習もしたしさ",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "11c804ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "（子供の頃に怪盗に……それは子供として健全なのだろうか……）",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "52f46999",
+      "speaker": "",
+      "ja": "セーヌが子供の頃にどんな生活を送っていたのかは知らない。",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "4db61fa5",
+      "speaker": "",
+      "ja": "でも怪盗に憧れるなんてちゃんとした道徳を学ぶ機会が無かったのかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "cd3abd79",
+      "speaker": "セーヌ",
+      "ja": "どんな鍵でも開けられるように勉強したし、逃走ルートの確立、そして一番重要なのはお宝の知識……！",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "80f4fb19",
+      "speaker": "セーヌ",
+      "ja": "そして今も日々学習～♪　怪盗に終わりはないのだ♪　あははははっ♪",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "ec45cf2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……まぁ応援は出来んけど……セーヌにとってそれだけ魅力がある職業？　なんだな……",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "af53f6e1",
+      "speaker": "セーヌ",
+      "ja": "ふっふ～ん！　それは当然だよ！　颯爽と現れ、華麗に獲物をいただく……！　月明かりのない街を駆け、屋根から屋根に飛び、そして音もなく消える",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "9f7b9456",
+      "speaker": "セーヌ",
+      "ja": "そういう姿に惹かれたんだ～♪　ね、ね、素晴らしいでしょ？　機械士くんも怪盗になりたいって思うでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "a85e1134",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、まったく思わん。どんなにそれっぽい言葉並べてもさ、泥棒は泥棒だろ？　盗みなんてよくないし",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "4de30dfe",
+      "speaker": "セーヌ",
+      "ja": "それなら理解させてあげよう！",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "9c5ebe6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、遠慮しとく……それじゃあ俺そろそろ行くわ",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "3fd35f9e",
+      "speaker": "",
+      "ja": "──ガシ！",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "6a931bbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、なに人の腕掴んでんだよ。離せって",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "d617eccd",
+      "speaker": "セーヌ",
+      "ja": "まぁまぁ、遠慮しなくてもいいから♪　わたしの話を最後まで聞けば、機械士くんはきっと怪盗に憧れると思うよ",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "e3943224",
+      "speaker": "セーヌ",
+      "ja": "それじゃあまずはわたしが怪盗に憧れた書物『蝶は闇夜を駆ける』についてレクチャーしてあげよう！",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "ccafb4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "んなもん聞きたくないって！　離せ！！　俺、パトロールの最中なんだよっ！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "59a41bdb",
+      "speaker": "",
+      "ja": "嬉々として怪盗について語り始めるセーヌ。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "83dfc02b",
+      "speaker": "",
+      "ja": "俺にそれを止める手段もなく、そこから一時間、延々とセーヌの話を聞く羽目になってしまうのであった。",
+      "zh": ""
+    }
+  ]
+}

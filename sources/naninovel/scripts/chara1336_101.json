@@ -1,0 +1,679 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "9df2a63e",
+      "speaker": "グレメイン",
+      "ja": "ううん……この悩み事は、また探偵にならねば解決できませんね",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "fa104b1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？　どんな悩みだったんだ？　あ、俺は聞かない方がいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "dbe8293b",
+      "speaker": "グレメイン",
+      "ja": "いえ、特に内密なことでもありませんから……一言で言ってしまえば窃盗ですね",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "b5a44f07",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なるほど、ようは犯人捜しをしないといけないってことか",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "79ee7e17",
+      "speaker": "{G_PlayerName}",
+      "ja": "……窃盗って言われると、思い当たる人物が一名いるんだけど……違うかな？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "10052c9a",
+      "speaker": "グレメイン",
+      "ja": "いえ、彼女ではないと思います。盗品の内容が彼女らしくないと──",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "f51e64cc",
+      "speaker": "ラト",
+      "ja": "あらあらあら、崇姫と呼ばれて調子に乗るだけでは飽き足らず、今度は探偵の真似事を始めたグレメインさんではございませんか♪",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "86a79833",
+      "speaker": "グレメイン",
+      "ja": "ラトさん？　なぜこんなところに……？",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "8c24fb26",
+      "speaker": "ラト",
+      "ja": "あらあらあら、そこの男に聞いていなかったのですか？　わたくしも、お悩み解決の手伝いに来ましたのに",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "b9a6cc33",
+      "speaker": "グレメイン",
+      "ja": "{G_PlayerName}様……？　どういうことですか……？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "57725bc3",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……ラト、ど、どういうことだ？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "c5342507",
+      "speaker": "ラト",
+      "ja": "む……！　今度お仕事を手伝ってほしいとおっしゃったのはあなたでしょう！？　だからこうして来たくもないところにわざわざ出向いて差し上げましたのにっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "443a5bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなこと言ったっけ……？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "811a4308",
+      "speaker": "ラト",
+      "ja": "ええ、間違いなく言いました……！　警備とかの仕事は大変だから、暇だったら手伝えって！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "2e6e0869",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……なんか言ったような気がするけど……でもそれ街をパトロールするとかって話だぞ？　別にグレメインの依頼を手伝えなんて一言も……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "c3394698",
+      "speaker": "ラト",
+      "ja": "お仕事はお仕事でしょう……！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "da9ed445",
+      "speaker": "グレメイン",
+      "ja": "なるほど……それでわざわざおいでになられて……。それならせっかくのご厚意です、お言葉に甘えてもよろしいでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "91bb4cdc",
+      "speaker": "ラト",
+      "ja": "もちろん。街の平和のために手を取り合わないとですからねっ",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "a5a8e24c",
+      "speaker": "ラト",
+      "ja": "（くくく、相変わらずお人好しね……♪　でもこれで崇姫に貸しを作ることができる……♪　せいぜい利用させてもらうからね……くくっ）",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "1fffc280",
+      "speaker": "グレメイン",
+      "ja": "さて、それではさっそく状況の整理から始めましょうか",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "3bd4bf07",
+      "speaker": "{G_PlayerName}",
+      "ja": "手紙に書いてあるのか？　ならわざわざ現場まで行かなくてもよさそうだな",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "ecefcb55",
+      "speaker": "ラト",
+      "ja": "あら残念ですね。崇姫様の探偵ぶりを見せつける機会だったでしょうに",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "7457f167",
+      "speaker": "グレメイン",
+      "ja": "いえ、そんなわざわざお見せするような話でありませんから……",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "1e24c834",
+      "speaker": "ラト",
+      "ja": "ま、どっちでもいいですけど。それじゃあパパッと解決してしまいましょう、どれどれ……ふむふむ……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "1e1ca5e5",
+      "speaker": "ラト",
+      "ja": "……ああ、もう犯人はわかりました",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "699ed8e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "早すぎんだろ！　てか俺にも手紙見せろ！　どういう状況なのかさっぱりわからんっ！",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "b65ab1a9",
+      "speaker": "ラト",
+      "ja": "あなたが知る必要はありません。だってこの窃盗の犯人は隣の教会の手の者ですから",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "4a1c0d",
+      "speaker": "ラト",
+      "ja": "二つの教会は昔から犬猿の仲でしたからね。こんなの簡単すぎて欠伸が出そうですわ。おほほほほほほっ",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "f207fddd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？　グレメイン",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "39fbabab",
+      "speaker": "グレメイン",
+      "ja": "いえ、違うと思いますね……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "1941360",
+      "speaker": "ラト",
+      "ja": "はぁっ！？　そんなわけありませんわ！　先にわたくしに正解を言われたら否定したいだけでしょう！？",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "92dceabd",
+      "speaker": "グレメイン",
+      "ja": "……犯人は同じ教会にいる幼い信徒かと",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "ba23dfb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "身内が犯人ってことか……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "ebbd126b",
+      "speaker": "グレメイン",
+      "ja": "犯人、というのはいささか語弊があるかと……ようは作法の問題です。この教会ではある特殊な作法がありまして、信徒はその作法を教義としております",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "61953dde",
+      "speaker": "グレメイン",
+      "ja": "……その時、持って帰ってはいけないものを持って帰ってしまった……そういうことかと",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "906a80e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なるほど、だから幼い信徒なのか。その作法とやらに詳しくないから",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "dbe9ec23",
+      "speaker": "ラト",
+      "ja": "何を言い出すかと思えば……子供を犯人にするなんて崇姫様はひどいお方でいらっしゃいますね～",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "63e4b9fa",
+      "speaker": "グレメイン",
+      "ja": "……予想される背丈がリリアンよりも小さい……ならば子供に……本人に悪意はなかったと思いたいです",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "b2e21720",
+      "speaker": "ラト",
+      "ja": "むむ、むむむ……やはり違うと思いますっ……！　どこからどう見ても教会同士の揉め事……これ以外に考えられませんっ！",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "45d89c98",
+      "speaker": "ラト",
+      "ja": "お忙しい崇姫様は知らなかったのでしょうけど、何日か前に教会の信徒同士で殴り合いのケンカがありましたから！",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "63e4b3d9",
+      "speaker": "ラト",
+      "ja": "先に手を出したのは被害の遭った教会の信徒……つまり、被害者は隣の教会の信徒ということになりますから、ちゃんとした動機があるんですっ",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "6c0dd6f2",
+      "speaker": "グレメイン",
+      "ja": "その事件も……ケンカをした二人の信徒は元々、気心知れた関係でありました",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "366cabd3",
+      "speaker": "グレメイン",
+      "ja": "互いに教会を貶める行為などはこれまで行った記録はありません。友人同士の行き過ぎた行動だったわけです",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "bd43e4a7",
+      "speaker": "グレメイン",
+      "ja": "ですので、教会同士は特に大事にせず、互いに謝罪のみで事を収めました。ほかの信徒たちも特に不満に思った形跡などは確認されていませんね",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "edc59043",
+      "speaker": "ラト",
+      "ja": "む、む、むうう……でも、でも……でも……！　むーーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "24b678f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、落ち着けよ。ラトにはこういうの向かないんだよ",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "ffb0fddd",
+      "speaker": "ラト",
+      "ja": "そんなわけないでしょう！　グレメインにできることはわたくしにもできますっ！！",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "99c67970",
+      "speaker": "ラト",
+      "ja": "ふふん、なら次の相談で改めて勝負ですっ！　えっと……どれどれ～……",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "7efa87a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、勝手に見るなよ……他所の教会の相談事だろ？",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "63010493",
+      "speaker": "グレメイン",
+      "ja": "いえ、特に構いませんよ？　プライバシーに関わるような相談はありませんから。{G_PlayerName}様も見ますか？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "7a98db9a",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、やめとくよ……俺が見て良いとは思わないしさ",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "502013fa",
+      "speaker": "グレメイン",
+      "ja": "ふふっ、真面目なお方ですね。そんなところがあなたの信用を高めているのでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "31f8e54c",
+      "speaker": "ラト",
+      "ja": "ロクな相談がないじゃない！　なんで煙突の掃除とか、花壇の水やりの相談があるのよっ！",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "110c7b48",
+      "speaker": "グレメイン",
+      "ja": "え、ええ……何かと勘違いされる相談が毎回幾つかあるんですよね……花壇の水やり程度ならともかく、煙突のお掃除はさすがに……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "4722a769",
+      "speaker": "{G_PlayerName}",
+      "ja": "それ便利屋か何かと勘違いされてないか？　色々手伝いすぎなんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "2980e5f9",
+      "speaker": "グレメイン",
+      "ja": "周囲の好感を得られるので、簡単な手伝いなら様々な信徒の方が進んでされるのですよ。……少しやりすぎましたかね",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "e0407e04",
+      "speaker": "ラト",
+      "ja": "ぜんっぜんダメ！　ロクなのがない……！　推理勝負できる悩みはないわけ！？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "e955c626",
+      "speaker": "グレメイン",
+      "ja": "……探偵として大っぴらに活動しているわけではございませんから、当然かと",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "b0fcb9d4",
+      "speaker": "ラト",
+      "ja": "であればちゃんと名乗りを上げて商売すればいいでしょう！　今からでも手柄を主張して大々的に募集しなさいっ！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "d398680f",
+      "speaker": "グレメイン",
+      "ja": "お、落ち着いてください。商売にするわけにもいきませんし、そんな都合の良い依頼なんて探しても見つかりませんよ",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "5f57addf",
+      "speaker": "ラト",
+      "ja": "そうなの……？　であれば、架空の物語を使って推理対決です！　あなた、宇宙船とやらに物語がたくさんあるのでしょう？　いますぐに用意しなさいっ！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "c4d20947",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺が用意するのかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "46d50714",
+      "speaker": "ラト",
+      "ja": "当然です！　ほら、さっそく宇宙船に行きますよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "149f7b28",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、おい！　い、行ってしまった……。グレメインがその勝負を受けるなんて一言も言ってないのに……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "c7a718e1",
+      "speaker": "グレメイン",
+      "ja": "でも推理対決は面白そうですね……",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "f774b957",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか？　探偵の血が騒ぐってヤツ？　それならアポロに頼んで推理小説をいくつか──",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "6af94ca7",
+      "speaker": "グレメイン",
+      "ja": "ラトさんを正々堂々とイジメられますからね♥",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "3f0ce87",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ちょ、ちょっと怖いな……）",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "ff86eabd",
+      "speaker": "グレメイン",
+      "ja": "あ、そうでした。{G_PlayerName}さん、次は私に無許可でお手伝いを呼ばないでくださいね？",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "bb57f7d0",
+      "speaker": "グレメイン",
+      "ja": "あなたと二人の時間を、楽しみにしていたのですから……",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "4f52593a",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！　す……すまん。次からは気をつけるよ",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "8ecaa68e",
+      "speaker": "グレメイン",
+      "ja": "ふふ、顔が赤いですよ？　可愛らしいですね……♥　それでは行きましょう♪",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "7be79df7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "379f8ca6",
+      "speaker": "",
+      "ja": "グレメインがそっと俺の手をつかむ。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "416af176",
+      "speaker": "",
+      "ja": "俺たちは恋人繋ぎをする形で手を取り合うと、ラトの待つ宇宙船へと向かうのであった。",
+      "zh": ""
+    }
+  ]
+}
