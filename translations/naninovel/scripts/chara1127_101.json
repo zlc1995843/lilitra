@@ -1,0 +1,319 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "4a751612",
+      "speaker": "ジラド",
+      "ja": "どうだ！　これが映画というものだ！",
+      "zh": "怎么样！这就是电影！"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "dff0d93f",
+      "speaker": "{G_PlayerName}",
+      "ja": "おおっ！",
+      "zh": "哦哦！"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "bf0eaeee",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まさかジラドの部屋に招かれて、見せつけられたのがこれか！）",
+      "zh": "（没想到被吉拉德叫来房间，就是为了给我炫耀这个！）"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "2b714c15",
+      "speaker": "ジラド",
+      "ja": "そしてこれが映像投射機なのだ！　どうだ！　すごいだろ！",
+      "zh": "然后这就是投影仪！怎么样！厉害吧！"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "8cc92186",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すごいっ！",
+      "zh": "厉、厉害！"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "b83b02e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり宴と平和の星、結構技術進んでたんだな……もう宇宙船の機械を使いこなしてるぞ）",
+      "zh": "（不愧是宴与和平之星，结晶技术进步真快啊……连宇宙船的机械都运用自如了。）"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "a09f08f0",
+      "speaker": "ジラド",
+      "ja": "どうだ！　まだまだコレクションはあるぞ！　ほら、ガムラ対グルド！　サムド対ゲラド！",
+      "zh": "怎么样！我的收藏还多着呢！你看，加姆拉对格尔德！萨姆德对杰拉德！"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "d4cb4859",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……すごいな……",
+      "zh": "哦、哦哦……好厉害……"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "f36b3dda",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ジラドのコレクションっていうか、偶然見つけた好きな映像作品ってことだよな……似たようなの多いな）",
+      "zh": "（说是吉拉德的收藏，其实就是他偶然发现的喜欢的影片吧……类似的还真多啊。）"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "d7223d2f",
+      "speaker": "ジラド",
+      "ja": "よしよし♥　驚いている♥　よ～し！　この数あるコレクションの中から……まずはこれだ！",
+      "zh": "好好♥ 很惊讶嘛♥ 好～嘞！从我这众多的收藏中……先看这个！"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "797b5fe0",
+      "speaker": "{G_PlayerName}",
+      "ja": "これは？",
+      "zh": "这是？"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "d3fb437",
+      "speaker": "ジラド",
+      "ja": "これはな♥　かっこいい怪獣が人間達の身勝手さをとがめるために、あえて！　悪役となって世界を襲い、最後には人間を団結させるという痛快な映画なのだ！",
+      "zh": "这个啊♥ 讲的是超酷的怪兽为了惩罚人类的任性，故意！扮演反派袭击世界，最终让人类团结起来的痛快电影！"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "1ce954a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほぼネタバレ……",
+      "zh": "这几乎剧透完了吧……"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "27d61d8d",
+      "speaker": "ジラド",
+      "ja": "うるさいうるさい！　つべこべ言わずに見るのだ！",
+      "zh": "吵死了吵死了！别啰嗦，好好看！"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "d5d35fa6",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい……",
+      "zh": "好好好……"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "763f8208",
+      "speaker": "ジラド",
+      "ja": "よーし、はじめるぞー！",
+      "zh": "好～，要开始了～！"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "e7354092",
+      "speaker": "{G_PlayerName}",
+      "ja": "（暗くなった部屋に映像が投影されて……迫力あるな。プラネタリウムを思い出すぞ）",
+      "zh": "（变暗的房间里投影出影像……好有魄力啊。让我想起了天象馆。）"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "424b959b",
+      "speaker": "ジラド",
+      "ja": "もぐもぐ……やはり映画を見るときはお菓子にかぎるのだ！",
+      "zh": "嚼嚼……果然看电影还得配零食！"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "be44187e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうもんか？　まあ、じゃあもらおうかな",
+      "zh": "是这样的吗？好吧，那我也来点。"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "a9776bab",
+      "speaker": "ジラド",
+      "ja": "うお～～～～！　そこだ～～～！",
+      "zh": "哦～～～～！就在那～～～～！"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "2ea70057",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱりジラドは怪獣の応援をするんだな……",
+      "zh": "果然吉拉德是来给怪兽加油的啊……"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "f45e89f1",
+      "speaker": "ジラド",
+      "ja": "がんばれ～～～！　まけるな～～～！",
+      "zh": "加油～～～！别输啊～～～！"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "28ce1911",
+      "speaker": "{G_PlayerName}",
+      "ja": "（映画の怪獣に合わせて身振り手振りをくわえて見入っちゃってるよ）",
+      "zh": "（他配合电影里的怪兽，手舞足蹈看得入了迷）"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "e68bfa",
+      "speaker": "ジラド",
+      "ja": "いけ～～～～！　そこだ～～～！　がお～～～～！",
+      "zh": "上啊～～～～！就是那里～～～！吼～～～～！"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "ba44195e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも、ジラドって本当にこの映画っていうのが好きなんだな、こんなに夢中になって……かわいいな♥）",
+      "zh": "（不过，吉拉德真的很喜欢这部电影啊，看得这么入迷……真可爱♥）"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "293c6408",
+      "speaker": "ジラド",
+      "ja": "いけー！　そこだー！",
+      "zh": "上啊！就是那里！"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "a4e03b05",
+      "speaker": "{G_PlayerName}",
+      "ja": "（盛り上がりすぎて気づいていないのか……こんなにくっついて……。）",
+      "zh": "（是不是太兴奋了没注意到……靠得这么近……）"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "bb2937c5",
+      "speaker": "ジラド",
+      "ja": "んっ？　なんだか手が温かい……って？！　わ、わ、わっ……！",
+      "zh": "嗯？怎么手有点暖和……咦？！哇、哇、哇……！"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "3561ea5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　どうかしたのか？",
+      "zh": "……嗯？怎么了？"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "2dbe2e52",
+      "speaker": "ジラド",
+      "ja": "な、な、な、な、な、なんでもないのだっ！",
+      "zh": "没、没、没、没什么啦！"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "2b0ca6de",
+      "speaker": "ジラド",
+      "ja": "（わ、わ、わたしとしたことが……映画に夢中で気がつかなかったが、こんなにピッタリくっついて♥　それに思いっきり手を握ってしまってるぅ♥）",
+      "zh": "（我、我这真是……光顾着看电影没发现，两个人贴得这么紧♥ 而且还使劲握着人家的手呢♥）"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "c687a527",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　急に大人しくなっちゃって……俺の事なら気にしなくていいからしっかり楽しめよ",
+      "zh": "怎么了？突然变得这么老实……不用管我，好好看电影吧。"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "df628ae7",
+      "speaker": "ジラド",
+      "ja": "え、映画はほんらい大人しく見るものなのだ……",
+      "zh": "呃，电影本来就应该安安静静地看……"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "6307eb45",
+      "speaker": "ジラド",
+      "ja": "（というか、手から伝わってくる温かさとか……気になってもう映画どころのはなしじゃないのだっ）",
+      "zh": "（不对，手上传来的温度……让我好在意，根本没法专心看电影了啦）"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "56ae48fc",
+      "speaker": "ジラド",
+      "ja": "（で、でもいまさら手を離すのも気まずいし……はう～♥　どうしたらいいのだ～♥）",
+      "zh": "（可、可现在把手抽开又有点尴尬……啊呜～♥ 该怎么办才好呢～♥）"
+    }
+  ]
+}

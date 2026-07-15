@@ -1,0 +1,553 @@
+{
+  "lines": [
+    {
+      "key": "9.1",
+      "line_index": 9,
+      "inline_index": 1,
+      "line_hash": "6933391e",
+      "speaker": "シュー",
+      "ja": "う～……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "e3338117",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだい、シュー？　海に入らないのかい？",
+      "zh": ""
+    },
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "4ea7170e",
+      "speaker": "シュー",
+      "ja": "だって～……こわいよぉ……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "90dfb29",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、足にしがみついちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "527df609",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺とブロワーが海に行ったって話を聞いて、自分も海に行きたいとねだってきたシューなんだけど）",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "847d9961",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いざ連れてきたらこの状況で、どうしたらよいものか）",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "b1ade3f1",
+      "speaker": "ブロワー",
+      "ja": "仕方ねぇなぁ、だったらおいらが手を繋いでやるよ",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "15a42d7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあもう片手は俺が握っていてあげるから、これなら怖くないだろ？",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "8501b74a",
+      "speaker": "シュー",
+      "ja": "うん、おにいちゃんたちが、おててつないでくれると安心する……",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "d03678a3",
+      "speaker": "ブロワー",
+      "ja": "まあ、取りあえず波打ち際で慣れようか",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "49012b37",
+      "speaker": "シュー",
+      "ja": "わかったぁ、おてて離しちゃやだよ",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "42aef9f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "絶対に離さないから、安心して",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "f182ad9c",
+      "speaker": "シュー",
+      "ja": "きゃ！　お水に連れていかれそう……でも、きもちいい、かな……？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "f897ef5c",
+      "speaker": "ブロワー",
+      "ja": "だろ？　冷たくて気持ちいいだろ？",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "8463357e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お水に連れて行かれないようにしっかり手を繋いでいるから安心して",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "ded21584",
+      "speaker": "シュー",
+      "ja": "うんっ！　お水でばしゃばしゃするの、たのし～♥",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "97b0b3db",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ、海に入るのも気持ちいいけど、砂浜で遊ぶのも楽しいよ",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "158e3222",
+      "speaker": "シュー",
+      "ja": "えっ？　お兄ちゃん、おすなで何して遊ぶの？",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "b2ae1c71",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだなぁ、砂でお城を作ったりとか、かな",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "3bb4e95b",
+      "speaker": "シュー",
+      "ja": "それ楽しそう！　お兄ちゃん、早くお城作ろっ♥",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "bc98f78b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい、それじゃあ早速作ろうか",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "faad373",
+      "speaker": "シュー",
+      "ja": "わ～いっ♥",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "f75a1f5e",
+      "speaker": "ブロワー",
+      "ja": "だったらおいらの出番だな、土木工事なら得意分野だ",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "e8b7f011",
+      "speaker": "{G_PlayerName}",
+      "ja": "土木工事って……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "e3219051",
+      "speaker": "ブロワー",
+      "ja": "待ってろ、砂の城なんてあっという間に作ってやる！",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "c313f801",
+      "speaker": "シュー",
+      "ja": "シューも一緒につくる～！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "4cb30b51",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい待ってくれよ、俺も行くって",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "fba40e3d",
+      "speaker": "ブロワー",
+      "ja": "……よーし、完璧だ！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "b0608600",
+      "speaker": "シュー",
+      "ja": "おしろできた～♥",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "4aa843a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだか……本格的な砂の城が出来上がったな……さすがブロワー",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "fe26037d",
+      "speaker": "ブロワー",
+      "ja": "でもまだこれで終わりじゃない！　トンネルを掘って開通させよう！",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "98b882e0",
+      "speaker": "シュー",
+      "ja": "おもしろそ～！　シューはここからトンネル掘るね♥",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "10d757dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ俺はこっちから",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "983a6fe5",
+      "speaker": "ブロワー",
+      "ja": "おいらはこっちから掘っていくぜ！",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "487b4ebb",
+      "speaker": "シュー",
+      "ja": "よいしょ！　よいしょ！　よいしょ！　きゃっ！",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "2f9cfcba",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうした？　シュー",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "427c4d9",
+      "speaker": "シュー",
+      "ja": "いきなりおててつかまれた～！",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "26c8939d",
+      "speaker": "ブロワー",
+      "ja": "にひひっ、ビックリしたか？",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "1b465c5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、あまりシューを驚かすなよ……って、うぎゃあ！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "708a9051",
+      "speaker": "ブロワー",
+      "ja": "へへへ、隙ありだったな♥　うひゃあ！",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "af1a2d9d",
+      "speaker": "シュー",
+      "ja": "あははははっ♥　おかえししちゃった♥",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "cdb137f1",
+      "speaker": "ブロワー",
+      "ja": "このぉ、やったなぁ！　また手を掴んでやる！",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "c2ac67f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだかシューに引っ張られて、ブロワーも童心に戻ってるような……）",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "13e7fafe",
+      "speaker": "ブロワー",
+      "ja": "ふぅぅ……ちょっとはしゃぎすぎたか？　そろそろ嬢ちゃんは水分補給した方がいいな",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "8587bcf2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな、ちょっと待っててくれ……クーラーボックスから……ジュースをっと",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "c682ea2d",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、シュー、ジュースだよ",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "9a5ba8a2",
+      "speaker": "シュー",
+      "ja": "ありがとうお兄ちゃん♥　んっくんっくんっく……あふぅぅ……おいし～♥",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "85e8da54",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブロワーも、ジュースで良かったかな？",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "a79e45d5",
+      "speaker": "ブロワー",
+      "ja": "サンキュー！　ごくごくごくごくっ……ぷはぁぁ、生き返るぜ！",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "eb19c603",
+      "speaker": "{G_PlayerName}",
+      "ja": "さてと俺も何か飲もうかな……",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "afd98764",
+      "speaker": "ブロワー",
+      "ja": "おっと嬢ちゃん、こんなに汗掻いて……タオルで拭かないと……ジッとしてるんだぞ",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "5b84d7f4",
+      "speaker": "シュー",
+      "ja": "んんっ……ありがとう、お姉ちゃん",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "8ec99ed",
+      "speaker": "ブロワー",
+      "ja": "あんちゃんも汗だくだな、ほら拭いてやるよ",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "b3cd9a15",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……ありがとう",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "e2896b6e",
+      "speaker": "シュー",
+      "ja": "えへへ♥　お兄ちゃんとお姉ちゃん、シューのお父さんとお母さんになったみたい♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "bec01715",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　お、お父さん？",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "820395ed",
+      "speaker": "ブロワー",
+      "ja": "お、お母さんとか……おいおい、ちょっと待てよ……へへっ♥",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "718beefe",
+      "speaker": "シュー",
+      "ja": "あれ～？　お兄ちゃんもお姉ちゃんも、おかおがまっかだよ？　今度はシューがおかおふいてあげようか？",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "ca42dc2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫だよ……しかしお父さんとお母さんって……な、なあ……ブロワー",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "98d5b94f",
+      "speaker": "ブロワー",
+      "ja": "そ、そうだぞ……あ、あまりからかうんじゃないぜ……あははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "be138f21",
+      "speaker": "ブロワー",
+      "ja": "えへへへへ～♥",
+      "zh": ""
+    }
+  ]
+}

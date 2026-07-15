@@ -1,0 +1,274 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "b78a65a7",
+      "speaker": "",
+      "ja": "着飾ってパーティー会場に来たパセリは辺りをキョロキョロと見回していた。",
+      "zh": "精心打扮的帕塞莉来到派对会场，四处张望。"
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "5ed896c8",
+      "speaker": "",
+      "ja": "そんなパセリに{G_PlayerName}は不信感を抱き声をかけてみる。",
+      "zh": "看到帕塞莉这副样子，{G_PlayerName}有些怀疑，试着出声叫她。"
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "20ee993b",
+      "speaker": "{G_PlayerName}",
+      "ja": "パセリ……なにしているんだ？",
+      "zh": "帕塞莉……你这是在干嘛呢？"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "1526b72c",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の問いかけにパセリはどこか嬉しそうな感じで答えた。",
+      "zh": "听到{G_PlayerName}这么问，帕塞莉带着点开心的样子答道。"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "4dfb3802",
+      "speaker": "パセリ",
+      "ja": "見てわからないのですか？　この会場にある調度品や来賓の方の服装……白夜と砂の星で売れそうな品物がないか確認していたのですわ",
+      "zh": "你没看出来吗？我正在观察会场里的装饰和来宾的着装……确认有没有能在白夜与砂之星热销的商品。"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "40427d1",
+      "speaker": "",
+      "ja": "商売っ気丸出しのパセリの答えに{G_PlayerName}は少し呆れ顔を浮かべる。",
+      "zh": "听到帕塞莉毫不掩饰的生意经，{G_PlayerName}不禁有点傻眼。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "9f490290",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなパーティーの場でまでそんなことを考えなくても……",
+      "zh": "都到派对会场了，还琢磨这些事……"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "e1334eb1",
+      "speaker": "パセリ",
+      "ja": "まっ！　失礼ですわね！　商人として当たり前のことです！",
+      "zh": "哇！真失礼啊你！这可是商人的本分嘛！"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "7c88fa4f",
+      "speaker": "パセリ",
+      "ja": "こういった地道な努力こそが、わたくしめ達が住む国のためにもなるのでございますっ！",
+      "zh": "这种脚踏实地的努力，今后也会为我们生活的国家做贡献的！"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a3628d4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……",
+      "zh": "呃，抱歉……"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "ad22ac1d",
+      "speaker": "",
+      "ja": "少しムッとしているパセリに{G_PlayerName}は頭を下げると、気になったことを聞いてみた。",
+      "zh": "{G_PlayerName}见帕塞莉有点不高兴，便低下头，问出了心里在意的事。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "5dc50cfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……どんなところを注視しているんだい？",
+      "zh": "不过……你具体都在关注哪些方面呢？"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "73b16ac6",
+      "speaker": "パセリ",
+      "ja": "そうですわね……まずは技術の高さを観察してますわ……その技術を活かした売れる商品はないかと考えておりますの",
+      "zh": "是啊……首先在观察技术水平……在想有没有能活用这些技术卖得动的商品呢。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "a37003da",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……",
+      "zh": "原来如此……"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "62aac2f9",
+      "speaker": "パセリ",
+      "ja": "ですが……この星の技術はあらゆる物が高すぎて……",
+      "zh": "但是……这个星球的技术，不管什么都太高端了……"
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "9ff31d46",
+      "speaker": "パセリ",
+      "ja": "困ってしまいますわ！　ああ、まるでここは金が湧くオアシスですわっ！",
+      "zh": "真让人头疼啊！啊啊，这里简直就像个喷金的绿洲啊！"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "2f734c31",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは……あんまりそういうことは大声で言わないように……",
+      "zh": "哈哈……这种事可别大声嚷嚷……"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "6bd8df26",
+      "speaker": "パセリ",
+      "ja": "でも、あなたも他人事ではありませんのよ",
+      "zh": "不过，你也脱不了干系哦。"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "8c9836f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　他人事じゃないって……どういう事？",
+      "zh": "咦？脱不了干系……什么意思？"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "8505cd44",
+      "speaker": "",
+      "ja": "まさか商売を手伝えとか言われるんじゃないかと身構える{G_PlayerName}だが、パセリは諭すような感じで語り出す。",
+      "zh": "{G_PlayerName}心想该不会是要自己帮忙做生意吧，正提防着，帕塞莉却用开导般的语气说了起来。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "bd7f3e38",
+      "speaker": "パセリ",
+      "ja": "ここの機械の技術を見て自分に活かせる物はないか……常に探すべきではありませんこと？",
+      "zh": "看了这里的机械技术，有没有自己能派上用场的地方？……得随时留意挖掘才行，你说对吧？"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "56434de3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……そうかも知れんが……",
+      "zh": "唔、好吧……或许是吧……"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "ff2cdbd1",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にパセリはこんこんと語り続けた。",
+      "zh": "面对那样的{G_PlayerName}，帕塞莉依然滔滔不绝。"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "d967e4de",
+      "speaker": "パセリ",
+      "ja": "一見関係ないと思われる物でも、それが作られるまでに使われている機械や技術……そういうものがあるに違いありませんわ",
+      "zh": "就算看似毫不相干的东西，在制造过程中也会用到某些机械或技术……这种东西肯定存在的呀。"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "a1443f17",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……う～ん、今までそういう着眼点はなかったなぁ……",
+      "zh": "说得也是……嗯～我之前还真没从这个角度想过呢……"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "7eefea6b",
+      "speaker": "",
+      "ja": "感心する{G_PlayerName}だったが、今まで諭すようだったパセリの口調が突然変わる。",
+      "zh": "{G_PlayerName}正听得佩服，不料帕塞莉一直说教似的语气突然一变。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "43742ad",
+      "speaker": "パセリ",
+      "ja": "そして！　お客さまの機械技術が上がれば、わたくしめがそれを買い取って、こちらの星で売りさばいてみせますわ～！",
+      "zh": "而且！只要您的机械技术进步，鄙人就会收购过来，在这边星球上大肆贩卖的！"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "7857a104",
+      "speaker": "",
+      "ja": "さっきまでとは打って変わって商売っ気を前面に出すパセリを見て{G_PlayerName}は思わず溜め息を吐いてしまった。",
+      "zh": "见帕塞莉与刚才判若两人，一副生意人的嘴脸，{G_PlayerName}不禁叹了口气。"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "24d172b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり俺のためじゃなくて自分の商売のためだったか……",
+      "zh": "果然不是为了我，是为了你自己的生意吧……"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "d9cbb0b4",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}はガックリと肩を落としてしまった。",
+      "zh": "说完，{G_PlayerName}无力地耷拉下肩膀。"
+    }
+  ]
+}

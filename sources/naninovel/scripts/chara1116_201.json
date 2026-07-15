@@ -1,0 +1,859 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "50f906e9",
+      "speaker": "",
+      "ja": "夏祭りの会場を俺はモルと二人で歩いていた。モルは普段とは違う浴衣姿で下駄を履いているので少し戸惑っているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "ca90e4dc",
+      "speaker": "",
+      "ja": "普段と違う雰囲気に会話もどこか途絶えがち。少し気まずさを覚えつつも、俺達は出店をあちこち回っていた。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "f838fae9",
+      "speaker": "",
+      "ja": "だが、突然モルが足を止める。",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "20c07170",
+      "speaker": "モル",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "9ee0b57b",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "f4a68d95",
+      "speaker": "モル",
+      "ja": "ちょっと……下駄の鼻緒が……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "a29fe2a0",
+      "speaker": "",
+      "ja": "視線を落とすとモルの下駄の鼻緒が切れてしまっているのが見えた。",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "514cfd31",
+      "speaker": "{G_PlayerName}",
+      "ja": "これじゃあ流石に歩くのは無理くさいな……おぶって帰ろうか？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "e7fc149",
+      "speaker": "モル",
+      "ja": "いや大丈夫っす、こんなこともあろうかと替えの紐を持ってきてるっす",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "14204001",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、それなら鼻緒を結び直そう",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "61f51de8",
+      "speaker": "",
+      "ja": "会場内で鼻緒を結び直すと他の人達の邪魔になるので、俺とモルは一旦会場から離れ森の方へと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "c680cd88",
+      "speaker": "{G_PlayerName}",
+      "ja": "……これでよし、っと！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "b00f9880",
+      "speaker": "",
+      "ja": "俺は紐で応急処置的にモルの下駄の切れた鼻緒を結び直した。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "e4be2f86",
+      "speaker": "",
+      "ja": "だけどせっかく鼻緒を結び直してあげたのに、モルの表情はどこか不機嫌で拗ねているように見える。",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "6c353ce2",
+      "speaker": "モル",
+      "ja": "（さすがお兄さんは器用っすね……でも自分がこんなに着飾っているのに、反応がいつもと全く変わらないとか……あり得ないっす）",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "a3458a09",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだ？　なんか……まだ変な感じがあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "18018c21",
+      "speaker": "モル",
+      "ja": "鼻緒は大丈夫っすけど……お兄さん、自分は自分なりに可愛くしたんすけど、なんでいつもと変わらないんすか？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "3e55ba9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　い、いやいや……今日のモルすごく可愛いよ",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "2215c329",
+      "speaker": "",
+      "ja": "慌てて俺がそう言っても、モルはまだ拗ねたまま不満げな視線を俺に向けていた。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "ad397ad",
+      "speaker": "",
+      "ja": "そしてモルはしゃがみ込むと、俺の股間に顔を寄せてくる。",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "dd1a9be0",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい……モ、モル……？！",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "248ea2a3",
+      "speaker": "モル",
+      "ja": "女の子の変化に気づけないなんて、お兄さんひどいっすよ",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "c3665659",
+      "speaker": "",
+      "ja": "不満げにそう言いながらモルは俺のチンポをズルリと引っ張り出してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "a241237c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと……待って……モ、モル……",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "ef4ddeaf",
+      "speaker": "",
+      "ja": "咄嗟に止めようとしたけれどモルは俺を睨み付けながら露わになったチンポを口で咥えた。",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "659546c4",
+      "speaker": "モル",
+      "ja": "あ～むっ、んむぅ、んっ……んんんっ……んちゅっ……ぅぅむっ",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "3eadaa96",
+      "speaker": "",
+      "ja": "チンポの先が生暖かい感触に包まれると俺はすぐさま反応してしまい、陰茎を勃起させてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "89eb7bfb",
+      "speaker": "",
+      "ja": "それを見てモルは上目づかいで呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "e0f60",
+      "speaker": "モル",
+      "ja": "お兄さん……もう反応してるっすね……フェラ好きなんすか？",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "acd1bc98",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いやそうじゃなくて……こんな可愛いモルが、いつもと違った姿でこんなエロいことしてくれているんだから……反応しない訳ないだろ",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "fa60818",
+      "speaker": "",
+      "ja": "俺は少しいい訳がましい感じでそう言うと、モルの頭へと手を伸ばす。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "9b66b003",
+      "speaker": "{G_PlayerName}",
+      "ja": "髪の毛とか浴衣とかが崩れるかと思って今まで触れなかったけれど、ずっと触れたかった",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "2219a69a",
+      "speaker": "",
+      "ja": "そう囁きかけながら、俺はモルの頭を軽く撫でた。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "635b8e4",
+      "speaker": "モル",
+      "ja": "もう♥　お兄さん……ずるいっす……♥",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "7dd9c97e",
+      "speaker": "",
+      "ja": "頭を撫でられたモルは少し照れつつもまんざらでもない表情を浮かべ俺のチンポを口全体でしごき始める。",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "2b4671b",
+      "speaker": "モル",
+      "ja": "うっ……んんんっ……んぐっ……んじゅるっ……じゅるるっ……",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "106a4755",
+      "speaker": "",
+      "ja": "汗ばんだ陰茎の味に少し顔をしかめつつも、モルは懸命に頭を前後させる。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "c02b8820",
+      "speaker": "",
+      "ja": "その度に舌が裏スジに擦れてゾクッとする快感が股間から脳天へと駆け上がっていった。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "ca739b92",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……うぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "8d26bacd",
+      "speaker": "",
+      "ja": "あまりの気持ちよさに俺は思わず呻き、モルの頭を撫でている手に力がこもってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "1b03d563",
+      "speaker": "",
+      "ja": "優しく撫でていたはずの俺の手は、まるでもっと奥まで咥え込まそうとするようになっていた。",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "211b805b",
+      "speaker": "モル",
+      "ja": "あぐっ……んんんっ！　うっぷっ……むぅぅぅっ……んぐんぐぅぅっ",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "e8186ea7",
+      "speaker": "",
+      "ja": "モルはそんな俺の手の動きに促されて、どんどん頭の動きを激しくさせる。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "27ef50d0",
+      "speaker": "",
+      "ja": "それに口の中では可愛らしい舌が出入りするちんぽに絡みついてねっとりと舐め回した。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "ec180885",
+      "speaker": "モル",
+      "ja": "んぐっ……んぐっ……じゅるるっ……んっ、ちゅぅぅ……うっ、むぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "4c94d2c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ……そんなに舐め回されたら……す、すぐに出しちゃいそうだ……",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "6b503f17",
+      "speaker": "モル",
+      "ja": "（ああ……お兄さんの手……大きくて力強くて……大人の男って感じがして……）",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "3613530c",
+      "speaker": "モル",
+      "ja": "ぢゅるるっ♥　んぐんぐっ♥　んっ、んんんっ♥　おちんちん♥　じゅぼじゅぼっ♥　んっ、んむぅぅ♥　ちゅるるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "3065cc31",
+      "speaker": "",
+      "ja": "卑猥な音を立てながら可愛らしい浴衣姿のモルが俺のちんぽを激しくしゃぶってくる。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "6649b6c9",
+      "speaker": "",
+      "ja": "その見た目と絡みつく舌の感触に、俺は込み上げてくる感覚が強くなってきた。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "ed1b678e",
+      "speaker": "",
+      "ja": "それを感じたのかモルは、ちんぽをしゃぶりながら呟く。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "bb1876d2",
+      "speaker": "モル",
+      "ja": "んぢゅるっ……んんっ……だ、出して……いいっすよ♥　喉奥まで……♥　あむぅぅ♥　じゅるるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "1cdacf49",
+      "speaker": "",
+      "ja": "そんなモルの言葉に俺は我慢できなくなって大きく腰を震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "9e2ba8ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "モル……っ、もう出るっ！",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "be711008",
+      "speaker": "",
+      "ja": "俺のチンポはモルの口の中でドクンドクンと強く脈打ちながら大量の精液を発射してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "c71c9762",
+      "speaker": "モル",
+      "ja": "んごぷぅ！　ごふぅ！　ごほぉぉ、んんんんっ！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "c9168c97",
+      "speaker": "",
+      "ja": "あまりにも勢いよく大量の精液が出されたので、モルは少し吹き出し咳き込んだ。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "de18bcbb",
+      "speaker": "",
+      "ja": "そのせいでモルの顔や髪にまで白濁した液体がかかってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "8f6b444d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまんモル！　せっかくセットした髪の毛に精液が……",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "2c38baba",
+      "speaker": "モル",
+      "ja": "……んんっ……んぷっ……へ、平気っすよ……自分のフェラが気持ち良くて……射精しちゃったんすよね",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "a6653bc0",
+      "speaker": "",
+      "ja": "慌てて謝った俺にモルは気にした様子もなく、むしろどこか得意げな感じでそう答えた。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "69acb22b",
+      "speaker": "{G_PlayerName}",
+      "ja": "夏祭りって状況で浴衣姿のモルが必死に俺のチンポを咥えてくれているんだから……男ならメチャクチャ興奮するに決まってるだろ",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "e9e28d6c",
+      "speaker": "",
+      "ja": "少し照れつつも俺が本音を吐露すると、モルは満足そうな顔で呟く。",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "364208de",
+      "speaker": "モル",
+      "ja": "お兄さんにそう言って貰えると、すごく嬉しいっす♥",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "e3367ede",
+      "speaker": "",
+      "ja": "そしてモルはまた俺の射精したばかりのちんぽを咥え込んで頭を前後させ始めた。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "82bc61f7",
+      "speaker": "モル",
+      "ja": "んっぐっ♥　んぐぅぅ♥　んじゅるっ♥　ぢゅるるぅ♥　ぴちゃぴちゃっ♥",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "36f551c6",
+      "speaker": "",
+      "ja": "まるで貪るようにモルの口が俺のちんぽを激しくしゃぶる。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "89d7164d",
+      "speaker": "",
+      "ja": "その快感に射精したばかりの俺のちんぽは萎えることなく更に勃起した。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "e8776ba2",
+      "speaker": "モル",
+      "ja": "んむぅぅ♥　まだこんなに大きくて……じゅるるっ♥　ちゅっ、ぢゅる♥　熱くて固くて……あむあむぅ♥　ちゅっ、ぢゅるる♥",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "6da79cfb",
+      "speaker": "",
+      "ja": "愛おしそうに肉棒を舐め回す姿に、俺も気持ちが高まってまた優しくモルの頭を撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "78fe0a66",
+      "speaker": "",
+      "ja": "するとモルが俺を上目づかいで見つめながら呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "4afa0c1f",
+      "speaker": "モル",
+      "ja": "んちゅっ♥　んんっ……んふっ……その……頭の手……",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "94e20389",
+      "speaker": "",
+      "ja": "その言葉に俺は慌ててモルの頭を撫でていた手を止める。",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "8001235c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめん……せっかくの髪型が乱れちゃうし……嫌だったよな",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "b7902a05",
+      "speaker": "",
+      "ja": "俺は頭の手を引っ込めようとするが、モルはそれを制するように言った。",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "b7446f69",
+      "speaker": "モル",
+      "ja": "ちがうっす……お兄さんに頭撫でられるの……嬉しいっす♥　だから……その……もうちょっと撫でてほしいっす♥　んちゅるっ♥　ぢゅる、ちゅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "fa8db201",
+      "speaker": "",
+      "ja": "その言葉に俺はモルがたまらなく愛おしくなり、求められるまま頭を優しく撫で続ける。",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "1755ab8",
+      "speaker": "",
+      "ja": "するとモルも嬉しそうに俺のちんぽを激しく舐め回してくれた。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "b5cb372f",
+      "speaker": "モル",
+      "ja": "んぐぅぅ♥　んちゅっ♥　ぢゅるる♥　お兄さんのおちんちん……んむぅぅっ♥　ちゅっ♥　んちゅぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "d8599175",
+      "speaker": "",
+      "ja": "何度も頭を前後に振り柔らかな唇で肉棒をしごかれる感触に、俺は思わず腰を震わせてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "34919b0",
+      "speaker": "",
+      "ja": "さっき射精したばかりなのに俺はまた込み上げてくる感覚に襲われた。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "bcb42eb2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……モル……すごくいいよ……うっ……うぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "c2d01d1a",
+      "speaker": "",
+      "ja": "俺はそう呟きながらもモルの頭を撫で続ける。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "d84c18a8",
+      "speaker": "",
+      "ja": "するとモルの舌使いがどんどん激しくなってきて、頭の動きも激しくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "5c0a2860",
+      "speaker": "モル",
+      "ja": "うっぷっ♥　うむぅぅっ♥　ちゅるるっ♥　じゅっぽじゅっぽ♥　お兄さんのおちんちんっ♥　ぢゅるるっ♥　ちゅうちゅうっ♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "23ceb2f1",
+      "speaker": "",
+      "ja": "モルはちんぽを音を立てて強く吸いながら何度も頭を振り、裏スジを舌で舐め上げた。",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "645d69f2",
+      "speaker": "",
+      "ja": "あまりの気持ちよさに俺は、すぐに射精したくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "ddcc8057",
+      "speaker": "",
+      "ja": "そんな俺にモルは促すように囁きかけてきた。",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "241ea7e",
+      "speaker": "モル",
+      "ja": "んんんっ♥　出していいっすよ♥　じゅるるっ♥　お兄さんの精液……全部受け止めるっすから♥　んちゅぅっ♥　ぢゅるぢゅる♥",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "6ed35285",
+      "speaker": "",
+      "ja": "モルの言葉で気持ちが高まった俺は、堪えきれずに二度目の射精に至ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "cb300de7",
+      "speaker": "モル",
+      "ja": "んんんんっ♥　うっぷっ♥　うぅぅっ♥　またいっぱい♥　んぐんぐっ♥　じゅるるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "722c67e0",
+      "speaker": "",
+      "ja": "さっき出したとは思えないほどの精液をモルは懸命に飲み干しながら、嬉しそうな表情を浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "5093e01c",
+      "speaker": "vモル",
+      "ja": "んふぅぅ♥　二回も……こんなにいっぱい射精してくれるなんて……嬉しいっす♥",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "14bd7beb",
+      "speaker": "{G_PlayerName}",
+      "ja": "モルがすごく可愛いから……俺……",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "219f2e30",
+      "speaker": "",
+      "ja": "俺とモルは互いに見つめ合いながら、二人っきりの時間を過ごした。",
+      "zh": ""
+    }
+  ]
+}

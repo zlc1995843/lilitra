@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "ffb696dc",
+      "speaker": "ルルハ",
+      "ja": "う～、また外れちゃった……こんなの、当てられるのかなぁ？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "ca8749b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "今のは惜しかったぞ。的を掠めていたし、次はきっと当たるって",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "7284d4c2",
+      "speaker": "",
+      "ja": "アポロに許可を得て、植物園で狩猟の訓練をしているルルハ。……また間違えて小さくなったので、解除薬が出来るまでの時間つぶしだ。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "2e8dc45c",
+      "speaker": "",
+      "ja": "よくわからないが、偽物の光の弓と的なので植物園に被害を出す心配は無いらしい。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "80b7026c",
+      "speaker": "ルルハ",
+      "ja": "兄くん、さっきも同じこと言ってたよ～？　何度やっても当たらない……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "2f79ae16",
+      "speaker": "ルルハ",
+      "ja": "ルル、弓の才能無いんじゃないかなぁ？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "b4b8fd15",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことはないと思うけどな……だって……",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "c5c4e47c",
+      "speaker": "ルルハ",
+      "ja": "よっと……！　うん、仕留めたよ♥",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "c9fc0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "すっご……百発百中だな。まるで矢が獲物に吸い込まれているみたいだ。ルルハって弓の才能があるんだな",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "bfd70b38",
+      "speaker": "ルルハ",
+      "ja": "うーん、子供の頃はそうでもなかったけどね！　努力の賜物かな♥",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "5da1e09a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだったのか？　意外だなあ。神童とか言われて小さい頃から上手かったのかと思ったよ",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "d80e6f9b",
+      "speaker": "ルルハ",
+      "ja": "たくさん練習したからね～♥　皆もいっぱい教えてくれたし、環境のおかげもあるかも♪",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "dd133655",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……俺も見習って努力しないとな……",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "ffef6399",
+      "speaker": "ルルハ",
+      "ja": "だって、なあに？",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "c6aca9c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、やっぱりなんでもない。たくさん練習すれば絶対に的に当たるようになるさ",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "58dc72ad",
+      "speaker": "ルルハ",
+      "ja": "うぅ……わかったよ。兄くんがそういうなら続ける！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "70a90912",
+      "speaker": "ルルハ",
+      "ja": "でもでも、練習のあと、ルルと遊んでっ♥　約束してくれたら、練習続けるから！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "52f2d2f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのくらいお安い御用だ。じゃあ次はあっちの的を狙ってみよっか",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "ae3ef960",
+      "speaker": "ルルハ",
+      "ja": "うんっ！",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "439ef9ca",
+      "speaker": "ルルハ",
+      "ja": "えいっ！　えいっ！　えーいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "da23504",
+      "speaker": "",
+      "ja": "ルルハは根気よく、矢を的に何度も放つ。少しずつ良くなってきているとは思うが、弓が素人に俺には何もアドバイスができない。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "3a77820e",
+      "speaker": "",
+      "ja": "応援することしかできない歯がゆさに、どうにかできないものかと自分なりに考えていた。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "405a78cd",
+      "speaker": "ルルハ",
+      "ja": "兄く～ん……なかなか上手くいかないよぉ……！",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "676dd68c",
+      "speaker": "",
+      "ja": "泣きそうになっているルルハは俺に抱きつき、慰めるように頭をよしよしと撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "6ddf7e79",
+      "speaker": "ルルハ",
+      "ja": "うーん……全然上手くなってない気がする……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "5639fef3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか？　そんなことないと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "a0657261",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なまじ大人のルルハの弓捌きを見てたからか、練習を続ければ勝手に上手くなるものだと思ってたけど……そういうわけでもないのかな？）",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "31daaca7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（環境のせいかも、とか言ってたっけ。こういう場合、ルルハや村の大人はどうアドバイスするんだろう……）",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "ebf75546",
+      "speaker": "{G_PlayerName}",
+      "ja": "（大人のルルハなら、失敗よりも成功を褒めるタイプだよな。ルルハはいつも前向きだし、幼くなってもルルハであることに代わりはないんだから）",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "716e1504",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルルハ、俺は絶対上手くなってると思うぞ！",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "8a8b9340",
+      "speaker": "ルルハ",
+      "ja": "え……？　そ、そうかな……？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "14ec3c96",
+      "speaker": "{G_PlayerName}",
+      "ja": "的を見てみろよ、ちゃんと当たっているのもあるじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "2afd36a3",
+      "speaker": "ルルハ",
+      "ja": "え～？　でも、まぐれ当たりだし……数も少ないよ？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ec7a932a",
+      "speaker": "{G_PlayerName}",
+      "ja": "十分過ぎるって！　それに、俺は矢を真っ直ぐ飛ばすことすらできないんだぞ？　ルルハはこれだけ弓をひきつづけられるなんて、それだけで才能だよ",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "a05f8b1c",
+      "speaker": "ルルハ",
+      "ja": "そ、そうかな～……？　兄くんって、弓打てないの？",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "dc10214f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、前に少し触れたことがあったけど、全然飛ばなかったし。ルルハは凄いな！",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "f911edcc",
+      "speaker": "ルルハ",
+      "ja": "……本当にルルすごい？　すごい？",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "76909356",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、凄い！",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "78ef87",
+      "speaker": "ルルハ",
+      "ja": "えへへ……じゃあ、もうちょっと頑張ってみようかな！",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "6ac93c60",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし！　あとは前向きさだな！　的にしっかり当たるところをイメージして、やってみよう！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "da0c6ef8",
+      "speaker": "ルルハ",
+      "ja": "うん！　ルル頑張るっ♥",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "6d023ea3",
+      "speaker": "",
+      "ja": "まだまだ弓の精度は大人のルルハには遠く及ばない。それでも健気に練習を繰り返すルルハの姿は可愛くも美しく思える。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "a1dd8690",
+      "speaker": "",
+      "ja": "かつて大人のルルハが本当に通ってきた道のりなのだろうと思うと、一生懸命に練習するルルハが微笑ましく思えてくるのであった。",
+      "zh": ""
+    }
+  ]
+}

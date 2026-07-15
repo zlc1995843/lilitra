@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "169c047c",
+      "speaker": "{G_PlayerName}",
+      "ja": "は～、気がついたらこんな時間になってるなんて……ちょっと作業に没頭しすぎたな",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "e5e61fec",
+      "speaker": "{G_PlayerName}",
+      "ja": "さてと……お腹も空いたしとっととご飯を食べて……",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "c3fba184",
+      "speaker": "コーゼ",
+      "ja": "こんな時間になにボッチメシ食ってるんだよ、オタクくん",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "2681d41f",
+      "speaker": "{G_PlayerName}",
+      "ja": "コーゼか……なんだよ、いいだろ、別に……",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "4166d68e",
+      "speaker": "コーゼ",
+      "ja": "仕方ないなぁ、ウチも腹減ってるしボッチメシは可哀想だから、特別にオタクくんと一緒にご飯を食べてあげよう",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "a058c146",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは単にご飯を食べに来ただけじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "24686719",
+      "speaker": "コーゼ",
+      "ja": "細かいことは気にしないの、ウチが一緒にご飯食べてやるって言ってるんだから、オタクくんはありがたがって喜べばいいんだよ",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "2e339c93",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはどうも、ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "53b30ebe",
+      "speaker": "コーゼ",
+      "ja": "そうそう、そうやって素直にありがたく思えばいいんだよ♥",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "6e46f560",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "b0a15e52",
+      "speaker": "コーゼ",
+      "ja": "それにしてもオタクくんは、相変わらずダサい格好してるなぁ、センスなさ過ぎ",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "638a9953",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に服なんて、動きやすければそれでいいだろ",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f7d8568d",
+      "speaker": "コーゼ",
+      "ja": "何言ってるんだよ！　そんなんだからオタクくんはダサい格好してるんだな！",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "14ac9ec2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと……服ぐらいでなに怒っているんだよ",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "df034f7f",
+      "speaker": "コーゼ",
+      "ja": "まったく……オタクくんは服について全然わかってないなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "fd7b9586",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そこまで言われなくても……いいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "2bcecb3b",
+      "speaker": "コーゼ",
+      "ja": "いや、まるでわかっていない！　服って言うのは自分のアイデンティティが出るんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "2ef27b62",
+      "speaker": "コーゼ",
+      "ja": "服は常に最高の物を追い求める！　それは自分を追求するということ！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "83e86dfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなんだ……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "8cb39ba5",
+      "speaker": "コーゼ",
+      "ja": "例え歩きにくい靴でも、動きにくい服でも、最高の自分を追求しないといけないんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "a1698563",
+      "speaker": "コーゼ",
+      "ja": "機能性なんて関係ない！　とにかくどれだけ最高の自分を追い求められるかが肝心なんだから！",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "c92b25b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "最高の自分？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "726f6eb",
+      "speaker": "コーゼ",
+      "ja": "そう！　自らを着飾ることで自信にも繋がるし、他の人からのイメージも良くなるし！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "476a4642",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかもしれないけど……そこまで熱く語ることかな？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "84df0a7e",
+      "speaker": "コーゼ",
+      "ja": "当たり前じゃない！　服は自らをアピールする唯一無二なものなんだから！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "557ba4f0",
+      "speaker": "コーゼ",
+      "ja": "オタクくんがまるで分かってないからウチは熱くなってるの！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "cb4bd0d",
+      "speaker": "{G_PlayerName}",
+      "ja": "だけど……服は動きやすい方がいいんじゃないかな？",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "ebe6f0fc",
+      "speaker": "コーゼ",
+      "ja": "違ぁ～う！　本当にオタクくんは分からない子だなぁ！",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "694fe710",
+      "speaker": "コーゼ",
+      "ja": "服は自らの内面！　センス！　自分の中の色々な物が出るものなの！",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "4387917a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……なのか？",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "50a61729",
+      "speaker": "コーゼ",
+      "ja": "当たり前でしょ！　自分の中に無いセンスの服は着ないでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "27137b65",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに……そうかもしれないけど……",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "8429b9d1",
+      "speaker": "コーゼ",
+      "ja": "外見じゃなくて内面だって言う人もいるけど、服は自分の内面を他の人に示す唯一の手段なんだから！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "9c4f2c53",
+      "speaker": "コーゼ",
+      "ja": "服に気を使わないってことは、自分の内面を表現できない人ってことなんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "c4371f6c",
+      "speaker": "コーゼ",
+      "ja": "だから着飾るというのはすごく大事なことなの！　わかった！　オタクくん！",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "7091d67c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……そこまで熱く言われると……俺も少しは服装に気をつかわなければいけないなって思えてくる",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "8c5d80c",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもなぁ……俺、どんな服を着ればいいかなんて、さっぱりわからないしなぁ",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "bed40fbf",
+      "speaker": "コーゼ",
+      "ja": "それじゃあ今度、ウチがオタクくんの服をコーディネートしてやるよ",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "ad5db669",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に？　でもさっきの話だと自分で選ばないと意味ないんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "8ee04ec1",
+      "speaker": "コーゼ",
+      "ja": "まあそうなんだけど、オタクくんは服選びの初心者だから、ウチがアドバイスしてあげる♥",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "d128e2e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……それじゃあ、お願いするよ",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "1e5fb624",
+      "speaker": "コーゼ",
+      "ja": "ウチに任せておきなって！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "f6256897",
+      "speaker": "コーゼ",
+      "ja": "ふふふっ♥　オタクくんと一緒にお買い物……楽しみだなぁ♥",
+      "zh": ""
+    }
+  ]
+}

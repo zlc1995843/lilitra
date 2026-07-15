@@ -1,0 +1,760 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "ec57a6d4",
+      "speaker": "",
+      "ja": "{G_PlayerName}と雫は補給のため、白夜と砂の星に買い出しに来ていた。",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "f8e9b26",
+      "speaker": "",
+      "ja": "雫は目的の物をすぐに見つけ待ち合わせ場所に戻ってきたが、{G_PlayerName}はまだ戻ってこない。",
+      "zh": ""
+    },
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "249ddc99",
+      "speaker": "",
+      "ja": "待てど暮らせど{G_PlayerName}は一向に帰ってこず、雫は徐々にイライラし始めていた。",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "c43c9793",
+      "speaker": "雫",
+      "ja": "はぁ……買い物すらすぐに終わらせられないなんて、本当に使えない男ですね……",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "727d1f86",
+      "speaker": "雫",
+      "ja": "いえ、あの男のことです、きっとガラクタのような機械を見つけて、それを喜んで眺めているのかもしれません",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "9d0f958f",
+      "speaker": "雫",
+      "ja": "機械など弄って何が楽しいのか……わたくしには理解しかねますね、ホント……",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "4b114005",
+      "speaker": "雫",
+      "ja": "何故ルミナ様はあんな何も取り柄の無いクズのような男に……ルミナ様を心の底から慕っている従者が一番近くにいますのに……",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "a0407053",
+      "speaker": "雫",
+      "ja": "この想い、いつかルミナ様に伝わるといいのですけど……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "c0d9eeef",
+      "speaker": "",
+      "ja": "雫は何度も溜息をつきながら{G_PlayerName}を待ち続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "31ba14b6",
+      "speaker": "",
+      "ja": "それでも{G_PlayerName}は依然として戻ってこず、二手に別れてからすでに一時間が経とうとしていた。",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "f61cd36b",
+      "speaker": "雫",
+      "ja": "本当にいつまで待たせるつもりなのかしら……！　置き去りにしてさっさと帰りたいですけど、そうするとルミナ様が悲しむし……！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "e700fe4c",
+      "speaker": "雫",
+      "ja": "通信機の一つでも持たせるべきでしたね……今後はそうするようにしますか……はぁ～……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "bcc49856",
+      "speaker": "少年",
+      "ja": "君～♪　キミ、君～♪",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "fd7e204e",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "2eb2b309",
+      "speaker": "少年",
+      "ja": "おーい？　聞こえてる～？　君だよ、君っ♪",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "c13d1935",
+      "speaker": "雫",
+      "ja": "ん……？　わたくし……？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "e70c2407",
+      "speaker": "少年",
+      "ja": "そうそう、キミキミ♪",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "9b46646b",
+      "speaker": "雫",
+      "ja": "（この少年は……？　イライラしているのに声を掛けてくるなんて、面倒ですね）",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "16bd1ac3",
+      "speaker": "雫",
+      "ja": "（とりあえず無視しますか……）",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "9967c8e5",
+      "speaker": "少年",
+      "ja": "おーい？　なんでまた黙っちゃうの～？",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "fd7e204e",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "199c1b66",
+      "speaker": "少年",
+      "ja": "つれないな～♪　ところっでさ、君かわいいねー♪　オレと美味しい物でも食べに行かない？　君旅行者か何かでしょ？　オレがいろいろと案内してやるからさっ",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "fd7e204e",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "f186d1e8",
+      "speaker": "雫",
+      "ja": "（ああ……もしかしてこれがナンパと言うものなのでしょうか……こんな小さな男の子が……）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "71475346",
+      "speaker": "雫",
+      "ja": "（しかし、本当に見ず知らずの女に声を掛けて誘ってくる男が存在するなんて……創作の世界だけのお話かと思っていました）",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "df0dd964",
+      "speaker": "少年",
+      "ja": "ねえねえ、なんで口聞いてくれないのさっ？　女が一人突っ立ってるってことは、ナンパして欲しかったんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "c0d91e90",
+      "speaker": "雫",
+      "ja": "はぁ……そんなこと微塵も思っていません。少年とは言え、男がわたくしに話しかけないでくださいますか？",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "45d3f5e0",
+      "speaker": "少年",
+      "ja": "うわっ！？　き、君、怒るとちょっと怖い？　でもカワイイことに変わりはないかな？　あははははっ",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "a3965e03",
+      "speaker": "雫",
+      "ja": "（面倒くさいですね……。さっさとこの場から離れたいですけど……）",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "88ce9737",
+      "speaker": "雫",
+      "ja": "（あの男はいつになったら帰ってくるの……まったく……）",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "a369dfe",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっちこっち探していたらおそくなってしまったな……雫怒っているだろうな",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "9ad23e9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも目的の物は買えたし、なんとかこれで機嫌を……ん？",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "b35a56c",
+      "speaker": "少年",
+      "ja": "ねぇねぇ、いいじゃん、ご飯食べに行くくらいさぁ～♪　減るものじゃないし♪",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "c20af650",
+      "speaker": "雫",
+      "ja": "いい加減にしてください……わたくしはあなたと一緒に行くつもりはありませんから。人を待っているのです",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "5d20e590",
+      "speaker": "少年",
+      "ja": "そんな怒んないでよ～♪　カワイイ顔が台無しだって♪　ほら、行こうよ",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "1ab372",
+      "speaker": "雫",
+      "ja": "さっ、触らないで……！",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "e2803fb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだあいつ……！？　雫にベタベタ触って失礼なヤツだな……！！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "c51be46c",
+      "speaker": "雫",
+      "ja": "はっ、離しなさい……！！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "e685d2d",
+      "speaker": "少年",
+      "ja": "美味いもん食えばすぐに機嫌良くなるからさぁ～♪　そのあとは街を散策して、夜は……考えただけでワクワクしてくるでしょ？　オレが最高の旅の思い出を……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "77ae1647",
+      "speaker": "{G_PlayerName}",
+      "ja": "オイ！　雫から手を離せ！！",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "40d84070",
+      "speaker": "雫",
+      "ja": "機械士……！？",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "cce4192b",
+      "speaker": "",
+      "ja": "{G_PlayerName}は雫に駆け寄ると、二人の間に強引に割って入る。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "c5a36a82",
+      "speaker": "",
+      "ja": "そして少年から雫を隠すように壁になり、ナンパ男をキっと睨みつけた。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "4ce4d41d",
+      "speaker": "少年",
+      "ja": "な、なんだよ、お前！　この子に先に声かけたのオレなんだぞ！？　ナンパならほかの女にしろよっ！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "23334cf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫は俺を待ってたんだよ！　……というか、ナンパ？　そんな小さいのにマセてるな……お前こそどっか行けよっ！",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "15e49c39",
+      "speaker": "少年",
+      "ja": "シズク……？　何、お前ら知り合い？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "2d99c078",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだよ。そういうわけだから、ほら、行った行った！",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "40e63e51",
+      "speaker": "少年",
+      "ja": "はぁ？　お前なにエラソーにオレに命令してんの？　オレ人に命令されんのが一番ムカつくんだよな……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "785804af",
+      "speaker": "",
+      "ja": "少年は今までのヘラヘラしていた雰囲気が消え、鋭い目つきで{G_PlayerName}を睨み返す。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "132ac8eb",
+      "speaker": "",
+      "ja": "{G_PlayerName}は一瞬戸惑うが、少年を睨み返した。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "1cf4324d",
+      "speaker": "少年",
+      "ja": "ま、見たとこ、お前のようなヤツはどうってこないな。痛い目に合いたくなきゃその子をこっちに寄越せよ",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "d598e213",
+      "speaker": "{G_PlayerName}",
+      "ja": "生意気なヤツだな、お前こそ痛い目を見ないうちにさっさとどっか行けって",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "a97f12bd",
+      "speaker": "少年",
+      "ja": "おーおー、イキっちゃって♪　そんじゃちょーっとばかり痛い目に合ってもらおうかな！",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "3dfd1af4",
+      "speaker": "雫",
+      "ja": "……妙だとは思いましたが、もしかして……",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "14dc9ccc",
+      "speaker": "{G_PlayerName}",
+      "ja": "イデデデデデデっ！！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "7b4a68e",
+      "speaker": "雫",
+      "ja": "や、やはり……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "61583371",
+      "speaker": "",
+      "ja": "少年がまるで消えた様に{G_PlayerName}の背後に立つ。あまりの速さに反応できず、簡単に腕を捻り上げられてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "c1fc3ad3",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっ、やめ！　折れる！　折れるっ！　ギブギブギブ！！　降参っ！　降参～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "88ed00a4",
+      "speaker": "雫",
+      "ja": "（なんと情けない……割って入ってきたときは少々見直しましたけど……）",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "e9b419f0",
+      "speaker": "少年",
+      "ja": "ぎゃはははははっ！　バカが！　俺はリリアンなんだよ！　普通の人間如きが敵うわけねーじゃん！",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "36d9ffcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "リリアンっ！？　ううう！　な、なんでこんなとこにリリアンが……それも男の……！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "501d8931",
+      "speaker": "少年",
+      "ja": "さ～て、この腕どうしよっかな～？　このまま力を加えたら折れちゃうかもな～♪",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "50b21079",
+      "speaker": "{G_PlayerName}",
+      "ja": "折っ……！？　そっ、そこまでする必要はないだろっ！？",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "9a1c5ef",
+      "speaker": "少年",
+      "ja": "うっせえよ、オレの邪魔をしたんだ、腕の一本や二本……うっ！？",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "2dd48167",
+      "speaker": "雫",
+      "ja": "手を離しなさい。その首が惜しければ、ですが",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "be6e39cb",
+      "speaker": "",
+      "ja": "雫に押し当てられた首筋のナイフに、少年は沈黙してしまう。それでも{G_PlayerName}から手を離さない少年に、焦れた雫が軽くナイフを押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "b2925c1b",
+      "speaker": "少年",
+      "ja": "わっ、わわ、わかった……",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "b6bfa360",
+      "speaker": "",
+      "ja": "少年は雫の迫力に圧され、{G_PlayerName}の腕を離し距離をとった。",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "1063f94b",
+      "speaker": "雫",
+      "ja": "消えなさい。今すぐに消えないと……",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "fa918581",
+      "speaker": "少年",
+      "ja": "わ、わかった……！　行くから……！　あ、あんたも、そ、その……悪かった……！　それじゃ……！！",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "8b4ca19b",
+      "speaker": "雫",
+      "ja": "ふぅ……やっと消えてくれましたか……",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "4ce8a8ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そうだな。ありがとう……雫が助けてくれなかったら今頃腕を折られていたかも……",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "501663e8",
+      "speaker": "雫",
+      "ja": "礼には及びません",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "1f01927",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんとも情けない姿を見せてしまったな……。罵声の一つや二つじゃ済まさなそうかも……）",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "8029d876",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "c3a7d4f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫……？",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "e12374e7",
+      "speaker": "雫",
+      "ja": "あなたは本当に弱くて、情けなくて……何も取り柄の無い、どうしようもないダメ男ですね",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "6248f149",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……否定はできないよ……",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "a91b0c2",
+      "speaker": "雫",
+      "ja": "でも、弱いなりに誰かを守ろうとするその姿勢、ルミナ様の教育の賜物でしょうかね",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "612b0a17",
+      "speaker": "雫",
+      "ja": "ありがとうございます、{G_PlayerName}",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "68f31735",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ──",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "8d9317cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今、雫が笑顔に……なんてカワイイんだ……。あれ、俺今すげードキドキしちゃってる……）",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "a577181f",
+      "speaker": "雫",
+      "ja": "何をぼーっとしているのですか？　宇宙船に帰りますよ？",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "43363869",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ、そうだな、みんな待っているだろうしすぐに帰らないと……",
+      "zh": ""
+    }
+  ]
+}

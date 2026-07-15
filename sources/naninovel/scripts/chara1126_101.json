@@ -1,0 +1,265 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "1269de65",
+      "speaker": "ヴォイド",
+      "ja": "しずくさんを見習って、ヴォイドもおそうじメイドします！",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "343606a6",
+      "speaker": "",
+      "ja": "朝一番、ヴォイドがいきなり部屋に入ってきてそう宣言した。こちらは目をぱちくりとさせるしかない。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "7709c358",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　ど、どうしたんだ急に？",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "fc5cea46",
+      "speaker": "ヴォイド",
+      "ja": "ネコみみメイドならぬネコメイドです！　おそうじもお片づけもおまかせです！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "6e655ba8",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと、意気揚々なのはいいんだけど……ちょ、ちょっと……ヴォイド？！",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "ded5784b",
+      "speaker": "ヴォイド",
+      "ja": "ますたーは何もしなくてだいじょうぶです！　すべてヴォイドにお任せです！",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "8d20e923",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いやっ……ヴォイドにわざわざ片付けして貰わなくても、自分でするからいいぞ",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "fc585663",
+      "speaker": "ヴォイド",
+      "ja": "ごあんしんください、えっちなものがあっても、ちゃんと見ないようにしますから",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "92d64161",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そういうことじゃないんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "5f9bb050",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもやる気なのに断るのも可哀想だし……ひとまずヴォイドの好きなようにさせてみるか。）",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "f077c5b3",
+      "speaker": "ヴォイド",
+      "ja": "えっと、こちらの散らばっているパーツはこの容器に……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "9b3fdd5d",
+      "speaker": "ヴォイド",
+      "ja": "ますたー、これらのパーツにはるいじせいがみとめられます、いっしょにしゅうのうしていいですか？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "bde5f83e",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　あっ……うん",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "cdfa3a1a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（忘れていたけどヴォイドってホムンクルスだったっけ……機械の知識も多少あるのか？　凄いな）",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "f32281a4",
+      "speaker": "ヴォイド",
+      "ja": "いんでっくすも付けておきます、ますたー",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "b5844922",
+      "speaker": "{G_PlayerName}",
+      "ja": "いんでっ……あ、ああ。助かるよ。目印みたいなものだな？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "27f7ae41",
+      "speaker": "ヴォイド",
+      "ja": "これはここ、これはこっち、この本は……",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "803dc60a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（すごい手際の良さ……これはもうお任せしても大丈夫かな？）",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "f7f9b9fa",
+      "speaker": "ヴォイド",
+      "ja": "この本は……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "3de40836",
+      "speaker": "ヴォイド",
+      "ja": "………",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8313aa89",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……あれ？　急にヴォイドの声が聞こえなくなったけど。）",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "8740c3d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴォイド……？　どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "27de497",
+      "speaker": "ヴォイド",
+      "ja": "わぁぁ♥　お姫様、綺麗……♥　こんな服、着てみたいです♥",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "fed77910",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あれ？　ヴォイドが読んでいる本って……前に魔と叡智の星で買った絵本じゃないか？）",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "ad623149",
+      "speaker": "ヴォイド",
+      "ja": "ふわぁ、王子様と口づけを……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "df9b1261",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まったく……もうお片づけどころじゃなくて絵本に夢中になっているな……やれやれ",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "e93fbd50",
+      "speaker": "ヴォイド",
+      "ja": "はっ……い、いけません。そうじに集中しませんと……！",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "b7f42d36",
+      "speaker": "ヴォイド",
+      "ja": "ですが……先ほどのパラメータを記録。きょうみぶかい体験でした……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "ac5c2ac3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ふふっ、ヴォイドはホムンクルスでも、普通の女の子みたいな一面があるんだな。なんかちょっと安心したぞ）",
+      "zh": ""
+    }
+  ]
+}

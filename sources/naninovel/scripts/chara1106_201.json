@@ -1,0 +1,868 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "7d24057",
+      "speaker": "リズ",
+      "ja": "おい、雇い主。視線がうるさいぞ",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "6d8d1a8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "6a258b44",
+      "speaker": "",
+      "ja": "リズはいつものように{G_PlayerName}の部屋に入り込み、護衛をしながら武器の手入れをしていた。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "adfa7ac8",
+      "speaker": "リズ",
+      "ja": "お前……ひょっとしてこの服が好きなのか？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "b9adbf1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……そりゃ、花嫁装束が嫌いな奴なんていないんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "7bd8dc",
+      "speaker": "リズ",
+      "ja": "いやそういうのじゃなくて……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "f1bc06ec",
+      "speaker": "",
+      "ja": "普段の率直で思ったことは即座に口にするリズからは想像できないほど、口ごもりもごもごとした様子に{G_PlayerName}は首をひねる。",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "d8be1838",
+      "speaker": "リズ",
+      "ja": "だ、だってお前……この衣装もう着ないのかってわざわざ聞いてきただろう",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "bd778f3f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ああ！　そんなことあったなぁ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "e82cbadc",
+      "speaker": "{G_PlayerName}",
+      "ja": "(だから最近ずっとこの動きづらそうな服着てたのか……！)",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "9dc1bffa",
+      "speaker": "",
+      "ja": "驚きと共に、顔を赤らめて目をそらして恥ずかしそうにしているリズにほっこりしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "b9b9ba29",
+      "speaker": "",
+      "ja": "だが、そんな微笑ましい気持ちも次のリズの一言で吹っ飛んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "64e7937a",
+      "speaker": "リズ",
+      "ja": "この、ガーターベルトとか、ニーハイが好きなヘンタイなんだろうお前……？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "9d65178",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、は、はああ！？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "186ba7b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何でそんなことを……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "80b06e57",
+      "speaker": "リズ",
+      "ja": "他の女たちが話していた……その、お前が花嫁衣装の時、足を舐めるように見ていたと……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "a60e3bd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "(誰だよそんなこと言ったのー！)",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "b0346df",
+      "speaker": "",
+      "ja": "思わず否定的な態度をとってしまったが、{G_PlayerName}がリズの足を食い入るように見つめてしまっていたのは事実であった。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "5e33c74d",
+      "speaker": "リズ",
+      "ja": "お前、脚フェチとかいう、ヘンタイなんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "8f84fd90",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、そう断言はできないというか、エビデンスが足りないというか……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "c67bfca0",
+      "speaker": "リズ",
+      "ja": "その……させてやってもいいぞ",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "7c78406b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　何を？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "31fc801c",
+      "speaker": "リズ",
+      "ja": "……足コキ",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "25206a59",
+      "speaker": "{G_PlayerName}",
+      "ja": "！？！？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "d9525ebf",
+      "speaker": "リズ",
+      "ja": "や、雇い主には世話になっているから……特別だ。誰にも言うな……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "2648967",
+      "speaker": "",
+      "ja": "いつも口元を隠すマフラーをしている癖で、今は何も隠すものがないはずなのに布を引き上げて顔を隠すような仕草をするリズ。",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "b64c8cd1",
+      "speaker": "",
+      "ja": "その真っ赤な顔を見て、しなくていいと大人な態度をとることはできなかった。",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "4fbe434d",
+      "speaker": "リズ",
+      "ja": "ん……熱っ……♥　そんなに我慢できなかったのか？　仕方のない奴め",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "6866ab78",
+      "speaker": "",
+      "ja": "リズが自らドレスの一部を脱ぎ、丁寧に畳んだ後にベッドの上に乗り上げた。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "9223381",
+      "speaker": "",
+      "ja": "足が良く見渡せて、足の裏でシゴきやすい体位。{G_PlayerName}のためにしてあげたいというのは本気のようだ。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "229772d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……こんなに興奮してて気持ち悪いよな……",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "776e4bd4",
+      "speaker": "",
+      "ja": "ルナリングの影響もありリリアンに強く発情してしまう瞬間がある{G_PlayerName}だが、今日は至って冷静であった。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "5b870ff0",
+      "speaker": "",
+      "ja": "自身を恥じる姿にリズはムッとした表情を見せる。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "b08f4012",
+      "speaker": "リズ",
+      "ja": "俺がヘンタイと言ったから気分を害したか？　お前らしくもない",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "c83fdc",
+      "speaker": "リズ",
+      "ja": "気持ち悪くなどない。だからさせている。もっと集中しろ",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "8c948fee",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう。ありがとな",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "9ce12b8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "(なんか教官みたいだなリズ……でも、俺のこと受け入れてくれて……優しい……)",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "6c96273",
+      "speaker": "リズ",
+      "ja": "それで……いつまでお前はそうやって固まっているつもりなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "610cc28b",
+      "speaker": "リズ",
+      "ja": "……シてくれ……俺だって、恥ずかしい……♥",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "9e881ebb",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、分かった……動くからな……っ",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "35bdd1bf",
+      "speaker": "リズ",
+      "ja": "んっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "ec1366df",
+      "speaker": "",
+      "ja": "{G_PlayerName}はリズの足に陰茎を挟まれたまま、腰を必死に振り始める。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "6d3271c",
+      "speaker": "",
+      "ja": "リズの柔らかで、小さな足裏の感触が、自然と性感を高めていく。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "18e3567a",
+      "speaker": "リズ",
+      "ja": "はぁ、はぁ……んっ♥　少し、くすぐったいぞ……♥",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "5a85ca1d",
+      "speaker": "",
+      "ja": "そう言いながら、リズはつられるように自身の足も動かし、{G_PlayerName}のカリ首をくちゅくちゅと責める。",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "d6b78b99",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあっ、はあっ……リズの足、気持ち良すぎて……っ",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "928b1fcc",
+      "speaker": "リズ",
+      "ja": "俺は傭兵だから、こういうことには疎いし……お前を気持ちよくできるか不安だったが……",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "d9db35fe",
+      "speaker": "リズ",
+      "ja": "ふふ……♥　もう我慢汁とやらで俺の足がべちょべちょだ……♥",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "dd79c646",
+      "speaker": "リズ",
+      "ja": "そんなに俺の足に興奮してるのか？♥　そういえばいつぞやの精液採取も足でしてやった気がするな……",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "b9ded5bf",
+      "speaker": "リズ",
+      "ja": "うぁ……っ♥　足の裏、熱い……♥　お前の熱が、いったりきたりして……っ♥",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "c2dcf660",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、くっ……す、すまんリズ、もう出そうだ……っ",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "329a1f3",
+      "speaker": "リズ",
+      "ja": "出していいぞ……♥　はぁっ……♥　お前が好きなようにしてくれ……♥",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "524df03a",
+      "speaker": "{G_PlayerName}",
+      "ja": "出るっ、出るっ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "35e753af",
+      "speaker": "リズ",
+      "ja": "んぁっ、あっ……♥　出してくれ♥　俺の足でイって……っ♥",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "5019f9e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "っくっ……！",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "8342a526",
+      "speaker": "リズ",
+      "ja": "うぁっ……！♥　あつ……っ、んぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "e512a32b",
+      "speaker": "",
+      "ja": "{G_PlayerName}がリズの尻や背中に向けて射精する。その白濁の熱さにリズはびくりと身を震わせた。",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "61fa22c9",
+      "speaker": "リズ",
+      "ja": "はぁ、はぁ……っ♥　お前のこと、イかせられたんだな……♥",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "344e20a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、はぁ、はぁっ……！　す、すまんリズ、思いっきりかけてしまった……",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "a0a6dc44",
+      "speaker": "リズ",
+      "ja": "あははっ♥　出し過ぎだ♥　俺の足を孕ませる気か……♥",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "e2f067c7",
+      "speaker": "リズ",
+      "ja": "お前が足フェチのヘンタイでよかった♥　俺は尻も胸もないし……",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "1eeb7d8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "何言ってんだよ、リズは全部がかわいいだろっ",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "9b5e24a1",
+      "speaker": "リズ",
+      "ja": "えっ",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "b5ea32c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　思ってたことがつい……でも、そうだろやっぱ……性格も、ちょっと男っぽい話し方も全部かわいいし……",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "f5729e8e",
+      "speaker": "リズ",
+      "ja": "……お前の方が何を言っている……！　恥ずかしいことは言うな……！",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "305ceaa5",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、そこには照れるのかよ",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "ba7fc034",
+      "speaker": "リズ",
+      "ja": "(た、確かに……さっき夢中で変なことを口走ったかもしれない)",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "c8465248",
+      "speaker": "リズ",
+      "ja": "うう～……",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "9edb2e89",
+      "speaker": "",
+      "ja": "恥ずかしそうに{G_PlayerName}を睨むリズだが、可愛すぎるその表情は何の威圧にもなっていない。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "90256566",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……それで、できれば続きしたいんだけど……いいか？",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "38c9f7a4",
+      "speaker": "リズ",
+      "ja": "あっ……そうだよな、お前のおちんちん、まだこんなに硬いし……",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "7e648e3",
+      "speaker": "リズ",
+      "ja": "……うん、いいぞ♥　俺の足で、もっと気持ちよくなってくれ……♥",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "d5cef7d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうその可愛すぎるのやめてくれ……っ！　止まれなくなるっ……！",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "58fc58da",
+      "speaker": "リズ",
+      "ja": "ば、馬鹿……っ♥　俺は可愛くしてなんかない……んんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "2fa0b6c6",
+      "speaker": "",
+      "ja": "リズは{G_PlayerName}の陰茎を足でしっかりと挟み込み、自らも懸命に奉仕する。",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "63d80f0d",
+      "speaker": "",
+      "ja": "足の間を通っていく熱の塊のぬるつく感触だけで、感じてしまっていることに気づかないふりをしながら。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "bc74b09b",
+      "speaker": "リズ",
+      "ja": "んっ、はぁっ、あっ、足、ぬちゅぬちゅになって……泡立っているな……っ♥",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "3b443cad",
+      "speaker": "リズ",
+      "ja": "すごい……どんどん、おちんちん大きくなっていく……♥　破裂しそうじゃないか……♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "4e26fbdc",
+      "speaker": "リズ",
+      "ja": "男は皆、んっ、こんな風になるのか……？♥　それとも、これはお前だけか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "29da2742",
+      "speaker": "{G_PlayerName}",
+      "ja": "皆そうなるかもしれないけど、俺がいまこうなってるのはリズのせいだぞっ",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "53eebafd",
+      "speaker": "リズ",
+      "ja": "それは、責任転嫁だ……んっ、いや、そうか……俺のせいだったな……",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "e6d6bb31",
+      "speaker": "リズ",
+      "ja": "責任はとる……♥　だから、また、思いっきり射精して、俺に熱いのかけてくれ……♥",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "2b597e79",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっく、分かった、もうイくから……っ",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "1cce2af",
+      "speaker": "",
+      "ja": "{G_PlayerName}が最後にスピードを上げ、リズの精液で濡れて張り付いてくる靴下に向かって激しく自身を擦り付ける。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "60b7a91b",
+      "speaker": "",
+      "ja": "リズは胸を高鳴らせながらその時を待って、ついに――",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "46ba5ed2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐぅっ、リズ、イくぞ……っ！",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "ae49f8db",
+      "speaker": "リズ",
+      "ja": "ふぁあっ……！♥　あっ、出して♥　出してくれぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "445cad17",
+      "speaker": "",
+      "ja": "どぴゅどぴゅと何度も腹筋を痙攣させながら{G_PlayerName}は全ての精液を吐き出していく。",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "897c1b96",
+      "speaker": "",
+      "ja": "体に熱いオスの汁がかかるたびに、リズはその熱だけて感じてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "1aacb030",
+      "speaker": "リズ",
+      "ja": "はぁ、はぁ、はぁ……っ♥",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "a108e3fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅー……ふぅー……っ",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "559bf4c3",
+      "speaker": "",
+      "ja": "室内に、互いの呼吸だけが響いている。純白の衣装を纏った少女が、白く汚されていく光景は眩暈がしそうなほど扇情的だ。",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "37de4b96",
+      "speaker": "{G_PlayerName}",
+      "ja": "リ、リズ……",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "479074e0",
+      "speaker": "リズ",
+      "ja": "言うな……♥　こんなにぶっかけられて、俺も我慢できなくなった……♥",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "c45340d9",
+      "speaker": "リズ",
+      "ja": "次はお前が責任を取ってくれる番だよな……旦那様……♥",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "cad18b4f",
+      "speaker": "",
+      "ja": "リズは{G_PlayerName}の手を引き、{G_PlayerName}は自然とリズに口づけていた。2人の逢瀬の時間は、まだまだ続いていく――",
+      "zh": ""
+    }
+  ]
+}

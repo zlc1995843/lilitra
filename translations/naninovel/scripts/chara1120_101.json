@@ -1,0 +1,409 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "9e463771",
+      "speaker": "{G_PlayerName}",
+      "ja": "ったく……だから変なことは、するなって言ったのに",
+      "zh": "唉……我都说了别做奇怪的事，你偏不听……"
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "1820b108",
+      "speaker": "アコ",
+      "ja": "は、はうう……た、大変面目ないです……っ",
+      "zh": "呜、呜呜……真是太、太丢人了……"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "42b2a96a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アコ、ミスして両手を負傷するとか……はぁ……包帯でグルグル巻きじゃないか……）",
+      "zh": "（亚子一个失误，两只手都弄伤了……唉……绷带缠得一圈又一圈的……）"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "612772ef",
+      "speaker": "アコ",
+      "ja": "わ、わたしもこんなことになるとは思ってもいなかったもので……あ、呆れてますよね",
+      "zh": "我、我也没想到会弄成这样……唉，你一定很无语吧……"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "75c7835b",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……まあ……流石リリアンだな。命に別状が無くて良かったよ",
+      "zh": "不过……嗯……真不愧是莉安啊。没事就是万幸。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2e099f0",
+      "speaker": "アコ",
+      "ja": "ご、ごめんなさいです……",
+      "zh": "对、对不起……"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "1751df2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "とはいえ……両手が使えないとなると日常生活に支障が出るんじゃないか？",
+      "zh": "不过话说回来……两只手都用不了的话，日常生活会很不方便吧？"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "154086f8",
+      "speaker": "アコ",
+      "ja": "そ、それは……その……自業自得ですし、自分で何とかしますので……お、お気遣いは無用です……",
+      "zh": "那、那是……这个……是我自作自受，我会自己想办法的……不、不用费心……"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "116a81d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう訳にもいかないだろ？　そんな手じゃご飯も食べられないだろうし……ちょっと待っててくれ",
+      "zh": "哪能这么说？你那双手连饭都吃不了吧……稍等一下。"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "3002ca75",
+      "speaker": "アコ",
+      "ja": "あ、あ……い、行ってしまいました……も、もしかして……愛想を尽かされたのでは……",
+      "zh": "啊、啊……走、走了……难、难道……是嫌弃我了吗……"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "1bd0c6d4",
+      "speaker": "アコ",
+      "ja": "（こ、こんなドジなわたしなんて……あ、愛想を尽かされてもしかたないですけど……）",
+      "zh": "（像我这么冒失的人……啊，就算被你讨厌也是没办法的事呢……）"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "aaccfd21",
+      "speaker": "{G_PlayerName}",
+      "ja": "……お待たせ",
+      "zh": "……久等了"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "e2cf87dd",
+      "speaker": "アコ",
+      "ja": "えっ？！　あ、あの……そ、それは……？",
+      "zh": "诶？！ 啊，那个……那、那是……？"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "32530f72",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご飯だよ、ほかほかのリゾットだぞ",
+      "zh": "吃饭啦，香喷喷的烩饭哦"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "f1b6c759",
+      "speaker": "アコ",
+      "ja": "そ、それは見ればわかりますけど……あなたのお食事ですか？",
+      "zh": "这、这个看一眼就知道了……是你的饭吗？"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "fab861e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "違うって……ほら、俺が食わせてやるから",
+      "zh": "不是啦……喏，我喂你吃"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "ab8d3003",
+      "speaker": "アコ",
+      "ja": "ええ～っ？！　そ、そんな？！　い、いいですよ、自分で食べられます、な、なんとか",
+      "zh": "诶诶～？！ 这、这怎么行？！ 不、不用了，我自己能吃，勉、勉强能行啦"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "39a03e76",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな包帯でグルグル巻きの両手じゃ大変だろ、ほら",
+      "zh": "你两只手都缠着绷带，很不方便吧，来"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "a7bc15e9",
+      "speaker": "アコ",
+      "ja": "（あわわ！　リゾットをスプーンですくってくれて……こ、これって……もしかして……？！）",
+      "zh": "（哇哇！ 你拿勺子舀起烩饭……这、这难道是……？！）"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "6b1b9976",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほかほかリゾットだから熱そうだな……少し冷ましてから……",
+      "zh": "热腾腾的烩饭，应该挺烫的……我先吹凉一点……"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "4f2c830a",
+      "speaker": "アコ",
+      "ja": "（ふわぁ……ふーふーしてもらってます～♥　ど、どうしましょう♥　もしかして次に来るのは、いよいよ……♥）",
+      "zh": "（呼啊……在帮我吹吹呢～♥ 这、这该怎么办♥ 难道接下来就要……终于要……♥）"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "cbf36d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、あ～ん",
+      "zh": "来，啊～"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "1e397772",
+      "speaker": "アコ",
+      "ja": "（き、きてしまいました♥　予想してた通りの……「あ～ん」が♥）",
+      "zh": "（果、果然来了♥ 跟我预想的一样……‘啊～’♥）"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "ba2fd76b",
+      "speaker": "アコ",
+      "ja": "あ、あああ、あ～ん……もぐもぐもぐ",
+      "zh": "啊、啊啊啊、啊～嗯……嚼嚼嚼。"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "3f0f917f",
+      "speaker": "{G_PlayerName}",
+      "ja": "どう？　美味しい？",
+      "zh": "怎么样？好吃吗？"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "e24aa985",
+      "speaker": "アコ",
+      "ja": "は、はいっ！　すごく美味しいです！",
+      "zh": "是、是的！超级好吃！"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "8fd0912a",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあもう一口……はい",
+      "zh": "那再吃一口……来。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "1e0037b7",
+      "speaker": "アコ",
+      "ja": "あ、あ～ん……もぐもぐもぐ……",
+      "zh": "啊、啊～嗯……嚼嚼嚼……"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "15fa4c01",
+      "speaker": "アコ",
+      "ja": "（まさか機械士さんからご飯を食べさせて貰えるなんて♥　嬉しい……けど恥ずかしい♥　幸せ……♥）",
+      "zh": "（真没想到机械师先生会喂我吃饭♥ 好开心……不过好害羞♥ 幸福……♥）"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "5c4f687f",
+      "speaker": "アコ",
+      "ja": "あふ～……おなかいっぱいです♥　ごちそうさまでした♥　とても美味しかったです♥",
+      "zh": "啊呣～……肚子饱饱的啦♥ 谢谢款待♥ 真的好好吃♥"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "dd181ddd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、それは良かった……なにか困ったことがあったら何でも言えよ、な",
+      "zh": "这样啊，那就好……以后有什么困难尽管开口。"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "89fcbebf",
+      "speaker": "アコ",
+      "ja": "は、はい～♥",
+      "zh": "好、好的～♥"
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "af2f3756",
+      "speaker": "アコ",
+      "ja": "（こんなに優しくして貰えるなんて……幸せ♥）",
+      "zh": "（对我这么温柔……好幸福♥）"
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "49757087",
+      "speaker": "アコ",
+      "ja": "すき……♥",
+      "zh": "好喜欢……♥"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "843c03be",
+      "speaker": "アコ",
+      "ja": "（あわわ！　ついつい心の声が漏れてしまいました！）",
+      "zh": "（哇哇！一不小心把心里话都说出来了！）"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "9c05b22a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んっ？　何か言ったか？",
+      "zh": "……嗯？你刚才说什么？"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "18952c80",
+      "speaker": "アコ",
+      "ja": "ナ、ナンデモナイデス！　ハイ！",
+      "zh": "没、没什么！对！"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "64b38178",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……よしっ！　食事も終わったし、次はお風呂に行くか？",
+      "zh": "是吗……好！饭也吃完了，接下来去泡个澡？"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "8ef15eb",
+      "speaker": "アコ",
+      "ja": "……へっ？　お、お風呂？",
+      "zh": "……咦？洗、洗澡？"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "90dd2631",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、それともトイレの方が先かな？",
+      "zh": "啊，还是说先去趟洗手间？"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ddcbeecc",
+      "speaker": "アコ",
+      "ja": "ト、トイレって？！",
+      "zh": "什、什么？！去厕所？！"
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "ebe0de8c",
+      "speaker": "アコ",
+      "ja": "（まさかご飯を食べさせてくれるだけではなく、お風呂や下の世話までしてくれるつもりなのですか？！）",
+      "zh": "（该不会不仅让我蹭饭，还要帮我洗澡、伺候我上厕所吧？！）"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "b6bc3b2c",
+      "speaker": "アコ",
+      "ja": "（そ、それはさすがに恥ずかしすぎます～！）",
+      "zh": "（那、那也太羞耻了～！）"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "30fbd50a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらほら行くぞ、その手じゃ何も出来ないんだから",
+      "zh": "好啦好啦，走了，你那手根本干不了什么。"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "feebf878",
+      "speaker": "アコ",
+      "ja": "わああああああ～～～～～！！　そ、そこまでは大丈夫です～～～！！",
+      "zh": "哇啊啊啊啊啊啊～～～～～！！那、到那一步我还撑得住～～～！！"
+    }
+  ]
+}

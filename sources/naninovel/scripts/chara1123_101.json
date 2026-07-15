@@ -1,0 +1,265 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "cad2f92b",
+      "speaker": "ナノ",
+      "ja": "小さくなると、何で私だけこんな包帯姿になるのかしら……私以外の皆さんはちゃんとお洋服があるのに",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "2e7d5c0c",
+      "speaker": "ナノ",
+      "ja": "でも、夜の植物園は誰もいなくて静かね……服が見られる人が少なくて良かったわ",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "665d739",
+      "speaker": "ナノ",
+      "ja": "それにしても宇宙船の中なのに、昼夜があるのは凄いわね。魔法も発展したらこんな空間が作れるかしら……",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "28a12c10",
+      "speaker": "ナノ",
+      "ja": "……と、違うことを考えていないで薬草の状態を見て回りましょう。見るだけなら許されてるし",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "275816b",
+      "speaker": "ナノ",
+      "ja": "う～ん……やっぱり、魔と叡智の星には無い薬草が多いわね……興味が尽きないわ",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "27d6ff9",
+      "speaker": "ナノ",
+      "ja": "……少し高いところにある植物、全然見えないわね",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "e522a72a",
+      "speaker": "ナノ",
+      "ja": "えいっ！　えいっ！　う～……ジャンプしても見えないわね……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "9e9e1469",
+      "speaker": "ナノ",
+      "ja": "（小さくなったのはわかっていたことだけど……わたしって、こんなにも小さくなってるの？）",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "f4dd4d0e",
+      "speaker": "ナノ",
+      "ja": "はあ……諦めようかしら",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "f2646a81",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、これで見えるか？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "27cc976",
+      "speaker": "ナノ",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "cb946598",
+      "speaker": "{G_PlayerName}",
+      "ja": "見えなかったんだろ？　ほら",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "4ef31a80",
+      "speaker": "ナノ",
+      "ja": "あ、ありがとう……それにしても随分朝早いのね？　もしかして眠れなかったの？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "acee6c1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあね、だから散歩していたんだ",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "3eaf8ad7",
+      "speaker": "ナノ",
+      "ja": "あらあら、それじゃあこの後でハーブティーでもいれてあげましょうか？　よく眠れるわよ",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "25587dc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、いいよ……さすがに悪いし",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "be5d10d7",
+      "speaker": "ナノ",
+      "ja": "そう、それじゃあわたしは植物の観察に戻るわね",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "c70c6d8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "手伝おうか？　さっきみたいに、高いところの奴は見えないだろ",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "2ed8fb13",
+      "speaker": "ナノ",
+      "ja": "いいわ、姿が元に戻ってから見ればいいから",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "3edb524",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "7fb98dee",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それにしても小さくなってもナノは薬草の知識がいっぱいあって……すごいな。）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "fae7d353",
+      "speaker": "ナノ",
+      "ja": "魔と叡智の星の薬草もあるわね。この薬草はあまり水をあげすぎると性質が変わってしまうの。注意して水の量を抑えないといけないわ",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "aed161d0",
+      "speaker": "ナノ",
+      "ja": "この薬草はそろそろ花が開きそうね。咲いたばかりのこの薬草の花は、特別香りが強くて紅茶にも出来るのよ",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "eb25e7f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（草木のさわやかな香りに包まれて、この夜と朝の狭間の時間……ナノの声を聞いてるとすごく心地いいな。）",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "a8c110a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふわぁぁぁ……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "296062c7",
+      "speaker": "ナノ",
+      "ja": "ふふふっ♥　わたしの解説は退屈だった？　でもこれで眠れそうね",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "1da377dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……しかし小さくなってもナノは先生だよな、教えるのが上手だ",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "bd068915",
+      "speaker": "ナノ",
+      "ja": "ありがとう、一応素直に褒められたと思っておくわ",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "7251e89",
+      "speaker": "ナノ",
+      "ja": "まあ、あくびだけは余計だったけどね♥　くすくす♥",
+      "zh": ""
+    }
+  ]
+}

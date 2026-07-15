@@ -1,0 +1,562 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "38225e6a",
+      "speaker": "ベル",
+      "ja": "配線に注意しろよ、感電してしまうからな",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "b2221b0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "了解……！",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "2f1d5ce7",
+      "speaker": "ベル",
+      "ja": "あーっ！　だから気を付けろ！　今ドライバーが配線に触れるところだったぞ！",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "54d65e26",
+      "speaker": "{G_PlayerName}",
+      "ja": "すっ、すまん……！　でもこのドライバー大きいな……ネジ締めにくいぞ",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "e0c032c7",
+      "speaker": "ベル",
+      "ja": "しょうがない、わがはいのを貸してやろう",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "d12f971f",
+      "speaker": "{G_PlayerName}",
+      "ja": "サンキュー",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "5e4aed28",
+      "speaker": "",
+      "ja": "{G_PlayerName}の部屋で爆弾に関する機材の調整をする二人。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "dc28052",
+      "speaker": "",
+      "ja": "少しでも機械について学びたい{G_PlayerName}はベルの指導を受けながら、調整を手伝っていた。",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "4d3a3fbc",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、締めたぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "2ea0f906",
+      "speaker": "ベル",
+      "ja": "しかし{G_PlayerName}は器用だな。指とかゴツゴツしているクセに細かい作業が得意とかどうなっているんだ？",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "48534f79",
+      "speaker": "{G_PlayerName}",
+      "ja": "指がゴツゴツとか関係なくないか？　まぁ子供の頃から研究って意味で分解と組み立てをしていたからな……",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "fa1221f6",
+      "speaker": "ベル",
+      "ja": "なるほど……それで細かい作業が得意と言うわけか",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "1827f11e",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、次は何をすればいい？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "6a3f3c49",
+      "speaker": "ベル",
+      "ja": "そうだな……次は部品の取り付けだが……溶接してみるか？　助手ならできると思うが",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "3cfbea33",
+      "speaker": "{G_PlayerName}",
+      "ja": "おおっ！？　ベルがいつもやっているアレか！　たしかコレとコレ使うんだよな",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "cc1cd45",
+      "speaker": "ベル",
+      "ja": "じゃあさっそくコレを基盤のココに取り付けてくれ",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "ed680c91",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……！　よし、やるぞ……！　俺だってベルの作業を見てたんだ、できる、やれる……！",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "c8986a9e",
+      "speaker": "ベル",
+      "ja": "お、おい、そんなに気負うな。見てるこっちが不安になってくる",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "6d8d1a8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "a996bd24",
+      "speaker": "ベル",
+      "ja": "ま、まあ助手ならそんなに気負わなくても簡単にできると思うから気楽にやってくれ",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "3464bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……すぅーっ……はーっ……よし、やるか……",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "4e5adc04",
+      "speaker": "ベル",
+      "ja": "（うーん、本当に{G_PlayerName}は器用だな……この程度の作業は簡単にこなしてしまう）",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "ffed8239",
+      "speaker": "ベル",
+      "ja": "（それにしても……なんて太い腕をしているんだ？　いや、腕だけじゃない、田舎育ちのせいか良い身体しているよな……）",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "1a183ae5",
+      "speaker": "ベル",
+      "ja": "（なんていうか……見ているだけでヘンな気分になってくる……。二の腕なんかわがはいの三倍……いや、五倍はありそうだ……）",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "833fd17e",
+      "speaker": "ベル",
+      "ja": "（筋肉の塊……わがはいとは身体の作りそのものが違う……）",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "37d157a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベル……？　ベル……！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "5086c3ad",
+      "speaker": "ベル",
+      "ja": "なっ、ななななんだっ！？　い、いきなり大きな声を出して……！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "5ee16c55",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、さっきから呼んでいたんだが……それよりココどうするんだ？　なんか付けにくいんだよな……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "5c59e6b9",
+      "speaker": "ベル",
+      "ja": "あ、ああ、そこはな……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "3de052a9",
+      "speaker": "ベル",
+      "ja": "（ん……？　今ならさりげなく触っても違和感ないか……？）",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "98372112",
+      "speaker": "ベル",
+      "ja": "（身体がくっつくような距離なんだ、多少触った程度でどうこうはならないだろ……）",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "8f39a714",
+      "speaker": "{G_PlayerName}",
+      "ja": "……よし、できた……！　ふぅーっ！　なかなか神経を使う作業だな",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "b17da46",
+      "speaker": "ベル",
+      "ja": "そっ、そうだな、まあお前ならそのうち簡単にできるようになると思うぞ。そのうちこの作業はすべて助手に任せるようになるかも",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "f2bc41e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなるといいんだけどな……よし、残りやってしまうか",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "d25c297c",
+      "speaker": "ベル",
+      "ja": "お、おお、気を付けろよ",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "14ec1a84",
+      "speaker": "ベル",
+      "ja": "（よし、このタイミングだ……！　作業を覗き込むふりをして、さりげなく、さりげなく腕に……）",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "25abd58e",
+      "speaker": "ベル",
+      "ja": "──えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "7fdf1759",
+      "speaker": "{G_PlayerName}",
+      "ja": "──えっ？　す、すまん、俺今何かヘンなことした？　普通に作業してたと思うんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "7efddbbb",
+      "speaker": "ベル",
+      "ja": "す、すす、すまん、つい声が……別にお前が何かをしたわけではないんだが……その……",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "e8477bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ？　人の腕を見て……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "b22113f8",
+      "speaker": "ベル",
+      "ja": "お前の腕、まるで岩みたいに硬くて、それで思わず声が……。ほ、本当にそれが人の腕なのか……？　なんだか信じられないぞ……",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "5248ce5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……？　岩ほど硬くないとは思うけど",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "706bb861",
+      "speaker": "ベル",
+      "ja": "しかしバカ助手、お前めちゃくちゃ鍛えているな？　もしかして……むふふ、リリアンを力で手籠めにするためか？　お前に幼馴染がいただろう",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "a8bf8b27",
+      "speaker": "{G_PlayerName}",
+      "ja": "ばっ……！　ちっ、ちげーって！　普通にコハルたちに頼りきりにならないようにちょっと鍛えているだけで……",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "2adfa0d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あと重い機材とか運ぶから自然と……決して女の子にどうこうってわけじゃないからっ",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "140c74bb",
+      "speaker": "ベル",
+      "ja": "そっ、そうか、まぁお前が人を襲うとも思えんしな。しかし本当にカチカチだな……",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "ca873a47",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、そんなに触るなよ、くすぐったいって",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "2746b63c",
+      "speaker": "ベル",
+      "ja": "今力とか入れていないんだろう？　ちょっと入れてみろよ",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "683b638b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、別にいいけど……ん……！",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "633250dc",
+      "speaker": "ベル",
+      "ja": "おおおおーっ！　硬いっ！　こ、これはすごい……！",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "696730c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか？　まだそんなに力は入れていないんだけど……本気でやると……んんんっ！",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "3e93b8eb",
+      "speaker": "ベル",
+      "ja": "んなぁっ！？　な、なんて硬いんだ……！　すごい、すごいぞ、お前……！",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "82d50ce1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう言われると悪い気はしないな……エロ目的だと思われたのは心外だったが",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "e55c2083",
+      "speaker": "ベル",
+      "ja": "人間鍛えるとこうなるものなのだな……わがはいも鍛えようかな？　お前に比べるとわがはいの身体は細すぎるよな？　ぺらっぺらだ",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "fb4766bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "別にそこまでペラペラとも思えんけど……リリアンのベルが鍛える、か……",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "5d6b9aca",
+      "speaker": "{G_PlayerName}",
+      "ja": "（華奢でもリリアンってすごい腕力しているんだよな……それを鍛えたら……）",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "fc3e1408",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ま、待て、それって筋肉だるまとかにならないか？）",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "7f2059eb",
+      "speaker": "ベル",
+      "ja": "うーん、鍛えるには何から始めるのがいいんだろうか？　わがはいに教えてくれ",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "574c59bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "だっ、だめだだめだだめだっ！　ベルはそのままでいいから！　そのままのベルが一番だからっ！　そのままのベルが一番カワイイからっ！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "3a34fde2",
+      "speaker": "ベル",
+      "ja": "おっ、おお？　そ、そうか？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "7b47be58",
+      "speaker": "ベル",
+      "ja": "（か、かわいい……？　今助手が間違いなくわがはいをかわいいと言ったよな……？）",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "8e47e7e8",
+      "speaker": "ベル",
+      "ja": "（そうか……助手はわがはいがかわいいのか……ふふ、そう思われるのは悪い気がしないな……ふふふ……♪）",
+      "zh": ""
+    }
+  ]
+}

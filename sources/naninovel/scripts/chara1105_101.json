@@ -1,0 +1,535 @@
+{
+  "lines": [
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "feea8591",
+      "speaker": "ブルーム",
+      "ja": "クソ人間！　今日こそブルームと契約の解消をしなさいよ～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "fa0efdbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うわぁっ！？　なっ、なんだよ！　人の部屋に来るなりいきなり叫んで！",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "9b71bf07",
+      "speaker": "ブルーム",
+      "ja": "うるさいっ！　いいから契約……あっ！？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "df850ad4",
+      "speaker": "ラギオラ",
+      "ja": "どうしたんだ、ブルーム？　そんなに怒鳴り散らかして。{G_PlayerName}が何かしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "df1edc29",
+      "speaker": "ブルーム",
+      "ja": "う、あ……？　え、その、ラギオラ……さん……？　な、なんでこいつの部屋に……？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "eae3cc85",
+      "speaker": "ラギオラ",
+      "ja": "ああ、話したいことがあってな。それで契約とか言っていたが何かあったのか？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "fcb3c85f",
+      "speaker": "ブルーム",
+      "ja": "そ、その……ブルーム、そいつと契約してて、その……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "6fb93450",
+      "speaker": "{G_PlayerName}",
+      "ja": "（んん……？　なんだ？　ブルームのヤツ、ラギオラさんを見た途端、普段と違ってずいぶんとしおらしくなってしまったな）",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "46a89044",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そう言えばこの二人が話をしているところって見たことがないな……もしかしてブルームってラギオラさんみたいな威厳のある人間が苦手なのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "de310765",
+      "speaker": "ラギオラ",
+      "ja": "契約……？　そういえばブルームは悪魔とか言っていたな。{G_PlayerName}と何か契約してココにいるのか",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "fda321f5",
+      "speaker": "ブルーム",
+      "ja": "う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "62b64b09",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は契約した覚えとかないんですよね。勝手に付きまとわれているって感じで",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "68f3f875",
+      "speaker": "ブルーム",
+      "ja": "なっ、なによ、付きまとうって……！　契約があるから、こんな外が真っ暗なわけわかんない世界に連れてこられたのに……！！",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "9625db87",
+      "speaker": "ラギオラ",
+      "ja": "それは災難だったな……確かにウチュウはどこまで行っても真っ暗で、時折不安になることもある。まるで夜が永遠に続く……そんな印象を抱かせる",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "23c2dfc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "怖いものがなさそうなラギオラさんでもそう思うことがあったんですね",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "633b59b8",
+      "speaker": "ラギオラ",
+      "ja": "お前はそう思わなかったのか？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "cfb14087",
+      "speaker": "{G_PlayerName}",
+      "ja": "不思議な場所だなとは思いましたけど、怖さはそこまではなかったような……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "307eaf0d",
+      "speaker": "ラギオラ",
+      "ja": "ウチュウに対する認識は人によりけりと言った感じか……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "c52030a7",
+      "speaker": "ラギオラ",
+      "ja": "しかし身に覚えのない契約……ふむ、興味があるな。本当に二人揃って身に覚えのない契約なのか？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "fda321f5",
+      "speaker": "ブルーム",
+      "ja": "う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "38ff40bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺も無いんですよね……。特に何かをしたわけでもなくて、突然契約が結ばれたって",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "10049d5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラギオラさんはこういうの詳しかったりします？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "c1d00e99",
+      "speaker": "ラギオラ",
+      "ja": "いや、詳しくはない",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "424b15cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、ですか……何か解決策でもあればよかったんですけど",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "949bd472",
+      "speaker": "ラギオラ",
+      "ja": "呪術の類か何かだろうか……第三者が勝手にブルームを呼び出して、{G_PlayerName}と契約させた、とか",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "25c72c38",
+      "speaker": "ブルーム",
+      "ja": "えっと、わ、わかんない……呼び出されるときは、その人の前に現れる、はずだから……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "8a78132",
+      "speaker": "ラギオラ",
+      "ja": "そうか……なら第三者が呼び出したわけでもない、と。それなら呼び出したのは{G_PlayerName}になるはずだな",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "90e27741",
+      "speaker": "ブルーム",
+      "ja": "ほ、ほら、やっぱりあんたが勝手に……！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "21f31cc3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違うって！　本当に覚えがないんだ！　そもそも悪魔ってどうやって呼び出すんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "7a0a1020",
+      "speaker": "ラギオラ",
+      "ja": "基本的に契約というものは双方の合意があって行われるものだな……。ブルームは契約した時の状況とかに覚えはないのか？",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "8f2957e6",
+      "speaker": "ブルーム",
+      "ja": "えーっと……わ、わかんない……。気づいたらこうなってたから……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "32d136f",
+      "speaker": "ラギオラ",
+      "ja": "そうか……ますます謎が深まるばかりだな",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "dea8fedb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかしブルームはラギオラさんの前だと、完全に借りてきた猫状態だな）",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "5755bcad",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いっつもナマイキで、口が悪いけど、こういうブルームは新鮮でいいかも）",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "bf4eabc9",
+      "speaker": "ブルーム",
+      "ja": "な、なによ……！　こっち見てニヤニヤして……！　何か言いたいことでもあるのっ！？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "d83ab4cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、何でもない。こういう話に詳しそうな人って誰かいますかね？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "1a97bcc9",
+      "speaker": "ラギオラ",
+      "ja": "うーん……どうなのだろうか",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "72aa8290",
+      "speaker": "ブルーム",
+      "ja": "（ううう……なんでこいつはこんな怖そうな女とふつーに会話できてんのよ）",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "166f9cb",
+      "speaker": "ブルーム",
+      "ja": "（絶対にラギオラは危ないヤツなのに……）",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "6eadc9fc",
+      "speaker": "ラギオラ",
+      "ja": "ところで悪魔との契約ってどんな感じで行われるんだ？　召喚されると、そいつの目の前にワープするとそんな感じなのか？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "15ced5db",
+      "speaker": "ブルーム",
+      "ja": "そっ、そう、だと思う、けど……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "b78dcd2b",
+      "speaker": "ラギオラ",
+      "ja": "なんだか歯切れが悪いな……もしかしてブルームは{G_PlayerName}と出会う前まで召喚とか契約とかしたことがないのか？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "932d78f6",
+      "speaker": "ブルーム",
+      "ja": "な、ない……悪魔を呼び出す人間なんて、その……滅多にいない、から……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "b9afcd02",
+      "speaker": "ラギオラ",
+      "ja": "それもそうか……",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "acf1b5e9",
+      "speaker": "ブルーム",
+      "ja": "（うう……いつまで質問してくるのよぉ……！　バカ人間もニヤニヤしてばっかりでブルームを助けようともしないでぇ……！）",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "a0a23071",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もブルームもいつまでもこんなわけのわからない状態でいるわけにもいかないよな……そうだ、今日は契約についていろいろと調査するか！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "406c61a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラギオラさんも時間があるのなら手伝ってもらえませんか？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "acb54b97",
+      "speaker": "ラギオラ",
+      "ja": "ああ、いいぞ。せっかくだし、いろんなヤツに話を聞いてみようか",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "f6efc721",
+      "speaker": "ラギオラ",
+      "ja": "ちょうど腹も減っているしな！　三人でメシでも食いながら考えようか",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "ed53bd9",
+      "speaker": "ブルーム",
+      "ja": "──ええええええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "aa68dca1",
+      "speaker": "{G_PlayerName}",
+      "ja": "それいいですね！",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "a68c14a6",
+      "speaker": "ブルーム",
+      "ja": "ちょ……！　クソ人間、なに勝手に話を進めてんのよぉ！",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "31f3615c",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、ブルームは腹減ってないのか？",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "ad6cf9b",
+      "speaker": "ブルーム",
+      "ja": "すっ、空いてる、けどぉ……でも、その……",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "2d273ac7",
+      "speaker": "ラギオラ",
+      "ja": "はははっ、ならちょうどいい。ブルームは何が好きなんだ？　今日は我もそれを食うとしよう。教えてくれ",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "88d3113",
+      "speaker": "ブルーム",
+      "ja": "えっ？　ブルームはその……サラダ、が好き……だけどぉ……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "4511e7d",
+      "speaker": "ラギオラ",
+      "ja": "サラダだけだと力でないだろう？　肉も食え、肉も！　はははははっ",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "e2c89482",
+      "speaker": "ブルーム",
+      "ja": "（コイツ、悪いヤツじゃないのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "5f3554b8",
+      "speaker": "ブルーム",
+      "ja": "（ちょっとまだ怖い……でもご飯くらいなら一緒に……）",
+      "zh": ""
+    }
+  ]
+}

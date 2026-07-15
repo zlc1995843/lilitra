@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "91c3bcd",
+      "speaker": "{G_PlayerName}",
+      "ja": "夏祭りに来てみたものの……すごい人混みだ",
+      "zh": "好不容易来了夏日祭……人可真多啊。"
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "7bfdc13e",
+      "speaker": "モル",
+      "ja": "まったくっすね……自分人混みは苦手っす、お兄さん少し人混みを避けませんか？",
+      "zh": "唉，真是够了……我实在应付不来这种人挤人的场面，大哥，我们躲开点人群吧？"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "e1099122",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……それじゃあ比較的に人が少ないあっちの屋台の方に行ってみようか",
+      "zh": "也是……那我们去人少点的那排摊位逛逛吧。"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "3fc596f5",
+      "speaker": "モル",
+      "ja": "そうっすね、行きましょう",
+      "zh": "好啊，走吧。"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "7113cb64",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし……人が多いせいか……暑いな",
+      "zh": "不过……因为人多，感觉好热啊。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "657a4f77",
+      "speaker": "モル",
+      "ja": "そうっすね……",
+      "zh": "没错……"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "928b1890",
+      "speaker": "",
+      "ja": "2人は並んで歩いているものの、会話はぽつりぽつりとしか生まれない。",
+      "zh": "两人虽然并肩走着，但有一搭没一搭地聊着。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "d0574ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……なあ、モルはどこの屋台を見てみたい？",
+      "zh": "嗯……对了，莫尔，你想逛哪个摊位？"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "d6af470",
+      "speaker": "モル",
+      "ja": "そうっすねぇ……色々な屋台が出てるから……迷うっすね",
+      "zh": "嗯……摊位太多了，我都挑花眼了。"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "20619541",
+      "speaker": "{G_PlayerName}",
+      "ja": "だよなぁ……",
+      "zh": "可不是嘛……"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "7496e95c",
+      "speaker": "",
+      "ja": "そしてまた訪れる沈黙。しばらくした後、{G_PlayerName}は何かを見つけて明るい声を出す。",
+      "zh": "于是又陷入了一阵沉默。过了一会，{G_PlayerName}似乎发现了什么，声音轻快了起来。"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "12cb9a78",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あっ、海足獣焼きだって、モル食べるか？",
+      "zh": "……啊，是烤海兽肉啊，莫尔要吃吗？"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f9e66c33",
+      "speaker": "モル",
+      "ja": "た、食べたいっす！",
+      "zh": "要、要吃！"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "c265698d",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ買って食べるか",
+      "zh": "那就买来吃吧"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "af639a52",
+      "speaker": "モル",
+      "ja": "う、うっす！",
+      "zh": "嗯、嗯！"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "b653a516",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うう……イマイチ話が盛り上がらない……浴衣姿のモルを見て緊張しているせいかな）",
+      "zh": "（唔……总感觉聊不太起来……是看到穿着浴衣的莫尔太紧张了吗）"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "93bb19b0",
+      "speaker": "モル",
+      "ja": "（やばい……お兄さんの浴衣姿♥　一緒に夏祭りに来られてラッキーだったっす！）",
+      "zh": "（糟了……哥哥的浴衣模样♥ 能一起来夏日祭真是太走运了！）"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "7d7642d3",
+      "speaker": "モル",
+      "ja": "（で、でもお兄さんの浴衣姿がかっこよすぎて……ま、まともに顔が見られないっす）",
+      "zh": "（但、但是哥哥的浴衣实在太帅了……我、我都没法直视他的脸了）"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "524ac1e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかし……モルの浴衣姿、可愛すぎる！　でも可愛いとか言うとモルは嫌がるかな？）",
+      "zh": "（不过……莫尔穿浴衣的样子也太可爱了！ 但要是夸可爱的话，莫尔会反感吗？）"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "85944370",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、えっと……すみません、海足獣焼き二つ下さい",
+      "zh": "呃，那个……不好意思，麻烦来两份烤海兽肉"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "3b9c239d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ああ、俺は屋台で買うことに逃げてしまってる！　何してるんだ！　情けないぞ！）",
+      "zh": "（啊啊，我居然想靠路边摊解决……搞什么啊！也太没出息了！）"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "dda2cb52",
+      "speaker": "モル",
+      "ja": "（ど、どうしよう……お兄さんを独り占めできる機会なんてそんなに無いのに……）",
+      "zh": "（怎、怎么办……明明难得能和哥哥独处……）"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "2ce15592",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、モル……海足獣焼きだよ",
+      "zh": "给，莫尔……这是烤海足兽串。"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "c7db1c58",
+      "speaker": "モル",
+      "ja": "お兄さん、ありがとうっす、いただきます",
+      "zh": "谢谢哥哥，我开动啦。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "c0c2c35f",
+      "speaker": "モル",
+      "ja": "（ううっ……せっかく買ってもらったのに、ドキドキしすぎて味がぜんぜんわからないっす）",
+      "zh": "（呜呜……难得哥哥买给我的，可心跳太快，完全尝不出味道啊。）"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "8be23dc",
+      "speaker": "モル",
+      "ja": "（でも！　せっかく二人っきりなんすから、せめて……せめて手を！　手を握りたいっす！）",
+      "zh": "（不过！好不容易能两个人在一起，至少……至少让我牵个手！好想握手啊！）"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "7dfc1b9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……どうだ？　美味しいか？",
+      "zh": "……怎么样？好吃吗？"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "151871c",
+      "speaker": "モル",
+      "ja": "うっす！すごく美味しいっす！",
+      "zh": "嗯！超级好吃！"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "c77f3fdf",
+      "speaker": "モル",
+      "ja": "（しまったっす……タイミングを逸してしまったっす……でも次こそは……っ！）",
+      "zh": "（糟了……错过时机了……但下次一定……！）"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "5145891b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅぅ……海足獣焼き食べたら汗かいてきたな",
+      "zh": "呼……吃完烤海足兽，汗都出来了。"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "6fd6f78b",
+      "speaker": "モル",
+      "ja": "そ、そうっすね……自分もすごく汗かいてるっす",
+      "zh": "是啊……我这边也出了一身汗呢。"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "cba00612",
+      "speaker": "モル",
+      "ja": "（海足獣焼き食べたからじゃなくて、緊張で半端なく汗が出るっす……）",
+      "zh": "（不是因为吃了烤海足兽，而是紧张得汗完全停不下来……）"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "a8a18159",
+      "speaker": "モル",
+      "ja": "（でもまだまだ！　次のチャンスを見つけて……今っす！）",
+      "zh": "（不过还没完！ 找到下一次机会…… 就是现在！）"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "8347c9e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ！　モル、あそこ見てみろよ！　金魚すくいだってよ！　って、でも宇宙海賊はこういうのやらないか……",
+      "zh": "哦！ 莫尔，你看那边！ 有捞金鱼！ 不过，宇宙海盗会玩这种东西吗……"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "f0ffe08a",
+      "speaker": "モル",
+      "ja": "っ！？　あ～そ、そうっすね……チマチマしたのは苦手かもっす……",
+      "zh": "诶！？ 啊、是啊……这种细活我可能有点应付不来……"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "2a408fb",
+      "speaker": "モル",
+      "ja": "（くそ～！　また空振りしたっす……もうダメっす……でも最後にお兄さんに触れたいっす……）",
+      "zh": "（可恶～！ 又落空了……已经不行了……但最后真想碰一下大哥……）"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "24dc002e",
+      "speaker": "モル",
+      "ja": "（手を握れないならせめて……手の甲をお兄さんの手の甲に……）",
+      "zh": "（既然没法握手……至少让我的手背贴上大哥的手背……）"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "84375516",
+      "speaker": "",
+      "ja": "モルがそう決心して、少し手を{G_PlayerName}へと寄せる。",
+      "zh": "莫尔下了这样的决心，把手稍稍伸向{G_PlayerName}。"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "76ab3da2",
+      "speaker": "",
+      "ja": "すると思ったよりもねっとりと、自身の手の甲を擦り付けてしまった。",
+      "zh": "结果比想象中还要缠绵地，把自己的手背贴了上去。"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "831715dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！　モル……",
+      "zh": "呃！？ 莫尔……"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "a8002448",
+      "speaker": "モル",
+      "ja": "（あっ……お兄さんの手がビクンって……驚かしてしまったっす……）",
+      "zh": "（啊……哥哥的手猛地抖了一下……是我吓到你了吗……）"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "9ef30db8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（モル……うつむいて顔を真っ赤にさせて……も、もしかして……手とか……繋いじゃっていいのかな？）",
+      "zh": "（莫尔……低着头脸这么红……该、该不会……牵个手……是可以的吧？）"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "8803c408",
+      "speaker": "モル",
+      "ja": "お、お兄さん……え、えっと……あわわ……",
+      "zh": "啊、哥哥……呃，那个……啊哇哇……"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "67413c",
+      "speaker": "",
+      "ja": "{G_PlayerName}の手が、小さなモルの手を包み込む。",
+      "zh": "{G_PlayerName}的手，轻轻包住了莫尔的小手。"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "e203e1a0",
+      "speaker": "",
+      "ja": "気まずい沈黙も、意味合いが変わり2人の体温が溶け合っていった。",
+      "zh": "尴尬的沉默悄然变了味，两人的体温渐渐融到了一起。"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "d0c9af3a",
+      "speaker": "モル",
+      "ja": "（お兄さんの方から自分の手を握ってきてくれたっす……しかも顔を真っ赤にさせて……）",
+      "zh": "（哥哥主动握住了我的手……而且自己的脸还那么红……）"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "ad3940f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（い、勢いで手を繋いでしまったけど……ヤバい程ドキドキしてしまう……ああ、緊張する……）",
+      "zh": "（呜……一冲动就牵上手了……心跳得厉害……啊啊，好紧张……）"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "886b90cf",
+      "speaker": "モル",
+      "ja": "（ああ……お兄さんの手……大きいっす……それに温かくて……はぁぁ♥　ドキドキが止まらないっす♥）",
+      "zh": "（啊啊……哥哥的手……好大……还好暖和……哈啊♥心跳停不下来♥）"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "f349f324",
+      "speaker": "{G_PlayerName}",
+      "ja": "モ、モル……つ、次は……どこの屋台に……い、行こうか？",
+      "zh": "莫、莫尔……那、接下来……去哪个摊位……逛、逛逛？"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "1d9fcd10",
+      "speaker": "モル",
+      "ja": "そ、そうっすね……お、お兄さんにお任せするっす……",
+      "zh": "是、是啊……就、就交给哥哥决定……"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "8bd73688",
+      "speaker": "モル",
+      "ja": "（すごく嬉しいっすけど……顔から火が出そうな感じっす♥）",
+      "zh": "（超级开心是开心……但脸烫得简直要喷火啦♥）"
+    }
+  ]
+}

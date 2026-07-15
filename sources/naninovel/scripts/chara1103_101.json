@@ -1,0 +1,526 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "5085f221",
+      "speaker": "{G_PlayerName}",
+      "ja": " これはすごいな……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "1a98ccf1",
+      "speaker": "",
+      "ja": "コハルと{G_PlayerName}はブライダルから招待された宇宙ステーションに足を運んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "39a0fcba",
+      "speaker": "コハル",
+      "ja": "(なんか{G_PlayerName}と2人でいるの、久しぶりな気がする……最近はずっとルミナ達と一緒にいたからかな……？)",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "271d3de6",
+      "speaker": "{G_PlayerName}",
+      "ja": "見たことない素材だ……微妙にアポロと違うけど、合金か何かか……？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "e78a0dd3",
+      "speaker": "{G_PlayerName}",
+      "ja": "操縦方法についても聞いてみたいな……どんな機構がこのでっかい宇宙ステーションを制御しているのか気になって仕方ない……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "49df9034",
+      "speaker": "",
+      "ja": "{G_PlayerName}はブライダルの住んでいる宇宙ステーションに用いられている先進的な技術に強く興味を持っている。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "3bda931",
+      "speaker": "コハル",
+      "ja": "(はぁ、{G_PlayerName}は機械のことになるといっつも周りが見えなくなるんだから……せっかく２人きりなのに……)",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "99db154e",
+      "speaker": "{G_PlayerName}",
+      "ja": "なぁなぁコハル！　ブライダルにお願いすればこの宇宙ステーションの中枢を見せてくれるかな？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "e3007610",
+      "speaker": "コハル",
+      "ja": "知らないわよ……そんなの、ブライダルに直接聞いてみたらどう？　どーせダメって言われるでしょうけど",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "7635dab7",
+      "speaker": "コハル",
+      "ja": "（あっ……しまった、ここまで言う気無かったんだけど……感じ悪くなっちゃった）",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "2c9310ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ふ、ふーん……！　お前、昔からちょっと口が悪いよな……！　もう少し優しく振る舞ったほうが良いんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "1c06351d",
+      "speaker": "コハル",
+      "ja": "あ、あんたに言われたくないわ！　ちょっとは優しくされるような事しなさいよ！",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "7f7f8289",
+      "speaker": "コハル",
+      "ja": "（あー……ダメだ、嫌な言葉ばっかり出てくる……！　あたし、本当子供っぽいわね……）",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "f526edef",
+      "speaker": "ブライダル",
+      "ja": "コハル様、{G_PlayerName}様、本日はお越しいただきありがとうございます！　すみません、本当は私がお出迎えする予定だったのですが急用が入ってしまいまして……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "18ff3433",
+      "speaker": "コハル",
+      "ja": "あ、ブライダル！こんにちは！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "6c14a037",
+      "speaker": "{G_PlayerName}",
+      "ja": "全然大丈夫！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "c534ab8d",
+      "speaker": "ブライダル",
+      "ja": "楽しんでいただけているみたいで良かったです！　お２人とも、とっても仲良しなのですね。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "89123a1c",
+      "speaker": "",
+      "ja": "どうやらコハルと{G_PlayerName}の小競り合いとも言える喧嘩は、宇宙ステーション内の廊下に響いていたようだ。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "33792b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……仲良くはないですって！　うるさくしちゃってすみません……コハルが",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "f5fe09c4",
+      "speaker": "コハル",
+      "ja": "はぁっ！？　うるさかったのはあんたのほうでしょ？　私のこと放っておいて、機械がナントカって！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "efb08f6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "別にいいだろ今日くらい！　こんな機会滅多に無いんだし！",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "4c361616",
+      "speaker": "ブライダル",
+      "ja": "ふふふ、喧嘩するほど仲が良いとはこのことですね！　……どうでしょう？　ここは一つ良いアイデアがあるのですが……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "4ce33294",
+      "speaker": "コハル",
+      "ja": "アイデア？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "2f11c5e6",
+      "speaker": "ブライダル",
+      "ja": "そうです。といっても至極単純なことですが……ここはひとつ、前のように結婚してみるのはいかがでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "3be7d8bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "け、結婚！？　そ、それって俺とコハルが？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "3483de8f",
+      "speaker": "ブライダル",
+      "ja": "勿論です！　それ以外になにかありますでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "a4ed8eec",
+      "speaker": "コハル",
+      "ja": "じょ、冗談はやめてよ！　そもそもあたしと{G_PlayerName}はそんな仲じゃないし……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "5789be17",
+      "speaker": "ブライダル",
+      "ja": "それはどうでしょうね～？　……あっ！　良いことを思いつきました！　コハルさん、ついてきてください！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "c8229823",
+      "speaker": "",
+      "ja": "ブライダルがコハルの腕を掴み、近くの個室へと引っ張る。コハルは困惑したように軽く抵抗した。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "192b34e1",
+      "speaker": "コハル",
+      "ja": "ちょ、ちょって待ってブライダル！　何するのか先に教えてよ！　怖いってば！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "d80fbdc8",
+      "speaker": "ブライダル",
+      "ja": "それは来てみればすぐにわかりますから！　{G_PlayerName}さん！　少しお時間をいただけますか？",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "83457ac6",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？わ、わかったけど……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "1969ecc7",
+      "speaker": "コハル",
+      "ja": "ちょっとブライダル……！　なんでまたこの格好になるの！？　結婚はしないって……！",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "d28b8971",
+      "speaker": "ブライダル",
+      "ja": "まぁまぁいいじゃないですか。やっぱりとってもお似合いですよ、コハルさん！",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "b6c8db3f",
+      "speaker": "コハル",
+      "ja": "わかったから……それ以上押さないでよ！",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "81f8a705",
+      "speaker": "コハル",
+      "ja": "わぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "309712a1",
+      "speaker": "ブライダル",
+      "ja": "では、私は少し別の用事がございますので！　しばらく失礼いたしまーす！",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "fb33cc4e",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……どうしたんだよその格好",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "c2a552a3",
+      "speaker": "",
+      "ja": "部屋から出てきたコハルは、以前着せてもらったドレスを身にまとっていた。一度見た姿とは言え、美しい姿に{G_PlayerName}がドギマギとする。",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "78445307",
+      "speaker": "コハル",
+      "ja": "どうしたんだよって……ウエディングドレス着せられたのよ、見てわかるでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "1de0a5cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、そりゃ見ればわかるけど……あー……えっと……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "1254cffa",
+      "speaker": "コハル",
+      "ja": "強引に着せられたんだけどね……って、何よ変な動きして……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "5b8500d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……その……か、可愛いよ",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "aa2c6960",
+      "speaker": "コハル",
+      "ja": "え……？　そんなはっきり言わないでよ……！　急にどうしちゃったの！？",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "44cb2e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルに優しくされるような事しろって言われて気付いたんだけど、素直にコハルを褒めてないなと思って……",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "3446f2fd",
+      "speaker": "コハル",
+      "ja": "だからって、可愛いって……！　こ、このドレスのことよね！　そうよね？",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "4f287d99",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……ちょっと言葉がきついところもあるけど、いつも可愛いよ",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "55b73821",
+      "speaker": "コハル",
+      "ja": "……言葉がきつい、はちょっと余計だけど……えっと……ありがと",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "8104bfbc",
+      "speaker": "{G_PlayerName}",
+      "ja": "と、特にそのドレス姿は他の娘より可愛い！　コハルが１番可愛いって思ってるぞ！",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "988cc17e",
+      "speaker": "コハル",
+      "ja": "もっ……もうわかったってば！　勘弁して！",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "5b37e551",
+      "speaker": "",
+      "ja": "コハルの顔は真っ赤になっている。しばらく経った後、遠くの方で2人の様子を伺っていたブライダルが近づいてきた。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "5942249a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブ、ブライダルさん！？　いたんですか！？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "9521411a",
+      "speaker": "ブライダル",
+      "ja": "おやおや、お二人さんいい感じじゃないですか！　結婚する気はおきましたか？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "f734efe1",
+      "speaker": "ブライダル",
+      "ja": "会場でしたら我が宇宙ステーションが誇るとっておきの場所をご用意させていただきますよ！",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "ddce24cf",
+      "speaker": "",
+      "ja": "コハルと{G_PlayerName}はさっきの勢いを無くし、黙ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "62085dd4",
+      "speaker": "ブライダル",
+      "ja": "やれやれ、まだお二人の気持ちの整理にはもう少し時間が必要そうですね。その気が起きましたらいつでも私に相談してください！　それでは良いお時間を。ふふ。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "db3d5f34",
+      "speaker": "",
+      "ja": "ブライダルはにこやかな笑みを浮かべながらどこかへ行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "d54ddcba",
+      "speaker": "",
+      "ja": "2人はしばらく、目を合わせず言葉も交わさず立ち往生していたが、不思議と嫌な時間では無かったのだった。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,1183 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "3c4a7cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うう……！？！？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "67bd8039",
+      "speaker": "",
+      "ja": "部屋に戻ろうとしていた最中、突如として心臓がドクンと一際跳ね上がる。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "7b0f2a07",
+      "speaker": "",
+      "ja": "そして同時に全身が熱くなり、身体中から汗が噴き出す。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "5aa8ecd6",
+      "speaker": "",
+      "ja": "あの日以来、ルミナから命を貰った日から突如して俺を襲う症状。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "67a1f99c",
+      "speaker": "",
+      "ja": "俺の意思に関係なくそれは突発的に起こるが、あることをすれば収まるのでルミナ達には大げさに言わないようにしていた。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "7a04d5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ、はぁ……！　はぁ、はぁ……！",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "454417ba",
+      "speaker": "",
+      "ja": "しかし全身の血液が身体のある一点に集まるせいか、立ち眩みが起き、息苦しさに歩行すらままならなくなる。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "48654bd7",
+      "speaker": "",
+      "ja": "それでも意識ははっきりと残っているので、どうにか壁伝いに部屋に戻ろうと足を進めた。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "d144b870",
+      "speaker": "アポロ",
+      "ja": "……！？　ど、どうしたんですか！？",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "102d7d7",
+      "speaker": "",
+      "ja": "アポロは俺の存在に気付いたのか、慌てて駆け寄る。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "e1dcba9c",
+      "speaker": "",
+      "ja": "俺がフラフラしていたせいか、心配そうな表情を向けながら俺の顔を覗き込んでくる。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "34e75ed7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……大丈夫だよ……。ちょっと立ち眩みしただけ……休めば治るし心配しないでくれ",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "e47bd63c",
+      "speaker": "アポロ",
+      "ja": "そんなフラフラな状態……どうみても健常な状態とはかけ離れているでしょう！？　一体どうしたのですか？　ちゃんと言ってください……！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "38c5981",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロが心配する必要はないから……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "5fc2dfa6",
+      "speaker": "アポロ",
+      "ja": "そんな姿を見せられて心配するなと言う方が無理です……何かご病気でも……？　もしかして持病があったとか？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "6ae3d7e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや、持病というか……いつもの……ルナリングの効果だから……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "4c5950dd",
+      "speaker": "アポロ",
+      "ja": "る、ルナ……あっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "ee809dc6",
+      "speaker": "",
+      "ja": "俺の言葉にアポロの視線が下半身に向き、何かを見てしまったのか小さく声を上げる。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "568a9758",
+      "speaker": "",
+      "ja": "アポロが何を見たのかはっきりとわかる……それが余計に恥ずかしさを生み、俺の全身がさらに熱くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "2d46f7ee",
+      "speaker": "アポロ",
+      "ja": "（これは……こ、こんなに大きく……ズボンの上からでもはっきりとわかる……。ルナリングの性的欲求の増幅は資料にありましたが、これほどとは……）",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "1441b8fb",
+      "speaker": "アポロ",
+      "ja": "（こんなにも辛そうだったなんて……。有機物の身体を手に入れて初めて理解できた……）",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "4caeb8f4",
+      "speaker": "アポロ",
+      "ja": "（この人はいつもこんな性的衝動と戦って……マスター達を襲うことなくひっそりと自分で処理を……）",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "312628cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ……？　どうしたんだ？　そのさ、もう行ってもいいか……？",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "82cf0536",
+      "speaker": "アポロ",
+      "ja": "し、仕方、ありませんね……！　一人で処置するのに限度があるでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "fda08054",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょ、処置……！？　ま、まぁ、その……限度があるかどうかは知らんけど……特に問題は無いと思うが……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "cbc781fd",
+      "speaker": "アポロ",
+      "ja": "いいえ、一人では限度があります。有機体とはそういうものだと今のワタシなら理解可能です",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "a800cdea",
+      "speaker": "アポロ",
+      "ja": "こちらに来てください",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "8965a708",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、アポロっ！？",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "27526acb",
+      "speaker": "",
+      "ja": "アポロは俺の手を掴むと、近くの部屋のドアを開ける。",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "4b9db48f",
+      "speaker": "",
+      "ja": "その表情はすでに真っ赤で今からアポロが何をしようとしているのか、その表情だけで理解できてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "67953dd",
+      "speaker": "アポロ",
+      "ja": "一つだけ言っておきますけど、これは応急処置ですから……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "9f2fc281",
+      "speaker": "",
+      "ja": "アポロはそう言うと、恥ずかしがりながらも一切迷うことなく全裸になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "8642716e",
+      "speaker": "",
+      "ja": "小さくてもしっかりとした女の子の身体、それを性欲が限界まで高まった状態で見せられ、俺の心臓はさらに大きくドクンと鼓動を鳴らす。",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "7f30ebff",
+      "speaker": "",
+      "ja": "傷一つない、まさに新品とも言える綺麗な身体。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "11ce7b6",
+      "speaker": "",
+      "ja": "俺は完全にアポロのまっさらな身体に魅了されてしまい、目が離せなくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "4bd1d892",
+      "speaker": "アポロ",
+      "ja": "その……あとはご自由に……と言いたいのですけど、その……い、痛くはしないでください……",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "24045f04",
+      "speaker": "アポロ",
+      "ja": "疑似的とはいえ、高性能なワタシの義体には痛覚も存在しているのですから……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "7d34bb68",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……それなら、ちゃんと解さないと、な……",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "8dbbac69",
+      "speaker": "アポロ",
+      "ja": "は、はい……そうしていただけますと……何分初めてですので……自分でもどの程度耐えられるのか不明ですので……",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "7003def7",
+      "speaker": "アポロ",
+      "ja": "さ、さぁ、どうぞ……",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "5b383f28",
+      "speaker": "",
+      "ja": "アポロはそう言うと恥ずかしがりながら片足を自分で持ち上げる。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "b1983ec2",
+      "speaker": "",
+      "ja": "眼前に現れるアポロの割れ目。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "23bcd85a",
+      "speaker": "",
+      "ja": "俺は思わずじっと見つめてしまい、アポロは伏し目がちに恥ずかしがる。",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "66b8bbf8",
+      "speaker": "",
+      "ja": "それでも足を持ち上げたままで、俺に見られる恥ずかしさからアポロの身体がしっとりと汗で包まれていく。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "d287c6f9",
+      "speaker": "アポロ",
+      "ja": "あ、あの、再三言いますけど、絶対に痛くしないでくださいね？　文字通り精密機械を扱うように慎重にお願いします……",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "93d402fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……わかってる……絶対に乱暴なことはしないから……",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "2c0f8d19",
+      "speaker": "",
+      "ja": "俺はそっとアポロの頭を撫でると、不安な表情が幾分か和らぐ。",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "915e862e",
+      "speaker": "",
+      "ja": "それでも初めての行為に緊張と不安を完全には隠せずにいた。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "1d046184",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ、それじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "1169f4c2",
+      "speaker": "アポロ",
+      "ja": "は、はい、どうぞ……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "895e2ff1",
+      "speaker": "アポロ",
+      "ja": "ふぅっ！？♥　うあ、指が……う、んぅぅぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "1276c9e1",
+      "speaker": "",
+      "ja": "割れ目をこじ開けるようにそっと指を差し込むと、指先が熱く湿った感触に包まれる。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "4ec48f6d",
+      "speaker": "",
+      "ja": "アポロは不安げな声を上げ、自身の身体の中に入る指をじっと見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "4dc8c9cb",
+      "speaker": "",
+      "ja": "自身の身体に何かが入るのがよほど不安なのか、その表情が僅かばかり曇っていた。",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "6b3d0fbf",
+      "speaker": "アポロ",
+      "ja": "これが……んぅっ……！♥　性的な、行為……はぁ、はぁ♥　うう、なんとも奇妙で……♥",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "ecf15088",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ、痛くないか？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "b68717c1",
+      "speaker": "アポロ",
+      "ja": "だ、大丈夫、です……ふぅ、ふぅ……♥　どうやらこの身体は男の人のを受け入れるようにできているようで……だからこのくらいなら想定内、かと……♥",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "29e03b98",
+      "speaker": "{G_PlayerName}",
+      "ja": "それならもう少し奥に……",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "22375783",
+      "speaker": "アポロ",
+      "ja": "んんんっ！♥　ふあ、ふあ、お腹の中っ、ぐりぐりぃ、ひ、拡がってぇ……あうっ、何こ、これぇ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "317adbf5",
+      "speaker": "",
+      "ja": "指先をさらに奥に押し込むと、アポロの身体がピクピクと震え、口から甘い声が聞こえ始める。",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "8d4ff7a2",
+      "speaker": "",
+      "ja": "初めての快感に戸惑っているのか、瞳に薄っすらと涙を浮かべ、頬を紅く染めながらびっくりしている。",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "be410d44",
+      "speaker": "",
+      "ja": "なんだか自分の中でいけないことをしているような感覚に陥り、ヘンにドキドキしながらアポロの小さなあそこを指で掻き回していく。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "a05de513",
+      "speaker": "アポロ",
+      "ja": "（これが性的快感……ワタシの想像を遥かに超えている……♥　ビリビリしたのが全身に流れて……ああ、ダメ、この快感、処理しきれない……♥）",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "d7613664",
+      "speaker": "アポロ",
+      "ja": "（情報量があまりにも多すぎる……♥　有機体はこんな快感の情報を処理しながら男女の営みを行っていたなんて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "8f4e1ea3",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ、大丈夫か？　辛いならもう……",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "1b296747",
+      "speaker": "アポロ",
+      "ja": "や、止める必要はありません……♥　今はあなたの性的興奮を抑えるのが先決ですから……♥",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "5e3525db",
+      "speaker": "アポロ",
+      "ja": "ですので、このまま……ワタシに構うことなく続けてっ……ください……♥　快感の情報の処理を随時行っていますし、いずれすべて処理できると思いますからぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "9efcfd92",
+      "speaker": "",
+      "ja": "アポロの言葉とは裏腹に指を動かすたびに、表情がどんどん蕩けていく。",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "8b600e1d",
+      "speaker": "",
+      "ja": "普段から真面目で性的なモノとは無縁だったアポロが見せるそんな表情。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "4ea6885a",
+      "speaker": "",
+      "ja": "それが俺のルナリングと反応しているのか、さらにその表情を快感で歪めたい、そんなドス黒いまでの感情が芽生えてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "52227941",
+      "speaker": "",
+      "ja": "アポロの善意を無下にしている……それを頭の片隅で理解していても俺は指を止めることができなかった。",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "22e9cf16",
+      "speaker": "アポロ",
+      "ja": "あふぅっ……！♥　そ、そんなはげしく……あ、ああ、ダメ……また新たな快感の情報が……ううう……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "c8043d60",
+      "speaker": "アポロ",
+      "ja": "情報がどんどん流れ込んでくるぅ……！♥　はぁ、ああ、んぅぅうっ！♥　ダメっ、そこは……あううううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "480f9820",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ココが弱いのか……？　それならもっと……）",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "40cafa74",
+      "speaker": "",
+      "ja": "アポロの弱点を見つけ、指先で弄ると困惑した視線を俺に向ける。",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "14ff1285",
+      "speaker": "",
+      "ja": "それでも俺の性的興奮の解消のために逃げもせずに快感を受け止め、そんな健気なアポロにどんどん心が惹かれていく。",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "557ee1b9",
+      "speaker": "アポロ",
+      "ja": "あっ、あっ！♥　ま、待って、くださいっ……！♥　何か、膨大な情報が近づいてぇ……！♥　ああ、これダメ、こんな膨大な情報、処理しきれないっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "4fdd0588",
+      "speaker": "アポロ",
+      "ja": "あああっ！♥　ダメ、待って……待ってぇ……！！♥　んんんっ！♥　ああ、ク、クるっ……！♥　どんどん迫ってクるぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "aee8d093",
+      "speaker": "アポロ",
+      "ja": "ダメっ、ダメっ！♥　ダメぇ～～～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "266650a0",
+      "speaker": "アポロ",
+      "ja": "んんんんっ！？♥　うぐぅっ、と、飛んじゃう……！！♥　んんぅぅ……ん、は、はぁぁぁ～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "be1ec3b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うあ……！　指が締め付けられて……アポロも普通の女の子のようにイっちゃうのか！？）",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "9756168a",
+      "speaker": "",
+      "ja": "思いもしなかったアポロの絶頂に驚きを隠せない。",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "7d4a20d5",
+      "speaker": "",
+      "ja": "あくまでも身体のみが人に似ているだけ、そう思っていたが、膣から感じる刺激、そして潮を噴く様子は他の女の子と何一つ変わらない。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "b2d5f049",
+      "speaker": "",
+      "ja": "それが俺を余計に興奮させ、アポロに対する認識が俺の中で完全に”女の子”になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "920e4d61",
+      "speaker": "アポロ",
+      "ja": "ううう、快感の情報がっ、洪水のようにぃ……あうっ！♥　処理しきれない……♥　処理落ち、しちゃうぅ……！♥　はあううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "ab31925c",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺が言える立場でもないけど、その、大丈夫、か……？",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "f2ff57",
+      "speaker": "アポロ",
+      "ja": "だ、大丈夫、です……はぁ、はぁ……♥　性的快感が……絶頂がこれほどまですごいとは……♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "2b08d8c0",
+      "speaker": "アポロ",
+      "ja": "快感の情報で溺れちゃう……♥　気持ち良いの、もっと欲しいって……身体が命令してくるぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "29404c46",
+      "speaker": "{G_PlayerName}",
+      "ja": "それならもっと感じさせてあげるから……",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "8a8c621a",
+      "speaker": "アポロ",
+      "ja": "へ……？♥　あ、待って……ダメ……やめ……あ、あっ、んぅ、んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "26f5d6d1",
+      "speaker": "アポロ",
+      "ja": "あひぃぃっ！♥　あそこっ、拡がるぅ……！♥　ぐう、んぅぅぅ！♥　ふあ、あ、はぁぁぁぁ～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "d85d8cd0",
+      "speaker": "",
+      "ja": "俺はさらに指をあそこに押し込み、狭い膣を乱暴気味にこじ開ける。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "b89a5342",
+      "speaker": "",
+      "ja": "幸いなことにアポロに痛みは無いようで、俺はそれをいいことに二本の指でぐちゅぐちゅとあそこを掻き回していく。",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "678b342a",
+      "speaker": "アポロ",
+      "ja": "んあ、快感が……すごすぎてぇ……！♥　んひぃ、理解、ふのぉっ！♥　こんなの知らないぃ、こんな気持ち良いこと、しらにゃいぃぃ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "fc25f803",
+      "speaker": "",
+      "ja": "快感がアポロの頬をさらに紅く染め、全身から汗が噴き出す。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "8d205cd2",
+      "speaker": "",
+      "ja": "ヨダレを垂らしながらうつろな瞳で俺を見つめながら、甘い悲鳴を何度も口から漏らす。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "4995645d",
+      "speaker": "",
+      "ja": "アポロの可愛さも相まって、俺はどんどん夢中になり、少しでもアポロを感じさせようと音を立てながらあそこを攻め立てる。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "25b09253",
+      "speaker": "アポロ",
+      "ja": "これ、ダメ……んっ！♥　快感情報を処理しようとすると……フリーズしちゃう……んんっ！♥　もう何も、処理できないぃ～っ！♥",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "2538da36",
+      "speaker": "アポロ",
+      "ja": "……うううう！♥　あらゆる情報を処理するのが、ワタシの、役目、なのにぃ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "908ef21d",
+      "speaker": "{G_PlayerName}",
+      "ja": "何も考えなくていいから……考えるとしたら、気持ち良くなりたいって、それだけ考えてろよ",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "4d2791a8",
+      "speaker": "アポロ",
+      "ja": "気持ち、良く……んっ！♥　そ、それが有機体の……やり方、なのですか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "9209f357",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロと人間の考え方の違いなんてわからない。でも余計なことは考えて欲しくない。今は俺だけを見て欲しいって、そう思ってる",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "7683291c",
+      "speaker": "アポロ",
+      "ja": "あなた、だけ、を……んんっ！！♥　わ、わかりました……今は、何も情報の処理は行いません……んんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "9a2fd191",
+      "speaker": "アポロ",
+      "ja": "あなただけを見て……気持ち良くなることだけを……あううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "e8da12df",
+      "speaker": "{G_PlayerName}",
+      "ja": "うあっ！？　指が……！",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "8accd85b",
+      "speaker": "",
+      "ja": "アポロの思考の変化が身体にも表れたのか、膣がうねるように指先を締め付ける。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "1cfe3b39",
+      "speaker": "",
+      "ja": "指だけでも相当に気持ち良い……もしこれが俺のちんぽを締め付けたら……そう考えるだけで異様に興奮が高まる。",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "440d18a7",
+      "speaker": "アポロ",
+      "ja": "うううう……！♥　あそこの、奥、痺れて……ああ、はぁ、んんぅ！♥　これ、さっきよりすごいのぉ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "298a6cf1",
+      "speaker": "アポロ",
+      "ja": "これが有機体の快感……異性を求める快感……♥　なんてすごいの……♥　快感が何度も押し寄せる……♥　全身が、気持ち良くなってくるぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "b5ebe858",
+      "speaker": "{G_PlayerName}",
+      "ja": "全身……？　ならここもほかの女の子のように……？",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "411643a9",
+      "speaker": "アポロ",
+      "ja": "あひぃっ！？♥　あああ、ど、どこ触ってぇ……！！♥　あああぁ、乳首、ダメぇ！♥　快感が余計にぃっ！♥　ふあ、ふああぁっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "1fa98106",
+      "speaker": "",
+      "ja": "俺はそっとアポロの胸に指を伸ばし、勃起していた乳首に触れる。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "7903deb6",
+      "speaker": "",
+      "ja": "それだけでアポロはより甲高い声で甘い悲鳴を上げ、全身をブルブルと震わせる。",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "afdee8eb",
+      "speaker": "",
+      "ja": "膣奥からはねっとりした愛液が溢れ、指の隙間から溢れた真っ白な愛液がアポロの脚までぬるぬるに汚していく。",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "161de2b7",
+      "speaker": "アポロ",
+      "ja": "ああぁ、ダメっ！♥　また快感の洪水が……！！♥　大量の情報が近づいてくるぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "ffd7e62e",
+      "speaker": "アポロ",
+      "ja": "また情報に溺れちゃう……！！♥　おまんこ、イっちゃうっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "87dc0ab9",
+      "speaker": "{G_PlayerName}",
+      "ja": "イってくれ……！　またアポロのエッチでカワイイところ見せて……！！",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "2cc416b4",
+      "speaker": "アポロ",
+      "ja": "あひぃっ！♥　あああ、そんなにおまんこぐちゅぐちゅしないでぇっ！♥　ああ、イっちゃう、イっちゃう！！♥",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "5b8c70f3",
+      "speaker": "アポロ",
+      "ja": "イクっ、イク……！♥　イっ、グぅ……！！♥　んんんん～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "7311e047",
+      "speaker": "アポロ",
+      "ja": "あうううっ！♥　ふぅ！♥　んぅ、んは、はぁぁぁぁぁあんっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "378.0",
+      "line_index": 378,
+      "inline_index": 0,
+      "line_hash": "67ce5dd2",
+      "speaker": "",
+      "ja": "アポロの身体が一瞬硬直し、その直後ビクンと何度も全身を跳ねらせる。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "5adf878c",
+      "speaker": "",
+      "ja": "俺は思わずその身体をぎゅっと抱きしめ、アポロは甘い悲鳴を上げながら俺の手の中で痙攣を繰り返す。",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "30163948",
+      "speaker": "",
+      "ja": "大量の潮がびゅるっと尿道から噴き出し、いやらしいすぎるアポロの姿に俺は完全に釘付けになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "37f5514e",
+      "speaker": "アポロ",
+      "ja": "しゅ、ごい……！♥　快感の洪水が……あふぅっ♥　あそこ、蕩けてしまいそう……♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "369c8549",
+      "speaker": "アポロ",
+      "ja": "こんな快感、何度も味わったら……おかしくなる……♥　有機体、すごすぎるぅ……♥　もう何も考えられないぃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "d76b5e1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アポロは自分の身体を義体と言ってたけど、普通の女の子と何一つ変わらないじゃないか……これならもっと先を求めても──）",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "7d0c1c89",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ、もっと……今度はアポロと一緒に俺も──",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "bc546590",
+      "speaker": "アポロ",
+      "ja": "へ……？♥　あ、ダメっ……待って……！♥　まだ身体の機能が回復していないからぁ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "400.0",
+      "line_index": 400,
+      "inline_index": 0,
+      "line_hash": "4727e804",
+      "speaker": "",
+      "ja": "俺はアポロの身体をぎゅっと手の中で握りしめる。",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "952ff1e8",
+      "speaker": "",
+      "ja": "女の子であるなら男としてアポロが欲しい。",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "31f629e0",
+      "speaker": "",
+      "ja": "アポロと一つに──。",
+      "zh": ""
+    }
+  ]
+}

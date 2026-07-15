@@ -1,0 +1,274 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "b78a65a7",
+      "speaker": "",
+      "ja": "着飾ってパーティー会場に来たパセリは辺りをキョロキョロと見回していた。",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "5ed896c8",
+      "speaker": "",
+      "ja": "そんなパセリに{G_PlayerName}は不信感を抱き声をかけてみる。",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "20ee993b",
+      "speaker": "{G_PlayerName}",
+      "ja": "パセリ……なにしているんだ？",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "1526b72c",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}の問いかけにパセリはどこか嬉しそうな感じで答えた。",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "4dfb3802",
+      "speaker": "パセリ",
+      "ja": "見てわからないのですか？　この会場にある調度品や来賓の方の服装……白夜と砂の星で売れそうな品物がないか確認していたのですわ",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "40427d1",
+      "speaker": "",
+      "ja": "商売っ気丸出しのパセリの答えに{G_PlayerName}は少し呆れ顔を浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "9f490290",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなパーティーの場でまでそんなことを考えなくても……",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "e1334eb1",
+      "speaker": "パセリ",
+      "ja": "まっ！　失礼ですわね！　商人として当たり前のことです！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "7c88fa4f",
+      "speaker": "パセリ",
+      "ja": "こういった地道な努力こそが、わたくしめ達が住む国のためにもなるのでございますっ！",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a3628d4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "ad22ac1d",
+      "speaker": "",
+      "ja": "少しムッとしているパセリに{G_PlayerName}は頭を下げると、気になったことを聞いてみた。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "5dc50cfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……どんなところを注視しているんだい？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "73b16ac6",
+      "speaker": "パセリ",
+      "ja": "そうですわね……まずは技術の高さを観察してますわ……その技術を活かした売れる商品はないかと考えておりますの",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "a37003da",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "62aac2f9",
+      "speaker": "パセリ",
+      "ja": "ですが……この星の技術はあらゆる物が高すぎて……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "9ff31d46",
+      "speaker": "パセリ",
+      "ja": "困ってしまいますわ！　ああ、まるでここは金が湧くオアシスですわっ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "2f734c31",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは……あんまりそういうことは大声で言わないように……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "6bd8df26",
+      "speaker": "パセリ",
+      "ja": "でも、あなたも他人事ではありませんのよ",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "8c9836f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　他人事じゃないって……どういう事？",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "8505cd44",
+      "speaker": "",
+      "ja": "まさか商売を手伝えとか言われるんじゃないかと身構える{G_PlayerName}だが、パセリは諭すような感じで語り出す。",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "bd7f3e38",
+      "speaker": "パセリ",
+      "ja": "ここの機械の技術を見て自分に活かせる物はないか……常に探すべきではありませんこと？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "56434de3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……そうかも知れんが……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "ff2cdbd1",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にパセリはこんこんと語り続けた。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "d967e4de",
+      "speaker": "パセリ",
+      "ja": "一見関係ないと思われる物でも、それが作られるまでに使われている機械や技術……そういうものがあるに違いありませんわ",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "a1443f17",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……う～ん、今までそういう着眼点はなかったなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "7eefea6b",
+      "speaker": "",
+      "ja": "感心する{G_PlayerName}だったが、今まで諭すようだったパセリの口調が突然変わる。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "43742ad",
+      "speaker": "パセリ",
+      "ja": "そして！　お客さまの機械技術が上がれば、わたくしめがそれを買い取って、こちらの星で売りさばいてみせますわ～！",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "7857a104",
+      "speaker": "",
+      "ja": "さっきまでとは打って変わって商売っ気を前面に出すパセリを見て{G_PlayerName}は思わず溜め息を吐いてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "24d172b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり俺のためじゃなくて自分の商売のためだったか……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "d9cbb0b4",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}はガックリと肩を落としてしまった。",
+      "zh": ""
+    }
+  ]
+}

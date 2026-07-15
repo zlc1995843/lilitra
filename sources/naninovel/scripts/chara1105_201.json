@@ -1,0 +1,1237 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "c3547bcc",
+      "speaker": "ブルーム",
+      "ja": "クソ人間～、コーヒーお代わり～！　苦いのイヤだから砂糖とミルクたっぷり入れてよねっ！",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a32c898c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……わかった",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "6e2a4ac3",
+      "speaker": "",
+      "ja": "花嫁衣装に身を包み、{G_PlayerName}の部屋に押し掛けてきたブルーム。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "f14efc17",
+      "speaker": "",
+      "ja": "{G_PlayerName}も特に予定が無かったので特に何をするわけでもなく、二人っきりで過ごしていた。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "551bde15",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかし何でわざわざウェディングドレスを着て押し掛けてきたんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "3d51c312",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まぁ目の保養にはなるからいいんだけど、でも目のやり場に困るのも事実なわけで……）",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "e78e01e3",
+      "speaker": "",
+      "ja": "さてどうしたものか、と{G_PlayerName}は少し悩んでしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "1ed15300",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、コーヒーのお代わりだぞ。砂糖もミルクもたっぷりだから苦くないはずだ",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "abe84024",
+      "speaker": "ブルーム",
+      "ja": "本当でしょうね？　さっきのはすんごい苦かったし、今度も苦かったら許さないんだから",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "b025c837",
+      "speaker": "{G_PlayerName}",
+      "ja": "砂糖10個も入れて苦いとか……それならコーヒーなんて飲まずにほかの飲めばいいのに",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "151d6fd2",
+      "speaker": "ブルーム",
+      "ja": "うるさいばーか！　ブルームのような大人の女はコーヒーしか飲まないんだからっ",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "f87df472",
+      "speaker": "{G_PlayerName}",
+      "ja": "大人、ねぇ……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "823d9648",
+      "speaker": "",
+      "ja": "ただでさえ幼く見えてしまうリリアン、特にブルームは性格的な面からも可愛いが優先されてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "f2df9925",
+      "speaker": "",
+      "ja": "悪魔であることも忘れてしまいそうになる、俺にとってブルームはそんな存在であった。",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "c8dc7c16",
+      "speaker": "ブルーム",
+      "ja": "ぷっぷ～♥　クソ人間、さっきからブルームのこと見すぎ……♥",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "d936301",
+      "speaker": "ブルーム",
+      "ja": "そんなにこの恰好に魅了されてしまったの？♥　クソ人間チョロすぎ～♥　ぎゃははははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "f81cdddf",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ……率直に言うなら魅了されてしまっているかもな……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "ab01ee96",
+      "speaker": "ブルーム",
+      "ja": "……は？",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "a656c807",
+      "speaker": "{G_PlayerName}",
+      "ja": "ウェディングドレスすげー似合ってるし、そんな派手な服、可愛く着こなせる奴はそうそういないだろうしさ",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "652e13e2",
+      "speaker": "ブルーム",
+      "ja": "なっ、ななななっ！？　な、なに言ってんだよ、クソ人間！",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "43057a95",
+      "speaker": "ブルーム",
+      "ja": "ブルームは悪魔なんだから！　べ、べべ、別に褒められたって、その……！！　うれしくもなんとも……！！",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "6d9bd174",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、人が素直に褒めれば反抗して……カワイイと思っちゃ悪いのか？　本心から言ってんだぞ？　お前も少しくらい素直に人の言葉受け取れよ",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "a7eabb0b",
+      "speaker": "ブルーム",
+      "ja": "──っ！！！　こ、このクソ人間！　カワイイとか悪魔に言うな！　言うの禁止！！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "db723043",
+      "speaker": "",
+      "ja": "俺の言葉にブルームの顔がみるみると赤く染まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "97e9cbb0",
+      "speaker": "",
+      "ja": "一目で照れていることがわかり、そんなブルームをさらにカワイイと思えてきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "5a884716",
+      "speaker": "ブルーム",
+      "ja": "何ニヤニヤしてんのよ、クソ人間！！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "fd027fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、照れるブルームって普段の１０倍はカワイイなって思ってさ",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "6bb71f5d",
+      "speaker": "ブルーム",
+      "ja": "うううううーーーーっ！！　だからカワイイ言うな！！　禁止って言ったでしょ！！",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "37440677",
+      "speaker": "ブルーム",
+      "ja": "お前のようなクソ人間なんて、こうしてやるっ！！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "110a58cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわぁっ！？　お、おい、何ズボン脱がそうとしてんだよっ！　やめろって！！",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "d64493ea",
+      "speaker": "ブルーム",
+      "ja": "うるさいうるさいうるさいっ！　えいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "cd44b70c",
+      "speaker": "",
+      "ja": "ブルームが力任せにベルトを外すと、ズボンを一気にずり降ろす。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "428bfac4",
+      "speaker": "",
+      "ja": "思わぬ形でブルームに肉棒を見られてしまい、あまりの恥ずかしさに顔から火が出そうになるほど熱くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "1c10f2c2",
+      "speaker": "ブルーム",
+      "ja": "何勃起してんのよ、このヘンタイクソ人間っ！　お前のようなヘンタイにはこうだっ！",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "9a86d0fc",
+      "speaker": "ブルーム",
+      "ja": "──あむぅっ！♥　ぢゅるっ♥　ちゅちゅ……ぢゅるるる、ちゅううぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "65ddd32b",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うう゛！　お、お前、いきなり……あうっ！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "952af16f",
+      "speaker": "",
+      "ja": "ブルームは一切のためらいもなく肉棒を口に含むと、亀頭を扱くように顔を前後に動かす。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "5f652301",
+      "speaker": "",
+      "ja": "予想だにしなかった行動に戸惑いながらも、ブルームが俺のを咥えている、その現実が俺から抵抗感を奪ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "701f491f",
+      "speaker": "",
+      "ja": "俺がおとなしくなってしまったことをいいことに、ブルームはさらに舌を亀頭に纏わりつかせる。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "f274d008",
+      "speaker": "",
+      "ja": "小さな、そして穢れの無い舌が男のモノを舐め回す……それが俺を異様なまでに高ぶらせていく。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "ac4a2383",
+      "speaker": "ブルーム",
+      "ja": "ぢゅるっ、ちゅぼっ♥　ふふ、気持ちよさそうな顔して……♥　クソ人間のココ弱いんだ♥",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "924cb8c7",
+      "speaker": "ブルーム",
+      "ja": "もっとお仕置きしてやる……♥　ぢゅる、れるぅ、ちゅ♥　ちゅぅ、ぢゅるるるっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "e9a21b47",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、う……ああ、そこ、ヤバイ……うあ、ああ……！",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "fcc92af8",
+      "speaker": "ブルーム",
+      "ja": "（先っぽからなんか出てきてる……♥　でも嫌な気持ちに全然ならない……♥）",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "63edd835",
+      "speaker": "ブルーム",
+      "ja": "（コイツのなら何でも欲しいって……思っちゃってる……♥　人間なんかにそんな感情を抱くなんて初めて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "ec62bb52",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルーム、待って……！　そこばっかりしないでくれぇ……！　うう、うう゛！",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "a1da873",
+      "speaker": "ブルーム",
+      "ja": "くふふふっ♥　情けない声上げちゃって♥　裏側の筋みたいなとこ気持ち良いんだ？♥　こんなところで感じるなんてヘンタイじゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "6cbb35f4",
+      "speaker": "ブルーム",
+      "ja": "もっともっとしてやる……♥　だっさい悲鳴上げさせてやるっ♥　れるれるぅっ♥　ぢゅる、ちゅぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "5295049b",
+      "speaker": "",
+      "ja": "ブルームは顔の動きをさらに速めながら、舌を大きく伸ばし裏筋を舐める。",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "6dd3ccef",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ！　お前の舌、何かついていたよな？　そ、それが当たって……あうううっ！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "2a1dad75",
+      "speaker": "ブルーム",
+      "ja": "ふーん、舌ピアスでコロコロされるのいいんだ？♥　くふふ、それならもっとしてやるっ♥　れろぉっ！♥　れるれるぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "d9d58e9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　あっ……ぐ、う、うあ、くううっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "9a82cde4",
+      "speaker": "",
+      "ja": "ブルームの舌ピアスが裏筋を擦り、それが最上の気持ち良さをもたらす。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "8f761a89",
+      "speaker": "",
+      "ja": "俺の反応に気を良くしたのか、ブルームは得意になって肉棒を吸い上げ、小さな舌を懸命に裏筋に押し当てる。",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "800d4dd4",
+      "speaker": "",
+      "ja": "溢れる先走りを嫌な顔一つせず飲み込む姿に、愛しさすら感じ始めていた。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "44147e27",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……！　も、もうダメ……ブルーム、すまん、これ以上我慢が……！！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "a8ef7c70",
+      "speaker": "ブルーム",
+      "ja": "なぁに？♥　もうイっちゃいそうなの？♥　だっさ～いっ♥",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "a00908d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルームのフェラ気持ち良すぎるんだよ……！　ああっ、もう限界！　こ、このまま……俺の飲んでくれっ！！",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "4f2f9cd9",
+      "speaker": "ブルーム",
+      "ja": "──んぐぅっ！？♥　んんんんっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "17a5ec49",
+      "speaker": "",
+      "ja": "俺はオスの本能のままに肉棒をブルームの口の奥に押し込める。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "3faeefd7",
+      "speaker": "",
+      "ja": "突然の俺の行動にブルームは目を見開き驚くが、それでも口から肉棒を抜くことなく受け止める。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "9b48ae2f",
+      "speaker": "",
+      "ja": "健気ともとれるブルームの仕草に、俺の興奮が最高潮に達する。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "42c526d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううう、出るっ！　う、うううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "89b0def5",
+      "speaker": "ブルーム",
+      "ja": "ふぐっ！？♥　うう、んぅぅぅ……♥　んぐっ、んぐっ♥　んふぅ、ふぅぅぅ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "91868e91",
+      "speaker": "",
+      "ja": "俺は興奮に完全に身を任せ、ブルームの小さな口の中にオスの欲望を吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "5b64533a",
+      "speaker": "",
+      "ja": "ブルームは口内射精に驚きながらも、吐き出された真っ白なオス汁を喉を鳴らしながら飲み込む。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "6bcc10af",
+      "speaker": "",
+      "ja": "ブルームのそんな姿に俺はさらに興奮してしまい、何度も彼女の小さな口の中にびゅるびゅると精液を吐き出していく。",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "2348387f",
+      "speaker": "ブルーム",
+      "ja": "んぅぅぅ……♥　んぐっ……ごくっ♥　ん、んぅ……ごく……んぐぅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "5f93f1eb",
+      "speaker": "ブルーム",
+      "ja": "こんなにたくさん……出しすぎぃ……♥　本当にクソ人間の分際でナマイキ……♥",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "d3ac1f6f",
+      "speaker": "",
+      "ja": "ブルームは憎まれ口を叩きながらも、嫌な顔をせずに精液を飲み込み続ける。",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "7263d11d",
+      "speaker": "",
+      "ja": "やがて射精も収まり始めるが、それでもブルームの口淫は止まらず、丁寧に肉棒を掃除するように口の中で亀頭に舌を這わせる。",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "53b667b9",
+      "speaker": "",
+      "ja": "ブルームの舌ピアスが射精直後の過敏な亀頭を舐め回し、ゾクゾクした快感が何度も背筋を駆け上がっていく。",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "46d85912",
+      "speaker": "{G_PlayerName}",
+      "ja": "（悪魔とは言え、あどけない雰囲気の女の子が舌ピアスをする……なんだかすげーエッチだ……）",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "a69cf1b",
+      "speaker": "",
+      "ja": "そう思うだけで俺の中でさらにムラムラが強くなる。",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "55afff1a",
+      "speaker": "",
+      "ja": "大量に射精をした後だというのに、いやらしくもカワイイブルームの存在が俺の肉棒を休ませたりさせてくれなかった。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "7a550514",
+      "speaker": "ブルーム",
+      "ja": "ぷはぁ～っ！♥　ほら♥　クソ人間のザーメン、ぜーんぶ飲んであげたんだから♥　えへへへへ……♥",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "da3a43ec",
+      "speaker": "",
+      "ja": "ブルームは小さな舌を伸ばし、口の中に何もないことをアピールするように見せつける。",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "6e38da33",
+      "speaker": "",
+      "ja": "そんな何気ない従順な仕草にも俺は興奮してしまい、ブルームでもっと気持ち良くなりたい、そんなオスの欲望がさらに強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "bccf76fc",
+      "speaker": "",
+      "ja": "僅かに萎えていた肉棒に血が集まり始め、ブルームの目の前で再び肉棒が活力を取り戻し始めた。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "c0761b12",
+      "speaker": "ブルーム",
+      "ja": "え……？♥　ちょっと、クソ人間？　な、なんだかおちんちんが……",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "b3952ae9",
+      "speaker": "",
+      "ja": "ムクムクと起き上がっていく肉棒にさすがに驚きを隠せないブルーム。目を見開きながら、再び大きくなっていく肉竿をじっと見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "550cad92",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルームが可愛すぎるから収まりがつかなくなってしまった……こんなカワイイ子が相手なら何度だって……",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "3f4d505c",
+      "speaker": "ブルーム",
+      "ja": "だっ、だからカワイイとか言うな～っ！♥　もう！　まだお仕置きが足りないみたいね！♥　それならもっとしてやるんだからっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "234ddb8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、あとは俺が……ブルームは見ているだけでいいから",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "f6eef1a3",
+      "speaker": "ブルーム",
+      "ja": "へ……？♥　あ、ちょっと！？♥",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "22ef59a6",
+      "speaker": "ブルーム",
+      "ja": "う、あ……！♥　ちょ、ちょっと、なに自分でシコシコしているのよっ？♥",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "b9d4413b",
+      "speaker": "{G_PlayerName}",
+      "ja": "可愛いブルームを見ながら射精したいんだ、少しの間じっとしていてくれ",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "37956d0d",
+      "speaker": "ブルーム",
+      "ja": "な、なにそれ……♥　もしかしてこのまま……その、顔に掛けたい、とか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "16fd196",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、そ、そうかも……っ、ブルームがすごくエロくて……",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "4b2360e2",
+      "speaker": "ブルーム",
+      "ja": "何よそれ……♥　人間の分際で悪魔を汚すなんて、そんなこと許されるはずないでしょ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "967db190",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……俺今すごい罰当たりなことをしているかもしれない……でもそれでも収まらないんだ",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "67b52b99",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルームは俺のモノだってマーキングしたいんだ、こんなスケベでアホな俺を許してくれっ",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "ba95f510",
+      "speaker": "ブルーム",
+      "ja": "あ、あんたの、モノ……な、なに言ってんのよ、クソ人間っ！♥",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "ebe95b92",
+      "speaker": "ブルーム",
+      "ja": "（ああ……今コイツすごい目してる……なんだか男らしくて……胸がドキドキしてきちゃう……♥）",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "148c63ce",
+      "speaker": "ブルーム",
+      "ja": "（おちんちんの匂い、すごい……男らしい匂いにクラクラしてきちゃう……♥　うう、あそこ、きゅんってしてきちゃってるぅ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "1e44e822",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ！　ブルーム……ブルーム……く、ううう……！",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "3472e226",
+      "speaker": "",
+      "ja": "俺は興奮に身を任せ、ブルームのあどけない、カワイイ表情を見ながら一心不乱に肉棒を扱く。",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "a077a234",
+      "speaker": "",
+      "ja": "ブルームは恥ずかしいのか、頬をさらに紅く染めながらも肉棒から目を離さず、俺の秘め事をじっと見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "3ee01a88",
+      "speaker": "",
+      "ja": "それが俺にさらに興奮をもたらし、溢れるカウパーで手を汚しながらぐちゅぐちゅと肉棒を扱いていった。",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "c84a6401",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルーム、舌見せてくれっ。いやらしい舌ピアスで俺を興奮させてくれっ",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "84fe2d58",
+      "speaker": "ブルーム",
+      "ja": "う、うん……わかった……んべ～…♥",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "b2ed09e7",
+      "speaker": "",
+      "ja": "俺の言葉に素直に反応し、小さな舌を懸命に伸ばす。小さな舌先に見えるピアスが俺を異様に高ぶらせ、カウパーが糸を引きながら床に垂れ落ちる。",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "8be6394c",
+      "speaker": "ブルーム",
+      "ja": "（ああ……ああぁ……オスのオナニーってすごくエッチ……♥　おちんちんいっぱい濡れてる……♥）",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "d8885128",
+      "speaker": "ブルーム",
+      "ja": "（あああ……あそこが、おまんこがきゅんきゅんしっぱなし……♥　ブルーム、今コイツと一つになりたいってすごい思っちゃってる……♥）",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "3156f08",
+      "speaker": "ブルーム",
+      "ja": "（人間のクセに悪魔をたぶらかして……本当にナマイキっ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "5ca9ba28",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルーム、そろそろ出そうだ……！　そのままじっとしてくれ、頼むっ！",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "28c9af74",
+      "speaker": "ブルーム",
+      "ja": "う、うん……別にいいけど、その……本当に顔にぶっかけちゃうの？♥　オスってそういうことしたいものなの？♥",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "d3dce09b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……すごくしたい……ブルームは俺のモノなんだって独占欲が溢れて止まらないっ……！　そんな風に思える女の子はブルームが初めてだ……！",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "191cdf54",
+      "speaker": "ブルーム",
+      "ja": "（コイツの目、さらにギラギラして……ブルームを汚したいって本気で思っているんだ♥）",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "5ec2ca26",
+      "speaker": "ブルーム",
+      "ja": "（胸もあそこもきゅんきゅんが止まらない……♥　あたし、こいつのモノになりたがっちゃってる♥）",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "f9025739",
+      "speaker": "ブルーム",
+      "ja": "（ああ……かけて……オスのいやらしいお汁でブルームを汚して……♥　それを許してあげるのはクソ人間だけなんだから……！♥）",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "7708d7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルーム、出るっ！",
+      "zh": ""
+    },
+    {
+      "key": "366.0",
+      "line_index": 366,
+      "inline_index": 0,
+      "line_hash": "671f4f2c",
+      "speaker": "ブルーム",
+      "ja": "はぁ♥　はぁ♥　出して……！♥　ザーメンいっぱいぶっかけて……！♥",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "42ee9a31",
+      "speaker": "ブルーム",
+      "ja": "あっつ！？♥　うあ、あああ……びゅるびゅる出て……んぅっ、んんんんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "80e820f5",
+      "speaker": "",
+      "ja": "ブルームのぶっかけての言葉を合図に、睾丸からこみ上げてきたモノをカワイイ顔をした悪魔目掛け吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "e0f7ac1d",
+      "speaker": "",
+      "ja": "射精の勢いにブルームは驚きながらも、吐き出された精液を顔で受け止める。",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "7c7a13f9",
+      "speaker": "",
+      "ja": "そんな健気なブルームに俺はさらに欲情してしまい、肉棒を扱きながら何度も熱いモノをブルームに掛け続けた。",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "f97e497a",
+      "speaker": "ブルーム",
+      "ja": "なにこれぇ……さっきよりもいっぱい♥　うう、すごく熱くて……匂いも強烈ぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "d4db09f4",
+      "speaker": "ブルーム",
+      "ja": "もう……人間の分際でこんなにいっぱい……顔も髪もベトベトだよぉ……♥",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "22f74dbb",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ！　はぁっ！　すまん……思いのほか出てしまった……！　まさかこれほど出るなんて……はぁぁ～！",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "eb5ca91f",
+      "speaker": "ブルーム",
+      "ja": "（本当にすごい量……♥　あたし、クソ人間に汚されちゃった……♥）",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "5e1eaf47",
+      "speaker": "ブルーム",
+      "ja": "（でも嫌な気持ちが全然しない……嬉しくて胸のドキドキがとまらないよぉ♥）",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "3f3c40f3",
+      "speaker": "",
+      "ja": "カワイイ顔が真っ白に汚れる……それが俺をどこまでも高ぶらせる。",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "6525a0bf",
+      "speaker": "",
+      "ja": "二度大量に射精したにも関わらず、俺の肉棒はいまだに硬さを保持している。",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "105bef0",
+      "speaker": "",
+      "ja": "そして気持ちも全然萎えない、",
+      "zh": ""
+    },
+    {
+      "key": "402.0",
+      "line_index": 402,
+      "inline_index": 0,
+      "line_hash": "fd2b8037",
+      "speaker": "",
+      "ja": "さらにブルームが欲しい、",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "13942ad5",
+      "speaker": "",
+      "ja": "もっとブルームと快感に浸りたい、",
+      "zh": ""
+    },
+    {
+      "key": "404.0",
+      "line_index": 404,
+      "inline_index": 0,
+      "line_hash": "41ef53f0",
+      "speaker": "",
+      "ja": "そんな思いがどんどん俺の中で強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "ffd28e95",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブルーム……もっと、もっとブルームと気持ち良くなりたい……",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "6bf02f61",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺と一つに……今度はブルームも感じてくれっ",
+      "zh": ""
+    },
+    {
+      "key": "418.1",
+      "line_index": 418,
+      "inline_index": 1,
+      "line_hash": "18aabe85",
+      "speaker": "ブルーム",
+      "ja": "きゃうぅぅっ！？♥　ちょっとクソ人間何するのっ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "a7ffd638",
+      "speaker": "",
+      "ja": "俺は興奮に身を任せ、ブルームをベッドに押し倒す。そしてブルームの小さな身体を覆うウェディングドレスを脱がせると、小さな胸や僅かに開いていた割れ目が露わになる。",
+      "zh": ""
+    },
+    {
+      "key": "423.1",
+      "line_index": 423,
+      "inline_index": 1,
+      "line_hash": "860af088",
+      "speaker": "ブルーム",
+      "ja": "ちょ、ちょっと待ってクソ人間……！♥　そ、その、心の準備がっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "425.0",
+      "line_index": 425,
+      "inline_index": 0,
+      "line_hash": "21ec0b36",
+      "speaker": "",
+      "ja": "俺はブルームに覆いかぶさると、小さな身体をぎゅっと抱きしめる。",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "4ee06891",
+      "speaker": "",
+      "ja": "ブルームは観念したのか、俺の腕の中で大人しくなりそっと俺の背中に手を回し抱きついてくる。",
+      "zh": ""
+    },
+    {
+      "key": "428.0",
+      "line_index": 428,
+      "inline_index": 0,
+      "line_hash": "c3fbb348",
+      "speaker": "",
+      "ja": "今すぐにでもブルームと一つになりたい、でも今はその気持ちを胸の奥底に押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "80b8e8ef",
+      "speaker": "",
+      "ja": "ブルームがその気になるまで待とう……二人っきりの時間はまだまだあるのだから──",
+      "zh": ""
+    }
+  ]
+}

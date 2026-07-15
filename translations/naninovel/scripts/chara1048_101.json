@@ -1,0 +1,364 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "bb667655",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふ～……ボーッと寝っ転がってるのもいいもんだなぁ",
+      "zh": "呼啊……就这么懒洋洋地躺着，也挺不错的嘛。"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "ee1f6db7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　誰か来たか……どうぞ、開いてるよ。",
+      "zh": "嗯？好像有人来了……请进，门开着呢。"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "dfbece92",
+      "speaker": "シュー",
+      "ja": "おにいちゃん……。",
+      "zh": "哥哥……"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "e4875372",
+      "speaker": "{G_PlayerName}",
+      "ja": "シューじゃないか？　どうしたんだい？",
+      "zh": "这不是修吗？出什么事了？"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "96a42d1d",
+      "speaker": "シュー",
+      "ja": "あのね……おにいちゃんと一緒に寝たいんだけど……ダメ？",
+      "zh": "那个……我想和哥哥一起睡……不行吗？"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "2b358b71",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダメじゃないよ、おいで。",
+      "zh": "怎么会不行，过来吧。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "325dead4",
+      "speaker": "シュー",
+      "ja": "いいの？　わ～い♥　おにいちゃん♥",
+      "zh": "可以吗？哇～♥哥哥♥"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "3b103e34",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、いきなり抱きついてきて……もうしょうがないなぁ。",
+      "zh": "喂喂，突然就抱过来……真拿你没办法啊。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "e8d4efcf",
+      "speaker": "シュー",
+      "ja": "えへへ～……おにいちゃんのにおいだぁ～。",
+      "zh": "诶嘿嘿～……是哥哥的味道～"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "dde6c89d",
+      "speaker": "{G_PlayerName}",
+      "ja": "何だかいつも以上に甘えてくるけど……なにかあったのかな？",
+      "zh": "怎么感觉你今天特别爱撒娇……是不是有什么事啊？"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "e6f20316",
+      "speaker": "{G_PlayerName}",
+      "ja": "シュー、どうして一緒に寝たくなったんだい？",
+      "zh": "修，怎么突然想和我一起睡了？"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "a5f436a4",
+      "speaker": "シュー",
+      "ja": "えっとね……んとね……みんないなくなっちゃう夢を見たの……。",
+      "zh": "嗯，那个……就是……我梦到大家都不见了……"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "658f0045",
+      "speaker": "{G_PlayerName}",
+      "ja": "みんないなくなる夢……？",
+      "zh": "梦到大家都不见了……？"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "12c8c2b0",
+      "speaker": "シュー",
+      "ja": "そうなの……しゅーの周りから、みんないなくなっていっちゃうの……。",
+      "zh": "是啊……修身边的人，一个接一个地不见了……"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "17ea80c6",
+      "speaker": "シュー",
+      "ja": "それでね……おにいちゃんもいなくなっちゃって……誰もいなくなっちゃって……",
+      "zh": "然后啊……连哥哥也不见了……所有人都不在了……"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "5545833e",
+      "speaker": "シュー",
+      "ja": "しゅー、ひとりぼっちになっちゃって……真っ暗なところにしゅーだけで……",
+      "zh": "修就剩自己孤零零的……在那片漆黑里，只有修一个人……"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "946a0757",
+      "speaker": "{G_PlayerName}",
+      "ja": "よしよし……それは怖い夢を見たね……",
+      "zh": "好啦好啦……看来你做了个很可怕的梦呢……"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "6ee1c5e8",
+      "speaker": "シュー",
+      "ja": "うん……それでおにいちゃんが本当にいなかったらどうしようって思って……",
+      "zh": "嗯……所以我就想，万一哥哥真的不在了该怎么办……"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "745226ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで不安になってここに来たという訳か……",
+      "zh": "所以你才因为不安跑过来了啊……"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "9eedf5bf",
+      "speaker": "シュー",
+      "ja": "おにいちゃん……しゅーをおいていっちゃったりしないよね……しゅーをひとりにしないよね……",
+      "zh": "哥哥……你不会丢下修不管吧……不会让修孤零零一个人吧……"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "33e7033d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなの当たり前じゃないか、大丈夫、いなくなったりしないよ",
+      "zh": "这还用说，我没事的，不会消失不见的。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "95c3bf35",
+      "speaker": "シュー",
+      "ja": "ほんとうに？　ほんとにほんと？",
+      "zh": "真的吗？真的真的？"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "311feb1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、本当に本当さ、だから安心して、ね",
+      "zh": "嗯，千真万确，所以放心吧。"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "78cecf96",
+      "speaker": "シュー",
+      "ja": "よかったぁ～……おにいちゃん……",
+      "zh": "太好了～……哥哥……"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "152b605f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに強く抱きつかなくても……",
+      "zh": "不用抱那么紧啦……"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "815388fb",
+      "speaker": "シュー",
+      "ja": "でもこうしておにいちゃんにくっついていると、すごく安心できるから……いいでしょ？",
+      "zh": "可是这样黏着哥哥，就特别安心嘛……可以吗？"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "4353d55f",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……それで安心するなら、いいよ",
+      "zh": "好吧……要是这样能让你安心，那就随你。"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "abb47692",
+      "speaker": "シュー",
+      "ja": "えへへ～……おにいちゃん、だいすき～♥",
+      "zh": "嘿嘿～……哥哥，最喜欢你了～♥"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d0ac73c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "よしよし……",
+      "zh": "乖乖乖……"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "7258b81d",
+      "speaker": "シュー",
+      "ja": "おにいちゃん、もっとしゅーのあたまなでなでして～♥",
+      "zh": "哥哥，再多摸摸修的头嘛～♥"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "14bb4e66",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、なでなで……と、これでいいかな？",
+      "zh": "啊，摸摸头……这样就行了吧？"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "82d62c2b",
+      "speaker": "シュー",
+      "ja": "もっと～♥　ずっとなでなでして～♥　おにいちゃんになでなでされるのすき～♥",
+      "zh": "还要更多嘛～♥ 一直摸摸好不好～♥ 最喜欢哥哥摸头了～♥"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "316ff5e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい、ずっとなでなでしてるから",
+      "zh": "好好，会一直摸的。"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "5f9a2860",
+      "speaker": "シュー",
+      "ja": "くんくん……おにいちゃん……おにいちゃんのにおい……すごく安心する～……",
+      "zh": "嗅嗅……是哥哥的味道……哥哥的味道……好让人安心～……"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "eb6ead1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ怖い夢を見た後だし……これで安心してくれるなら……",
+      "zh": "嘛，毕竟刚做了噩梦……这样能让你安心的话……"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "8ca9a51",
+      "speaker": "シュー",
+      "ja": "むにゃむにゃ……おにい……ちゃん……す～……す～……",
+      "zh": "唔……哥哥……呼……呼……"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "809b025d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あらら、もう寝ちゃったか……それにしても可愛い寝顔だ……",
+      "zh": "哎呀，这就睡着了啊……不过话说回来，睡相还真可爱……"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "6229e714",
+      "speaker": "シュー",
+      "ja": "すぅ～……すぅ～……すぅ～……",
+      "zh": "呼……呼……呼……"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "f5313f9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにシューの体、ぷにぷにだしあったかいし……俺もなんか眠くなってきた……",
+      "zh": "而且修的身子软软的，还暖和……我也有点困了……"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "24bc4599",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふわぁぁぁ……俺ももう……寝よう……お休み……",
+      "zh": "呼啊……我也……睡了……晚安……"
+    }
+  ]
+}

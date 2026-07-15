@@ -1,0 +1,418 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "aed0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "さすが夏祭り……人がいっぱい来ているな",
+      "zh": "不愧是夏日祭……人可真多啊。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "ea0974c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあベス、何か見たいものとかあるかい？",
+      "zh": "诶，贝丝，有没有什么想看的？"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "6a38e012",
+      "speaker": "ベス",
+      "ja": "貴族たるものお祭りとはいえはしゃぐ訳にはいけません",
+      "zh": "身为贵族，就算是祭典也不能闹腾。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "92584a66",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっかぁ",
+      "zh": "这样啊～"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "20fa1cc6",
+      "speaker": "ベス",
+      "ja": "な、なに！？　その意味ありげな笑みは！　私のことを小馬鹿にしてるの！",
+      "zh": "什、什么！？你那意味深长的笑容是怎么回事！是在把我当傻瓜吗！"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "81564528",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そんなことはないって",
+      "zh": "不不，没那回事啦。"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "1bb5e1f4",
+      "speaker": "ベス",
+      "ja": "ふんっ！　貴方の言うことなど信用できないわ！",
+      "zh": "哼！你说的话我才不信呢！"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "eddb0a53",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まあ、なんだか微笑ましいなとは思っていたんだけど……それは言わない方がいいだろう）",
+      "zh": "（嘛，我是觉得挺温馨的啦……不过这话还是不说的好。）"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "66ec4a9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あっ、あそこの屋台……金魚すくいって書いてあるな",
+      "zh": "……啊，那边的摊子……写着捞金鱼呢。"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "7220bccb",
+      "speaker": "ベス",
+      "ja": "金魚、すくい？　それって何をするお店なの？",
+      "zh": "捞金鱼？那是做什么的店啊？"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "6118fd62",
+      "speaker": "{G_PlayerName}",
+      "ja": "お客さんの様子を見た感じ……魚をすくう遊びみたいだな。ちょっと見てみようか",
+      "zh": "看客人的样子……像是捞金鱼的游戏嘛。过去瞧瞧吧。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "2aa6e5b8",
+      "speaker": "ベス",
+      "ja": "まあ……少しくらいならいいでしょ……どれどれ？",
+      "zh": "嗯……就玩一下下应该没事吧……我看看我看看？"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "9bcec21c",
+      "speaker": "ベス",
+      "ja": "（……まあ、これが金魚すくい？　赤や黒の魚がいっぱいいるわね）",
+      "zh": "（……哦，这就是捞金鱼？红色黑色的鱼还真不少呢。）"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "8c38fd0e",
+      "speaker": "ベス",
+      "ja": "（なるほど……あの薄い紙が貼られた丸いのでキンギョ、を掬うのね……あんなに薄い紙でよくあんなに取れるものね）",
+      "zh": "（原来如此……是用那个贴着薄纸的圆环捞金鱼啊。纸那么薄，居然能捞那么多。）"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "4a7ee6a1",
+      "speaker": "ベス",
+      "ja": "……あら……隅っこで弱り始めてる金魚が",
+      "zh": "……咦？角落里有条金鱼好像快不行了……"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "7381edf9",
+      "speaker": "",
+      "ja": "ベスの視線の先には赤色と黒色の二匹の金魚が、他の金魚と明らかに違った様子で水に浮かんでいる。",
+      "zh": "贝丝视线落处，两条红色和黑色的金鱼，明显和其他金鱼状态不同，半死不活地浮在水面上。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "5e39371b",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当だ……",
+      "zh": "真的……"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "c83c2f34",
+      "speaker": "ベス",
+      "ja": "あの子たちならすぐにでも掬えそうだけど",
+      "zh": "要是那些人，感觉一下子就能捞到啊……"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "2060015b",
+      "speaker": "",
+      "ja": "そう言いながら観察していると、その金魚を狙おうとする人々の手から逃れ、どんどん消耗している姿が目に入った。",
+      "zh": "正这么说着，就看到那两条金鱼在人群间左躲右闪，谁也捞不着它们，但自己却越来越虚弱。"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "55e40bbd",
+      "speaker": "ベス",
+      "ja": "（えっ？　弱っているのに掬われそうになると、すごく抵抗して……誰からも見向きされなくなって……）",
+      "zh": "（咦？明明都那么虚弱了，有人要捞它们时却拼命反抗……最后变得没人理它们了……）"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8dc38db1",
+      "speaker": "",
+      "ja": "その金魚は最早、ベス以外の誰にも注目されなくなっていた。",
+      "zh": "那条金鱼早就没人看了，除了贝丝还偶尔瞥一眼。"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "ad73236e",
+      "speaker": "",
+      "ja": "ここにはいたくないが、新たな場所に行く勇気もない。2人きり、暴れ疲れて今にも沈んでしまいそうな哀れな金魚。",
+      "zh": "我也不想窝在这儿，可又没有去新地方的胆量。就剩我俩，这可怜的金鱼闹腾累了，眼看就要沉底。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "9a9cdbc1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベス、どうかしたのか？",
+      "zh": "贝丝，你怎么了？"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "56a612ce",
+      "speaker": "ベス",
+      "ja": "な、何でもないわよ……",
+      "zh": "没、没什么啦……"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "a102a7e2",
+      "speaker": "ベス",
+      "ja": "（才能がなくて、そのくせ周りからの手助けを突っぱねて……どんどん孤立していってしまった私は……あの弱った金魚と同じ……）",
+      "zh": "（明明没什么本事，还一直推开别人的帮忙……结果我越来越孤立无援……就跟那条蔫掉的金鱼一模一样……）"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "cf3d58e7",
+      "speaker": "ベス",
+      "ja": "（人々に選ばれた金魚だけが新しい場所へと旅立っていく……でもあの私のような弱った金魚は……）",
+      "zh": "（只有被人挑中的金鱼才有资格启程去新地方……可像我这样没力气的金鱼……）"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "14d1eb0f",
+      "speaker": "ベス",
+      "ja": "……いらない子は、どこにも行けず死ぬだけ……",
+      "zh": "……没人要的孩子，哪儿都去不了，只能死路一条……"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "1e45a092",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ベス",
+      "zh": "……贝丝"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c0b3d611",
+      "speaker": "{G_PlayerName}",
+      "ja": "金魚すくい屋さん、一回お願いするよ",
+      "zh": "老板，来一局捞金鱼。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "a510afa1",
+      "speaker": "ベス",
+      "ja": "なに？　貴方、挑戦するの？",
+      "zh": "咦？你要试一把？"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "47560833",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあね……さてと……それじゃあ隅っこで少し弱ってるやつを……それっ！",
+      "zh": "嗯……好了……那就把角落里那只蔫蔫的小家伙……嘿！"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "ed42da4d",
+      "speaker": "ベス",
+      "ja": "あっ……赤い金魚と黒い金魚を……ひょいひょいすくって……",
+      "zh": "啊……红金鱼和黑金鱼……就这么随手一捞就捞起来了……"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "136bd9be",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし！　それじゃあこの２匹貰っていくよ",
+      "zh": "好！那我这就买这两条。"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "aec5a05",
+      "speaker": "ベス",
+      "ja": "ど、どうして……その金魚たちを？",
+      "zh": "为、为什么……要买这些金鱼？"
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "c2c9e880",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、ちょっとクセがあって一緒にいたら面白そうじゃない……ほら",
+      "zh": "没，就觉得它们有点另类，养在一起应该会挺有意思的……喏。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "c30dea40",
+      "speaker": "ベス",
+      "ja": "ほらって……その金魚を私にくれるの？",
+      "zh": "喏……你是要把这些金鱼送给我吗？"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "b3810819",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、でも少し弱ってるから、しっかり元気になるようお世話頑張らないとな",
+      "zh": "嗯，不过它们现在还比较虚弱，你得好好照顾，让它们精神起来才行。"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "a5cf710b",
+      "speaker": "ベス",
+      "ja": "そ、そうね……一生懸命お世話してあげないと……",
+      "zh": "说、说得对……我一定用心照顾好它们……"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "e1b6df84",
+      "speaker": "ベス",
+      "ja": "（この子達……あとは死んでいくだけだと思っていた……私のように……）",
+      "zh": "（这些小家伙……我本以为它们迟早都会死掉……就像我一样……）"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "10b36f82",
+      "speaker": "ベス",
+      "ja": "（でも……貴方はこの子達をすくって、新しい世界へと連れ出してくれた）",
+      "zh": "（但是……你却救了它们，把它们带去了新的世界。）"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "18829561",
+      "speaker": "ベス",
+      "ja": "私も……貴方に救われたのかも……",
+      "zh": "我……说不定也是被你救了呢……"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "eff75c80",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？　何か言った？",
+      "zh": "嗯？你说什么？"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "cb4e343a",
+      "speaker": "ベス",
+      "ja": "何も言ってないわよ、それよりもこの子達の水槽とか餌とか買わないと",
+      "zh": "我什么都没说啦。倒是得去给这些小家伙买水槽和饲料才行。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "db1236a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……何が必要か調べてみるか",
+      "zh": "也是……我查查需要什么。"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "814386d6",
+      "speaker": "ベス",
+      "ja": "ふふふっ♥　あななたち、末永くよろしくね",
+      "zh": "哼哼♥ 你们几个，以后就多关照啦。"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "b3b80c5c",
+      "speaker": "ベス",
+      "ja": "（もちろん……貴方も♥）",
+      "zh": "（当然……也包括你啦♥）"
+    }
+  ]
+}

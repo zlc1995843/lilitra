@@ -1,0 +1,967 @@
+{
+  "lines": [
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "951325bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふぅぅ……何だかんだで結構楽しんだな",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "79b1fc55",
+      "speaker": "ベス",
+      "ja": "でも、おかげで疲れてしまったわ……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "e07b74ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……どこかで少し休もうか",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "95daa9ee",
+      "speaker": "",
+      "ja": "休めそうな所を探してみると喧噪から離れた場所に誰も居ない小さな建物を見つける。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "f2008c1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの建物の縁側を少し借りようか",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "8e79aa59",
+      "speaker": "ベス",
+      "ja": "そうね……誰もいないようだし……少し借りるくらいなら……",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "f9775731",
+      "speaker": "",
+      "ja": "俺とベスはその建物へと向かうと、縁側に座り一息ついた。",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "f53387b8",
+      "speaker": "ベス",
+      "ja": "はぁぁ……それにしても今日はすごく歩いたわね……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "1c314f21",
+      "speaker": "",
+      "ja": "縁側に腰を下ろしてベスは、大きく息をついてしみじみと呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "b212b10f",
+      "speaker": "",
+      "ja": "結構疲れているようなので、俺はこっそり買っていたジュースをベスにもあげようと声をかける。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "4bec35a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベス、元気が出るものをやろうか？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "c54c9080",
+      "speaker": "ベス",
+      "ja": "げっ、元気がでるものって？！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "fde91b7e",
+      "speaker": "ベス",
+      "ja": "（確かこの人の精液って栄養剤効果を持つと聞いてるけど……ま、まさかっ？！）",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "3cfbc94",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？　どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "392bf60b",
+      "speaker": "ベス",
+      "ja": "どうかした、じゃないわよ！？　な、何を言ってるのこんなところで、せ、せい……を出そうとするなんて！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "3395e4fc",
+      "speaker": "",
+      "ja": "ベスは顔を真っ赤にしながら妙なことを言いだした。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "4b5b69b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、え、何の話だ？",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "cf277f4b",
+      "speaker": "",
+      "ja": "俺がよく分からないという感じでそう聞き返すと、ベスは急に怒り出す。",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "ecac7440",
+      "speaker": "ベス",
+      "ja": "レディに恥をかかせるなんて！　責任取ってくれる！？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "7caa543b",
+      "speaker": "{G_PlayerName}",
+      "ja": "恥をかくとか責任とか……あっ……",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d6c7fae",
+      "speaker": "",
+      "ja": "その時俺はベスが元気が出るものを勘違いしたことに気がついた。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "e45d0a73",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なるほど……ベスはエッチなことと思ったのか……それが恥ずかしくて責任転嫁してきたんだな）",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "fe5f271",
+      "speaker": "",
+      "ja": "それならと俺は、このままエッチに持ち込んでしまおうと考える。",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "90204d07",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら……責任をとらせてもらうぞ！",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "235130d2",
+      "speaker": "",
+      "ja": "俺はそう言うとベスの浴衣を脱がせにかかった。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "2281a223",
+      "speaker": "ベス",
+      "ja": "レディに馬乗りになるなんて、紳士失格よ！",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "e3356cc2",
+      "speaker": "",
+      "ja": "ベスの言うとおり俺は彼女に馬乗りになり小ぶりな乳房の間にちんぽをあてがっている。",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "2cb7c5d0",
+      "speaker": "",
+      "ja": "そのちんぽにはベスのパンツが被せられていた。それを見てベスは顔を赤くさせながら悪態をつく。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "31d70d6f",
+      "speaker": "ベス",
+      "ja": "そ、それに……パンツを被せてほしいなんて……変態じゃないの！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "289da810",
+      "speaker": "",
+      "ja": "俺はその言葉がベスの照れ隠しのようなものだというのがわかっていた。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "9501f51",
+      "speaker": "",
+      "ja": "その証拠にベスは何の抵抗もせずに為すがままになっている。ちんぽにだって自分からパンツを被せてくれたし。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "1fae9a89",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ……動くよ……",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "8d396fec",
+      "speaker": "ベス",
+      "ja": "か、勝手にすればいいじゃない……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "82e291e0",
+      "speaker": "",
+      "ja": "それではとばかりに俺はベスの乳房にちんぽを押し当てて腰を前後させ始めた。",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "eb8ebb8f",
+      "speaker": "ベス",
+      "ja": "んっ……こ、こんなこと……何が面白いの……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "a64215d9",
+      "speaker": "",
+      "ja": "相変わらずのベスの言葉に構わず、俺は彼女の小さな乳房にちんぽを擦りつけていく。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "ab9ed9c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ……き、気持ちいい……",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "4a5dc7e4",
+      "speaker": "",
+      "ja": "ベスの乳房の柔らかさも、ちんぽの先を覆ったパンツの布地も、どちらもすごくいい感じだ。",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "560ad7c9",
+      "speaker": "",
+      "ja": "しかもパンツはベスがさっきまで履いていたものなので、間接的に彼女のおまんこと俺のちんぽが触れあっているということになる。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "4c59bb14",
+      "speaker": "",
+      "ja": "妙な興奮に俺は夢中で腰を振って何度もベスのおっぱいにちんぽを擦りつけた。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "64ea253",
+      "speaker": "ベス",
+      "ja": "んんっ……そんなに乱暴にしないでよね……もう……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "29f4c4ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご、ごめん……でも……気持ちいいから……はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "8482703a",
+      "speaker": "ベス",
+      "ja": "まったく……貴方って本当に変態なんだから……",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "ed814aca",
+      "speaker": "",
+      "ja": "そう言いつつもベスは乳房に擦りつけられている俺のちんぽを見つめている。",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "79e072a5",
+      "speaker": "",
+      "ja": "その顔は嫌がっているというよりも、すこし興奮しているように見えた。そんなベスの表情にも興奮した俺は、徐々に腰の動きを激しくさせていく。",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "f48e1826",
+      "speaker": "ベス",
+      "ja": "んっ……んっ……そ、そんなにおちんちんを……擦りつけちゃ……くっ……うぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "48170abe",
+      "speaker": "",
+      "ja": "俺が何度もちんぽを擦りつけていると、ベスのおっぱいの先では乳首が少しずつ固く尖ってきていた。",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "1eeef553",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ベスの乳首にちんぽ擦りつけてもいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "656f41b3",
+      "speaker": "ベス",
+      "ja": "か、勝手に……すればいいでしょ……",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "100faa64",
+      "speaker": "",
+      "ja": "一応了承を得たので、俺は裏スジを乳首へと押し当てて腰を振る。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "c047661c",
+      "speaker": "",
+      "ja": "やはり勃起してきている乳首は固くコリコリしていて、裏スジに擦りつけるとゾクゾクする快感が襲ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "26b6bd4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううっ……すごくいい……うっ……ううっ……",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "d8a9d2e9",
+      "speaker": "",
+      "ja": "俺は高まる興奮に任せて何度も腰を前後させる。ちんぽで刺激されたベスの乳首は、さらに大きく固くなってきた。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "b0830894",
+      "speaker": "ベス",
+      "ja": "……んっ……あ、熱い♥",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "84017152",
+      "speaker": "",
+      "ja": "ベスの興奮も高まってきているのか、口から漏れる声が熱を帯びてきている。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "d5e31bf5",
+      "speaker": "",
+      "ja": "そんなベスの姿に俺も激しく興奮してしまい、腰の動きが一気に速くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "2534770c",
+      "speaker": "ベス",
+      "ja": "あっ♥　ああっ♥　私の胸でおちんちんが♥　どんどん熱くなってびくびくして♥",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "7898a189",
+      "speaker": "",
+      "ja": "何度も擦りつけているとちんぽからはネットリとした汁が溢れ出てしまい、ベスのパンツにシミを作り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "3ef6065",
+      "speaker": "",
+      "ja": "それを見たベスはうっとりとした表情を浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "7493c149",
+      "speaker": "ベス",
+      "ja": "わ、私のパンツにおちんちん汁のシミが♥　どんどん大きくなってきて♥",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "4f234dcf",
+      "speaker": "",
+      "ja": "興奮した声でそう呟くベスの姿に、俺は一気に込み上げてくるものを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "436125ff",
+      "speaker": "",
+      "ja": "その高まりに俺の腰の動きは徐々に激しさを増し、夢中でちんぽを柔らかなおっぱいに擦りつけていく。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "b1d8baec",
+      "speaker": "ベス",
+      "ja": "んんんっ♥　そんなに強く擦りつけちゃ♥　あっ♥　ああっ♥　匂いもどんどん濃くなってきて♥　んっ、ふぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "946d812f",
+      "speaker": "",
+      "ja": "溢れた我慢汁がパンツを汚していくのを見て、ベスは益々興奮した着たのか甘い声を漏らした。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "805941ec",
+      "speaker": "",
+      "ja": "そんな声に煽られた俺の脈打つちんぽは今にも爆発しそうで、もう堪えきれなくなる。",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "ea16e981",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅっ……で、出る……くぅぅっ",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "d246d890",
+      "speaker": "",
+      "ja": "我慢できなくなった俺は、そのままベスのパンツに思いっきりどぴゅどぴゅと射精してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "67541cc2",
+      "speaker": "ベス",
+      "ja": "ひゃっ……♥　で、出てる♥　すっごい匂い……それに糸引くくらいねばねば……♥",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "da4d8ebd",
+      "speaker": "",
+      "ja": "自分のパンツが精液で汚れていくのを見て、ベスは興奮した感じでそう呟く。",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "63b1952a",
+      "speaker": "",
+      "ja": "俺はそんなベスが見ている前で、何度もパンツの中に射精を繰り返した。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "4ff357d8",
+      "speaker": "ベス",
+      "ja": "わ、私のパンツが貴方の精液で、どんどん汚れていく♥　はぁ♥　はぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "2b30dcbc",
+      "speaker": "",
+      "ja": "まるでおまんこに射精されているかのように興奮するベスを見て、俺の気分は益々高まって、パンツの股間部分に大量に射精をしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "16121c18",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ……はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "830d577e",
+      "speaker": "",
+      "ja": "そして全て出しきる頃には、ちんぽに被せたパンツは精液でドロドロになってしまってっていた。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "2c085cad",
+      "speaker": "",
+      "ja": "それどころか大量に出してしまったので、ベスの胸元まで汚してしまっている。",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "31470991",
+      "speaker": "ベス",
+      "ja": "す、すごい……こんなに大量に出るなんて♥　もう私のパンツ、ぐちょぐちょになってしまって♥　あふぅ♥　この匂い♥　ふむぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "8284ad7e",
+      "speaker": "",
+      "ja": "艶っぽい声でそんなことを呟かれると、まだまだしたくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "dbe6525e",
+      "speaker": "",
+      "ja": "今射精したばかりだけど、俺はそのまますぐにまた腰を振ってベスの乳房の感触を味わい始めた。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "9cf872f7",
+      "speaker": "ベス",
+      "ja": "んっ♥　んっ♥　も、もっと強く……♥　貴方の好きに動いていいのよ……♥",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "f8374e1",
+      "speaker": "",
+      "ja": "ベスも乳房をちんぽで擦られることに感じてきたのか、甘い声で誘うような言葉を口にする。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "cca69565",
+      "speaker": "",
+      "ja": "その言葉に気持ちが高ぶった俺は、何度もベスの小さな胸に剛直した肉棒を擦りつけていった。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "218d36e",
+      "speaker": "ベス",
+      "ja": "んっ♥　あっ♥　またおちんちんをおっぱいにすりすりって♥　ああっ♥",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "a50172f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁはぁ……ベス……",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "c7066b09",
+      "speaker": "",
+      "ja": "俺は自分の欲望のままに激しく腰を振ってしまう。柔らかな乳房の感触と、時々触れる固くなった乳首の刺激に、再び肉棒が剛直していった。",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "eae53664",
+      "speaker": "ベス",
+      "ja": "あっ♥　あっ♥　おちんちんがすごく熱くなって♥　んふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "cb3784",
+      "speaker": "",
+      "ja": "乳房や乳首を刺激されてベスも気持ちよさそうな声を漏らしている。",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "690c9851",
+      "speaker": "",
+      "ja": "その声に煽られ俺はどんどん腰の動きを加速させていった。",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "f7c0dd09",
+      "speaker": "ベス",
+      "ja": "んんんっ♥　そ、そんなに激しくおちんちん擦りつけられたら♥　あっ♥　はぁんっ♥　ああぁぁぁっ♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "9fa6dbf5",
+      "speaker": "",
+      "ja": "何度も乳房や乳首にちんぽを擦りつけていると、次第にまた込み上げてくる感覚が強くなる。",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "3a4e7e22",
+      "speaker": "",
+      "ja": "それでも俺はピストンをやめずに、ベスのおっぱいにちんぽを押しつけるようにして滑らせた。",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "1c5e2684",
+      "speaker": "ベス",
+      "ja": "ああ♥　あぁんっ♥　おっぱいにおちんちんいっぱい擦りつけられて……気持ち良くなるなんて……んふぅ♥　はぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "3747b2ce",
+      "speaker": "",
+      "ja": "次第に込み上げてくる感覚が更に大きくなり、そろそろまた出してしまいそう。",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "e680b363",
+      "speaker": "",
+      "ja": "俺はそのまま２回目の射精に向けて腰の動きを激しくさせた。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "3769d046",
+      "speaker": "ベス",
+      "ja": "ああっ♥　おちんちんがびっくんびっくんして♥　んんっ♥　あっ♥　はぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "ac61208",
+      "speaker": "",
+      "ja": "ベスの口から甘い声が漏れるほどに、ピストンも速くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "7221d85",
+      "speaker": "",
+      "ja": "何度も何度も柔らかな乳房の感触を味わっていると、勃起したちんぽが上下に跳ね始めた。",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "110ff8d9",
+      "speaker": "ベス",
+      "ja": "す、すごいっ♥　おちんちん、びっくんびっくんして♥　ああ、どんどん匂いが濃くなってきて♥　はぁ♥　はぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "d6038e2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅっ……ま、また出るっ……くぅぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "165e6fd4",
+      "speaker": "",
+      "ja": "俺はまた登り詰めてしまい、ビクンビクンと上下に跳ねるちんぽから精液をどぴゅどぴゅと発射してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "b8262338",
+      "speaker": "ベス",
+      "ja": "んんんんっ♥　びゅるる～っていっぱい出て……あっ♥　私の顔にまで♥",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "facf1c87",
+      "speaker": "",
+      "ja": "勢いよく放たれた精液はパンツを通り越し、ベスの顔までもドロドロに汚していった。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "fe9f31ab",
+      "speaker": "ベス",
+      "ja": "なんて勢いなの？　パンツの布地を突き抜けるなんて♥　す、すごい♥",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "3541eda6",
+      "speaker": "",
+      "ja": "あまりにも勢いのある射精にベスはすっかり恍惚の表情を浮かべながら俺の精液を浴びている。",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "e6199194",
+      "speaker": "",
+      "ja": "その姿に興奮して、俺は２回目とは思えないほどの量を射精してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "4e5236c3",
+      "speaker": "",
+      "ja": "そして俺が全て出しきる頃には、パンツもベスもすっかり精液まみれになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "11b4d1d2",
+      "speaker": "ベス",
+      "ja": "はぁ……はぁ……♥　こんなに私の体で興奮するなんて……♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "b585d97e",
+      "speaker": "",
+      "ja": "そう呟いたベスはすっかり蕩けた顔をして射精しきった俺のちんぽを見つめていた。",
+      "zh": ""
+    }
+  ]
+}

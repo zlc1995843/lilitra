@@ -1,0 +1,634 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "1ad32d3e",
+      "speaker": "ミキュナ",
+      "ja": "はぁ～……浮き輪流されちゃうなんて、私って本当にダメダメだな……",
+      "zh": ""
+    },
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "34738485",
+      "speaker": "ミキュナ",
+      "ja": "もう探すの諦めよ……あまり遠くに行っちゃうと皆さんに心配かけちゃうかもしれないし",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "6d9c868e",
+      "speaker": "ミキュナ",
+      "ja": "早く皆さんと合流して──あっ！？",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "a9f836d6",
+      "speaker": "ミキュナ",
+      "ja": "お兄さんっ！？　見かけないと思ったらこんなところにいたんだ……何しているんだろう？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "50386347",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど、意外と大丈夫っぽいな……。でも少し海水に浸しただけじゃテストには程遠いかな……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "978e2639",
+      "speaker": "ミキュナ",
+      "ja": "お兄さんっ♪　何しているんですか？",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "2665173f",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ？　ミキュナ？　どうしてこんなところに？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "bb85cb07",
+      "speaker": "ミキュナ",
+      "ja": "えっと……浮き輪が流されちゃって、それを探しに……。浮き輪はどっか行っちゃいましたけど……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "b9924f05",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……探すの手伝おうか？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "1378733f",
+      "speaker": "ミキュナ",
+      "ja": "あ、いえ、だいじょうぶです。お気持ちだけ受け取っておきます。それでお兄さんは機械弄りですか？",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "564f691b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ちょっとテストしたいことがあってね。この機械、アポロの話だと耐水性はあるんだけど、海でテストをしたことがないらしいんだよ",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "d783ed37",
+      "speaker": "{G_PlayerName}",
+      "ja": "それでいろいろとチェックしているんだ",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "b1476384",
+      "speaker": "ミキュナ",
+      "ja": "そうなんですか……機械のことはよくわかりませんけど、そんなにバラバラにして元に戻せるんですか？",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "b0a8e2d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら大丈夫。何回もバラしては組み立て直しているからね",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "3aacbef5",
+      "speaker": "ミキュナ",
+      "ja": "すごいですね♪　さすがお兄さんです♪　尊敬しちゃいますっ♪",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "dc147290",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな褒められることじゃないって。自分の技術じゃこんな細かいの作れないし",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "d82fa078",
+      "speaker": "ミキュナ",
+      "ja": "本当に細かな機械ですね……この小さな部品の一つ一つが何らかの働きをして動いているんですよね……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "7201d5f8",
+      "speaker": "ミキュナ",
+      "ja": "どういう原理なんでしょうか……魔法学校ではそういうの全然教えてくれませんでしたから",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "76525f6b",
+      "speaker": "{G_PlayerName}",
+      "ja": "正直俺もそこまで詳しくはないんだよね。でもいつかは……まぁそのためにいろいろ機械を分解しては調べたりってしているんだけど",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "57d3025a",
+      "speaker": "ミキュナ",
+      "ja": "でもなんでこんな離れたところで機械を弄っていたんですか？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "aa7658ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、感電の危険性があるからね。みんなに危険が及ばないように少し離れたところでいろいろしていたってわけ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "385c37b7",
+      "speaker": "ミキュナ",
+      "ja": "なるほど……そういう気配りがお兄さんらしいですね。私も見習いたいですっ",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "7b72c6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな褒められるほどのことじゃないって",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "26e1285d",
+      "speaker": "ミキュナ",
+      "ja": "（お兄さんも日々勉強しているんだな……。私も見習わないと……少しでもお母様に近づくために……）",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "68f9707b",
+      "speaker": "ミキュナ",
+      "ja": "あ、あの、お兄さん、少し見学させてもらってもいいですか……？　邪魔はしませんから",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "5f453924",
+      "speaker": "{G_PlayerName}",
+      "ja": "別に構わないけど、特に面白いものでもないよ？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "4feda68",
+      "speaker": "ミキュナ",
+      "ja": "それでも構いません。私も色々と知る機会だと思っていますから",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "6dbc4ce1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ミキュナがそう思っているなら別にいいけど……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "278a9375",
+      "speaker": "ミキュナ",
+      "ja": "ありがとうございます、お兄さんっ♪　それでは隣、失礼しますね",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "ddeeb6cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ふむ、ここに影響が……なるほど……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "9e881804",
+      "speaker": "ミキュナ",
+      "ja": "（前から思っていたけど、お兄さんってすごく器用……あんなに細かい物を付けたり離したり……）",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "89c23103",
+      "speaker": "ミキュナ",
+      "ja": "（不器用な私には全然マネできそうにないな……ずっと機械弄りしていたんだろうなぁ……）",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "4633a02a",
+      "speaker": "ミキュナ",
+      "ja": "（お兄さんってどういう子供時代を過ごしていたんだろ……そういうの聞いたことないや……）",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "cdbace85",
+      "speaker": "ミキュナ",
+      "ja": "（やっぱり子供の頃から大きかったのかな……？　本当にお兄さんって身体も手も足も私と全然違う……）",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "5345dcfa",
+      "speaker": "ミキュナ",
+      "ja": "（すごく大人って感じ……それに大きくても全然怖くない……大人の、身体の大きな人は苦手って思っていたけど、お兄さんにそういうの全然ないや……）",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "2712ce4a",
+      "speaker": "ミキュナ",
+      "ja": "（それどころかすごく安心できちゃう……ずっと傍にいたいって、そう思えちゃう……）",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ecd50d82",
+      "speaker": "ミキュナ",
+      "ja": "（お兄さんって私のことどう思っているのかな……？　邪魔……には思っていないよね……？）",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "989b32fd",
+      "speaker": "ミキュナ",
+      "ja": "（でもお兄さんは皆さんの人気者だから、私のことなんて意識したこととかないんだろうな……）",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "e236541e",
+      "speaker": "ミキュナ",
+      "ja": "（うう……！　ダメダメ、弱気になっちゃダメ……！　私のことも意識してもらえるように頑張らないと……！）",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "78feb966",
+      "speaker": "ミキュナ",
+      "ja": "（私だってほかの人達に負けないくらいお兄さんのこと……！　だから一生懸命アピールしなきゃ……！）",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "252c8624",
+      "speaker": "ミキュナ",
+      "ja": "（で、でもアピールって具体的に何をすれば……身体を寄せる……とか？　や、やってみよう……）",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "a92e029f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ふむふむ……おお、これすごいな、どういう作りしているんだろ……",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "ac7d4de2",
+      "speaker": "ミキュナ",
+      "ja": "（あうう……か、身体少し触れたくらいじゃ全然気づいてもらえない……お兄さん集中力ありすぎだよぉ……）",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "4868a402",
+      "speaker": "ミキュナ",
+      "ja": "（こ、こうなったら、う、腕を……！　こっ、こここ、恋人、みたいに……！）",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "87abbbe",
+      "speaker": "ミキュナ",
+      "ja": "（うううう……！　は、恥ずかしい……！　でもそのくらいアピールしなきゃ、一生お兄さんに意識してもらえない……！！）",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "111df387",
+      "speaker": "ミキュナ",
+      "ja": "（勇気を出さなきゃ……！！　腕、腕……自分の腕をお兄さんの腕に絡ませる……それだけでいいんだからぁっ……！）",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "7e852d2d",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんっ！？　うわぁっ！？　ミキュナっ！？",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "85f7af38",
+      "speaker": "ミキュナ",
+      "ja": "ふえぇえええっ！？　ごめんなさいごめんなさいごめんなさいぃぃぃぃっ！！",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "1a57f789",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なに謝って……あっ！　動かないで！！　ボタンに水着が引っかかって……！！　今動くと……！！",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "3ed8ead2",
+      "speaker": "ミキュナ",
+      "ja": "ふぇえっ！？　きゃぁぁあああっ！？　水着が……！！　い、いやぁぁぁああっ！！",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "4c5bd17e",
+      "speaker": "ミキュナ",
+      "ja": "う、うう……ごめんなさい、お兄さん、悲鳴なんてあげてしまって……",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "68116cd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いや、謝る必要なんて……いいもの見れた……じゃない！　お、俺の方こそその……ごめん……！",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "220e22ff",
+      "speaker": "ミキュナ",
+      "ja": "い、いえ……！　お兄さんこそ謝る必要は……お兄さんの上着のボタンに水着を引っ掛けたのは私ですし……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "2d5030c7",
+      "speaker": "ミキュナ",
+      "ja": "そのせいで水着が脱げてしまっただけですから……",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "f11478a2",
+      "speaker": "ミキュナ",
+      "ja": "わ、私のことは気にせずに作業の続きをしてくださいっ",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "a7243310",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……わかった……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "457b537d",
+      "speaker": "ミキュナ",
+      "ja": "（あうう……ただ腕を組もうとしただけなのに、水着がボタンに引っかかるなんて……）",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "62722229",
+      "speaker": "ミキュナ",
+      "ja": "（でもこのくらいで負けたりしないんだから……あ、お兄さんの手、砂浜の上に……）",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "f2383f50",
+      "speaker": "ミキュナ",
+      "ja": "（腕を組むのは大胆すぎちゃうけど、手を重ねるくらいなら……うん、そのくらいなら……）",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "58482e75",
+      "speaker": "ミキュナ",
+      "ja": "（うう……で、でもやっぱり恥ずかしい……それにお兄さんがどういう反応をするか……）",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "d8dd4244",
+      "speaker": "ミキュナ",
+      "ja": "（でも怖がったりしていたらダメだよね……勇気を出さなきゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "d7d18ef5",
+      "speaker": "ミキュナ",
+      "ja": "（がんばれ……！　がんばれ、私……！）",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "21c0f83",
+      "speaker": "",
+      "ja": "──むにゅっ",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "7d732844",
+      "speaker": "ミキュナ",
+      "ja": "へ……？　むにゅ……？",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "4aede175",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ！？　冷たくて気持ち良いっ！　これスライム？　こんなところにスライムなんていたのか",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "3542f97a",
+      "speaker": "ミキュナ",
+      "ja": "（ええええっ！？　な、なんでスライムが！？　さっきまでそんなのどこにもいなかったのにぃっ！）",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "7160de56",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひんやりしてていいな♪",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "ad6677d3",
+      "speaker": "ミキュナ",
+      "ja": "そっ、そう、ですね……すごくひんやりして……",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "90f5d986",
+      "speaker": "ミキュナ",
+      "ja": "（うう、勇気を出して手を重ねたのに、それなのにスライムに邪魔されちゃうなんてぇ……うううう……）",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "ff2239f2",
+      "speaker": "ミキュナ",
+      "ja": "（で、でもこんなことで負けない……諦めないんだからぁ……はぅぅぅ～）",
+      "zh": ""
+    }
+  ]
+}

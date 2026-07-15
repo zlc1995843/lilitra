@@ -1,0 +1,1390 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "323ebb",
+      "speaker": "{G_PlayerName}",
+      "ja": "フニ、どこにいるのかな",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "522f61e2",
+      "speaker": "",
+      "ja": "丑三つ時、俺はフニに会うために一人墓場までやってきた。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "573f9da4",
+      "speaker": "",
+      "ja": "フニと出会う前であれば、恐怖が優先され深夜に墓場まで来ようなどと微塵も思わなかった。",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "c3a1979d",
+      "speaker": "",
+      "ja": "それが今では話がしたい、ただそれだけの理由でこんな場所に一人足を踏み入れていた。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "9b936c8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "んー……いないな……。今日はもう寝ているのかな……？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "bcbd4d92",
+      "speaker": "{G_PlayerName}",
+      "ja": "そもそも幽霊って寝るのか……？　まぁもう少し探して──",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "8ae54c30",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うううっ！？　う、うぅっ！？　な、なん、だ……？　かっ、身体が動かな──",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "a22f118",
+      "speaker": "",
+      "ja": "一歩足を踏み出した瞬間、突然身体重くなり動けなくなってしまう。しかし意識はハッキリとしており、幾分か冷静なままでいることができた。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "fefd2485",
+      "speaker": "{G_PlayerName}",
+      "ja": "たぶんこれ悪霊の仕業……だよな……こんなときに邪魔してきて……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "1aa3f2ff",
+      "speaker": "",
+      "ja": "フニに出会ってから幽霊という未知の存在に対する耐性が、自分の中で出来上がってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "3b44a81d",
+      "speaker": "",
+      "ja": "しかし悪霊に対処することはできず、俺は金縛り状態のままその場に立ち尽くしていた。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "6134bb68",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……？　うう、な、なんか下半身がムズムズして……うあっ！？",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "bb24e09e",
+      "speaker": "",
+      "ja": "視線を下半身に向けると、暗がりでもはっきりとわかるほど俺の陰茎が勃ってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "7c05fdb5",
+      "speaker": "",
+      "ja": "これも悪霊の仕業なのか、それとも俺自身何か邪なことを考えてしまっているのか、その理由が自分の中で曖昧になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "98713e1a",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅ……さすがにこのままってわけにもいかないよな……どうにか悪霊を追い出さないと……",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "33241237",
+      "speaker": "フニ",
+      "ja": "……？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "bd759613",
+      "speaker": "",
+      "ja": "そんな中フニが唐突に現れ、不思議そうに俺を見ている。",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "1d077e04",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……フニ……！　い、いいところに……くぅっ……！",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "a4f5a39b",
+      "speaker": "",
+      "ja": "フニが視線を下げた瞬間、大きな瞳を見開きながら驚きの声をあげる。彼女が何を見ているのかすぐにわかり、俺は恥ずかしさで身体が熱くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "30d001e4",
+      "speaker": "フニ",
+      "ja": "なんでそんなことに……？　そ、その、何かエッチなこと……考えてる……？",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "719d9d9a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それはたぶんないと思うけど……俺の身体を乗っ取っているヤツの仕業かもしれないし",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "7adc1127",
+      "speaker": "フニ",
+      "ja": "あ……確かに生者ちゃんの中に”もう一人”いるね……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "fe404fd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかるのか？　さすが幽霊……突然金縛りになって動けなくなってさ……。それでこいつはなんで俺の身体乗っ取ろうとしているの……？",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "d6e7f208",
+      "speaker": "フニ",
+      "ja": "わかんない……特に恨みとかそういうのではないと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "aa243ed1",
+      "speaker": "フニ",
+      "ja": "心残りがあるみたい……それを晴らしてあげれば成仏すると思うけど",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "1c6f27f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "心残り……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "ceb04130",
+      "speaker": "",
+      "ja": "俺はふと自分の下半身に目を向け、そしてフニも俺の視線に引っ張られるように下半身に視線を向ける。",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "e4b399fc",
+      "speaker": "フニ",
+      "ja": "（たぶんそういうこと……だよね……。生者ちゃんに憑りつている人の心残りって……）",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "e694dcc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（く……！　チンポまた熱くなって……！　コイツ、フニにしてもらいたいって思っているのかっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "60e52c76",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺もしてもらったことないのに、なんて図々しい……！！）",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "e1ef627",
+      "speaker": "フニ",
+      "ja": "（うう……べ、別に生者ちゃんにそういうのするのはイヤじゃないけど、でも、できる、かな……？）",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "373c18d6",
+      "speaker": "フニ",
+      "ja": "（わたし、男の人とした経験なんて……）",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "b481a384",
+      "speaker": "{G_PlayerName}",
+      "ja": "手、で……",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "651c42e0",
+      "speaker": "フニ",
+      "ja": "ふぇっ！？",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "69cddf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こ、こいつ！　何勝手に……！　オイ！　俺の口からヘンなこと言うなっ！）",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "398d166a",
+      "speaker": "フニ",
+      "ja": "手……手って、その……生者ちゃんのを手ですればいいの……？",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "ad183099",
+      "speaker": "{G_PlayerName}",
+      "ja": "コクコクコク",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "ff43898c",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ！　こ、こいつまた勝手に……！　フニ、待って！　手って言ったのも頷いたのも俺の意思じゃないから！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "9faa4d59",
+      "speaker": "フニ",
+      "ja": "う、うん……わかってる、けど……でも生者ちゃんも金縛りのままってわけにはいかないよね……？",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "27b08cc1",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはそうだけど……！",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "bb547a18",
+      "speaker": "フニ",
+      "ja": "心残りは無くしてあげなきゃ……だからわたしに任せて……",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "3e1ead5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅ……！　フニ……う、あっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "b36b14ba",
+      "speaker": "",
+      "ja": "フニは震える手で俺のズボンのチャックを下ろすと、狭いズボンの中から肉棒が飛び出す。",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "58d7766",
+      "speaker": "",
+      "ja": "肉棒の大きさに驚きながらも、袖越しに肉棒にそっと触れ、僅かな刺激にもゾクゾクしたモノが背筋を駆けあがっていく。",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "57c28da1",
+      "speaker": "フニ",
+      "ja": "すごく、あつい……こ、これをコスコスすればいいんだよね……？",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "e2d6c663",
+      "speaker": "{G_PlayerName}",
+      "ja": "コクコクコクコク──！",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "21b0aba",
+      "speaker": "{G_PlayerName}",
+      "ja": "──お、お前……！　また勝手に……！！",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "3fd0a82",
+      "speaker": "フニ",
+      "ja": "そんなに怒らないであげて……わたし、別にイヤじゃないから……",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "4826db87",
+      "speaker": "フニ",
+      "ja": "だって……今触れているのは生者ちゃんのなんだから……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "1451ed86",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うう……あぁ……！！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "81b5de66",
+      "speaker": "",
+      "ja": "困惑しながらも肉棒をクニクニと両手で弄り、思わず口から声が漏れてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "69fc27a2",
+      "speaker": "フニ",
+      "ja": "それに成仏させてあげなきゃ……",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "37705c88",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった、フニがそう言うなら……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "5fed53a9",
+      "speaker": "フニ",
+      "ja": "でもわたし、こういうのあまりよくわからないから……何かあったら言ってね",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "f8f11531",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　んぅ……！　う、くっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "cd8c168",
+      "speaker": "",
+      "ja": "フニは袖越しに肉棒を掴むと、ゆっくりと亀頭から陰茎を扱き始める。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "7d350c5c",
+      "speaker": "",
+      "ja": "スベスベした布地の刺激、そして袖越しに伝わってくるフニの柔らかな手の感触が、想像以上に快感をもたらす。",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "c70cbcd1",
+      "speaker": "フニ",
+      "ja": "こ、こんな感じでいいかな……？♥　わたし、ちゃんとできてる……？♥",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "1c5c8b46",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……すごく、気持ち、良い……くっ……！",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "284c0e9c",
+      "speaker": "フニ",
+      "ja": "ふふ……良かった……♥　それじゃあこのまま続けるね……♥",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "5dd845a3",
+      "speaker": "",
+      "ja": "恥ずかしそうに肉棒を見つめながら手コキをするフニは想像以上に可愛く、そして俺と俺に憑りつく悪霊を興奮させる。",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "a59697e3",
+      "speaker": "",
+      "ja": "口から勝手に声が漏れ出すが、その声が俺のなのか悪霊のなのか自分でも区別がつかない。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "f180383b",
+      "speaker": "",
+      "ja": "それでもフニは俺の反応を頼りに、戸惑いながら手コキを続ける。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "feb94a7f",
+      "speaker": "フニ",
+      "ja": "あ……おちんちんから何か出て……これ、おしっこ……？",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "f551cd6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違う……感じているって証拠、だと思って……はぁ、はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "36c7fd7d",
+      "speaker": "フニ",
+      "ja": "そっか……感じると透明なのが出てくるのね……♥　それじゃあこのままシコシコ続けるね……♥",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "dbf1b122",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……でもできればその……もっと強く握って扱いてくれると助かる……",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "5d9c4204",
+      "speaker": "フニ",
+      "ja": "強く……うん、わかった……♥",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "a65ee805",
+      "speaker": "",
+      "ja": "フニは俺の言葉に頷くと、小さな両手で肉棒をぎゅっと握りしめる。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "90f19e4",
+      "speaker": "",
+      "ja": "さらに手の速度が上がり、心地よくも甘く、強烈な快感に両足が震える。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "c8d23da",
+      "speaker": "フニ",
+      "ja": "（すごい……どんどんお汁が溢れてくる……♥　おちんちんもどんどん硬く、熱くなってきてる……♥）",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "76a6cc85",
+      "speaker": "フニ",
+      "ja": "（生者ちゃんが声を上げるたびに、胸がドキドキしちゃう……♥　あそこがきゅんって……♥）",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "f0f991df",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、ぐっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "e9d79e4",
+      "speaker": "フニ",
+      "ja": "あっ……！♥　い、今の痛かった……？♥　生者ちゃん、だいじょうぶ……！？♥",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "b0ab1462",
+      "speaker": "{G_PlayerName}",
+      "ja": "へ、へーき……い、今の感じでお願い……そうすれば……そのうち……ぐっ……！",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "58d56d75",
+      "speaker": "フニ",
+      "ja": "わ、わかった……♥",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "c29f4de1",
+      "speaker": "フニ",
+      "ja": "（今の感じ……裏側の筋みたいなの擦るといいのかな……？♥　ふあ、擦るとお汁がどぷって溢れて……ここ気持ち良いんだ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "d06da149",
+      "speaker": "フニ",
+      "ja": "（それにでっぱりのところも……♥　生者ちゃん、声がどんどん大きくなってる……♥　すごくエッチな声……♥）",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "5a23cd05",
+      "speaker": "フニ",
+      "ja": "（ああぁ……またあそこが疼いて……♥　わたしもエッチになっちゃっているのかな……♥　うう、よくわからないや……♥）",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "8e0e3d8b",
+      "speaker": "フニ",
+      "ja": "（今はとにかくおちんちんを気持ち良くして、生者ちゃんに取り憑いている人を成仏させてあげなきゃ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "f522e311",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　あぁあ゛っ……！　うう、くう……！！　ううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "94e72aef",
+      "speaker": "フニ",
+      "ja": "お汁さらに溢れてきてるよ……♥　もうすぐ満足できちゃいそうかな……？♥",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "8bba32b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……もうすぐ……ぐっ……！　腰が……！！",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "b213dcf5",
+      "speaker": "",
+      "ja": "俺の取り憑いている悪霊が腰をぐっと前に押し出し、フニの綺麗な顔に肉棒が近づく。",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "d8441e95",
+      "speaker": "",
+      "ja": "フニは小さく声を上げ驚くが逃げもせずに眼前で肉棒を見つめ、手コキを続ける。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "8d33f11d",
+      "speaker": "フニ",
+      "ja": "（う、あ……すごい匂い……なんだか男の人の匂いって感じ……♥　ああぁ、またあそこが……♥　疼きが止まらない……身体、熱くなってきてるぅ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "aa608253",
+      "speaker": "{G_PlayerName}",
+      "ja": "フニ……も、もう……！",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "21f51ed5",
+      "speaker": "フニ",
+      "ja": "あ、う、うん……もうすぐ満足できるんだね？♥　満足して未練を残さずに成仏して……♥　それがあなたの幸せなんだから……♥",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "f5b05526",
+      "speaker": "{G_PlayerName}",
+      "ja": "あああっ！　出るっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "35efe4e5",
+      "speaker": "フニ",
+      "ja": "えっ！？♥　出る？♥",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "741e96a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "くうううっ……！！",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "810d3327",
+      "speaker": "フニ",
+      "ja": "きゃあぁぁっ！！♥　う、あ……！♥　あ、熱いぃ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "54cf1820",
+      "speaker": "",
+      "ja": "フニの顔目掛けびゅるびゅると精液が肉竿を駆け上がり吐き出される。",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "c3e3672f",
+      "speaker": "",
+      "ja": "顔に掛けるつもりはなかったが、金縛りで身動きが取れずびちゃびちゃと白濁したモノがフニの透き通るような肌に当たる。",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "f0a3a6e6",
+      "speaker": "フニ",
+      "ja": "うああ……♥　どろどろになっちゃった……♥　こ、これ……男の人の……♥",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "bcc69f89",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……すまん、顔に掛けるつもりはなかったんだけど……！",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "1cc4ddab",
+      "speaker": "フニ",
+      "ja": "ううん、いいの……気にしないで……♥",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "6d19106e",
+      "speaker": "フニ",
+      "ja": "（たまにお墓で逢引しているカップルがいたけど、そういえば男の人が真っ白なのを出していたような……♥）",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "f8b5d112",
+      "speaker": "フニ",
+      "ja": "（これがそうなんだ……♥　あぁ、これが男の人が満足するってことだったんだ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "cb0fc16a",
+      "speaker": "フニ",
+      "ja": "（それにしてもすごい匂い……強烈の一言……♥　ああ、でも不思議と不快に思えない……♥　生者ちゃんが出したものだからなのかな……♥）",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "ca972dc7",
+      "speaker": "フニ",
+      "ja": "（あぁぁ……胸のドキドキがまた……♥）",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "6d6434cb",
+      "speaker": "フニ",
+      "ja": "あ、あれ……？♥　生者ちゃん……？♥　まだ幽霊が取り憑いたまま……？♥　満足したんじゃないの……？♥",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "a3961674",
+      "speaker": "{G_PlayerName}",
+      "ja": "コクコクコク──！",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "4d08a54f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　こいつ、また勝手に頷いて……！",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "97bf4931",
+      "speaker": "フニ",
+      "ja": "そう、なんだ……♥　一度じゃ満足しないものなんだね……♥",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "7d55d13d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまないフニ……でもイヤならこれ以上続けなくても……悪霊もそのうちどっか行くだろうし……",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "5c527fd4",
+      "speaker": "フニ",
+      "ja": "ううん、それじゃあダメだよ、取り憑いている人成仏できないから……♥",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "fcde0bf0",
+      "speaker": "フニ",
+      "ja": "わたしなら平気だから……♥　だからもっとしてあげるね……♥",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "aad447f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "んお゛っ……！　く、うう……！！",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "8ae7c9",
+      "speaker": "",
+      "ja": "射精で過敏になっていた亀頭を袖で擦り上げられ、思わず口から声が漏れ出す。",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "f09c1580",
+      "speaker": "",
+      "ja": "その声が自分の声なのか悪霊の声なのか、それすらもわからず快感とともに静かな墓地に男の喘ぎ声が響いた。",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "f15e3854",
+      "speaker": "フニ",
+      "ja": "（さっきより声が出てる……♥　気持ち良いのかな……？♥　なんてエッチな声なの……♥　聞いてるだけで胸の高まりがとまらなくなっちゃう……♥）",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "ef88883e",
+      "speaker": "フニ",
+      "ja": "（なんだか少し楽しくなってきちゃった……♥　もっと生者ちゃんを感じさせたい……♥　気持ち良くしてあげたい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "88efbc70",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！　そ、そんな強く……くう、うう……ふぅぅうっ！",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "ea54f60d",
+      "speaker": "",
+      "ja": "フニは精液と先走りを肉竿に刷り込むように強く扱き、両足が震えるほどの快感が走る。",
+      "zh": ""
+    },
+    {
+      "key": "400.0",
+      "line_index": 400,
+      "inline_index": 0,
+      "line_hash": "dd63edbd",
+      "speaker": "",
+      "ja": "手コキのコツを掴んできているのか、的確に感じるポイントのみを扱き、新たな快感に喜ぶようにカウパーが鈴口からドプドプと溢れる。",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "ddb4429b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐうう、ぐうううっ！　ふっ、ふあ……あっ！　うう、くうっ……ふぅ……！　んおっ！",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "2a61e39f",
+      "speaker": "フニ",
+      "ja": "も、もう……エッチな声出すのきんしーっ♥　ここは神聖なお墓なんだからねっ？♥　ふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "c6dd5c4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "む、無茶言うなよ……あうっ！　声抑えられるわけないって……！",
+      "zh": ""
+    },
+    {
+      "key": "414.0",
+      "line_index": 414,
+      "inline_index": 0,
+      "line_hash": "42aa2805",
+      "speaker": "フニ",
+      "ja": "それでも禁止っ♥　ほらほら、静かに気持ち良くなって♥",
+      "zh": ""
+    },
+    {
+      "key": "417.0",
+      "line_index": 417,
+      "inline_index": 0,
+      "line_hash": "5d8a9c73",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううう゛っ！　う、うくぅっ！　ふぅーっ！　ぐ、うううう゛！！",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "17ec0542",
+      "speaker": "フニ",
+      "ja": "（ふふ……声を必死に我慢して……カワイイ♥　生者ちゃんのこんな一面を見ることができるなんて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "31145d1b",
+      "speaker": "フニ",
+      "ja": "（悪霊に取り憑かれて生者ちゃんにとっては災難だと思うけど、わたしにとっては幸運なことなのかも……♥）",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "9b11f99d",
+      "speaker": "",
+      "ja": "フニは頬を僅かに緩め、手の動きをどんどん速めていく。",
+      "zh": ""
+    },
+    {
+      "key": "427.0",
+      "line_index": 427,
+      "inline_index": 0,
+      "line_hash": "d11a6343",
+      "speaker": "",
+      "ja": "静かな墓地に肉棒を扱くぐちゅぐちゅしたいやらしい音が、俺の喘ぎ声とともに響く。",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "23cd71",
+      "speaker": "フニ",
+      "ja": "生者ちゃんってココを強くシコシコされるのが一番声出ちゃうんだね♥",
+      "zh": ""
+    },
+    {
+      "key": "433.0",
+      "line_index": 433,
+      "inline_index": 0,
+      "line_hash": "54138097",
+      "speaker": "フニ",
+      "ja": "エッチなお汁もどんどん溢れてきてる……♥　幽霊相手にこんなにエッチになっちゃって♥",
+      "zh": ""
+    },
+    {
+      "key": "436.0",
+      "line_index": 436,
+      "inline_index": 0,
+      "line_hash": "ac22052d",
+      "speaker": "{G_PlayerName}",
+      "ja": "フニの手コキが気持ち良すぎるんだよ……ううう！　せ、生前はかなり遊んでいただろ……くっ！",
+      "zh": ""
+    },
+    {
+      "key": "440.0",
+      "line_index": 440,
+      "inline_index": 0,
+      "line_hash": "e40e29ef",
+      "speaker": "フニ",
+      "ja": "遊んでなんていませんーっ♥　もう失礼しちゃうなっ♥　そんな生者ちゃんにお仕置きっ♥　ぐちゅぐちゅぐちゅぅっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "443.0",
+      "line_index": 443,
+      "inline_index": 0,
+      "line_hash": "b1256d8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あひっ！♥　あ、あ……！　ま、待って！　そんなされたらまた出てしまうっ！",
+      "zh": ""
+    },
+    {
+      "key": "447.0",
+      "line_index": 447,
+      "inline_index": 0,
+      "line_hash": "a38bb773",
+      "speaker": "フニ",
+      "ja": "いいよ、またびゅるびゅるして……♥　生者ちゃんに取り憑いている人が満足しなきゃ終わらないんだから♥",
+      "zh": ""
+    },
+    {
+      "key": "450.0",
+      "line_index": 450,
+      "inline_index": 0,
+      "line_hash": "879a811c",
+      "speaker": "フニ",
+      "ja": "またわたしにいっぱいかけて……♥　いっぱいぴゅっぴゅして、気持ち良く成仏して♥",
+      "zh": ""
+    },
+    {
+      "key": "452.0",
+      "line_index": 452,
+      "inline_index": 0,
+      "line_hash": "e1e28b2",
+      "speaker": "",
+      "ja": "俺に取り憑く悪霊が再び腰を前に突き出し、フニの眼前に肉棒を近づける。",
+      "zh": ""
+    },
+    {
+      "key": "453.0",
+      "line_index": 453,
+      "inline_index": 0,
+      "line_hash": "841ec99e",
+      "speaker": "",
+      "ja": "フニの息が僅かに肉棒の先端にかかり、それだけで気持ち良くなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "455.0",
+      "line_index": 455,
+      "inline_index": 0,
+      "line_hash": "854a4b2b",
+      "speaker": "",
+      "ja": "フニは肉棒の匂いを吸い込むように大きく息をしながら、さらに肉棒を扱き俺を追い詰めていく。",
+      "zh": ""
+    },
+    {
+      "key": "458.0",
+      "line_index": 458,
+      "inline_index": 0,
+      "line_hash": "ce5724b0",
+      "speaker": "フニ",
+      "ja": "おちんちん震えてる……♥　もう出ちゃいそう……？♥",
+      "zh": ""
+    },
+    {
+      "key": "461.0",
+      "line_index": 461,
+      "inline_index": 0,
+      "line_hash": "8d7eb837",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……もう限界……！　すまん、また出すから……！",
+      "zh": ""
+    },
+    {
+      "key": "465.0",
+      "line_index": 465,
+      "inline_index": 0,
+      "line_hash": "9f1c36a5",
+      "speaker": "フニ",
+      "ja": "うん、出して……またお顔にいっぱいかけて……♥　あなたのいやらしい匂いでわたしをもっとエッチにさせて……♥",
+      "zh": ""
+    },
+    {
+      "key": "468.0",
+      "line_index": 468,
+      "inline_index": 0,
+      "line_hash": "17db38bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう、フニぃ……！　出る、出るっ！　う、うううう゛っ！！",
+      "zh": ""
+    },
+    {
+      "key": "483.0",
+      "line_index": 483,
+      "inline_index": 0,
+      "line_hash": "947d4bf8",
+      "speaker": "",
+      "ja": "びゅるびゅると熱いモノが何度も吹き出し、フニの顔を真っ白に汚していく。",
+      "zh": ""
+    },
+    {
+      "key": "485.0",
+      "line_index": 485,
+      "inline_index": 0,
+      "line_hash": "d46d748b",
+      "speaker": "",
+      "ja": "びちゃびちゃと精液を掛けられるたびにフニは甘い声を上げ、頬を緩ませながらオス汁を受け止める。",
+      "zh": ""
+    },
+    {
+      "key": "487.0",
+      "line_index": 487,
+      "inline_index": 0,
+      "line_hash": "15e65d87",
+      "speaker": "",
+      "ja": "そのいやらしくもカワイイ姿に余計に高ぶり、何度も精液が肉竿を駆け上がっていく。",
+      "zh": ""
+    },
+    {
+      "key": "490.0",
+      "line_index": 490,
+      "inline_index": 0,
+      "line_hash": "3f53fcb4",
+      "speaker": "フニ",
+      "ja": "さっきよりいっぱい出ていますね……♥　たくさん気持ち良くなってくれて何よりです♥",
+      "zh": ""
+    },
+    {
+      "key": "493.0",
+      "line_index": 493,
+      "inline_index": 0,
+      "line_hash": "96f5bb37",
+      "speaker": "フニ",
+      "ja": "あっ……！♥　生者ちゃんっ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "507.0",
+      "line_index": 507,
+      "inline_index": 0,
+      "line_hash": "63720ad4",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、ううう……！　急に金縛りが解けて……",
+      "zh": ""
+    },
+    {
+      "key": "510.0",
+      "line_index": 510,
+      "inline_index": 0,
+      "line_hash": "14522973",
+      "speaker": "",
+      "ja": "突然身体の自由が戻り、俺は力なくその場にへたり込む。",
+      "zh": ""
+    },
+    {
+      "key": "511.0",
+      "line_index": 511,
+      "inline_index": 0,
+      "line_hash": "a849cb1",
+      "speaker": "",
+      "ja": "フニの手コキで想像以上に感じてしまっていたのか、両足に力が入らなくなってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "515.0",
+      "line_index": 515,
+      "inline_index": 0,
+      "line_hash": "f282b374",
+      "speaker": "フニ",
+      "ja": "あ……生者ちゃんの中にいた人……いなくなったね……♥　満足して成仏してくれたのかな♥",
+      "zh": ""
+    },
+    {
+      "key": "518.0",
+      "line_index": 518,
+      "inline_index": 0,
+      "line_hash": "2013f56",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、かも……す、すまない、フニにエッチなことをさせてしまって……",
+      "zh": ""
+    },
+    {
+      "key": "522.0",
+      "line_index": 522,
+      "inline_index": 0,
+      "line_hash": "d4f20ae0",
+      "speaker": "フニ",
+      "ja": "ううん……♥　わたしは構わないよ♥　それより生者ちゃん、だいじょうぶ？♥",
+      "zh": ""
+    },
+    {
+      "key": "525.0",
+      "line_index": 525,
+      "inline_index": 0,
+      "line_hash": "bcfa3804",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……少し休めば回復すると思うから……",
+      "zh": ""
+    },
+    {
+      "key": "529.0",
+      "line_index": 529,
+      "inline_index": 0,
+      "line_hash": "8d599e78",
+      "speaker": "フニ",
+      "ja": "それなら回復するまで傍にいるね♥　また幽霊に取り憑かれたら困るだろうしね♥",
+      "zh": ""
+    },
+    {
+      "key": "531.0",
+      "line_index": 531,
+      "inline_index": 0,
+      "line_hash": "5c09f136",
+      "speaker": "",
+      "ja": "フニはちょこんと俺の傍に座り、そっと身体を預けてくる。幽霊なのにまるで生きているようなぬくもりに俺もほっこりとしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "533.0",
+      "line_index": 533,
+      "inline_index": 0,
+      "line_hash": "6c48bb1e",
+      "speaker": "",
+      "ja": "そして当初の目的を果たすように俺とフニは、朝まで他愛のない話に花を咲かせるのだった。",
+      "zh": ""
+    }
+  ]
+}

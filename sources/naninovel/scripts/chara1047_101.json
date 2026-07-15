@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "f124ed2e",
+      "speaker": "プリズム",
+      "ja": "酷いです～～！！",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "723359c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "9348505e",
+      "speaker": "",
+      "ja": "急いで星を出発したせいで、プリズムの店に戻る約束を果たせずにいた{G_PlayerName}たち。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a4f338a1",
+      "speaker": "",
+      "ja": "落ち着いた後に再び店に顔を出してみたのだが、プリズムは顔を輝かせた後に目を潤ませて悲しみを叫んだ。",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "aa2f8b53",
+      "speaker": "プリズム",
+      "ja": "何かご事情があるんだろうなとは思ってましたが……まさか挨拶もせずに行ってしまうとは……",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "5a5f2b43",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に申し訳ない……",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "67a1c81a",
+      "speaker": "プリズム",
+      "ja": "それじゃあ……反省の証として、今日はたくさん衣装を見せてくださるんですよね？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "6ae863f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "勿論だ！　ルミナたちからも私服預かってきたぞ！",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "5b274fb3",
+      "speaker": "プリズム",
+      "ja": "わぁ……！！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "c5a8a4a1",
+      "speaker": "プリズム",
+      "ja": "えへへ、しばらくひとり寂しく待ちぼうけした甲斐がありました……！",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "4d5b3b38",
+      "speaker": "",
+      "ja": "プリズムは非難もそこそこに、手袋をつけなおして持ちこまれた衣装を丁寧な手つきで広げていく。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "a8a0212f",
+      "speaker": "",
+      "ja": "それはまるで宝石を扱うのように丁重な手つきであった。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "70d0cc9f",
+      "speaker": "プリズム",
+      "ja": "すごい……！　やっぱりルミナさんの衣装はボタンでもジッパーでもない留め方ですね……！",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "cc130835",
+      "speaker": "",
+      "ja": "服を縫い目まで観察しているプリズムを見守りながら、{G_PlayerName}は店内を観察する。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "95554bb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごいな……このランプ、全部プリズムが作ったんだな……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "f5779788",
+      "speaker": "プリズム",
+      "ja": "あ、ええ……！　実力不足でお恥ずかしいのですが……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "cbe6ff20",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ、声に出てたか！？　すまん、邪魔するつもりじゃなかったんだがつい独り言が……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ce63812e",
+      "speaker": "プリズム",
+      "ja": "いえいえ。お褒めいただいてとても嬉しいです！",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "b4f89add",
+      "speaker": "プリズム",
+      "ja": "全部その時の全身全霊を注ぎ込んで作った可愛い作品たちなのですが、まだまだ熱の扱い方等が未熟で……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "c1c78866",
+      "speaker": "{G_PlayerName}",
+      "ja": "すごい鮮やかで綺麗なのに……やっぱ職人って謙虚じゃないと務まらない生き物なのかな",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "74f99249",
+      "speaker": "{G_PlayerName}",
+      "ja": "(俺は完成品見てすぐ調子に乗ってしまうから、見習わないと……)",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "36c052fe",
+      "speaker": "プリズム",
+      "ja": "そ、そうでしょうか……？　そんな風に面と向かって言っていただいたことがないので、は、恥ずかしいです……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "6f58e58b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……！？　おいおい！　泣かないでくれ！",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "729cbdea",
+      "speaker": "プリズム",
+      "ja": "か、顔が熱くて、つられて目頭まで熱く……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "67c321c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "意外と熱血というか、情熱的なんだなプリズムって",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "c0db2396",
+      "speaker": "プリズム",
+      "ja": "か、からかわないでくださ～～い！！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "4bc753ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "かっ、からかってない！　本心だし、そんな変なこと言ってないだろ！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "7e3b65c2",
+      "speaker": "プリズム",
+      "ja": "うう……あたしの作るランプは一部を除いてほぼ嗜好品ですから、無駄なこだわりって思われがちで……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "bbe23bef",
+      "speaker": "プリズム",
+      "ja": "でも、機械士さんも同じ工芸家ですもんね。こだわりを情熱って思っていただけるのは嬉しいです",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "a6b98534",
+      "speaker": "{G_PlayerName}",
+      "ja": "工芸家というより、ただの趣味だが……プリズムはこれで生計立ててるんだから立派だよ",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "2d61cbe6",
+      "speaker": "プリズム",
+      "ja": "ふふ。もしよければ{G_PlayerName}さんの作品をここに置いてみます？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "b62c12db",
+      "speaker": "プリズム",
+      "ja": "お客様のための作品作りを経験をすると、さらなるインスピレーションが湧くかもしれません",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "52eb5b5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　お、俺の作ったガラクタをここに……？",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "30189270",
+      "speaker": "",
+      "ja": "{G_PlayerName}は魅力的な提案に考え込む様子であったが、少しすると首を小さく振った。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "b46c687b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがたい話なんだが……俺の作ったものはどう動くか分からない危なさがあるから、今回は辞退させてもらうよ",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "8f4df4ad",
+      "speaker": "プリズム",
+      "ja": "そうですか？　でも、いつでもお待ちしてますよ",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "6b74b71d",
+      "speaker": "プリズム",
+      "ja": "あっ、すみません、話に夢中になって時間かけちゃってますね……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "f73a8c55",
+      "speaker": "{G_PlayerName}",
+      "ja": "気にしないでくれ。急いでないし、店内を見てたら飽きないし",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "db56fee4",
+      "speaker": "プリズム",
+      "ja": "ありがとうございます……♪",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "fafb9b31",
+      "speaker": "",
+      "ja": "店内は静かであった。",
+      "zh": ""
+    },
+    {
+      "key": "89.2",
+      "line_index": 89,
+      "inline_index": 2,
+      "line_hash": "fafb9b31",
+      "speaker": "",
+      "ja": "しかし2人にとってそれは気まずい静寂ではなかった。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "591e347",
+      "speaker": "",
+      "ja": "互いにクリエイターとして尊重し合う関係性を、それぞれが心地よく感じていた。",
+      "zh": ""
+    }
+  ]
+}

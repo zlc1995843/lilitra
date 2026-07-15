@@ -1,0 +1,454 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "f5aa67e3",
+      "speaker": "紅葉",
+      "ja": "ふふ～ん♪　ふふふ～ん♪　ふ～ん♪",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "fd5b700a",
+      "speaker": "紅葉",
+      "ja": "──何奴ッ！？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "8eddc209",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うおおおおっ！？",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "56fa3622",
+      "speaker": "紅葉",
+      "ja": "なんだ{G_PlayerName}か。どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "29fc31ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "どどどどっ、どうかって……！　な、ナイフ……ナイフ飛んできたぞっ！？",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "811b53b",
+      "speaker": "紅葉",
+      "ja": "クセ者かと思った。突然女の部屋のドアを開ける{G_PlayerName}が悪い。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "e4d564f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "たっ、確かに声を掛けずにドアを開けたのは失礼だったけど……！　でもだからって……！",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "58b42acd",
+      "speaker": "紅葉",
+      "ja": "部屋にいようとも常在戦場を忘れるべからず。それだけのこと。",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "163a22d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……すまなかった。全面的に俺が悪いな……次からは声掛けるから、もうナイフを投げたりしないでくれよ？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "8ba45c29",
+      "speaker": "紅葉",
+      "ja": "理解してくれて助かる。それで何か用事か？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "aec15ec2",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……用事あったんだけど、今ので頭から吹き飛んでしまった……。俺何しに紅葉の部屋に来たんだっけ……？",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "39c3b5fb",
+      "speaker": "紅葉",
+      "ja": "そんなこと私に聞かれても困るが。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "cd2223c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだよな……すまん、出直し……ん？　もしかして武器の手入れをしていたのか？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "4bc6109f",
+      "speaker": "紅葉",
+      "ja": "ああ。武器は小まめに手入れをしないと切れ味が鈍る。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "e91a299e",
+      "speaker": "紅葉",
+      "ja": "常に最良の状態を維持しなくてはならない。暗殺者とはそういうもの。",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "cf81202c",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……なぁ、せっかくだし見学してもいいか？　整備道具の手入れとかするし、何かの参考になるかもしれないからさ",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "39988463",
+      "speaker": "紅葉",
+      "ja": "構わないが、別に面白い物でもないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "69d3fb24",
+      "speaker": "{G_PlayerName}",
+      "ja": "参考程度に見たいだけだから",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "40daf694",
+      "speaker": "紅葉",
+      "ja": "それなら別にいいけど。",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "c84ca57e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、紅葉。しかしピカピカだな……まるで新品みたいだ",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "99262b49",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり仕事道具だからしっかりと手入れするんだな",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "f30fa476",
+      "speaker": "紅葉",
+      "ja": "別にそんなことはない。この程度は当然のこと。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "b9444ed7",
+      "speaker": "紅葉",
+      "ja": "さっきも言ったが、切れ味を維持するにはこのくらい必要。{G_PlayerName}は仕事で使う道具をピカピカにしないのか？",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "79509dce",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の場合、ピカピカというよりもしっかり道具として目的を果たせるかが重要だからなぁ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "9c3827b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "スパナなんかも、ナットを回せればそれで十分だし",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "e665655e",
+      "speaker": "紅葉",
+      "ja": "なるほど。切れ味を求めない場合はそんな感じか。",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "ac29f215",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも紅葉の丁寧さを見たら、俺なんて何もしていないも同然かもしれない",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "50d1f37c",
+      "speaker": "{G_PlayerName}",
+      "ja": "壊れたりしたら新しいのと取り換えればいいと思っていたし……",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "775132c8",
+      "speaker": "紅葉",
+      "ja": "……道具として役目を果たせればそれでいい。正直以前も私はそんな感じだった。",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "5a748353",
+      "speaker": "紅葉",
+      "ja": "手入れも最低限。斬れなくなったら新しいのと交換すればいい、とな。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "cbc8df96",
+      "speaker": "{G_PlayerName}",
+      "ja": "今の俺と同じ考えだったんだな。じゃあ何で今はこんなに新品みたいにピカピカに磨くんだ？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "d017e985",
+      "speaker": "紅葉",
+      "ja": "正直なところ、わからない。でもこの子にはたくさん助けられた。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "82ecd36e",
+      "speaker": "紅葉",
+      "ja": "だから少しでも綺麗に、そして長く使えるように、そうしたいと思ったらピカピカにするようになっていた。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8a28a57a",
+      "speaker": "紅葉",
+      "ja": "私の話が伝わっていなかったらすまない、この気持ちは上手く言語化できない。",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "d7453ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、十分に伝わったよ。たぶんその剣が紅葉にとって一番手に馴染むものだったんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "89569084",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうのって愛着が沸くよな。俺のドライバーなんかもずいぶんと長いこと使っているけど、手に馴染み過ぎてほかのを使う気にはなれないしさ",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "e10e97a2",
+      "speaker": "紅葉",
+      "ja": "手に馴染む……愛着……なるほど。そういうことだったのか。",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "bd0cfc87",
+      "speaker": "紅葉",
+      "ja": "そういう風に考えたことは一度もなかった。私にとってこの子はただの刀ではなくなったのか。ふふ……",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "8f6f4c6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（紅葉って物騒なとこ多いけど、笑うとやっぱりカワイイな。できればずっとその笑顔を見せてくれてると嬉しいんだけど）",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "331f335e",
+      "speaker": "紅葉",
+      "ja": "ん……？　どうしたんだ？　そんなに人の顔を見て。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "f4429cf9",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、何でもない。そういえばこの剣って特別な剣だったりするのか？",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "ec10d4a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、有名な職人が作った一点ものとか、武器ってそういうのあるよな",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "297f1b61",
+      "speaker": "紅葉",
+      "ja": "いや、これは適当に見繕って買っただけだな。有名な人が作った刀は高額になるし。",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "409e6a18",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁ目的を果たせれば、そういう武器にこだわる必要はない、紅葉的にはそんなとこか",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "992dfba7",
+      "speaker": "紅葉",
+      "ja": "うん。値段にこだわっても良い仕事はできないから。",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "3cc8d0ee",
+      "speaker": "紅葉",
+      "ja": "今の私にはこの子がいればそれでいい。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "d3ef052a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱ笑うと反則だな、紅葉は……。うーん、どうにかして常にこの笑顔を見る方法はないのだろうか）",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "b719bcf9",
+      "speaker": "紅葉",
+      "ja": "なんだ？　さっきからニヤニヤして……。私の顔に何かついているのか？",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "6d8d1a8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "a64cbbd9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（紅葉笑顔化計画はしばらく封印しよう。そのうちチャンスあるとおもうし）",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "93088f28",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……ぅぅん……",
+      "zh": "唔……唔嗯……"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "44d856c0",
+      "speaker": "",
+      "ja": "{G_PlayerName}が目を覚ますと隣に気配を感じてハッとする。",
+      "zh": "{G_PlayerName}一觉醒来，感觉到身边有人，猛地一惊。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "9ee7ea70",
+      "speaker": "",
+      "ja": "そちらに目をやるとほぼ全裸のジラドがすやすやと寝息を立てていた。",
+      "zh": "转头一看，原来是几乎全裸的吉拉德，睡得正香呢。"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "d7b82417",
+      "speaker": "ジラド",
+      "ja": "むにゃむにゃ……もう食べられないのだぁ……",
+      "zh": "呜呜……已经吃不下了啦……"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "813aaceb",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんの夢を見てるのやら……",
+      "zh": "这是做的什么梦啊……"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "84563449",
+      "speaker": "",
+      "ja": "少し呆れつつも{G_PlayerName}はジラドの寝顔をまじまじと見つめる。",
+      "zh": "{G_PlayerName}有点无语，但还是忍不住盯着吉拉德的睡颜看了起来。"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "e694e7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……ジラドがフェラしてきて……あのまま寝ちゃってたのか",
+      "zh": "这样啊……吉拉德帮我口完……就那么睡着了啊。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "47ff65d6",
+      "speaker": "ジラド",
+      "ja": "すやすや～……すやすや～……",
+      "zh": "呼——呼——……呼——呼——……"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "b6a3aee9",
+      "speaker": "",
+      "ja": "無邪気な顔で眠っているジラドを見ていた{G_PlayerName}はしみじみとした感じで呟いた。",
+      "zh": "看着吉拉德天真无邪的睡相，{G_PlayerName}不由得有感而发。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "e6f3e730",
+      "speaker": "{G_PlayerName}",
+      "ja": "眠っていたら、この怪獣っ子も可愛いのにな……",
+      "zh": "睡着了的时候，这小怪兽还挺可爱的嘛……"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "c59aa0f9",
+      "speaker": "",
+      "ja": "その言葉が終わると同時にいきなりジラドがぱちっと目を覚ます。",
+      "zh": "话音刚落，吉拉德猛地睁开了眼睛。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "2bfe7fd3",
+      "speaker": "ジラド",
+      "ja": "う～……すごく失礼なことを言われた気がする……",
+      "zh": "唔……好像有人说了很没礼貌的话……"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "42348d89",
+      "speaker": "",
+      "ja": "少し寝ぼけた感じでジラドが辺りを見回すとすぐに{G_PlayerName}と目が合った。",
+      "zh": "吉拉德带着些许睡意环顾四周，目光一下就和{G_PlayerName}对上了。"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "5b04758e",
+      "speaker": "ジラド",
+      "ja": "ん……はっ！　あ～起きてる！　うししっ！　これでもっと遊べるな～！",
+      "zh": "嗯……哇！啊——你醒了！嘿嘿！这样就能多玩一会儿啦！"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "e0fb8604",
+      "speaker": "",
+      "ja": "まるで裸の体を隠そうとせずに無邪気にはしゃぐジラドだが、{G_PlayerName}の方はそうはいかない。",
+      "zh": "吉拉德丝毫不遮掩裸体，天真地闹腾着，可{G_PlayerName}就没那么自在了。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "fecf8fe5",
+      "speaker": "",
+      "ja": "ジラドの裸に股間が反応してしまい、すっかり勃起してしまっていた。",
+      "zh": "吉拉德的裸体让胯下起了反应，现在已经完全勃起了。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "e02512b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "だったら……こんな遊びをしよう",
+      "zh": "那……我们来玩玩这个吧。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "3e15e834",
+      "speaker": "",
+      "ja": "{G_PlayerName}が提案した遊びは、とてもエッチな遊びである。",
+      "zh": "{G_PlayerName}提议的游戏非常色情。"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "7fffd48c",
+      "speaker": "ジラド",
+      "ja": "んっ……♥　ほ、本当におまんこに入っちゃった……♥",
+      "zh": "嗯……♥ 真、真的插进小穴里了……♥"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "5b8baeba",
+      "speaker": "",
+      "ja": "いきなりおちんちんを挿入されたジラドは少しビックリしつつも頬を赤らめて微笑んでいた。",
+      "zh": "突然被鸡鸡插入的吉拉德有些吃惊，但还是红着脸露出了微笑。"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "b5728f29",
+      "speaker": "",
+      "ja": "驚いたのは{G_PlayerName}も一緒で、奔放な性格のジラドが性行為の事を知っているのが意外すぎ思わず質問してしまう。",
+      "zh": "更让{G_PlayerName}惊讶的是，连奔放不羁的吉拉德都对那档子事一清二楚，我没忍住就问出了口。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "f6bc6c02",
+      "speaker": "{G_PlayerName}",
+      "ja": "おまんこのこと知ってるのか？　ジラドが？",
+      "zh": "你居然连小穴的事都知道？吉拉德你？"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "48f53f7c",
+      "speaker": "ジラド",
+      "ja": "ばかにするなっ！　体の大事なところは教えてもらってるぞ！",
+      "zh": "别把人当傻子！身体要紧的地方我当然被教过！"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "83e86dfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなんだ……",
+      "zh": "是、是这样啊……"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "42770df7",
+      "speaker": "ジラド",
+      "ja": "それに……おまんこは好きな人にしか触らせちゃだめだってことも♥",
+      "zh": "还有啊……小穴是只能让喜欢的人碰的，我也知道♥"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "b6ef93cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "それってジラドが俺の事を……",
+      "zh": "也就是说，吉拉德对我……"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "93c82ba1",
+      "speaker": "",
+      "ja": "{G_PlayerName}は無自覚だとしても自分のことが好きだと告白したジラドをすごく可愛く思った。",
+      "zh": "即便只是无心，吉拉德这么坦率地告白喜欢自己，让{G_PlayerName}觉得可爱得不得了。"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "213b89a3",
+      "speaker": "",
+      "ja": "そしてたまらなくなった{G_PlayerName}はゆっくりと腰を動かし始める。",
+      "zh": "然后，{G_PlayerName}再也忍不住，缓缓动起了腰。"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "4167bf5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……くっ……うぅぅっ……",
+      "zh": "唔……呜……呃呃……"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "20b6c9ef",
+      "speaker": "",
+      "ja": "{G_PlayerName}が必死に抽送を繰り返すと、それを見てジラドは面白がりながら言った。",
+      "zh": "看着{G_PlayerName}拼了命地来回抽送，吉拉德一脸好笑地说："
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "ddc98cba",
+      "speaker": "ジラド",
+      "ja": "あははっ♥　そんなに夢中で腰を振って♥　ジラド様の中……そんなに気持ちいいのか～♥",
+      "zh": "啊哈哈♥ 这么起劲地挺腰啊♥ 进到吉拉德大人里面……那么爽吗～♥"
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "718bfb71",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……すごく……き、気持ちいい……はぁはぁ……",
+      "zh": "啊、啊啊……非常……很、很舒服……哈啊哈啊……"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "2682eed4",
+      "speaker": "",
+      "ja": "素直な言葉を口にしながら{G_PlayerName}がピストンを続けると、ジラドは少し照れた感じで頬を染め甘い声を漏らし始める。",
+      "zh": "嘴上说着直白的话，{G_PlayerName}依旧抽送不停，吉拉德有些害羞地脸红了，声音也越来越甜。"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "e16b74a3",
+      "speaker": "ジラド",
+      "ja": "あぁ、恋人同士がすることをジラド様もしちゃってる♥　あっ、あんっ♥",
+      "zh": "啊啊，这就是恋人间的事，吉拉德大人也在做呢♥ 啊、唔♥"
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "75d0aad4",
+      "speaker": "",
+      "ja": "そんなジラドの言葉に{G_PlayerName}の気持ちは高ぶって何度も腰を突き出した。",
+      "zh": "这样的吉拉德让{G_PlayerName}兴奋不已，狠命地一下下挺着腰。"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "cbdfb684",
+      "speaker": "ジラド",
+      "ja": "んっ♥　んんっ♥　おちんちんがおまんこの奥をたたいて♥　あふぅんっ♥　あっ♥　んはぁ♥",
+      "zh": "嗯♥ 唔嗯♥ 肉棒在捅小穴最里面♥ 啊呼呜♥ 啊♥ 嗯哈♥"
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "41e46461",
+      "speaker": "",
+      "ja": "普段は聞かないようなジラドの可愛らしい声に{G_PlayerName}の興奮はどんどん高まっていく。",
+      "zh": "平时听不到吉拉德发出这么可爱的声音，{G_PlayerName}越来越兴奋。"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "b0476d7d",
+      "speaker": "",
+      "ja": "その興奮に突き動かされるように{G_PlayerName}の腰は激しく前後した。",
+      "zh": "被这股兴奋催着，{G_PlayerName}的腰猛烈地前前后后。"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "210475a9",
+      "speaker": "ジラド",
+      "ja": "あっ♥　あっ♥　恋人同士はこんなに気持ちいいことするのか？♥　すごいっ♥　んはぁっ♥",
+      "zh": "啊♥ 啊♥ 原来恋人一起会这么舒服吗？♥ 好厉害♥ 嗯哈♥"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "90f42019",
+      "speaker": "",
+      "ja": "{G_PlayerName}が腰を突き出す度にジラドの体が小さく跳ねる。",
+      "zh": "{G_PlayerName}每挺一下，吉拉德的小小身躯就跟着跳一下。"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "8de9d7de",
+      "speaker": "",
+      "ja": "目一杯広がった膣はすっかり熱くなってネットリとした汁を溢れさせた。",
+      "zh": "被完全撑开的小穴变得又热又黏，汁液都溢出来了。"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "25147a6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……すごく狭いけど……濡れてきて……うっ……うぅっ",
+      "zh": "唔……虽然紧得要命……但已经湿了……啊……嗯……"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "62ed2e0f",
+      "speaker": "",
+      "ja": "徐々にピストンが激しくなっていくとジラドのおまんこがひくひくと蠢いて{G_PlayerName}のおちんちんに強く吸い付いていく。",
+      "zh": "越抽插越激烈，吉拉德的小穴紧紧吸住{G_PlayerName}的肉棒，往里吞。"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "a75bf31c",
+      "speaker": "ジラド",
+      "ja": "はうぅんっ♥　いいのだぁ♥　すごく気持ちいいのだぁ♥　あんっ♥　んはぁぁぁ♥",
+      "zh": "哈嗯♥ 好舒服♥ 爽死啦♥ 啊♥ 嗯哈啊啊♥"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "968b524d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺も……すごくいい……ジラドのおまんこ……すごくいいっ……",
+      "zh": "哦……我也……太爽了……吉拉德的小穴……太爽了……"
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "f77b2bfb",
+      "speaker": "",
+      "ja": "興奮が高まるほどに{G_PlayerName}の抽送は速まって、膣の奥を何度も激しくこね回した。",
+      "zh": "兴奋度越高，{G_PlayerName}抽送得越快，不停猛顶深处。"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "e87b9d27",
+      "speaker": "",
+      "ja": "その刺激にジラドは{G_PlayerName}に強く抱きついて自ら腰を振る。",
+      "zh": "那刺激让吉拉德紧紧抱住{G_PlayerName}，自己扭起了腰。"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "25c03e3d",
+      "speaker": "ジラド",
+      "ja": "おっ♥　おふぅ♥　くるぅ♥　おまんこの奥気持ちいい♥　あっ♥　はふぅ♥",
+      "zh": "哦♥ 哦呼♥ 去了♥ 小穴里面好舒服♥ 啊♥ 哈呼♥"
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "64985fe",
+      "speaker": "",
+      "ja": "大きな声で喘ぎながらジラドはどんどん高まっていった。",
+      "zh": "吉拉德大声娇喘着，越来越兴奋。"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "79bf0a6c",
+      "speaker": "",
+      "ja": "{G_PlayerName}も激しくピストンしたせいで、込み上げてくる感覚に襲われる。",
+      "zh": "{G_PlayerName}也激烈抽插，冲顶的快感席卷而来。"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "d323da33",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅ……も、もう……で、出る……ぅぅっ",
+      "zh": "呜呜……已经……已经……要射了……嗯唔……"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "53ed479",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそのまま大きく腰を突き出してジラドの膣奥に勢いよく射精した。",
+      "zh": "{G_PlayerName}顺势猛挺，在吉拉德穴里狠狠射了出来。"
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "7f2971eb",
+      "speaker": "ジラド",
+      "ja": "うっ、く……っ♥",
+      "zh": "啊……唔……嗯♥"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "d7c47b25",
+      "speaker": "",
+      "ja": "どくんどくんと熱い精液を注がれたジラドは目を細めかるい絶頂に達する。",
+      "zh": "吉拉德被灌了一肚子滚烫精液，眯起眼，攀上绝顶。"
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "6866428e",
+      "speaker": "",
+      "ja": "そんなジラドの中に{G_PlayerName}は全ての精液を注ぎ込み、いっぱいになった膣から白濁液が吹き出した。",
+      "zh": "吉拉德体内被{G_PlayerName}灌满了所有精液，涨满的小穴吹出白浊的粘液。"
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "7e0e196b",
+      "speaker": "ジラド",
+      "ja": "くぅぅ♥　おなかにいっぱい熱いの出てるぅ♥　な、なにこれぇ？♥",
+      "zh": "呜嗯♥ 肚子里热热的，好多东西流出来啦♥ 这、这是什么呀？♥"
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "629e09c2",
+      "speaker": "",
+      "ja": "彼女はオーガズムを理解しておらず、初めての感覚に戸惑っていた。",
+      "zh": "她还不懂什么是高潮，被这第一次的感觉弄懵了。"
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "cca5ef",
+      "speaker": "ジラド",
+      "ja": "あれ？　おまんこがおかしくなってる？　こんなの今までになかったのにぃ",
+      "zh": "咦？小穴变得好奇怪？以前从来不会这样的……"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "8a5f84c7",
+      "speaker": "",
+      "ja": "そんなジラドの耳元で{G_PlayerName}が囁きかける。",
+      "zh": "这时，{G_PlayerName}在吉拉德耳边低语。"
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "1d094fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジラドはイくって知らないのか？",
+      "zh": "吉拉德，你不知道什么叫“去了”吗？"
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "a38b63d7",
+      "speaker": "ジラド",
+      "ja": "あっ！　知ってる！　これがイくってことなのか？",
+      "zh": "啊！我知道这个！这就是要去了吗？"
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "a1d2b86c",
+      "speaker": "",
+      "ja": "初めての絶頂を知ったジラドは満足げな表情を浮かべた。",
+      "zh": "第一次体验到绝顶的吉拉德，露出了满足的神情。"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "e735e8c5",
+      "speaker": "",
+      "ja": "そしてジラドは無意識に快感を求めるように、くいくいと小刻みに腰を揺らしてしまう。",
+      "zh": "紧接着，吉拉德无意识地追寻快感，腰肢开始一下下轻轻地扭动起来。"
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "99e90431",
+      "speaker": "",
+      "ja": "それをジラドからの催促だと受け取った{G_PlayerName}は再び腰を動かして抽送を再開させた。",
+      "zh": "{G_PlayerName}将这理解为吉拉德的催促，于是重新动起腰，再度开始抽送。"
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "15c80062",
+      "speaker": "ジラド",
+      "ja": "ちょ、ちょっと待ってっ！　わたしもさっきイったんだからっ！",
+      "zh": "等、等一下！我刚才才去过啊！"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "b4611825",
+      "speaker": "{G_PlayerName}",
+      "ja": "何言ってるんだと……ジラドから腰を振って求めてきたくせに……",
+      "zh": "你在说什么啊……明明是你自己扭着腰来要的……"
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "e3e2d594",
+      "speaker": "",
+      "ja": "{G_PlayerName}の指摘にジラドは自分の腰が勝手にへこへこ動いていることに気づく。",
+      "zh": "被{G_PlayerName}这么一指，吉拉德才意识到自己的腰正不由自主地一挺一挺的。"
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "a09e9088",
+      "speaker": "ジラド",
+      "ja": "やだぁ♥　ジラド様の体おかしくなっちゃったぁ♥　なんで腰が勝手に動いちゃうのぉ♥",
+      "zh": "讨厌啦♥ 吉拉德大人的身体变得好奇怪♥ 腰怎么自己动起来了呀♥"
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "80eb6e5a",
+      "speaker": "",
+      "ja": "勝手に動く自らの体に戸惑いつつもジラドは自ら求めるように小さく腰を振り続けた。",
+      "zh": "尽管对不听使唤的自己感到困惑，吉拉德还是像主动求欢一样，继续轻轻晃着腰。"
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "7acd0f6e",
+      "speaker": "",
+      "ja": "その度に小さなおまんこが{G_PlayerName}のおちんちんを強く締め付ける。",
+      "zh": "每动一下，紧窄的蜜穴就把{G_PlayerName}的肉棒吸得更紧。"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "32a1300c",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅ……どろどろのおまんこが吸い付いてきて……す、すごいっ",
+      "zh": "唔……黏稠的小穴一直吸着不放……好、好厉害……"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "82002a32",
+      "speaker": "",
+      "ja": "あまりの快感に{G_PlayerName}は腰の動きを徐々に激しくさせていった。",
+      "zh": "快感太过强烈，{G_PlayerName}挺腰的动作渐渐激烈起来。"
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "6c923c8c",
+      "speaker": "",
+      "ja": "膣の奥を強く叩く抽送にジラドもどんどん感じていってしまう。",
+      "zh": "抽送一下下撞进最深处，吉拉德也越来越有感觉。"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "19882a6d",
+      "speaker": "ジラド",
+      "ja": "はぅぅん♥　すごいのらぁ♥　おまんこいい～♥　腰がかってにうごくぅ♥　もっとずぼずぼしてぇ♥",
+      "zh": "啊嗯嗯♥ 好厉害的说♥ 小穴好舒服～♥ 腰不听使唤地动着♥ 再用力插我嘛♥"
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "74b555f0",
+      "speaker": "",
+      "ja": "甘い声を上げながらジラドは{G_PlayerName}に強く抱きついて小さく腰を震わせ身悶えていった。",
+      "zh": "吉拉德发出甜腻的呻吟，紧紧抱住{G_PlayerName}，腰肢轻颤，身子不住地扭动。"
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "e9b860d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ジラド……すごいよ……うぅぅ……",
+      "zh": "啊啊……吉拉德……好厉害……呜……"
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "558a4bf5",
+      "speaker": "",
+      "ja": "{G_PlayerName}はジラドの可愛らしいリアクションに激しく興奮してピストンを加速させていく。",
+      "zh": "吉拉德那可爱的反应让{G_PlayerName}兴奋不已，活塞运动愈发猛烈。"
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "3f12b449",
+      "speaker": "",
+      "ja": "その突き上げにジラドは更に強く{G_PlayerName}に抱きついて体を密着させた。",
+      "zh": "被这么一顶，吉拉德抱紧了{G_PlayerName}，将身体贴得更紧。"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "d4873111",
+      "speaker": "ジラド",
+      "ja": "んんんっ♥　もうお前を離さないのだぁ♥　おふぅ♥　おっ♥　はふぅぅっ♥",
+      "zh": "嗯嗯嗯♥ 我再也不放开你了♥ 哦呼♥ 啊♥ 哈啊啊♥"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "6b7828b4",
+      "speaker": "",
+      "ja": "嬌声を上げながらジラドが腰をくいくいと動かすと、出入りする肉棒にぬるぬるに濡れた肉襞が絡みついて擦り上げる。",
+      "zh": "吉拉德娇吟着扭动腰肢，湿漉漉的肉褶缠住进出的肉棒，上下撩刮。"
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "d0c4ca2a",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}はさっき射精したばかりだけれどまた込み上げてくる感覚に襲われた。",
+      "zh": "那股刺激让{G_PlayerName}刚射过却又感觉要涌上来了。"
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "f43971e2",
+      "speaker": "ジラド",
+      "ja": "お前のおちんちんがびくびくしてるぅ♥　熱いおちんちんがおまんこにこすれるの気持ちいいのだぁ♥　はぁあぁ♥　んくぅぅぅっ♥",
+      "zh": "你的肉棒在一抽一抽的呢♥　热热的肉棒磨着小穴好舒服呀♥　哈啊♥　嗯呜呜♥"
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "df1eeb79",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺も……すごく気持ちよくて……またイきそうだ……",
+      "zh": "我也……好舒服……感觉又要射了……"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "1157ad3b",
+      "speaker": "ジラド",
+      "ja": "わたしもイくのだっ♥　またイくっ♥　あっ♥　あふぅぅっ♥",
+      "zh": "我也要去了♥　又要去了♥　啊♥　呼啊啊♥"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "d371f16",
+      "speaker": "",
+      "ja": "二人は互いに腰を振りながらどんどん登り詰めていく。",
+      "zh": "两人互相扭着腰，越来越接近高潮。"
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "9ccbb5fa",
+      "speaker": "",
+      "ja": "そのままラストスパートをかけるようにピストンが加速していった。",
+      "zh": "就这样，活塞运动加速冲刺起来。"
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "2fc10094",
+      "speaker": "ジラド",
+      "ja": "イくっ♥　イくっ♥　またイっちゃうっ♥　んんんっ♥　んはぁぁぁっ♥",
+      "zh": "去了♥　去了♥　又要去了♥　嗯嗯♥　嗯啊啊啊♥"
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "ff976712",
+      "speaker": "",
+      "ja": "あまりの快感に二人は抱き合ったまま小刻みに腰を震わせる。",
+      "zh": "强烈的快感让两人紧紧相拥，腰肢不住地颤抖。"
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "1ff7755d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、また……イくっ……うっ……くぅぅっ！",
+      "zh": "又、又要……射了……呜……呜呜！"
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "34d43f5b",
+      "speaker": "",
+      "ja": "堪えきれなくなった{G_PlayerName}はぴったりと腰をくっつけてジラドの膣の奥で一気に精液を放った。",
+      "zh": "终于忍不住的{G_PlayerName}紧贴着腰，在吉拉德阴道的深处一口气射出了精液。"
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "e49d3f49",
+      "speaker": "ジラド",
+      "ja": "はぁあああ～～～～っ！！♥♥",
+      "zh": "哈啊啊啊～～～～！！♥♥"
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "e4716812",
+      "speaker": "",
+      "ja": "おまんこの中で{G_PlayerName}のおちんちんが脈打つとジラドは大きな声を上げながら絶頂に達してしまう。",
+      "zh": "随着{G_PlayerName}的肉棒在小穴里搏动，吉拉德大声叫着达到了高潮。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "88eb0015",
+      "speaker": "",
+      "ja": "それと同時に子宮が降りてきて膣がぎゅっと締まり、まるで{G_PlayerName}の肉棒から精液を全て吸い取ろうとしているようだった。",
+      "zh": "与此同时，子宫下降，阴道紧紧收缩，仿佛要把{G_PlayerName}肉棒里的精液全部吸干。"
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "43792849",
+      "speaker": "{G_PlayerName}",
+      "ja": "（無意識に男から精子を搾り取ろうとするなんてエロすぎるだろっ！）",
+      "zh": "（无意识地从男人那里榨取精子，也太色了吧！）"
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "9ee9b761",
+      "speaker": "",
+      "ja": "{G_PlayerName}はそう思いながら締め付けてくる膣に射精し続ける。",
+      "zh": "{G_PlayerName}一边这么想着，一边对着紧紧收缩的阴道继续射精。"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "3b5d187e",
+      "speaker": "",
+      "ja": "そして本当に全ての精液を搾り取られて果てるのだった。",
+      "zh": "然后真的被榨干了所有精液，迎来了终结。"
+    }
+  ]
+}

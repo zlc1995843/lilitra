@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "d1feb785",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あー……疲れた……）",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "fc5e3dfb",
+      "speaker": "",
+      "ja": "必要な資材のために今日は何度も街と宇宙船の往復をした。",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "558b0002",
+      "speaker": "",
+      "ja": "おかげで出発が予定よりも早くなったので手伝った甲斐があったが、おかげで腕がパンパンになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "ae4ae744",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今日は風呂入ってもう寝よう……ん？）",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "6b32d1ef",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "c2174e95",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アポロじゃないか……外なんて眺めて何してるんだろ？）",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "7efedaa1",
+      "speaker": "",
+      "ja": "窓の外をぼーっと眺めていたアポロ。その表情は普段のアポロのままであったが、なんとなく疲れているように見える。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "c528ab7",
+      "speaker": "",
+      "ja": "機械なので、そんなわけもないのだが……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "6002bd59",
+      "speaker": "{G_PlayerName}",
+      "ja": "（身体の調子でも悪いのかな……？　義体の具合が良くないのだろうか……）",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "b78f37ba",
+      "speaker": "アポロ",
+      "ja": "ん……？　{G_PlayerName}さん、どうかなされたのですか？",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "a37cef62",
+      "speaker": "",
+      "ja": "表情を変えることなくアポロがこちらに振り向く。小さく機械の稼働音が聞こえた。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "8e267789",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ホログラムじゃないアポロ……なんだか、慣れなくて不思議な感じだ）",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "b6e2598d",
+      "speaker": "アポロ",
+      "ja": "……？？　なんですか？　人のことをジロジロと……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "6478826e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、何でも無い。それより、なんかボーッとしてるように見えたけど……新しい身体の調子でも悪いのか？　どっか故障してるとか？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "d2d7ea97",
+      "speaker": "アポロ",
+      "ja": "故障？　失礼な……！　ワタシの義体は、正真正銘の最新鋭ですよ",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "ef58450b",
+      "speaker": "{G_PlayerName}",
+      "ja": "すっ、すまん……！　なんか疲れているように見えて、それで……！",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "d2af80f8",
+      "speaker": "アポロ",
+      "ja": "疲れ……？　何故そのように見えたのか疑問ですね。有機体ではないので、疲れを感じることなど有り得ません",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "4ca84a58",
+      "speaker": "アポロ",
+      "ja": "外を眺めていたのは、アナタ方を真似ての行動です",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "f20f4d3f",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺達を真似て？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "75123373",
+      "speaker": "アポロ",
+      "ja": "船体に取り付けられた無数のカメラではなく、義体の瞳から直接風景を捉える……ワタシにとって結構新鮮で新たな経験を与えてくれます",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "ae5cc167",
+      "speaker": "{G_PlayerName}",
+      "ja": "へー……そういうもんなのか？　あ、それってもしかして写真で見る風景と、自分の目で直接見る風景が違って見えるとか、そんな感じなのか",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "ab1c1d94",
+      "speaker": "アポロ",
+      "ja": "そのような解釈で構わないかと……",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "79f06dd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう考えると今までのアポロと色々違いそうだな……身体を動かすのって不思議な感じとかしない？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "9b03f840",
+      "speaker": "アポロ",
+      "ja": "不思議……という感覚はワタシにはありませんが、違和感が起きないように義体は造られています。ただ、触覚は初めてのシステムなので",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "623f4055",
+      "speaker": "アポロ",
+      "ja": "今までは観ることしか出来なかったものに直接触れられるのは、可能な仕事が増えてワタシも誇らしいですね",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "5bf9d7de",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……それにしても、直接こうやってアポロと話せるのは嬉しいな。アポロもそう思ったりするだろ？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "e882631d",
+      "speaker": "アポロ",
+      "ja": "な、なんですか。決めつけるように……",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "56927d6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうでもなきゃ、人間の真似なんてしないだろ。体が手に入って、浮かれてるんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "3b54170e",
+      "speaker": "アポロ",
+      "ja": "ち、違います！　真似をしていた理由は……人間の目線がわかれば、宇宙船の対人システムの質を向上させられるからと判断しただけで……！",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "f6a84d27",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふーん……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "ab44f271",
+      "speaker": "アポロ",
+      "ja": "なんですか。ニヤニヤと……！",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "f05e7f60",
+      "speaker": "{G_PlayerName}",
+      "ja": "いつもより言い訳が多いなーって思ってな……俺たちの仲間みたいになれて嬉しいんだろ！",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "29176bfd",
+      "speaker": "アポロ",
+      "ja": "な、何をっ！？　誰がアナタ達のような、非効率で不衛生で軟弱な生命体に憧れますか……！！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "9f53bb94",
+      "speaker": "アポロ",
+      "ja": "た……確かにこの体があれば、物理的にマスターを助けられますし……宇宙船外でもある程度活動が出来るので、本来なら報告を受けるだけだったはずの体験も共有できますが……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "d2a7f191",
+      "speaker": "アポロ",
+      "ja": "ワタシの能力が向上し、奉仕する喜びが増えた。それ以上の事はありません！",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "52b4b293",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい、わかったわかった。アポロが本当に楽しそうでよかったよ",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "1401a3e4",
+      "speaker": "アポロ",
+      "ja": "なっ！　ですから……！",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "371aea03",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もこれからアポロといろんなとこに行けるって思うだけで嬉しいしな",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "900b5b97",
+      "speaker": "アポロ",
+      "ja": "……～～～！！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "a5109f80",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　おい、アポロ？",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "aee0ffa2",
+      "speaker": "",
+      "ja": "呼び止めるが、こちらを一瞥もせずにアポロはどこかへ行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "990cde72",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……今俺怒らせるようなこと言ったか……？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "1418dfb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "ac257414",
+      "speaker": "",
+      "ja": "と、思いきやすぐにアポロがこちらへと戻って来る。手に何か持っているようだが……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "2cff2100",
+      "speaker": "アポロ",
+      "ja": "こちらをどうぞ",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "a2ae1497",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！？　な、なんだこの紙の山……！",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "75c746a2",
+      "speaker": "",
+      "ja": "アポロが紙の束をこちらに押し付ける。ずっしりとした重量に、思わず情けない声が出てしまった。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "936085d4",
+      "speaker": "アポロ",
+      "ja": "これは過去の航行ログです",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "2a71fe0",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……はあ……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "ea61f7ce",
+      "speaker": "アポロ",
+      "ja": "ワタシと新たな経験をさせて差し上げましょう。希望場所をリストアップすることを推奨します",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "57c71e6e",
+      "speaker": "アポロ",
+      "ja": "原始的なアナタにも優しく、紙媒体に印刷してあげましたよ。さあ！",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "b1897bea",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、今から？　もう寝ようって思ってたんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "698668b1",
+      "speaker": "アポロ",
+      "ja": "今からです。いつも機械の作業でこの程度の夜ふかしは慣れっこでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "4d5afe34",
+      "speaker": "アポロ",
+      "ja": "向かう場所の選定条件は『ワタシが行く価値のある場所』です。ワタシが義体を得たからこそ、見える物が変わる場所を選んでください",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "fe4f67f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（素直なんだか、素直じゃないんだか……）",
+      "zh": ""
+    }
+  ]
+}

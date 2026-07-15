@@ -1,0 +1,418 @@
+{
+  "lines": [
+    {
+      "key": "9.1",
+      "line_index": 9,
+      "inline_index": 1,
+      "line_hash": "9130c852",
+      "speaker": "リルム",
+      "ja": "ここって何をするスペースなんだろう？　リビング？",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "79375f77",
+      "speaker": "少年",
+      "ja": "そうみたい。そういえばアポロさんがここのお菓子は自由に食べていいって言ってたよ、頂いちゃおうか",
+      "zh": ""
+    },
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "ede7ec2c",
+      "speaker": "リルム",
+      "ja": "食べる食べる～！　もぐもぐっ……ん～♥　おいし～♥",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "9898f190",
+      "speaker": "少年",
+      "ja": "ここの食べ物も美味しいよねぇ。機械で作ってるっていうのはよく分からないけど……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "b3dbeda6",
+      "speaker": "リルム",
+      "ja": "うーん、魔法じゃなくて機械で担ってるって話だけど、原理としては魔法の方に近そうな気がするけど……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "21be5d7a",
+      "speaker": "少年",
+      "ja": "見て見てリルム。大きな窓から宇宙が見えるよ",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "7f51043b",
+      "speaker": "リルム",
+      "ja": "わ～、ほんと……きれい～♥",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "85891e96",
+      "speaker": "少年",
+      "ja": "夢幻の国でちょっと見た気がするけど……でも、こんな風に他の惑星を外から見る機会があるなんて、すっごく不思議",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "fdd73aad",
+      "speaker": "リルム",
+      "ja": "だよねぇ……あっ、流れ星！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "356f5af2",
+      "speaker": "少年",
+      "ja": "えっ？　ほんとに？　どこどこ？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "63992fcb",
+      "speaker": "リルム",
+      "ja": "あ、消えちゃった",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "c5150395",
+      "speaker": "少年",
+      "ja": "う～……残念……。僕も見たかった",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "7a4519a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ、ここにいたんだな",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "4463de6c",
+      "speaker": "少年",
+      "ja": "あっ、{G_PlayerName}お兄さん",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "2210dca",
+      "speaker": "ルミナ",
+      "ja": "二人とも……楽しんで、くれてる……？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "6c4c6a55",
+      "speaker": "少年",
+      "ja": "はい！　とても楽しいです！",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "30e90d82",
+      "speaker": "リルム",
+      "ja": "もう、初めての事ばっかりでワクワクしちゃう♥",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "6a1349d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか、それは何よりだ。困ったことや、使い方が分からない道具とかあれば何でも聞いてくれよ",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "28372e7b",
+      "speaker": "リルム",
+      "ja": "それなら質問～。目の前に星が見えるけど、ぶつからないの？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "e9f70922",
+      "speaker": "ルミナ",
+      "ja": "えっと……すぐ近くに見える星も、本当はすごく遠くに、あるんだ……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "3cbf6521",
+      "speaker": "リルム",
+      "ja": "へ～、そうなんだ～。じゃあ近くに見えるくらい、大きいのかな？　すごいね",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "436ed528",
+      "speaker": "ルミナ",
+      "ja": "そう……あそこの星は、大体直径3000㎞くらい……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "c1d5e8c1",
+      "speaker": "少年",
+      "ja": "あんなにすぐ近くに見えているのに……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "6452a457",
+      "speaker": "{G_PlayerName}",
+      "ja": "君たちの星も、俺達の星みたいにあまり機械の文明が発達していないんだな",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "d7ba7de4",
+      "speaker": "リルム",
+      "ja": "そもそも、星から星への移動なんて想像したこともなかったよ",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "1a7eab94",
+      "speaker": "少年",
+      "ja": "そうだね……星座は見上げるもので、周りにああいう空が浮かんでるんだと思ってたし……",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "c71c3620",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙を想像だけで正確に理解するのはほぼ無理だもんなぁ。でも、怖くはないんだな？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "6d8dda3",
+      "speaker": "リルム",
+      "ja": "そうだね♪　私たちの友達のコレットが宇宙はロマンって言ってた意味が分かった気がする♪",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "dbdc5e59",
+      "speaker": "少年",
+      "ja": "……ここから僕達の星、見えるのかな？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "250eeca5",
+      "speaker": "リルム",
+      "ja": "どうかなぁ。自分の星なんて外から見たことないから、見えていても分からないかも",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "49a64ddf",
+      "speaker": "少年",
+      "ja": "確かに……でも僕達の星、綺麗な星だといいなぁ",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "69897395",
+      "speaker": "{G_PlayerName}",
+      "ja": "海があって、広い大地があって、天使が雲の上に天界を作っていて……ってことだよな",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "ad5b33b5",
+      "speaker": "ルミナ",
+      "ja": "想像だけでも……とても綺麗な星だと思う……♪　青と、白と、緑に包まれた、美しい命の星……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "86c61af0",
+      "speaker": "リルム",
+      "ja": "そっか、綺麗なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "8ec61cf7",
+      "speaker": "リルム",
+      "ja": "皆が一生懸命守ってる大地だもんね。絶対、綺麗だよね……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "4bc2896d",
+      "speaker": "少年",
+      "ja": "うん……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "2e2f187c",
+      "speaker": "",
+      "ja": "そのままリルムと少年は窓からぼうっときらめく星々を眺め続けている。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "f12b6561",
+      "speaker": "",
+      "ja": "{G_PlayerName}はその様子を見て、少し心配そうにルミナに耳打ちする。",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "db32c1f1",
+      "speaker": "",
+      "ja": "{G_PlayerName}:（ひょっとして、俺のせいでホームシックにさせちゃったかな？　いきなり違う星に来て、帰れるかどうか不安だろうしなぁ）",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "d135380d",
+      "speaker": "",
+      "ja": "ルミナはにこにこと嬉しそうに皆を眺めている。リルムたちはようやく窓から顔を離し、ルミナたちに話を戻す。",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "17bde20a",
+      "speaker": "少年",
+      "ja": "次の星って、どんな星でしょう？",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "9c3a5d64",
+      "speaker": "{G_PlayerName}",
+      "ja": "転移とやらがしやすいように、安定したところだと思う。観光がてら、探検してみよう",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "586be06",
+      "speaker": "ルミナ",
+      "ja": "思い出……に、なるといいな……♪",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "a1501f",
+      "speaker": "リルム",
+      "ja": "せっかくだから色々見て回って、帰ったら皆に自慢しよ～♪",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "1c8ef6f4",
+      "speaker": "少年",
+      "ja": "あははっ、そうだね！　美味しいものの話したらアロエもニカちゃんも羨ましがるだろうなぁ",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "7aa3a779",
+      "speaker": "",
+      "ja": "楽しそうに顔を寄せてくすくす笑い合うリルムたちに、思わず{G_PlayerName}からも笑みがこぼれた。",
+      "zh": ""
+    }
+  ]
+}

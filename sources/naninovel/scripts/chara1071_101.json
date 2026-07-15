@@ -1,0 +1,706 @@
+{
+  "lines": [
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "3f040dae",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジュリア、今時間あるかな？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "635dbff3",
+      "speaker": "ジュリア",
+      "ja": "ええ、ありますよ。何か御用ですか？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "cd710cfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ジュリアってさ、魔法使えるよね？　あれって誰にでもできるのかな？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "5f1c8d53",
+      "speaker": "ジュリア",
+      "ja": "一応は適正が必要ではありますけど、簡単なものでしたら誰でも使えるはずですね",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "5c441652",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ俺にも簡単な魔法なら使えるかもしれないってことか……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "3016db58",
+      "speaker": "ジュリア",
+      "ja": "確証はないですけど……試しにやってみますか？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "ed32aa73",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいのか？　それなら是非頼む！　今後何かの役に立つかもしれないし、覚えておいて損はないと思うしさ",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "87fc2c84",
+      "speaker": "ジュリア",
+      "ja": "ふふ、わかりました。私でよければお手伝いしますね",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "e83ef45",
+      "speaker": "ジュリア",
+      "ja": "んー……それでは最初は簡単な「水の発生」からしてみましょうか",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "a92afa29",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、水を出せるようになるのか！　指先からびゅーって出る感じ？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "8fb0b71e",
+      "speaker": "ジュリア",
+      "ja": "んー……そういうのはないですね。この魔法は大気を利用する魔法ですので、そういうのとは少し違うかもしれません",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "959e4d52",
+      "speaker": "ジュリア",
+      "ja": "水滴の発生する原理はわかりますか？　ようはあれを意図的に起こす……そんな感じの魔法です",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "a1b9115a",
+      "speaker": "{G_PlayerName}",
+      "ja": "水滴……それってキンキンに冷えた水の入ったコップに水滴がつく……そういう感じで良いのか？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "fb72fa7b",
+      "speaker": "ジュリア",
+      "ja": "そうです♪　その原理と同じです",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "5865bd5f",
+      "speaker": "ジュリア",
+      "ja": "見ていてください、今お手本を見せますので……ちょうどここにコップがありますから、今からこのコップに水を……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "9ca3ace9",
+      "speaker": "ジュリア",
+      "ja": "私の指が冷えた水だと想定してくださいね……。指先に魔力を集中させて……えいっ",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "d7018e5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "──うおっ！？　水が……！　す、すご……！　水滴ってどころじゃないぞ！　蛇口をひねったように水がでているじゃないか……！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "47d22fd",
+      "speaker": "ジュリア",
+      "ja": "ここの空気は程よい感じに水分が含まれていますから。乾燥しているようなところだと少し勝手が違うかもしれませんね",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "88d004f",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも指先に魔力ってのはイマイチわからないな……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "87278dc4",
+      "speaker": "ジュリア",
+      "ja": "んー……指先に意識を集中させる……そんなイメージですね",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "abc40651",
+      "speaker": "ジュリア",
+      "ja": "私の場合ですと、指先が冷たくなれ、そう思いながら意識を集中させていますね",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "d2b7cf4e",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……物は試しだ、やってみるか",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "23e4495d",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の中の魔力よ、指先に集まれ……冷えろ……冷えろ……冷えろ……冷えろ……！！",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "7acac19b",
+      "speaker": "{G_PlayerName}",
+      "ja": "冷えろ冷えろ冷えろ冷えろ……！　う、う、う、ううううううううう！！！",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "99de0e0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、ダメだ……！　何も起きないぞ……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "f441e188",
+      "speaker": "ジュリア",
+      "ja": "……みたいですね。ごめんなさい、私の教え方が悪くて……",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "42db2994",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、ジュリアが悪いわけじゃないって。俺に魔力が無いんだよきっと",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "18a538e5",
+      "speaker": "ジュリア",
+      "ja": "でも{G_PlayerName}さんに魔力が無いとは思えないのですよね……微かにですけど魔力を感じることもありますから",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "f988adbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に……？　じゃあそれを指先に集中させることさえできれば、俺も水を出せるはず、なんだよな",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "efd40db0",
+      "speaker": "ジュリア",
+      "ja": "そうですね。……あ、今思い出しましたけど、魔法が苦手な子供は「魔力の循環」が上手くできないというのがあります",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "77cb4a37",
+      "speaker": "ジュリア",
+      "ja": "ですので{G_PlayerName}さんもそれができるようになれば、きっと水の発生を起こせるようになると思います",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "ffa640e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "魔力の循環……うーん……身体の中で魔力がぐるぐるって動いている感じなのか……",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "b7355a1",
+      "speaker": "ジュリア",
+      "ja": "簡単に言うとそんな感じですね……でもイメージできませんよね……？",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "f8a9ae49",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん……正直なところまったく……そもそも魔力というのがイマイチわからないんだよなぁ……",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "553388a0",
+      "speaker": "ジュリア",
+      "ja": "魔力の循環を上手くできる方法があるのですけど、試してみますか？",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "9d4883c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……せっかくだししようか。何をすればいいんだ？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "11704651",
+      "speaker": "ジュリア",
+      "ja": "{G_PlayerName}さんは何もしなくても大丈夫です。互いの額を合わせるだけですから",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "d74a23fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "額……？",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "b013baac",
+      "speaker": "ジュリア",
+      "ja": "ええ、私が{G_PlayerName}さんに額を通して魔力を送り込みます。そうすることで{G_PlayerName}さんの身体に魔力が満たされていきます",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "11b5934e",
+      "speaker": "ジュリア",
+      "ja": "満たされた魔力が、今度は額を通して私の方に流れ込んでくる……そうして二人の間で魔力の循環を起こすわけです",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "7cc1f94f",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……でもその……なんで額を……？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "d0232db2",
+      "speaker": "ジュリア",
+      "ja": "額を合わせるのが一番相手との魔力のやり取りができるんですよ",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "7c36d95d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう、なのか……じゃあその……",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "22ff9bfd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それってジュリアの顔をすごく近くで見るってことだよな……。な、何だかキスするようなイメージが……ヤバ、なんか急に恥ずかしくなってきた……）",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "9d3c92c9",
+      "speaker": "ジュリア",
+      "ja": "（うう……額同士を合わせるって……{G_PlayerName}さんを近くですごく近くで感じることに……。何だか恥ずかしくなってきちゃった……）",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "6a2c585e",
+      "speaker": "ジュリア",
+      "ja": "（でも言い出したのは私だし、今更止めるなんて言えない、よね……）",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "6ce5e398",
+      "speaker": "ジュリア",
+      "ja": "そっ、それじゃあその、し、します……か？",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "8ae1c073",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、ああ……！　そ、そうだな、魔法使えるようになりたいし……",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "7538ebcd",
+      "speaker": "ジュリア",
+      "ja": "では失礼しますね……特に何も意識せず楽にしていてくださいね……",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "9f79d121",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "527a267f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ち、近……！　ジュリアの顔がこんなに目の前に……！！）",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "49034358",
+      "speaker": "ジュリア",
+      "ja": "（ああ……{G_PlayerName}さんの吐息、こんなに近くで……は、恥ずかしい……！）",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "82259e86",
+      "speaker": "ジュリア",
+      "ja": "あ、あの……目……閉じてもらえますか……？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "a50ccf1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……すまん……！　これでいい？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "10f4cf80",
+      "speaker": "ジュリア",
+      "ja": "は、はい、大丈夫です……それでは失礼しますね……",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "cdc8dd4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "──あ……",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "247c84e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何かが……流れ込んで……あ、暖かい……これがジュリアの魔力……？）",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "c422c30",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何だか優しさに包み込まれるような……心が落ち着いて、何かが満たさていく……）",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "16086882",
+      "speaker": "ジュリア",
+      "ja": "（あ……やっぱり{G_PlayerName}さんには魔力が僅かにある……すごく小さい、でもすごく力強い……）",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "e9bc240d",
+      "speaker": "ジュリア",
+      "ja": "（何だか{G_PlayerName}さんに守られているような、そんな気分になってくる……すごく安心できる……）",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "bc02ef86",
+      "speaker": "ジュリア",
+      "ja": "（胸が暖かくなる……♥　こんな素敵な魔力を持った人は初めて……♥　ずっと……ずっとこうしていたい……♥）",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "c63340d",
+      "speaker": "ジュリア",
+      "ja": "（でもそんなのダメだよね……。{G_PlayerName}さんに魔法を教えるのが目的なんだから……）",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "4f96ba77",
+      "speaker": "ジュリア",
+      "ja": "（名残惜しいけど、我慢しなきゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "f1a8744f",
+      "speaker": "ジュリア",
+      "ja": "──ふぅ……終わりました、これで一通りの循環は出来たと思います",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "439c8c34",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……なんか今なら魔力の循環というのがわかるような気がする……。何か暖かいのが身体を巡っている感じ……",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "241ad808",
+      "speaker": "ジュリア",
+      "ja": "ではその感覚を忘れないうちに、先ほどのをもう一度してみましょうか",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "a0b7211",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……よし、やるぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "a5ae9a7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……んんんん……んんんんんん……",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "13ad28d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（おお……！　身体の中の暖かいのがグルグル動いているのがわかる……！　これを指先に……集中を……！）",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "354243d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（冷えろ……冷えろ、俺の指先……！　冷えろ……！）",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "77cc4fc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんんん……ダメだ、冷える感じが全然しない……",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "1850fefa",
+      "speaker": "ジュリア",
+      "ja": "そ、そうですか……ごめんなさい、私の魔力循環が上手くいかなかったみたいで……",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "f4593a78",
+      "speaker": "{G_PlayerName}",
+      "ja": "謝らないでくれよ。魔力の循環ってのは少しわかったかもしれない……何かが身体の中を巡っていたのはわかったしさ",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "38ad2bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "感覚的なことだから言葉に上手くできないけど、何となくイメージは出来たような気がする。ありがとう、ジュリア",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "ae82193c",
+      "speaker": "ジュリア",
+      "ja": "それなら良かったです。魔力の循環さえできればきっと{G_PlayerName}さんも魔法が使えるようになるはずですから",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "5cfadb69",
+      "speaker": "ジュリア",
+      "ja": "確かにあなたの中に魔力があるのは確認できましたから",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "adbbbbb1",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら希望はありそうだ……！　今後もジュリアに色々教えてもらってもいいかな？　魔法使えるようになりたいしさ",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "5e24e0d0",
+      "speaker": "ジュリア",
+      "ja": "私で良ければ喜んでお手伝いさせていただきます。ふふふ♪",
+      "zh": ""
+    }
+  ]
+}

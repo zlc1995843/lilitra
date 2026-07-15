@@ -1,0 +1,373 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "1b0d14b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……やっと着いたけど……あ、暑い……",
+      "zh": ""
+    },
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "38645c9b",
+      "speaker": "ゼミア",
+      "ja": "おいおい……この程度の暑さでバテるとは、情けないな",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "8ec3829a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう言われても……環境に慣れていないんだから仕方ないだろ",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "d661a234",
+      "speaker": "ゼミア",
+      "ja": "ふん……やはりそうか",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "1b304f80",
+      "speaker": "{G_PlayerName}",
+      "ja": "やはりって、どういうことだ？　どうして俺をこんな砂漠に？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "cfe7d1d6",
+      "speaker": "ゼミア",
+      "ja": "砂漠に取り残された際に生き延びる術を、お前に教えてやろうと思ってな",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "7a6b9000",
+      "speaker": "{G_PlayerName}",
+      "ja": "へっ？　何故……急に",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "bf765e82",
+      "speaker": "ゼミア",
+      "ja": "つべこべうるさいぞ、生き残る術を知るのは大事なことだ。黙ってオレの訓練を受けろ",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "90b4f3d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……は、はい……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "61698cfd",
+      "speaker": "ゼミア",
+      "ja": "オレ直々に訓練することなんて滅多にないことだからな、有り難く思うんだぞ",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "2dd634ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はい……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c95c5020",
+      "speaker": "ゼミア",
+      "ja": "それじゃあ早速行くぞ！　遅れずについて来いっ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "8c35cb08",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……疲れた……でも、色々なサバイバル術を教えて貰えて、これは役に立ちそうだ",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "957c3253",
+      "speaker": "ゼミア",
+      "ja": "おい、今日はこの辺にテントを設営して休むぞ。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "baf234bd",
+      "speaker": "ゼミア",
+      "ja": "ほら、これが簡易テント展開キットだ、こうやって設営する",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "d1bdb340",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、えっと……見よう見まねで設営できるかな……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "ac36e4df",
+      "speaker": "ゼミア",
+      "ja": "ほお、もっと手こずるかと思ったが……なかなか手際がいいな",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "13f65163",
+      "speaker": "{G_PlayerName}",
+      "ja": "……よし、これで設営終了、でいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "130674a",
+      "speaker": "ゼミア",
+      "ja": "なかなかいいぞ、テントが設営出来たら荷物を入れて体を休めろ。疲れているだろ？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "897cb429",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、それにしてもテントに泊まるなんて……少しワクワクしてしまうなぁ",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "a3595f73",
+      "speaker": "ゼミア",
+      "ja": "しかし……お前は素直にオレの話を聞き、分からない事は質問出来るんだな。筋がいいぞ",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "da632c05",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかな？　当たり前に誰でもできることだと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "8ff8d851",
+      "speaker": "ゼミア",
+      "ja": "そんなことはない。もっと自信を持つといい",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "10e82358",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、肉体労働の後に褒められると気分がいいなぁ～",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "1fc18b8a",
+      "speaker": "ゼミア",
+      "ja": "ふっ、そうか",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c932513b",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも昼間あんなに暑かったのに、日が暮れたら冷え込んできたなぁ",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "a88e902a",
+      "speaker": "ゼミア",
+      "ja": "そうだな……丁度いい、冷え込む夜の過ごし方を教えてやろう",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e21be70b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、よろしくお願いします！",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "9dec1f1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ふわぁぁぁ……なんかあっという間に朝になっちゃったな",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "9aab0c1e",
+      "speaker": "ゼミア",
+      "ja": "昨夜は大丈夫だったか？　寒くなかったか？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "eb5bc527",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、ゼミアが教えてくれた通りにしたら大丈夫だったよ",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "432e8e1c",
+      "speaker": "ゼミア",
+      "ja": "そうか、それは良かった",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "890eb4f7",
+      "speaker": "ゼミア",
+      "ja": "オレが教えてやったことが、これから何かの役に立てばいいが",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "5d8c0780",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう！　すごく勉強になったし何より楽しかった！　またこういう機会を作って貰ってもいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "c9506287",
+      "speaker": "ゼミア",
+      "ja": "えっ？！　こ、こういう機会って……またオレとお前と……ふ、二人っきりか？",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "4d70a8f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "また他にも色々なサバイバル術をレクチャーして貰って……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "94291885",
+      "speaker": "ゼミア",
+      "ja": "二人っきりでサバイバル術を手取り足取り……わ、悪くないな",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "580b2dc7",
+      "speaker": "ゼミア",
+      "ja": "まったく……し、仕方ない。お、お前がこういう機会を望むなら……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "1956ef17",
+      "speaker": "ゼミア",
+      "ja": "いいぞ！　オレはいくらでもお前のためにこういう時間を作ってやる♥",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "1062b718",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう！　今から楽しみだなぁ",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "e6b659b2",
+      "speaker": "ゼミア",
+      "ja": "オレもすごく楽しみだ。ふふふ……♥",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "1b0d14b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……やっと着いたけど……あ、暑い……",
+      "zh": "呼……总算是到了……可是，好热啊……"
+    },
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "38645c9b",
+      "speaker": "ゼミア",
+      "ja": "おいおい……この程度の暑さでバテるとは、情けないな",
+      "zh": "喂喂……才这点热度就累趴了，也太没用了吧。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "8ec3829a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう言われても……環境に慣れていないんだから仕方ないだろ",
+      "zh": "话是这么说……可我刚来还不习惯环境，这也没办法吧。"
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "d661a234",
+      "speaker": "ゼミア",
+      "ja": "ふん……やはりそうか",
+      "zh": "哼……果然如此。"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "1b304f80",
+      "speaker": "{G_PlayerName}",
+      "ja": "やはりって、どういうことだ？　どうして俺をこんな砂漠に？",
+      "zh": "什么叫“果然”啊？你为什么要把我带到这种沙漠里来？"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "cfe7d1d6",
+      "speaker": "ゼミア",
+      "ja": "砂漠に取り残された際に生き延びる術を、お前に教えてやろうと思ってな",
+      "zh": "我是想教你，万一被丢在沙漠里要怎么活下去。"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "7a6b9000",
+      "speaker": "{G_PlayerName}",
+      "ja": "へっ？　何故……急に",
+      "zh": "哈？为什么……突然？"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "bf765e82",
+      "speaker": "ゼミア",
+      "ja": "つべこべうるさいぞ、生き残る術を知るのは大事なことだ。黙ってオレの訓練を受けろ",
+      "zh": "少废话，学会生存技能很重要。别啰嗦，好好接受我的训练。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "90b4f3d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……は、はい……",
+      "zh": "啊……好、好的……"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "61698cfd",
+      "speaker": "ゼミア",
+      "ja": "オレ直々に訓練することなんて滅多にないことだからな、有り難く思うんだぞ",
+      "zh": "我亲手训练你，这可是千载难逢的事，要心怀感激啊。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "2dd634ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はい……",
+      "zh": "呃、嗯……"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c95c5020",
+      "speaker": "ゼミア",
+      "ja": "それじゃあ早速行くぞ！　遅れずについて来いっ！",
+      "zh": "那咱们马上出发！跟上，别掉队！"
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "8c35cb08",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁ……疲れた……でも、色々なサバイバル術を教えて貰えて、これは役に立ちそうだ",
+      "zh": "哈啊……累死了……不过学了不少生存技巧，这个应该能派上用场。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "957c3253",
+      "speaker": "ゼミア",
+      "ja": "おい、今日はこの辺にテントを設営して休むぞ。",
+      "zh": "喂，今天就在这边搭个帐篷休息吧。"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "baf234bd",
+      "speaker": "ゼミア",
+      "ja": "ほら、これが簡易テント展開キットだ、こうやって設営する",
+      "zh": "看好了，这就是简易帐篷搭建套件，像这样搭起来。"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "d1bdb340",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、えっと……見よう見まねで設営できるかな……",
+      "zh": "啊，呃……我照着样子现搭一下，能行吗……"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "ac36e4df",
+      "speaker": "ゼミア",
+      "ja": "ほお、もっと手こずるかと思ったが……なかなか手際がいいな",
+      "zh": "嚯，我以为你会手忙脚乱……还挺利索的嘛。"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "13f65163",
+      "speaker": "{G_PlayerName}",
+      "ja": "……よし、これで設営終了、でいいかな？",
+      "zh": "……好了，这样就算搭好了吧？"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "130674a",
+      "speaker": "ゼミア",
+      "ja": "なかなかいいぞ、テントが設営出来たら荷物を入れて体を休めろ。疲れているだろ？",
+      "zh": "挺不错嘛，帐篷搭好了就把行李搬进去歇会儿。你也累了吧？"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "897cb429",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、それにしてもテントに泊まるなんて……少しワクワクしてしまうなぁ",
+      "zh": "嗯，不过话说回来，在帐篷里过夜……还真有点小兴奋呢。"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "a3595f73",
+      "speaker": "ゼミア",
+      "ja": "しかし……お前は素直にオレの話を聞き、分からない事は質問出来るんだな。筋がいいぞ",
+      "zh": "不过……你倒是很坦率地听我说话，不懂就问。底子不错嘛。"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "da632c05",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかな？　当たり前に誰でもできることだと思うけど……",
+      "zh": "是吗？这很普通吧，谁都能做到的啊……"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "8ff8d851",
+      "speaker": "ゼミア",
+      "ja": "そんなことはない。もっと自信を持つといい",
+      "zh": "才没那回事。你该更自信一点。"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "10e82358",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、肉体労働の後に褒められると気分がいいなぁ～",
+      "zh": "谢谢，干完体力活被人夸，心情真好啊～"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "1fc18b8a",
+      "speaker": "ゼミア",
+      "ja": "ふっ、そうか",
+      "zh": "哼，是吗。"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c932513b",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも昼間あんなに暑かったのに、日が暮れたら冷え込んできたなぁ",
+      "zh": "不过白天那么热，太阳一下山就冷起来了啊。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "a88e902a",
+      "speaker": "ゼミア",
+      "ja": "そうだな……丁度いい、冷え込む夜の過ごし方を教えてやろう",
+      "zh": "也是……正好，我来教你怎么熬过这么冷的夜晚吧。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e21be70b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、よろしくお願いします！",
+      "zh": "好的，那就拜托了！"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "9dec1f1d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ふわぁぁぁ……なんかあっという間に朝になっちゃったな",
+      "zh": "……呼啊……一转眼就天亮了。"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "9aab0c1e",
+      "speaker": "ゼミア",
+      "ja": "昨夜は大丈夫だったか？　寒くなかったか？",
+      "zh": "昨晚还好吗？没冻着吧？"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "eb5bc527",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん、ゼミアが教えてくれた通りにしたら大丈夫だったよ",
+      "zh": "嗯，按泽米亚教的方法做果然没问题。"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "432e8e1c",
+      "speaker": "ゼミア",
+      "ja": "そうか、それは良かった",
+      "zh": "是吗，那太好了。"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "890eb4f7",
+      "speaker": "ゼミア",
+      "ja": "オレが教えてやったことが、これから何かの役に立てばいいが",
+      "zh": "我教的这些东西，以后能派上点用场就好了。"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "5d8c0780",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう！　すごく勉強になったし何より楽しかった！　またこういう機会を作って貰ってもいいかな？",
+      "zh": "谢谢！学到好多东西，而且超开心！下次还能再找机会请你教我吗？"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "c9506287",
+      "speaker": "ゼミア",
+      "ja": "えっ？！　こ、こういう機会って……またオレとお前と……ふ、二人っきりか？",
+      "zh": "诶？！这、这种机会……又是就我和你两个人……单、单独相处？"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "4d70a8f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "また他にも色々なサバイバル術をレクチャーして貰って……",
+      "zh": "还想请你教我其他各种生存技巧……"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "94291885",
+      "speaker": "ゼミア",
+      "ja": "二人っきりでサバイバル術を手取り足取り……わ、悪くないな",
+      "zh": "两个人独处，手把手教生存技巧……也、也不赖嘛。"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "580b2dc7",
+      "speaker": "ゼミア",
+      "ja": "まったく……し、仕方ない。お、お前がこういう機会を望むなら……",
+      "zh": "真是的……真拿你没办法。既然你想要这种机会的话……"
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "1956ef17",
+      "speaker": "ゼミア",
+      "ja": "いいぞ！　オレはいくらでもお前のためにこういう時間を作ってやる♥",
+      "zh": "行啊！我随时都乐意为你抽出时间来♥"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "1062b718",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう！　今から楽しみだなぁ",
+      "zh": "谢谢！现在就期待起来了呢～"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "e6b659b2",
+      "speaker": "ゼミア",
+      "ja": "オレもすごく楽しみだ。ふふふ……♥",
+      "zh": "我也超期待的。哼哼……♥"
+    }
+  ]
+}

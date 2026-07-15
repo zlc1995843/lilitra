@@ -1,0 +1,409 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "9e463771",
+      "speaker": "{G_PlayerName}",
+      "ja": "ったく……だから変なことは、するなって言ったのに",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "1820b108",
+      "speaker": "アコ",
+      "ja": "は、はうう……た、大変面目ないです……っ",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "42b2a96a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アコ、ミスして両手を負傷するとか……はぁ……包帯でグルグル巻きじゃないか……）",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "612772ef",
+      "speaker": "アコ",
+      "ja": "わ、わたしもこんなことになるとは思ってもいなかったもので……あ、呆れてますよね",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "75c7835b",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……まあ……流石リリアンだな。命に別状が無くて良かったよ",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "2e099f0",
+      "speaker": "アコ",
+      "ja": "ご、ごめんなさいです……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "1751df2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "とはいえ……両手が使えないとなると日常生活に支障が出るんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "154086f8",
+      "speaker": "アコ",
+      "ja": "そ、それは……その……自業自得ですし、自分で何とかしますので……お、お気遣いは無用です……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "116a81d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう訳にもいかないだろ？　そんな手じゃご飯も食べられないだろうし……ちょっと待っててくれ",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "3002ca75",
+      "speaker": "アコ",
+      "ja": "あ、あ……い、行ってしまいました……も、もしかして……愛想を尽かされたのでは……",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "1bd0c6d4",
+      "speaker": "アコ",
+      "ja": "（こ、こんなドジなわたしなんて……あ、愛想を尽かされてもしかたないですけど……）",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "aaccfd21",
+      "speaker": "{G_PlayerName}",
+      "ja": "……お待たせ",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "e2cf87dd",
+      "speaker": "アコ",
+      "ja": "えっ？！　あ、あの……そ、それは……？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "32530f72",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご飯だよ、ほかほかのリゾットだぞ",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "f1b6c759",
+      "speaker": "アコ",
+      "ja": "そ、それは見ればわかりますけど……あなたのお食事ですか？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "fab861e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "違うって……ほら、俺が食わせてやるから",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "ab8d3003",
+      "speaker": "アコ",
+      "ja": "ええ～っ？！　そ、そんな？！　い、いいですよ、自分で食べられます、な、なんとか",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "39a03e76",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな包帯でグルグル巻きの両手じゃ大変だろ、ほら",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "a7bc15e9",
+      "speaker": "アコ",
+      "ja": "（あわわ！　リゾットをスプーンですくってくれて……こ、これって……もしかして……？！）",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "6b1b9976",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほかほかリゾットだから熱そうだな……少し冷ましてから……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "4f2c830a",
+      "speaker": "アコ",
+      "ja": "（ふわぁ……ふーふーしてもらってます～♥　ど、どうしましょう♥　もしかして次に来るのは、いよいよ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "cbf36d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、あ～ん",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "1e397772",
+      "speaker": "アコ",
+      "ja": "（き、きてしまいました♥　予想してた通りの……「あ～ん」が♥）",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "ba2fd76b",
+      "speaker": "アコ",
+      "ja": "あ、あああ、あ～ん……もぐもぐもぐ",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "3f0f917f",
+      "speaker": "{G_PlayerName}",
+      "ja": "どう？　美味しい？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "e24aa985",
+      "speaker": "アコ",
+      "ja": "は、はいっ！　すごく美味しいです！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "8fd0912a",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあもう一口……はい",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "1e0037b7",
+      "speaker": "アコ",
+      "ja": "あ、あ～ん……もぐもぐもぐ……",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "15fa4c01",
+      "speaker": "アコ",
+      "ja": "（まさか機械士さんからご飯を食べさせて貰えるなんて♥　嬉しい……けど恥ずかしい♥　幸せ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "5c4f687f",
+      "speaker": "アコ",
+      "ja": "あふ～……おなかいっぱいです♥　ごちそうさまでした♥　とても美味しかったです♥",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "dd181ddd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、それは良かった……なにか困ったことがあったら何でも言えよ、な",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "89fcbebf",
+      "speaker": "アコ",
+      "ja": "は、はい～♥",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "af2f3756",
+      "speaker": "アコ",
+      "ja": "（こんなに優しくして貰えるなんて……幸せ♥）",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "49757087",
+      "speaker": "アコ",
+      "ja": "すき……♥",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "843c03be",
+      "speaker": "アコ",
+      "ja": "（あわわ！　ついつい心の声が漏れてしまいました！）",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "9c05b22a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んっ？　何か言ったか？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "18952c80",
+      "speaker": "アコ",
+      "ja": "ナ、ナンデモナイデス！　ハイ！",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "64b38178",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……よしっ！　食事も終わったし、次はお風呂に行くか？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "8ef15eb",
+      "speaker": "アコ",
+      "ja": "……へっ？　お、お風呂？",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "90dd2631",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、それともトイレの方が先かな？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ddcbeecc",
+      "speaker": "アコ",
+      "ja": "ト、トイレって？！",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "ebe0de8c",
+      "speaker": "アコ",
+      "ja": "（まさかご飯を食べさせてくれるだけではなく、お風呂や下の世話までしてくれるつもりなのですか？！）",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "b6bc3b2c",
+      "speaker": "アコ",
+      "ja": "（そ、それはさすがに恥ずかしすぎます～！）",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "30fbd50a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほらほら行くぞ、その手じゃ何も出来ないんだから",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "feebf878",
+      "speaker": "アコ",
+      "ja": "わああああああ～～～～～！！　そ、そこまでは大丈夫です～～～！！",
+      "zh": ""
+    }
+  ]
+}

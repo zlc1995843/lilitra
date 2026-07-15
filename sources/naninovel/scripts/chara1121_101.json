@@ -1,0 +1,328 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "3d86e7d2",
+      "speaker": "リデル",
+      "ja": "聞いて、クマのぬいぐるみさん！　あたしったらこんな性格だけど、夢見る乙女でもあるのよ！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "63cd04d0",
+      "speaker": "クマのぬいぐるみ",
+      "ja": "（唐突だねぇ、でもリデルちゃんは変わり者だから、相手の男の子を振り向かせられるクマ？）",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "49d8fd74",
+      "speaker": "リデル",
+      "ja": "まあ、ひどい！　でもそんなのあたしの可愛さですぐに虜にできちゃいますからね！",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "b4c2cc50",
+      "speaker": "",
+      "ja": "クマのぬいぐるみと会話するリデルを見て、通りかかったリリアン達は驚いたり、温かい目で見守ったりと様々な反応をみせている。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "4fa22e4c",
+      "speaker": "",
+      "ja": "端から見るとリデルが一方的にクマのぬいぐるみに話しているように見えた。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "67c60449",
+      "speaker": "",
+      "ja": "なぜならクマのぬいぐるみの声はリデルにしか聞こえていない。",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "4550ebb6",
+      "speaker": "",
+      "ja": "自分が他からどう見られているのかなどお構いなしに、リデルはクマのぬいぐるみとの会話を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "7d86c40f",
+      "speaker": "リデル",
+      "ja": "それよりも、あたしに相応しい男の子を見つける方が大変だわ",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "235e1669",
+      "speaker": "クマのぬいぐるみ",
+      "ja": "（ところでリデルちゃんは、どんな男の子がいいクマ？　変人だけどデートとかしたいタイプクマ？）",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "f311b89c",
+      "speaker": "リデル",
+      "ja": "そうね……王子様みたいな方がいいわ！　背があたしよりもうんと高くてハンサムで、とっても素敵な男性！　もちろん年上のお兄様よ！",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "4d23c31a",
+      "speaker": "リデル",
+      "ja": "はぁ……そんな男性に、まるで童話のお姫様みたいにキスで眠りから醒まさせてもらえたら♥",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "a534fa9",
+      "speaker": "クマのぬいぐるみ",
+      "ja": "（はぁ……ガキのくせにいっちょ前に男の趣味を語るリデルちゃんがクマは心配クマ）",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "870334f8",
+      "speaker": "クマのぬいぐるみ",
+      "ja": "（リデルちゃん相手に辛抱強く接してくれる人なんているはずがない……あっ）",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "156df0",
+      "speaker": "",
+      "ja": "その時ぬいぐるみのクマは、ある人物が思い当たる。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "234e3be",
+      "speaker": "",
+      "ja": "そしてその人物が丁度前からこちらへと歩いてきていた。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "c6beb382",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　リデルか",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "ed710c65",
+      "speaker": "リデル",
+      "ja": "あら、あなたは……",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "57bbca29",
+      "speaker": "",
+      "ja": "その時、突然クマのぬいぐるみはリデルの手からするりと抜け出し、{G_PlayerName}の足下へ落ちる。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "a122c07b",
+      "speaker": "リデル",
+      "ja": "あっ、何してるのクマのぬいぐるみさん！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "460f7477",
+      "speaker": "",
+      "ja": "慌ててクマのぬいぐるみを追いかけたリデルだが、ぬいぐるみを拾おうとしゃがみ込んだ{G_PlayerName}の前で謎の力によって滑って転んでしまった。",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "8fd572a2",
+      "speaker": "リデル",
+      "ja": "きゃあ！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "9e14bace",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、危な……んんんっ！？",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "6d512a8d",
+      "speaker": "",
+      "ja": "慌てて受け止めようとした{G_PlayerName}とリデルの顔が急接近し、そのまま勢いで唇が重なってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "c4df383e",
+      "speaker": "リデル",
+      "ja": "んんんんんんっ！？",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "e3261847",
+      "speaker": "",
+      "ja": "一瞬固まった二人だが、すぐに慌てて唇を離した。",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "f15adf24",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、えっと……だ、大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "8baab11f",
+      "speaker": "リデル",
+      "ja": "は、初キッスは王子様の為に大切にとっておいたのにぃ！　お前！　な、なんでお前ごときに！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "bd7fde55",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん、事故だ……それよりも怪我はないか？　擦り傷とかはないか？　ちょっと見せてみろ",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "cfad4c43",
+      "speaker": "",
+      "ja": "そう言って{G_PlayerName}がリデルの顔を覗き込むと、彼女の顔は真っ赤に染まり心臓の鼓動が速くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "e54fc67f",
+      "speaker": "リデル",
+      "ja": "（あわわっ、なんでこんな奴にあたしドキドキしちゃってるの？！　おかしい！　こんなのおかしい！）",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "890a4d84",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、どうしたんだ？　顔が赤いぞ？　熱でもあるんじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "50b3d0e8",
+      "speaker": "リデル",
+      "ja": "う、うるさいわね！　もう！　ほ、放っておいてよ！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "b79a9bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "放っておけって言われても……怪我していたら大変だし……",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "73d1a239",
+      "speaker": "リデル",
+      "ja": "（だめ！　これ以上顔を見られるとドキドキが激しくなって……マズいことになっちゃうの！）",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "12d98f03",
+      "speaker": "リデル",
+      "ja": "（あたしが怒ってるのに、こんなに優しい言葉をかけられたら……♥）",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "2a64dd17",
+      "speaker": "",
+      "ja": "複雑な想いを抱くリデルを、クマのぬいぐるみは心なしか笑いながら見つめているようだった。",
+      "zh": ""
+    }
+  ]
+}

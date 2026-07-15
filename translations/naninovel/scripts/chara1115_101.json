@@ -1,0 +1,742 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "d98ef316",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃんっ！　ほらほら、早く！　こっちこっち～っ！",
+      "zh": "哥哥！快快，这边这边~！"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "c8e1ac5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんなに慌てるなって、人ごみの中で走ると危ないぞ。",
+      "zh": "别那么急嘛，在人群里跑很危险的。"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "42579044",
+      "speaker": "",
+      "ja": "今日はお祭りがあるとスゥに誘われ二人っきりでやってきた。",
+      "zh": "今天被苏约来参加祭典，就我们两个人。"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "ce3cc39b",
+      "speaker": "",
+      "ja": "夜は昼に比べ気温も落ち着き幾分か過ごしやすい。",
+      "zh": "夜晚比白天凉快了些，感觉舒服多了。"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "b758f6c0",
+      "speaker": "",
+      "ja": "それでも人混みのもたらす暑さに汗が全身からじんわりと滲む。",
+      "zh": "不过人群里热得还是浑身微微出汗。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "188ae87b",
+      "speaker": "",
+      "ja": "スゥも俺と同じなのか、俺の手を引くスゥの手が僅かに汗ばんでいる。",
+      "zh": "苏也和我一样吗？她牵我的手微微有些汗。"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "31804750",
+      "speaker": "スゥ",
+      "ja": "お兄ちゃん、見て見て！　カワイイ綿あめ！　すごく大きいね～♪",
+      "zh": "哥哥，你看你看！好可爱的棉花糖！好大一个呀～♪"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "9317c06f",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに大きいな。俺の頭より大きくないか",
+      "zh": "确实很大。比我的头还大呢。"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "29e75b9a",
+      "speaker": "スゥ",
+      "ja": "そうかも♪　でもあんなに大きな綿あめ見るの初めて",
+      "zh": "可能吧♪ 不过这么大的棉花糖我还是第一次见。"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "8caadb6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "せっかくだし買ってみる？",
+      "zh": "机会难得，买一个试试？"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "8e11fc85",
+      "speaker": "スゥ",
+      "ja": "いいのっ！？　じゃあ二人で一緒に食べよっ",
+      "zh": "真的可以吗！？那咱们俩一块儿吃吧！"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "16e07aa",
+      "speaker": "",
+      "ja": "俺は屋台のおじさんに綿あめを二つ注文すると、手慣れた様子で綿あめを作り始める。",
+      "zh": "我向摊主要了两份棉花糖，他便熟练地做了起来。"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "b7060689",
+      "speaker": "",
+      "ja": "最初は何も付いていなかった木の棒に徐々に絡まっていく白くフワフワしたモノ。",
+      "zh": "原本光秃秃的木棒上，渐渐缠绕起雪白蓬松的丝状物。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "5bc22fb5",
+      "speaker": "",
+      "ja": "子供の頃それを見るのが好きだったが、大人になった今でもどこかワクワクしてしまう、",
+      "zh": "小时候我很喜欢看这个，现在长大了，心里还是忍不住有点小兴奋。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "6ef6f84e",
+      "speaker": "",
+      "ja": "綿あめにはそんな魅力があるような気がした。",
+      "zh": "我觉得棉花糖就是有这种魅力。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "1f2687ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、スゥ",
+      "zh": "喏，苏。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "239850fb",
+      "speaker": "",
+      "ja": "出来上がった綿あめをおじさんから受け取ると、スゥにそれを手渡す。",
+      "zh": "从大叔手里接过做好的棉花糖，我把它递给了苏。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "6f3c29a",
+      "speaker": "",
+      "ja": "俺とスゥでは身長差があるので常に腰をかがめており少し辛い。",
+      "zh": "由于我和苏有身高差，总是得弯着腰，有点辛苦。"
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5a980c7e",
+      "speaker": "",
+      "ja": "それでもスゥの笑顔を見たいと俺はそれを我慢していた。",
+      "zh": "但为了看到苏的笑脸，我一直忍着。"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "bd2685a7",
+      "speaker": "スゥ",
+      "ja": "えへへ♪　ありがとう、お兄ちゃん。うわぁ～……本当に大きいね～♪",
+      "zh": "嘿嘿♪ 谢谢你，哥哥。哇～……真的好大呀～♪"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "3820bed7",
+      "speaker": "",
+      "ja": "そして俺は自分の分を受け取ると、二人でベンチに座り仲良く綿あめを頬張った。",
+      "zh": "然后我接过自己的那份，我俩就坐到长椅上，挨在一起大口吃起棉花糖来。"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "e6cfa3ac",
+      "speaker": "スゥ",
+      "ja": "もう食べちゃった……あんなに大きい綿あめだったのに、すぐに無くなっちゃうね",
+      "zh": "这就吃完了啊……明明那么大一个棉花糖，转眼就没了呢。"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "779d0ae5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……でもそれだけ美味かったってことなんだと思うよ",
+      "zh": "是啊……不过这也说明它真的很好吃嘛。"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "2e7cbcbc",
+      "speaker": "スゥ",
+      "ja": "そうだね、美味しかった！　お兄ちゃんと一緒に食べたからかな？　えへへへ……♥",
+      "zh": "对呀，超好吃的！是因为跟哥哥一起吃的缘故吗？嘿嘿嘿……♥"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "7fcc76dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな、二人で一緒に食べたから……ん？",
+      "zh": "是啊，因为是两个人一起吃的……嗯？"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "c58d79a2",
+      "speaker": "スゥ",
+      "ja": "……お兄ちゃん？",
+      "zh": "……哥哥？"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "21fca55e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（変わったデザインだな……ああいう浴衣もあるのか……）",
+      "zh": "（样式挺特别的啊……还有那种款式的浴衣啊……）"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "1f123c45",
+      "speaker": "{G_PlayerName}",
+      "ja": "（浴衣とか普段見ないからつい視線が向いてしまうな）",
+      "zh": "（平时很少能看到穿浴衣的，忍不住就多看了几眼啊）"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "e44813dc",
+      "speaker": "スゥ",
+      "ja": "（お兄ちゃん、また女の人見てる……スゥが傍にいるのに……）",
+      "zh": "（哥哥，又在看女人了……明明小苏就在你身边……）"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "d7d5580",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし、それじゃあ他の場所も見て回るか！",
+      "zh": "好，那我们再到别处逛逛吧！"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "b01ac475",
+      "speaker": "スゥ",
+      "ja": "そっ、そうだね♪　それじゃあ行こ、お兄ちゃんっ",
+      "zh": "说、说得也是呢♪ 那我们走吧，哥哥～"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e001babb",
+      "speaker": "スゥ",
+      "ja": "（お兄ちゃんと一緒にお祭りに来れたのはいいけど、お兄ちゃんの心を奪う泥棒猫が多すぎだよ……）",
+      "zh": "（能跟哥哥一起来逛祭典是很好啦，可是想抢走哥哥心的偷腥猫也太多了吧……）"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "165f445b",
+      "speaker": "スゥ",
+      "ja": "（でも負けないもん……お兄ちゃんはスゥだけのお兄ちゃんなんだから……）",
+      "zh": "（不过我才不会输呢……哥哥只能是苏一个人的哥哥……）"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "fe850211",
+      "speaker": "スゥ",
+      "ja": "わぁ……何これ？　宝石みたいにキラキラしてる……キレイ……",
+      "zh": "哇……这是什么？ 像宝石一样闪闪发亮的……好漂亮……"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "e8a79e1a",
+      "speaker": "",
+      "ja": "スゥはとある屋台の前で足を止めると、色とりどりのフルーツ飴を瞳を輝かせながら眺めていた。",
+      "zh": "苏在某个摊位前停下脚步，眼睛闪闪发光地注视着五颜六色的水果糖。"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "a923cfca",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……！　懐かしい……！　これ俺の星にも同じのあったよ",
+      "zh": "哦哦……！！好怀念……！！我老家星球上也有这个。"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "edfc2146",
+      "speaker": "スゥ",
+      "ja": "へ～……ねぇ、なんでフルーツがキラキラしているの？",
+      "zh": "诶～……呐，为什么水果会这样亮晶晶的呢？"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "7d1a59f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "フルーツを飴でコーティングしているんだよ。それでキラキラしているんだ",
+      "zh": "水果外面裹了一层糖衣，所以才会这样闪闪发光啊。"
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "31bbfdfd",
+      "speaker": "スゥ",
+      "ja": "そうなんだ～……こんなのもお屋台にはあるんだね～……",
+      "zh": "原来是这样～……这种摊位也有卖的啊～……"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "85ebcddd",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ買うか？　俺も久しぶりに食いたいし",
+      "zh": "那买一个吧？我也好久没吃了，挺想尝尝的。"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "1f1180b",
+      "speaker": "スゥ",
+      "ja": "ホント！？　やった！",
+      "zh": "真的吗！？太好了！"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "32fd616f",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあどれがいい？　好きなの選んでいいから",
+      "zh": "那你要哪个？喜欢的随便挑就行。"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "6e532d3",
+      "speaker": "スゥ",
+      "ja": "んー……そうだなぁ～……お兄ちゃんはどれが好きなの？",
+      "zh": "嗯——……这个嘛～……哥哥你喜欢哪个？"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "110b0d77",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺はリンゴかな……ほかのも好きだけど、リンゴが一番美味いと思ってる",
+      "zh": "我嘛，苹果吧……其他的也喜欢，不过我觉得苹果最好吃。"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "38ace7e6",
+      "speaker": "スゥ",
+      "ja": "それじゃあスゥもそれにするっ！　お兄ちゃんが好きな物はスゥも好きになりたいっ！",
+      "zh": "那就我也选那个！哥哥喜欢的东西，我也要喜欢！"
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "c291ea3d",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった、それじゃありんご飴二つね",
+      "zh": "好，那就两个苹果糖。"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "21b99529",
+      "speaker": "スゥ",
+      "ja": "んぁ、か、硬いっ……！",
+      "zh": "唔、好、好硬……！"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "73dc46fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははっ、飴だからな。こう、カブって勢いよく嚙みつくんだよ",
+      "zh": "哈哈，毕竟是糖嘛。要这样，咔嚓一口，使劲咬下去。"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "df3a0e94",
+      "speaker": "スゥ",
+      "ja": "勢いよく……あ～ん……あぐっ！　ううう、あぐ、うぐぅっ……！",
+      "zh": "使劲……啊——……啊呜！唔唔唔，啊呜，唔咕……！"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "c5bf84b4",
+      "speaker": "",
+      "ja": "スゥは目いっぱい口を開け、再度チャレンジする。",
+      "zh": "苏把嘴巴张到最大，再次发起挑战。"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "678d0a64",
+      "speaker": "",
+      "ja": "しかしスゥの小さな歯では歯が立たないようで、りんご飴は綺麗な形のままだった。",
+      "zh": "但苏的牙齿太小，咬不动苹果糖，糖壳还是完好的样子。"
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "be0ee78d",
+      "speaker": "スゥ",
+      "ja": "硬い～……！　食べられないよぉ～……！",
+      "zh": "好硬啊～～……！咬不动啊～～……！"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "f51391f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁそんなに慌てて食べなくても、ぺろぺろ舐めながら飴溶かしていけばいいんだよ",
+      "zh": "哎呀，不用这么着急吃，慢慢舔着把糖化开就行啦。"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "d8b2ec88",
+      "speaker": "{G_PlayerName}",
+      "ja": "個人的にはガリガリ飴嚙み砕きながら食べるのが好きではあるけど",
+      "zh": "我个人的话，是喜欢嘎嘣嘎嘣咬着吃啦。"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "4464e92f",
+      "speaker": "スゥ",
+      "ja": "それじゃあお兄ちゃん、お手本見せてよーっ",
+      "zh": "那，哥哥，你示范给我看嘛～！"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "ba5c2c2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいぞ、ガブって一撃で仕留めてやる……あー……あむっ！",
+      "zh": "好嘞，看我一口咬碎……啊——……啊呜！"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "20e66c26",
+      "speaker": "スゥ",
+      "ja": "ふあっ！？　お兄ちゃんすごいっ！　本当に噛み砕いて食べてる……！",
+      "zh": "呜哇！？哥哥好厉害！真的嘎嘣嘎嘣咬着吃掉了……！"
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "efecf18c",
+      "speaker": "",
+      "ja": "ばき、かしゅ、と心地よい音と共にスゥの差し出したりんご飴を頬張る。",
+      "zh": "随着咔嚓一声脆响，我把苏递来的苹果糖塞进嘴里。"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "aa03244c",
+      "speaker": "",
+      "ja": "口の中に広がる子供の頃を思い出させる懐かしさを感じる甘さが、口の中いっぱいに広がっていった。",
+      "zh": "那种让人想起童年的怀旧甜味在整个嘴里弥漫开来。"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "5172e30e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん～……甘いなーっ。でも懐かしい優しい甘さだ",
+      "zh": "唔嗯～……好甜啊。不过，是那种令人怀念的温柔甜味。"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "7953dda5",
+      "speaker": "スゥ",
+      "ja": "あ……！　お兄ちゃんストップ……！！",
+      "zh": "啊……！哥哥，等一下……！！"
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "3688c954",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……どうしたんだ……？",
+      "zh": "嗯……怎么了……？"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "b5eb98ee",
+      "speaker": "スゥ",
+      "ja": "ちょっと屈んでくれるかな？",
+      "zh": "能稍微弯下腰吗？"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "9f244dc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、いいぞ",
+      "zh": "嗯，好。"
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "5cb055c2",
+      "speaker": "",
+      "ja": "スゥに言われるままに屈むと、目線がスゥと同じになる。",
+      "zh": "依言弯腰，视线顿时和苏齐平。"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "282be0b7",
+      "speaker": "スゥ",
+      "ja": "じっとしててね、お兄ちゃん……",
+      "zh": "别动哦，哥哥……"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "ee8334cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "すっ、スゥ……！？",
+      "zh": "唔、苏……！！？"
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "c39eb6cb",
+      "speaker": "スゥ",
+      "ja": "ちゅ……♥",
+      "zh": "啾……♥"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "a15ed447",
+      "speaker": "{G_PlayerName}",
+      "ja": "んんんっ……！？",
+      "zh": "唔唔唔……！！？"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "5edb97d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（す、スゥの唇が……！！）",
+      "zh": "（苏的嘴唇……！！）"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "3ef15aba",
+      "speaker": "",
+      "ja": "突然スゥはキスをし、俺は驚きのあまり固まってしまう。",
+      "zh": "突然，苏亲了我一下。我惊得整个人僵住了。"
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "f46a410e",
+      "speaker": "スゥ",
+      "ja": "あま～いっ♥　お兄ちゃんの言う通り優しい甘さだね～っ♥",
+      "zh": "好甜呀～♥ 真的和哥哥说的一样，是那种温柔的甜呢～♥"
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "715657b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、甘い……？　あっ、もしかして唇に飴付いてた……？",
+      "zh": "啊，甜的……？ 啊，该不是嘴唇上沾到糖了吧……？"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "a8aec4df",
+      "speaker": "スゥ",
+      "ja": "うんっ♥　えへへ、お兄ちゃんびっくりしててちょっと面白かった♥",
+      "zh": "嗯♥ 哎嘿嘿，哥哥吓到的样子还挺好玩的♥"
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "bf0543a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そりゃいきなりキスなんて……！！",
+      "zh": "那、那还不是因为你突然亲上来……！！"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "b7b06c4f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うう……ま、まだ心臓バクバクしちゃってる……スゥとキスするの初めてってわけじゃないのに……）",
+      "zh": "（唔……心、心脏现在还怦怦跳……明明又不是第一次和苏接吻……）"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "5554f3e",
+      "speaker": "スゥ",
+      "ja": "りんご飴美味しいね～♪　クセになる美味しさかも♪",
+      "zh": "苹果糖好好吃哦～♪ 这味道让人停不下来呢♪"
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "4c531fc5",
+      "speaker": "",
+      "ja": "スゥはキスのことは特に気にしていないのか、りんご飴をおいしそうに舐める。",
+      "zh": "苏好像根本没把刚才那个吻放在心上，美滋滋地舔起了苹果糖。"
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "bd316a70",
+      "speaker": "",
+      "ja": "その光景にほっこりするようなドキドキするような、なんとも不思議な感覚に襲われてしまう。",
+      "zh": "眼前这一幕，让人觉得温馨又心跳加速，一种说不清道不明的奇妙感觉涌了上来。"
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "f0e7a511",
+      "speaker": "スゥ",
+      "ja": "あ……！　あっちで何かやってるよ？　見に行こうよ、お兄ちゃんっ！",
+      "zh": "啊……！ 那边好像在搞什么？ 我们去看看嘛，哥哥！"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "8c29d091",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そうだな",
+      "zh": "啊，嗯……说得也是。"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "dcb8dd72",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こんな小さな子なのに、いつもやられっぱなしというかなんていうか……スゥには一生敵いそうにないかもしれないな……）",
+      "zh": "（明明还是个小孩子，我却老是被她耍得团团转，怎么说呢……恐怕这辈子都赢不了苏啊……）"
+    }
+  ]
+}

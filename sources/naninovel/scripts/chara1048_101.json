@@ -1,0 +1,364 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "bb667655",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふ～……ボーッと寝っ転がってるのもいいもんだなぁ",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "ee1f6db7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　誰か来たか……どうぞ、開いてるよ。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "dfbece92",
+      "speaker": "シュー",
+      "ja": "おにいちゃん……。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "e4875372",
+      "speaker": "{G_PlayerName}",
+      "ja": "シューじゃないか？　どうしたんだい？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "96a42d1d",
+      "speaker": "シュー",
+      "ja": "あのね……おにいちゃんと一緒に寝たいんだけど……ダメ？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "2b358b71",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダメじゃないよ、おいで。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "325dead4",
+      "speaker": "シュー",
+      "ja": "いいの？　わ～い♥　おにいちゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "3b103e34",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、いきなり抱きついてきて……もうしょうがないなぁ。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "e8d4efcf",
+      "speaker": "シュー",
+      "ja": "えへへ～……おにいちゃんのにおいだぁ～。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "dde6c89d",
+      "speaker": "{G_PlayerName}",
+      "ja": "何だかいつも以上に甘えてくるけど……なにかあったのかな？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "e6f20316",
+      "speaker": "{G_PlayerName}",
+      "ja": "シュー、どうして一緒に寝たくなったんだい？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "a5f436a4",
+      "speaker": "シュー",
+      "ja": "えっとね……んとね……みんないなくなっちゃう夢を見たの……。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "658f0045",
+      "speaker": "{G_PlayerName}",
+      "ja": "みんないなくなる夢……？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "12c8c2b0",
+      "speaker": "シュー",
+      "ja": "そうなの……しゅーの周りから、みんないなくなっていっちゃうの……。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "17ea80c6",
+      "speaker": "シュー",
+      "ja": "それでね……おにいちゃんもいなくなっちゃって……誰もいなくなっちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "5545833e",
+      "speaker": "シュー",
+      "ja": "しゅー、ひとりぼっちになっちゃって……真っ暗なところにしゅーだけで……",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "946a0757",
+      "speaker": "{G_PlayerName}",
+      "ja": "よしよし……それは怖い夢を見たね……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "6ee1c5e8",
+      "speaker": "シュー",
+      "ja": "うん……それでおにいちゃんが本当にいなかったらどうしようって思って……",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "745226ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで不安になってここに来たという訳か……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "9eedf5bf",
+      "speaker": "シュー",
+      "ja": "おにいちゃん……しゅーをおいていっちゃったりしないよね……しゅーをひとりにしないよね……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "33e7033d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなの当たり前じゃないか、大丈夫、いなくなったりしないよ",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "95c3bf35",
+      "speaker": "シュー",
+      "ja": "ほんとうに？　ほんとにほんと？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "311feb1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、本当に本当さ、だから安心して、ね",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "78cecf96",
+      "speaker": "シュー",
+      "ja": "よかったぁ～……おにいちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "152b605f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに強く抱きつかなくても……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "815388fb",
+      "speaker": "シュー",
+      "ja": "でもこうしておにいちゃんにくっついていると、すごく安心できるから……いいでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "4353d55f",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……それで安心するなら、いいよ",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "abb47692",
+      "speaker": "シュー",
+      "ja": "えへへ～……おにいちゃん、だいすき～♥",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "d0ac73c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "よしよし……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "7258b81d",
+      "speaker": "シュー",
+      "ja": "おにいちゃん、もっとしゅーのあたまなでなでして～♥",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "14bb4e66",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、なでなで……と、これでいいかな？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "82d62c2b",
+      "speaker": "シュー",
+      "ja": "もっと～♥　ずっとなでなでして～♥　おにいちゃんになでなでされるのすき～♥",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "316ff5e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい、ずっとなでなでしてるから",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "5f9a2860",
+      "speaker": "シュー",
+      "ja": "くんくん……おにいちゃん……おにいちゃんのにおい……すごく安心する～……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "eb6ead1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ怖い夢を見た後だし……これで安心してくれるなら……",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "8ca9a51",
+      "speaker": "シュー",
+      "ja": "むにゃむにゃ……おにい……ちゃん……す～……す～……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "809b025d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あらら、もう寝ちゃったか……それにしても可愛い寝顔だ……",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "6229e714",
+      "speaker": "シュー",
+      "ja": "すぅ～……すぅ～……すぅ～……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "f5313f9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにシューの体、ぷにぷにだしあったかいし……俺もなんか眠くなってきた……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "24bc4599",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふわぁぁぁ……俺ももう……寝よう……お休み……",
+      "zh": ""
+    }
+  ]
+}

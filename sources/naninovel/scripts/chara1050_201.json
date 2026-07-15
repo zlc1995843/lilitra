@@ -1,0 +1,913 @@
+{
+  "lines": [
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "373f6189",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁぁぁ……疲れたぁ……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "bf9bce8d",
+      "speaker": "",
+      "ja": "数日ぶりに拠点に帰ってきた俺は部屋に入るなりへたり込んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "8bc59285",
+      "speaker": "ゼミア",
+      "ja": "あれぐらいでそこまで疲弊するとは、情けない",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "fc5805c6",
+      "speaker": "",
+      "ja": "俺と一緒に部屋に入ったゼミアは、少し呆れ顔で呟いた。俺とゼミアは資源調査のため砂漠を歩かされたのだが。",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "381d1382",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし、ゼミアはすごいな……俺一人だったら速攻でダウンしていたよ",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "8ac50728",
+      "speaker": "ゼミア",
+      "ja": "当然だ、オレは砂賊だからな……砂漠での移動や生活には慣れている",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "bdec6a99",
+      "speaker": "",
+      "ja": "確かに、ゼミアのサバイバル技術はすごくて、俺は何度助けられたことか。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b6037fa8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ゼミアありがとう、今回は本当に助かったよ",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "151d3dbe",
+      "speaker": "ゼミア",
+      "ja": "なに、オレにとってはあの程度のこと、礼を言われる程のことじゃない",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "c189d4d1",
+      "speaker": "",
+      "ja": "クールにそう言っているけれど、彼女の表情はどこか誇らしげだ。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "ca1bab07",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても……さっさと水浴びした方がいいか……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "342a20b0",
+      "speaker": "ゼミア",
+      "ja": "そうだな……オレもお前もろくに水浴びできなかったからな",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "c6414f00",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあとっとと水浴びしてスッキリするか",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "2d462a54",
+      "speaker": "",
+      "ja": "そう言って俺が服を脱ぎ始めると、ゼミアは驚いた表情を浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "c12432db",
+      "speaker": "ゼミア",
+      "ja": "なっ、何をしてるっ！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "8ff72d70",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　何って……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "de25d545",
+      "speaker": "ゼミア",
+      "ja": "も、もしかして……これが例の発作というやつか？　なるほど……",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "21232138",
+      "speaker": "",
+      "ja": "ゼミアはぶつぶつ言いながら何か納得しているようだ。そして何か意を決したかのような表情を浮かべる。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "46897037",
+      "speaker": "ゼミア",
+      "ja": "よし！　仕方ない、オレが処理してやろう",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "734ec06",
+      "speaker": "",
+      "ja": "そう言うとゼミアはおもむろに服をはだけさせた。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9c191ad3",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？！",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "1317b5d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何をしてるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "1a2658e7",
+      "speaker": "",
+      "ja": "いきなり服を脱いだゼミアが脇を指で広げたのを見て俺はかなり動揺してしまう。大きく開いたゼミアの脇からはムワッと蒸気が広がった。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "5bfd6c33",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、もしかしてシャワーを先に浴びたいの？　まったく……脱ぐならお風呂場で脱いでくれと、あはは……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "9581a189",
+      "speaker": "",
+      "ja": "俺はドキドキしている気持ちを抑えゼミアから目をそらす。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "dedc0f91",
+      "speaker": "ゼミア",
+      "ja": "んっ？　お前こそ何をしている、早く処理をしろ",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "59a27a66",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "d4a1fd2",
+      "speaker": "",
+      "ja": "なんだかゼミアと俺と話が噛み合っていないような。それに急に処理をしろと言われてかなり混乱してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "588d2bf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こ、ここの星ではこれが普通なのか？！）",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "eb04eb2c",
+      "speaker": "",
+      "ja": "俺が戸惑っているとゼミアが少し顔を赤らめながら恥ずかしそうに呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "542745cc",
+      "speaker": "ゼミア",
+      "ja": "オ、オレにだって羞恥心はあるんだがな……",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "a23cecac",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……それじゃあお言葉に甘えて……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "16cd48f4",
+      "speaker": "",
+      "ja": "さすがにこのまま何もしないとゼミアに対して失礼に当たると考えた俺は、誘われるままに自らのペニスを脇へと近づける。",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "2d6f801d",
+      "speaker": "ゼミア",
+      "ja": "しかし脇がいいなんて……変わった趣味だな",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "87a4aa8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（えっ？！　ゼミアが脇を見せてここで処理しろとアピールしてきたんじゃんか！？）",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "2e340a50",
+      "speaker": "",
+      "ja": "そう思っても砂賊の長であるゼミアに反論する勇気など無く。",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "149f6aed",
+      "speaker": "{G_PlayerName}",
+      "ja": "実は俺……わ、脇フェチで……",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "7d664aef",
+      "speaker": "",
+      "ja": "話を合わせつつ俺は彼女の脇にちんぽを擦りつけていった。でも意外にもその感触は気持ちよくて、見た感じもツルツルで女性器のようなエッチさがある。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "4fe47097",
+      "speaker": "",
+      "ja": "それに興奮してしまっている俺は、本当に脇フェチではなかろうか。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "812666ee",
+      "speaker": "",
+      "ja": "そんな事を思いつつ勃起してきたチンポを何度も脇に擦りつけているとゼミアは少し恥ずかしそうに呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "94042671",
+      "speaker": "ゼミア",
+      "ja": "その……匂いは平気か？　せめて水浴びの後にした方が……",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "4e344b2f",
+      "speaker": "",
+      "ja": "確かにゼミアの体は俺のちんぽから滲み出た我慢汁と汗でぬるついていて、他のリリアンたちのような甘い香りではなく彼女特有の匂いがする。",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "36355693",
+      "speaker": "{G_PlayerName}",
+      "ja": "すんすん……そうか？　いい匂いがしてるけど",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "445c433e",
+      "speaker": "",
+      "ja": "俺が鼻を鳴らして体臭を嗅ぐとゼミアは一気に赤面した。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "5cf55166",
+      "speaker": "ゼミア",
+      "ja": "嗅ぐな！　お、お前の匂いだって……すんすん……おっ♥　くっさ……♥",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "15b5684c",
+      "speaker": "",
+      "ja": "俺のちんぽを間近で臭ったゼミアは、普段とは違うリアクションをする。そして脇に擦りつけられるちんぽを積極的に嗅いできた。",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "82feb34a",
+      "speaker": "ゼミア",
+      "ja": "……ああ、汗臭くて少し小便の匂いと……男の匂いが……すんすん♥",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "a019455f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんなに匂いを嗅ぐのやめてくれないか",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "8ef1823e",
+      "speaker": "",
+      "ja": "と言いながらもゼミアにちんぽの匂いを嗅がれることに、俺は妙な興奮を覚えてしまう。その高まりに任せて、俺はゼミアの脇にちんぽを強く擦りつけた。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "672b38eb",
+      "speaker": "ゼミア",
+      "ja": "すんすん……我慢汁の匂いが濃くなってきた♥　はぁぁ、クラクラする♥",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "5b51f569",
+      "speaker": "",
+      "ja": "普段ゼミアの口から聞かない淫語に興奮を煽られた俺は、ついつい腰の動きを速めてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "2b6527ef",
+      "speaker": "",
+      "ja": "柔らかな脇に肉棒が擦れる度に、ゾクゾクする快感が背筋を駆け抜けて徐々に射精衝動が強まってきた。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "a431fd9",
+      "speaker": "ゼミア",
+      "ja": "おちんちんがビクビクしてるな♥　もうそろそろ出してしまうか？",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "2421ab0a",
+      "speaker": "",
+      "ja": "煽るようなゼミアの言葉も俺を激しく興奮させる。このまま絶頂まで一気に駆け上がるかのように、俺は夢中でゼミアの脇にチンポを擦りつけまくった。",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "d6889ed1",
+      "speaker": "ゼミア",
+      "ja": "オレの脇、もう我慢汁でヌルヌルだ♥　お前のおちんちんもすごい匂いで♥　すんすん♥　はぁぁ～～～♥",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "9ec85c80",
+      "speaker": "{G_PlayerName}",
+      "ja": "うぅぅっ……も、もう限界っ……で、出るぞ……ゼミアっ！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "3ab3c538",
+      "speaker": "",
+      "ja": "込み上げてくる感覚が強くなり、俺は激しく脇にちんぽを擦りつけながら絶頂に達してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "52ffa923",
+      "speaker": "ゼミア",
+      "ja": "んっ♥　あっつ……♥　オレの脇でこんなに気持ちよくなったんだな♥",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "3c886f73",
+      "speaker": "",
+      "ja": "大量に出された精液は脇はもちろんゼミアの体や顔までもドロドロに汚してしまった。その光景に俺は高ぶって、さらに精液をぶちまけ続けてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "634e9086",
+      "speaker": "ゼミア",
+      "ja": "んんんっ♥　まだ出てるっ♥　濃い精液をこんなにいっぱいっ♥　はぁぁ♥　すごいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "f48bcb9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……うぅぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "9cfa3257",
+      "speaker": "",
+      "ja": "俺はそのまま柔らかな脇の感触を味わいつつ、全ての精液を出し切った。",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "a0bc3e93",
+      "speaker": "",
+      "ja": "だけど俺のペニスは大量射精したにも関わらず、ビクンビクンと脈打ちながら固いままで萎える気配がない。それを見てゼミアは明らかに普段とは違う声で呟く。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "4bbd2c94",
+      "speaker": "ゼミア",
+      "ja": "ふふ♥　こんなに出したのに……まだ、こんなに固いんだな……♥",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "73abcdd5",
+      "speaker": "",
+      "ja": "ゼミアは明らかに俺の射精を楽しんでいるようで、剛直したままのちんぽをウットリと見つめていた。",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "82af6d9",
+      "speaker": "",
+      "ja": "それじゃあ……もう少し刺激を強めてやろう……♥楽しげにそう言ってゼミアは不意に脇を閉じ俺の萎える気配が無いちんぽをギュッと締め付けてくる。",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "89bb4357",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ！　おおっ！",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "407bfef5",
+      "speaker": "",
+      "ja": "脇で締め付けられる感触はすごくキツく、ゾクッとする快感が背筋を駆け抜けた。おまけにちんぽの先っぽゼミアは指でいじってきているのでさらに気持ちの良さは倍増だ。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "e6b72634",
+      "speaker": "ゼミア",
+      "ja": "どうだ？　締め付けられるとたまらないだろ？　それにおちんちんの先をクニクニされたら♥　たまんないだろ？",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "1223cca8",
+      "speaker": "",
+      "ja": "脇でムニムニとちんぽを締め付けながら先をこね回されると、さっき出したばかりなにの俺のちんぽはまた剛直してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "5306cff4",
+      "speaker": "ゼミア",
+      "ja": "もうすっかり元気になったな♥　ほらほら、遠慮無くオレの脇で気持ちよくなれ♥",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "4cdde29d",
+      "speaker": "",
+      "ja": "そのお言葉に甘えるように、俺は腰を振り脇でピストンを始めた。",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "6f7b7e68",
+      "speaker": "",
+      "ja": "ちんぽが狭い脇に擦れる度、快感が股間から頭へと突き抜ける。その気持ちよさに俺はついついピストンを激しくさせてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "fa773182",
+      "speaker": "ゼミア",
+      "ja": "ふふふっ♥　そんなに夢中で腰を振って♥　先っぽから汁がダラダラ溢れてきてるぞ",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "d267e4f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、だって……気持ちが良くて……はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "b4079432",
+      "speaker": "",
+      "ja": "腰を前後させる程に興奮が高まってきて、ちんぽがビックンビックンと強く脈打ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "12469f6f",
+      "speaker": "ゼミア",
+      "ja": "ほらほら♥　もっとオレの脇まんこをおちんちんでズポズポするといい♥",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "c1308912",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……言われなくても……んんんっ！　き、気持ちよすぎて、腰、止まらないっ！",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "4b60da0d",
+      "speaker": "",
+      "ja": "ゼミアに煽られ高まる興奮に任せ俺は夢中で腰を振り、勃起チンポを脇の隙間に擦りつける。その間も彼女の指先がちんぽの先をこね回してきて、更なる快感を与えてきた。",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "7e49322",
+      "speaker": "ゼミア",
+      "ja": "もうおちんちんがヌルヌルだ♥　それに強く脈打っているし♥　そろそろまた出すか？",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "8c387fb7",
+      "speaker": "",
+      "ja": "確かにまた込み上げてくる感覚が強くなってきているが、まだまだこの気持ちよさを味わいたい。",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "d6f2419d",
+      "speaker": "",
+      "ja": "そう思った俺は少し休むように腰の動きを止めた。するとゼミアが煽るように俺の言葉を投げかけてくる。",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "64655693",
+      "speaker": "ゼミア",
+      "ja": "どうした？　腰の動きが止まってるぞ、機械士♥　もっとオレの脇まんこにおちんちんをズボズボさせるといい♥",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "676692d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……うぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "1cd9b995",
+      "speaker": "",
+      "ja": "ゼミア言葉に促され、俺は腰の動きを再開させた。",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "7b87a469",
+      "speaker": "ゼミア",
+      "ja": "そうそう♥　もっと激しくしてもいいぞ♥　ほら♥　ほら♥",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "5e60303",
+      "speaker": "",
+      "ja": "ゼミアは俺の抽送に合わせて緩急のある脇の締め付けをしてくる。それがあまりにも絶妙で、俺はもう腰の動きを止められなくなった。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "655c34ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……このまま……最後まで……",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "e6bb8a3a",
+      "speaker": "",
+      "ja": "ラストスパートをかけるように、俺はピストンをどんどん速める。脇に擦れるチンポの先はゼミアの指先で刺激され、俺の射精衝動が強くなってきた。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "563488ec",
+      "speaker": "ゼミア",
+      "ja": "オレの脇でお前のおちんちんが、どくんどくんと脈打ってるぞ♥　そろそろ限界だな♥",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "166f0d8d",
+      "speaker": "",
+      "ja": "そう呟くとゼミアはギュッと強く脇を締めてくる。その締め付けで俺は限界に達してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "50dd432b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、また……出るっ……うっ！　ううっ",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "1f120f1e",
+      "speaker": "",
+      "ja": "俺が腰を止めて呻くと同時にちんぽがビックンビックンと上下に跳ね、先っぽから白濁した飛沫がまた勢いよく迸る。",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "7fc045e",
+      "speaker": "ゼミア",
+      "ja": "おおっ♥　また出たっ♥　ドピュドピュ出てるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "a94f42ca",
+      "speaker": "",
+      "ja": "俺の精液を浴びてゼミアの体が白く染まっていった。その様を目の当たりにした俺は更に興奮してしまい射精が止まらない。",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "a22eb234",
+      "speaker": "ゼミア",
+      "ja": "すごいっ♥　二度目なのにまだ出てるっ♥　おっ、おおっ♥",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "67cbb979",
+      "speaker": "",
+      "ja": "まるで俺のちんぽから精液を搾り取ろうとするように、ゼミあの脇が強く締まった。その締め付けに俺のちんぽは全ての精液を吐き出して果てる。",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "2f36d6e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ～～～♥　はぁ～～～♥",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "f01d76a1",
+      "speaker": "",
+      "ja": "激しい射精で俺はすっかり呆けて息を荒げてしまっていた。そんな俺を見てゼミアが妙に嬉しそうな感じで呟く。",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "44708300",
+      "speaker": "ゼミア",
+      "ja": "あはっ♥　オレのここ……お前の精液でどろどろだ♥",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "c5e75a7e",
+      "speaker": "ゼミア",
+      "ja": "しかし……人助けのつもりだったが、オレもすっかり楽しんでしまったな♥",
+      "zh": ""
+    }
+  ]
+}

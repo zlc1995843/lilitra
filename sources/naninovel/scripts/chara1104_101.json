@@ -1,0 +1,580 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "a6b3072e",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしてもブライダルの用事ってなんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "4002913b",
+      "speaker": "{G_PlayerName}",
+      "ja": "それもわざわざ植物園に来て……まぁいいか、ブライダルどこにいるのかな",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "1325353d",
+      "speaker": "ブライダル",
+      "ja": "──あっ！　{G_PlayerName}様っ",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "35963956",
+      "speaker": "{G_PlayerName}",
+      "ja": "おおっ！？　な、なんだ？　この木、やけに飾り付けられていない？　何かのパーティーか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "2ab7171b",
+      "speaker": "ブライダル",
+      "ja": "ううん、ちょっとした雰囲気づくりに必要かなって思って……こういうの嫌い？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d2fe50eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そんなことはないよ。煌びやかでいいと思うし",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "cfd1cb8e",
+      "speaker": "ブライダル",
+      "ja": "ありがとうございます♪　そう言ってくれると飾り付けをしたかいがありました♪",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "1cf46fd9",
+      "speaker": "ブライダル",
+      "ja": "（ふぅ……ここからが本番、なのよね……上手くいくといいんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "7d50b944",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブライダル……？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "f9b47dc0",
+      "speaker": "ブライダル",
+      "ja": "あ……ううん、何でもないよ？　それより来てくれてありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f7b8fcc2",
+      "speaker": "ブライダル",
+      "ja": "もし来なかったらって思ったら悲しかったし、花婿様が来てくれただけで嬉しいです……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "b843a0e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……ブライダルに呼ばれたらどこにだって行くけど……でもなんか様子がヘンだぞ……？",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "88b900aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだか震えているし……寒いのか？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "47329be5",
+      "speaker": "ブライダル",
+      "ja": "ううん、そんなことはないよ。少し……いえ、かなり緊張しているだけだから……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "51d682d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　な、なんか重大なことだったりする？　俺全然そんなつもりはなかったんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "aa49a4c1",
+      "speaker": "ブライダル",
+      "ja": "私にとってはすごく重大……かな？　今後の人生に関わることだと思うし……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "b1264388",
+      "speaker": "ブライダル",
+      "ja": "でも{G_PlayerName}様に負担を強いるとか、そういうつもりはないの",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "21b23152",
+      "speaker": "ブライダル",
+      "ja": "だから、今から私の言うことに少しでも賛同できなかったら……その時は無かったことに……聞かなかったことにして……",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "43865cba",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった……それでブライダルが言いたいことって……？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "803ff79c",
+      "speaker": "ブライダル",
+      "ja": "ふぅ～……あの、ね……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "8f67cf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "5a8eb8d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんかすごい緊張しちゃっているぞ……こっちまでなんかドキドキしてきてしまう……。い、いったい何を言うつもりなんだ）",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "8b10161e",
+      "speaker": "ブライダル",
+      "ja": "わ、私……私、ね！　その……その……！　ううう……！　怖い……伝えるの、怖い……！",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "1aca07e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブライダル、落ち着けって！　怖いって、何かヤバいことでも言いたいのか？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "ba8b46ac",
+      "speaker": "ブライダル",
+      "ja": "そんなことはないんだけど……でもはっきり言葉にしてしまったら、{G_PlayerName}様がどう反応するのか、それが怖くて……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "e5a40843",
+      "speaker": "ブライダル",
+      "ja": "でも、勇気を出さなきゃ……想いは言葉にしないと伝わらないんだから……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "5417b1f8",
+      "speaker": "ブライダル",
+      "ja": "私、私ね……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "26e04e96",
+      "speaker": "ブライダル",
+      "ja": "花婿様のことが好きですっ！　愛していますっ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "9d7c017b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──へ……？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "d1f72354",
+      "speaker": "ブライダル",
+      "ja": "あなたを一目見た時から素敵なお人だなって思っていました……！！",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "11c8f95f",
+      "speaker": "ブライダル",
+      "ja": "優しくて、気さくで、明るいけど、ただ明るいだけじゃない、何か抱えているものがあるあなたに……どうしようもなく惹かれてしまいましたっ",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "df68772d",
+      "speaker": "ブライダル",
+      "ja": "もう今では花婿様のことだけを考える毎日……でも想うだけじゃ私の心は伝わらないって、そう思って……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "f31f5b36",
+      "speaker": "ブライダル",
+      "ja": "少しでも一緒にいたいって、仕事にかこつけて、少しでも一緒にって……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "bb73d2d8",
+      "speaker": "ブライダル",
+      "ja": "でももうこれ以上自分の気持ちを抑えられない……私にこんなこと言われて迷惑かもしれないけど、でも私の想いを知ってほしかった……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "5703b953",
+      "speaker": "ブライダル",
+      "ja": "ただそれだけでいいんです……それだけで……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "5f9a506d",
+      "speaker": "ブライダル",
+      "ja": "（ああ……やっぱり固まって……返事に困ってる……。やっぱりこんなことを言われて迷惑だったのね……）",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "2841c9b1",
+      "speaker": "ブライダル",
+      "ja": "（想いを伝えなければ、今まで通りに仕事のふりをして一緒にいられたのに……でもそれも今日で終わり……）",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "535894f0",
+      "speaker": "ブライダル",
+      "ja": "（花婿様は優しいから、自分から私のことを突き放したりしないだろうし、自分から……身を……引かなきゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "bcf5ea6d",
+      "speaker": "ブライダル",
+      "ja": "す……ぐす……う、う……",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "cda58a5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "──はっ！？　ブライダルっ！？　な、なな、泣くなって！！　泣く必要なんてないからっ！！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "e3e30e98",
+      "speaker": "ブライダル",
+      "ja": "ご、ごめん、なさい……迷惑をおかけして……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "b3276fa2",
+      "speaker": "ブライダル",
+      "ja": "それじゃあ私……行くから……",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "2a313453",
+      "speaker": "{G_PlayerName}",
+      "ja": "待てって！　なんで返事も聞かずに行こうとするんだよっ",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "6bd0468a",
+      "speaker": "ブライダル",
+      "ja": "でも私にこんなこと言われて迷惑だったんじゃ……？　返事に困っている様子だったから……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "8eeed6c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "迷惑なわけないって！　心の準備も無しにいきなり告白されて、それでフリーズしちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "2e503979",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん、気の利いたセリフの一つも言えずに……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "c2f18584",
+      "speaker": "ブライダル",
+      "ja": "い、いえ……私こそ、突然告白なんてしてごめんなさい……",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "804fcabb",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも先に言われてしまったのはちょっと悔しいかな？　そのうち自分から言おうと思っていたから……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "587b6d13",
+      "speaker": "ブライダル",
+      "ja": "えっ……？　そ、それって……",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "2eb11e3d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺もブライダルのことが……好きだっ！",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "9354ae6d",
+      "speaker": "ブライダル",
+      "ja": "────っ！？",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "1431b07f",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もブライダルと一緒で一目惚れだったと思う……すぐにブライダルのことが好きになって……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "eac15431",
+      "speaker": "{G_PlayerName}",
+      "ja": "毎日毎日ブライダルのこと考えてた……だからいつかこの想いを伝えようって、そう思っていたから……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "8e084ecb",
+      "speaker": "ブライダル",
+      "ja": "は、花婿、様……それって、本当……ですか？　私に合わせて話を作っていたりなんて……",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "4b81f3e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことないって！　今のは俺の本心だから……好きだ、ブライダルっ！　好きで好きでたまらないんだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "a6f21170",
+      "speaker": "ブライダル",
+      "ja": "──きゃっ！？❤　は、花婿様……っ❤",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "837cfbdf",
+      "speaker": "{G_PlayerName}",
+      "ja": "ずっとこうやって抱きしめたいって思っていたんだ、作り話なんかじゃ決してないから……！",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "ca787573",
+      "speaker": "ブライダル",
+      "ja": "うん、うん……わかります❤　だって、今のあなた、すごくお顔が真っ赤で……ああ、あなたの身体、思っていたよりも全然大きい……❤",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "77408f12",
+      "speaker": "ブライダル",
+      "ja": "{G_PlayerName}様と同じ気持ち……私、今すごく幸せで心が満ちています……❤",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "2dac932c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……俺もだ……俺たちは今最高に、宇宙で一番の幸せ者だよ",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "c75da1ee",
+      "speaker": "ブライダル",
+      "ja": "ふふ……そうですね。あの……もう少しだけこのまま抱きしめていて……あなたのぬくもりを少しでも感じていたいから……",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "273d64ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……ブライダルが満足するまで抱きしめているよ",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "ed8b9592",
+      "speaker": "ブライダル",
+      "ja": "ありがとう、{G_PlayerName}様……大好き、です❤",
+      "zh": ""
+    }
+  ]
+}
