@@ -1,0 +1,1345 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "729da92e",
+      "speaker": "ルミナ",
+      "ja": "旦那様……？　どうしてそんなに離れて座っているの……？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "bbe6d981",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……いや、まあ……その……と、特に意味は無いけど……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "26e64b7",
+      "speaker": "",
+      "ja": "微妙に距離を取っていることに小首を傾げるルミナ。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "229ddfe",
+      "speaker": "",
+      "ja": "さりげなく距離を詰めようとルミナが近づくと、{G_PlayerName}は立ち上がり、そして離れたところに座る。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "9818a21e",
+      "speaker": "",
+      "ja": "まるで部屋の中をグルグルと回っているように、二人はベッドとソファーの往復を繰り返し、二人の間に微妙に距離ができてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "a325a601",
+      "speaker": "ルミナ",
+      "ja": "それならもう少し近くでお話しない……？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "8078249f",
+      "speaker": "ルミナ",
+      "ja": "私、声そんなに大きくないから……ちゃんとあなたに聞こえているのか少し不安……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "d2d03372",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら大丈夫だから心配するなって。俺がルミナの言葉を聞き逃すなんてそんなことあるわけないから",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "f31bde53",
+      "speaker": "ルミナ",
+      "ja": "そう……それなら、いいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "7e84becf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり距離取ってるって気づくよな……でも、あんなエッチな格好したルミナがそばに座るなんて、そんなことされたら……）",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "f449a200",
+      "speaker": "ルミナ",
+      "ja": "（わたし……旦那様に嫌われちゃった……？　旦那様のお嫁さんって言ったのがアウトだったのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "aa27693b",
+      "speaker": "ルミナ",
+      "ja": "（番と勘違いされて一緒のお部屋になったのは嬉しいけど、でも旦那様に嫌われたら、何も意味がないよ……うう……）",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "f280179c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……？　ど、どうしたんだ？　なんか苦しそうだけど……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "b1087d47",
+      "speaker": "ルミナ",
+      "ja": "え？　あ、何でもない、よ？　ううん、なんでもなくはない、かな……",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "287cdc1",
+      "speaker": "ルミナ",
+      "ja": "異世界の人たちに、あなたのお嫁さんって言ったの怒っているのかなって……そう思ってしまって……それで……",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "e7c7062d",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　べ、別に怒ってなんていないぞ？　ちょっと待って、俺そんな風にルミナに思われてたのか？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "3640f37",
+      "speaker": "ルミナ",
+      "ja": "だって、微妙に距離取ってくるし、私がそばにいるのがイヤになっているのかなって……",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "9022e626",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやいやいや！　そんなわけないから……！　気にしすぎだって！",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "edb2454b",
+      "speaker": "ルミナ",
+      "ja": "それならどうして離れたりするの……？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "1c8549ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……それは、だな……。ルミナのさ、その……格好……",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "1581fe0c",
+      "speaker": "ルミナ",
+      "ja": "え？　格好……？　うん、普段と違う、ね……。どうしてこんな姿になっちゃったのかな……？　異世界って宇宙とは別の意味で不思議……あなたは普段通りなのに",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "8995b7b9",
+      "speaker": "ルミナ",
+      "ja": "でも私は私だから……異世界でもあなたの未来のお嫁さんであることに変わりはないから……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "cfbdb5e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……ルミナ……",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "1306cb8a",
+      "speaker": "",
+      "ja": "ルミナはそっと{G_PlayerName}の傍に座ると、にっこりとほほ笑む。",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "33dfa9fe",
+      "speaker": "",
+      "ja": "その表情に{G_PlayerName}の心臓がドクンと大きく高鳴り、煽情的な姿と相まって顔に火が付いたように熱くなってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "299cb65d",
+      "speaker": "ルミナ",
+      "ja": "旦那様……顔真っ赤……♥　私のエッチな姿にドキドキしちゃってる……？♥　ふふっ……♥",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "e53f433e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それは、その……あ、当たり前、だろ……。普段の姿でも可愛いのにそんな格好されたら余計に……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "d5313c58",
+      "speaker": "ルミナ",
+      "ja": "ふふふ……♥　緊張している旦那様、カワイイ……♥　ねぇ、どうして緊張しているの？♥　普段はそんなに緊張しないよね？♥　どうして……？♥",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "ee8b6d4a",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、あ……ルミナ……",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "25b1e7c0",
+      "speaker": "",
+      "ja": "ルミナはジリジリと距離を詰め、そしてそっと{G_PlayerName}に抱きつく。",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "bc4ea639",
+      "speaker": "",
+      "ja": "ルミナ特有のぷにぷにした感触に、さらに{G_PlayerName}の緊張はさらに高まり、金縛りにあったように身体が動かなくなってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "f2946283",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、だめだって、ルミナ……！",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "12865fdb",
+      "speaker": "ルミナ",
+      "ja": "ふふ……♥　照れる旦那様ってすごく新鮮……♥　普段は私の方がドキドキさせられているから、今日は少しお返し、しちゃうね……♥",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "f340ee03",
+      "speaker": "",
+      "ja": "ルミナはそう言うと、両の手で{G_PlayerName}の頬に触れる。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "b273d4ff",
+      "speaker": "",
+      "ja": "そしてゆっくりと顔を近づけ、吸い込まれるような大きな瞳が徐々に近づいてくる。",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "37973c30",
+      "speaker": "ルミナ",
+      "ja": "キス……しちゃうね……？♥　構わないよね……？♥　だって、私はあなたのお嫁さんなんだから……♥",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "8eea364e",
+      "speaker": "ルミナ",
+      "ja": "夫婦なら……番なら……愛し合うなんて息をするのと同じくらい自然な行動なんだから……♥",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "dc9dcb84",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……そ、そう、だな……",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "8e966c18",
+      "speaker": "ルミナ",
+      "ja": "ふふ……♥　それじゃあ……旦那様……♥　好き、好き……♥　大好き……♥　んっ……ちゅ、ちゅ……ちゅぅ……！♥",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "8be78f58",
+      "speaker": "",
+      "ja": "ルミナの唇が触れた瞬間、ルミナの小さな舌が{G_PlayerName}の口の中に侵入する。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "adac7f9f",
+      "speaker": "",
+      "ja": "普段とは違い、積極的に{G_PlayerName}を求め、そんなルミナにタジタジになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "978303d7",
+      "speaker": "ルミナ",
+      "ja": "ぢゅるっ♥　ちゅ……♥　ちゅぅ……♥　ぢゅるる……ちゅちゅっ♥　ちゅうう……♥",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "e923c8de",
+      "speaker": "",
+      "ja": "舌同士が絡み合い、お互いの体液を交換し合う。",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "4a9a4e11",
+      "speaker": "",
+      "ja": "そして次の瞬間、{G_PlayerName}の身体が瞬間的に熱くなり、それと同時に下半身にズキンと大きな痛みが走る。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "97fa8c79",
+      "speaker": "",
+      "ja": "思わず下半身に視線を向けると、ズボンを突き破りそうな勢いで陰茎が大きく、そして肥大化してしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "99914be4",
+      "speaker": "ルミナ",
+      "ja": "ふふふ……♥　すごい、すごい……キスしただけで、あなたの、すごく大きくなってる……♥",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "a826c5b9",
+      "speaker": "ルミナ",
+      "ja": "これも異世界の力、なのかな……♥　サキュバスの力ってすごい……♥　元の世界に戻ってもこのエッチな力、残っているといいな……♥",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "aa8adaaa",
+      "speaker": "ルミナ",
+      "ja": "旦那様……あなたのおちんちん、エッチなお嫁さんに見せて……♥",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "a7243310",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……わかった……",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "7967b66b",
+      "speaker": "",
+      "ja": "ルミナの声に頭がぼーっとしてしまい、{G_PlayerName}は特に考えることもせず服を一枚一枚脱いでいく。",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "94b63c52",
+      "speaker": "",
+      "ja": "そして露わになった肉棒にルミナは熱い眼差しを向ける。",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "670d0eab",
+      "speaker": "",
+      "ja": "そんな視線だけでも{G_PlayerName}の肉棒は気持ち良くなってしまい、ビクンビクンと何かを求めるように大きく跳ねあがっていた。",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "cfb902e5",
+      "speaker": "ルミナ",
+      "ja": "旦那様……ベッドに横になって……♥　あなたのおちんちんから、いっぱいいっぱい精液搾り取ってあげるから……♥　ふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "8df8aeef",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……！　うあ……ルミナ……！　し、しっぽが……！！",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "89cf5b5a",
+      "speaker": "ルミナ",
+      "ja": "くすくす♥　れるっ……♥　ちゅ♥　ちゅぅ……♥　手でシコシコされるよりも感じるでしょ？♥",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "e7507928",
+      "speaker": "ルミナ",
+      "ja": "ああ……不思議……♥　さっきまでしっぽを全然動かせなかったのに、旦那様を気持ち良くしたいって思うだけで、自分の意思で自在に動かせてしまう……♥",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "6b989a58",
+      "speaker": "ルミナ",
+      "ja": "ほらぁ……♥　こんな感じに自在に……♥　くにくにくに～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "d2c4140e",
+      "speaker": "{G_PlayerName}",
+      "ja": "うあああ……！　ちょ、待って……！　それヤバい……！！　ぐうぅ！　ううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "3802710e",
+      "speaker": "",
+      "ja": "ルミナの柔らかなしっぽがカリを小刻みに擦り、思わぬ快感に{G_PlayerName}の腰が勝手に跳ね上がる。",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "cf92c35d",
+      "speaker": "",
+      "ja": "そしてルミナは溢れてきたカウパーを舌で掬うように舐めとり、肉竿を擦られる刺激と重なり、強烈な快感が{G_PlayerName}を襲い続けた。",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "125dec1e",
+      "speaker": "ルミナ",
+      "ja": "普段よりも全然感じているね……♥　エッチなお汁がいっぱい溢れて……あなたのおちんちん、もうぬるぬる……♥",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "795bddcf",
+      "speaker": "ルミナ",
+      "ja": "ねぇ、旦那様……私のおまんこも舐めて……♥　あなたのお嫁さんを気持ち良くして……♥",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "e5145d9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぅぅっ！　ルミ、ナっ……！　んぐ、くうう……！！",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "8cc37033",
+      "speaker": "",
+      "ja": "ルミナは興奮をそのまま{G_PlayerName}にぶつけるように、愛液溢れるあそこを顔に押し付ける。",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "fe643b0e",
+      "speaker": "",
+      "ja": "そして言われるままに舌を這わせると、膣穴をこじ開けるようにそっと舐めまわしていく。",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "1cad5da",
+      "speaker": "ルミナ",
+      "ja": "はぁぁぁ♥　気持ちいい……♥　ふふ、お嫁さんにご奉仕するの、嬉しいでしょう？♥",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "6177d216",
+      "speaker": "ルミナ",
+      "ja": "私もいっぱいご奉仕してあげるから、二人で一緒に……もっともっと気持ち良くなろう？♥",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "3af23633",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……！　ちゅ、ぢゅるるっ！　れるっ！　れるぅぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "1286482e",
+      "speaker": "ルミナ",
+      "ja": "あはぁぁっ♥　激しいのイイ……♥　おまんこ蕩けてしまいそう……♥",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "a0ffafad",
+      "speaker": "",
+      "ja": "ルミナの愛液を飲み込むたびに、{G_PlayerName}の胸の鼓動が速くなり、身体が熱くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "805c4675",
+      "speaker": "",
+      "ja": "舌の動きが積極的になり、膣穴を穿るように舌先を動かし、喉を鳴らしながら愛液を飲み込み続ける。",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "2ae879b",
+      "speaker": "ルミナ",
+      "ja": "今日のあなたのクンニ……いつもより全然すごくて……♥　これもサキュバスの力のおかげ……？♥",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "af288c27",
+      "speaker": "ルミナ",
+      "ja": "普段のように優しく愛してくれるあなたも素敵だけど、オスの本能剥き出しのあなたも素敵……♥",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "c9686315",
+      "speaker": "ルミナ",
+      "ja": "私も負けていられないね……♥　私ももっともっと旦那様にご奉仕するから……♥",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "e441748e",
+      "speaker": "ルミナ",
+      "ja": "だから精液いっぱい出してね……♥　旦那様のココからいっぱい搾り取ってあげるから♥",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "8138870d",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぎぃ！？　ルミナ、そこ……く、ううううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "697e214e",
+      "speaker": "",
+      "ja": "ルミナのしっぽの先端が睾丸に触れ、ゾクゾクした快感に{G_PlayerName}の両足がガクガクと震える。",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "f2b04f8f",
+      "speaker": "",
+      "ja": "どぷりと大量のカウパーが一気に噴き出し、ルミナの舌があふれ出るモノを零すまいと小さな舌を懸命に動かし、舐め取っていく。",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "9dc396c8",
+      "speaker": "ルミナ",
+      "ja": "旦那様のエッチなお汁、美味しい……♥　あそこが……おまんこの奥、きゅんきゅんしてくるぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "eb5dba4d",
+      "speaker": "ルミナ",
+      "ja": "もっと……もっとエッチなお汁で私を興奮させて……♥　そうすれば、私のおまんこもっと濡れ濡れになるから……♥",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "c826561b",
+      "speaker": "ルミナ",
+      "ja": "れるぅ……♥　ぢゅるっ……♥　ちゅちゅ……♥　ちゅるぅっ♥　ちゅぱっ♥　ちゅぅううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "285.0",
+      "line_index": 285,
+      "inline_index": 0,
+      "line_hash": "ce26bbef",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、あ……！　ルミナ、ダメだ、そんなに激しくされたら、すぐに出てしまう……！！",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "763406ae",
+      "speaker": "ルミナ",
+      "ja": "あら？♥　もう射精が近いの？♥　普段よりも早いね……♥　でも我慢なんてする必要ないから♥",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "d95c65ea",
+      "speaker": "ルミナ",
+      "ja": "だって、旦那様のたまたまから精液が無くなるまでしちゃうんだから……♥",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "55f0e078",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　んあ……！　ルミナ、待って……！！　ストップ！！　いったん止まって……！！",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "b1fa5eda",
+      "speaker": "ルミナ",
+      "ja": "ダメ♥　止まらない♥　ほら、ほら、いっぱいぴゅっぴゅしちゃえ♥",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "d20c5222",
+      "speaker": "ルミナ",
+      "ja": "あなたのお嫁さんを真っ白に汚しちゃえ♥　どろどろにしちゃえ♥　オスの匂い、取れなくなるくらいいっぱいかけちゃえ♥",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "ff5ff9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぐっ！　んふぅぅ！　んーっ！　んんんんんーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "5857badb",
+      "speaker": "",
+      "ja": "しっぽの扱く速度がどんどん上がり、{G_PlayerName}を射精へと追い詰める。",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "68b4e750",
+      "speaker": "",
+      "ja": "ルミナはあそこを{G_PlayerName}の口に押し付け、膣穴から噴水のように溢れる真っ白な愛液を飲ませていく。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "7f69f9f5",
+      "speaker": "",
+      "ja": "もはや{G_PlayerName}はルミナのサキュバスの本能に抗うことができず、されるがままになってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "a4e0c972",
+      "speaker": "ルミナ",
+      "ja": "ああ……おちんちんの先っぽ膨らんで、ビクビク震えてる……♥　もう出るんだね？♥　いいよ、いっぱいぴゅっぴゅして……♥",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "554d19f",
+      "speaker": "ルミナ",
+      "ja": "エッチなお嫁さんに、あなたのエッチな精液、いっぱい飲ませて……♥　身体の中も外もあなたでいっぱいにして……♥",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "83ab0f46",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、うううっ！　もう、だ、めっ！　ルミナ、出る、出ちまうっ！！",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "ea59868b",
+      "speaker": "ルミナ",
+      "ja": "イって……！♥　精液いっぱいびゅるびゅるしてぇっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "9fa8e31a",
+      "speaker": "ルミナ",
+      "ja": "ふあっ！？♥　うあ、ああああ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "22384f25",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、う゛っ！　く、うあ゛……ああああ……！！",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "7f83f438",
+      "speaker": "ルミナ",
+      "ja": "んはぁぁっ♥　熱くてエッチなオス汁、いっぱい出て、るぅ……♥　ああぁぁ……♥　旦那様の精液浴びるの、気持ち、良い……ふあああ……♥",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "5e1cd182",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、待って……！　しっ、扱かないっ……でぇ！　うう゛っ！",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "afe7c493",
+      "speaker": "ルミナ",
+      "ja": "ダメ……♥　もっともっと旦那様の精液で私を汚すんだから……♥　旦那様に真っ白に汚されて、心も身体もぽかぽかするんだから……♥",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "807a16eb",
+      "speaker": "",
+      "ja": "ルミナはそう言うと、射精中の肉棒をお構いなしに扱き、精液を搾り取っていく。",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "8dccc261",
+      "speaker": "",
+      "ja": "普段のルミナからは考えられないような、メスの本能を剥き出しにした姿に、{G_PlayerName}は何度も熱いモノを吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "1772f2b7",
+      "speaker": "",
+      "ja": "ルミナの膣穴からは噴き出すように大量の真っ白な愛液が溢れ、ルミナのいやらしい匂いと味に{G_PlayerName}は頭がクラクラとしていく。",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "a6bb7992",
+      "speaker": "ルミナ",
+      "ja": "あなたの精液、いつもより美味しい……♥　もっと……もっと飲ませて……♥　もっと射精して……タマタマの中の、もっといっぱい吐き出して……♥",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "a20d5bb5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミ、ナ……！　う、うううう……！！　も、もう出ないからぁ……！　扱くの待ってぇえ……！！",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "a5e919db",
+      "speaker": "ルミナ",
+      "ja": "そうみたい……♥　でもおちんちんはまだカチコチのまま……♥",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "e38474",
+      "speaker": "ルミナ",
+      "ja": "だからもっとシコシコしてあげる♥　このまま終わったんじゃ旦那様も寂しいよね？♥",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "d5f18cb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、そんなことは……ぐううっ！？　うあ、ああああ……！！",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "21e2894f",
+      "speaker": "ルミナ",
+      "ja": "あはっ♥　旦那様って小さなおちんちん穴……すごく感じるんだね♥　それならぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "e5a89929",
+      "speaker": "{G_PlayerName}",
+      "ja": "う゛っ！　そこダメっ！　うううっ！！　くあ、ああああっ！！",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "5a81972b",
+      "speaker": "",
+      "ja": "ルミナの小さな舌先が鈴口を押し広げるように蠢き、あまりの快感に腰がグっと反り返る。",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "5c255126",
+      "speaker": "",
+      "ja": "再びしっぽがはげしく肉竿を扱き始め、射精の強烈な快感と、サキュバスの催淫作用で意識が朦朧としていく。",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "3ec85a10",
+      "speaker": "",
+      "ja": "それでもサキュバスの力がそうさせるのか、{G_PlayerName}は快感に悶え喘ぎながらも、夢中になり膣穴を舐め回し、溢れる愛液を喉の奥に流し込み続けた。",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "ab3a6223",
+      "speaker": "ルミナ",
+      "ja": "はぁ……っ♥　はぁ♥　旦那様、私のおまんこ、ぴちゃぴちゃ必死に舐めて……まるでワンちゃんみたい♥　くすくす♥",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "47ee02cf",
+      "speaker": "ルミナ",
+      "ja": "でもすごく気持ちいい……♥　もっと私の……旦那様専用のエッチなおまんこいっぱい愛して……♥",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "1d5ff13c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　あ゛っ！　ふっ！　ふっ！　れるっ、ぢゅる、ちゅ、ちゅうううううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "405.0",
+      "line_index": 405,
+      "inline_index": 0,
+      "line_hash": "f71d5a71",
+      "speaker": "ルミナ",
+      "ja": "あああっ！♥　おまんこ吸われるぅ♥　それすごくイイ……♥　もっとして……エッチな愛液いっぱい吸い出して……♥",
+      "zh": ""
+    },
+    {
+      "key": "408.0",
+      "line_index": 408,
+      "inline_index": 0,
+      "line_hash": "cd33fcf5",
+      "speaker": "ルミナ",
+      "ja": "私も、もっともっと旦那様を喜ばせてあげるから……二人でもっと気持ち良くなろ？♥　どろどろに蕩け合うくらいいっぱい感じようね……♥",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "a09a86e7",
+      "speaker": "",
+      "ja": "ルミナのしっぽの先端が睾丸に纏わりつき、くにくにと揉むように蠢き始める。",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "57beddc",
+      "speaker": "",
+      "ja": "肉竿を扱く速度が、ルミナの興奮に比例するように早くなり、ぐちゅぐちゅといやらしい音を響かせながら高速で動く。",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "ea5530be",
+      "speaker": "",
+      "ja": "ルミナは小さな口を目いっぱい広げ、カウパーを吸い出すようにぢゅるぢゅるといやらしい音を響かせながら、亀頭を舐め回していく。",
+      "zh": ""
+    },
+    {
+      "key": "416.0",
+      "line_index": 416,
+      "inline_index": 0,
+      "line_hash": "3a3d950a",
+      "speaker": "ルミナ",
+      "ja": "旦那様……ルミナのクリトリスも触って……♥　あなたのゴツゴツした指でちっちゃなお豆、いっぱいイジメて……♥",
+      "zh": ""
+    },
+    {
+      "key": "419.0",
+      "line_index": 419,
+      "inline_index": 0,
+      "line_hash": "dd97e434",
+      "speaker": "ルミナ",
+      "ja": "ふあああぁっ！♥　しゅごいっ！♥　今日はいつもよりクリトリス過敏になってるぅ♥　気持ち、いぃっ！♥　もっと……もっと旦那様の指でお豆イジメてぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "422.0",
+      "line_index": 422,
+      "inline_index": 0,
+      "line_hash": "9f4a7209",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミ、ナっ……！　あああ……！！　そこ、ダメ……！　う、くうううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "f96daf68",
+      "speaker": "ルミナ",
+      "ja": "ふふっ♥　タマタマ弱いんだね……♥　くにくにするたびに、旦那様の切なそうな声が出て……私、すごく興奮しちゃう……♥",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "a34a613e",
+      "speaker": "ルミナ",
+      "ja": "もっと旦那様のその声聞かせて……もっともっとご奉仕してあげるから……♥　ほら、ほら……♥",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "57cdca4f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、う！　も、もう……ダメ……！　また出てしまうっ！",
+      "zh": ""
+    },
+    {
+      "key": "436.0",
+      "line_index": 436,
+      "inline_index": 0,
+      "line_hash": "b9e7e93d",
+      "speaker": "ルミナ",
+      "ja": "もう次出ちゃうんだ？♥　でも良いよ、いつでも出して……♥　私がいくらでも射精させてあげるから♥",
+      "zh": ""
+    },
+    {
+      "key": "439.0",
+      "line_index": 439,
+      "inline_index": 0,
+      "line_hash": "2442428c",
+      "speaker": "ルミナ",
+      "ja": "おちんちんがふにゃふにゃになっても、いくらでも大きく硬くしてあげるから……♥　だからいっぱい射精してね？……♥",
+      "zh": ""
+    },
+    {
+      "key": "442.0",
+      "line_index": 442,
+      "inline_index": 0,
+      "line_hash": "49a0ab6c",
+      "speaker": "ルミナ",
+      "ja": "私の旦那様っ♥",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "66d495e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　う、ううう……！　もうダメ……うう、んぅ、んんんんんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "458.0",
+      "line_index": 458,
+      "inline_index": 0,
+      "line_hash": "6f443fe8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐうっ！　う、うう゛っ！　んんっ！　くううううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "464.0",
+      "line_index": 464,
+      "inline_index": 0,
+      "line_hash": "bd358cf7",
+      "speaker": "ルミナ",
+      "ja": "あはははっ♥　出てる♥　またいっぱい旦那様の精液出てるぅ♥　れるぅ♥　ちゅ、ちゅ……ぢゅるるるぅ！♥",
+      "zh": ""
+    },
+    {
+      "key": "467.0",
+      "line_index": 467,
+      "inline_index": 0,
+      "line_hash": "b8a3822",
+      "speaker": "ルミナ",
+      "ja": "はぁぁ～♥　美味しい……♥　もっとあなたの精液飲ませて……もっと……もっともっと……もっとぉっ♥",
+      "zh": ""
+    },
+    {
+      "key": "471.0",
+      "line_index": 471,
+      "inline_index": 0,
+      "line_hash": "ee457eb7",
+      "speaker": "{G_PlayerName}",
+      "ja": "んあ゛っ！？　やめっ……！　んお、おおおおおっ！！",
+      "zh": ""
+    },
+    {
+      "key": "474.0",
+      "line_index": 474,
+      "inline_index": 0,
+      "line_hash": "7d72123",
+      "speaker": "",
+      "ja": "{G_PlayerName}が再び射精すると、ルミナは嬉しそうに笑いながら、吐き出された白濁液を飲み込んでいく。",
+      "zh": ""
+    },
+    {
+      "key": "475.0",
+      "line_index": 475,
+      "inline_index": 0,
+      "line_hash": "89ea3430",
+      "speaker": "",
+      "ja": "さらに{G_PlayerName}を射精させようとしっぽの先端でアナルをくすぐり始め、その刺激で熱いものが次々と肉竿を駆け上がっていった。",
+      "zh": ""
+    },
+    {
+      "key": "478.0",
+      "line_index": 478,
+      "inline_index": 0,
+      "line_hash": "471e0c52",
+      "speaker": "ルミナ",
+      "ja": "こんなに精液いっぱい……幸せ……♥　でも愛する人からこんなにたくさんの精液を搾り取れるなんて、サキュバスの身体ってすごいね……♥",
+      "zh": ""
+    },
+    {
+      "key": "481.0",
+      "line_index": 481,
+      "inline_index": 0,
+      "line_hash": "809e1b56",
+      "speaker": "ルミナ",
+      "ja": "でもまだ精液、タマタマに残っているよね？♥　私に全部飲ませて……お願い、旦那様♥",
+      "zh": ""
+    },
+    {
+      "key": "484.0",
+      "line_index": 484,
+      "inline_index": 0,
+      "line_hash": "a9eaf874",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、う゛っ！　ルミ、ナ……れるぅ……れるれる、ぢゅるっ、ちゅぅううっ！",
+      "zh": ""
+    },
+    {
+      "key": "488.0",
+      "line_index": 488,
+      "inline_index": 0,
+      "line_hash": "56cbbc08",
+      "speaker": "ルミナ",
+      "ja": "あはぁっ♥　おまんこぺろぺろ気持ちいいよぉ♥　もっと舐めて……もっとエッチなお汁飲んで……♥",
+      "zh": ""
+    },
+    {
+      "key": "490.0",
+      "line_index": 490,
+      "inline_index": 0,
+      "line_hash": "61c3346d",
+      "speaker": "",
+      "ja": "{G_PlayerName}は返答代わりにルミナのあそこを舐め回し、もっと続けることを彼女に求める。",
+      "zh": ""
+    },
+    {
+      "key": "492.0",
+      "line_index": 492,
+      "inline_index": 0,
+      "line_hash": "c2d8ad30",
+      "speaker": "",
+      "ja": "サキュバスの催淫作用に完全に心を支配されてしまった{G_PlayerName}。",
+      "zh": ""
+    },
+    {
+      "key": "493.0",
+      "line_index": 493,
+      "inline_index": 0,
+      "line_hash": "df95d7b9",
+      "speaker": "",
+      "ja": "自分の意思とは関係なく舌があそこをいやらしく舐め回し、ルミナはクンニの快感に全身を震わせ甘い声を上げる。",
+      "zh": ""
+    },
+    {
+      "key": "496.0",
+      "line_index": 496,
+      "inline_index": 0,
+      "line_hash": "25e1cf85",
+      "speaker": "ルミナ",
+      "ja": "旦那様、すっかり私のおまんこに夢中だね……♥　旦那様におまんこいっぱい愛されて、私もすごく嬉しい……♥",
+      "zh": ""
+    },
+    {
+      "key": "499.0",
+      "line_index": 499,
+      "inline_index": 0,
+      "line_hash": "a25818fd",
+      "speaker": "ルミナ",
+      "ja": "それじゃあもっと精液搾り取ってあげるね？♥　最後の一滴までびゅるびゅるさせてあげるから♥",
+      "zh": ""
+    },
+    {
+      "key": "502.0",
+      "line_index": 502,
+      "inline_index": 0,
+      "line_hash": "977a2af",
+      "speaker": "{G_PlayerName}",
+      "ja": "うあ゛っ！　ルミナ……んあ、はぁ、あ、くう、うあ、ああぁぁ……！！",
+      "zh": ""
+    },
+    {
+      "key": "505.0",
+      "line_index": 505,
+      "inline_index": 0,
+      "line_hash": "25095378",
+      "speaker": "",
+      "ja": "完全にサキュバスと化したルミナの力で、二人は再び快楽へ突き進む。",
+      "zh": ""
+    },
+    {
+      "key": "506.0",
+      "line_index": 506,
+      "inline_index": 0,
+      "line_hash": "9daefff9",
+      "speaker": "",
+      "ja": "行為は朝まで続き、ルミナの宣言通りに{G_PlayerName}は精液を搾り尽くされてしまうのであった。",
+      "zh": ""
+    }
+  ]
+}

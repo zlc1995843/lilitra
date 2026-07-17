@@ -1,0 +1,814 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "8db2604",
+      "speaker": "",
+      "ja": "植物園でのお茶会も終わり、それぞれが思い思いの時間を過ごしていた。",
+      "zh": "植物园的茶会结束后，大家各自度过了惬意的时光。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "ec284d44",
+      "speaker": "",
+      "ja": "色鮮やかな花々に囲まれながら、{G_PlayerName}は東雲と異世界の話で盛り上がり、気付けば何度も笑い声を上げていた。",
+      "zh": "被缤纷的花朵环绕，{G_PlayerName}和东云聊着异世界的话题越聊越起劲，不知不觉间已经笑了好几次。"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "36a769d9",
+      "speaker": "",
+      "ja": "その様子を少し離れた場所から見ていたルミナは、小さく息を吐くと、二人のもとへ向かってゆっくり歩き始める。",
+      "zh": "不远处的露米娜看着这一幕，轻轻叹了口气，然后朝着两人慢慢走去。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "f0e7b266",
+      "speaker": "ルミナ",
+      "ja": "旦那様。少しだけ、お時間いいかな？",
+      "zh": "老公，能耽误你一点时间吗？"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "74878a36",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ？　もちろん",
+      "zh": "露米娜？当然可以。"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "306af540",
+      "speaker": "",
+      "ja": "東雲は二人の様子を見比べると、何かを察したように小さく笑い、その場を離れていった。",
+      "zh": "东云看了看两人，仿佛察觉到了什么，微微一笑后便离开了。"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "54f9c52f",
+      "speaker": "",
+      "ja": "ルミナは東雲が去っていったことを確認すると、改めて{G_PlayerName}へ視線を向ける。",
+      "zh": "露米娜确认东云走远后，重新将目光转向{G_PlayerName}。"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "ae0eab52",
+      "speaker": "ルミナ",
+      "ja": "さっきから東雲さんと、とっても楽しそうだったね",
+      "zh": "你刚才跟东云小姐聊得好开心的样子呢。"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "f5cbbcf4",
+      "speaker": "{G_PlayerName}",
+      "ja": "向こうの世界の話が面白くてさ。つい夢中になってた",
+      "zh": "那边的世界太有趣了，一不小心就听入迷了。"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "7e748609",
+      "speaker": "ルミナ",
+      "ja": "そっか……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "2f801958",
+      "speaker": "",
+      "ja": "ルミナは何かを考え込むように視線を落とし、両手を身体の前で小さく重ねる。",
+      "zh": "露米娜像是在思考着什么，视线低垂，两手在身前轻轻交叠。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "593796ec",
+      "speaker": "",
+      "ja": "それから再び顔を上げると、{G_PlayerName}を見つめながら小さく笑った。",
+      "zh": "然后她再次抬起头，凝视着{G_PlayerName}，微微一笑。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "3dbd7d8b",
+      "speaker": "ルミナ",
+      "ja": "じゃあ、一つだけ質問",
+      "zh": "那么，就问一个问题。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "a0dd1a2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん？",
+      "zh": "嗯？"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "54760f0b",
+      "speaker": "ルミナ",
+      "ja": "今日は私のこと、何回くらい見てくれた？",
+      "zh": "今天，你大概看了我几次？"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "bf40d30f",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　急に言われても……",
+      "zh": "呃？你突然这么问我也……"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "b6e6273c",
+      "speaker": "ルミナ",
+      "ja": "数えてない？",
+      "zh": "你没数吗？"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "bff9820b",
+      "speaker": "{G_PlayerName}",
+      "ja": "普通は数えないだろ",
+      "zh": "一般人哪会数这个啊。"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "ec440331",
+      "speaker": "ルミナ",
+      "ja": "それなら、少し減点♥…だね",
+      "zh": "那这样，可要扣点分哦♥……"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "9a118382",
+      "speaker": "{G_PlayerName}",
+      "ja": "減点！？",
+      "zh": "扣分！？"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "377905d6",
+      "speaker": "ルミナ",
+      "ja": "未来のお嫁さんを放っておくのは、よくないと思う",
+      "zh": "我觉得，把未来的老婆晾在一边可不好哦。"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "e17db703",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなルール聞いたことないぞ",
+      "zh": "我可不记得有这么个规矩。"
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "7f100db9",
+      "speaker": "ルミナ",
+      "ja": "今、決めたから",
+      "zh": "因为我刚刚定下的。"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "8eba6f64",
+      "speaker": "{G_PlayerName}",
+      "ja": "今決めたのか！",
+      "zh": "刚定下的啊！"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "2a389d4b",
+      "speaker": "",
+      "ja": "慌てて声を上げる{G_PlayerName}を見て、ルミナは堪えきれないようにくすっと笑う。",
+      "zh": "看到{G_PlayerName}慌张地叫出声，露米娜忍不住噗嗤一笑。"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "54e4a536",
+      "speaker": "ルミナ",
+      "ja": "ふふっ……旦那様って、本当に分かりやすい♥",
+      "zh": "呵呵……老公你还真是好懂呢♥"
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "374524cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "今日のルミナ、なんだかいつもと違うな",
+      "zh": "今天的露米娜，好像有点不一样啊。"
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "782a2316",
+      "speaker": "ルミナ",
+      "ja": "少しだけ……サキュバスらしくしてみようかなって",
+      "zh": "就一点点……想试着更像魅魔一点。"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "e75e121e",
+      "speaker": "{G_PlayerName}",
+      "ja": "その結果がこれ？",
+      "zh": "结果就变成这样了？"
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "e54af27",
+      "speaker": "ルミナ",
+      "ja": "うん♥",
+      "zh": "嗯♥"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "c6c05d33",
+      "speaker": "",
+      "ja": "ルミナは照れた様子もなく頷くと、楽しそうな笑みを浮かべたまま、さらに一歩だけ距離を詰めてくる。",
+      "zh": "露米娜毫不害羞地点了点头，脸上挂着愉快的笑容，又朝我走近了一步。"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "79ee52b9",
+      "speaker": "ルミナ",
+      "ja": "旦那様を困らせるのって、思ってたより楽しいかも",
+      "zh": "捉弄老公，好像比我想的还有意思呢。"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "5c7a7169",
+      "speaker": "",
+      "ja": "二人の間は、互いの肩が触れそうなほど近くなる。",
+      "zh": "两人靠得越来越近，肩膀都快碰上了。"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "8a04ffa",
+      "speaker": "{G_PlayerName}",
+      "ja": "近いって",
+      "zh": "太近了啦。"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "353cfda2",
+      "speaker": "ルミナ",
+      "ja": "これくらい？♥",
+      "zh": "这样算近？♥"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "3a859ea1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……",
+      "zh": "露米娜……"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "afb794be",
+      "speaker": "ルミナ",
+      "ja": "ふふっ、顔、赤くなってる♥",
+      "zh": "呵呵，脸都红了♥"
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "fc794ee6",
+      "speaker": "",
+      "ja": "その反応が嬉しかったのか、ルミナはますます楽しそうに目を細める。",
+      "zh": "似乎是因为这种反应让她很开心，露米娜越发愉快地眯起眼睛。"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "88eb3617",
+      "speaker": "",
+      "ja": "そして{G_PlayerName}の腕へ、自分の腕をそっと絡めた。",
+      "zh": "然后，她将自己的手臂轻轻挽上了{G_PlayerName}的胳膊。"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "fbf6948c",
+      "speaker": "ルミナ",
+      "ja": "だから今日は、帰るまで旦那様を借りるね",
+      "zh": "所以今天，在回家之前，老公就归我了哦。"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "b79c0d59",
+      "speaker": "{G_PlayerName}",
+      "ja": "拒否権は？",
+      "zh": "否决权呢？"
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "f42fc7e2",
+      "speaker": "ルミナ",
+      "ja": "ない、かな…！",
+      "zh": "没有，大概…！"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "5c4eccf6",
+      "speaker": "",
+      "ja": "ルミナは悪戯っぽく笑いながら、絡めた腕に少しだけ力を込める。",
+      "zh": "露米娜调皮地笑着，挽着的手臂微微加了点力道。"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "e640ab63",
+      "speaker": "ルミナ",
+      "ja": "未来のお嫁さんのお願いだから♥",
+      "zh": "这可是你未来老婆的请求哦♥"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "74aa48b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "お願いというより命令だろ",
+      "zh": "这哪是请求，分明是命令吧。"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "df76449a",
+      "speaker": "ルミナ",
+      "ja": "今日は少しくらい、わがままでもいいかなって♥",
+      "zh": "今天稍微任性一点，应该可以吧♥"
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "d979a38b",
+      "speaker": "",
+      "ja": "明るく答えたルミナだったが、その声だけは少しだけいつもの柔らかなものへと戻っていた。",
+      "zh": "露米娜回答得倒是轻快，但嗓音里却透出了她平时的那份温柔。"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "43f894d1",
+      "speaker": "",
+      "ja": "その変化に気付いた{G_PlayerName}は、ルミナの顔を覗き込む。",
+      "zh": "注意到这细微变化的{G_PlayerName}，转头看向她的脸。"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "5fba057a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……何かあったのか？",
+      "zh": "……发生什么了吗？"
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "fa0b2280",
+      "speaker": "",
+      "ja": "ルミナは少しだけ視線を逸らし、恥ずかしそうに小さく笑う。",
+      "zh": "露米娜微微移开视线，有些害羞地轻轻笑了笑。"
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "25761708",
+      "speaker": "ルミナ",
+      "ja": "旦那様が誰かと楽しそうにお話してるのを見てたらね",
+      "zh": "看到老公跟别人聊得那么开心，我就……"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "ef0ce1d1",
+      "speaker": "",
+      "ja": "ルミナは頬をわずかに赤らめると、絡めていた腕を離すことなく、さらに{G_PlayerName}の身体へ寄り添う。",
+      "zh": "露米娜的脸颊微微泛红，她没有松开手臂，反而更紧地依偎着{G_PlayerName}。"
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "6fcd92c5",
+      "speaker": "ルミナ",
+      "ja": "私も、その笑顔の隣にいたいなって思っちゃった",
+      "zh": "我就忍不住想，我也好想待在那笑容旁边啊。"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "8cf59141",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら最初からそう言ってくれればよかったのに",
+      "zh": "那你一开始就直接这么说不就好了。"
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "2c84f8f1",
+      "speaker": "ルミナ",
+      "ja": "嫉妬してるって思われるの、恥ずかしかったから",
+      "zh": "因为被当成在吃醋，有点难为情嘛。"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "20be15ba",
+      "speaker": "",
+      "ja": "ルミナが腕を抱く力が、先ほどよりも少しだけ強くなる。",
+      "zh": "露米娜抱住手臂的力道，比刚才稍微紧了一点。"
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "4a3d2f33",
+      "speaker": "ルミナ",
+      "ja": "でも今日は……少しくらい素直になっても、いいよね？",
+      "zh": "不过今天……稍微坦率一点，也可以吧？"
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "4c8e92f3",
+      "speaker": "",
+      "ja": "しおらしく尋ねてくるルミナを見て、{G_PlayerName}は優しく笑いながら頷く。",
+      "zh": "看着露米娜这么楚楚可怜地询问，{G_PlayerName}温柔地笑着点了点头。"
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "e5c81ec1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。今日はずっと隣にいるよ",
+      "zh": "嗯，今天我会一直陪在你身边。"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "46b461f0",
+      "speaker": "",
+      "ja": "その言葉を聞いたルミナは安心したように微笑み、{G_PlayerName}の肩へそっと寄り添った。",
+      "zh": "听到这话，露米娜安心地微笑起来，轻轻靠在了{G_PlayerName}的肩上。"
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "46fa8656",
+      "speaker": "ルミナ",
+      "ja": "ふふっ……ありがとう",
+      "zh": "呵呵……谢谢你。"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "c2a19623",
+      "speaker": "",
+      "ja": "植物園に差し込む穏やかな光の中で、二人は腕を組んだまま、ゆっくりと園内を歩き始める。",
+      "zh": "植物园里洒落着柔和的光，两人挽着胳膊，开始在园中慢慢漫步。"
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "2f1262bd",
+      "speaker": "ルミナ",
+      "ja": "今日は、ルミナが少しだけ嫉妬しちゃった日",
+      "zh": "今天，是露米娜有一点点吃醋的日子。"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "a33e21ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分で言うのか？",
+      "zh": "这话你自己说出来啊？"
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "eadf8bd6",
+      "speaker": "ルミナ",
+      "ja": "だって、忘れてほしくないから",
+      "zh": "因为，我不想让你忘掉嘛。"
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "c42536af",
+      "speaker": "",
+      "ja": "ルミナは一度足を止めると、{G_PlayerName}の腕を抱いたまま、甘えるようにこちらを見上げる。",
+      "zh": "露米娜停下脚步，抱着{G_PlayerName}的手臂，撒娇似的仰头看着他。"
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "30e0e975",
+      "speaker": "ルミナ",
+      "ja": "未来のお嫁さん、だから……",
+      "zh": "因为是未来的老婆嘛……"
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "25b9b38",
+      "speaker": "ルミナ",
+      "ja": "私だけ、見てくれなきゃ、やだよ……？♥",
+      "zh": "你不多看看我，我可不愿意哦……？♥"
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "522a086",
+      "speaker": "{G_PlayerName}",
+      "ja": "……わかったよ",
+      "zh": "……我知道了。"
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "85495270",
+      "speaker": "ルミナ",
+      "ja": "ふふっ♥",
+      "zh": "呵呵♥"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "d4d8c5c0",
+      "speaker": "",
+      "ja": "その後もルミナは{G_PlayerName}の腕を離そうとはせず、二人はお茶会の後の植物園で、誰にも邪魔されない甘い時間を過ごすのだった。",
+      "zh": "之后，露米娜也没有松开{G_PlayerName}的手臂，两人在茶会后的植物园里，度过了一段无人打扰的甜蜜时光。"
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "d34e12f9",
+      "speaker": "",
+      "ja": "サキュバス化が解けた後、ルミナは植物園での自分の言動を思い出し、みるみるうちに顔を真っ青にしていった。",
+      "zh": "魅魔化解除后，露米娜回想起自己在植物园里的言行，脸色眼看着越来越青。"
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "3bb1894",
+      "speaker": "ルミナ",
+      "ja": "ご、ごめんなさい、旦那様……！　私、あんなことを言うつもりじゃ……！",
+      "zh": "对、对不起，老公……！我没想说出那种话的……！"
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "d5f0fa16",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに謝らなくていいって。俺は楽しかったし",
+      "zh": "不用这么道歉啦。我倒挺开心的。"
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "627ec30d",
+      "speaker": "ルミナ",
+      "ja": "でも、あんなにわがままを言って……旦那様を困らせちゃって……",
+      "zh": "可是，我说了那么任性的话……还让老公为难了……"
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "7b8cde92",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり、あれはサキュバス化の影響だったのか？",
+      "zh": "果然，那都是魅魔化的影响吗？"
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "df2326f5",
+      "speaker": "ルミナ",
+      "ja": "そ、それは……",
+      "zh": "这、这个嘛……"
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "8fdbbaf5",
+      "speaker": "",
+      "ja": "ルミナは答えに困ったように視線を泳がせると、真っ赤になった顔を隠すように俯いてしまう。",
+      "zh": "露米娜似乎不知该如何回答，目光游移着，最后埋下头，像是想遮住通红的脸。"
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "4c198eb2",
+      "speaker": "",
+      "ja": "ルミナが大胆になったのは、やはりサキュバス化の影響だったのだろうか。",
+      "zh": "露米娜会变得如此大胆，果然还是魅魔化的影响吧。"
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "d3442c2d",
+      "speaker": "",
+      "ja": "そう考えると、{G_PlayerName}はほんの少しだけ寂しい気持ちになってしまう。",
+      "zh": "这么一想，{G_PlayerName}不免感到一丝寂寞。"
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "95af67cf",
+      "speaker": "",
+      "ja": "しかし、その夜。",
+      "zh": "就这样，到了晚上。"
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "35b9a47",
+      "speaker": "",
+      "ja": "自分の部屋へ戻ったルミナはベッドの上にうつ伏せになり、植物園での出来事を何度も思い返していた。",
+      "zh": "回到房间的露米娜趴在床上，脑子里一遍遍回想着白天在植物园的事。"
+    },
+    {
+      "key": "331.1",
+      "line_index": 331,
+      "inline_index": 1,
+      "line_hash": "3bcaf034",
+      "speaker": "ルミナ",
+      "ja": "（旦那様、今日はずっと隣にいるって言ってくれた……）",
+      "zh": "（老公他说了今天会一直陪在我身边……）"
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "b48621fd",
+      "speaker": "ルミナ",
+      "ja": "（それに、私が腕を組んでも、嫌がらなかった……）",
+      "zh": "（还有，我那样挽着他胳膊，他也没躲开……）"
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "f9abbf7f",
+      "speaker": "",
+      "ja": "嬉しさが込み上げてくるたびに、ルミナは枕へ顔を埋め、恥ずかしそうにベッドの上で足をじたばたさせる。",
+      "zh": "每有一股甜蜜涌上来，露米娜就把脸埋进枕头里，害羞得直蹬腿儿。"
+    },
+    {
+      "key": "339.1",
+      "line_index": 339,
+      "inline_index": 1,
+      "line_hash": "6af11cc5",
+      "speaker": "ルミナ",
+      "ja": "（でも、あんなこと言っちゃうなんて……！　私だけ見てほしいなんて……！）",
+      "zh": "（可我怎么会说那种话……！什么只许看着我一个人……！）"
+    },
+    {
+      "key": "343.1",
+      "line_index": 343,
+      "inline_index": 1,
+      "line_hash": "1dcb5181",
+      "speaker": "ルミナ",
+      "ja": "（……でも、本当の気持ちだったんだよね）",
+      "zh": "（……不过，那确实是我的真心话啊。）"
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "91e5f529",
+      "speaker": "",
+      "ja": "ルミナはそう思いながら枕をぎゅっと抱きしめると、幸せそうな笑みを浮かべる。",
+      "zh": "露米娜这样想着，把枕头紧紧搂在怀里，脸上浮现出幸福的笑容。"
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "bfdb2917",
+      "speaker": "ルミナ",
+      "ja": "（また、旦那様の隣にいられたらいいな……）",
+      "zh": "（还能再待在老公身边就好了……）"
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "dfc36026",
+      "speaker": "",
+      "ja": "植物園での思い出に浸りながら、ルミナは何度もベッドの上で足をばたつかせるのであった。",
+      "zh": "就这样，露米娜一边回味着植物园的记忆，一边在床上翻来覆去地蹬腿儿。"
+    }
+  ]
+}
