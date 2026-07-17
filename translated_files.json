@@ -625,7 +625,11 @@
     "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_101_0b27767faeabc4767d8c558525052db2.bundle",
     "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_201_117ad7aba0abebc86833a23f405d3280.bundle",
     "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_202_4dbd49f55889f6aeca3098624fb84538.bundle",
-    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_203_c4b1e84294d9536fcf1cdf9f5ceed56c.bundle"
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_203_c4b1e84294d9536fcf1cdf9f5ceed56c.bundle",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_101_ccf6779cef447d56b49180854559b51d.bundle",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_201_751a6133c7f8f36af8063c8e537944ce.bundle",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_202_2d2b9d608bb54258a1be4c2551b89fbe.bundle",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_203_0822c32c395c7b9d318f2672451e62d8.bundle"
   ],
   "sha256": {
     "translations/api/lilyange.saikyo.biz/character_story_index.json": "dbe33b4570f988a7d3f8a6b458cc771c2f128a6b802f289364b3aa7e1f4f6c1c",
@@ -1253,6 +1257,10 @@
     "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_101_0b27767faeabc4767d8c558525052db2.bundle": "2f613e4ab92ee8909cad33759fea8e4d1a7117f621161f568bb50210b02d665d",
     "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_201_117ad7aba0abebc86833a23f405d3280.bundle": "5a383883f25fa805cfef198ab7e696b0d0408255f4bd55f043009fb5cd4cc87b",
     "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_202_4dbd49f55889f6aeca3098624fb84538.bundle": "dab2ae54b68753458171f172d3e742d012477beff123fc7d893d78a907f7906a",
-    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_203_c4b1e84294d9536fcf1cdf9f5ceed56c.bundle": "6990291a86ce577b88ba16fd9c654451ae409590b72d6d8630a5c057206d1bab"
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_203_c4b1e84294d9536fcf1cdf9f5ceed56c.bundle": "6990291a86ce577b88ba16fd9c654451ae409590b72d6d8630a5c057206d1bab",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_101_ccf6779cef447d56b49180854559b51d.bundle": "9d245bfc69edc1b19196222109dc9f6afab7766ba23e8298386147847c5699df",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_201_751a6133c7f8f36af8063c8e537944ce.bundle": "f1662de4d2693d8ef5287103332c114c41607db9fb312b531df5c95d6e37d022",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_202_2d2b9d608bb54258a1be4c2551b89fbe.bundle": "d7fac55c75741c90aab5d0eea15d14f2b2bdbfd9a2a15bdf805eb6b073369505",
+    "bundles/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_203_0822c32c395c7b9d318f2672451e62d8.bundle": "4faf72e0b16d473b174140a3d5c84a7d667fa9b386cb4ea409a0e37cf3835ded"
   }
 }
