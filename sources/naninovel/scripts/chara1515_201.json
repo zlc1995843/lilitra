@@ -1,0 +1,1264 @@
+{
+  "lines": [
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "e5c556f",
+      "speaker": "{G_PlayerName}",
+      "ja": "先ほど宇宙について機械士さんに色々聞いたんですけど、聞けば聞くほど感心するところばかりですよね！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "53a27dc3",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分の想像が追い付かないというか……！！",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "575ffcb3",
+      "speaker": "東雲",
+      "ja": "ふむ……言いたいことはわからんでもないが小童、おぬし興奮し過ぎではないか？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "3ccae4bf",
+      "speaker": "東雲",
+      "ja": "物珍しいのはわかるが、ルドラムも似たようなものではないのかえ？",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "ed65c240",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それが！　こっちは宇宙を旅しているらしくて、僕たちの星からずーーっと遠いところにいるんですっ！",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "dfc9f7b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "他にもですね──",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "60356bd0",
+      "speaker": "",
+      "ja": "僕は少しでも”宇宙”ついて聞いたことを東雲さんに伝えていく。",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "a69de6d3",
+      "speaker": "",
+      "ja": "自身の見識が広がったことを少しでも多く東雲さんに伝えたくてたまらなくなってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "fc3b9cc1",
+      "speaker": "",
+      "ja": "それが僕の舌を普段よりも多く回し、気が付けば一方的に話してしまっていたが僕自身それに気が付いていなかった。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "b3f31c74",
+      "speaker": "東雲",
+      "ja": "（やれやれ珍しく口達者よのう……宇宙という存在は確かにわらわ達の視点から観れば珍しい場所……）",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "762657b6",
+      "speaker": "東雲",
+      "ja": "（想像を遥かに超えるほど広大ではあるが星と星の間には何も存在しない……そういえばルミナは宇宙を海に例える表現があると言っておったな……）",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "ff93e5bf",
+      "speaker": "東雲",
+      "ja": "（わらわにはそちらの表現の方がしっくりとくる……と言っても、子供のように瞳を輝かせている小童には伝わらんかもしれんな……）",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "e08f5e7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとですね──！",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "bac0a8e8",
+      "speaker": "東雲",
+      "ja": "──おぬし……よほどこちらの世界が好きなようじゃのう？　それならばいっそ、こちらの子になるか？",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "7d5c0c47",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　い、いや、そんなことは……！！",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "5df978e0",
+      "speaker": "東雲",
+      "ja": "どうやらこちらに来て、オスとしての自覚が薄れてきておるようじゃな……♥",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "eea53e49",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……！　東雲さんっ……！　ど、どこ触って……！！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "d5898b7d",
+      "speaker": "",
+      "ja": "東雲さんの小さく細い綺麗な指が僕の股間に触れ、思わず立ち上がってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "e50441f2",
+      "speaker": "",
+      "ja": "そんな僕を見て微笑むと、東雲さんはゆっくりと僕ににじり寄ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "9ff084dd",
+      "speaker": "東雲",
+      "ja": "元の世界の作法、しっかりと思い出させてやらぬとなぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "627611f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっ、やめ……きゃ、きゃーーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "e64e3407",
+      "speaker": "東雲",
+      "ja": "くすくす……♥　何を恐れておるのじゃ？♥　わらわとおぬしの仲じゃろう？♥",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "974df948",
+      "speaker": "",
+      "ja": "東雲さんはにっこりと微笑むと、尻尾がシュルシュルと僕の身体を拘束し始める。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "e6a4d311",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、恐れては……あっ！？♥　ひっ、あっ、だ、だめ……身体くすぐらないでくださいぃぃ～～っ！！♥　くひっ、ううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "f829583",
+      "speaker": "",
+      "ja": "ふわふわの尻尾が全身を撫で始め、くすぐったさに身体を捩らせながら悶える。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "17868b64",
+      "speaker": "",
+      "ja": "完全に僕の身体を知り尽くしたように尻尾が動き、的確にくすぐったい所を執拗に撫でまわす。",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "2334c4",
+      "speaker": "",
+      "ja": "東雲さんの笑みと焦らすような尻尾のくすぐり。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "9a6888c0",
+      "speaker": "",
+      "ja": "興奮に肉棒が勝手にムクムク勃起し始め、勃起した肉棒を見ながらくすくすと笑っていた。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "2df3ac1f",
+      "speaker": "東雲",
+      "ja": "普段でも感じやすいが、今日は特に勃起しやすくなっておるようじゃな♥　普段とは違う環境で興奮しやすくなっておるのか？♥",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "196db423",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふう、ふううっ！♥　東雲さんっ、くすぐるの……やめっ……んんんっ！！♥　い、息がっ……ううううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "ce528d78",
+      "speaker": "東雲",
+      "ja": "わらわの尻尾にずいぶんと感じておる様じゃな……♥　そんなにわらわに搾り取られたいと思っておったのか？♥",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "8c994e14",
+      "speaker": "",
+      "ja": "東雲さんは僕を嘲笑うように陰茎を僅かに扱く。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "3b7aa63",
+      "speaker": "",
+      "ja": "たったそれだけで信じられないほどの快感が背筋から脳に届き、ぬるっとした先走りが尿道からドクドクと溢れる。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "14b066e6",
+      "speaker": "",
+      "ja": "僕の反応に東雲さんは妖艶な笑みを見せ、小さく舌舐めずりをする。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "2134bdf8",
+      "speaker": "",
+      "ja": "そんな東雲さんにヘンに興奮が高ぶっていく。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "5104d3ef",
+      "speaker": "",
+      "ja": "今から精液を搾り取られる……それが分かっていても、オスとしての期待から東雲さんから目が離せなくなってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "8aca7595",
+      "speaker": "東雲",
+      "ja": "さて、それではそろそろ搾り取ってやろうかのう……♥",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "e6048077",
+      "speaker": "東雲",
+      "ja": "どんな場所にいようとも、わらわがどんなに小さくなろうとも、おぬしはわらわを喜ばせるためだけの存在……",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "fb12d908",
+      "speaker": "東雲",
+      "ja": "それをしっかりとおぬしのおちんぽと身体と心に刻み込んでやろう♥",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "4580ea7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう゛っ！♥　しっ、東雲さんっ！♥　らめぇっ！♥　うう、く、くうう！！♥",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "7751c8f3",
+      "speaker": "東雲",
+      "ja": "くすくす……♥　ダメではないじゃろう？♥　わらわにこうして欲しいから期待で男根を大きくさせているのじゃろう？♥",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "8942412",
+      "speaker": "東雲",
+      "ja": "おぬしがいくら隠そうとしてもオスの本能は隠せぬ……♥　瞳がわらわを求めいやらしく輝いているのがはっきりとわかるからな♥",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "53e0023d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ、ううう！！♥　そっ、そんな強くぅ……！♥　く、う、ううあああっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "dae26517",
+      "speaker": "東雲",
+      "ja": "（ふむ……手でオスを可愛がるのは初めてじゃが、意外とどうにでもなるものだな……♥）",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "2aab6ddd",
+      "speaker": "東雲",
+      "ja": "（それとも小童がただ感じやすいだけなのか……まぁどちらでも良い♥　このまま亀頭を弄っていれば射精するじゃろうしな♥）",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "75053cdc",
+      "speaker": "",
+      "ja": "東雲さんのすべすべの手のひらが亀頭を擦り上げ、快感に思わず腰が勝手に浮いてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "a0732acc",
+      "speaker": "",
+      "ja": "尻尾が不規則に僕の全身をくすぐり、不意打ちのようなくすぐったさに全身を悶えさせる。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "6ffadc7a",
+      "speaker": "",
+      "ja": "僕がどんなに身体を捩らせても東雲さんの尻尾は器用に動き、僕を感じさせようと乳首からワキ、そして足の指まで撫でる。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "590c8fe0",
+      "speaker": "",
+      "ja": "僕が快感から逃げるように身体を必死に捩らせても器用に尻尾は僕の全身を撫で、それが更なる快感を生みだし扱かれる快感がどんどん強くなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "49be35d9",
+      "speaker": "東雲",
+      "ja": "小さく、柔らかな手の平で亀頭を弄ばれるのはマゾのお前にとってさぞ気持ち良かろう？♥",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "500a94c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "う゛う゛！！♥　そ、そこダメですぅっ！！♥　あ、あっ！！♥　そ、そんな強くしないでぇっ！♥　おちんちん感じちゃうぅ～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "cf63e01",
+      "speaker": "",
+      "ja": "東雲さんは小刻みに裏筋をなぞり、ゾクゾクした快感が肉棒から全身へと走る。",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "a53af5f8",
+      "speaker": "",
+      "ja": "小さくなっても東雲さんは変わらない。",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "29396435",
+      "speaker": "",
+      "ja": "そのことが快感と興奮を呼び、僕の心臓がドクンドクンとさらに大きく鳴り響いていく。",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "27699d61",
+      "speaker": "東雲",
+      "ja": "今日は一段とオスの匂いが強いのう……♥　わらわも興奮せずにはいられぬ……♥",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "75e6d060",
+      "speaker": "東雲",
+      "ja": "身体が小さくなった故、わらわ自身の感覚が幼くなってしまっているかもしれぬな……♥",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "c972b411",
+      "speaker": "",
+      "ja": "東雲さんの言葉に思わず身体を見つめ、改めて普段の東雲さんとは違うことを認識してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "fbfc6f55",
+      "speaker": "",
+      "ja": "普段の妖艶さは感じるが、それ以上に可愛い、そう思わざるを得ない。",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "4a299fb",
+      "speaker": "",
+      "ja": "それが僕を普段以上に感じさせる要因になっているのかもしれない。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "20b5533a",
+      "speaker": "東雲",
+      "ja": "しかしこんな幼子にいい様にされて、情けなく喘ぎ声を出しおって♥",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "76f2bf62",
+      "speaker": "東雲",
+      "ja": "仕方のないヤツだ、わらわが尻尾でしっかりとあやしてやろうかのう♥",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "b4bf6012",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ！！♥　くすぐるの、ダメですってぇ……！♥　うう、ううううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "b7f22ced",
+      "speaker": "東雲",
+      "ja": "くすくす♥　全身に鳥肌が立っておるぞ♥　わらわの尻尾の毛も身体同様に幼くなってしまっておるようだ♥",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "c19708a",
+      "speaker": "東雲",
+      "ja": "過敏なおぬしの身体にはちと毒かもしれぬが……まぁおぬしが悶え苦しむのであればそれで良い♥　その方が濃密な精液を搾り取れるだろうからな♥",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "9bbcde72",
+      "speaker": "",
+      "ja": "東雲の尻尾が全身を撫でまわし、ただただひたすらに快感に悶える。",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "6782adf1",
+      "speaker": "",
+      "ja": "手のひらが尿道付近をグリグリと擦り始め、先走りをピンク色の亀頭に刷り込むように執拗に擦り上げられる。",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "32d6558",
+      "speaker": "",
+      "ja": "目の前の幼い妖狐から与えられる甘い快感に心も全身も蕩ける……そんな錯覚を覚えるほど僕のおちんちんと身体は感じてしまっていていた。",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "55979290",
+      "speaker": "東雲",
+      "ja": "さて……そろそろおぬしも限界のようだな♥　ふぅ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "376678e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひいいいいっ！？♥　息吹きかけるのダメぇっ！♥　あああああぁっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "a503c6fc",
+      "speaker": "東雲",
+      "ja": "そろそろ精液を搾り取ってやろう♥　わらわの手と尻尾で情けなく果てるが良い♥　くくっ♥",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "19c8db06",
+      "speaker": "{G_PlayerName}",
+      "ja": "う！♥　ううう！！♥　し、尻尾が……ああああぁっ！！♥　そこ撫でるのやめてぇっ！！♥　ああ、あああ～～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "5faf5a0d",
+      "speaker": "",
+      "ja": "東雲さんの柔らかな尻尾がカリ首をなぞり、快感の両足がガクガクと震える。",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "e62aadc5",
+      "speaker": "",
+      "ja": "スベスベの手の平と柔らかな尻尾の感触にどんどん強くなっていく射精感。",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "3c3d79ba",
+      "speaker": "",
+      "ja": "小さな手が陰茎の根元を執拗に扱き、僕は首をぶんぶんと横に振りながらこみ上げる射精感を必死に堪えていた。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "7d026629",
+      "speaker": "東雲",
+      "ja": "くすくす♥　わらわの幼い毛並みがずいぶんと気に入っておるようじゃな♥　ほれ、ほれ、もっと悶えろ、感じろ♥",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "b56135f7",
+      "speaker": "東雲",
+      "ja": "おぬしが宇宙にいようと元の世界にいようと、メスのエサでしかないことをしっかりと認識しろ♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "932636f9",
+      "speaker": "東雲",
+      "ja": "そして情けなく果てるが良い♥　おぬしのオスの欲望はわらわがすべて受け止めてやろう♥　さあいつでも吐き出すが良い♥",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "fcff2d70",
+      "speaker": "",
+      "ja": "東雲さんの尻尾がカリ首に纏わりつくと小刻みに上下に動く。",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "36ea5af3",
+      "speaker": "",
+      "ja": "手のひらが裏筋を執拗に擦り、どんどん強くなっていく射精感。",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "e3f3159c",
+      "speaker": "",
+      "ja": "甘すぎる快感にガマンの限界を超え、睾丸から一気に熱いモノがこみ上げ始める。",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "1009e895",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん、お、おっ！♥　イっちゃ、イっちゃ……！！♥　尻尾、気持ちいぃっ！！♥　イクイクイクっ！♥　イっちゃう～～～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "adf7d4bd",
+      "speaker": "東雲",
+      "ja": "さあイけ……！♥　おぬしの精液、わらわに堪能させよっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "c2aa255c",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぎぃぃぃぃっ！！♥　ううう、出、出ぇっ……！！♥　んく、くううぅぅぅっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "71ba7c3",
+      "speaker": "東雲",
+      "ja": "くくくっ♥　すごい勢いじゃのう♥　わらわの小さな手は気持ち良いか？♥　ほれほれ、もっと射精しろ♥　わらわの手で喜びに打ち震えるが良い♥",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "83ab9408",
+      "speaker": "{G_PlayerName}",
+      "ja": "お゛っ！♥　擦るの、らめぇえっ！♥　ま、また……ぐ、ぐ、ぐううっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "387fc70c",
+      "speaker": "",
+      "ja": "東雲さんは射精しているにも関わらず、執拗に肉棒を扱き何度も射精させてくる。",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "676ae069",
+      "speaker": "",
+      "ja": "東雲さんの手と尻尾で射精する喜びに打ち震えながら、何度も熱い塊を東雲さん目掛け吐き捨ててしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "f0fca998",
+      "speaker": "東雲",
+      "ja": "くす……♥　ずいぶんと蕩けた顔をしておるな……♥　わらわの手コキ、そんなに良かったかえ？♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "b594a179",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はひぃ……♥　しゅごく、気持ち良くてぇ……♥　おててもしっぽも……気持ち良すぎでしゅぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "decf6c0e",
+      "speaker": "東雲",
+      "ja": "くくく♥　素直じゃのう♥　良い子じゃ……♥",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "5869da31",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、あ……東雲さん……♥　あああ……♥",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "8dcb2c1f",
+      "speaker": "",
+      "ja": "射精の終えた肉棒を東雲は優しく撫で、甘い快感に心が蕩けていく。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "9538e2a2",
+      "speaker": "",
+      "ja": "尻尾が労わるように陰茎から睾丸を撫で、射精の余韻をより心地よいモノにしてくれた。",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "2e29bfd7",
+      "speaker": "東雲",
+      "ja": "くすくすくす……♥　そんなかわいい反応をされたら──",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "f47c87df",
+      "speaker": "{G_PlayerName}",
+      "ja": "──んぎいいいっ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "ad77f6c0",
+      "speaker": "東雲",
+      "ja": "もっとイジメたくなってしまうではないかっ♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "830bb4c1",
+      "speaker": "",
+      "ja": "東雲は急に手と尻尾を激しく動かし始め、射精直後の過敏な肉棒に強烈なまでの快感が走る。",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "a0053891",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もうイったのにぃっ！♥　な、なんでぇ！！♥　あああああああっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "dcf917c",
+      "speaker": "東雲",
+      "ja": "わらわが一度や二度の射精で満足できるわけがなかろう？♥　幼くなった故、性に対する欲もいつも以上に貪欲なのじゃ♥",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "bd44aa12",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、だからってぇっ！♥　すっ、少し休ませてくださいぃぃっ！！♥　先っぽ、つらいですぅっ！♥　うううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "1bb85a37",
+      "speaker": "東雲",
+      "ja": "これ、暴れるでない、この程度我慢できるじゃろう？♥　ほれほれほれぇっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "8654e965",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひぎぃっ！！♥　やめてぇっ！！♥　うう゛っ！♥　んぅう゛！！♥　うう！！♥",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "addb5483",
+      "speaker": "",
+      "ja": "尻尾が激しくカリ首を陰嚢を擦り、亀頭の先端をぬるぬるの手のひらがグリグリと動く。",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "312fdf17",
+      "speaker": "",
+      "ja": "どうにか快感から逃げようと必死にもがくが、身体を締め上げる尻尾にさらに力が入り身動きが取れない。",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "2ff33a9d",
+      "speaker": "",
+      "ja": "僕は無防備な肉棒を東雲さんの好き勝手に弄ばれ、もはや悲鳴を上げることしかできずにいた。",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "bae75ee9",
+      "speaker": "東雲",
+      "ja": "いいぞ……もっとわらわで感じろ……♥　今日のおぬしのオスの匂いはわらわを酔わせる……♥　どんな美酒でもこれほどわらわを酔わせることはあるまい……♥",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "24eb762a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう゛っ！♥　東雲さん、に、匂いなんて……嗅がないでぇ……！！♥　んぎ、ぎいいっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "3cf5132d",
+      "speaker": "東雲",
+      "ja": "いまさら肉棒の匂いを嗅がれて何を恥ずかしがるのじゃ？♥　これ以上のことは何度もしているじゃろうに♥",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "41cf1c35",
+      "speaker": "",
+      "ja": "東雲さんは僕をからかうように小さな鼻先を亀頭の先端に押し付ける。",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "680b828",
+      "speaker": "",
+      "ja": "執拗に肉棒の匂いを嗅がれ、恥ずかしさから全身から汗が噴き出る。",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "79aab87b",
+      "speaker": "",
+      "ja": "くんくんと匂いを嗅ぐ音が僕の耳まで届き、全身が震えてしまうほどの快感が僕を襲った。",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "62ef5812",
+      "speaker": "東雲",
+      "ja": "さらにオスの匂いが強くなってきたな……♥　次の射精はさらに期待できそうじゃ♥",
+      "zh": ""
+    },
+    {
+      "key": "370.0",
+      "line_index": 370,
+      "inline_index": 0,
+      "line_hash": "6fc51b32",
+      "speaker": "東雲",
+      "ja": "さぁもっと睾丸で精液を造れ♥　わらわが根こそぎ搾り取ってやるぞ♥",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "ee3b0889",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひいいいっ！！♥　んひぃっ！！♥　キンタマは、やめっ……ぐ、ぐううっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "2e94bc3",
+      "speaker": "東雲",
+      "ja": "なに……おぬしの精液を造る大切な場所じゃ、壊したりはせぬ♥　しかしそなたはマゾ故、限界を攻めないと嬉しくはないじゃろう？♥",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "f3a748ae",
+      "speaker": "東雲",
+      "ja": "ほれ、もっとじゃ、もっと濃密な精液を造り出せ♥",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "751962a2",
+      "speaker": "",
+      "ja": "東雲の尻尾がギリギリと睾丸を締め上げる。",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "39fd2d7a",
+      "speaker": "",
+      "ja": "痛みを感じるか感じないかのギリギリを攻められ、息が詰まるような苦痛と快感に首をぶんぶんと振り回す。",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "3a3df1a",
+      "speaker": "",
+      "ja": "貪欲なまでに精液を求める東雲さんの手がさらに激しく肉棒を扱き、射精したばかりだというのにもう次の射精が脳裏をチラつき始めてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "80d1a764",
+      "speaker": "東雲",
+      "ja": "はぁ、はぁぁ……♥　そなたの悶える姿にわらわの興奮もとまらぬ……♥",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "82f41952",
+      "speaker": "東雲",
+      "ja": "なんとも卑猥で美しく……そして醜い光景よ♥　ほれ、ほれぇ、もっと感じろ、悶えろ、喘げ喘げっ♥",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "5ec9e46a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう、うううっ！！♥　もうらめぇっ！♥　気持ちひぃっ！！♥　もぉ、イっぢゃ……イっちゃいますぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "3e0e62c4",
+      "speaker": "東雲",
+      "ja": "なら遠慮なく果てるが良い♥　幼きわらわに肉棒を蹂躙されながら果てろ♥　睾丸の中の精液を吐き出せっ♥",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "8811eb38",
+      "speaker": "{G_PlayerName}",
+      "ja": "んひいいいっ！！♥　出る、出る出るっ！！♥　せーえきびゅるびゅる出ちゃう～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "405.0",
+      "line_index": 405,
+      "inline_index": 0,
+      "line_hash": "6448e8c2",
+      "speaker": "東雲",
+      "ja": "イけ、イけ！♥　無様に果てる姿をわらわに見せよ♥　わらわの心をおぬしの悲鳴と精液で満たせっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "414.0",
+      "line_index": 414,
+      "inline_index": 0,
+      "line_hash": "570a506a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お゛お゛っ！♥　んぅ、うう、イ、イぃっ！！♥　んひぃぃぃっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "417.0",
+      "line_index": 417,
+      "inline_index": 0,
+      "line_hash": "4a6f462b",
+      "speaker": "",
+      "ja": "足がピンと伸びた瞬間、快感と共に陰茎をから熱い塊がこみ上げる。",
+      "zh": ""
+    },
+    {
+      "key": "419.0",
+      "line_index": 419,
+      "inline_index": 0,
+      "line_hash": "c779e003",
+      "speaker": "",
+      "ja": "真っ白な精液がびゅるびゅると先端から噴き出し、東雲さんの幼い顔が精液で真っ白に汚れていく。",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "79768c90",
+      "speaker": "",
+      "ja": "そんな東雲さんを見ているだけでさらに気分が昂ぶり、僕は何度も射精を繰り返してしてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "1ea2657d",
+      "speaker": "東雲",
+      "ja": "くはははっ♥　愛いのう♥　ほれほれ、もっとびゅるる～してみせよ♥",
+      "zh": ""
+    },
+    {
+      "key": "427.0",
+      "line_index": 427,
+      "inline_index": 0,
+      "line_hash": "38f23385",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう゛……やめ……ああああっ！！♥　うう、うううう、ううううううっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "2d4f4d89",
+      "speaker": "",
+      "ja": "興奮で瞳を輝かせながら、東雲さんは何度も射精を強要してくる。",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "3944db93",
+      "speaker": "",
+      "ja": "期待に応えるつもりはなかったが快感には抗えず、東雲さんの思惑通りに何度も熱いモノを肉棒の先端から出し続けてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "63d40387",
+      "speaker": "東雲",
+      "ja": "くすくす……ずいぶんと出たのう……♥　なんとも濃密でオス臭くて……れる、ちゅ……ちゅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "2b801947",
+      "speaker": "",
+      "ja": "東雲さんは顔に付いた精液を指で掬うと、ペロペロと舐め始める。",
+      "zh": ""
+    },
+    {
+      "key": "439.0",
+      "line_index": 439,
+      "inline_index": 0,
+      "line_hash": "e05755b1",
+      "speaker": "",
+      "ja": "幼い東雲さんが僕の精液を口に……それがさらに興奮を呼び肉棒がビクンビクンと跳ね上がってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "442.0",
+      "line_index": 442,
+      "inline_index": 0,
+      "line_hash": "527d5a76",
+      "speaker": "東雲",
+      "ja": "なんとも濃密で美味な精液じゃのう……♥　これは口で味わうだけではもったいないな♥",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "58f4e031",
+      "speaker": "東雲",
+      "ja": "さらに搾り取ってやらねばな……♥　それが真正のマゾであるおぬしの望みじゃろう？♥　くくく……♥",
+      "zh": ""
+    },
+    {
+      "key": "447.0",
+      "line_index": 447,
+      "inline_index": 0,
+      "line_hash": "269aabfc",
+      "speaker": "",
+      "ja": "東雲さんの幼い妖艶な笑みに僕の身体がゾクゾクと震え上がる。",
+      "zh": ""
+    },
+    {
+      "key": "448.0",
+      "line_index": 448,
+      "inline_index": 0,
+      "line_hash": "2eea26d",
+      "speaker": "",
+      "ja": "もっと東雲さんと……そんな想いが心の中で大きくなるのを感じながら、射精の余韻に天井をぼーっと見つめているのであった。",
+      "zh": ""
+    }
+  ]
+}

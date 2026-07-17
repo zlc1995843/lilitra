@@ -6168,5 +6168,115 @@
     "adv_id": 202,
     "story_name": "Hストーリー②",
     "source": "api"
+  },
+  {
+    "script": "chara1515_101",
+    "bundle": "chara1515_101_09bffa562587cfbf8030cf9ca483752e.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1515_101_09bffa562587cfbf8030cf9ca483752e.bundle",
+    "character_id": 1515,
+    "character_name": "東雲",
+    "adv_id": 101,
+    "story_name": "デートストーリー①",
+    "source": "api"
+  },
+  {
+    "script": "chara1515_201",
+    "bundle": "chara1515_201_40013953e8ee648541aba2767879e89c.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1515_201_40013953e8ee648541aba2767879e89c.bundle",
+    "character_id": 1515,
+    "character_name": "東雲",
+    "adv_id": 201,
+    "story_name": "Hストーリー①",
+    "source": "api"
+  },
+  {
+    "script": "chara1515_202",
+    "bundle": "chara1515_202_10a6ac0d11bbb264f8439dcea1e9b8cc.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1515_202_10a6ac0d11bbb264f8439dcea1e9b8cc.bundle",
+    "character_id": 1515,
+    "character_name": "東雲",
+    "adv_id": 202,
+    "story_name": "Hストーリー②",
+    "source": "api"
+  },
+  {
+    "script": "chara1516_101",
+    "bundle": "chara1516_101_0b27767faeabc4767d8c558525052db2.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_101_0b27767faeabc4767d8c558525052db2.bundle",
+    "character_id": 1516,
+    "character_name": "ルミナ(遥宙)",
+    "adv_id": 101,
+    "story_name": "デートストーリー①",
+    "source": "api"
+  },
+  {
+    "script": "chara1516_201",
+    "bundle": "chara1516_201_117ad7aba0abebc86833a23f405d3280.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_201_117ad7aba0abebc86833a23f405d3280.bundle",
+    "character_id": 1516,
+    "character_name": "ルミナ(遥宙)",
+    "adv_id": 201,
+    "story_name": "Hストーリー①",
+    "source": "api"
+  },
+  {
+    "script": "chara1516_202",
+    "bundle": "chara1516_202_4dbd49f55889f6aeca3098624fb84538.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_202_4dbd49f55889f6aeca3098624fb84538.bundle",
+    "character_id": 1516,
+    "character_name": "ルミナ(遥宙)",
+    "adv_id": 202,
+    "story_name": "Hストーリー②",
+    "source": "api"
+  },
+  {
+    "script": "chara1516_203",
+    "bundle": "chara1516_203_c4b1e84294d9536fcf1cdf9f5ceed56c.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1516_203_c4b1e84294d9536fcf1cdf9f5ceed56c.bundle",
+    "character_id": 1516,
+    "character_name": "ルミナ(遥宙)",
+    "adv_id": 203,
+    "story_name": "追加ストーリー：淫魔の来訪",
+    "source": "api"
+  },
+  {
+    "script": "chara1517_101",
+    "bundle": "chara1517_101_ccf6779cef447d56b49180854559b51d.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_101_ccf6779cef447d56b49180854559b51d.bundle",
+    "character_id": 1517,
+    "character_name": "コハル(巡宙)",
+    "adv_id": 101,
+    "story_name": "デートストーリー①",
+    "source": "api"
+  },
+  {
+    "script": "chara1517_201",
+    "bundle": "chara1517_201_751a6133c7f8f36af8063c8e537944ce.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_201_751a6133c7f8f36af8063c8e537944ce.bundle",
+    "character_id": 1517,
+    "character_name": "コハル(巡宙)",
+    "adv_id": 201,
+    "story_name": "Hストーリー①",
+    "source": "api"
+  },
+  {
+    "script": "chara1517_202",
+    "bundle": "chara1517_202_2d2b9d608bb54258a1be4c2551b89fbe.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_202_2d2b9d608bb54258a1be4c2551b89fbe.bundle",
+    "character_id": 1517,
+    "character_name": "コハル(巡宙)",
+    "adv_id": 202,
+    "story_name": "Hストーリー②",
+    "source": "api"
+  },
+  {
+    "script": "chara1517_203",
+    "bundle": "chara1517_203_0822c32c395c7b9d318f2672451e62d8.bundle",
+    "url": "https://dok6uc0hyhl8f.cloudfront.net/WebGL/naninovelseparate_assets_naninovel/scripts/chara1517_203_0822c32c395c7b9d318f2672451e62d8.bundle",
+    "character_id": 1517,
+    "character_name": "コハル(巡宙)",
+    "adv_id": 203,
+    "story_name": "追加ストーリー：夜魔の結実",
+    "source": "api"
   }
 ]

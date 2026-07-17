@@ -391,6 +391,15 @@ def load_name_glossary(repo_root: pathlib.Path) -> Dict[str, str]:
         zh = item.get("zh", "")
         if ja and zh:
             result[ja] = zh
+    confirmed_glossary = repo_root / "Lang/CHS/translation-glossary.json"
+    if confirmed_glossary.exists():
+        try:
+            data = read_json(confirmed_glossary)
+            terms = data.get("terms", {}) if isinstance(data, dict) else {}
+            if isinstance(terms, dict):
+                result.update({str(k): str(v) for k, v in terms.items() if k and v})
+        except Exception:
+            pass
     external = pathlib.Path(r"C:\Users\曾罗畅\Downloads\莉莉对照")
     external_names = external / "name_glossary.json"
     if external_names.exists():

@@ -1,0 +1,616 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "6a3bf764",
+      "speaker": "東雲",
+      "ja": "……これが星の外……宇宙、か",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "92782ee0",
+      "speaker": "東雲",
+      "ja": "話には聞いていたが、改めて自身で確認するとその広大さがよくわかる",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "d4ca6dd9",
+      "speaker": "東雲",
+      "ja": "数え切れぬほどの無数の星々と永遠の闇が続く空間……このスケール感にはさすがに圧倒されてしまう",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "e1869c8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、東雲さ……！",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "2e97d0d8",
+      "speaker": "",
+      "ja": "僕は東雲さんの姿を見かけ、声を掛けるがその言葉が途中で止まってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "2a74bfb0",
+      "speaker": "",
+      "ja": "憂いを帯びた表情に口が閉じてしまい、声を掛けていいのだろうか、そんな風に感じてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "3ade4f0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（僕たちの世界はとても広い……リルムたちといろんな国を旅していろんな人に出会った）",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "7c9b6288",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもその広さもこの広大すぎる宇宙では一つの星に過ぎない……そう考えると宇宙は本当に途方もない所なんだと認識してしまう）",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "6afabdc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんな宇宙を見て、東雲さん寂しくなっているのかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "ee72db5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ううん、違う。たぶん……あんなに激しく、苦しい呪いに立ち向かった僕たちの星がこの銀河の中でちっぽけだから……）",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b4040f21",
+      "speaker": "{G_PlayerName}",
+      "ja": "（自分たちの儚さを憂いているのかもしれない……大妖怪として長生きしている東雲さんの思うことは僕とは比較にできないくらいだと思うし……）",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "c26ef5e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうだ！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "4e15df75",
+      "speaker": "東雲",
+      "ja": "小童め……何故わらわに声を掛けぬのじゃ……？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "701c4996",
+      "speaker": "",
+      "ja": "本人はなにやら隠れているつもりだったようだが、隠しきれぬ気配をすぐに察知してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "1ad5b734",
+      "speaker": "",
+      "ja": "幼くなってもわらわの能力に何一つ劣化することなどない……いや、幼くなったからこそより感覚が鋭敏になっているとさえ思えてくる。",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "7c7274a7",
+      "speaker": "東雲",
+      "ja": "もしや、狭い惑星内の旅より宇宙を駆けることに見入られているのではないだろうな……？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "719fc127",
+      "speaker": "東雲",
+      "ja": "……それも仕方あるまいか。アレはわらわが考えるよりも度量の大きな男。縛っておける存在ではないな",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "f3193fb5",
+      "speaker": "東雲",
+      "ja": "長く生き過ぎた妖怪の驕りか……わらわの手元においておけるものじゃと、つい……そう信じてしまう",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "acc17006",
+      "speaker": "東雲",
+      "ja": "今は華奢で脆弱なオスだとしてもいつかは外の世界に……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "e0a5243a",
+      "speaker": "東雲",
+      "ja": "こちらの世界に夢中になり元の世界への執着が無くなるのなら、それが小童の運命なのじゃろう……",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "fafbfe3d",
+      "speaker": "",
+      "ja": "わらわの中で諦観の二文字がどんどん大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "2e859f43",
+      "speaker": "",
+      "ja": "小童のいない世界を想像するだけで、心に靄が……。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "1e134fa3",
+      "speaker": "",
+      "ja": "どんなにポジティブに未来を予想しても、その未来は決して明るくなることはない。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "38c12592",
+      "speaker": "東雲",
+      "ja": "もしわらわの予想通り小童が外の世界へと旅立つとき、わらわはどんな顔をすればよいのだろうな……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "3ff3837f",
+      "speaker": "東雲",
+      "ja": "この船に残るのか、それとも一人でこの広大な宇宙を旅するのか……",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "edf9708c",
+      "speaker": "東雲",
+      "ja": "わらわが”ついて行く”と言ったら小童はどんな顔を──",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "60563091",
+      "speaker": "東雲",
+      "ja": "──いや、わらわは何を想像しておるのだ。どうやら身体だけではなく心まで幼くなってしまっておるようだ",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "b208f434",
+      "speaker": "東雲",
+      "ja": "小童がどこで何をしようとも、わらわにはわらわの役目がある",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "76471924",
+      "speaker": "東雲",
+      "ja": "余計なことなど考えるな……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "b83f77d6",
+      "speaker": "",
+      "ja": "わらわは自らを落ち着かせようと窓にコツンと額をくっつける。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "b8cd3820",
+      "speaker": "",
+      "ja": "窓はひんやりしている、そう思ったがこの宇宙船ではそんなことはないようだ。",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "21a72a3",
+      "speaker": "",
+      "ja": "本当に住む世界が違うのだと、そう思わざるを得なかった。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "442a244b",
+      "speaker": "{G_PlayerName}",
+      "ja": "──東雲さんっ！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "50a485f7",
+      "speaker": "東雲",
+      "ja": "──小童！？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "6bb730e5",
+      "speaker": "",
+      "ja": "僕が声を掛けると、東雲さんは驚きながらこちらを振り向く。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "64dc82cd",
+      "speaker": "",
+      "ja": "東雲さんにしては珍しい光景に思わず笑みが零れる。",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "8924f21c",
+      "speaker": "",
+      "ja": "東雲さんは小さく咳ばらいをすると、僅かに頬を赤らめながら僕の方へと歩みを進めてきた。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "2578a527",
+      "speaker": "東雲",
+      "ja": "突然声を掛けおって……何か用……ん？　何やら甘い匂いがするな",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "7d919068",
+      "speaker": "{G_PlayerName}",
+      "ja": "えへへ、お願いして作ってもらっちゃいました。東雲さん、どうぞ",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "1633dcea",
+      "speaker": "",
+      "ja": "僕は東雲さんにマグカップを渡すと、戸惑い気味にそれを受け取る。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6bfaef5c",
+      "speaker": "",
+      "ja": "初めて見る飲み物だからか、少し警戒した様子だったが、甘い匂いに釣られるようにそっと飲み始めた。",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "932b086",
+      "speaker": "東雲",
+      "ja": "ずいぶんと甘いな……これは何なのだ？",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "b425d163",
+      "speaker": "{G_PlayerName}",
+      "ja": "マシュマロ入りのココアです。甘いのは気分が落ち着くからと機械士さんが教えてくれて、それで東雲さんにって",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "2ededbe3",
+      "speaker": "東雲",
+      "ja": "ココアか……そういえば幼少の頃一度だけ飲んだ記憶があるな……ずいぶんとハイカラな飲み物じゃのう",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "93c6c0ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "東雲さん、寒くないですか？　ブランケットも借りてきましたからよかったら使ってください",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "bcb3a02f",
+      "speaker": "東雲",
+      "ja": "いや、寒さは特に──",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "e5e01f34",
+      "speaker": "東雲",
+      "ja": "（いや、ここは小童の心遣いを無下にするわけにはいかぬな……）",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "9372ae88",
+      "speaker": "東雲",
+      "ja": "（どうやら考えすぎていたようだ……小童がわらわ達を捨てて旅立つなどあり得ぬことだった）",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "7406abad",
+      "speaker": "東雲",
+      "ja": "（小童には申し訳ない未来を描いてしまっていたな……わらわもまだまだ、か……）",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "4c0ae94d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの……東雲さん？　使わないのでしたら……",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "477cfb07",
+      "speaker": "東雲",
+      "ja": "誰も使わぬとは言っておらぬじゃろう？　少し冷えるぞ。おぬし、子供体温じゃろう？　わらわのことを温めておくれ",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "f1769657",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　僕がですか……？　で、でも外見のことを言うのでしたら東雲さんも似たようなものだと思いますけど……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "f5b15870",
+      "speaker": "東雲",
+      "ja": "いいからわらわをおぬしの体温で温めろ",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "c598cb26",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ、わかりました……！　それではその、し、失礼、します……",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "e8fd31b9",
+      "speaker": "",
+      "ja": "僕たちは近くにあった長椅子に腰を下ろすと、二人の身体を包み込むようにブランケットをかける。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "b5f75b11",
+      "speaker": "",
+      "ja": "東雲さんのぬくもりをすぐ近くに感じて、胸がどきどきと高鳴ってきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "f68df5af",
+      "speaker": "東雲",
+      "ja": "ふふ……やはりそなたは子供体温だな。このぬくもりが心地よいぞ",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "3256a05d",
+      "speaker": "{G_PlayerName}",
+      "ja": "東雲さんもその……暖かい、です……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "33fc7911",
+      "speaker": "東雲",
+      "ja": "それはわらわが幼い姿をしておるからか？",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "634e03ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "いえ、東雲さんの外見がどうであれ、東雲さんはいつも暖かいです",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "3509d375",
+      "speaker": "東雲",
+      "ja": "そうか……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "94f8c82f",
+      "speaker": "東雲",
+      "ja": "（そうじゃ、この子は成長が早い……わらわの想像など簡単に超えていってしまう、そんな子じゃ）",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "c860ddd4",
+      "speaker": "東雲",
+      "ja": "（未来はどうなるか誰にもわからぬが、小童がいれば未来も明るいだろう……たぶん、な）",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "f65a4a9a",
+      "speaker": "東雲",
+      "ja": "ココア、美味いな",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "7c772abc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうですね。作り方も教えてもらいましたし、僕たちの世界に戻ってからも作りますね",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "4bcb0fd2",
+      "speaker": "東雲",
+      "ja": "ふふ、それは楽しみじゃ……ふふふふ",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "768bf5b",
+      "speaker": "",
+      "ja": "東雲さんが美味しそうにココアを飲み、僕も同じようにココアを啜る。",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "6c111233",
+      "speaker": "",
+      "ja": "これ以上僕たちは言葉を交わすことなく、お互いのぬくもりを感じ合いながら窓から見える広大な星々を見つめているのであった。",
+      "zh": ""
+    }
+  ]
+}

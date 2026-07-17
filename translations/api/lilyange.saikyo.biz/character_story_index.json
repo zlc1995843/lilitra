@@ -33,17 +33,17 @@
     "user_status": 0,
     "chat_skin": 0,
     "is_home_random": 0,
-    "stamina_diff": -40386067,
+    "stamina_diff": -41573209,
     "game_announce": "",
     "coin_url": "https://lilyange.webaccel.saikyo.biz/img/currency/currency1.png",
     "free_stone_url": "https://lilyange.webaccel.saikyo.biz/img/currency/currency2.png",
     "payment_stone_url": "https://lilyange.webaccel.saikyo.biz/img/currency/currency3.png",
     "friend_point_url": "https://lilyange.webaccel.saikyo.biz/img/currency/currency4.png",
     "dmm_point_url": "https://lilyange.webaccel.saikyo.biz/img/currency/currencydmm_point.png",
-    "m_ver": 21,
+    "m_ver": 21.3,
     "shop_badge": 1,
-    "now_date": "2036-07-09",
-    "now_datetime": "2036-07-09 21:33:38",
+    "now_date": "2036-07-17",
+    "now_datetime": "2036-07-17 18:21:16",
     "chat_ban_flg": 0
   },
   "character_list": [
@@ -78,6 +78,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1001,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1001_icon",
+      "already_have": true,
       "story": [
         {
           "id": 1,
@@ -126,6 +127,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1002,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1002_icon",
+      "already_have": true,
       "story": [
         {
           "id": 2,
@@ -174,6 +176,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1003,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1003_icon",
+      "already_have": true,
       "story": [
         {
           "id": 3,
@@ -222,6 +225,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1004,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1004_icon",
+      "already_have": true,
       "story": [
         {
           "id": 4,
@@ -270,6 +274,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1005,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1005_icon",
+      "already_have": true,
       "story": [
         {
           "id": 5,
@@ -318,6 +323,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1006,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1006_icon",
+      "already_have": true,
       "story": [
         {
           "id": 6,
@@ -366,6 +372,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1007,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1007_icon",
+      "already_have": true,
       "story": [
         {
           "id": 7,
@@ -414,6 +421,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1008,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1008_icon",
+      "already_have": true,
       "story": [
         {
           "id": 8,
@@ -462,6 +470,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1009,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1009_icon",
+      "already_have": true,
       "story": [
         {
           "id": 9,
@@ -510,6 +519,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1010,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1010_icon",
+      "already_have": true,
       "story": [
         {
           "id": 10,
@@ -558,6 +568,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1011,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1011_icon",
+      "already_have": true,
       "story": [
         {
           "id": 11,
@@ -606,6 +617,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1012,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1012_icon",
+      "already_have": true,
       "story": [
         {
           "id": 12,
@@ -654,6 +666,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1013,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1013_icon",
+      "already_have": true,
       "story": [
         {
           "id": 13,
@@ -702,6 +715,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1014,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1014_icon",
+      "already_have": true,
       "story": [
         {
           "id": 14,
@@ -750,6 +764,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1015,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1015_icon",
+      "already_have": true,
       "story": [
         {
           "id": 15,
@@ -798,6 +813,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1016,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1016_icon",
+      "already_have": true,
       "story": [
         {
           "id": 16,
@@ -846,6 +862,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1017,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1017_icon",
+      "already_have": true,
       "story": [
         {
           "id": 17,
@@ -894,6 +911,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1018,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1018_icon",
+      "already_have": true,
       "story": [
         {
           "id": 18,
@@ -942,6 +960,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1019,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1019_icon",
+      "already_have": true,
       "story": [
         {
           "id": 19,
@@ -990,6 +1009,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1020,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1020_icon",
+      "already_have": true,
       "story": [
         {
           "id": 20,
@@ -1038,6 +1058,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1021,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1021_icon",
+      "already_have": false,
       "story": [
         {
           "id": 21,
@@ -1128,6 +1149,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1022,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1022_icon",
+      "already_have": true,
       "story": [
         {
           "id": 24,
@@ -1204,6 +1226,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1023,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1023_icon",
+      "already_have": false,
       "story": [
         {
           "id": 27,
@@ -1280,6 +1303,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1024,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1024_icon",
+      "already_have": false,
       "story": [
         {
           "id": 30,
@@ -1356,6 +1380,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1025,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1025_icon",
+      "already_have": false,
       "story": [
         {
           "id": 33,
@@ -1432,6 +1457,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1026,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1026_icon",
+      "already_have": false,
       "story": [
         {
           "id": 36,
@@ -1508,6 +1534,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1027,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1027_icon",
+      "already_have": true,
       "story": [
         {
           "id": 39,
@@ -1584,6 +1611,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1028,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1028_icon",
+      "already_have": false,
       "story": [
         {
           "id": 42,
@@ -1660,6 +1688,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1029,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1029_icon",
+      "already_have": false,
       "story": [
         {
           "id": 45,
@@ -1736,6 +1765,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1030,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1030_icon",
+      "already_have": false,
       "story": [
         {
           "id": 48,
@@ -1812,6 +1842,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1031,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1031_icon",
+      "already_have": false,
       "story": [
         {
           "id": 51,
@@ -1888,6 +1919,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1032,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1032_icon",
+      "already_have": false,
       "story": [
         {
           "id": 54,
@@ -1964,6 +1996,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1033,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1033_icon",
+      "already_have": false,
       "story": [
         {
           "id": 57,
@@ -2040,6 +2073,7 @@
       "next_affinity_exp": 10,
       "m_character_id": 1034,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1034_icon",
+      "already_have": true,
       "story": [
         {
           "id": 60,
@@ -2116,6 +2150,7 @@
       "next_affinity_exp": 673,
       "m_character_id": 1035,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1035_icon",
+      "already_have": true,
       "story": [
         {
           "id": 63,
@@ -2192,6 +2227,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1036,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1036_icon",
+      "already_have": false,
       "story": [
         {
           "id": 66,
@@ -2268,6 +2304,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1037,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1037_icon",
+      "already_have": false,
       "story": [
         {
           "id": 69,
@@ -2344,6 +2381,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1038,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1038_icon",
+      "already_have": false,
       "story": [
         {
           "id": 72,
@@ -2420,6 +2458,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1039,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1039_icon",
+      "already_have": false,
       "story": [
         {
           "id": 75,
@@ -2496,6 +2535,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1040,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1040_icon",
+      "already_have": false,
       "story": [
         {
           "id": 78,
@@ -2572,6 +2612,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1041,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1041_icon",
+      "already_have": false,
       "story": [
         {
           "id": 81,
@@ -2648,6 +2689,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1042,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1042_icon",
+      "already_have": false,
       "story": [
         {
           "id": 84,
@@ -2724,6 +2766,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1043,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1043_icon",
+      "already_have": false,
       "story": [
         {
           "id": 87,
@@ -2800,6 +2843,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1044,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1044_icon",
+      "already_have": false,
       "story": [
         {
           "id": 90,
@@ -2876,6 +2920,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1072,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1072_icon",
+      "already_have": false,
       "story": [
         {
           "id": 105,
@@ -2952,6 +2997,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1048,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1048_icon",
+      "already_have": false,
       "story": [
         {
           "id": 102,
@@ -3028,6 +3074,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1102,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1102_icon",
+      "already_have": false,
       "story": [
         {
           "id": 108,
@@ -3104,6 +3151,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1046,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1046_icon",
+      "already_have": false,
       "story": [
         {
           "id": 96,
@@ -3180,6 +3228,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1047,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1047_icon",
+      "already_have": false,
       "story": [
         {
           "id": 99,
@@ -3256,6 +3305,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1055,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1055_icon",
+      "already_have": false,
       "story": [
         {
           "id": 111,
@@ -3332,6 +3382,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1103,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1103_icon",
+      "already_have": false,
       "story": [
         {
           "id": 114,
@@ -3408,6 +3459,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1104,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1104_icon",
+      "already_have": false,
       "story": [
         {
           "id": 117,
@@ -3484,6 +3536,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1105,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1105_icon",
+      "already_have": false,
       "story": [
         {
           "id": 120,
@@ -3560,6 +3613,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1106,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1106_icon",
+      "already_have": false,
       "story": [
         {
           "id": 123,
@@ -3636,6 +3690,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1050,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1050_icon",
+      "already_have": false,
       "story": [
         {
           "id": 129,
@@ -3712,6 +3767,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1051,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1051_icon",
+      "already_have": false,
       "story": [
         {
           "id": 132,
@@ -3788,6 +3844,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1049,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1049_icon",
+      "already_have": false,
       "story": [
         {
           "id": 126,
@@ -3864,6 +3921,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1108,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1108_icon",
+      "already_have": false,
       "story": [
         {
           "id": 135,
@@ -3940,6 +3998,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1109,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1109_icon",
+      "already_have": false,
       "story": [
         {
           "id": 138,
@@ -4016,6 +4075,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1110,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1110_icon",
+      "already_have": false,
       "story": [
         {
           "id": 141,
@@ -4092,6 +4152,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1111,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1111_icon",
+      "already_have": false,
       "story": [
         {
           "id": 144,
@@ -4168,6 +4229,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1112,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1112_icon",
+      "already_have": false,
       "story": [
         {
           "id": 147,
@@ -4244,6 +4306,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1113,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1113_icon",
+      "already_have": false,
       "story": [
         {
           "id": 150,
@@ -4320,6 +4383,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1114,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1114_icon",
+      "already_have": false,
       "story": [
         {
           "id": 153,
@@ -4396,6 +4460,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1115,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1115_icon",
+      "already_have": false,
       "story": [
         {
           "id": 156,
@@ -4472,6 +4537,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1116,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1116_icon",
+      "already_have": false,
       "story": [
         {
           "id": 159,
@@ -4548,6 +4614,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1117,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1117_icon",
+      "already_have": false,
       "story": [
         {
           "id": 162,
@@ -4624,6 +4691,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1118,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1118_icon",
+      "already_have": false,
       "story": [
         {
           "id": 165,
@@ -4700,6 +4768,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1119,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1119_icon",
+      "already_have": false,
       "story": [
         {
           "id": 168,
@@ -4776,6 +4845,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1120,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1120_icon",
+      "already_have": false,
       "story": [
         {
           "id": 171,
@@ -4852,6 +4922,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1121,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1121_icon",
+      "already_have": false,
       "story": [
         {
           "id": 174,
@@ -4928,6 +4999,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1122,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1122_icon",
+      "already_have": false,
       "story": [
         {
           "id": 177,
@@ -5004,6 +5076,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1045,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1045_icon",
+      "already_have": false,
       "story": [
         {
           "id": 93,
@@ -5080,6 +5153,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1124,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1124_icon",
+      "already_have": false,
       "story": [
         {
           "id": 183,
@@ -5156,6 +5230,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1126,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1126_icon",
+      "already_have": false,
       "story": [
         {
           "id": 189,
@@ -5232,6 +5307,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1123,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1123_icon",
+      "already_have": false,
       "story": [
         {
           "id": 180,
@@ -5308,6 +5384,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1125,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1125_icon",
+      "already_have": false,
       "story": [
         {
           "id": 186,
@@ -5384,6 +5461,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1127,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1127_icon",
+      "already_have": false,
       "story": [
         {
           "id": 192,
@@ -5460,6 +5538,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1128,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1128_icon",
+      "already_have": false,
       "story": [
         {
           "id": 195,
@@ -5536,6 +5615,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1129,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1129_icon",
+      "already_have": false,
       "story": [
         {
           "id": 198,
@@ -5612,6 +5692,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1130,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1130_icon",
+      "already_have": false,
       "story": [
         {
           "id": 201,
@@ -5688,6 +5769,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1202,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1202_icon",
+      "already_have": false,
       "story": [
         {
           "id": 207,
@@ -5764,6 +5846,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1203,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1203_icon",
+      "already_have": false,
       "story": [
         {
           "id": 210,
@@ -5840,6 +5923,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1204,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1204_icon",
+      "already_have": false,
       "story": [
         {
           "id": 213,
@@ -5916,6 +6000,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1201,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1201_icon",
+      "already_have": false,
       "story": [
         {
           "id": 204,
@@ -5992,6 +6077,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1205,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1205_icon",
+      "already_have": false,
       "story": [
         {
           "id": 216,
@@ -6068,6 +6154,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1207,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1207_icon",
+      "already_have": false,
       "story": [
         {
           "id": 222,
@@ -6144,6 +6231,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1206,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1206_icon",
+      "already_have": false,
       "story": [
         {
           "id": 219,
@@ -6220,6 +6308,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1208,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1208_icon",
+      "already_have": false,
       "story": [
         {
           "id": 225,
@@ -6296,6 +6385,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1209,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1209_icon",
+      "already_have": false,
       "story": [
         {
           "id": 228,
@@ -6372,6 +6462,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1210,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1210_icon",
+      "already_have": false,
       "story": [
         {
           "id": 231,
@@ -6448,6 +6539,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1211,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1211_icon",
+      "already_have": false,
       "story": [
         {
           "id": 234,
@@ -6524,6 +6616,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1212,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1212_icon",
+      "already_have": false,
       "story": [
         {
           "id": 237,
@@ -6600,6 +6693,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1213,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1213_icon",
+      "already_have": false,
       "story": [
         {
           "id": 240,
@@ -6676,6 +6770,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1215,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1215_icon",
+      "already_have": false,
       "story": [
         {
           "id": 246,
@@ -6752,6 +6847,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1214,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1214_icon",
+      "already_have": false,
       "story": [
         {
           "id": 243,
@@ -6828,6 +6924,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1216,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1216_icon",
+      "already_have": false,
       "story": [
         {
           "id": 249,
@@ -6904,6 +7001,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1217,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1217_icon",
+      "already_have": false,
       "story": [
         {
           "id": 252,
@@ -6980,6 +7078,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1218,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1218_icon",
+      "already_have": false,
       "story": [
         {
           "id": 255,
@@ -7056,6 +7155,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1220,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1220_icon",
+      "already_have": false,
       "story": [
         {
           "id": 258,
@@ -7132,6 +7232,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1221,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1221_icon",
+      "already_have": false,
       "story": [
         {
           "id": 261,
@@ -7208,6 +7309,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1222,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1222_icon",
+      "already_have": false,
       "story": [
         {
           "id": 264,
@@ -7284,6 +7386,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1223,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1223_icon",
+      "already_have": false,
       "story": [
         {
           "id": 267,
@@ -7360,6 +7463,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1224,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1224_icon",
+      "already_have": false,
       "story": [
         {
           "id": 270,
@@ -7436,6 +7540,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1226,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1226_icon",
+      "already_have": false,
       "story": [
         {
           "id": 276,
@@ -7512,6 +7617,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1225,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1225_icon",
+      "already_have": false,
       "story": [
         {
           "id": 273,
@@ -7588,6 +7694,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1227,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1227_icon",
+      "already_have": false,
       "story": [
         {
           "id": 279,
@@ -7664,6 +7771,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1228,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1228_icon",
+      "already_have": false,
       "story": [
         {
           "id": 282,
@@ -7740,6 +7848,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1229,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1229_icon",
+      "already_have": false,
       "story": [
         {
           "id": 285,
@@ -7816,6 +7925,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1230,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1230_icon",
+      "already_have": false,
       "story": [
         {
           "id": 288,
@@ -7892,6 +8002,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1231,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1231_icon",
+      "already_have": false,
       "story": [
         {
           "id": 291,
@@ -7968,6 +8079,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1232,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1232_icon",
+      "already_have": false,
       "story": [
         {
           "id": 294,
@@ -8044,6 +8156,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1233,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1233_icon",
+      "already_have": false,
       "story": [
         {
           "id": 297,
@@ -8120,6 +8233,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1234,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1234_icon",
+      "already_have": false,
       "story": [
         {
           "id": 300,
@@ -8196,6 +8310,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1235,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1235_icon",
+      "already_have": false,
       "story": [
         {
           "id": 303,
@@ -8272,6 +8387,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1236,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1236_icon",
+      "already_have": false,
       "story": [
         {
           "id": 306,
@@ -8348,6 +8464,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1237,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1237_icon",
+      "already_have": false,
       "story": [
         {
           "id": 309,
@@ -8424,6 +8541,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1238,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1238_icon",
+      "already_have": false,
       "story": [
         {
           "id": 312,
@@ -8470,84 +8588,8 @@
       ]
     },
     {
-      "id": 1513,
-      "book_number": 119,
-      "class_id": 4,
-      "unit_base_id": 77,
-      "chara_name": "拉古谢(泳装)",
-      "rarity": 3,
-      "hp": 620,
-      "attack": 122,
-      "defense": 77,
-      "crit_rate": 0.1,
-      "crit_damage": 0.15,
-      "dodge_rate": 0.05,
-      "attack_resistance": 0,
-      "crit_resistance": 0,
-      "hp_growth": 35,
-      "attack_growth": 4.5,
-      "defense_growth": 2.1,
-      "ult_group": 15131,
-      "passive_group": 15132,
-      "normal_show": 0,
-      "ult_show": 0,
-      "attack_effect": 0,
-      "voice": 0,
-      "piece": 1513,
-      "release_date": "2026-07-01 00:00:00",
-      "affinity_level": 0,
-      "affinity_exp": 0,
-      "next_affinity_exp": 0,
-      "m_character_id": 1513,
-      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1513_icon",
-      "story": [
-        {
-          "id": 600,
-          "character_id": 1513,
-          "story_number": 1,
-          "adv_id": 101,
-          "story_name": "约会剧情①",
-          "release_conditions_id": 0,
-          "reward_item_type": 6,
-          "reward_item_id": 2,
-          "reward_item_value": 30,
-          "release_flg": 1,
-          "receive_flg": 1,
-          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1513_101_thumbnail"
-        },
-        {
-          "id": 601,
-          "character_id": 1513,
-          "story_number": 2,
-          "adv_id": 201,
-          "story_name": "H剧情①",
-          "release_conditions_id": 0,
-          "reward_item_type": 6,
-          "reward_item_id": 2,
-          "reward_item_value": 30,
-          "release_flg": 1,
-          "receive_flg": 1,
-          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1513_201_thumbnail"
-        },
-        {
-          "id": 602,
-          "character_id": 1513,
-          "story_number": 3,
-          "adv_id": 202,
-          "story_name": "H剧情②",
-          "release_conditions_id": 0,
-          "reward_item_type": 6,
-          "reward_item_id": 2,
-          "reward_item_value": 30,
-          "release_flg": 1,
-          "receive_flg": 1,
-          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1513_202_thumbnail"
-        }
-      ]
-    },
-    {
       "id": 1239,
-      "book_number": 120,
+      "book_number": 119,
       "class_id": 2,
       "unit_base_id": 79,
       "chara_name": "日向(新入生)",
@@ -8576,6 +8618,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1239,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1239_icon",
+      "already_have": false,
       "story": [
         {
           "id": 315,
@@ -8623,7 +8666,7 @@
     },
     {
       "id": 1240,
-      "book_number": 121,
+      "book_number": 120,
       "class_id": 1,
       "unit_base_id": 71,
       "chara_name": "霜(新入生)",
@@ -8652,6 +8695,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1240,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1240_icon",
+      "already_have": false,
       "story": [
         {
           "id": 318,
@@ -8699,7 +8743,7 @@
     },
     {
       "id": 1241,
-      "book_number": 122,
+      "book_number": 121,
       "class_id": 1,
       "unit_base_id": 67,
       "chara_name": "吉拉德(新入生)",
@@ -8728,6 +8772,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1241,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1241_icon",
+      "already_have": false,
       "story": [
         {
           "id": 321,
@@ -8775,7 +8820,7 @@
     },
     {
       "id": 1243,
-      "book_number": 123,
+      "book_number": 122,
       "class_id": 5,
       "unit_base_id": 90,
       "chara_name": "悠",
@@ -8804,6 +8849,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1243,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1243_icon",
+      "already_have": false,
       "story": [
         {
           "id": 327,
@@ -8851,7 +8897,7 @@
     },
     {
       "id": 1242,
-      "book_number": 124,
+      "book_number": 123,
       "class_id": 4,
       "unit_base_id": 89,
       "chara_name": "妮娜",
@@ -8880,6 +8926,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1242,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1242_icon",
+      "already_have": false,
       "story": [
         {
           "id": 324,
@@ -8927,7 +8974,7 @@
     },
     {
       "id": 1101,
-      "book_number": 125,
+      "book_number": 124,
       "class_id": 1,
       "unit_base_id": 91,
       "chara_name": "阿波罗",
@@ -8956,6 +9003,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1101,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1101_icon",
+      "already_have": false,
       "story": [
         {
           "id": 330,
@@ -9003,7 +9051,7 @@
     },
     {
       "id": 1301,
-      "book_number": 126,
+      "book_number": 125,
       "class_id": 2,
       "unit_base_id": 92,
       "chara_name": "伊莉亚",
@@ -9032,6 +9080,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1301,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1301_icon",
+      "already_have": false,
       "story": [
         {
           "id": 333,
@@ -9079,7 +9128,7 @@
     },
     {
       "id": 1302,
-      "book_number": 127,
+      "book_number": 126,
       "class_id": 3,
       "unit_base_id": 93,
       "chara_name": "多莉",
@@ -9108,6 +9157,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1302,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1302_icon",
+      "already_have": false,
       "story": [
         {
           "id": 336,
@@ -9155,7 +9205,7 @@
     },
     {
       "id": 1303,
-      "book_number": 128,
+      "book_number": 127,
       "class_id": 3,
       "unit_base_id": 54,
       "chara_name": "格林(微服)",
@@ -9184,6 +9234,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1303,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1303_icon",
+      "already_have": false,
       "story": [
         {
           "id": 339,
@@ -9231,7 +9282,7 @@
     },
     {
       "id": 1304,
-      "book_number": 129,
+      "book_number": 128,
       "class_id": 2,
       "unit_base_id": 94,
       "chara_name": "阿蕾斯特拉",
@@ -9260,6 +9311,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1304,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1304_icon",
+      "already_have": false,
       "story": [
         {
           "id": 342,
@@ -9307,7 +9359,7 @@
     },
     {
       "id": 1305,
-      "book_number": 130,
+      "book_number": 129,
       "class_id": 5,
       "unit_base_id": 15,
       "chara_name": "苏(应援)",
@@ -9336,6 +9388,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1305,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1305_icon",
+      "already_have": false,
       "story": [
         {
           "id": 348,
@@ -9383,7 +9436,7 @@
     },
     {
       "id": 1306,
-      "book_number": 131,
+      "book_number": 130,
       "class_id": 3,
       "unit_base_id": 95,
       "chara_name": "莫莫莫",
@@ -9412,6 +9465,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1306,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1306_icon",
+      "already_have": false,
       "story": [
         {
           "id": 351,
@@ -9459,7 +9513,7 @@
     },
     {
       "id": 1244,
-      "book_number": 132,
+      "book_number": 131,
       "class_id": 3,
       "unit_base_id": 96,
       "chara_name": "塞拉",
@@ -9488,6 +9542,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1244,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1244_icon",
+      "already_have": false,
       "story": [
         {
           "id": 345,
@@ -9535,7 +9590,7 @@
     },
     {
       "id": 1307,
-      "book_number": 133,
+      "book_number": 132,
       "class_id": 2,
       "unit_base_id": 22,
       "chara_name": "雫(新娘)",
@@ -9564,6 +9619,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1307,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1307_icon",
+      "already_have": false,
       "story": [
         {
           "id": 354,
@@ -9611,7 +9667,7 @@
     },
     {
       "id": 1308,
-      "book_number": 134,
+      "book_number": 133,
       "class_id": 3,
       "unit_base_id": 41,
       "chara_name": "红叶(新娘)",
@@ -9640,6 +9696,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1308,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1308_icon",
+      "already_have": false,
       "story": [
         {
           "id": 357,
@@ -9687,7 +9744,7 @@
     },
     {
       "id": 1309,
-      "book_number": 135,
+      "book_number": 134,
       "class_id": 2,
       "unit_base_id": 97,
       "chara_name": "皮尤雅",
@@ -9716,6 +9773,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1309,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1309_icon",
+      "already_have": false,
       "story": [
         {
           "id": 360,
@@ -9763,7 +9821,7 @@
     },
     {
       "id": 1310,
-      "book_number": 136,
+      "book_number": 135,
       "class_id": 5,
       "unit_base_id": 10,
       "chara_name": "米娅(新娘)",
@@ -9792,6 +9850,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1310,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1310_icon",
+      "already_have": false,
       "story": [
         {
           "id": 363,
@@ -9839,7 +9898,7 @@
     },
     {
       "id": 1311,
-      "book_number": 137,
+      "book_number": 136,
       "class_id": 4,
       "unit_base_id": 66,
       "chara_name": "尤斯(新娘)",
@@ -9868,6 +9927,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1311,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1311_icon",
+      "already_have": false,
       "story": [
         {
           "id": 366,
@@ -9915,7 +9975,7 @@
     },
     {
       "id": 1312,
-      "book_number": 138,
+      "book_number": 137,
       "class_id": 3,
       "unit_base_id": 98,
       "chara_name": "萨蒂亚",
@@ -9944,6 +10004,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1312,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1312_icon",
+      "already_have": false,
       "story": [
         {
           "id": 369,
@@ -9991,7 +10052,7 @@
     },
     {
       "id": 1313,
-      "book_number": 139,
+      "book_number": 138,
       "class_id": 5,
       "unit_base_id": 21,
       "chara_name": "露米娜(泳装)",
@@ -10020,6 +10081,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1313,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1313_icon",
+      "already_have": false,
       "story": [
         {
           "id": 372,
@@ -10067,7 +10129,7 @@
     },
     {
       "id": 1314,
-      "book_number": 140,
+      "book_number": 139,
       "class_id": 1,
       "unit_base_id": 57,
       "chara_name": "朱莉娅(泳装)",
@@ -10096,6 +10158,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1314,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1314_icon",
+      "already_have": false,
       "story": [
         {
           "id": 375,
@@ -10143,7 +10206,7 @@
     },
     {
       "id": 1315,
-      "book_number": 141,
+      "book_number": 140,
       "class_id": 4,
       "unit_base_id": 84,
       "chara_name": "蒂蒂亚(泳装)",
@@ -10172,6 +10235,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1315,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1315_icon",
+      "already_have": false,
       "story": [
         {
           "id": 378,
@@ -10219,7 +10283,7 @@
     },
     {
       "id": 1316,
-      "book_number": 142,
+      "book_number": 141,
       "class_id": 2,
       "unit_base_id": 58,
       "chara_name": "柯泽(泳装)",
@@ -10248,6 +10312,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1316,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1316_icon",
+      "already_have": false,
       "story": [
         {
           "id": 381,
@@ -10295,7 +10360,7 @@
     },
     {
       "id": 1219,
-      "book_number": 143,
+      "book_number": 142,
       "class_id": 2,
       "unit_base_id": 99,
       "chara_name": "芙莉",
@@ -10324,6 +10389,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1219,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1219_icon",
+      "already_have": false,
       "story": [
         {
           "id": 384,
@@ -10371,7 +10437,7 @@
     },
     {
       "id": 1317,
-      "book_number": 144,
+      "book_number": 143,
       "class_id": 4,
       "unit_base_id": 100,
       "chara_name": "格雷梅因",
@@ -10400,6 +10466,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1317,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1317_icon",
+      "already_have": false,
       "story": [
         {
           "id": 387,
@@ -10447,7 +10514,7 @@
     },
     {
       "id": 1318,
-      "book_number": 145,
+      "book_number": 144,
       "class_id": 3,
       "unit_base_id": 101,
       "chara_name": "拉托",
@@ -10476,6 +10543,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1318,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1318_icon",
+      "already_have": false,
       "story": [
         {
           "id": 390,
@@ -10523,7 +10591,7 @@
     },
     {
       "id": 1319,
-      "book_number": 146,
+      "book_number": 145,
       "class_id": 2,
       "unit_base_id": 53,
       "chara_name": "贝尔(浴衣)",
@@ -10552,6 +10620,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1319,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1319_icon",
+      "already_have": false,
       "story": [
         {
           "id": 393,
@@ -10599,7 +10668,7 @@
     },
     {
       "id": 1320,
-      "book_number": 147,
+      "book_number": 146,
       "class_id": 5,
       "unit_base_id": 52,
       "chara_name": "阿尔夫(浴衣)",
@@ -10628,6 +10697,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1320,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1320_icon",
+      "already_have": false,
       "story": [
         {
           "id": 396,
@@ -10675,7 +10745,7 @@
     },
     {
       "id": 1321,
-      "book_number": 148,
+      "book_number": 147,
       "class_id": 3,
       "unit_base_id": 51,
       "chara_name": "阿珂(浴衣)",
@@ -10704,6 +10774,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1321,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1321_icon",
+      "already_have": false,
       "story": [
         {
           "id": 399,
@@ -10751,7 +10822,7 @@
     },
     {
       "id": 1322,
-      "book_number": 149,
+      "book_number": 148,
       "class_id": 1,
       "unit_base_id": 11,
       "chara_name": "小春(浴衣)",
@@ -10780,6 +10851,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1322,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1322_icon",
+      "already_have": false,
       "story": [
         {
           "id": 402,
@@ -10827,7 +10899,7 @@
     },
     {
       "id": 1323,
-      "book_number": 150,
+      "book_number": 149,
       "class_id": 3,
       "unit_base_id": 20,
       "chara_name": "莱拉(泳装)",
@@ -10856,6 +10928,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1323,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1323_icon",
+      "already_have": false,
       "story": [
         {
           "id": 405,
@@ -10903,7 +10976,7 @@
     },
     {
       "id": 1324,
-      "book_number": 151,
+      "book_number": 150,
       "class_id": 2,
       "unit_base_id": 25,
       "chara_name": "凯特(泳装)",
@@ -10932,6 +11005,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1324,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1324_icon",
+      "already_have": false,
       "story": [
         {
           "id": 408,
@@ -10979,7 +11053,7 @@
     },
     {
       "id": 1325,
-      "book_number": 152,
+      "book_number": 151,
       "class_id": 1,
       "unit_base_id": 102,
       "chara_name": "琳凡",
@@ -11008,6 +11082,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1325,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1325_icon",
+      "already_have": false,
       "story": [
         {
           "id": 411,
@@ -11055,7 +11130,7 @@
     },
     {
       "id": 1326,
-      "book_number": 153,
+      "book_number": 152,
       "class_id": 3,
       "unit_base_id": 76,
       "chara_name": "斯塔(仙梦)",
@@ -11084,6 +11159,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1326,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1326_icon",
+      "already_have": false,
       "story": [
         {
           "id": 414,
@@ -11131,7 +11207,7 @@
     },
     {
       "id": 1327,
-      "book_number": 154,
+      "book_number": 153,
       "class_id": 4,
       "unit_base_id": 31,
       "chara_name": "福妮(仙梦)",
@@ -11160,6 +11236,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1327,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1327_icon",
+      "already_have": false,
       "story": [
         {
           "id": 417,
@@ -11207,7 +11284,7 @@
     },
     {
       "id": 1328,
-      "book_number": 155,
+      "book_number": 154,
       "class_id": 2,
       "unit_base_id": 103,
       "chara_name": "舒埃",
@@ -11236,6 +11313,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1328,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1328_icon",
+      "already_have": false,
       "story": [
         {
           "id": 420,
@@ -11283,7 +11361,7 @@
     },
     {
       "id": 1337,
-      "book_number": 156,
+      "book_number": 155,
       "class_id": 4,
       "unit_base_id": 44,
       "chara_name": "舒(星冠)",
@@ -11312,6 +11390,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1337,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1337_icon",
+      "already_have": false,
       "story": [
         {
           "id": 423,
@@ -11359,7 +11438,7 @@
     },
     {
       "id": 1329,
-      "book_number": 157,
+      "book_number": 156,
       "class_id": 5,
       "unit_base_id": 104,
       "chara_name": "卡鲁阿",
@@ -11388,6 +11467,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1329,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1329_icon",
+      "already_have": false,
       "story": [
         {
           "id": 426,
@@ -11435,7 +11515,7 @@
     },
     {
       "id": 1330,
-      "book_number": 158,
+      "book_number": 157,
       "class_id": 4,
       "unit_base_id": 8,
       "chara_name": "美美(夜蝶)",
@@ -11464,6 +11544,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1330,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1330_icon",
+      "already_have": false,
       "story": [
         {
           "id": 429,
@@ -11511,7 +11592,7 @@
     },
     {
       "id": 1331,
-      "book_number": 159,
+      "book_number": 158,
       "class_id": 3,
       "unit_base_id": 70,
       "chara_name": "纳哈特(幼甘祭)",
@@ -11540,6 +11621,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1331,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1331_icon",
+      "already_have": false,
       "story": [
         {
           "id": 432,
@@ -11587,7 +11669,7 @@
     },
     {
       "id": 1332,
-      "book_number": 160,
+      "book_number": 159,
       "class_id": 1,
       "unit_base_id": 22,
       "chara_name": "雫(幼甘祭)",
@@ -11616,6 +11698,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1332,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1332_icon",
+      "already_have": false,
       "story": [
         {
           "id": 435,
@@ -11663,7 +11746,7 @@
     },
     {
       "id": 1333,
-      "book_number": 161,
+      "book_number": 160,
       "class_id": 4,
       "unit_base_id": 14,
       "chara_name": "布鲁姆(幼甘祭)",
@@ -11692,6 +11775,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1333,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1333_icon",
+      "already_have": false,
       "story": [
         {
           "id": 438,
@@ -11739,7 +11823,7 @@
     },
     {
       "id": 1334,
-      "book_number": 162,
+      "book_number": 161,
       "class_id": 2,
       "unit_base_id": 73,
       "chara_name": "永虚(幼甘祭)",
@@ -11768,6 +11852,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1334,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1334_icon",
+      "already_have": false,
       "story": [
         {
           "id": 441,
@@ -11815,7 +11900,7 @@
     },
     {
       "id": 1335,
-      "book_number": 163,
+      "book_number": 162,
       "class_id": 2,
       "unit_base_id": 105,
       "chara_name": "塞纳",
@@ -11844,6 +11929,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1335,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1335_icon",
+      "already_have": false,
       "story": [
         {
           "id": 444,
@@ -11891,7 +11977,7 @@
     },
     {
       "id": 1336,
-      "book_number": 164,
+      "book_number": 163,
       "class_id": 5,
       "unit_base_id": 100,
       "chara_name": "格莱因(侦探)",
@@ -11920,6 +12006,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1336,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1336_icon",
+      "already_have": false,
       "story": [
         {
           "id": 447,
@@ -11967,7 +12054,7 @@
     },
     {
       "id": 1401,
-      "book_number": 165,
+      "book_number": 164,
       "class_id": 3,
       "unit_base_id": 11,
       "chara_name": "小春(盛装)",
@@ -11996,6 +12083,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1401,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1401_icon",
+      "already_have": false,
       "story": [
         {
           "id": 450,
@@ -12043,7 +12131,7 @@
     },
     {
       "id": 1402,
-      "book_number": 166,
+      "book_number": 165,
       "class_id": 2,
       "unit_base_id": 21,
       "chara_name": "露米娜(盛装)",
@@ -12072,6 +12160,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1402,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1402_icon",
+      "already_have": false,
       "story": [
         {
           "id": 453,
@@ -12119,7 +12208,7 @@
     },
     {
       "id": 1403,
-      "book_number": 167,
+      "book_number": 166,
       "class_id": 3,
       "unit_base_id": 30,
       "chara_name": "奥罗拉(盛装)",
@@ -12148,6 +12237,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1403,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1403_icon",
+      "already_have": false,
       "story": [
         {
           "id": 456,
@@ -12195,7 +12285,7 @@
     },
     {
       "id": 1404,
-      "book_number": 168,
+      "book_number": 167,
       "class_id": 2,
       "unit_base_id": 106,
       "chara_name": "安妮",
@@ -12224,6 +12314,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1404,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1404_icon",
+      "already_have": false,
       "story": [
         {
           "id": 459,
@@ -12271,7 +12362,7 @@
     },
     {
       "id": 1107,
-      "book_number": 169,
+      "book_number": 168,
       "class_id": 2,
       "unit_base_id": 61,
       "chara_name": "帕塞莉(盛装)",
@@ -12300,6 +12391,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1107,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1107_icon",
+      "already_have": false,
       "story": [
         {
           "id": 462,
@@ -12347,7 +12439,7 @@
     },
     {
       "id": 1405,
-      "book_number": 170,
+      "book_number": 169,
       "class_id": 4,
       "unit_base_id": 96,
       "chara_name": "塞拉(盛装)",
@@ -12376,6 +12468,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1405,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1405_icon",
+      "already_have": false,
       "story": [
         {
           "id": 465,
@@ -12423,7 +12516,7 @@
     },
     {
       "id": 1406,
-      "book_number": 171,
+      "book_number": 170,
       "class_id": 3,
       "unit_base_id": 107,
       "chara_name": "蕾帕尔",
@@ -12452,6 +12545,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1406,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1406_icon",
+      "already_have": false,
       "story": [
         {
           "id": 468,
@@ -12499,7 +12593,7 @@
     },
     {
       "id": 1407,
-      "book_number": 172,
+      "book_number": 171,
       "class_id": 4,
       "unit_base_id": 13,
       "chara_name": "伊比利亚(搬运工)",
@@ -12528,6 +12622,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1407,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1407_icon",
+      "already_have": false,
       "story": [
         {
           "id": 471,
@@ -12575,7 +12670,7 @@
     },
     {
       "id": 1408,
-      "book_number": 173,
+      "book_number": 172,
       "class_id": 1,
       "unit_base_id": 54,
       "chara_name": "格里姆(正装)",
@@ -12604,6 +12699,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1408,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1408_icon",
+      "already_have": false,
       "story": [
         {
           "id": 474,
@@ -12651,7 +12747,7 @@
     },
     {
       "id": 1409,
-      "book_number": 174,
+      "book_number": 173,
       "class_id": 4,
       "unit_base_id": 22,
       "chara_name": "雫(星战)",
@@ -12680,6 +12776,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1409,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1409_icon",
+      "already_have": false,
       "story": [
         {
           "id": 477,
@@ -12727,7 +12824,7 @@
     },
     {
       "id": 1410,
-      "book_number": 175,
+      "book_number": 174,
       "class_id": 4,
       "unit_base_id": 108,
       "chara_name": "梅兹",
@@ -12756,6 +12853,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1410,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1410_icon",
+      "already_have": false,
       "story": [
         {
           "id": 480,
@@ -12803,7 +12901,7 @@
     },
     {
       "id": 1411,
-      "book_number": 176,
+      "book_number": 175,
       "class_id": 3,
       "unit_base_id": 109,
       "chara_name": "格蕾亚",
@@ -12832,6 +12930,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1411,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1411_icon",
+      "already_have": false,
       "story": [
         {
           "id": 483,
@@ -12879,7 +12978,7 @@
     },
     {
       "id": 1412,
-      "book_number": 177,
+      "book_number": 176,
       "class_id": 2,
       "unit_base_id": 110,
       "chara_name": "波拉里斯",
@@ -12908,6 +13007,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1412,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1412_icon",
+      "already_have": false,
       "story": [
         {
           "id": 486,
@@ -12955,7 +13055,7 @@
     },
     {
       "id": 1413,
-      "book_number": 178,
+      "book_number": 177,
       "class_id": 5,
       "unit_base_id": 111,
       "chara_name": "蕾吉妮亚",
@@ -12984,6 +13084,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1413,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1413_icon",
+      "already_have": false,
       "story": [
         {
           "id": 489,
@@ -13031,7 +13132,7 @@
     },
     {
       "id": 1414,
-      "book_number": 179,
+      "book_number": 178,
       "class_id": 4,
       "unit_base_id": 69,
       "chara_name": "罗莎娜(圣诞)",
@@ -13060,6 +13161,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1414,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1414_icon",
+      "already_have": false,
       "story": [
         {
           "id": 492,
@@ -13107,7 +13209,7 @@
     },
     {
       "id": 1415,
-      "book_number": 180,
+      "book_number": 179,
       "class_id": 4,
       "unit_base_id": 57,
       "chara_name": "朱莉亚(巫女)",
@@ -13136,6 +13238,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1415,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1415_icon",
+      "already_have": false,
       "story": [
         {
           "id": 495,
@@ -13183,7 +13286,7 @@
     },
     {
       "id": 1416,
-      "book_number": 181,
+      "book_number": 180,
       "class_id": 5,
       "unit_base_id": 25,
       "chara_name": "凯特(巫女)",
@@ -13212,6 +13315,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1416,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1416_icon",
+      "already_have": false,
       "story": [
         {
           "id": 498,
@@ -13259,7 +13363,7 @@
     },
     {
       "id": 1417,
-      "book_number": 182,
+      "book_number": 181,
       "class_id": 2,
       "unit_base_id": 9,
       "chara_name": "朱桃(巫女)",
@@ -13288,6 +13392,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1417,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1417_icon",
+      "already_have": false,
       "story": [
         {
           "id": 501,
@@ -13335,7 +13440,7 @@
     },
     {
       "id": 1418,
-      "book_number": 183,
+      "book_number": 182,
       "class_id": 4,
       "unit_base_id": 112,
       "chara_name": "小夜",
@@ -13364,6 +13469,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1418,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1418_icon",
+      "already_have": false,
       "story": [
         {
           "id": 504,
@@ -13411,7 +13517,7 @@
     },
     {
       "id": 1419,
-      "book_number": 184,
+      "book_number": 183,
       "class_id": 1,
       "unit_base_id": 113,
       "chara_name": "石榴",
@@ -13440,6 +13546,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1419,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1419_icon",
+      "already_have": false,
       "story": [
         {
           "id": 507,
@@ -13487,7 +13594,7 @@
     },
     {
       "id": 1432,
-      "book_number": 185,
+      "book_number": 184,
       "class_id": 1,
       "unit_base_id": 92,
       "chara_name": "伊莉亚(扮演)",
@@ -13516,6 +13623,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1432,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1432_icon",
+      "already_have": false,
       "story": [
         {
           "id": 510,
@@ -13563,7 +13671,7 @@
     },
     {
       "id": 1421,
-      "book_number": 186,
+      "book_number": 185,
       "class_id": 2,
       "unit_base_id": 11,
       "chara_name": "小春(巧克力)",
@@ -13592,6 +13700,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1421,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1421_icon",
+      "already_have": false,
       "story": [
         {
           "id": 513,
@@ -13639,7 +13748,7 @@
     },
     {
       "id": 1422,
-      "book_number": 187,
+      "book_number": 186,
       "class_id": 2,
       "unit_base_id": 87,
       "chara_name": "姆尔姆尔(巧克力)",
@@ -13668,6 +13777,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1422,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1422_icon",
+      "already_have": false,
       "story": [
         {
           "id": 516,
@@ -13715,7 +13825,7 @@
     },
     {
       "id": 1424,
-      "book_number": 188,
+      "book_number": 187,
       "class_id": 1,
       "unit_base_id": 110,
       "chara_name": "波拉里斯(巧克力)",
@@ -13744,6 +13854,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1424,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1424_icon",
+      "already_have": false,
       "story": [
         {
           "id": 519,
@@ -13791,7 +13902,7 @@
     },
     {
       "id": 1425,
-      "book_number": 189,
+      "book_number": 188,
       "class_id": 3,
       "unit_base_id": 114,
       "chara_name": "诺伦",
@@ -13820,6 +13931,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1425,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1425_icon",
+      "already_have": false,
       "story": [
         {
           "id": 522,
@@ -13867,7 +13979,7 @@
     },
     {
       "id": 1426,
-      "book_number": 190,
+      "book_number": 189,
       "class_id": 4,
       "unit_base_id": 105,
       "chara_name": "塞纳(兔女郎)",
@@ -13896,6 +14008,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1426,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1426_icon",
+      "already_have": false,
       "story": [
         {
           "id": 525,
@@ -13943,7 +14056,7 @@
     },
     {
       "id": 1427,
-      "book_number": 191,
+      "book_number": 190,
       "class_id": 1,
       "unit_base_id": 62,
       "chara_name": "芙妮(兔女郎)",
@@ -13972,6 +14085,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1427,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1427_icon",
+      "already_have": false,
       "story": [
         {
           "id": 528,
@@ -14019,7 +14133,7 @@
     },
     {
       "id": 1428,
-      "book_number": 192,
+      "book_number": 191,
       "class_id": 5,
       "unit_base_id": 103,
       "chara_name": "舒艾(兔女郎)",
@@ -14048,6 +14162,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1428,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1428_icon",
+      "already_have": false,
       "story": [
         {
           "id": 531,
@@ -14095,7 +14210,7 @@
     },
     {
       "id": 1420,
-      "book_number": 193,
+      "book_number": 192,
       "class_id": 4,
       "unit_base_id": 67,
       "chara_name": "吉拉多(魔法少女)",
@@ -14124,6 +14239,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1420,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1420_icon",
+      "already_have": false,
       "story": [
         {
           "id": 534,
@@ -14171,7 +14287,7 @@
     },
     {
       "id": 1431,
-      "book_number": 194,
+      "book_number": 193,
       "class_id": 2,
       "unit_base_id": 115,
       "chara_name": "真子",
@@ -14200,6 +14316,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1431,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1431_icon",
+      "already_have": false,
       "story": [
         {
           "id": 537,
@@ -14246,84 +14363,8 @@
       ]
     },
     {
-      "id": 1514,
-      "book_number": 195,
-      "class_id": 2,
-      "unit_base_id": 115,
-      "chara_name": "真子(泳装)",
-      "rarity": 3,
-      "hp": 150,
-      "attack": 570,
-      "defense": 55,
-      "crit_rate": 0.05,
-      "crit_damage": 0.05,
-      "dodge_rate": 0.05,
-      "attack_resistance": 0,
-      "crit_resistance": 0,
-      "hp_growth": 31,
-      "attack_growth": 13,
-      "defense_growth": 2,
-      "ult_group": 15141,
-      "passive_group": 15142,
-      "normal_show": 1,
-      "ult_show": 1,
-      "attack_effect": 0,
-      "voice": 0,
-      "piece": 1514,
-      "release_date": "2026-07-01 00:00:00",
-      "affinity_level": 0,
-      "affinity_exp": 0,
-      "next_affinity_exp": 0,
-      "m_character_id": 1514,
-      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1514_icon",
-      "story": [
-        {
-          "id": 603,
-          "character_id": 1514,
-          "story_number": 1,
-          "adv_id": 101,
-          "story_name": "约会剧情①",
-          "release_conditions_id": 0,
-          "reward_item_type": 6,
-          "reward_item_id": 2,
-          "reward_item_value": 30,
-          "release_flg": 1,
-          "receive_flg": 1,
-          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1514_101_thumbnail"
-        },
-        {
-          "id": 604,
-          "character_id": 1514,
-          "story_number": 2,
-          "adv_id": 201,
-          "story_name": "H剧情①",
-          "release_conditions_id": 0,
-          "reward_item_type": 6,
-          "reward_item_id": 2,
-          "reward_item_value": 30,
-          "release_flg": 1,
-          "receive_flg": 1,
-          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1514_201_thumbnail"
-        },
-        {
-          "id": 605,
-          "character_id": 1514,
-          "story_number": 3,
-          "adv_id": 202,
-          "story_name": "H剧情②",
-          "release_conditions_id": 0,
-          "reward_item_type": 6,
-          "reward_item_id": 2,
-          "reward_item_value": 30,
-          "release_flg": 1,
-          "receive_flg": 1,
-          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1514_202_thumbnail"
-        }
-      ]
-    },
-    {
       "id": 1429,
-      "book_number": 196,
+      "book_number": 194,
       "class_id": 4,
       "unit_base_id": 116,
       "chara_name": "达莉亚",
@@ -14352,6 +14393,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1429,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1429_icon",
+      "already_have": false,
       "story": [
         {
           "id": 540,
@@ -14399,7 +14441,7 @@
     },
     {
       "id": 1433,
-      "book_number": 197,
+      "book_number": 195,
       "class_id": 1,
       "unit_base_id": 119,
       "chara_name": "APL-180",
@@ -14428,6 +14470,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1433,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1433_icon",
+      "already_have": false,
       "story": [
         {
           "id": 546,
@@ -14475,7 +14518,7 @@
     },
     {
       "id": 1430,
-      "book_number": 198,
+      "book_number": 196,
       "class_id": 4,
       "unit_base_id": 117,
       "chara_name": "拉维里斯",
@@ -14504,6 +14547,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1430,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1430_icon",
+      "already_have": false,
       "story": [
         {
           "id": 543,
@@ -14551,7 +14595,7 @@
     },
     {
       "id": 1435,
-      "book_number": 199,
+      "book_number": 197,
       "class_id": 4,
       "unit_base_id": 11,
       "chara_name": "小春(护士)",
@@ -14580,6 +14624,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1435,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1435_icon",
+      "already_have": false,
       "story": [
         {
           "id": 549,
@@ -14627,7 +14672,7 @@
     },
     {
       "id": 1434,
-      "book_number": 200,
+      "book_number": 198,
       "class_id": 5,
       "unit_base_id": 107,
       "chara_name": "蕾帕尔(护士)",
@@ -14656,6 +14701,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1434,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1434_icon",
+      "already_have": false,
       "story": [
         {
           "id": 554,
@@ -14703,7 +14749,7 @@
     },
     {
       "id": 1436,
-      "book_number": 201,
+      "book_number": 199,
       "class_id": 3,
       "unit_base_id": 94,
       "chara_name": "阿蕾斯特拉(海军)",
@@ -14732,6 +14778,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1436,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1436_icon",
+      "already_have": false,
       "story": [
         {
           "id": 557,
@@ -14779,7 +14826,7 @@
     },
     {
       "id": 1501,
-      "book_number": 202,
+      "book_number": 200,
       "class_id": 2,
       "unit_base_id": 76,
       "chara_name": "星(海军)",
@@ -14808,6 +14855,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1501,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1501_icon",
+      "already_have": false,
       "story": [
         {
           "id": 560,
@@ -14855,7 +14903,7 @@
     },
     {
       "id": 1502,
-      "book_number": 203,
+      "book_number": 201,
       "class_id": 3,
       "unit_base_id": 120,
       "chara_name": "露娜",
@@ -14884,6 +14932,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1502,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1502_icon",
+      "already_have": false,
       "story": [
         {
           "id": 563,
@@ -14931,7 +14980,7 @@
     },
     {
       "id": 1503,
-      "book_number": 204,
+      "book_number": 202,
       "class_id": 5,
       "unit_base_id": 102,
       "chara_name": "琳芳(海军)",
@@ -14960,6 +15009,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1503,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1503_icon",
+      "already_have": false,
       "story": [
         {
           "id": 566,
@@ -15007,7 +15057,7 @@
     },
     {
       "id": 1505,
-      "book_number": 205,
+      "book_number": 203,
       "class_id": 4,
       "unit_base_id": 121,
       "chara_name": "梅洛迪",
@@ -15036,6 +15086,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1505,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1505_icon",
+      "already_have": false,
       "story": [
         {
           "id": 569,
@@ -15083,7 +15134,7 @@
     },
     {
       "id": 1504,
-      "book_number": 206,
+      "book_number": 204,
       "class_id": 2,
       "unit_base_id": 21,
       "chara_name": "露米娜(AI)",
@@ -15112,6 +15163,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1504,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1504_icon",
+      "already_have": false,
       "story": [
         {
           "id": 573,
@@ -15159,7 +15211,7 @@
     },
     {
       "id": 1506,
-      "book_number": 207,
+      "book_number": 205,
       "class_id": 3,
       "unit_base_id": 122,
       "chara_name": "菲尔特",
@@ -15188,6 +15240,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1506,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1506_icon",
+      "already_have": false,
       "story": [
         {
           "id": 576,
@@ -15235,7 +15288,7 @@
     },
     {
       "id": 1507,
-      "book_number": 208,
+      "book_number": 206,
       "class_id": 2,
       "unit_base_id": 44,
       "chara_name": "舒(新生)",
@@ -15264,6 +15317,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1507,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1507_icon",
+      "already_have": false,
       "story": [
         {
           "id": 579,
@@ -15311,7 +15365,7 @@
     },
     {
       "id": 1508,
-      "book_number": 209,
+      "book_number": 207,
       "class_id": 5,
       "unit_base_id": 123,
       "chara_name": "桔梗",
@@ -15340,6 +15394,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1508,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1508_icon",
+      "already_have": false,
       "story": [
         {
           "id": 582,
@@ -15387,7 +15442,7 @@
     },
     {
       "id": 1509,
-      "book_number": 210,
+      "book_number": 208,
       "class_id": 2,
       "unit_base_id": 124,
       "chara_name": "燕",
@@ -15416,6 +15471,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1509,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1509_icon",
+      "already_have": false,
       "story": [
         {
           "id": 585,
@@ -15463,7 +15519,7 @@
     },
     {
       "id": 1510,
-      "book_number": 211,
+      "book_number": 209,
       "class_id": 3,
       "unit_base_id": 25,
       "chara_name": "凯特(梦镜)",
@@ -15492,6 +15548,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1510,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1510_icon",
+      "already_have": false,
       "story": [
         {
           "id": 588,
@@ -15539,7 +15596,7 @@
     },
     {
       "id": 1511,
-      "book_number": 212,
+      "book_number": 210,
       "class_id": 4,
       "unit_base_id": 125,
       "chara_name": "穆斯克",
@@ -15568,6 +15625,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1511,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1511_icon",
+      "already_have": false,
       "story": [
         {
           "id": 591,
@@ -15615,7 +15673,7 @@
     },
     {
       "id": 1423,
-      "book_number": 213,
+      "book_number": 211,
       "class_id": 2,
       "unit_base_id": 111,
       "chara_name": "蕾吉妮亚(泳装)",
@@ -15628,7 +15686,7 @@
       "dodge_rate": 0.05,
       "attack_resistance": 0.05,
       "crit_resistance": 0,
-      "hp_growth": 211,
+      "hp_growth": 28.1,
       "attack_growth": 17.5,
       "defense_growth": 2.3,
       "ult_group": 14231,
@@ -15644,6 +15702,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1423,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1423_icon",
+      "already_have": false,
       "story": [
         {
           "id": 594,
@@ -15691,7 +15750,7 @@
     },
     {
       "id": 1512,
-      "book_number": 214,
+      "book_number": 212,
       "class_id": 3,
       "unit_base_id": 15,
       "chara_name": "苏(泳装)",
@@ -15720,6 +15779,7 @@
       "next_affinity_exp": 0,
       "m_character_id": 1512,
       "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1512_icon",
+      "already_have": false,
       "story": [
         {
           "id": 597,
@@ -15764,10 +15824,437 @@
           "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1512_202_thumbnail"
         }
       ]
+    },
+    {
+      "id": 1513,
+      "book_number": 213,
+      "class_id": 1,
+      "unit_base_id": 77,
+      "chara_name": "拉古谢(泳装)",
+      "rarity": 3,
+      "hp": 556,
+      "attack": 199,
+      "defense": 101,
+      "crit_rate": 0.05,
+      "crit_damage": 0.05,
+      "dodge_rate": 0.05,
+      "attack_resistance": 0,
+      "crit_resistance": 0,
+      "hp_growth": 60,
+      "attack_growth": 12.9,
+      "defense_growth": 7.1,
+      "ult_group": 15131,
+      "passive_group": 15132,
+      "normal_show": 1,
+      "ult_show": 1,
+      "attack_effect": 0,
+      "voice": 0,
+      "piece": 1513,
+      "release_date": "2026-07-08 12:00:00",
+      "affinity_level": 0,
+      "affinity_exp": 0,
+      "next_affinity_exp": 0,
+      "m_character_id": 1513,
+      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1513_icon",
+      "already_have": false,
+      "story": [
+        {
+          "id": 600,
+          "character_id": 1513,
+          "story_number": 1,
+          "adv_id": 101,
+          "story_name": "约会剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1513_101_thumbnail"
+        },
+        {
+          "id": 601,
+          "character_id": 1513,
+          "story_number": 2,
+          "adv_id": 201,
+          "story_name": "H剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1513_201_thumbnail"
+        },
+        {
+          "id": 602,
+          "character_id": 1513,
+          "story_number": 3,
+          "adv_id": 202,
+          "story_name": "H剧情②",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1513_202_thumbnail"
+        }
+      ]
+    },
+    {
+      "id": 1514,
+      "book_number": 214,
+      "class_id": 5,
+      "unit_base_id": 115,
+      "chara_name": "真子(泳装)",
+      "rarity": 3,
+      "hp": 235,
+      "attack": 888,
+      "defense": 48,
+      "crit_rate": 0.05,
+      "crit_damage": 0.05,
+      "dodge_rate": 0.05,
+      "attack_resistance": 0,
+      "crit_resistance": 0,
+      "hp_growth": 34,
+      "attack_growth": 20.1,
+      "defense_growth": 2.9,
+      "ult_group": 15141,
+      "passive_group": 15142,
+      "normal_show": 0,
+      "ult_show": 0,
+      "attack_effect": 0,
+      "voice": 0,
+      "piece": 1514,
+      "release_date": "2026-07-08 12:00:00",
+      "affinity_level": 0,
+      "affinity_exp": 0,
+      "next_affinity_exp": 0,
+      "m_character_id": 1514,
+      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1514_icon",
+      "already_have": false,
+      "story": [
+        {
+          "id": 603,
+          "character_id": 1514,
+          "story_number": 1,
+          "adv_id": 101,
+          "story_name": "约会剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1514_101_thumbnail"
+        },
+        {
+          "id": 604,
+          "character_id": 1514,
+          "story_number": 2,
+          "adv_id": 201,
+          "story_name": "H剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1514_201_thumbnail"
+        },
+        {
+          "id": 605,
+          "character_id": 1514,
+          "story_number": 3,
+          "adv_id": 202,
+          "story_name": "H剧情②",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1514_202_thumbnail"
+        }
+      ]
+    },
+    {
+      "id": 1516,
+      "book_number": 216,
+      "class_id": 5,
+      "unit_base_id": 21,
+      "chara_name": "露米娜(遥宙)",
+      "rarity": 3,
+      "hp": 210,
+      "attack": 18,
+      "defense": 40,
+      "crit_rate": 0.05,
+      "crit_damage": 0.05,
+      "dodge_rate": 0.05,
+      "attack_resistance": 0,
+      "crit_resistance": 0,
+      "hp_growth": 20,
+      "attack_growth": 2.5,
+      "defense_growth": 3.5,
+      "ult_group": 15161,
+      "passive_group": 15162,
+      "normal_show": 0,
+      "ult_show": 0,
+      "attack_effect": 0,
+      "voice": 0,
+      "piece": 1516,
+      "release_date": "2026-07-17 14:30:00",
+      "affinity_level": 0,
+      "affinity_exp": 0,
+      "next_affinity_exp": 0,
+      "m_character_id": 1516,
+      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1516_icon",
+      "already_have": false,
+      "story": [
+        {
+          "id": 609,
+          "character_id": 1516,
+          "story_number": 1,
+          "adv_id": 101,
+          "story_name": "约会剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1516_101_thumbnail"
+        },
+        {
+          "id": 610,
+          "character_id": 1516,
+          "story_number": 2,
+          "adv_id": 201,
+          "story_name": "H剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1516_201_thumbnail"
+        },
+        {
+          "id": 611,
+          "character_id": 1516,
+          "story_number": 3,
+          "adv_id": 202,
+          "story_name": "H剧情②",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1516_202_thumbnail"
+        },
+        {
+          "id": 612,
+          "character_id": 1516,
+          "story_number": 11,
+          "adv_id": 203,
+          "story_name": "追加ストーリー：淫魔の来訪",
+          "release_conditions_id": 0,
+          "reward_item_type": 0,
+          "reward_item_id": 0,
+          "reward_item_value": 0,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1516_203_thumbnail"
+        }
+      ]
+    },
+    {
+      "id": 1517,
+      "book_number": 217,
+      "class_id": 4,
+      "unit_base_id": 11,
+      "chara_name": "小春(巡宙)",
+      "rarity": 3,
+      "hp": 665,
+      "attack": 881,
+      "defense": 70,
+      "crit_rate": 0.05,
+      "crit_damage": 0.05,
+      "dodge_rate": 0.05,
+      "attack_resistance": 0,
+      "crit_resistance": 0,
+      "hp_growth": 20.5,
+      "attack_growth": 23.9,
+      "defense_growth": 1.5,
+      "ult_group": 15171,
+      "passive_group": 15172,
+      "normal_show": 0,
+      "ult_show": 0,
+      "attack_effect": 0,
+      "voice": 0,
+      "piece": 1517,
+      "release_date": "2026-07-17 14:30:00",
+      "affinity_level": 0,
+      "affinity_exp": 0,
+      "next_affinity_exp": 0,
+      "m_character_id": 1517,
+      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1517_icon",
+      "already_have": false,
+      "story": [
+        {
+          "id": 613,
+          "character_id": 1517,
+          "story_number": 1,
+          "adv_id": 101,
+          "story_name": "约会剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1517_101_thumbnail"
+        },
+        {
+          "id": 614,
+          "character_id": 1517,
+          "story_number": 2,
+          "adv_id": 201,
+          "story_name": "H剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1517_201_thumbnail"
+        },
+        {
+          "id": 615,
+          "character_id": 1517,
+          "story_number": 3,
+          "adv_id": 202,
+          "story_name": "H剧情②",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1517_202_thumbnail"
+        },
+        {
+          "id": 616,
+          "character_id": 1517,
+          "story_number": 11,
+          "adv_id": 203,
+          "story_name": "追加ストーリー：夜魔の結実",
+          "release_conditions_id": 0,
+          "reward_item_type": 0,
+          "reward_item_id": 0,
+          "reward_item_value": 0,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1517_203_thumbnail"
+        }
+      ]
+    },
+    {
+      "id": 1515,
+      "book_number": 218,
+      "class_id": 4,
+      "unit_base_id": 11,
+      "chara_name": "东云",
+      "rarity": 3,
+      "hp": 665,
+      "attack": 881,
+      "defense": 70,
+      "crit_rate": 0.05,
+      "crit_damage": 0.05,
+      "dodge_rate": 0.05,
+      "attack_resistance": 0,
+      "crit_resistance": 0,
+      "hp_growth": 20.5,
+      "attack_growth": 23.9,
+      "defense_growth": 1.5,
+      "ult_group": 15151,
+      "passive_group": 15152,
+      "normal_show": 0,
+      "ult_show": 0,
+      "attack_effect": 0,
+      "voice": 0,
+      "piece": 1515,
+      "release_date": "2026-07-17 14:30:00",
+      "affinity_level": 0,
+      "affinity_exp": 0,
+      "next_affinity_exp": 0,
+      "m_character_id": 1515,
+      "icon_url": "https://lilyange.webaccel.saikyo.biz/img/character/chara1515_icon",
+      "already_have": false,
+      "story": [
+        {
+          "id": 617,
+          "character_id": 1515,
+          "story_number": 1,
+          "adv_id": 101,
+          "story_name": "约会剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1515_101_thumbnail"
+        },
+        {
+          "id": 618,
+          "character_id": 1515,
+          "story_number": 2,
+          "adv_id": 201,
+          "story_name": "H剧情①",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1515_201_thumbnail"
+        },
+        {
+          "id": 619,
+          "character_id": 1515,
+          "story_number": 3,
+          "adv_id": 202,
+          "story_name": "H剧情②",
+          "release_conditions_id": 0,
+          "reward_item_type": 6,
+          "reward_item_id": 2,
+          "reward_item_value": 30,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1515_202_thumbnail"
+        },
+        {
+          "id": 620,
+          "character_id": 1515,
+          "story_number": 11,
+          "adv_id": 203,
+          "story_name": "追加ストーリー：夜魔の結実",
+          "release_conditions_id": 0,
+          "reward_item_type": 0,
+          "reward_item_id": 0,
+          "reward_item_value": 0,
+          "release_flg": 1,
+          "receive_flg": 1,
+          "image_url": "https://lilyange.webaccel.saikyo.biz/img/story/story_1515_203_thumbnail"
+        }
+      ]
     }
   ],
   "help": [
     "https://lilyange.webaccel.saikyo.biz/img/help/story_1.png?2606161000"
   ],
-  "ver": 1.5211
+  "ver": 1.5231
 }
