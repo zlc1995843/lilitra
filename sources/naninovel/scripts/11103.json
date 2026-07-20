@@ -1,0 +1,769 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "26a3e896",
+      "speaker": "",
+      "ja": "目の前に広がる景色。この風景は、俺達が育った村の……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "836dad23",
+      "speaker": "ルミナ",
+      "ja": "ぐすっ……うっ……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "f1f73338",
+      "speaker": "",
+      "ja": "座り込み、泣きじゃくるルミナ。視界が少しずつ、ルミナへと近付いていき、頭に手を置いた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "b8ebbc48",
+      "speaker": "ルミナ",
+      "ja": "し、雫……？",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b56e5d8a",
+      "speaker": "俺",
+      "ja": "なにべそかいてんだ？　……っておお？　村で見たこと無い顔だな。どっから来たんだ？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "540892f8",
+      "speaker": "ルミナ",
+      "ja": "……え……だ、誰……？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "6ed4fe37",
+      "speaker": "俺",
+      "ja": "{G_PlayerName}。ほら、これでも食って元気出せよ。ほら、摘みたてだぞ～！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "281b3211",
+      "speaker": "",
+      "ja": "そのへんの畑からイロイチゴを摘んで渡す、幼い俺。……今考えれば怒られそうだが",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "8b0295d3",
+      "speaker": "ルミナ",
+      "ja": "え、えっと……ありが、とう……",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "fcdea762",
+      "speaker": "ルミナ",
+      "ja": "へへ、美味しい……",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "5303577d",
+      "speaker": "俺",
+      "ja": "おい、あんまり慌てて食べるなよ。服についてるぞ？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "8b9cc97f",
+      "speaker": "ルミナ",
+      "ja": "あれ……初めて食べたから……食べにくい、ね。このイロイチゴ？　って……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "ab9e7e5e",
+      "speaker": "俺",
+      "ja": "イロイチゴ食べたことないって……お前、どこから来たんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "3c3136df",
+      "speaker": "ルミナ",
+      "ja": "と……遠くの……村？　から……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "28edcacc",
+      "speaker": "俺",
+      "ja": "……で、なんで泣いてたんだ？　誰かにイジメられたか？　仕返ししてやろうか？",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "dbfaa144",
+      "speaker": "ルミナ",
+      "ja": "え……えっと……結婚式してる、人を見て……？",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "e97da3c2",
+      "speaker": "俺",
+      "ja": "なんで？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "e14cde9b",
+      "speaker": "ルミナ",
+      "ja": "わ……私には無理だ、って……思ったから……",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "14beb121",
+      "speaker": "俺",
+      "ja": "うん？　なんで？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "51eae7af",
+      "speaker": "ルミナ",
+      "ja": "だ、だって……私みたいな、泣き虫で弱虫、結婚相手にしてくれるような人いないよ……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "62dae653",
+      "speaker": "俺",
+      "ja": "なーんだ、そんだけ可愛けりゃいくらでも相手なんて見つかるだろ",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "2774e26",
+      "speaker": "ルミナ",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "418cab1",
+      "speaker": "俺",
+      "ja": "それに、ほんとのホントーに相手が見つからなかったら、俺が結婚してやるよ",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "7126309a",
+      "speaker": "ルミナ",
+      "ja": "ほ……本当に？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "dd102241",
+      "speaker": "俺",
+      "ja": "本当本当。ま、俺も冒険者になれないくらい弱いんだけどな。それでもいいなら",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "1e54de17",
+      "speaker": "ルミナ",
+      "ja": "強さなんて……機械を使えば誰だって、強くはなれるだろうし……",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "639d6a02",
+      "speaker": "俺",
+      "ja": "機械？",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "ee7949c3",
+      "speaker": "ルミナ",
+      "ja": "光線銃とか……強い武器の機械なら、いっぱい、あるよ……",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "1dbd2fc",
+      "speaker": "俺",
+      "ja": "機械ってすげー！　そっか、冒険者になるならそういう方法もあるのか……",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "773502a6",
+      "speaker": "護衛A",
+      "ja": "いたぞ、ルミナ様だ！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "6ed06040",
+      "speaker": "ルミナ",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "81efc4",
+      "speaker": "護衛B",
+      "ja": "原住民といるとは、面倒だな……",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "11a89738",
+      "speaker": "",
+      "ja": "突然現れた２人の護衛に連れて行かれるルミナ。こちらに申し訳なさそうな視線を向けながら、遠くへと離れていく。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "d8ed6cce",
+      "speaker": "俺",
+      "ja": "ちょっと、えっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "da44db4a",
+      "speaker": "護衛A",
+      "ja": "はいはい、記憶処理……っと",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "711ebd70",
+      "speaker": "護衛A",
+      "ja": "リリアンの能力を再現した機械って、使いにくいんだよな……普通なら大人に使う想定だし、出力が難しい……まあテキトーでいいか。やっちゃったし",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "362200fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "っ……！？",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "c4b9149a",
+      "speaker": "",
+      "ja": "気づけば周囲の景色は、元のルミナの部屋に戻った。……どこまでが記憶補助装置の機能で、どこからが戻った記憶なのかすらわからない。",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "84182b1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "今のって……",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "e34e43b7",
+      "speaker": "",
+      "ja": "ドクン、と心臓の近くに、自分の体温ではない熱い何かを感じる。ルミナの記録が切っ掛けになって、ルナリングの回復効果が発揮されたのだろうか……",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "3aa10350",
+      "speaker": "{G_PlayerName}",
+      "ja": "忘れてたのって、機械のせいだったのか……ルミナと本当に、会ってたんだな……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "61b5d4d8",
+      "speaker": "",
+      "ja": "婚約、と言うには弱い……子ども同士の約束だったようだが。それでも、辛いことばかりの当時のルミナには、とても大きな約束だったのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "fe2043",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナとの出会いを思い出せたのはいいけど、今はこんなことしてる場合……じゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "b63c2527",
+      "speaker": "",
+      "ja": "記憶が戻る直前に操作していた、記憶補助装置。改めて見ると、様々な日記……と言うより、メモのような物が大量に開き、宙に浮かんでいた。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "a43ed168",
+      "speaker": "",
+      "ja": "\"{G_PlayerName}くんにもらった機械の使い方\"。\"コハルちゃんに教えてもらった魔法\"。\"アポロちゃんが欲しがってた機能\"。\"雫が喜ぶ食べ物\"。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "2481a502",
+      "speaker": "",
+      "ja": "\"皆が褒めてくれたチョコケーキのレシピ\"。\"皆の誕生日\"。\"{G_PlayerName}くんはクリーム多め、コハルちゃんはジャムが入ってる物が好き\"。",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "e2362df8",
+      "speaker": "",
+      "ja": "\"皆と行きたい場所\"。\"皆と見たい映画\"。\"皆が好きそうな星\"。\"皆が……",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "2a081dd5",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ずっと、努力、してたんだよな",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "92c96efa",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんであんなことしたんだ？　俺もスッキリはしたけど……いつものルミナとはちょっと違ったなって……",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "8e16c0cb",
+      "speaker": "ルミナ",
+      "ja": "……報われてほしかったのかも",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "acf6b970",
+      "speaker": "{G_PlayerName}",
+      "ja": "報われてほしかった？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "580f389",
+      "speaker": "ルミナ",
+      "ja": "だって、ライラちゃんは長い間ずっと……自分の危険も顧みずに頑張って、お父さんとも話し合ってて……それでも、皆ライラちゃんの言葉を聞いてなかった",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "a448d88c",
+      "speaker": "ルミナ",
+      "ja": "沢山の努力は、報われて欲しいって思うし……ここに来てから、色々してもらったし……私だって、お返ししたかった。のかも……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "5bbdb2b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……報われて、欲しい",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "ecf1e553",
+      "speaker": "コハル",
+      "ja": "……{G_PlayerName}。{G_PlayerName}も来てたのね",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "795bcb74",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "9d74e290",
+      "speaker": "",
+      "ja": "コハルも同じような考えにたどり着いたのか、ルミナの部屋へと入ってくる。そして浮かぶ文字を一瞥すると、笑みを浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "fd2755b8",
+      "speaker": "コハル",
+      "ja": "ちょっと迷っちゃったけど……結局、やることは決まってるでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "444fe851",
+      "speaker": "コハル",
+      "ja": "このままスゴスゴ引き下がったら、冒険者なんて一生なれないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "1ab9abeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "8b97e3cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだよな……！",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "f11e725c",
+      "speaker": "{G_PlayerName}",
+      "ja": "城内の図があれば……",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "b2d77229",
+      "speaker": "アポロ",
+      "ja": "当然、機密です。そのような物はありません",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "87cdeed7",
+      "speaker": "コハル",
+      "ja": "でもでもほら、スキャンがどうこうとか出来ないの！？",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "938d0f86",
+      "speaker": "雫",
+      "ja": "……星に戻る準備をしろ、と言ったのに何をしているのですか貴方達は",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "f3d445f2",
+      "speaker": "２人",
+      "ja": "ルミナを自由にしてもらうよう、侵入して説得する準備！",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "aa79d731",
+      "speaker": "雫",
+      "ja": "反逆罪で死刑にもなりかねませんよ。それにルミナ様を元に戻す方法もわかっていません",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "6602fdb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前だって本当はこのままじゃ嫌だろ？",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "84cf2b06",
+      "speaker": "コハル",
+      "ja": "元に戻らなくったって、無理やり連れ去っちゃえばいいじゃない！　今まで知り合ったリリアン皆に相談すれば、きっとなんとかなるわ！",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "262d182d",
+      "speaker": "アポロ",
+      "ja": "アップデートによって最高級、最高性能になったワタシであれば追跡を振り切るなど造作も……無い可能性は無きにしもあらずです",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "351760e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、失敗してもルミナ様を汚す男を排除するチャンスですね、くらい言ってみろよ",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "ceb1cf",
+      "speaker": "雫",
+      "ja": "……ふう、まったくこれだから野蛮人は。提案する作戦が単純すぎて困りますね",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "c780dbf8",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだと！？",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "518db308",
+      "speaker": "雫",
+      "ja": "そんな穴だらけの作戦を作ったところで、成功するわけがないでしょう……少々お待ちを。気を引き締めるために着替えます",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "53645459",
+      "speaker": "",
+      "ja": "雫が何か手首につけていた機械を操作すると、一瞬で格好が違う服へと変わった。",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "db162305",
+      "speaker": "コハル",
+      "ja": "何その服、かっこいい！",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "ef52d184",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり雫も、戦うつもりだったんだな",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "f21f03b8",
+      "speaker": "雫",
+      "ja": "ふん、１人でなら戦うつもりはありませんでしたが",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "f17ebf9f",
+      "speaker": "雫",
+      "ja": "では、こちらで考えていた作戦を説明しますよ、コハル様、アポロ、{G_PlayerName}様",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "377785f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "は！？　作戦考えてたの……か……よ",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "6a7edb4d",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "4c757f35",
+      "speaker": "",
+      "ja": "耳を疑い、コハルと顔を見合わせる。",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "16a9fbf6",
+      "speaker": "",
+      "ja": "しかしすぐに気を取り直し、雫の後を追った。",
+      "zh": ""
+    }
+  ]
+}

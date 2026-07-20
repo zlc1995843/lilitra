@@ -1,0 +1,904 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "a4fac3d9",
+      "speaker": "",
+      "ja": "レジーニア陛下の正気が一欠片でも戻った理由。それはルミナへの愛ゆえなのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "6d0c5665",
+      "speaker": "レジーニア",
+      "ja": "<color=red>ルミナ。魔力の成長が足りないわ。魔力トレーニングの量を倍にしなさい。他の勉学は後回しにするのよ</color>",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "f11edeb4",
+      "speaker": "",
+      "ja": "やめて。",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "c9a3e831",
+      "speaker": "レジーニア",
+      "ja": "<color=red>まだ結果に繋がらないのね？　体調不良を理由に休むのは構わないけれど、後でそれだけ訓練量を増やしなさい</color>",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "356bc660",
+      "speaker": "",
+      "ja": "これ以上、ルミナちゃんに……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "6bc5614c",
+      "speaker": "レジーニア",
+      "ja": "<color=red>近寄るのではありません。不要な接触を好むなど、軟弱な。そんな考えだから、身体も虚弱になるのです</color>",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "369a5fe4",
+      "speaker": "",
+      "ja": "酷いこと、言わないで。",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "b2046d1e",
+      "speaker": "",
+      "ja": "話は変わるが、娯楽・観光用宇宙船APL-180に標準搭載されているAI、アポロ。彼女は本当にただの機械なのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "c7a1ea3b",
+      "speaker": "",
+      "ja": "その答えのヒントは、宴と平和の星を旅立った時の会話にある。",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "29c16c43",
+      "speaker": "コハル",
+      "ja": "あー、でも随分疲れたわ。体の状態は戻ってるみたいだけど……いや、表面だけなのかしら？　中身はちゃんと時間が進んでるんだっけ？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "9f8d7afa",
+      "speaker": "雫",
+      "ja": "表面だけだった場合、人間たちも寿命で死んでしまうでしょう。維持していたのは記憶だけです",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "3e8de7af",
+      "speaker": "コハル",
+      "ja": "……えっと？　つまり、魂だけは時間が巻き戻らなかった、ってこと？",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "7fba6f4b",
+      "speaker": "雫",
+      "ja": "た、魂……いや実際どうなのかはわかりませんが。物質だけ時間が巻き戻っていたということでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "1f7a33e1",
+      "speaker": "コハル",
+      "ja": "それだと、アポロの言ってたズレ？　っていうのが説明できないんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "94f4fa0a",
+      "speaker": "コハル",
+      "ja": "……頭痛くなってきた。細かいことはいいわ、お風呂入って寝よーっと",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "5de91458",
+      "speaker": "",
+      "ja": "この時コハルが一瞬抱いた小さな疑問は、この問いに対して核心的な部分を突いている。",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "5bc58bdd",
+      "speaker": "アポロ",
+      "ja": "……ワタシが先程この星に着陸する際に、観測情報と計算にズレがある事を確認しました",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "4666f522",
+      "speaker": "{G_PlayerName}",
+      "ja": "計算の……ズレ？　って、どういうことだ？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "ddf30836",
+      "speaker": "アポロ",
+      "ja": "主に地面までの距離、着陸までの時間のズレです。わかりやすく言えば……着陸まであと１０秒だと考えていたのに、既に着陸が終わっていたような感覚ですね",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "20928598",
+      "speaker": "",
+      "ja": "宴と平和の星でアポロは異変に気付き、ベルディグリスによる遡行現象の誤差を計算している。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "6d7943da",
+      "speaker": "",
+      "ja": "遡行現象は、全ての生物の記憶以外に適用される。もしアポロがただの物質である場合、記憶ごと遡行し、記憶を保持することはできない。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "f671083c",
+      "speaker": "",
+      "ja": "計算のズレに気づくことは出来たとしても、\"遡行現象を繰り返す度に遡行する時間が徐々に増えている\"という説に辿り着くことは困難なはずである。",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "d6ee22cb",
+      "speaker": "",
+      "ja": "\"遡行現象に巻き込まれた時、観測情報に異常が起こる\"という仮説に辿り着くほうが、余程自然だ。",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "1949a735",
+      "speaker": "",
+      "ja": "では何故アポロは異変に気付くことが出来たのか？",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "ab92fe13",
+      "speaker": "ルミナ",
+      "ja": "お母様。また……機会があれば、この船で……視察を、ご一緒したく思います",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "2ca9b809",
+      "speaker": "レジーニア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "ce9b0bab",
+      "speaker": "",
+      "ja": "過去、レジーニアはルミナに対しアポロを下賜した。その際……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "665ad442",
+      "speaker": "",
+      "ja": "砕け散り、霧散してゆく魂。奪われ、消えゆく意識の中で、彼女は最後の力を振り絞り、魂を操作する能力を利用し抵抗した。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "b56d0e46",
+      "speaker": "",
+      "ja": "魂の欠片を、宇宙船へと隠し移す形で。",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "577003b2",
+      "speaker": "",
+      "ja": "その魂はあまりにも微弱。意識も、記憶も無く、ただ魂という名のエネルギーとして宇宙船内に存在した。",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "d0ce2367",
+      "speaker": "",
+      "ja": "魂は、剥き出しで放置されれば消え失せてしまう。何かの殻に入り、他の生命からの刺激を受け、ようやく存在が維持できるエネルギー。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "8e598a65",
+      "speaker": "",
+      "ja": "娯楽・観光用宇宙船APL-180に標準搭載されているAI、アポロ。暫くルミナの数少ない話し相手になる彼女は、消失寸前の魂の欠片が入る殻として無意識に選ばれた。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "104dd8ac",
+      "speaker": "",
+      "ja": "微かな、風に吹かれただけで消し飛びそうな魂は、宇宙船AIの片隅に根付き、一欠片の影響を与えた。アポロの中の女王の魂の欠片が、僅かながら記憶領域へと影響を与えたのだ。",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "322c8177",
+      "speaker": "",
+      "ja": "そして今、その魂の欠片は。",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "d7d82ec3",
+      "speaker": "",
+      "ja": "殻を失い、空気中を漂いながら、本来あるべき場所へと徐々に引き寄せられ……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "5fcc8461",
+      "speaker": "",
+      "ja": "長き旅を終え、帰還を果たしたのである。",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "3622d0d0",
+      "speaker": "レジーニア",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "d76b9cc4",
+      "speaker": "アナウンス",
+      "ja": "例外指示の音声を認識しました。終了処理をキャンセルいたします",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "3afe25de",
+      "speaker": "レジーニア",
+      "ja": "っ！？　待っ……",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "a385e15f",
+      "speaker": "ルミナ",
+      "ja": "っ……、はぁっ、お母様……っ",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "8e8258da",
+      "speaker": "ルミナ",
+      "ja": "非道を止めに、参りました……！",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "94d8dc48",
+      "speaker": "レジーニア",
+      "ja": "……そう。そうなのね……",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "51ff4f83",
+      "speaker": "レジーニア",
+      "ja": "何が起こったかは、わからないけれど……もう一度起動すればいい。確認時間さえ過ぎれば、再びこの星を始まりに戻すことが出来る",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "988f8999",
+      "speaker": "ルミナ",
+      "ja": "させません……！　もう、貴方には操られません！",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "e9070ee5",
+      "speaker": "レジーニア",
+      "ja": "だとしたら、どうするの？　私に触れる？　出来ないわよね。また操られてしまうもの",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "670d14d3",
+      "speaker": "レジーニア",
+      "ja": "能力で止めるしかないわよね。でも無理よ？　ここには強い光は無いもの！　機械を壊すどころか、私を拘束すら出来ないわ！",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "cf6c471d",
+      "speaker": "ルミナ",
+      "ja": "（……{G_PlayerName}くんにもらった機械を使えば、出来るかも……でも……）",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "3d51f83d",
+      "speaker": "ルミナ",
+      "ja": "（小さい光じゃ、お母様に消されちゃう……お母様の動きを少し止めても、音声認識で機械は起動出来てしまう……！）",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "2115d5c4",
+      "speaker": "ルミナ",
+      "ja": "（必要なのは……お母様を長く止め続ける、常に一定量のある光。もしくは、ここの機械を壊せるほど強力な、一瞬の……）",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "ad418001",
+      "speaker": "{G_PlayerName}",
+      "ja": "……光なら、あるぞ",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "6347c64b",
+      "speaker": "ルミナ",
+      "ja": "！　{G_PlayerName}くん！",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "86d3cce5",
+      "speaker": "レジーニア",
+      "ja": "！？　馬鹿な、一度壊されたとはいえ、修復されたなら廊下のセキュリティも復活してるはず！　なぜここまで来られたの！？",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "c93db062",
+      "speaker": "レジーニア",
+      "ja": "……まさか！",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "63b5ce72",
+      "speaker": "グリム",
+      "ja": "あ～、もう！　今度こそ限界～！　指一本動かない！",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "33ae5b9d",
+      "speaker": "グリム",
+      "ja": "グリムちゃんがこれだけしたんだから……なんとかしてよ、お兄ちゃん……！",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "16dc28f4",
+      "speaker": "レジーニア",
+      "ja": "ここに来たからと言って、一般人の、それもたかが技術後進惑星の住民に何が出来ると言うの！？",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "80b072fb",
+      "speaker": "レジーニア",
+      "ja": "ここまでの貴方が作った光る機械も、一応報告には上がっている。無力で、くだらない、役に立たない機械だわ。弁えて、下がりなさい！",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "5c79661a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……役に立たない機械か、どうかは……",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "264bfed2",
+      "speaker": "{G_PlayerName}",
+      "ja": "その目で、確かめてみろ",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "e63b5e9b",
+      "speaker": "レジーニア",
+      "ja": "…………！？　それは……！？",
+      "zh": ""
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "f9392e96",
+      "speaker": "ケット",
+      "ja": "お兄ちゃん弓使えるのー？　え、弓じゃない？",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "2f5e4c41",
+      "speaker": "ラギオラ",
+      "ja": "だが……どちらにせよ、狙う技術が必要そうな武器だな。稽古をつけてやろうか？",
+      "zh": ""
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "549846f9",
+      "speaker": "ラチャナ",
+      "ja": "手始めに狩りに出てくるがよいぞ！　わしは鳥肉が食べたい気分じゃ！",
+      "zh": ""
+    },
+    {
+      "key": "334.1",
+      "line_index": 334,
+      "inline_index": 1,
+      "line_hash": "6ee6b611",
+      "speaker": "オーロラ",
+      "ja": "火竜草の根の使い道、決まったの！？　手伝う手伝う、面白そ～！",
+      "zh": ""
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "1ab01920",
+      "speaker": "フォニー",
+      "ja": "ちょっと、免許が必要な材料だって言ってるのに渡したの！？　まあ、星の外なら確かに関係ないのかも知れないけど……！",
+      "zh": ""
+    },
+    {
+      "key": "338.1",
+      "line_index": 338,
+      "inline_index": 1,
+      "line_hash": "fc6ab5da",
+      "speaker": "ベリル",
+      "ja": "そこは我々が安全な構造を実現すれば問題ないだろうね。安全化、実用化はボクの得意分野さ",
+      "zh": ""
+    },
+    {
+      "key": "352.1",
+      "line_index": 352,
+      "inline_index": 1,
+      "line_hash": "25f2c737",
+      "speaker": "プリズム",
+      "ja": "ランプの作り方、ですか？　そんな大した事してませんよ！　ブロワーさんが採ってくる石がとっても高品質なだけで……！",
+      "zh": ""
+    },
+    {
+      "key": "354.1",
+      "line_index": 354,
+      "inline_index": 1,
+      "line_hash": "c8c5f555",
+      "speaker": "ブロワー",
+      "ja": "まーた謙遜してらぁ。でも、光る石の採掘ならオイラに任せな！　どんな色でも、強さでも、採ってきてやるよ！",
+      "zh": ""
+    },
+    {
+      "key": "356.1",
+      "line_index": 356,
+      "inline_index": 1,
+      "line_hash": "9f3b3d6",
+      "speaker": "コーゼ",
+      "ja": "石の加工について詳しく知りたいなら、専門家にコネあるかんねー。いつでも頼りな？",
+      "zh": ""
+    },
+    {
+      "key": "368.1",
+      "line_index": 368,
+      "inline_index": 1,
+      "line_hash": "b0ae593d",
+      "speaker": "ゼミア",
+      "ja": "これか？　ボウガンという武器だが……興味があるのか？",
+      "zh": ""
+    },
+    {
+      "key": "370.1",
+      "line_index": 370,
+      "inline_index": 1,
+      "line_hash": "b5954da0",
+      "speaker": "パセリ",
+      "ja": "ご入用とあれば、いつでもわたくしめにお任せを！　格安最速でご希望の商品をお届けいたしますわよ～！",
+      "zh": ""
+    },
+    {
+      "key": "372.1",
+      "line_index": 372,
+      "inline_index": 1,
+      "line_hash": "16b6dc2",
+      "speaker": "ライラ",
+      "ja": "あっ、城の兵士とボウガン訓練受けてみる！？　人を相手にする時と獣を相手にする時で、技術って全然違うもんね！",
+      "zh": ""
+    },
+    {
+      "key": "384.1",
+      "line_index": 384,
+      "inline_index": 1,
+      "line_hash": "31d90ae1",
+      "speaker": "アルフ",
+      "ja": "へ～、面白いね！　要するに、爆弾をそのボウガンで射出するんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "386.1",
+      "line_index": 386,
+      "inline_index": 1,
+      "line_hash": "e13491bf",
+      "speaker": "アコ",
+      "ja": "で、でもそれって……照射地点が１個だと、届かない場所が出るかも……増やしたほうが、光量は安定するんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "388.1",
+      "line_index": 388,
+      "inline_index": 1,
+      "line_hash": "91b255a6",
+      "speaker": "ベル",
+      "ja": "ナイスアイデアじゃな！　空中で破裂させ、小さな爆弾を大量にバラ撒くことで照射地点を増やせば……！",
+      "zh": ""
+    },
+    {
+      "key": "400.1",
+      "line_index": 400,
+      "inline_index": 1,
+      "line_hash": "5e7e2282",
+      "speaker": "ジラド",
+      "ja": "子供がやってた花火？　あれ楽しいよな～！",
+      "zh": ""
+    },
+    {
+      "key": "402.1",
+      "line_index": 402,
+      "inline_index": 1,
+      "line_hash": "6d35188d",
+      "speaker": "ロサナ",
+      "ja": "あの強い光が出るやつだよね？　確かに、お祝いの時にいーっぱい使われてたな～！",
+      "zh": ""
+    },
+    {
+      "key": "404.1",
+      "line_index": 404,
+      "inline_index": 1,
+      "line_hash": "d8e6971f",
+      "speaker": "ナハト",
+      "ja": "でも射出するなら、水平角度に気をつけないと想定した挙動にならないかも……制御する機構を考えましょうか？",
+      "zh": ""
+    },
+    {
+      "key": "418.1",
+      "line_index": 418,
+      "inline_index": 1,
+      "line_hash": "9e38f8fe",
+      "speaker": "フウリ",
+      "ja": "よく曲がる木材……？　この星には多種多様に進化した樹木が多いですから、容易く見つかるでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "420.1",
+      "line_index": 420,
+      "inline_index": 1,
+      "line_hash": "c6b56ed2",
+      "speaker": "カシミア",
+      "ja": "う……しって、る。あんない、すう",
+      "zh": ""
+    },
+    {
+      "key": "422.1",
+      "line_index": 422,
+      "inline_index": 1,
+      "line_hash": "3b3d6f7e",
+      "speaker": "ヒナタ",
+      "ja": "カシミアちゃん、最近いっぱい、楽しくお出かけしてるもんね～♪　じゃあ早速、調達しにいこー！",
+      "zh": ""
+    },
+    {
+      "key": "433.1",
+      "line_index": 433,
+      "inline_index": 1,
+      "line_hash": "b7e52f60",
+      "speaker": "グレメイン",
+      "ja": "機械、ですか……生憎、刃がついた武器は所持製造が禁じられている宗教が大半なので、ボウガンという物は存じ上げませんが……",
+      "zh": ""
+    },
+    {
+      "key": "435.1",
+      "line_index": 435,
+      "inline_index": 1,
+      "line_hash": "5940a414",
+      "speaker": "ラト",
+      "ja": "秘密裏に製造研究すれば問題ありませんね！　崇姫様ともなればその程度のこときっと可能なのでしょうね～！？",
+      "zh": ""
+    },
+    {
+      "key": "437.1",
+      "line_index": 437,
+      "inline_index": 1,
+      "line_hash": "6d742bae",
+      "speaker": "グレメイン",
+      "ja": "……問題あるので無理ですが、きっとラトさんが疲れを癒やすハーブや、集中力を上げるお香をくださるでしょう♥　私からは、目的が成就するように祝福を……",
+      "zh": ""
+    },
+    {
+      "key": "452.1",
+      "line_index": 452,
+      "inline_index": 1,
+      "line_hash": "3cc72440",
+      "speaker": "雛菊",
+      "ja": "弦？　それであれば、いつも琴に使う弦を依頼している店がありんす♥",
+      "zh": ""
+    },
+    {
+      "key": "454.1",
+      "line_index": 454,
+      "inline_index": 1,
+      "line_hash": "6bd41be3",
+      "speaker": "メイメイ",
+      "ja": "楽器用と言っても、技術が発達した星の弦よ？　ボウガンに使うためのワイヤーとしても、遜色ない物だってあるわ",
+      "zh": ""
+    },
+    {
+      "key": "456.1",
+      "line_index": 456,
+      "inline_index": 1,
+      "line_hash": "775c54cc",
+      "speaker": "カルーア",
+      "ja": "あっ、休憩したい時はうちに来ていただけたら～、接客いたしますよ！　あのっ、お金はいただきますけどぉ～……",
+      "zh": ""
+    },
+    {
+      "key": "466.0",
+      "line_index": 466,
+      "inline_index": 0,
+      "line_hash": "3a755e1b",
+      "speaker": "雫",
+      "ja": "……チッ、いつもこれ見よがしにコツコツと……早く終わらせなさい、どうせわたくしが何を言ったところで諦めないのですから",
+      "zh": ""
+    },
+    {
+      "key": "476.0",
+      "line_index": 476,
+      "inline_index": 0,
+      "line_hash": "f3b9f82",
+      "speaker": "コハル",
+      "ja": "もう、ご飯冷めちゃってるじゃない！　温め直す？　無理はしないでよね！",
+      "zh": ""
+    },
+    {
+      "key": "489.0",
+      "line_index": 489,
+      "inline_index": 0,
+      "line_hash": "db9c1dd3",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、機械作ってるの……？　何か欲しい物があったら、言ってね……",
+      "zh": ""
+    },
+    {
+      "key": "498.1",
+      "line_index": 498,
+      "inline_index": 1,
+      "line_hash": "e6504ecb",
+      "speaker": "アポロ",
+      "ja": "……ふふ、ようやく完成したのですか。これだけマスターやワタシ達の助力があれば当然ですね",
+      "zh": ""
+    },
+    {
+      "key": "502.1",
+      "line_index": 502,
+      "inline_index": 1,
+      "line_hash": "60f05b60",
+      "speaker": "アポロ",
+      "ja": "どのような環境でも正常に動作するでしょう。ワタシが保証します",
+      "zh": ""
+    },
+    {
+      "key": "514.0",
+      "line_index": 514,
+      "inline_index": 0,
+      "line_hash": "72099bcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "最初で最後、１発限りの……！",
+      "zh": ""
+    },
+    {
+      "key": "516.0",
+      "line_index": 516,
+      "inline_index": 0,
+      "line_hash": "5a1135f",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の……俺達の努力の、結晶！！",
+      "zh": ""
+    },
+    {
+      "key": "537.1",
+      "line_index": 537,
+      "inline_index": 1,
+      "line_hash": "dfb0f2b2",
+      "speaker": "レジーニア",
+      "ja": "う……宇宙？　いや、これは……",
+      "zh": ""
+    },
+    {
+      "key": "539.1",
+      "line_index": 539,
+      "inline_index": 1,
+      "line_hash": "e303ebb1",
+      "speaker": "レジーニア",
+      "ja": "プラネタ……リウム！？",
+      "zh": ""
+    },
+    {
+      "key": "541.1",
+      "line_index": 541,
+      "inline_index": 1,
+      "line_hash": "5a5f40c6",
+      "speaker": "レジーニア",
+      "ja": "（阻害粒子を……いや、光源も、光量も多すぎる、抑えきれない！）",
+      "zh": ""
+    },
+    {
+      "key": "543.0",
+      "line_index": 543,
+      "inline_index": 0,
+      "line_hash": "97afbe41",
+      "speaker": "{G_PlayerName}",
+      "ja": "今だ、行け！　ルミナーーーッ！！",
+      "zh": ""
+    },
+    {
+      "key": "552.1",
+      "line_index": 552,
+      "inline_index": 1,
+      "line_hash": "f06ff901",
+      "speaker": "ルミナ",
+      "ja": "ありがとう、{G_PlayerName}くん……！",
+      "zh": ""
+    },
+    {
+      "key": "563.1",
+      "line_index": 563,
+      "inline_index": 1,
+      "line_hash": "a4085595",
+      "speaker": "ルミナ",
+      "ja": "星の流れを、掴む……！",
+      "zh": ""
+    }
+  ]
+}

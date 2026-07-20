@@ -1,0 +1,337 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "4baa3bb6",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ、はあ……こ……ここからか……！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "493657c8",
+      "speaker": "",
+      "ja": "中庭を抜け、王城の廊下を走る。じきに、大きな扉と警告文が見えた。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "1d23df29",
+      "speaker": "{G_PlayerName}",
+      "ja": "読めないけど……多分、ここから先に許可なく入ると……死ぬとか書いてるんだろうな……",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "a790a3cf",
+      "speaker": "雫",
+      "ja": "問題は女王の間までの間にある、厳重なセキュリティです",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "2d3cad92",
+      "speaker": "コハル",
+      "ja": "せきゅりてぃ……扉とか罠とかがある、ってことよね",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "a078a40f",
+      "speaker": "雫",
+      "ja": "登録されていない人物が通るだけで、無数のレーザーが発射されサイコロステーキどころか粉微塵にされます",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "29f18729",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……！？　粉微塵！？",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "bb02df08",
+      "speaker": "雫",
+      "ja": "なので、ここを超えることが鬼門となるのですが……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "8e51e87d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なら多分、俺がいけると思う",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "b9694fb0",
+      "speaker": "雫",
+      "ja": "は？　{G_PlayerName}様に何が出来ると言うのですか、男に格下げしますよ",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "2cebd730",
+      "speaker": "{G_PlayerName}",
+      "ja": "この星の機械の攻撃は、俺は多分……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "c73a4f93",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルナリングで、無効化出来る……",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "ad3ee17",
+      "speaker": "{G_PlayerName}",
+      "ja": "……はず",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "7f6e9652",
+      "speaker": "",
+      "ja": "心を奮い立たせるために言葉にしていたが、逆に不安を煽り、胸で拳を握る。",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "264ca82a",
+      "speaker": "",
+      "ja": "何か反応をくれないかとも思ったが、心臓のルナリングは沈黙を貫くままだった。",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "8a0d414b",
+      "speaker": "ポラリス",
+      "ja": "安全のためです……念の為、城内に入る部外者はこちらの手錠をつける決まりになってるので",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "4f114cbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "た、確かに必要なのかも知れないけど……ん？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "1be85bbd",
+      "speaker": "ポラリス",
+      "ja": "どうかしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "46172ef2",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと、いや……",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "81ecd50a",
+      "speaker": "{G_PlayerName}",
+      "ja": "手錠というか……まるで俺の動きに合わせるように、ゴムみたいに変形するオモチャをつけられたように感じた",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "9dc217e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルは違ったみたいだから、やっぱり……ルナリングの力なんだろうな",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "764d8a6a",
+      "speaker": "{G_PlayerName}",
+      "ja": "って言っても、物理的な兵器？　は無効化できないっぽいけど……機関銃で蜂の巣にされるとかだったら、ダメだっただろうな",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "90df4cb9",
+      "speaker": "",
+      "ja": "３人で考えた仮説は、オーバーテクノロジーの機械、リリアンの能力を再現した機械からの影響をルナリングは無効化するのではないか、という物だった。",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "4464f5f8",
+      "speaker": "",
+      "ja": "……テストとして出力を下げた武器で、何度か攻撃された腕が痛む。",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "bf2da193",
+      "speaker": "",
+      "ja": "ルナリングがあれば、レーザーを無効化し向こう側に渡れるのではないか。ルミナと会えば、後は連れて来るだけではないか。女王の追走も、振り切れるのではないか。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "7218c6e2",
+      "speaker": "",
+      "ja": "仮説に、さらに仮説を何個も重ねた作戦。とても作戦と言えるかは怪しい。雫も最後まで止めようとしていたくらいだ。",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "1541fb6c",
+      "speaker": "",
+      "ja": "生きるか死ぬかで考えれば、どう考えても死ぬ確率のほうが遥かに高いであろう賭け。しかし……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "5b127588",
+      "speaker": "{G_PlayerName}",
+      "ja": "……どうせここで死んだとしても、もう俺はもともと死んでた身なんだ",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "375513ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "出来ることだけしてても、死ぬ。どうせ死ぬなら……出来るかわからないことも、やって死のう",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "d3cd7f60",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "ce7769c4",
+      "speaker": "",
+      "ja": "終と始まりの星で作られた宇宙船のワタシには、あらゆる制限がかけられている。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "e08afd6a",
+      "speaker": "",
+      "ja": "現状特に重要な制限は、兵器の利用。星域内で、一定以上の火力を持つ兵器は使用が禁じられている。つまり……",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "9706e3d1",
+      "speaker": "アポロ",
+      "ja": "……どんなに窮地に立たされたとしても、ワタシはマスター達をお守りすることが出来ない",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "17d3bbdb",
+      "speaker": "",
+      "ja": "コズミック・ワンダーランドで得た、船外行動用の義体もここでは兵器として扱われる。王城に入った瞬間に接続を失うだろう。",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "9d54a375",
+      "speaker": "",
+      "ja": "城内に降り、その後浮上することはできる。王族が使用する宇宙船として登録されているため、その程度であれば……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "73401f6f",
+      "speaker": "アポロ",
+      "ja": "……それも、一定以上の権限で停止を命じられた場合、拒否できませんが……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "af0ad7ad",
+      "speaker": "アポロ",
+      "ja": "どうか……皆様、ご無事で……",
+      "zh": ""
+    }
+  ]
+}

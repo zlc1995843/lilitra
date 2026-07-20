@@ -1,0 +1,868 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "81eeb1ba",
+      "speaker": "アポロ",
+      "ja": "……着陸終了しました",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "b7ee035",
+      "speaker": "{G_PlayerName}",
+      "ja": "着いたのか……",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "ef9ae28",
+      "speaker": "ルミナ",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "140e8e7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "724eb25c",
+      "speaker": "ルミナ",
+      "ja": "うん……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "c9e0b0e8",
+      "speaker": "",
+      "ja": "ルミナが女王になるための戴冠式が予定されている、と知ってから数日。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "292ba5c4",
+      "speaker": "",
+      "ja": "あの後戴冠式について連絡を送ったらしいが、はぐらかされ新たな情報は得られなかったらしい。",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "908fe5b9",
+      "speaker": "",
+      "ja": "既に次期女王はルミナだと、公に発表されているらしいが……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "be71dd49",
+      "speaker": "{G_PlayerName}",
+      "ja": "辞退する、って言ってたよな……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "bb92c9bb",
+      "speaker": "ルミナ",
+      "ja": "うん……お母様が何を考えてるのかわからないけど……私は女王になるのに、まだ十分な支持は得られてないし、力もついてない。それに……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "ec7a09bc",
+      "speaker": "ルミナ",
+      "ja": "グレアお姉様の事とか……色々な事を、解決しなきゃ……それにはまず、お母様に話と、交渉をしてみる。辞退はその手段の１つ、かな……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "a3064ace",
+      "speaker": "コハル",
+      "ja": "無理はしないようにね……？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "a7fa2359",
+      "speaker": "雫",
+      "ja": "何かあれば、わたくしを呼んでください。不殺を誓ってはおりますが、それ以外は全てやります",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "1222b76d",
+      "speaker": "ルミナ",
+      "ja": "うん、ありがとう……雫もそこまでしなくていいけど、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "13c929ec",
+      "speaker": "雫",
+      "ja": "ではそろそろ向かいましょう、ルミナ様",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "48e016ab",
+      "speaker": "ルミナ",
+      "ja": "うん……{G_PlayerName}くんとコハルちゃんは、ここで待っててね。後で呼ばれると思うから……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "bb1c48b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　一緒に行かないのか？　色々、マナーの練習したのに……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "2d769a27",
+      "speaker": "雫",
+      "ja": "あれはもしも同じ場所を歩く機会があれば、という訓練です。あなた達は法律上我々の所有物です、後から来なさい",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "8bfb56bc",
+      "speaker": "コハル",
+      "ja": "所有物って……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "2d66d222",
+      "speaker": "",
+      "ja": "雫が扉を開け、ルミナが外へと出る。その瞬間、外から激しい光が舞い込んだ。",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "c88dd5f1",
+      "speaker": "記者A",
+      "ja": "ただいまルミナ様が宇宙船から降り、ご帰還しました！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "334c9676",
+      "speaker": "記者B",
+      "ja": "お体が弱く体調等心配されておりましたが、足取りはしっかりしています。こちらへ笑顔を向け手を振り、心配無いことをアピールされています",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "9d2a4656",
+      "speaker": "記者C",
+      "ja": "遠方の星への視察から今、ルミナ様がご帰還なさいました！　ワープ装置の誤作動との説もありましたが、否定する材料が多く……",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "965de0bf",
+      "speaker": "コハル",
+      "ja": "すごい景色、ね……あれって多分、情報屋よね？",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "f269350",
+      "speaker": "{G_PlayerName}",
+      "ja": "多分な……",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "8dcd1160",
+      "speaker": "",
+      "ja": "今まで、王女と言っても話しやすく、距離が近いと思い込んでいた。しかし、目の前でまざまざと見せつけられているこの光景は……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "12722f1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（住む世界が、こんなにも違う……）",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "c2b08159",
+      "speaker": "",
+      "ja": "それからしばらく後。急にドアが開き、どこか雫と似た服を着たリリアンが宇宙船へと入ってくるなり、やや不躾に聞いた。",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "d08c8803",
+      "speaker": "従者",
+      "ja": "……コハル、{G_PlayerName}というのは？",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "b5674cab",
+      "speaker": "{G_PlayerName}",
+      "ja": "お……俺達です",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "b999c13",
+      "speaker": "従者",
+      "ja": "ルミナ様がお待ちです、こちらへ",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "c2c09567",
+      "speaker": "コハル",
+      "ja": "あっ、は、はい！",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "b1c4cf89",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、でも宇宙船に鍵とか掛けなくても……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "5e76ea06",
+      "speaker": "アポロ",
+      "ja": "ワタシがいれば問題ありません。お気をつけて",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "62d8e857",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……わかった",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "6f8a5b4d",
+      "speaker": "",
+      "ja": "呼びに来た従者の後ろを歩く。……が、色々なことがあった後で練習通りとはいかなかった。",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "5a927b3b",
+      "speaker": "",
+      "ja": "コハルも同じような気持ちらしく、落ち着かなさそうにあたりを時々見回している。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "79d583b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ここがルミナの産まれた星……やっぱり、凄い技術が発達した星みたいだな）",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "3cb37696",
+      "speaker": "従者",
+      "ja": "ポラリス隊長、ルミナ様が所有する星外人を連れてきました",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "137c00b5",
+      "speaker": "ポラリス",
+      "ja": "ご苦労さま！　こっちで身柄を引き継ぐよ！",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "9399f930",
+      "speaker": "",
+      "ja": "その言葉を聞くと、ここまで連れてきた従者はどこかへと歩いていった。",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "ecdd66a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "身柄って……まるで犯罪者みたいな扱いだな",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "35f8cbe7",
+      "speaker": "ポラリス",
+      "ja": "すみませんー、こっちも仕事で仕方なく……",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "db635253",
+      "speaker": "ポラリス",
+      "ja": "でも、遠路はるばるようこそいらっしゃいました！　終と始まりの星は、誰でも歓迎しますよ！",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "25e9455b",
+      "speaker": "コハル",
+      "ja": "た、隊長って……随分と偉い人、なのね？",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "c818f0c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（リリアン……っぽいから参考にならないけど。そんな偉そうな人に見えないな）",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "86e157b3",
+      "speaker": "ポラリス",
+      "ja": "まあ……そうですねー。城に仕えてる護衛たちの隊長、ポラリスです！　よろしくお願いしますね",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "47a34392",
+      "speaker": "{G_PlayerName}",
+      "ja": "護衛隊！　……ってことはもしかして、雫の上司……？",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "2dcefb51",
+      "speaker": "ポラリス",
+      "ja": "あー、そのあたりはちょっと複雑なんですけれど……そんなものでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "f9b06a27",
+      "speaker": "ポラリス",
+      "ja": "ひとまず、王城へ向かいましょう！",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "8f67cf8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "77136130",
+      "speaker": "",
+      "ja": "コハルと顔を見合わせながら、ポラリスに続いて歩き、ひときわ大きい建物へと向かう。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "9f1af51c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（早くルミナと雫に会わないと、色々心細いな……）",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "1006baa4",
+      "speaker": "コハル",
+      "ja": "（そうね……）",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "daa02a26",
+      "speaker": "{G_PlayerName}",
+      "ja": "王……城？",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "bd9f4174",
+      "speaker": "",
+      "ja": "想像していた物……石レンガが積み重なったような物を想像したがまるで違い、今まで見てきた宇宙船とほぼ同じ内観に思わず口からこぼれ出た。",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "4d5809c2",
+      "speaker": "ポラリス",
+      "ja": "この素材で建物を作ると、凄く丈夫ですからね～！　王城が宇宙船に似てるんじゃなくて、宇宙船が王城に似てるんですよ！　ここが最初なので！",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "cca856b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "な……なるほど？",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "fbe96098",
+      "speaker": "ポラリス",
+      "ja": "では、すみませんが……城内ではこちらを身に着けていただきます",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "cf26c41e",
+      "speaker": "コハル",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "6d1bd97e",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "df6f514c",
+      "speaker": "",
+      "ja": "ポラリスが何か機械を操作すると、こちらの手と手の間に光る鎖のような物が結ばれた。",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "5eca5841",
+      "speaker": "コハル",
+      "ja": "なんで！？　これじゃ本当に犯罪者みたいじゃない！",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "8a0d414b",
+      "speaker": "ポラリス",
+      "ja": "安全のためです……念の為、城内に入る部外者はこちらの手錠をつける決まりになってるので",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "4f114cbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "た、確かに必要なのかも知れないけど……ん？",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "1be85bbd",
+      "speaker": "ポラリス",
+      "ja": "どうかしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "46172ef2",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと、いや……",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "25b2f57f",
+      "speaker": "？？？",
+      "ja": "そいつらに、拘束は不要よ！",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "3401f7c",
+      "speaker": "ポラリス",
+      "ja": "グリム様……",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "3d4e716b",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、グリム！？",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "2fe3e75",
+      "speaker": "",
+      "ja": "なんでここに、と言いそうになったがグリムは王女だ。本来ならここにいるほうが自然だった。",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "1ec3dbb",
+      "speaker": "グリム",
+      "ja": "まだ仮承認だけどその２人、異星訪問権も持ってるのよ",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "17b18bf4",
+      "speaker": "ポラリス",
+      "ja": "まあ、そうだったんですね",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "d7670d7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いせーほうもんけん……）",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "bf683209",
+      "speaker": "グリム",
+      "ja": "色々落ち着いたら、お兄ちゃんには他の星とも交流できる資格試験とか、受けてもらわなきゃなんだから……",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "c8f82419",
+      "speaker": "{G_PlayerName}",
+      "ja": "（前にコズミックワンダーランドで言ってたアレか……？　別に試験とか受けてないんだけど……もしかして、ハッタリか）",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "864bab89",
+      "speaker": "グリム",
+      "ja": "グリムちゃんのめいれー。ただちにこの２人を解放しなさい",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "51d7a9b2",
+      "speaker": "ポラリス",
+      "ja": "……グリム様の命令であれば仕方ありませんね",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "527dfe49",
+      "speaker": "",
+      "ja": "ポラリスはそう、どこか苦笑しながらこちらの手錠を外した。",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "14ab6d46",
+      "speaker": "ポラリス",
+      "ja": "では、わたしはこれで。終と始まりの星、楽しんでいってくださいね！",
+      "zh": ""
+    },
+    {
+      "key": "324.1",
+      "line_index": 324,
+      "inline_index": 1,
+      "line_hash": "fa5a958",
+      "speaker": "コハル",
+      "ja": "あ……ありがとう？　でもいいの、こんなことしちゃって",
+      "zh": ""
+    },
+    {
+      "key": "326.1",
+      "line_index": 326,
+      "inline_index": 1,
+      "line_hash": "6b468524",
+      "speaker": "グリム",
+      "ja": "まあねー。グリムちゃんがちょっと嘘つくくらい、日常茶飯事だし。バレても大して怒られないもん。……でも",
+      "zh": ""
+    },
+    {
+      "key": "328.1",
+      "line_index": 328,
+      "inline_index": 1,
+      "line_hash": "11b9c7d8",
+      "speaker": "グリム",
+      "ja": "来ちゃったんだね……ルミナお姉ちゃんたち",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "332.1",
+      "line_index": 332,
+      "inline_index": 1,
+      "line_hash": "772bb1e3",
+      "speaker": "グリム",
+      "ja": "帰って来ないで……逃げちゃうってのも、手だと思ったんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "c4cc391c",
+      "speaker": "{G_PlayerName}",
+      "ja": "それって……",
+      "zh": ""
+    },
+    {
+      "key": "336.0",
+      "line_index": 336,
+      "inline_index": 0,
+      "line_hash": "530681b2",
+      "speaker": "？？？",
+      "ja": "{G_PlayerName}くん！",
+      "zh": ""
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "58b15128",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ！",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "be7adf7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫だったか？　……色々と",
+      "zh": ""
+    },
+    {
+      "key": "363.1",
+      "line_index": 363,
+      "inline_index": 1,
+      "line_hash": "671354a1",
+      "speaker": "ルミナ",
+      "ja": "うん、大丈夫。戴冠式が終わったら、いつでもルナリングが取り出せるよ",
+      "zh": ""
+    },
+    {
+      "key": "365.1",
+      "line_index": 365,
+      "inline_index": 1,
+      "line_hash": "4af6ea30",
+      "speaker": "コハル",
+      "ja": "えっと……話はついた、ってこと？",
+      "zh": ""
+    },
+    {
+      "key": "367.1",
+      "line_index": 367,
+      "inline_index": 1,
+      "line_hash": "e3472818",
+      "speaker": "ルミナ",
+      "ja": "うん、色々あったんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "369.1",
+      "line_index": 369,
+      "inline_index": 1,
+      "line_hash": "133e89a8",
+      "speaker": "ルミナ",
+      "ja": "私、女王になることにしたの。それが一番良いってわかったから",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "e37e881c",
+      "speaker": "{G_PlayerName}",
+      "ja": "へっ？",
+      "zh": ""
+    },
+    {
+      "key": "373.1",
+      "line_index": 373,
+      "inline_index": 1,
+      "line_hash": "915ea1cf",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    }
+  ]
+}

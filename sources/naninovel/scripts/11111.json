@@ -1,0 +1,1111 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "360d1e44",
+      "speaker": "",
+      "ja": "時は遡り、あの戦いが終わった翌日……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "38667c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふう……なんか実感湧かないな",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "57d5b324",
+      "speaker": "コハル",
+      "ja": "あっ、{G_PlayerName}。ルナリング、外し終わった？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a3bc93d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、手術は終わったってさ。なんか、一瞬で終わったように感じたけど……",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "922e1808",
+      "speaker": "コハル",
+      "ja": "マスイとかいう、睡眠魔法みたいなやつでしょ？　凄い技術よね。でも、これで{G_PlayerName}も晴れて普通の人間ってわけね～",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "ffffc99",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやー、それが……",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "e9d20ab7",
+      "speaker": "コハル",
+      "ja": "え？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "aaba6542",
+      "speaker": "医師",
+      "ja": "ルナリングの完全切除はまだ終わっていません",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "805be6c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ええ～……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "58f4e1a3",
+      "speaker": "医師",
+      "ja": "診察した結果、まだ身体の修復が十分ではありませんでした。ルナリングを完全に取り出した場合死に至る……まではなくとも後遺症が残る危険があります",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "c4db0957",
+      "speaker": "医師",
+      "ja": "しかし移動は可能でしたので、エネルギー切れは回避することが出来ました。最低２ヶ月に１回は右の手の平を、月に１０分間かざしてください",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "79c02cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（地味に忘れそうな期間で怖い……）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "2d11357b",
+      "speaker": "コハル",
+      "ja": "へ、へえ……じゃあ、右手に今ルナリングがあるってこと？",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "4030df3a",
+      "speaker": "{G_PlayerName}",
+      "ja": "らしい、ぞ？",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "c525ba19",
+      "speaker": "",
+      "ja": "ヒラヒラと手を回し見る。が、見た目にはわからない。強めに触ってようやく、何かしこりのようなものがあるかも？　程度の感触だった。",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "e5718978",
+      "speaker": "コハル",
+      "ja": "はー、そんな感じなのね……もっと、ゴリゴリいっぱい宝石とかついてるイメージだったけど",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "bc5ff414",
+      "speaker": "雫の声",
+      "ja": "元々はルミナ様が指につけていた物ですよ？　そんな派手なわけがありません",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "2a65cbca",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫、ルミナ！　もう出歩いて大丈夫なのか？",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "d4829690",
+      "speaker": "ルミナ",
+      "ja": "うん……もう、心配無いよ……",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "7269ad6f",
+      "speaker": "雫",
+      "ja": "我々の治療も済みましたし、女王様も容態は安定したようです",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "e52376a3",
+      "speaker": "ルミナ",
+      "ja": "コハルちゃんも、大丈夫……？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "9a95a90e",
+      "speaker": "コハル",
+      "ja": "うん、メイズもなんだかんだ手加減してくれてたみたいだし、すぐ治るって！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "62d50cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "（コハルと雫は怪我で、ルミナは能力の使いすぎと精神検査とかで大変だったもんな……）",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "a57cfe94",
+      "speaker": "コハル",
+      "ja": "メイズとポラリスは……？",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "a0bf0c4c",
+      "speaker": "雫",
+      "ja": "傷自体はそこまででもありませんが、操られていたのでしばらくは病室です",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "ebc6437a",
+      "speaker": "ルミナ",
+      "ja": "そんなに……影響が残ってるんだ……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "90faef8e",
+      "speaker": "雫",
+      "ja": "いいえ。貴重な症例として、じっけ……検査を多く行われているようです",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "6beb7354",
+      "speaker": "コハル",
+      "ja": "今実験って言わなかった！？",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "d0372ffc",
+      "speaker": "医師",
+      "ja": "ポラリスさん、メイズさん！　まだ出ちゃ駄目ですよ！",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "c2615b14",
+      "speaker": "ポラリス",
+      "ja": "もう変な機械つけられるの嫌～！　全身が痒いです～！",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "bac52851",
+      "speaker": "メイズ",
+      "ja": "ポラリス、次の分かれ道で二手に逃げよう！",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "7617f45",
+      "speaker": "コハル",
+      "ja": "ま、まあ……大事無いなら良かったわ",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "dae7855a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとは俺のルナリングさえ取れたら、帰るだけだな",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "eb742ef1",
+      "speaker": "ルミナ",
+      "ja": "取れるようになるまで、しばらくかかるみたいだし……このまま{G_PlayerName}くんが持ってても、別にいいんじゃないかな……",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "51db2d5e",
+      "speaker": "{G_PlayerName}",
+      "ja": "流石にそういうわけにはいかないんじゃないか……？",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "37b36ec3",
+      "speaker": "雫",
+      "ja": "男の言う通りです。国宝ですので",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "fbb3bba1",
+      "speaker": "ルミナ",
+      "ja": "そうだよね……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "9e7074ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルナリングが取れて帰っても、また遊びに来るからな！",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "2a189ec9",
+      "speaker": "コハル",
+      "ja": "……遊びに来るのはルミナじゃないの？　あたし達宇宙船とか持ってないんだし",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "693bac0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "た、確かにな……",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "c139c2ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもほら、俺が宇宙船を作れるようになったら……！",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "d8fc8662",
+      "speaker": "コハル",
+      "ja": "あたし、{G_PlayerName}のことは信頼してるけど宇宙船には流石に乗れないわ",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "5f03dfdd",
+      "speaker": "雫",
+      "ja": "試運転する際は必ず１人でしなさい",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "f8292aea",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……！　軽い冗談だってのに……！",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "b2fa0c5c",
+      "speaker": "雫",
+      "ja": "（ルミナ様、改めてお気持ちを伝えないのですか）",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "4127acfd",
+      "speaker": "ルミナ",
+      "ja": "（えっ……でも……その……）",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "d148e5",
+      "speaker": "雫",
+      "ja": "（帰りはきっと、運転役に送らせることでしょう。これで最後かも知れないのですよ）",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "72bc73b1",
+      "speaker": "雫",
+      "ja": "（心残りは……出来るだけ無くしたほうがよろしいかと）",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "9f6c62cb",
+      "speaker": "ルミナ",
+      "ja": "（う……ううん……）",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "2c01376b",
+      "speaker": "雫",
+      "ja": "（……キィッ！　ルミナ様にこんな苦悩を与える男は八つ裂きにしたいところですが……！）",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "3561c918",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "85b6e34b",
+      "speaker": "ルミナ",
+      "ja": "（そう……だね。頑張ってみる……！）",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "c3830072",
+      "speaker": "雫",
+      "ja": "（はい、応援しておりますルミナ様！　男と添い遂げることを応援しているのではなく、お気持ちを伝える行為自体を応援しております！）",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "f16e1b0e",
+      "speaker": "ルミナ",
+      "ja": "？　メール……？",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "86845d38",
+      "speaker": "ルミナ",
+      "ja": "医務室のお母様から……！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "7c9d6cce",
+      "speaker": "メール文",
+      "ja": "ルミナちゃん、今お母様は検査が終わったわ。大事ないみたいだから、後で会いに来てね。",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "7ea7b27f",
+      "speaker": "メール文",
+      "ja": "ところで、機械士様とは出来るだけ長く一緒にいたいでしょう？　帰りもルミナちゃんが送ってあげなさい♥",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "184ff19c",
+      "speaker": "メール文",
+      "ja": "今までずっとお城にいたのだもの、もうちょっと外に出てたってバチは当たらないわ♥",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "f1164967",
+      "speaker": "ルミナ",
+      "ja": "ありがとう、お母様……",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "1163f7d1",
+      "speaker": "雫",
+      "ja": "（ああ、『じゃあ一旦先延ばしにしよう』と心が固まってしまわれた……）",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "de95d864",
+      "speaker": "{G_PlayerName}",
+      "ja": "何２人でコソコソ喋ってるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "e8e4188b",
+      "speaker": "ルミナ",
+      "ja": "あ、ううん。なんでもない……",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "6fc92564",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあ、そういえばアポロは大丈夫なのか？",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "532c79d1",
+      "speaker": "雫",
+      "ja": "修復は、しています",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "63707939",
+      "speaker": "雫",
+      "ja": "問題なく運行出来るようになるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "79e93195",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、良かった……！",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "7e8da1e2",
+      "speaker": "コハル",
+      "ja": "ちゃんと直ったら、お礼言わないとね！",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "d1a7b1ed",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "f86c106",
+      "speaker": "雫",
+      "ja": "どちらにせよ、皆様術後で安静にしなくては。しばらく滞在することになるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "bcc6003",
+      "speaker": "ルミナ",
+      "ja": "街の案内とか、するから……観光、しよう……！",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "8047d2ec",
+      "speaker": "雫",
+      "ja": "……あの、心苦しいですが、安静にしなくてはならないのと、ルミナ様が外を歩くと騒ぎが……",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "6553a18c",
+      "speaker": "ルミナ",
+      "ja": "あ……そうか、そうだったね……",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "6ead3737",
+      "speaker": "{G_PlayerName}",
+      "ja": "（色々終わって油断してるのか、疲れてるのか……いつもより、ルミナ気が抜けてるな）",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "d6d30782",
+      "speaker": "{G_PlayerName}",
+      "ja": "（緊張してるよりはずっとマシか……）",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "dedc53",
+      "speaker": "コハル",
+      "ja": "ふふっ、でもここで簡単にお疲れ様会するのもいいかもね！",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "65996289",
+      "speaker": "ルミナ",
+      "ja": "うん……！　戴冠式が終わったら、皆でパーティーしよう……！",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "dfb80ce8",
+      "speaker": "",
+      "ja": "時は戻り、戴冠式が終わった後……",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "706bcc17",
+      "speaker": "レジーニア",
+      "ja": "ふう……終わりましたね",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "667002fc",
+      "speaker": "ルミナ",
+      "ja": "大丈夫ですか、お母様……！",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "ccd469c3",
+      "speaker": "レジーニア",
+      "ja": "ええ、ちょっと緊張して足に来ただけよ♥　あんなに大勢の前に立つの、久しぶりで……♥",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "b81628b9",
+      "speaker": "コハル",
+      "ja": "お、お疲れ様です……！",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "d7b553e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（式が終わってすぐ、雫に連れられてここに来たけど……いいのかな、こんな王族たちと同じ場所にいて）",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "5b6bceaa",
+      "speaker": "レジーニア",
+      "ja": "機械士様、直接こうして言葉を交わしておりませんでしたね。レジーニアと申します、ルミナちゃんの母親です♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "3bb8f687",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、は、はい！",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "20aba040",
+      "speaker": "レジーニア",
+      "ja": "気軽にお義母さまとお呼びくださいね♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "cd20d75",
+      "speaker": "ルミナ",
+      "ja": "お、お母様……！",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "ef85efa0",
+      "speaker": "レジーニア",
+      "ja": "ふふっ、冗談ですよ♪",
+      "zh": ""
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "adb6afe8",
+      "speaker": "コハル",
+      "ja": "（イメージしてたより、オチャメなのね……）",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "d3be4fc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "えーっと……{G_PlayerName}です、よろしく",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "b002d917",
+      "speaker": "コハル",
+      "ja": "コ、コハルです！　ルミナ……様にはいつもお世話になっております！",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "73ccbb13",
+      "speaker": "レジーニア",
+      "ja": "固くならなくてよいのですよ♥　お２方は私やルミナちゃんの命の恩人ですもの♥",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "7e0149ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな大げさな……",
+      "zh": ""
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "a7838427",
+      "speaker": "レジーニア",
+      "ja": "まったく大げさなどではありません。この星で、ゆっくりしていってくださいね♪　不便の無いように取り計らわせていただきます♥",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "faf1a73c",
+      "speaker": "レジーニア",
+      "ja": "……ああ、不便と言えば……特例として、お２方に許可を発行しましたので、後で確認しておいてください♥",
+      "zh": ""
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "61862106",
+      "speaker": "コハル",
+      "ja": "特例……？　って、何でしょうか……？",
+      "zh": ""
+    },
+    {
+      "key": "322.1",
+      "line_index": 322,
+      "inline_index": 1,
+      "line_hash": "7a368c77",
+      "speaker": "レジーニア",
+      "ja": "\"異星訪問権\"です。本来であれば試験が必要なのですが、多大な貢献をしていただきましたので、少しでも報いねば、と♥",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "7567d782",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　それって……凄いことなんじゃ！？",
+      "zh": ""
+    },
+    {
+      "key": "326.1",
+      "line_index": 326,
+      "inline_index": 1,
+      "line_hash": "82097adc",
+      "speaker": "ルミナ",
+      "ja": "うん……！　こんなこと、お母様じゃないと、無理……だよ",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "ee4b1347",
+      "speaker": "{G_PlayerName}",
+      "ja": "これで買えなかった機械も買い放題……！？",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "91897464",
+      "speaker": "雫",
+      "ja": "それは構いませんが、ご自分のお金で買うようにしなさい",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "7da81b1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、まあ道理だな……わかった……",
+      "zh": ""
+    },
+    {
+      "key": "337.1",
+      "line_index": 337,
+      "inline_index": 1,
+      "line_hash": "a4fa221c",
+      "speaker": "雫",
+      "ja": "（技術規制されるような高度な機械、宇宙の旅の中全力で働いても精々１個買えるかどうかでしょうけどね）",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "66a25368",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ、女王様の能力って……継承された物なんですよね？",
+      "zh": ""
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "a880f31e",
+      "speaker": "レジーニア",
+      "ja": "はい。代々女王に継承されていた、魂を操作する能力ですね。元の能力は失われ、上書きされました",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "ec348196",
+      "speaker": "{G_PlayerName}",
+      "ja": "これからその能力って、どうするんですか？",
+      "zh": ""
+    },
+    {
+      "key": "345.1",
+      "line_index": 345,
+      "inline_index": 1,
+      "line_hash": "c91e78e8",
+      "speaker": "レジーニア",
+      "ja": "……代を重ねるごとに強力になり、星を守る力とも言える能力ですが……",
+      "zh": ""
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "950fbb66",
+      "speaker": "レジーニア",
+      "ja": "この能力は以降継承せず、私を最後にします。争いの元でもありますので",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "ca46d868",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんですか……",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "23bdb69b",
+      "speaker": "レジーニア",
+      "ja": "もっとも、継承機は壊れたので不可能ですけどね……",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "12a8ea51",
+      "speaker": "？？？",
+      "ja": "それは、困りますね",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "c2a0dbd7",
+      "speaker": "雫",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "a0a3741b",
+      "speaker": "レジーニア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "a5da49a",
+      "speaker": "ルミナ",
+      "ja": "今の声、誰……？",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "b3fcd54b",
+      "speaker": "声",
+      "ja": "……先日は、当機体の\"子機\"を破壊してくださって、ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "167fc5e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさか……",
+      "zh": ""
+    },
+    {
+      "key": "371.1",
+      "line_index": 371,
+      "inline_index": 1,
+      "line_hash": "3b07412c",
+      "speaker": "ルミナ",
+      "ja": "お母様を操ってた、機械……！？",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "6f83069d",
+      "speaker": "",
+      "ja": "謎の声、謎の機械。リリアンの存在や、過去の宇宙に起きた出来事。",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "44776ed6",
+      "speaker": "",
+      "ja": "全ての謎を解き、機械の呪縛から解き放たれるための旅……折り返しの恐怖の旅が、始まろうとしていた。",
+      "zh": ""
+    }
+  ]
+}

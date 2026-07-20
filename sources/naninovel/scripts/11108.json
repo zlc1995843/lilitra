@@ -1,0 +1,859 @@
+{
+  "lines": [
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "b1d64136",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……ううっ！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "7095a841",
+      "speaker": "",
+      "ja": "炎の熱を頬に感じながら、素手で崩れた壁の瓦礫を掻き分け……なんとか中庭へと転げ出る。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "bd79942",
+      "speaker": "",
+      "ja": "もう一度、アポロのほうを振り返ろうとしたが……突然現れた光る帯のような物と、噴射され始めた白煙に阻まれ、それは叶わなくなった。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "e4c3d031",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ、一体……？",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "9964cdf2",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、大丈夫！？　今のは！？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "c1d40b02",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、今のは……アポロが……アポロ、が……",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "b4ef7abd",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "812aa1b9",
+      "speaker": "雫",
+      "ja": "……王城をアポロが破壊したようですね。自動修復装置、自動消火装置が作動していて入れなくなっています",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "b3d3b1a6",
+      "speaker": "",
+      "ja": "言葉を詰まらせた{G_PlayerName}を見かねてか、雫がそれを遮るように呟く。",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "f471db07",
+      "speaker": "雫",
+      "ja": "その帯は立入禁止、修復中の証。ですが、今はとにかく……ルミナ様はどうされたのです！？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "bdcccb06",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まだ女王の間に……",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "69e90347",
+      "speaker": "雫",
+      "ja": "なんですって！？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "4aeda754",
+      "speaker": "コハル",
+      "ja": "作戦、失敗ってこと……！？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "b5972729",
+      "speaker": "ルミナ",
+      "ja": "お母様……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "16a9ef4",
+      "speaker": "レジーニア",
+      "ja": "ふ、ふふ……メイズも、ポラリスも無力化されて、ルナリングの保持者も殺せなかった。まだ能力を継承する機械のウォームアップも終わっていないし……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "4fb9b13b",
+      "speaker": "",
+      "ja": "レジーニアが操作しているホログラムのモニターには、82％と文字が浮かんでいた。レジーニアが天井を見上げ、ため息を吐く。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "222315b8",
+      "speaker": "レジーニア",
+      "ja": "たかが宇宙船が壊れた程度で貴方が正気に戻るとは。上手く行かないわね、本当に",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "383cea17",
+      "speaker": "ルミナ",
+      "ja": "（継承機……の正体はわかってなかったけど……この女王の間は全体が機械で出来ていて、城内のセキュリティを掌握してたはず……）",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "2e63630",
+      "speaker": "ルミナ",
+      "ja": "（もしかして、この部屋自体が継承機で……今までみたいにお母様をおかしくしてる機械があるとすれば、この部屋が……！？）",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "57badfcc",
+      "speaker": "",
+      "ja": "旅の途中でも、ルミナは常に疑念を抱いていた。",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "8e1811a3",
+      "speaker": "",
+      "ja": "温厚と言われていた女王が冷徹な性格になったのは、他の星と同じく機械のせいなのではないかと……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "a943625",
+      "speaker": "ルミナ",
+      "ja": "お母様……もう、貴方の思うようにはいきません。諦めてください。でなければ……この部屋を、私の能力で……壊します",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "ace0093d",
+      "speaker": "レジーニア",
+      "ja": "ふふ、健気ねぇ。ここの空間の光量は制限してある。あなたの能力でも、それほどの力は出せないでしょう",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "25e5c5fa",
+      "speaker": "レジーニア",
+      "ja": "仮にちょっとした照明器具、花火を持ち込んだところで……阻害粒子を散布する準備だってあるわ。ちょっとやそっとの小さい明かりは無意味よ",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "433d415c",
+      "speaker": "ルミナ",
+      "ja": "（…………見透かされて、る）",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "5c54b0e7",
+      "speaker": "",
+      "ja": "思えば、本人以外でルミナの能力の強度を最も把握していただろう人物は女王だった。この空間を破壊される可能性も、読んでいたのかも知れない。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "6ac88702",
+      "speaker": "レジーニア",
+      "ja": "随分と余裕そうだけれど……貴方はまだ完全に私の能力から逃れたわけではないわ。あと１回程度は命令出来る",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "854f5c5a",
+      "speaker": "ルミナ",
+      "ja": "え……！？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "95037f2d",
+      "speaker": "レジーニア",
+      "ja": "もう一度触らせろ、と命令出来たら話は早いけれど。強く意に反する命令は無理そうね",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "cc5a5967",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "b2bf7242",
+      "speaker": "レジーニア",
+      "ja": "もういいわ。諦めましょう",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "29a24952",
+      "speaker": "ルミナ",
+      "ja": "諦める……？　では……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "c04faa9d",
+      "speaker": "レジーニア",
+      "ja": "今回は。根気が必要だけれど、次の星に期待して最初からやり直ししょう。この星は壊します",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "26b13757",
+      "speaker": "ルミナ",
+      "ja": "っ…………！？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "605ab19d",
+      "speaker": "レジーニア",
+      "ja": "『あなたの仲間と一度合流したほうが良いのではない？　私から逃げたいでしょう？　避難装置に乗りなさい、ルミナ』",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "be1452ef",
+      "speaker": "ルミナ",
+      "ja": "あっ……！　足がっ……！　待っ……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "f689eeca",
+      "speaker": "レジーニア",
+      "ja": "ふふ……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "58fd825d",
+      "speaker": "レジーニア",
+      "ja": "でも、他に方法は<color=red>無い。より強い能力を継承するには必要なこと。</color>",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "195cddd6",
+      "speaker": "レジーニア",
+      "ja": "継承機と他の星に行くだけでは<color=red>足りない。星の住人を一掃するべき。不確定要素は消す。</color>",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "9f6fa887",
+      "speaker": "レジーニア",
+      "ja": "そうよね……ふふ",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "913e0553",
+      "speaker": "ルミナ",
+      "ja": "うっ……！　げほっ、げほっ……",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "da3f3cfc",
+      "speaker": "",
+      "ja": "突然、ルミナが中庭へと転がりだされる。……火災の時などに脱出する装置だろうか、壁にダクトのような物が一瞬見え、すぐに閉まった。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "376698e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ！　なんで中庭に……怪我無いか！？　あっ、操られてるかもしれないのか？　気分は……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "f2882d45",
+      "speaker": "ルミナ",
+      "ja": "だ、大丈夫。もう操られて、ないよ。でも……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "7fb60dfd",
+      "speaker": "雫",
+      "ja": "ああ、ルミナ様！　ご無事で！　早く外へ……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "33f9a082",
+      "speaker": "ルミナ",
+      "ja": "ダメ……！　お母様が……この星を、壊すって……",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "13ea05fb",
+      "speaker": "雫",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "880c7a6f",
+      "speaker": "コハル",
+      "ja": "……はぇ？　ほ、ほしを……？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "8145daea",
+      "speaker": "グリム",
+      "ja": "壊す……！？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "8849f9b1",
+      "speaker": "グレア",
+      "ja": "なぜ、そのようなことに……！？",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "b9c4fb74",
+      "speaker": "ルミナ",
+      "ja": "諦めて、最初からやり直す、って……",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "6475ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "星を壊す、って……そんなこと簡単に出来るわけないだろ？　火と荒野の星みたいに、デカい爆弾でもあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "74fb3740",
+      "speaker": "グレア",
+      "ja": "いいえ、女王の間ではこの星を維持する機械が操作できます",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "b2c28f2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……それがどうやったら星を壊せるんだよ",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "790a5e79",
+      "speaker": "グレア",
+      "ja": "ここは人工的に作られた惑星で、酸素を維持する機械、区画同士を連結している機械など……星を守るのに欠かせない機械がいくつもあります",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "234b8fd2",
+      "speaker": "グレア",
+      "ja": "それらを全て停止させれば……星はバラバラになり、住民は全て犠牲になるでしょう……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "6ffba0fc",
+      "speaker": "グリム",
+      "ja": "他のところから止められたりしない！？",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "241a8f68",
+      "speaker": "グレア",
+      "ja": "管理している場所は女王の間だけではありませんが……最高権限を持っているので、他の端末から止めることは不可能でしょう",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "787a26fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、そんなことしたら女王まで死ぬんじゃないか……！？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "59906d88",
+      "speaker": "グレア",
+      "ja": "この王城や女王の間は、単体で宇宙船として機能します。女王はそれで別の星に行く、ということでしょう",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "a5e13de7",
+      "speaker": "グレア",
+      "ja": "普通に考えれば、大きな誹りは免れませんが……それすら関係ない、遠い星を目指すということなのかも……",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "8a3a33d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんな……",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "fc90e300",
+      "speaker": "コハル",
+      "ja": "じゃ、じゃあ……止めないと！",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "a29d01f7",
+      "speaker": "グレア",
+      "ja": "安全装置の確認時間があるので、5分はかかるはずですが……それまでに女王の間に行ければ",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "98ca4033",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、女王の間に続く唯一の廊下は……",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "6b19605",
+      "speaker": "",
+      "ja": "未だに壊れた通路は、光と白煙に阻まれている。何か、文字が表示されているが……",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "e20e81e1",
+      "speaker": "雫",
+      "ja": "廊下の修復までかかる時間も、あと5分程度のようです。これを待っていては、間に合いません……！",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "ee673268",
+      "speaker": "ルミナ",
+      "ja": "……大丈夫",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "f8f313cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫って……どういうことだ、ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "807ef3ab",
+      "speaker": "ルミナ",
+      "ja": "道がないなら、外から入ればいい……から",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "54d0418c",
+      "speaker": "",
+      "ja": "ルミナの足元に、光の板が現れる。静かに、ゆっくりとルミナは宙に浮かんだ。",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "17a0efd5",
+      "speaker": "雫",
+      "ja": "そんな、最高セキュリティの女王の間に外から近づくなど……危険すぎます！　そうでなくとも、小型船を用意すれば多少の装甲が……！　せめて、わたくしを連れて行ってください！",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "962aac4a",
+      "speaker": "ルミナ",
+      "ja": "用意する時間が無いし……他の人を連れて行く余裕も無い、から……私だけで、行く",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "cdb60639",
+      "speaker": "ルミナ",
+      "ja": "なんの意味も、無いかも知れないけど……お母様を、止めることは出来ないかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "2d7a12f6",
+      "speaker": "ルミナ",
+      "ja": "それでも、やれることは全部、やる。お母様が、少しでも正気を……取り戻してくれないか……やってみないと",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "96a683ae",
+      "speaker": "雫",
+      "ja": "ルミナ様っ！",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "717503ad",
+      "speaker": "コハル",
+      "ja": "ど、どうしよう……私達は、何をすれば……！？",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "9c85ac14",
+      "speaker": "雫",
+      "ja": "決まっています……修復が終了次第、通路を通って女王の間へと……間に合わないとしても……！",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "99c40817",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい……！　無理するなよ！",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "70c52959",
+      "speaker": "",
+      "ja": "雫も、コハルも……グレアとグリムも、満身創痍だ。かろうじて立っているが、膝が笑って今にも崩れ落ちそうに見える。",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "341d65e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺が……今度こそ、ルミナを助けてみせるから……",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "c62ce1c7",
+      "speaker": "ルミナ",
+      "ja": "（お願いします、神様。今だけ、もう１度誰かのために命を捨てる勇気をください……）",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "a7611286",
+      "speaker": "ルミナ",
+      "ja": "（アポロちゃんみたいに……）",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "6a3d2d02",
+      "speaker": "レジーニア",
+      "ja": "ふふ……もうすぐ、もうすぐ終わるわ、終わらせるわ……！　もう１度最初から、もっともっと強力な、魂を操作する能力を磨く星を……！",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "1107be6c",
+      "speaker": "アナウンス",
+      "ja": "最終確認時間が経過しました。惑星維持装置を全てオフにしますか？",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "2a694ddb",
+      "speaker": "アナウンス",
+      "ja": "オフにする場合は３０秒以内に\"終了する\"と、キャンセルする場合はそれ以外の指示を音声入力してください",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "27c6f25",
+      "speaker": "レジーニア",
+      "ja": "終了……",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "7b91937c",
+      "speaker": "レジーニア",
+      "ja": "す……",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "c964f73d",
+      "speaker": "",
+      "ja": "レジーニアの視線が、窓の外へと吸い寄せられる。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "60d824ab",
+      "speaker": "",
+      "ja": "今の状態の彼女にとって、本来であればどうでも良い存在のはずのそれ。動作を止めるに足りるはずのない、些細な存在。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "a2d1d149",
+      "speaker": "",
+      "ja": "だというのに。何故か彼女の目は、窓の外のルミナへと奪われた。",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "56f4cf3f",
+      "speaker": "ルミナ",
+      "ja": "っ…………！",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "3a2b92a4",
+      "speaker": "ルミナ",
+      "ja": "……お母、様……っ！",
+      "zh": ""
+    },
+    {
+      "key": "327.1",
+      "line_index": 327,
+      "inline_index": 1,
+      "line_hash": "3622d0d0",
+      "speaker": "レジーニア",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "329.1",
+      "line_index": 329,
+      "inline_index": 1,
+      "line_hash": "6b6f93ca",
+      "speaker": "レジーニア",
+      "ja": "……ルミ、ナ、ちゃ……",
+      "zh": ""
+    }
+  ]
+}

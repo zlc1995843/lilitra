@@ -1,0 +1,1111 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "360d1e44",
+      "speaker": "",
+      "ja": "時は遡り、あの戦いが終わった翌日……",
+      "zh": "时间过得真快，那场战斗结束的第二天……"
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "38667c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふう……なんか実感湧かないな",
+      "zh": "呼……感觉没什么实感啊。"
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "57d5b324",
+      "speaker": "コハル",
+      "ja": "あっ、{G_PlayerName}。ルナリング、外し終わった？",
+      "zh": "啊，{G_PlayerName}。露娜环，你已经摘下来了吗？"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "a3bc93d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、手術は終わったってさ。なんか、一瞬で終わったように感じたけど……",
+      "zh": "啊，手术说是结束了。感觉好像一瞬间就结束了，不过……"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "922e1808",
+      "speaker": "コハル",
+      "ja": "マスイとかいう、睡眠魔法みたいなやつでしょ？　凄い技術よね。でも、これで{G_PlayerName}も晴れて普通の人間ってわけね～",
+      "zh": "就是那种叫“麻醉”的，像睡眠魔法一样的东西吧？好厉害的技术啊。这样一来，{G_PlayerName}也终于能当个普通人了呢～"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "ffffc99",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやー、それが……",
+      "zh": "哎呀，那倒未必……"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "e9d20ab7",
+      "speaker": "コハル",
+      "ja": "え？",
+      "zh": "咦？"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "aaba6542",
+      "speaker": "医師",
+      "ja": "ルナリングの完全切除はまだ終わっていません",
+      "zh": "露娜环还没完全切除。"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "805be6c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ええ～……",
+      "zh": "……哎～……"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "58f4e1a3",
+      "speaker": "医師",
+      "ja": "診察した結果、まだ身体の修復が十分ではありませんでした。ルナリングを完全に取り出した場合死に至る……まではなくとも後遺症が残る危険があります",
+      "zh": "检查的结果是，你身体的修复还不充分。如果强行完全取出露娜环，虽不至于死亡，但很可能会留下后遗症。"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "c4db0957",
+      "speaker": "医師",
+      "ja": "しかし移動は可能でしたので、エネルギー切れは回避することが出来ました。最低２ヶ月に１回は右の手の平を、月に１０分間かざしてください",
+      "zh": "不过，移动是可行的，这样就避免了能量耗尽。请每两个月至少一次，将右手掌心朝向月亮，持续十分钟。"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "79c02cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（地味に忘れそうな期間で怖い……）",
+      "zh": "（这间隔容易忘，真可怕……）"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "2d11357b",
+      "speaker": "コハル",
+      "ja": "へ、へえ……じゃあ、右手に今ルナリングがあるってこと？",
+      "zh": "嘿、嘿诶……那也就是说，现在露娜环还在你右手上？"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "4030df3a",
+      "speaker": "{G_PlayerName}",
+      "ja": "らしい、ぞ？",
+      "zh": "好像是吧？"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "c525ba19",
+      "speaker": "",
+      "ja": "ヒラヒラと手を回し見る。が、見た目にはわからない。強めに触ってようやく、何かしこりのようなものがあるかも？　程度の感触だった。",
+      "zh": "我挥了挥手看了看。但外表看不出来。用力按一下才能感觉到，好像有什么硬块？大概这种程度。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "e5718978",
+      "speaker": "コハル",
+      "ja": "はー、そんな感じなのね……もっと、ゴリゴリいっぱい宝石とかついてるイメージだったけど",
+      "zh": "哈——原来是这种感觉啊……我还以为会嵌满大颗宝石，闪闪发亮呢。"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "bc5ff414",
+      "speaker": "雫の声",
+      "ja": "元々はルミナ様が指につけていた物ですよ？　そんな派手なわけがありません",
+      "zh": "本来那是露米娜大人戴在手指上的东西啊？怎么可能那么华丽。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "2a65cbca",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫、ルミナ！　もう出歩いて大丈夫なのか？",
+      "zh": "雪！露米娜！你们已经可以下床走动了吗？"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "d4829690",
+      "speaker": "ルミナ",
+      "ja": "うん……もう、心配無いよ……",
+      "zh": "嗯……已经不用担心了……"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "7269ad6f",
+      "speaker": "雫",
+      "ja": "我々の治療も済みましたし、女王様も容態は安定したようです",
+      "zh": "我们的治疗也结束了，女王陛下的状态似乎也稳定了。"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "e52376a3",
+      "speaker": "ルミナ",
+      "ja": "コハルちゃんも、大丈夫……？",
+      "zh": "小春也……没事吧？"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "9a95a90e",
+      "speaker": "コハル",
+      "ja": "うん、メイズもなんだかんだ手加減してくれてたみたいだし、すぐ治るって！",
+      "zh": "嗯，梅兹也手下留情了，说是马上就能治好！"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "62d50cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "（コハルと雫は怪我で、ルミナは能力の使いすぎと精神検査とかで大変だったもんな……）",
+      "zh": "（小春和雪是受伤，露米娜是因为能力使用过度和精神检查，大家都不容易啊……）"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "a57cfe94",
+      "speaker": "コハル",
+      "ja": "メイズとポラリスは……？",
+      "zh": "梅兹和波拉里斯呢……？"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "a0bf0c4c",
+      "speaker": "雫",
+      "ja": "傷自体はそこまででもありませんが、操られていたのでしばらくは病室です",
+      "zh": "伤本身倒不严重，但因为被操控了，还得在病房待一段时间。"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "ebc6437a",
+      "speaker": "ルミナ",
+      "ja": "そんなに……影響が残ってるんだ……",
+      "zh": "这么严重……影响还没消除啊……"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "90faef8e",
+      "speaker": "雫",
+      "ja": "いいえ。貴重な症例として、じっけ……検査を多く行われているようです",
+      "zh": "不。作为珍贵的病例，似乎正在进行很多……检查。"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "6beb7354",
+      "speaker": "コハル",
+      "ja": "今実験って言わなかった！？",
+      "zh": "你没说是实验吧！？"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "d0372ffc",
+      "speaker": "医師",
+      "ja": "ポラリスさん、メイズさん！　まだ出ちゃ駄目ですよ！",
+      "zh": "波拉里斯！梅兹！还不能出来啊！"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "c2615b14",
+      "speaker": "ポラリス",
+      "ja": "もう変な機械つけられるの嫌～！　全身が痒いです～！",
+      "zh": "我不要再被装那些奇怪的机器了～！浑身都痒～！"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "bac52851",
+      "speaker": "メイズ",
+      "ja": "ポラリス、次の分かれ道で二手に逃げよう！",
+      "zh": "波拉里斯，我们在下一个岔路口分头跑！"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "7617f45",
+      "speaker": "コハル",
+      "ja": "ま、まあ……大事無いなら良かったわ",
+      "zh": "嘛，没事就好。"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "dae7855a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとは俺のルナリングさえ取れたら、帰るだけだな",
+      "zh": "接下来只要把我的露娜环取掉，就只等回家了。"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "eb742ef1",
+      "speaker": "ルミナ",
+      "ja": "取れるようになるまで、しばらくかかるみたいだし……このまま{G_PlayerName}くんが持ってても、別にいいんじゃないかな……",
+      "zh": "看起来要等到能取出来还需要一段时间……就这样让{G_PlayerName}带着，不是也挺好的吗？"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "51db2d5e",
+      "speaker": "{G_PlayerName}",
+      "ja": "流石にそういうわけにはいかないんじゃないか……？",
+      "zh": "不过这样不太合适吧……？"
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "37b36ec3",
+      "speaker": "雫",
+      "ja": "男の言う通りです。国宝ですので",
+      "zh": "您说得对。这可是国宝。"
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "fbb3bba1",
+      "speaker": "ルミナ",
+      "ja": "そうだよね……",
+      "zh": "也是啊……"
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "9e7074ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルナリングが取れて帰っても、また遊びに来るからな！",
+      "zh": "就算取掉露娜环回去了，我也会再来玩的哦！"
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "2a189ec9",
+      "speaker": "コハル",
+      "ja": "……遊びに来るのはルミナじゃないの？　あたし達宇宙船とか持ってないんだし",
+      "zh": "……来玩的应该是露米娜吧？我们又没飞船什么的。"
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "693bac0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "た、確かにな……",
+      "zh": "确、确实……"
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "c139c2ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもほら、俺が宇宙船を作れるようになったら……！",
+      "zh": "不过，等我造出宇宙飞船的话……！"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "d8fc8662",
+      "speaker": "コハル",
+      "ja": "あたし、{G_PlayerName}のことは信頼してるけど宇宙船には流石に乗れないわ",
+      "zh": "我虽然相信{G_PlayerName}，但宇宙飞船我可不敢坐。"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "5f03dfdd",
+      "speaker": "雫",
+      "ja": "試運転する際は必ず１人でしなさい",
+      "zh": "试运行的时候务必一个人去。"
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "f8292aea",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……！　軽い冗談だってのに……！",
+      "zh": "切……明明是开玩笑的……！"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": "……"
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "b2fa0c5c",
+      "speaker": "雫",
+      "ja": "（ルミナ様、改めてお気持ちを伝えないのですか）",
+      "zh": "（露米娜大人，您不准备表明心意吗？）"
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "4127acfd",
+      "speaker": "ルミナ",
+      "ja": "（えっ……でも……その……）",
+      "zh": "（呃……可是……那个……）"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "d148e5",
+      "speaker": "雫",
+      "ja": "（帰りはきっと、運転役に送らせることでしょう。これで最後かも知れないのですよ）",
+      "zh": "（回去的时候，肯定会让司机送的吧。这可能是最后一次见面了。）"
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "72bc73b1",
+      "speaker": "雫",
+      "ja": "（心残りは……出来るだけ無くしたほうがよろしいかと）",
+      "zh": "（遗憾还是……尽量不留比较好。）"
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "9f6c62cb",
+      "speaker": "ルミナ",
+      "ja": "（う……ううん……）",
+      "zh": "（唔……嗯……）"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "2c01376b",
+      "speaker": "雫",
+      "ja": "（……キィッ！　ルミナ様にこんな苦悩を与える男は八つ裂きにしたいところですが……！）",
+      "zh": "（……切！那个给露米娜大人添这种烦恼的家伙，真想把他碎尸万段……！）"
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "3561c918",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "85b6e34b",
+      "speaker": "ルミナ",
+      "ja": "（そう……だね。頑張ってみる……！）",
+      "zh": "（嗯……是啊。我试试看吧……！）"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "c3830072",
+      "speaker": "雫",
+      "ja": "（はい、応援しておりますルミナ様！　男と添い遂げることを応援しているのではなく、お気持ちを伝える行為自体を応援しております！）",
+      "zh": "（是，我支持您，露米娜大人！我不是支持那个男人追求您，而是支持您传达心意的行为本身！）"
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "f16e1b0e",
+      "speaker": "ルミナ",
+      "ja": "？　メール……？",
+      "zh": "？……邮件……？"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "86845d38",
+      "speaker": "ルミナ",
+      "ja": "医務室のお母様から……！",
+      "zh": "来自医务室的母亲大人……！"
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "7c9d6cce",
+      "speaker": "メール文",
+      "ja": "ルミナちゃん、今お母様は検査が終わったわ。大事ないみたいだから、後で会いに来てね。",
+      "zh": "露米娜，妈妈检查结束了。好像没什么大碍，回头过来看看吧。"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "7ea7b27f",
+      "speaker": "メール文",
+      "ja": "ところで、機械士様とは出来るだけ長く一緒にいたいでしょう？　帰りもルミナちゃんが送ってあげなさい♥",
+      "zh": "对了，你愿意和机械师先生多待一会儿吗？回去的时候也由你送他哦♥"
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "184ff19c",
+      "speaker": "メール文",
+      "ja": "今までずっとお城にいたのだもの、もうちょっと外に出てたってバチは当たらないわ♥",
+      "zh": "反正他一直都待在城里，再在外面待一会儿也没什么啦♥"
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "f1164967",
+      "speaker": "ルミナ",
+      "ja": "ありがとう、お母様……",
+      "zh": "谢谢你，母亲大人……"
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "1163f7d1",
+      "speaker": "雫",
+      "ja": "（ああ、『じゃあ一旦先延ばしにしよう』と心が固まってしまわれた……）",
+      "zh": "（啊啊，她已经在心里打定主意要延后了吧……）"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "de95d864",
+      "speaker": "{G_PlayerName}",
+      "ja": "何２人でコソコソ喋ってるんだ？",
+      "zh": "你们俩在这里嘀嘀咕咕什么呢？"
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "e8e4188b",
+      "speaker": "ルミナ",
+      "ja": "あ、ううん。なんでもない……",
+      "zh": "啊，唔……没什么。"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "6fc92564",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあ、そういえばアポロは大丈夫なのか？",
+      "zh": "对了，阿波罗没事吧？"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "532c79d1",
+      "speaker": "雫",
+      "ja": "修復は、しています",
+      "zh": "恢复，正在做。"
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "63707939",
+      "speaker": "雫",
+      "ja": "問題なく運行出来るようになるでしょう",
+      "zh": "应该很快就能正常运转了。"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "79e93195",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、良かった……！",
+      "zh": "是吗，那就好……！"
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "7e8da1e2",
+      "speaker": "コハル",
+      "ja": "ちゃんと直ったら、お礼言わないとね！",
+      "zh": "既然修好了，不说声谢谢可不行吧！"
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "d1a7b1ed",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "f86c106",
+      "speaker": "雫",
+      "ja": "どちらにせよ、皆様術後で安静にしなくては。しばらく滞在することになるでしょう",
+      "zh": "不管怎样，各位手术后必须保持安静。恐怕要在这里再待一会儿了。"
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "bcc6003",
+      "speaker": "ルミナ",
+      "ja": "街の案内とか、するから……観光、しよう……！",
+      "zh": "街上的向导什么的……既然有，那我们去观光吧……！"
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "8047d2ec",
+      "speaker": "雫",
+      "ja": "……あの、心苦しいですが、安静にしなくてはならないのと、ルミナ様が外を歩くと騒ぎが……",
+      "zh": "……那个，很抱歉，但您必须保持安静。而且，露米娜大人您出去会引起骚动的……"
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "6553a18c",
+      "speaker": "ルミナ",
+      "ja": "あ……そうか、そうだったね……",
+      "zh": "啊……是吗，也是啊……"
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "6ead3737",
+      "speaker": "{G_PlayerName}",
+      "ja": "（色々終わって油断してるのか、疲れてるのか……いつもより、ルミナ気が抜けてるな）",
+      "zh": "（事情都结束了，她是在失落还是在疲惫……？总觉得露米娜比平时没精神啊。）"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "d6d30782",
+      "speaker": "{G_PlayerName}",
+      "ja": "（緊張してるよりはずっとマシか……）",
+      "zh": "（比起紧张，更像是松懈了……）"
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "dedc53",
+      "speaker": "コハル",
+      "ja": "ふふっ、でもここで簡単にお疲れ様会するのもいいかもね！",
+      "zh": "嘿嘿，不过在这里简单办个庆功宴也不错啊！"
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "65996289",
+      "speaker": "ルミナ",
+      "ja": "うん……！　戴冠式が終わったら、皆でパーティーしよう……！",
+      "zh": "嗯……！等加冕仪式结束后，大家一起开派对吧……！"
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "dfb80ce8",
+      "speaker": "",
+      "ja": "時は戻り、戴冠式が終わった後……",
+      "zh": "时间回溯，加冕仪式结束后……"
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "706bcc17",
+      "speaker": "レジーニア",
+      "ja": "ふう……終わりましたね",
+      "zh": "呼……总算结束了呢。"
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "667002fc",
+      "speaker": "ルミナ",
+      "ja": "大丈夫ですか、お母様……！",
+      "zh": "您没事吧，母亲大人……！"
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "ccd469c3",
+      "speaker": "レジーニア",
+      "ja": "ええ、ちょっと緊張して足に来ただけよ♥　あんなに大勢の前に立つの、久しぶりで……♥",
+      "zh": "嗯，我稍微有点紧张，腿都软了呢♥ 好久没在那么多人面前站着了……♥"
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "b81628b9",
+      "speaker": "コハル",
+      "ja": "お、お疲れ様です……！",
+      "zh": "辛、辛苦您了……！"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "d7b553e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（式が終わってすぐ、雫に連れられてここに来たけど……いいのかな、こんな王族たちと同じ場所にいて）",
+      "zh": "（仪式一结束，我就被霙拉到这里来了……不过，我和这些王族待在一起真的没问题吗？）"
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "5b6bceaa",
+      "speaker": "レジーニア",
+      "ja": "機械士様、直接こうして言葉を交わしておりませんでしたね。レジーニアと申します、ルミナちゃんの母親です♥",
+      "zh": "机械师先生，我们还没直接这样说过话呢。我叫蕾吉妮亚，是露米娜的母亲♥"
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "3bb8f687",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、は、はい！",
+      "zh": "啊，是，是的！"
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "20aba040",
+      "speaker": "レジーニア",
+      "ja": "気軽にお義母さまとお呼びくださいね♥",
+      "zh": "别见外，叫我妈妈就好♥"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": "诶？！"
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "cd20d75",
+      "speaker": "ルミナ",
+      "ja": "お、お母様……！",
+      "zh": "母、母亲大人……！"
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "ef85efa0",
+      "speaker": "レジーニア",
+      "ja": "ふふっ、冗談ですよ♪",
+      "zh": "呵呵，开玩笑的啦♪"
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "adb6afe8",
+      "speaker": "コハル",
+      "ja": "（イメージしてたより、オチャメなのね……）",
+      "zh": "（比想象中要亲切得多呢……）"
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "d3be4fc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "えーっと……{G_PlayerName}です、よろしく",
+      "zh": "呃……我叫{G_PlayerName}，请多关照。"
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "b002d917",
+      "speaker": "コハル",
+      "ja": "コ、コハルです！　ルミナ……様にはいつもお世話になっております！",
+      "zh": "我叫小春！露米娜大人平时总是受您照顾了！"
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "73ccbb13",
+      "speaker": "レジーニア",
+      "ja": "固くならなくてよいのですよ♥　お２方は私やルミナちゃんの命の恩人ですもの♥",
+      "zh": "不用这么拘谨的♥ 您二位可是我和露米娜的救命恩人呢♥"
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "7e0149ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな大げさな……",
+      "zh": "没那么夸张啦……"
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "a7838427",
+      "speaker": "レジーニア",
+      "ja": "まったく大げさなどではありません。この星で、ゆっくりしていってくださいね♪　不便の無いように取り計らわせていただきます♥",
+      "zh": "一点也不夸张。请在这颗星球上好好放松吧♪ 我会安排得妥妥当当，不让您有任何不便的♥"
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "faf1a73c",
+      "speaker": "レジーニア",
+      "ja": "……ああ、不便と言えば……特例として、お２方に許可を発行しましたので、後で確認しておいてください♥",
+      "zh": "……啊，说到不便，我作为特例给您二位发放了许可，回头请确认一下♥"
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "61862106",
+      "speaker": "コハル",
+      "ja": "特例……？　って、何でしょうか……？",
+      "zh": "特例……？请问是什么许可呢……？"
+    },
+    {
+      "key": "322.1",
+      "line_index": 322,
+      "inline_index": 1,
+      "line_hash": "7a368c77",
+      "speaker": "レジーニア",
+      "ja": "\"異星訪問権\"です。本来であれば試験が必要なのですが、多大な貢献をしていただきましたので、少しでも報いねば、と♥",
+      "zh": "是“异星访问权”。本来需要做实验才能申请到，但您贡献巨大，我多少得回报一下才行♥"
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "7567d782",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　それって……凄いことなんじゃ！？",
+      "zh": "诶？！那……那也太夸张了吧？！"
+    },
+    {
+      "key": "326.1",
+      "line_index": 326,
+      "inline_index": 1,
+      "line_hash": "82097adc",
+      "speaker": "ルミナ",
+      "ja": "うん……！　こんなこと、お母様じゃないと、無理……だよ",
+      "zh": "嗯……！这种事，要不是女王陛下，根本说不通……啊。"
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "ee4b1347",
+      "speaker": "{G_PlayerName}",
+      "ja": "これで買えなかった機械も買い放題……！？",
+      "zh": "那岂不是之前买不起的机械也能随便买了……？！"
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "91897464",
+      "speaker": "雫",
+      "ja": "それは構いませんが、ご自分のお金で買うようにしなさい",
+      "zh": "倒不是不行，但请您用自己的钱买。"
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "7da81b1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ、まあ道理だな……わかった……",
+      "zh": "唔……好吧，也对……知道了……"
+    },
+    {
+      "key": "337.1",
+      "line_index": 337,
+      "inline_index": 1,
+      "line_hash": "a4fa221c",
+      "speaker": "雫",
+      "ja": "（技術規制されるような高度な機械、宇宙の旅の中全力で働いても精々１個買えるかどうかでしょうけどね）",
+      "zh": "（受技术限制的高级机械，在宇宙旅途中全力运作的话，大概也就够买一个吧。）"
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "66a25368",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ、女王様の能力って……継承された物なんですよね？",
+      "zh": "这么说，女王陛下的能力……是继承下来的对吧？"
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "a880f31e",
+      "speaker": "レジーニア",
+      "ja": "はい。代々女王に継承されていた、魂を操作する能力ですね。元の能力は失われ、上書きされました",
+      "zh": "是的。是历代女王继承下来的、操控灵魂的能力。原本的能力已经失传，被封存起来了。"
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "ec348196",
+      "speaker": "{G_PlayerName}",
+      "ja": "これからその能力って、どうするんですか？",
+      "zh": "那这个能力以后要怎么办？"
+    },
+    {
+      "key": "345.1",
+      "line_index": 345,
+      "inline_index": 1,
+      "line_hash": "c91e78e8",
+      "speaker": "レジーニア",
+      "ja": "……代を重ねるごとに強力になり、星を守る力とも言える能力ですが……",
+      "zh": "……每继承一代就会变强，可以说是守护星球的力量……"
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "950fbb66",
+      "speaker": "レジーニア",
+      "ja": "この能力は以降継承せず、私を最後にします。争いの元でもありますので",
+      "zh": "这个能力以后不会再传承，到我这一代就结束了。毕竟这也是纷争的根源。"
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "ca46d868",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんですか……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "23bdb69b",
+      "speaker": "レジーニア",
+      "ja": "もっとも、継承機は壊れたので不可能ですけどね……",
+      "zh": "再说了，继承装置已经坏了，不可能传承了……"
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "12a8ea51",
+      "speaker": "？？？",
+      "ja": "それは、困りますね",
+      "zh": "那可就难办了啊。"
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "c2a0dbd7",
+      "speaker": "雫",
+      "ja": "…………！",
+      "zh": "……！！"
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "a0a3741b",
+      "speaker": "レジーニア",
+      "ja": "…………",
+      "zh": "……"
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "a5da49a",
+      "speaker": "ルミナ",
+      "ja": "今の声、誰……？",
+      "zh": "刚才的声音……是谁……？"
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "b3fcd54b",
+      "speaker": "声",
+      "ja": "……先日は、当機体の\"子機\"を破壊してくださって、ありがとうございます",
+      "zh": "……前几天，多谢您破坏了我那台“子机”机体。"
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "167fc5e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさか……",
+      "zh": "难道……"
+    },
+    {
+      "key": "371.1",
+      "line_index": 371,
+      "inline_index": 1,
+      "line_hash": "3b07412c",
+      "speaker": "ルミナ",
+      "ja": "お母様を操ってた、機械……！？",
+      "zh": "操控女王陛下的那台机械……？！"
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "6f83069d",
+      "speaker": "",
+      "ja": "謎の声、謎の機械。リリアンの存在や、過去の宇宙に起きた出来事。",
+      "zh": "谜之声，谜之机械。莉安的存在，以及过去宇宙中发生的事件……"
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "44776ed6",
+      "speaker": "",
+      "ja": "全ての謎を解き、機械の呪縛から解き放たれるための旅……折り返しの恐怖の旅が、始まろうとしていた。",
+      "zh": "解开所有谜团，为了从机械的诅咒中解放出来的旅程……那趟周而复始的恐怖之旅，正要开始。"
+    }
+  ]
+}

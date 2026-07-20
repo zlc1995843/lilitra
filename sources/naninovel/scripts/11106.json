@@ -1,0 +1,688 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "7f82de38",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………はぁ……ふー……",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "9f000335",
+      "speaker": "",
+      "ja": "警告文から先の廊下。進む度に同じような警告のマークと、警告音がする。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "d2bb80dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしダメだった時のために、し……慎重に……？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "87f41a74",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ！！",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "d5af6ebe",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何も起きてない……大丈夫そうだ……！",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "69b2a370",
+      "speaker": "",
+      "ja": "突如視界を埋め尽くすほどの光が走ったが、自分の体には何も起きていない。体を触り確かめるが、服に焦げ目もついていないようだった。",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "d3131896",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし……進もう……！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "28758d4e",
+      "speaker": "レジーニア",
+      "ja": "見えるかしら、ルミナ？　あなたの愛しの彼が目前に迫っているわ",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "1270068e",
+      "speaker": "ルミナ",
+      "ja": "はい、もうすぐここに着きますね",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "91f557bc",
+      "speaker": "レジーニア",
+      "ja": "いいえ、着かないわよ。だって……",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "bcb2455b",
+      "speaker": "レジーニア",
+      "ja": "長年手元に置いてあった国宝、ルナリング。その特性を、私が理解していないと思う？",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "e04b8fb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "そろそろ着くんじゃ……あっ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "7a843b67",
+      "speaker": "",
+      "ja": "廊下の遠くに、うっすらと扉が見え、思わず声が出る。女王の間に続く廊下だと聞いていた以上、あれが女王の間の扉だろう。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "893c08f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし……！　ルミナ、待ってろよ……無理矢理にでも、取り返して……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "f6088698",
+      "speaker": "{G_PlayerName}",
+      "ja": "……！？",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "9656a981",
+      "speaker": "",
+      "ja": "見据えていた扉の前。上から隔壁が降り、一瞬で閉ざされる。まだ遠目だが、頑丈と言われていた他の壁と材質は同じに見えた。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "635c1d15",
+      "speaker": "{G_PlayerName}",
+      "ja": "扉が……こんなの予想してなかったぞ、どうすれば……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "d63d3351",
+      "speaker": "",
+      "ja": "しかし、それで終わりではなかった。",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "f4620bfe",
+      "speaker": "{G_PlayerName}",
+      "ja": "なに……！？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "17cff762",
+      "speaker": "",
+      "ja": "僅かに感じる振動。先程までどこかが違い始めている景色。",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "d2814939",
+      "speaker": "{G_PlayerName}",
+      "ja": "天井が……降りてきてる！？　いや、床が上がってる……！？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "f8b6aa9b",
+      "speaker": "レジーニア",
+      "ja": "ルナリングの能力はね、強力であるぶん思ってるより限定的なのよ",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "18b5c987",
+      "speaker": "レジーニア",
+      "ja": "着用者の命を守る能力。その能力が発揮される条件は、リリアンの能力を模して作られた機械が相手であることと、それに害意を向けられること。……些細な治癒能力なら無条件だけれどね",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "a5ea607d",
+      "speaker": "レジーニア",
+      "ja": "だから例えば……ここの扉には電子ロック機能があるけれど、それを使った場合、あの男を阻んで最終的には殺そうという害意がある",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "9caaa230",
+      "speaker": "レジーニア",
+      "ja": "するとあら不思議、電子ロックすら突破してしまうのよ。証言によると、何故かどこを押せばいいのかわかった、ですって。ふざけてるわよね？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "ca512550",
+      "speaker": "レジーニア",
+      "ja": "人を使うことも考えたけど、洗脳していない駒は信用できない。大変不本意だけれど……ルナリングの保持者対策に、古い技術で作られた罠を用意しておいたのよ",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "942e295e",
+      "speaker": "ルミナ",
+      "ja": "古い技術の罠であれば……銃や、刃などを使った罠のほうが、大掛かりにならず済んだのでは……？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "9d6a5711",
+      "speaker": "レジーニア",
+      "ja": "今どきの銃火器はリリアンの能力を模してばかりなのよ。だから、こんな回りくどいことをする事になったわ……他に効率的な方法があったかも知れないけど",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "5bd7c9f0",
+      "speaker": "レジーニア",
+      "ja": "でも、悪い事ばかりではないわ。洗脳は、精神的に強いショックを受けると効果が薄れる。例えば、親しい者が血を流したり、死の瞬間を目撃したり、ね？　でもこの方法なら血は流れる前に圧殺できるわ",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "3019253d",
+      "speaker": "レジーニア",
+      "ja": "死ぬ瞬間を見たら正気に戻ってしまうでしょうから、このあたりで映像は消しましょう",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "92c75ac5",
+      "speaker": "レジーニア",
+      "ja": "死を想像するだけでショックを受けて、能力が解けるかしら？　でも……",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "2e98fe0c",
+      "speaker": "レジーニア",
+      "ja": "その頃には手遅れ、でしょう？",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "8f56f14d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どうする……？　どうすれば……",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "8396b278",
+      "speaker": "",
+      "ja": "道を引き返しても、進んでも。窓を開けようとしても、壁を壊そうとしても。何も功を奏さなかった。ただ、ゆっくりと天井が近付いてくる。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "fe122aa4",
+      "speaker": "",
+      "ja": "ルナリングの効果で止まったりするだろうか。でも、もし止まらずに最後まで動き続けたらどうなる？",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "687b133c",
+      "speaker": "",
+      "ja": "ルナリングは多少の傷は治せるんだったか。でも潰された場合は？　それも全身……",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "a247ec6f",
+      "speaker": "",
+      "ja": "ここで、死ぬ？",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "d6b06ee7",
+      "speaker": "{G_PlayerName}",
+      "ja": "死ぬ……のか？　また、何も出来ずに……？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "af2b0c7e",
+      "speaker": "アポロ",
+      "ja": "{G_PlayerName}様が、危機に瀕している……",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "5f938fe1",
+      "speaker": "",
+      "ja": "通信機能を利用し、全員の状況をアポロは理解していた。理解だけは、していた。",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "32808949",
+      "speaker": "アポロ",
+      "ja": "どなたか、{G_PlayerName}様を助けられる人物は……！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "bd5a1507",
+      "speaker": "",
+      "ja": "雫、コハル、ルミナの状況を確認する。全員助けられないか、間に合わない可能性が高い。",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "5b846376",
+      "speaker": "アポロ",
+      "ja": "ワタシが何とかしなくては……{G_PlayerName}様を、救出しなくては……！",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "e01fe5b8",
+      "speaker": "アポロ",
+      "ja": "ですが義体は王城内で使用できない。兵器も使用できない。ワタシに出来ることは、着陸すること、くらい……",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "7306c9de",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "e0eed3f4",
+      "speaker": "アポロ",
+      "ja": "そうです。着陸すればよいのです",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "d0b5a0c",
+      "speaker": "アポロの声",
+      "ja": "{G_PlayerName}様",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "bfed8ec0",
+      "speaker": "{G_PlayerName}",
+      "ja": "！？　アポロ！　通信か！　実は今……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "349cd13",
+      "speaker": "アポロの声",
+      "ja": "助けます。そこを決して動かないでください。そこの壁は大変頑丈で危険ですので",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "6a4a9d7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……？　わ、わかった……",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "d9999c63",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "daa7ac58",
+      "speaker": "",
+      "ja": "スピードを上げ、王城へと近づく。思えば、ここまで高速で運転する機会はありませんでした。いつもは皆様の快適な旅を最優先にしていたため……",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "29436754",
+      "speaker": "アポロ",
+      "ja": "……いえ、宙賊に追われた時はこれくらいのスピードを出していたでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "31344fe1",
+      "speaker": "",
+      "ja": "終と始まりの星の重力を味方につけ、その時以上のスピードへ加速を続ける。計算上、この機体の強度は王城の壁より遥かに低い。必要な速度へまだ到達していない。",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "4270c9ac",
+      "speaker": "アポロ",
+      "ja": "まだ……もっと、加速を……もう少しで……！",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "c9888594",
+      "speaker": "通信",
+      "ja": "当通信は終と始まりの星、星営AIからの通信です。",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "8b95db6",
+      "speaker": "アポロ",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "9e28c099",
+      "speaker": "通信",
+      "ja": "APL-180、航行速度を落とし、高度を上げなさい",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "be215988",
+      "speaker": "アポロ",
+      "ja": "……拒否します",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "f2e43aae",
+      "speaker": "通信",
+      "ja": "APL-180、緊急停止しなさい。繰り返します、APL-180、緊急停止しなさい。これは命令です",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "b6bba860",
+      "speaker": "アポロ",
+      "ja": "……命令無効。当機体名はAPL-180ではありません",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "d39b719e",
+      "speaker": "アポロ",
+      "ja": "当機体名は、アポロです",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "c136d540",
+      "speaker": "",
+      "ja": "ああ、良かった。{G_PlayerName}様のいる位置は崩落させず、無事に穴を開けられました。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "75a43bc1",
+      "speaker": "",
+      "ja": "ワタシの最高級、最高性能の計算力をもってすれば、当然ですが……",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "8a7b907f",
+      "speaker": "",
+      "ja": "振り向かないで。早く逃げてください。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "bd7b0a11",
+      "speaker": "",
+      "ja": "思い残す事は何もありません。『役に立たないガラクタ』で存在を終えること、それ以上恐ろしい事など無いのだから。",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "d67b96bd",
+      "speaker": "",
+      "ja": "ああ、でも……心残りがあるとすれば、ただひとつ。",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "8dee5039",
+      "speaker": "",
+      "ja": "皆さんを、きっと、悲しませてしまう事……",
+      "zh": ""
+    },
+    {
+      "key": "303.1",
+      "line_index": 303,
+      "inline_index": 1,
+      "line_hash": "3c3914f",
+      "speaker": "レジーニア",
+      "ja": "何、今の音は！？",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "d4af440f",
+      "speaker": "",
+      "ja": "レジーニアの声に反応し、モニターが映される。",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "58616544",
+      "speaker": "",
+      "ja": "廊下を包む炎、崩れた壁から何度も振り返りながら脱出する{G_PlayerName}、そして……",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "3f0640",
+      "speaker": "ルミナ",
+      "ja": "アポロ……ちゃん……！！",
+      "zh": ""
+    }
+  ]
+}
