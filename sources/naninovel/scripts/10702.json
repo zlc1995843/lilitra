@@ -1,0 +1,616 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "66d592c0",
+      "speaker": "アポロ",
+      "ja": "……なんですか妙なカオをして",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "6f1baa92",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……だって、今のセリフ今朝聞いたから……",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "c32cd8c8",
+      "speaker": "アポロ",
+      "ja": "何を言うのですか。ワタシのメモリーには残っていません。記憶容量が少ないアナタの思い違いでしょう",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "78ceec1d",
+      "speaker": "雫",
+      "ja": "……普段であれば同調したいところですが",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "70a3a316",
+      "speaker": "ルミナ",
+      "ja": "私も、聞いたよ……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "76ffc0f",
+      "speaker": "アポロ",
+      "ja": "…………つまり",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "65a2ba9c",
+      "speaker": "アポロ",
+      "ja": "バカなッ……ワタシのメモリーに、けっ……欠損が……！？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "fa9506bc",
+      "speaker": "アポロ",
+      "ja": "ま……まさか……じゅ、じゅじゅじゅ……寿命が来たのでは……！？",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "c27d5713",
+      "speaker": "アポロ",
+      "ja": "そ、そ、そうなったらワタシは……買い替え……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "aa1567c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやいやちょっと待て、そういうのじゃないと思うぞ、多分",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "703f50e3",
+      "speaker": "アポロ",
+      "ja": "そ……そうなのですか？　つまり、やはり……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "23279ffc",
+      "speaker": "アポロ",
+      "ja": "なるほど、壊れてしまったのはワタシではなくアナタ達……主に{G_PlayerName}様が脳にダメージを負ってしまわれたのですね……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "11ec6273",
+      "speaker": "{G_PlayerName}",
+      "ja": "あのなあ……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "f686a8b8",
+      "speaker": "ルミナ",
+      "ja": "それも違う……かも……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "e073392e",
+      "speaker": "",
+      "ja": "ルミナと雫が、操作していた端末を閉じる。何かわかったのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "47a6cb1e",
+      "speaker": "雫",
+      "ja": "とにかく外に出て確認しましょう。考えられる可能性はいくつかありますが……",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "59d529e6",
+      "speaker": "コハル",
+      "ja": "外に……って、出発しないの？　もうちょっと待てば溜まるでしょ、エネルギー？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "8fb73940",
+      "speaker": "雫",
+      "ja": "いいえ。確認しましたが、エネルギーは全く溜まっていません",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "8922bad2",
+      "speaker": "コハル",
+      "ja": "えっ！？　どういうこと！？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "aa0604e5",
+      "speaker": "雫",
+      "ja": "それを確かめに、外へ出るのです",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "e91e6e83",
+      "speaker": "雫",
+      "ja": "確か……このあたりで……",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "80cbfae",
+      "speaker": "酔った男性",
+      "ja": "なんだいあんたら、今来たのかい？",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "5072b17a",
+      "speaker": "",
+      "ja": "思わず息を呑む。が、あまり不審な反応をしたらいけないと、咄嗟にコハルの顔を見て固まってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "1bfd5007",
+      "speaker": "雫",
+      "ja": "今来たばかりです。これから祭を楽しませていただきます",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "66d41355",
+      "speaker": "酔った男性",
+      "ja": "そうかぁ！　５００年に１度なんだ、思いっきり楽しめよ～！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "a134e9ee",
+      "speaker": "コハル",
+      "ja": "……今のって、やっぱり……",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "b482f7dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "時間……って、今はいつになってるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "3084e3dd",
+      "speaker": "ルミナ",
+      "ja": "ここに着いたばっかりの……時間、だよ……日時全部、最初に戻ってる……",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "c949338c",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ、もしかして時間が巻き戻って……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "97484dec",
+      "speaker": "雫",
+      "ja": "そのような事は有り得ません。と言いたいところですが……可能性はあります。今までの機械の技術を見てきては……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "79ed4110",
+      "speaker": "{G_PlayerName}",
+      "ja": "（確かに……リデルみたいなリリアンもいるくらいだしな）",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "907333f3",
+      "speaker": "雫",
+      "ja": "別の可能性としては、我々が今まで見ていた物が幻覚であった場合、ですが……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "92ea7b27",
+      "speaker": "",
+      "ja": "おもむろに手の甲をつねる雫。すぐにやめて、深い溜息を吐いた。",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "eacceaac",
+      "speaker": "雫",
+      "ja": "感覚は少なくともあります。……幻覚だったとしても見破ることは困難なので、考えなくてもよいでしょう",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "6c0ced49",
+      "speaker": "雫",
+      "ja": "ここは、時間が巻き戻っている物と仮定して行動します",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "cd7db133",
+      "speaker": "{G_PlayerName}",
+      "ja": "だとしても、なんで俺達の記憶は残ってるんだ？　アポロは記憶が無くなってたみたいだけど",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "ef3962aa",
+      "speaker": "コハル",
+      "ja": "生き物の記憶はそのままになるとか？",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "b3e91f94",
+      "speaker": "ルミナ",
+      "ja": "でも……さっき、話しかけてきた男の人……何も覚えて、なさそうだった……",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "82c168be",
+      "speaker": "雫",
+      "ja": "……まだわからない事が多そうですね。とにかく調査しましょう",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "41033174",
+      "speaker": "コハル",
+      "ja": "わかったわ！　昨日と同じ店を回ってみる！",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "13221e22",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり、皆覚えてないみたいだな……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "8d4ac43f",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "aa7b023",
+      "speaker": "",
+      "ja": "昨日来た店、会った人に声をかけてみたが、結局誰も俺達のことを覚えていない様子だった。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "d591e8b3",
+      "speaker": "",
+      "ja": "調べた範囲だが……俺達以外の時間が巻き戻ってしまっている状態らしい。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "e3f20ebe",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もしかしてこのまま同じ１日を何度も……？　だとしたら、一生ここで……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "96be5a74",
+      "speaker": "ルミナ",
+      "ja": "ま……まだ、わからない、よ……落ち着いて……？",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "28800b9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ……悪い。ちょっと焦ってるのかも……",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "2791af48",
+      "speaker": "ルミナ",
+      "ja": "それに……まだ、ナハトさんは……確認して、ないよ。もしかしたら……覚えてくれてるかも……",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "155dbc87",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだな。ちょっと前の店で待ってみるか",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "501894dd",
+      "speaker": "ウェイトレス",
+      "ja": "お待たせいたしました、本日のおすすめドリンクでございます！",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "4bc92702",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "e6c976fc",
+      "speaker": "",
+      "ja": "前も見た赤いお茶……ヒネ、という植物を使った飲み物だっただろうか。が運ばれてくる。",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "72eb97e7",
+      "speaker": "ウェイトレス",
+      "ja": "ご注文お揃いでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "8cff9afc",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、大丈夫です",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "6971338d",
+      "speaker": "ウェイトレス",
+      "ja": "失礼いたします！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "f1dba5b2",
+      "speaker": "ルミナ",
+      "ja": "来ない、ね……？",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "f437ce0b",
+      "speaker": "{G_PlayerName}",
+      "ja": "時間、間違えたか？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "b8fd26dc",
+      "speaker": "ルミナ",
+      "ja": "ううん。もしかしたら……前と全く同じには、ならないのかも……",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "77f64d88",
+      "speaker": "",
+      "ja": "言われてみれば、そもそも自分たちが前と同じようには動いていない。それに影響されて、同じ事が起きないこともあるだろう。",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "f4d3f748",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ、どうするかな……ナハトさん、探してみるか？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "413d5020",
+      "speaker": "ルミナ",
+      "ja": "うーん……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "ca205587",
+      "speaker": "？？？",
+      "ja": "あのっ……！",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "281ec073",
+      "speaker": "ルミナ",
+      "ja": "……え？",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "76362484",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ん？　……ナハトさんの声じゃないな）",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "20ccac7a",
+      "speaker": "？？？",
+      "ja": "すみません……少し、お伺いしたいことがあるのですけど……",
+      "zh": ""
+    }
+  ]
+}

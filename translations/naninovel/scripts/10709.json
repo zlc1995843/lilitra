@@ -1,0 +1,553 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "69d16285",
+      "speaker": "{G_PlayerName}",
+      "ja": "う……ううん……",
+      "zh": "唔……嗯嗯……"
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "a56d2c41",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここ、は……？",
+      "zh": "这里……是……？"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "6f4ec063",
+      "speaker": "ルミナ",
+      "ja": "ごめん……ね、{G_PlayerName}くん……",
+      "zh": "抱歉……那个，{G_PlayerName}……"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "48a27f9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、すまん！　俺、全然何も考えてなくて……",
+      "zh": "露米娜，对不起！我完全没考虑那么多……"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "2705db45",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": "……"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "……"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "88fde0c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あれ、記憶が消えてない？",
+      "zh": "……咦，我的记忆没消失？"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "3ca56069",
+      "speaker": "ルミナ",
+      "ja": "そう……だね？　なんで……？",
+      "zh": "是……这样吧？为什么……？"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "cbca3465",
+      "speaker": "{G_PlayerName}",
+      "ja": "ナハトが何か失敗したのか……？",
+      "zh": "是纳哈特哪里失败了吗……？"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "cb6a632",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}！？　ルミナも！　無事なの！？",
+      "zh": "{G_PlayerName}！？还有露米娜！你们没事吧！？"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "f99d601a",
+      "speaker": "雫",
+      "ja": "ルミナ様ぁ～～！　お会いしとうございましたぁあ～～！！",
+      "zh": "露米娜大人～～！终于见到您了啊啊～～！！"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "cda3883d",
+      "speaker": "ルミナ",
+      "ja": "む、むぎゅい……しずく、苦しい……",
+      "zh": "唔、唔……好紧，喘不过气……"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "e0a14173",
+      "speaker": "{G_PlayerName}",
+      "ja": "２人とも！　……みんな、何とも無いのか！？",
+      "zh": "你们两个！……大家都没事吧！？"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "7a759dd9",
+      "speaker": "{G_PlayerName}",
+      "ja": "２人とも、いなくなった時からナハトに捕まってたんだな……",
+      "zh": "也就是说，他们两个从失踪开始就被纳哈特抓走了……"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "5e5eeb3c",
+      "speaker": "コハル",
+      "ja": "機械を奪うなら、合流してからにしたら？　って言ったんだけどね……",
+      "zh": "我当时说“既然要抢机器，不如先碰头再行动”来着……"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "a94689e8",
+      "speaker": "雫",
+      "ja": "可及的速やかに解決すべきと判断しました。結果的には全員同時に捕まらず、正解だったと言えます",
+      "zh": "我判断必须尽快解决。结果大家没有被一网打尽，证明这个决定是对的。"
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "98b98b93",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルと雫の記憶も消えてないな。なんでだろう……",
+      "zh": "小春和雫的记忆也还在。这是为什么呢……"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "6124ae58",
+      "speaker": "ルミナ",
+      "ja": "ナハトさんの想定外な何かが、あったのかな……",
+      "zh": "大概是纳哈特预料之外的某种情况吧……"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "ca803d14",
+      "speaker": "雫",
+      "ja": "もしや……前アポロが言っていた、ルナリングとの……衝突の回避？",
+      "zh": "难道说……是之前阿波罗说的，跟露娜环的……冲撞回避？"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "3256150f",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の近くにいる人だけ……記憶が無くならなかったってことか？",
+      "zh": "也就是说，只有在我附近的人，记忆才没消失？"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "19b9fe10",
+      "speaker": "コハル",
+      "ja": "そうだとしたら、時間の巻き戻し自体何とかしてよ！",
+      "zh": "如果是那样，你倒是想办法把时间回溯给解决掉啊！"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "fbd44072",
+      "speaker": "雫",
+      "ja": "……時間を巻き戻すことは救助、記憶の消去は攻撃とみなしたのかも知れませんね",
+      "zh": "……也许它把时间倒流当成救助，而消除记忆当成攻击呢。"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "1f79515e",
+      "speaker": "{G_PlayerName}",
+      "ja": "どっちにしても朗報だ！　それじゃあ、これから……",
+      "zh": "不管怎样都是好消息！那么，接下来……"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "d3224821",
+      "speaker": "アポロ",
+      "ja": "ステルス機能解除。これより一部の機能は出発するまでスリープ状態に入ります",
+      "zh": "潜行功能已解除。从现在起，部分功能将进入待机状态，直到出发为止。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "8349e34",
+      "speaker": "{G_PlayerName}",
+      "ja": "わー！　ちょっと待てちょっと待て！",
+      "zh": "哇！等等、等等！"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "3ae50cfa",
+      "speaker": "ルミナ",
+      "ja": "一回、アポロちゃんにも説明しよう……",
+      "zh": "先跟阿波罗酱也说明一下情况吧……"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "2751f065",
+      "speaker": "アポロ",
+      "ja": "なんと……そんなことが。ですが、皆様やワタシに起きている異常……映像のラグ等と一致します",
+      "zh": "什么……竟然有这种事。不过，发生在各位和我身上的异常……和影像延迟等现象一致。"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "8295c8da",
+      "speaker": "コハル",
+      "ja": "わかってもらえたようで何よりね。……でも、どうすればいいのかしら。機械を止めたら星が滅びちゃう……んでしょ？",
+      "zh": "能理解就好。……但问题是怎么做。要是停下机器，这颗星球就会毁灭……对吧？"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "da3d48f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……ロサナや、この国の人達が全員……",
+      "zh": "是啊……罗莎娜和这个国家的人都会……"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "1eaf3b92",
+      "speaker": "雫",
+      "ja": "ルミナ様のためであれば星１つ滅ぼしても構いません。本来滅びる星だったのですから、正しい運命を辿るだけです",
+      "zh": "为了露米娜大人，就算毁掉一颗星球也不算什么。反正这颗星球原本就是要毁灭的，只是回到了它正确的命运而已。"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "497f74c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな……！　でも……",
+      "zh": "这……！但是……"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "ad4d8bf7",
+      "speaker": "",
+      "ja": "雫の意見に、感情だけで反対するのは簡単だ。でも事実、この星から脱出するにはそれしか方法が残っていない。",
+      "zh": "只凭感情去反对雫的意见很容易。但事实上，要离开这颗星球，只有那一个办法了。"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "ed4b3f09",
+      "speaker": "アポロ",
+      "ja": "あの……お話の途中恐れ入りますが",
+      "zh": "那个……打断一下各位的谈话，抱歉。"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "94fb0402",
+      "speaker": "コハル",
+      "ja": "アポロ？　どうしたの？",
+      "zh": "阿波罗？怎么了？"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "b7dfb687",
+      "speaker": "アポロ",
+      "ja": "お話を整理したところ……１つ仮説が浮かんだのですが聞いていただいても？",
+      "zh": "我理了一下头绪……想到一个假说，可以听我说说吗？"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "847670e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "これからどうするか、もう一度おさらいしてもらっていいか？",
+      "zh": "接下来我们该怎么办，能再梳理一遍吗？"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "943e5bcb",
+      "speaker": "雫",
+      "ja": "ナハトはわたくし達の記憶が消えていると考えているはず。……失敗に終わったことを把握している可能性もありますが、不意打ちするなら今しかありません",
+      "zh": "纳哈特应该以为我们的记忆都消失了。……他也有可能已经意识到计划失败了，但要想出其不意，现在就是唯一的机会。"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "ee9bac54",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……その前に、ロサナさんに会って……協力してもらったほうがいい、かも……",
+      "zh": "那么……在那之前，最好先去找罗莎娜……请她帮忙，也许……"
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "4aa35fe7",
+      "speaker": "コハル",
+      "ja": "そのカフェって、こっちなの？",
+      "zh": "你说的那个咖啡馆，在这边？"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "dac2c8c8",
+      "speaker": "ロサナの声",
+      "ja": "あっ……にぃに！？",
+      "zh": "啊……哥！？"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "31a2edf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ロサナ！　良かった、見つかった！",
+      "zh": "罗莎娜！太好了，找到你了！"
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "46dcce73",
+      "speaker": "コハル",
+      "ja": "に、にぃに……？",
+      "zh": "哥、哥哥……？"
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "a1ff09c2",
+      "speaker": "ロサナ",
+      "ja": "あっ……ごめんなさい、お兄ちゃんにそっくりで、つい……！　いらっしゃいませ！　お好きな席へどうぞ！",
+      "zh": "啊……对不起，您长得很像我哥，一时没忍住……！欢迎光临！请随便坐！"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "b38119",
+      "speaker": "ルミナ",
+      "ja": "……ロサナさん、もしかして……",
+      "zh": "……罗莎娜小姐，难道你……"
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "c1f632bc",
+      "speaker": "ロサナ",
+      "ja": "あれ？　なんで私の名前知ってるんですか？　お会いしたことありましたっけ？",
+      "zh": "咦？你怎么知道我的名字？我们见过面吗？"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "c73a4b8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ロサナの記憶が無くなってるなんて……",
+      "zh": "罗莎娜的记忆居然消失了……"
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "77d54d59",
+      "speaker": "ルミナ",
+      "ja": "リリアンなら、記憶は無くならないのかと思ってたけど……そういうわけじゃ、なかったんだね……",
+      "zh": "我还以为如果是莉安的话，记忆就不会消失呢……看来不是这样啊……"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "ea52c766",
+      "speaker": "{G_PlayerName}",
+      "ja": "多分……自動で選ばれにくいってだけで、直接狙えば記憶が無くなっちゃうんだろうな",
+      "zh": "大概是……只是不容易被自动选中，要是直接针对的话，记忆就会被消除吧。"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "5d16b610",
+      "speaker": "雫",
+      "ja": "戻った後に近くにいる必要があったのか、ルナリングと接触していた時間が足りなかったのか……ともかく、今は考える必要は無いでしょう",
+      "zh": "是必须在杀死后靠近她呢，还是与露娜环接触的时间不够……总之，现在没必要纠结这个。"
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "90559dfe",
+      "speaker": "ルミナ",
+      "ja": "私達だけで、なんとかしないと……",
+      "zh": "只能靠我们自己了，必须得做点什么……"
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "a81863eb",
+      "speaker": "コハル",
+      "ja": "でも、庭園の周りは警戒されてるのよね？　だったらどうすれば……",
+      "zh": "不过，院子周围警备很严吧？那该怎么……"
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "e876550f",
+      "speaker": "？？？",
+      "ja": "おい！　そこの奴ら止まれ！",
+      "zh": "喂！那边的奴隶，给我站住！"
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": "诶？"
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "5700ebf4",
+      "speaker": "ジラド",
+      "ja": "はーっはっはっは！　また会ったな！　ジラド様だぞーっ！",
+      "zh": "哈哈哈！又见面了啊！本大爷吉拉德来也！"
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "7b27bd15",
+      "speaker": "コハル",
+      "ja": "な、何この人！？　モンスター……の仮装！？",
+      "zh": "你、你谁啊？！怪物……假扮的？！"
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "40625dac",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ、また面倒なのが……！",
+      "zh": "呜哇，又是个麻烦的家伙……！"
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "8cae7266",
+      "speaker": "ルミナ",
+      "ja": "た……戦わなきゃ……！？",
+      "zh": "非、非战不可……吗？！"
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "f70cf1ff",
+      "speaker": "ジラド",
+      "ja": "まあ落ち着け！　お前たち、合格だ！",
+      "zh": "哎呀，放心！你们够格！"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "4ff71fbc",
+      "speaker": "{G_PlayerName}",
+      "ja": "……は？　合格？",
+      "zh": "……哈？够格？"
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "86e66cd2",
+      "speaker": "ジラド",
+      "ja": "そのとーり！　ジラド様が、お前達を手伝ってやるぞー！",
+      "zh": "那当然！本大爷亲自调教你们！"
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "61275f1e",
+      "speaker": "コハル",
+      "ja": "は、はあ……？",
+      "zh": "哈、哈啊……？"
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "e3b0d954",
+      "speaker": "{G_PlayerName}",
+      "ja": "ナハトって……多分俺達が会ったリリアン、だよな？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "b26a6eca",
+      "speaker": "ルミナ",
+      "ja": "ピンク色の髪で、ふわっとしたドレスを着てる……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "35b967f",
+      "speaker": "ロサナ",
+      "ja": "そうだよ！　……ナハトに会ったことあるんですか？",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "c742cf74",
+      "speaker": "{G_PlayerName}",
+      "ja": "このカフェに来てたんだが……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "15df48d3",
+      "speaker": "ロサナ",
+      "ja": "そうなの！？　……追われてたり……！？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "f52c409b",
+      "speaker": "ルミナ",
+      "ja": "だ、大丈夫。しばらく見てないから……探してたんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "b9b49c12",
+      "speaker": "ロサナ",
+      "ja": "そう、なの……？　それならまだ、目をつけられたりしたわけじゃ、ないのかな……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "1dbd6ab7",
+      "speaker": "{G_PlayerName}",
+      "ja": "目をつけられる……って、それから一体何があったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "9a92d273",
+      "speaker": "ロサナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "9c5dcdc5",
+      "speaker": "ロサナ",
+      "ja": "また、巻き戻った……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "5c9a9e01",
+      "speaker": "",
+      "ja": "お母さんはどうしたのか。ナハト様には無事に会えて、意見を伝えられたのか。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "f2049825",
+      "speaker": "",
+      "ja": "不安になりながらあたりを見回していると、遠くから近づいてくる影が見えた。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "704f7c24",
+      "speaker": "ロサナ",
+      "ja": "お母さん！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "4e163d16",
+      "speaker": "ロサナの母",
+      "ja": "ロサナ！",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "6f23f6d6",
+      "speaker": "ロサナ",
+      "ja": "お母さん、話し合いはどうなった？　上手くいった？",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "fefe47d7",
+      "speaker": "ロサナの母",
+      "ja": "話し合い……",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "896c1499",
+      "speaker": "ロサナの母",
+      "ja": "お祭りの話し合いなんてあったかしら？　従業員の時間割ならもう配ったわよ？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "9a92d273",
+      "speaker": "ロサナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "df047f4c",
+      "speaker": "ロサナの母",
+      "ja": "今日はようやくお祭りの本番の日よ！　ロサナもしっかり準備しないと！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "daccf53a",
+      "speaker": "ロサナ",
+      "ja": "おかあ、さん……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "c4192fd2",
+      "speaker": "",
+      "ja": "お母さんは他の人と同じになってしまいました。記憶は毎回無くなって、私が泣いたりしてもニコニコするだけで反応が返ってこない……人形になってしまった",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "c56ffee2",
+      "speaker": "ロサナ",
+      "ja": "……お母さんがそうなったのは、ナハトに時間を巻き戻すのをやめるように言いに行ってから",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "c55346e8",
+      "speaker": "ロサナ",
+      "ja": "証拠があるわけでも、絶対でもないけど……ナハトに何かされた可能性が、一番高いんです！",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "884fbfd6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "bd3258c0",
+      "speaker": "ルミナ",
+      "ja": "話した限りでは……良い人に、見えたけど……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "84729f55",
+      "speaker": "ロサナ",
+      "ja": "……私も、自信はありません。こうなる前、ナハト……様は、とても良い女王様でしたから……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "ff9aabdb",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、女王！？",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "865c171e",
+      "speaker": "ルミナ",
+      "ja": "お祭りの……運営さんか何か、じゃないの……！？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "dc0de9d7",
+      "speaker": "ルミナ",
+      "ja": "ナハトさん……は、この祭りの……運営の方、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "4e27a94d",
+      "speaker": "ナハト",
+      "ja": "……そうですね。全体の管理をさせていただいております",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "e981ace8",
+      "speaker": "{G_PlayerName}",
+      "ja": "……まあ……ウソはついてない、か？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "505c5501",
+      "speaker": "ルミナ",
+      "ja": "でも……仮に、ナハトさんが……元凶の、悪い人だったとして……どうすればいいの、かな",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "41d965b7",
+      "speaker": "ロサナ",
+      "ja": "会うだけなら簡単です。ナハトの庭園があるので、そこに行けば……必ずいるかはわかりませんけど、そこでお茶をしていることが多いらしいです",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "4549feba",
+      "speaker": "ロサナ",
+      "ja": "でも、ただ話しに行くだけじゃ……お母さんみたいになっちゃう。どうすればいいかわからなくて……ずっと、今まで私は待ち続けてたんです",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "a0692ce5",
+      "speaker": "ロサナ",
+      "ja": "必要ない、ウェイトレスの真似事を繰り返して、出来るだけ正気を保って……",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "b12e7db6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ロサナ……",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "50ddb409",
+      "speaker": "ルミナ",
+      "ja": "……こうするのは、どうかな。まずは遠目から……ナハトさんを観察するの",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "4ca339f4",
+      "speaker": "ルミナ",
+      "ja": "それで……本当にナハトさんが元凶なのか、元凶ならどうやって時間を繰り返してるのか……調べたほうがいいと思う",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "3d955ee6",
+      "speaker": "{G_PlayerName}",
+      "ja": "出来るかな……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "ab3f86c2",
+      "speaker": "ロサナ",
+      "ja": "……もしかしたら、難しいかも……いえ、私もどれくらい万能な物かわかってないんですが……",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "110ec935",
+      "speaker": "{G_PlayerName}",
+      "ja": "？　何の話だ？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "461e96ee",
+      "speaker": "ロサナ",
+      "ja": "……ベルディグリス……ナハトが使ってる、不思議な道具があるんです",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "da90dcd2",
+      "speaker": "ナハト",
+      "ja": "あらあら皆様、お揃いでどうかなさいましたか？",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "15bb96",
+      "speaker": "男性",
+      "ja": "もう限界です、耐えられません！　我々も……町の人々も！",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "ca96ae63",
+      "speaker": "ナハト",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "f7ffdc64",
+      "speaker": "女性",
+      "ja": "ナハト様が仰ったように、いつまでも隠し続けるには無理があります！",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "d08fad02",
+      "speaker": "男性",
+      "ja": "日に日に壊れた……例外処理が必要な住民の数も増えています！　こうなった以上、全国民に打ち明けたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "23bceef4",
+      "speaker": "ナハト",
+      "ja": "皆様、とてもお疲れのご様子ですね",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "8731d8c2",
+      "speaker": "ナハト",
+      "ja": "我々が最も正常だった頃に下した判断を……今、最も歪んだ状態で覆すなど、とても正しい考えだとは思えません",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "2cbfec3e",
+      "speaker": "男性",
+      "ja": "お……お待ち下さい、ナハト様。まだ我々の考えは……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "10ff6d40",
+      "speaker": "ナハト",
+      "ja": "いいえ、もう十分です。正しい事が証明されている礎……ここまで続いてきた宴と平和の星を、崩しかねない因子は除外しなくては",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "129b473a",
+      "speaker": "ナハト",
+      "ja": "ベルディグリス。『例外処理』の対象を追加",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "869b0de1",
+      "speaker": "女性",
+      "ja": "ナハト様……ナハト様ぁっ！！",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "ccc20a53",
+      "speaker": "叫び声",
+      "ja": "出せーーーっ！　まったりお茶飲んでんじゃないわよーーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "63f5713f",
+      "speaker": "ナハト",
+      "ja": "……賑やかなお方。祭で見かけたお猿さんのほうが、よほど貴方よりお行儀が良かったですわよ？",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "7285dc6d",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "17aa1613",
+      "speaker": "",
+      "ja": "椅子に腰掛け、優雅に茶を飲むナハト。その傍らには、コハルと雫が巨大な鳥籠のような檻に入れられていた。",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "29ecb651",
+      "speaker": "コハル",
+      "ja": "さ、猿以下ですってぇ！？　……じゃなくて、早くここから出しなさい！　あたし達、この星に寄っただけで無害な一般人なんだからっ！",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "6fc796fd",
+      "speaker": "ナハト",
+      "ja": "ええ、勿論です。解放いたしますよ",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "277f0275",
+      "speaker": "ナハト",
+      "ja": "皆様を例外処理……記憶まで巻き戻すには、まだデータが足りませんから。十分取れれば、戻して差し上げますよ。記憶も全部、ね",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "5f2608fa",
+      "speaker": "コハル",
+      "ja": "ううっ……",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "5175f7fd",
+      "speaker": "雫",
+      "ja": "（……「星に到着した直後」からはデータがある。記憶を戻すには「それよりも前のデータ」が必要？　……まあ、推測でしかありませんが）",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "6d876194",
+      "speaker": "ナハト",
+      "ja": "こんなことが出来るのも、皆様が星の外からいらしたおかげ。元々存在しなかった皆様であれば、ある程度は開始座標を操作することも出来ますから",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "d7559c3c",
+      "speaker": "ナハト",
+      "ja": "しかし……驚きました。まさか、来て早々にベルディグリスを奪おうとするなんて",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "a03035b2",
+      "speaker": "雫",
+      "ja": "奪うなど、とんでもない。珍しい機械でしたので、少し近くで見ようとしただけですよ",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "3ded1378",
+      "speaker": "ナハト",
+      "ja": "わざわざ忍び込んで、ですか？",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "e0e0d69d",
+      "speaker": "コハル",
+      "ja": "（あの機械の見た目……間違いなく、今までのと同じよね）",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "8cd30163",
+      "speaker": "雫",
+      "ja": "（ええ。あの機械さえ停止させてしまえば、時間のループから脱せるはずですが）",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "b03135f2",
+      "speaker": "ナハト",
+      "ja": "あの２人は……少し様子見いたしましょうか。まだ例外処理が必要かはわかりませんから",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "cd9d5dce",
+      "speaker": "コハル",
+      "ja": "……{G_PlayerName}、ルミナ……無事だといいけれど……",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "fe9f8c4c",
+      "speaker": "雫",
+      "ja": "…………ルミナ様……",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,1102 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "c33a5392",
+      "speaker": "ルミナ",
+      "ja": "あなたは……？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "41e9db7c",
+      "speaker": "モエ",
+      "ja": "あたし、モエって言います。もしかしてお二人とも、どこかから今来られたんですか？",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "466c9879",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ。キミはもしかして……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "995ab5df",
+      "speaker": "モエ",
+      "ja": "やっぱり！　助けてくださいっ！　もう何がなんだかわかんなくて……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "dc6bd9d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、落ち着いて……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "c67d70b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり時間が巻き戻ってる……？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "5f16e5f6",
+      "speaker": "モエ",
+      "ja": "はい。ここにいると大体半日ほどで時間が戻るんです",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "4f24c563",
+      "speaker": "モエ",
+      "ja": "この国の外に出た人もいましたが、意味はありませんでした。どこまで行っても、ここに戻されるのだと",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "38a3e525",
+      "speaker": "ルミナ",
+      "ja": "一体、いつから……どれくらいの間、そうしていたんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "14a757a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "どれくらいか、知ってるか？　モエさん",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "9ee51485",
+      "speaker": "モエ",
+      "ja": "…………さあ、あたしもずっと続けてたせいでわからなくて……",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "1ab9abeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "c731c39f",
+      "speaker": "モエ",
+      "ja": "あと……モエさんじゃなくて、モエで大丈夫ですよ♥",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "cd724bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか？　じゃあ……モエ、他にどんな事が試されてたか知らないか？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "1c6a4cda",
+      "speaker": "モエ",
+      "ja": "わかりません……なにせ、すぐに巻き戻ってしまうせいで、誰が何をしていたかよくわからなくて",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "a5f8cec3",
+      "speaker": "モエ",
+      "ja": "街を壊したり人を殺したりする人もいましたが、何も起きませんでした",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "661cce3b",
+      "speaker": "ジラド",
+      "ja": "うおーっ！　誰か、ジラド様を止めてみせろ～！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "f256cbb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかしてあれって……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "95faefce",
+      "speaker": "モエ",
+      "ja": "どうせ戻るから、って……皆さん、好き勝手暴れてて。お……大変なことになって",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "b2f4c478",
+      "speaker": "モエ",
+      "ja": "でも最初のほうはそういう人もいましたが、殆どはすぐにいなくなりました",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e923d0e5",
+      "speaker": "モエ",
+      "ja": "だってすぐに元に戻って意味が無いし……そのうち、記憶も無くなり始めるんです",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "9dd9ad10",
+      "speaker": "ルミナ",
+      "ja": "……えっ、記憶が……？　でも、モエさんは……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "dfab55ec",
+      "speaker": "モエ",
+      "ja": "あたしは大丈夫です。……何でかは、わからないんですけど",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "d408ac5e",
+      "speaker": "モエ",
+      "ja": "最初は大丈夫でも、そのうち記憶が無くなり始める人がいるんです",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "e8da6d88",
+      "speaker": "ルミナ",
+      "ja": "モエさんが大丈夫な理由……リリアンだから、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "c9ff3ee6",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　だとしたら、俺もまずいんじゃないか！？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ec2f77a9",
+      "speaker": "ルミナ",
+      "ja": "ど、どうなのかな……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "89920f32",
+      "speaker": "モエ",
+      "ja": "……ひとまず、安全な場所があります。記憶が残ってる人達もいるので、こっちに来てください",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "63964d30",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ。ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "64734756",
+      "speaker": "コルト",
+      "ja": "みなさ～ん♥　私の■■■で焼き上げたパンはいかがですかぁ～♥♥",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "70defb49",
+      "speaker": "イビリア",
+      "ja": "びええーん！　あぶあぶっ！　ばぶぅ～！　……おいっ、無視するなっ！",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "355f4a6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "た……確かに気が狂ってるとしか思えない人達がいるな。祭りだから芝居かなんかだと思って気にしてなかったが、いざ注目すると……",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "f76a392e",
+      "speaker": "ルミナ",
+      "ja": "変なことに、巻き込まれないように……気をつけたほうが、いいかも……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "285d7170",
+      "speaker": "モエ",
+      "ja": "……巻き込まれたところで、どうせ……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "db088979",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　何か言ったか？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "2916cc4d",
+      "speaker": "モエ",
+      "ja": "いえ！　こっちです！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "8661a793",
+      "speaker": "",
+      "ja": "モエの先導に従っていると、ひときわ賑やかな会場に着いた。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "4a6a2d23",
+      "speaker": "",
+      "ja": "立食をしているらしく、高らかな笑いを上げながら談笑する人や、大人数のグループで集まって騒いでる人達もいる。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "a81734b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっきのところより人が多いな……モエ、どこだ！？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "119d58a0",
+      "speaker": "モエ",
+      "ja": "こっちです、こっちにー！",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "8618348c",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ、見失う……待っ……えっ？　うわっ！！",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "5be62d18",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん！？",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "b996e29",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんだ！？　すごい力で引っ張られてる！）",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "57a45f56",
+      "speaker": "",
+      "ja": "ズルズルと引きずられ、人と人との間を無理矢理進ませられる。",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "fcdbf541",
+      "speaker": "",
+      "ja": "ルミナと繋いでいた手を離してしまった。一体誰が引っ張ってるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "df937686",
+      "speaker": "モエ",
+      "ja": "くすくす……♥",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "73c4c4b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、モエ！　どういうことだ？　これ……",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "4f11f5ac",
+      "speaker": "モエ",
+      "ja": "まだ気づかないの……？　おマヌケおじさん♥",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "f9ce1836",
+      "speaker": "{G_PlayerName}",
+      "ja": "！？　まさか……騙してたのか！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "659eac69",
+      "speaker": "モエ",
+      "ja": "当たり前でしょ～♥　今まで誰もどうにも出来なかったのに、ポッと出てきたおじさん達にどうにか出来るワケないし♥",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "c8bb51d4",
+      "speaker": "モエ",
+      "ja": "どうせすぐ記憶無くなって他の人達と同じになるんだから～……それまで、モエの遊び道具になってよ♥",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "fadf4d20",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんて奴だ……どうしよう……）",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "f5e9761e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、こっちだ！",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "54afd148",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん！",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "268c7622",
+      "speaker": "モエ",
+      "ja": "ちっ……邪魔者が来ちゃった",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "2a227f08",
+      "speaker": "モエ",
+      "ja": "くすくすっ♪　思ってたより面倒だからもういいや♥　次見かけたら、今度こそ遊んであげるっ♪",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "b906ae78",
+      "speaker": "{G_PlayerName}",
+      "ja": "な……なんだったんだ、アイツ……",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "cd2a8e8a",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、大丈夫……？　何かされてない……？",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "22c83e2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……なんとか……",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "239a4aa1",
+      "speaker": "",
+      "ja": "モエが消えていった方向を見るが、人混みにかき消され、その姿は一欠片も見つからなかった。",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "ef148bfc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まずは、全力で逃げるッ！）",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "e657de9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ど、どうにか逃げられたか……？）",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "86871f6d",
+      "speaker": "",
+      "ja": "俺はモエから逃げて、なんとか人と人の間、テーブルの影へと隠れた。",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "936d3236",
+      "speaker": "",
+      "ja": "後ろを振り返っても、モエの姿は無いようだが……",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "27ab23db",
+      "speaker": "モエ",
+      "ja": "あはっ♥　おじさん見ーつけたっ♥",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "a5fe4782",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　うあぁぁっ！？　お、お前、いつの間に……！　ってどこ触って……や、やめっ！！",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "e45395bd",
+      "speaker": "",
+      "ja": "突然目の前に現れたモエに驚き、身体が一瞬硬直してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "492d25a9",
+      "speaker": "",
+      "ja": "モエは俺の股間に手を伸ばすと、手慣れた手つきであっという間に肉棒を引っ張り出してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "ecd5e3b4",
+      "speaker": "モエ",
+      "ja": "くすくすくすっ♥　おじさん、なんでおちんちんこんなになってるのぉ？♥",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "3e99c9fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "し、知るか……！　手を離せ……！！",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "a5cad618",
+      "speaker": "モエ",
+      "ja": "やーだっ♥　ねぇねぇ、モア、男のおちんちんがこんなになっていたらやる事は一つだよね？♥",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "fc67bd8c",
+      "speaker": "モエ",
+      "ja": "うんうん、やっぱりそうだよね～っ♥　じゃあそういうわけでーっ♥　モエがおじさんをスッキリさせてあげるから♥　あはははははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "bdd2b345",
+      "speaker": "モエ",
+      "ja": "わぁ～っ♥　すっごぉっ♥　なんかさっきよりもおちんちんおっきくなってるぅ♥　おじさんご自慢の大人棒だね～っ♥　くすくすくすっ♥",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "de2efd86",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前、こんなところで……ううっ！　何考えてるんだ……！！",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "bcd30d3c",
+      "speaker": "モエ",
+      "ja": "何を考えているって……おじさんをからかって楽しんでいるんだよ？♥",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "ae2aaf15",
+      "speaker": "モエ",
+      "ja": "そもそもさぁ、おじさんもして欲しくて大人棒バッキバキにしてたんでしょ？♥　だったら別にいいじゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "c1790f84",
+      "speaker": "モエ",
+      "ja": "それに今ぴゅっぴゅしても巻き戻って無かったことになるんだから、何も考えずに気持ち良くなればいいじゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "dcabfaf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ……！！　やめっ……！　し、扱くなぁ……！！　俺は別にして欲しいなんて……あうっ！！",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "8c368ce3",
+      "speaker": "",
+      "ja": "モエは手慣れた手つきでカリ首を手のひらで擦り、ゾクっとしか快感が背筋から脳へと一直線に駆け上がる。",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "fdd45c8d",
+      "speaker": "",
+      "ja": "俺が思わず反応してしまったことにモエは調子に乗り、からかうように亀頭をグリグリと擦る。",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "56c88a4c",
+      "speaker": "",
+      "ja": "すぐに逃げないと、と考えるが押し寄せる快感の波の連続に、俺の意識の中から逃げる選択肢が少しずつ消え始めてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "e5832b6a",
+      "speaker": "モエ",
+      "ja": "おじさんのおちんちん敏感すぎ～っ♥　この程度で喜んじゃってぇ～♥　モエ、まだ全然本気でシコシコしていないのにっ♥",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "10e8e6f2",
+      "speaker": "モエ",
+      "ja": "モエの本気テクで攻めたらおじさんなんてあっという間にどっぴゅんだね～っ♥　くすくすっ♥",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "43a44194",
+      "speaker": "{G_PlayerName}",
+      "ja": "ば、バカにするな……この程度でなんてぇ……くっ！",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "b9202c46",
+      "speaker": "モエ",
+      "ja": "はいはい♥　男って最初はみんなそう言うんだよねぇ～っ♥　我慢できないくせにイキっちゃって♥　それでモエにあっさりと敗北させられちゃって♥",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "5116bad8",
+      "speaker": "モエ",
+      "ja": "でもそれもすぐに忘れちゃうの♥　何度もモエに敗北させられているって誰一人気づかないザコザコなの♥",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "131bec68",
+      "speaker": "モエ",
+      "ja": "おじさんもモエに敗北させてあげる♥　ザコザコな男の一人にしちゃうんだからっ♥",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "42fa61bd",
+      "speaker": "",
+      "ja": "モエは舌なめずりをすると、肉棒を握り直す。そしてニヤリといやらしい笑みを見せると、リズミカルに肉棒を握る小さな手を動かし始めた。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "4399cf78",
+      "speaker": "{G_PlayerName}",
+      "ja": "うううっ！？　くぅ、うあ、ま、待て……こっ、こんなところでぇ……くうううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "560b105c",
+      "speaker": "モエ",
+      "ja": "うっわ♥　本当にヨワヨワのザコザコ～っ♥　このままじゃモエに簡単に敗北しちゃうよぉ？♥　きゃはははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "2910c649",
+      "speaker": "",
+      "ja": "モエの手コキは見た目に反してかなりテクニカルで、カリ首や裏筋などを絶妙な加減で擦り上げる。",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "b79cfa4",
+      "speaker": "",
+      "ja": "肉棒に対して完全に手慣れており、絶え間ない快感の連続に俺は天を見上げ、こぶしを握り締め、ぐっと耐える。",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "2719a3e4",
+      "speaker": "モエ",
+      "ja": "わっかんないなぁ～♥　なーんで男って最初はみんなガマンしちゃうの？♥　気持ち良ければ気持ち良いって喘げばいいじゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "74f9b6b4",
+      "speaker": "モエ",
+      "ja": "でもすぐにガマンできなくさせてあげる♥　何も考えられないバカオスになっちゃえっ♥",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "ebef977c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐううっ、ううう……！！　うあ、く、んぅぅぅっ！！",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "80fb4274",
+      "speaker": "",
+      "ja": "モエは小さく笑いながら、先端から溢れてきた先走りを塗り込むようにリズミカルに手を動かす。",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "b8edaf96",
+      "speaker": "",
+      "ja": "ヌルヌルした快感がさらに気持ち良さを引き出し、俺の肉棒を弄ぶように手を動かし続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "fbf0e03c",
+      "speaker": "モエ",
+      "ja": "モエの手コキたまらないでしょ？♥　男なんてチョロすぎて簡単♥　ほらほら、もっと気持ち良くなっちゃえっ♥　エッチなお汁もっと溢れだしちゃえっ♥",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "7d79ac93",
+      "speaker": "",
+      "ja": "モエの瞳がどんどんいやらしく、そして俺を小馬鹿にした視線を向ける。",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "d7b29972",
+      "speaker": "",
+      "ja": "あまりの気持ち良さに肉棒がさらに肥大化し、立っているのがつらく感じるほど両脚がガクガクと震えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "85186b7f",
+      "speaker": "モエ",
+      "ja": "あはっ♥　ザコおちんちんまたおっきくなったぁ♥　ほら、ほらぁ♥　もっと亀頭イジメてあげるっ♥　おじさんの不細工顔もっとヘン顔にしてあげるからっ♥",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "87d00707",
+      "speaker": "{G_PlayerName}",
+      "ja": "お゛っ……！！　ぐ、ううう……！！",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "4f0ab887",
+      "speaker": "",
+      "ja": "執拗にカリ首から亀頭の先端をグリグリと手のひらで擦り、あまりの気持ち良さに頭の中が真っ白になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "e2d133e2",
+      "speaker": "",
+      "ja": "喉の奥から勝手に声が漏れ出し、もう手コキから逃げる選択肢が完全に自分の中から消えてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "e2740293",
+      "speaker": "",
+      "ja": "目の前に突きつけられた快感に心まで支配され、モエに小馬鹿にされることすら喜びへと繋がってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "ae7ec1ae",
+      "speaker": "モエ",
+      "ja": "んーっ♥　今のでどっぴゅんすると思ったんだけどなぁ♥　意外と粘るね、おじさん♥",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "6ada48f1",
+      "speaker": "モエ",
+      "ja": "でもそれ無駄な努力だから♥　もうおちんちん爆発寸前なんでしょ？♥　どっぴゅんどっぴゅんしたいんでしょ？♥",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "e9e6bc16",
+      "speaker": "モエ",
+      "ja": "ならさっさと出しちゃえ♥　自分はザコザコのオスでしたーって思いながら無様にイっちゃえっ♥",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "5b11e289",
+      "speaker": "{G_PlayerName}",
+      "ja": "んぎっ！　や……！！　うう、うううっ！　うあ゛、あ゛あ゛あ゛っ……！！",
+      "zh": ""
+    },
+    {
+      "key": "402.0",
+      "line_index": 402,
+      "inline_index": 0,
+      "line_hash": "f4e46a8",
+      "speaker": "モエ",
+      "ja": "あはははっ♥　面白い声～っ♥　ほらほら、負けちゃえっ♥　敗北ザーメンどっぴゅんしちゃえーっ♥",
+      "zh": ""
+    },
+    {
+      "key": "405.0",
+      "line_index": 405,
+      "inline_index": 0,
+      "line_hash": "2c114755",
+      "speaker": "モエ",
+      "ja": "イっちゃえよ♥　ザコザコおじさんっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "414.0",
+      "line_index": 414,
+      "inline_index": 0,
+      "line_hash": "f6dfe72f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐうううっ！！　出っ……！　うっ、うう゛っ！！",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "7cc329b8",
+      "speaker": "モエ",
+      "ja": "あははははっ♥　出てる出てるっ♥　すごいすごい、敗北ザーメンいっぱい出てるぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "14c99186",
+      "speaker": "モエ",
+      "ja": "ほらぁ、もっとどっぴゅんしちゃえっ♥　ぐりぐりぐり～っ！♥",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "c37abfa7",
+      "speaker": "{G_PlayerName}",
+      "ja": "や、やめ゛っ……！　うううううううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "427.0",
+      "line_index": 427,
+      "inline_index": 0,
+      "line_hash": "8222e6c8",
+      "speaker": "",
+      "ja": "ガマンの限界を迎え、モエの手コキに負けた俺。そんな俺を嘲笑いながら肉棒を扱き、何度も精液を搾り出す。",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "4933af73",
+      "speaker": "",
+      "ja": "まるで睾丸の中の精液がすべて抜けるような強烈すぎる経験に、完全に頭の中が真っ白になってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "432.0",
+      "line_index": 432,
+      "inline_index": 0,
+      "line_hash": "1a402529",
+      "speaker": "モエ",
+      "ja": "んー……もう終わり？♥　最初は勢い良かったんだけどねぇ～……♥　ま、いっぱい出たし、おじさんも満足できたでしょ？♥",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "ec4749b9",
+      "speaker": "モエ",
+      "ja": "でもぉ、今の記憶も巻き戻っちゃうんだよね～♥　そんで次もおじさんはモエに敗北しちゃうの♥　永遠にそれが続くんだよ♥",
+      "zh": ""
+    },
+    {
+      "key": "438.0",
+      "line_index": 438,
+      "inline_index": 0,
+      "line_hash": "5e8d77ab",
+      "speaker": "モエ",
+      "ja": "だから次はさっさと射精してよね。ガマンなんて無駄な努力なんだからさ♥　じゃあね、敗北おじさんっ♥　くすくすくすっ♥",
+      "zh": ""
+    },
+    {
+      "key": "440.0",
+      "line_index": 440,
+      "inline_index": 0,
+      "line_hash": "e9d55378",
+      "speaker": "",
+      "ja": "モエは俺に興味を失い、嘲笑いながら去っていく。",
+      "zh": ""
+    },
+    {
+      "key": "441.0",
+      "line_index": 441,
+      "inline_index": 0,
+      "line_hash": "b08d252c",
+      "speaker": "",
+      "ja": "俺は立っていることすらできなくなり、その場にへたり込みながら、強烈な快感の余韻に浸ってしまっていたのであった。",
+      "zh": ""
+    }
+  ]
+}

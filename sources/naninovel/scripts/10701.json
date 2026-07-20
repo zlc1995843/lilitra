@@ -1,0 +1,1903 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "aa704865",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふっふっふっふ……",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "835b4787",
+      "speaker": "{G_PlayerName}",
+      "ja": "はーっはっはっは！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "75acdcb1",
+      "speaker": "",
+      "ja": "高笑いと共に、演技がかった動きで椅子から立ち上がる。睡眠不足によって痺れた脳が揺れ、じんわりと痛んだ。",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "e6a5ea21",
+      "speaker": "{G_PlayerName}",
+      "ja": "はっは……はぁ～あ……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "5417e70a",
+      "speaker": "",
+      "ja": "深い溜息で高笑いを締めくくり、机上の球体に目を落とす。ここ一週間ほどの努力の集大成、新しい爆弾を見つめていると、自然と笑みがこぼれた。",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "1bf17f61",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー……ついに出来た！　ベルに色々教えてもらった甲斐があったな……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "4fd5a83b",
+      "speaker": "",
+      "ja": "火と荒野の星の爆弾作りの技術は、初歩的な物を除けば基本的に門外不出。ベルもそれは変わらなかった。",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "b6ddcb73",
+      "speaker": "",
+      "ja": "が、ベルはちょろ……口が軽く、おだて……誘導すれば知りたい技術を聞き出すのは難しくなかった。",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "c6c6f754",
+      "speaker": "",
+      "ja": "結果的に、全てでは無いにしろ必要としている最低限の部分は、何とか聞き出すことが出来たということだ。",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "a05645b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まあ、流石に火竜草の根は使えなかったけどな……ちょっとでも火の気があれば大爆発する材料なんて使えるわけないけど……）",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "fb3bc049",
+      "speaker": "アポロ",
+      "ja": "{G_PlayerName}様",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "b61e591d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわああっ！？　……ア、アポロか！　毎回毎回驚かせるなっ！",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "9ad7b6a",
+      "speaker": "アポロ",
+      "ja": "毎回毎回驚かないでください。……自室とは言え、あまり挙動不審な振る舞いを見せるのはどうかと",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "79bcf0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分の部屋なら別にいいだろ！　……っていうか、挙動不審とは何だ！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "6cbaa5e7",
+      "speaker": "アポロ",
+      "ja": "それ以外にアナタの動きを指す言葉を、ワタシと言えども見つけるのは難しいです",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "35362b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "少しくらい仕方ないだろ、苦労して作った爆弾が完成したんだから……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "fa56253a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それで～、爆弾がちゃんと使えるかテストしたいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "6fa1af23",
+      "speaker": "アポロ",
+      "ja": "船内では許可いたしません",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "9c8bc660",
+      "speaker": "{G_PlayerName}",
+      "ja": "だよなー。まあ仕方ないか",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "3736efba",
+      "speaker": "アポロ",
+      "ja": "次降りた星で、好きに試せばよろしいでしょう",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "8173f85f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……殺傷力は無いから大丈夫と思うんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "9c1b8fce",
+      "speaker": "アポロ",
+      "ja": "信用なりませんね。……では、身なりを整えたらラウンジへ来てください",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "98d36201",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラウンジ？　なんで？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "df649229",
+      "speaker": "アポロ",
+      "ja": "アナタの体内にあるルナリングについて、お話があります",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "1073f226",
+      "speaker": "コハル",
+      "ja": "ルナリングが……今までの謎の機械と、同じ技術が使われている？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "38ed301d",
+      "speaker": "アポロ",
+      "ja": "可能性は高いです",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "a1db26b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "で……でもこのルナリングって、ルミナ達が住んでた星の国宝？　なんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "c41372a0",
+      "speaker": "ルミナ",
+      "ja": "色々、話し合ったんだけど……ルナリングって、そもそもは……王族に受け継がれてきた、すっごく昔の……謎の、機械なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "23ad6a27",
+      "speaker": "コハル",
+      "ja": "同じ謎の機械だから……ってこと？　それだけじゃ同じ物ってことにはならないんじゃ……？",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "8cb4abb3",
+      "speaker": "アポロ",
+      "ja": "火と荒野の星にて発見した機械を調査した結果、ルナリングに対して干渉を避けた可能性が、非常に高いログが発見されました",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "df0a7c36",
+      "speaker": "{G_PlayerName}",
+      "ja": "それって……？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "7749b3f9",
+      "speaker": "アポロ",
+      "ja": "どのような設定が行われていたかはわかりませんが、同型機との衝突を避けるために作られた設定の可能性があります",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "dc2abe2f",
+      "speaker": "",
+      "ja": "シン、と全員静まり返る。俺の胸……ルナリングに向けて視線が集まり、しばらく沈黙が流れたが、雫が口火を切った。",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "f381d26e",
+      "speaker": "雫",
+      "ja": "ですが、その情報が一体何の役に立つのでしょうか。……まあ、国宝について新しい情報が手に入ったとあれば、母星の研究者たちは垂涎ものかも知れませんが",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "fa671d1f",
+      "speaker": "雫",
+      "ja": "今後は機械士を矢面に立たせればよい、という結論になるのであれば、歓迎しますけどね",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "6ef71d7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "冗談でもやめてくれ……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "910fe3b3",
+      "speaker": "アポロ",
+      "ja": "得た情報の共有というだけです。何もわからないままと思われるのも癪ですからね",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "2d347cbe",
+      "speaker": "雫",
+      "ja": "……母星に帰りついた暁には、歴史を変える大発見のような扱いを受けるかも知れませんね",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "747af7ae",
+      "speaker": "雫",
+      "ja": "ふふ……そしてルミナ様は歴代で最も賢く、奇跡を起こした女王として崇め奉られるのです……ふふ……",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "1607ebe6",
+      "speaker": "コハル",
+      "ja": "雫……怖いから遠い目して笑わないでよ……",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "73a0191",
+      "speaker": "アポロ",
+      "ja": "気を取り直して、別の共有情報です。……エネルギーの関係で、付近の文明がある星に着陸します",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "da2a1cc1",
+      "speaker": "コハル",
+      "ja": "えっ！？　エネルギーの関係……って、落ちるってコト！？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "1878bcc5",
+      "speaker": "アポロ",
+      "ja": "落ちません。着陸には余裕がありますが別の星を目指すには不十分ということです",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "6acd9769",
+      "speaker": "コハル",
+      "ja": "なんだ……びっくりした……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "2645b9ec",
+      "speaker": "アポロ",
+      "ja": "ワタシを何だと思っているのですか。次の星で一部の機能をスリープさせ、ある程度の有機物を取り込み次第飛び立ちます",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "2042ff55",
+      "speaker": "{G_PlayerName}",
+      "ja": "どれくらいで到着するんだ？",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "150d99b1",
+      "speaker": "アポロ",
+      "ja": "約２時間後には。着陸準備をお願いします",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "3ca36879",
+      "speaker": "コハル",
+      "ja": "わー！　着いた、着いた！",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "25bff85e",
+      "speaker": "{G_PlayerName}",
+      "ja": "随分慣れたもんだな……",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "7a7236d6",
+      "speaker": "コハル",
+      "ja": "そりゃ、色んな星にいっぱい行ったもんね！　そろそろ慣れるわよ！",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "b29e9045",
+      "speaker": "{G_PlayerName}",
+      "ja": "（前に『何度体験しても慣れない』みたいなこと言ってなかったっけ……）",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "d3224821",
+      "speaker": "アポロ",
+      "ja": "ステルス機能解除。これより一部の機能は出発するまでスリープ状態に入ります",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "b855ed1e",
+      "speaker": "コハル",
+      "ja": "ステルス機能を使ったってことは、ここは宇宙技術が無い星なのね",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "e2c071c2",
+      "speaker": "アポロ",
+      "ja": "はい。ですが、街の近くに丁度良いスペースがございましたので、そちらに降りています。少し歩けばすぐに街に出ます",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "bd5f970c",
+      "speaker": "コハル",
+      "ja": "どれくらいに戻ればいいの？　……あと、どんな所か知ってる？",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "3e544fc1",
+      "speaker": "アポロ",
+      "ja": "エネルギーの変換には一晩かかります。本日中に戻っていただければ問題ございません",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "cefb7106",
+      "speaker": "アポロ",
+      "ja": "そして、ここは『宴と平和の星』という名で知られた惑星です。１つの国が栄えている、人と人の争いが無縁の星……らしいです",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "8f2203f9",
+      "speaker": "コハル",
+      "ja": "らしいですって……知らないの？",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "9353cff0",
+      "speaker": "ルミナ",
+      "ja": "私も……聞いたことない星、だね",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "3eaa390",
+      "speaker": "アポロ",
+      "ja": "ここの星の情報はとても長く……百年以上は更新されてません",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "994c93a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "百年！？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "4baf3b26",
+      "speaker": "アポロ",
+      "ja": "……近くに他の星どころか目立ったものが何も無く、ここを通る理由が無いのです。母星へ急いで帰るのでも無ければ、このルートは設定されませんでした",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "48717c8a",
+      "speaker": "コハル",
+      "ja": "はあ……でも、まだ街は残ってるのよね？　ちょっと不安だけど……",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "d3feee7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "不安なんていつものことだろ。早く降りてみようぜ！",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "b061360c",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}くん、なんだかいつもより、元気、だね……？",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "8eacb9e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　あ、ああ……まあな！　ちょっとほら、大きな作業が終わったから……",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "77279a87",
+      "speaker": "コハル",
+      "ja": "怪しいわね～、変なことやらかさないでよ！？",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "d16fa94",
+      "speaker": "{G_PlayerName}",
+      "ja": "（くっ……爆弾のテストはまた今度にしておくか……）",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "3dbc0e82",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ……",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "8d33b158",
+      "speaker": "",
+      "ja": "街に入った瞬間、軽やかな音楽と人々の笑顔に迎え入れられた。道行く人は酒を飲み交わしたり、風船を空へ飛ばしながら歌ったり、踊ったりしている。",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "cfab1151",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんていうか……今までも人がいっぱいいる星はいたけど……",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "a3645e9b",
+      "speaker": "コハル",
+      "ja": "お祭り中、なのかしら？　流石にこの賑わいようは普通じゃないわよね？",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "b6b4f500",
+      "speaker": "ルミナ",
+      "ja": "それでも……今まで見たお祭りより、ずっと賑やか、だね……",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "a10c01cc",
+      "speaker": "酔った男性",
+      "ja": "なんだいあんたら、どっか行ってたのかい？",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "b95cc136",
+      "speaker": "",
+      "ja": "話していると、男がこちらへ近づいてきた。酒瓶を抱えているのを見て身構えるが、表情や足取りはしっかりしていて少し安心する。",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "2ef5b4d6",
+      "speaker": "雫",
+      "ja": "少し外で仕事をしていまして。今戻ったところなのです",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "d5d2b31d",
+      "speaker": "酔った男性",
+      "ja": "仕事ぉ！？　ダメだよこんな、めでたい日に仕事なんて！　建国祭だぞ！？",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "396b26e8",
+      "speaker": "酔った男性",
+      "ja": "なにせ、この国が生まれてから……５００年、今日がピッタリの記念日だ！　何日も前から続いてる興奮も最高潮よ！",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "5c447178",
+      "speaker": "雫",
+      "ja": "……なんと。それはそれは……",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "3ab1d15",
+      "speaker": "酔った男性",
+      "ja": "なんだよ、忘れてたのかぁ？　まあ、ずーっと祭りやってりゃ、仕方ないか……とにかく、祭りを楽しめよ～！",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "535aa0c6",
+      "speaker": "",
+      "ja": "そう言うと、男は別の酒を飲んでいる集団へと溶け込んでいった。あまりの人の多さに、一瞬で男を見失ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "f687c0b0",
+      "speaker": "ルミナ",
+      "ja": "５００年目の、建国祭……その当日に、ちょうど１日だけ降り立つ、なんて……",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "bd37300f",
+      "speaker": "コハル",
+      "ja": "もしかしてすっごくラッキー！？",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "9908a468",
+      "speaker": "雫",
+      "ja": "天文学的確率でございますね。流石はルミナ様です",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "9a1e26fe",
+      "speaker": "ルミナ",
+      "ja": "わ、私だけじゃないよ……皆、ラッキー、だね……",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "d532c1c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふっ、ルミナは祭り好きだからな。案外、ルミナのおかげかも知れないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "7b4d5982",
+      "speaker": "ルミナ",
+      "ja": "お、お祭りが嫌いな人なんて……あまり、いないんじゃないかな……？　人混みはともかく……",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "44031004",
+      "speaker": "雫",
+      "ja": "では、ルミナ様に感謝を忘れず祭りを楽しみましょう",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "fd9bd4e",
+      "speaker": "コハル",
+      "ja": "そこら中で乾杯と笑い声……この感じ間違いなく、凄い大安売りの予感……！",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "e418a7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "大安売りって……こんな時くらい、節約しないで楽しんでもいいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "69c7c25d",
+      "speaker": "コハル",
+      "ja": "こんな時こそよ！　長い旅、どんな時にお金や物が不足して困るかわかんないんだから！",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "424e57a4",
+      "speaker": "コハル",
+      "ja": "……あ、でも節約するのはあたしだけでいいから。皆はお祭り、楽しんでね！",
+      "zh": ""
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "e7356968",
+      "speaker": "雫",
+      "ja": "……この人混みでは、少し不安ですね。わたくしも行ってまいります",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "82af99f6",
+      "speaker": "雫",
+      "ja": "機械士……いや男！　ルミナ様をしっかりとお守りするのですよ！",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "c66c5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……どちらかというと、俺が守られる側になりそうなんだが……",
+      "zh": ""
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "742f0dd1",
+      "speaker": "ルミナ",
+      "ja": "雫も、{G_PlayerName}くんのこと……少しずつ、信頼してくれてるってこと、だよ",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "e1656b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかな……そうだな、前ならルミナと俺を２人になんて絶対しなかったしな",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "a6d8f655",
+      "speaker": "",
+      "ja": "はた、と２人になった事に今更気づく。見れば、ルミナもどこか気恥ずかしそうだ。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "5bc3eb42",
+      "speaker": "{G_PlayerName}",
+      "ja": "と、とりあえず……祭り、楽しむか！　時間も限られてるわけだし……",
+      "zh": ""
+    },
+    {
+      "key": "315.1",
+      "line_index": 315,
+      "inline_index": 1,
+      "line_hash": "45b5b8e7",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……！",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "cd6b58b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……こんな中歩いてたら、絶対はぐれるな。手をつなごう",
+      "zh": ""
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "1c2675e3",
+      "speaker": "ルミナ",
+      "ja": "えっ！？　う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "22e6f6d4",
+      "speaker": "",
+      "ja": "そして俺達は祭りを楽しみ始めた、のだが……",
+      "zh": ""
+    },
+    {
+      "key": "332.0",
+      "line_index": 332,
+      "inline_index": 0,
+      "line_hash": "84252a92",
+      "speaker": "男性",
+      "ja": "そこいく兄ちゃん！　かわいい彼女連れてるなぁ！　プレゼントにどうだい、このネックレス！",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "8b399d1d",
+      "speaker": "女性",
+      "ja": "あら～可愛らしいお嬢さん！　お花配ってるのよ、どうぞ！　そっちの男の人も！",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "8c3ec864",
+      "speaker": "男性",
+      "ja": "おっとごめんよ、今からここはダンス会場になるから、あっちを通ってくれ！",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "b5339607",
+      "speaker": "女性",
+      "ja": "みなさ～ん！　配った紙は持ってますか～！？　それでは今から、最初のキーワードを発表しま～す！",
+      "zh": ""
+    },
+    {
+      "key": "350.0",
+      "line_index": 350,
+      "inline_index": 0,
+      "line_hash": "a4f0be78",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いや本当に人が多いな！　全然ゆっくり回れないぞ！",
+      "zh": ""
+    },
+    {
+      "key": "352.1",
+      "line_index": 352,
+      "inline_index": 1,
+      "line_hash": "cde319fa",
+      "speaker": "ルミナ",
+      "ja": "……だね。声も……凄く近くないと、聞こえない……し……",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "5623295b",
+      "speaker": "",
+      "ja": "街の隅、人が少ないカフェ……と言ってもほぼ満席ではあるが、なんとか人がごった返していない空間を見つけて滑り込んだ。",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "7d7c660",
+      "speaker": "",
+      "ja": "手を繋いでいて良かった。もし繋いでいなければ、ものの数秒でルミナとはぐれてしまっただろう。",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "44bb5e4a",
+      "speaker": "{G_PlayerName}",
+      "ja": "この赤い飲み物、美味しいな……何かよくわかんないけど……",
+      "zh": ""
+    },
+    {
+      "key": "360.1",
+      "line_index": 360,
+      "inline_index": 1,
+      "line_hash": "8c62423e",
+      "speaker": "ルミナ",
+      "ja": "そうだね……甘酸っぱい……これ、多分……",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "d433f883",
+      "speaker": "？？？",
+      "ja": "ヒネの実の果汁と、ヒネの葉から作ったお茶を混ぜた飲み物ですよ",
+      "zh": ""
+    },
+    {
+      "key": "369.1",
+      "line_index": 369,
+      "inline_index": 1,
+      "line_hash": "1def405d",
+      "speaker": "ナハト",
+      "ja": "初めまして、わたくしナハトと申します。お祭りは楽しんでいただけているでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "e5d54285",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……は、はい！　とても楽しいです",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "1332f6ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ここ、本当に話しかけてくる人ばっかりだな……）",
+      "zh": ""
+    },
+    {
+      "key": "375.1",
+      "line_index": 375,
+      "inline_index": 1,
+      "line_hash": "17850d9b",
+      "speaker": "ルミナ",
+      "ja": "ルミナ、です……ナハトさんは……ここの店員の方、じゃあない……ですよね……？",
+      "zh": ""
+    },
+    {
+      "key": "377.1",
+      "line_index": 377,
+      "inline_index": 1,
+      "line_hash": "149d36f5",
+      "speaker": "ナハト",
+      "ja": "ふふ、はい。通りがかっただけの一般人です。見慣れない方がいらっしゃったので、つい話しかけてしまいました",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "e8fcd5ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "見慣れない方……って……",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "a7d3966d",
+      "speaker": "",
+      "ja": "思わずあたりを見回す。店内はさほどでもないが、人々の往来からは見慣れた顔を探すほうが困難に見える。",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "cb74cdae",
+      "speaker": "{G_PlayerName}",
+      "ja": "……これだけの人の顔、覚えてるとでも……？",
+      "zh": ""
+    },
+    {
+      "key": "385.1",
+      "line_index": 385,
+      "inline_index": 1,
+      "line_hash": "ad22ea78",
+      "speaker": "ナハト",
+      "ja": "ええ！　勿論でございます",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "a8639eee",
+      "speaker": "",
+      "ja": "こともなげに言い放たれ、少し驚いてしまう。……冗談だろうか？",
+      "zh": ""
+    },
+    {
+      "key": "389.1",
+      "line_index": 389,
+      "inline_index": 1,
+      "line_hash": "dc0de9d7",
+      "speaker": "ルミナ",
+      "ja": "ナハトさん……は、この祭りの……運営の方、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "391.1",
+      "line_index": 391,
+      "inline_index": 1,
+      "line_hash": "4e27a94d",
+      "speaker": "ナハト",
+      "ja": "……そうですね。全体の管理をさせていただいております",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "32db52e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ！　凄いなあ……って、一般人ってウソじゃないですか",
+      "zh": ""
+    },
+    {
+      "key": "395.1",
+      "line_index": 395,
+      "inline_index": 1,
+      "line_hash": "47e23c7d",
+      "speaker": "ナハト",
+      "ja": "あら、失礼いたしました。普通の人間ではございますから……",
+      "zh": ""
+    },
+    {
+      "key": "397.1",
+      "line_index": 397,
+      "inline_index": 1,
+      "line_hash": "20a648a",
+      "speaker": "ルミナ",
+      "ja": "ふふ……それにしても……５００年って、凄い、ですよね……",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "39ebbfd3",
+      "speaker": "{G_PlayerName}",
+      "ja": "だよなあ。５００年も国が続くなんて……",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "f918a1f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どうやったら……って聞くのもおかしいか。ええと……）",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "df7dc4e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでこんなに続いたんだろうな。１番大きい要因って何なんだろう？",
+      "zh": ""
+    },
+    {
+      "key": "405.1",
+      "line_index": 405,
+      "inline_index": 1,
+      "line_hash": "5096df92",
+      "speaker": "ナハト",
+      "ja": "やはり……国のセキュリティ、『ベルディグリス』の働きが大きいでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "407.1",
+      "line_index": 407,
+      "inline_index": 1,
+      "line_hash": "d4908ca0",
+      "speaker": "ルミナ",
+      "ja": "ベルディ……グリス？",
+      "zh": ""
+    },
+    {
+      "key": "409.1",
+      "line_index": 409,
+      "inline_index": 1,
+      "line_hash": "5e102039",
+      "speaker": "ナハト",
+      "ja": "最近の教育には取り入れられていなかったでしょうか？　国を守るため、様々な機能が備わったセキュリティですよ",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "9ca18a00",
+      "speaker": "{G_PlayerName}",
+      "ja": "（宇宙技術は無いって聞いてたけど……そういう機械を作る技術はあるのか？）",
+      "zh": ""
+    },
+    {
+      "key": "413.1",
+      "line_index": 413,
+      "inline_index": 1,
+      "line_hash": "fa07cebc",
+      "speaker": "ルミナ",
+      "ja": "（ずっと情報が無かったから……知らないうちに、それくらい技術が進んだ、のかも？）",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "283d0736",
+      "speaker": "ナハト",
+      "ja": "ベルディグリスが健在なうちは、この国がこの国でいられるでしょうね。……",
+      "zh": ""
+    },
+    {
+      "key": "417.1",
+      "line_index": 417,
+      "inline_index": 1,
+      "line_hash": "c6808386",
+      "speaker": "ナハト",
+      "ja": "いけない。もう行かなくては……それでは、失礼いたします。祭を楽しんでくださいね",
+      "zh": ""
+    },
+    {
+      "key": "419.0",
+      "line_index": 419,
+      "inline_index": 0,
+      "line_hash": "c083ce95",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……はい、人が多いんで、気をつけてください",
+      "zh": ""
+    },
+    {
+      "key": "426.0",
+      "line_index": 426,
+      "inline_index": 0,
+      "line_hash": "b3a12469",
+      "speaker": "{G_PlayerName}",
+      "ja": "行っちゃったな。なんか結構偉い人だったみたいだけど……",
+      "zh": ""
+    },
+    {
+      "key": "428.1",
+      "line_index": 428,
+      "inline_index": 1,
+      "line_hash": "a76cafa7",
+      "speaker": "ルミナ",
+      "ja": "そう……だね。立ち振る舞いに品があって……星によって作法は色々違うはずなのに、全然不快じゃなかった……",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "27ca142",
+      "speaker": "{G_PlayerName}",
+      "ja": "……っと。飲み終わったし、別のところに行ってみるか",
+      "zh": ""
+    },
+    {
+      "key": "432.1",
+      "line_index": 432,
+      "inline_index": 1,
+      "line_hash": "1569d08e",
+      "speaker": "ルミナ",
+      "ja": "うん……！",
+      "zh": ""
+    },
+    {
+      "key": "443.0",
+      "line_index": 443,
+      "inline_index": 0,
+      "line_hash": "8e21c6a8",
+      "speaker": "",
+      "ja": "それからしばらく街を歩き回った。",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "4763b329",
+      "speaker": "",
+      "ja": "どこを歩いても何かの催しがあり、見世物があり、食べ物がある。当然かも知れないが、本当に国全体を興している祭りのようだ。",
+      "zh": ""
+    },
+    {
+      "key": "447.0",
+      "line_index": 447,
+      "inline_index": 0,
+      "line_hash": "47817c59",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし、祭りって言ったらどこでもやる事は変わらないんだな。なんか、前の夏祭りを思い出すよ",
+      "zh": ""
+    },
+    {
+      "key": "449.1",
+      "line_index": 449,
+      "inline_index": 1,
+      "line_hash": "43d57cce",
+      "speaker": "ルミナ",
+      "ja": "そう……だね……人を楽しませる事は、どの星でも同じなのかも……",
+      "zh": ""
+    },
+    {
+      "key": "451.0",
+      "line_index": 451,
+      "inline_index": 0,
+      "line_hash": "c2b77d85",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　あれは……",
+      "zh": ""
+    },
+    {
+      "key": "461.0",
+      "line_index": 461,
+      "inline_index": 0,
+      "line_hash": "863142b1",
+      "speaker": "？？？",
+      "ja": "うおーっ！　誰か、ジラド様を止めてみせろ～！",
+      "zh": ""
+    },
+    {
+      "key": "464.0",
+      "line_index": 464,
+      "inline_index": 0,
+      "line_hash": "344295fc",
+      "speaker": "",
+      "ja": "ジラド、と名乗る妙な服？　を身にまとったリリアンが、広場で暴れまわっているのが遠目に見える。",
+      "zh": ""
+    },
+    {
+      "key": "469.0",
+      "line_index": 469,
+      "inline_index": 0,
+      "line_hash": "6dd3a8",
+      "speaker": "",
+      "ja": "……テーブルからテーブルへと飛び移るたび、食器が吹き飛んだりイスがひっくり返ったりしているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "478.0",
+      "line_index": 478,
+      "inline_index": 0,
+      "line_hash": "28921044",
+      "speaker": "{G_PlayerName}",
+      "ja": "……前言撤回だな。あの祭りのノリにはちょっと乗れなさそうだ",
+      "zh": ""
+    },
+    {
+      "key": "480.1",
+      "line_index": 480,
+      "inline_index": 1,
+      "line_hash": "d9a6b774",
+      "speaker": "ルミナ",
+      "ja": "そう……だね。危ないから、別の場所に行こうか……",
+      "zh": ""
+    },
+    {
+      "key": "489.0",
+      "line_index": 489,
+      "inline_index": 0,
+      "line_hash": "dd992546",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー、流石に疲れた！",
+      "zh": ""
+    },
+    {
+      "key": "491.0",
+      "line_index": 491,
+      "inline_index": 0,
+      "line_hash": "997c4b6e",
+      "speaker": "",
+      "ja": "結局、宇宙船を出てから何時間経ったのか。お腹もいっぱい、足も軋み始めたのでルミナと２人、近くの花壇に腰掛けた。",
+      "zh": ""
+    },
+    {
+      "key": "493.1",
+      "line_index": 493,
+      "inline_index": 1,
+      "line_hash": "744afc8c",
+      "speaker": "ルミナ",
+      "ja": "お疲れ様、{G_PlayerName}くん……いっぱい遊んだね",
+      "zh": ""
+    },
+    {
+      "key": "495.0",
+      "line_index": 495,
+      "inline_index": 0,
+      "line_hash": "e24e518",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当になー……しばらく祭は大丈夫かもな……しかし",
+      "zh": ""
+    },
+    {
+      "key": "497.0",
+      "line_index": 497,
+      "inline_index": 0,
+      "line_hash": "69f11337",
+      "speaker": "",
+      "ja": "思い出したように……というか、実際今思い出して、空を見上げる。",
+      "zh": ""
+    },
+    {
+      "key": "499.0",
+      "line_index": 499,
+      "inline_index": 0,
+      "line_hash": "27f5bc13",
+      "speaker": "{G_PlayerName}",
+      "ja": "結構時間経った……よな？　全然暗くならないな。今って何時かわかるか？",
+      "zh": ""
+    },
+    {
+      "key": "501.1",
+      "line_index": 501,
+      "inline_index": 1,
+      "line_hash": "41999240",
+      "speaker": "ルミナ",
+      "ja": "もう……普通の星なら夜だね",
+      "zh": ""
+    },
+    {
+      "key": "503.0",
+      "line_index": 503,
+      "inline_index": 0,
+      "line_hash": "908d95",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　なんでだ？　えーっと……ビャクヤってやつか？",
+      "zh": ""
+    },
+    {
+      "key": "505.1",
+      "line_index": 505,
+      "inline_index": 1,
+      "line_hash": "c5fb891c",
+      "speaker": "ルミナ",
+      "ja": "星の回転がゆっくりなのかな……？　大きさとか、回る速さでお昼の時間は変わるから。この星はそうなのかも",
+      "zh": ""
+    },
+    {
+      "key": "507.0",
+      "line_index": 507,
+      "inline_index": 0,
+      "line_hash": "86ccaca0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……",
+      "zh": ""
+    },
+    {
+      "key": "516.0",
+      "line_index": 516,
+      "inline_index": 0,
+      "line_hash": "16fc7445",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！　……びっくりした。今のって、花火か？",
+      "zh": ""
+    },
+    {
+      "key": "518.1",
+      "line_index": 518,
+      "inline_index": 1,
+      "line_hash": "695d297a",
+      "speaker": "ルミナ",
+      "ja": "そうみたい、だね。ちょっと、真宵さんが上げるのとは違う、みたいだけど……",
+      "zh": ""
+    },
+    {
+      "key": "520.0",
+      "line_index": 520,
+      "inline_index": 0,
+      "line_hash": "14d22589",
+      "speaker": "",
+      "ja": "見れば、子どもたちが何か小さな物を持って遊んでいる。あれが強い光を出したようだ。",
+      "zh": ""
+    },
+    {
+      "key": "522.0",
+      "line_index": 522,
+      "inline_index": 0,
+      "line_hash": "917c05ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あれも何かの参考に出来たかもな。流石に目が眩むほどじゃないけど……",
+      "zh": ""
+    },
+    {
+      "key": "524.1",
+      "line_index": 524,
+      "inline_index": 1,
+      "line_hash": "b1cc8558",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん？",
+      "zh": ""
+    },
+    {
+      "key": "526.0",
+      "line_index": 526,
+      "inline_index": 0,
+      "line_hash": "c0edc825",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ごめんごめん。何でもない",
+      "zh": ""
+    },
+    {
+      "key": "528.1",
+      "line_index": 528,
+      "inline_index": 1,
+      "line_hash": "1f26250e",
+      "speaker": "ルミナ",
+      "ja": "……ねえ、{G_PlayerName}くん。見てて？",
+      "zh": ""
+    },
+    {
+      "key": "530.0",
+      "line_index": 530,
+      "inline_index": 0,
+      "line_hash": "dfbc20f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？",
+      "zh": ""
+    },
+    {
+      "key": "533.0",
+      "line_index": 533,
+      "inline_index": 0,
+      "line_hash": "96f0af20",
+      "speaker": "",
+      "ja": "ルミナが、持っていた紙袋の端っこを指差す。何かと思って見ていたが……",
+      "zh": ""
+    },
+    {
+      "key": "544.0",
+      "line_index": 544,
+      "inline_index": 0,
+      "line_hash": "381eab09",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！",
+      "zh": ""
+    },
+    {
+      "key": "546.0",
+      "line_index": 546,
+      "inline_index": 0,
+      "line_hash": "7d7e5bfe",
+      "speaker": "",
+      "ja": "子どもたちが再び持っていた花火を光らせると、紙袋の端がはらりと落ちた。見れば、鋭利な切り口が残っている。",
+      "zh": ""
+    },
+    {
+      "key": "548.0",
+      "line_index": 548,
+      "inline_index": 0,
+      "line_hash": "13de1079",
+      "speaker": "{G_PlayerName}",
+      "ja": "今のって……ルミナがやったのか！？",
+      "zh": ""
+    },
+    {
+      "key": "550.1",
+      "line_index": 550,
+      "inline_index": 1,
+      "line_hash": "5d89060f",
+      "speaker": "ルミナ",
+      "ja": "うん。光を固めて、刃物みたいにしたの……ただ、かなり強い光が必要だから、いつでも出来るわけじゃないけど……",
+      "zh": ""
+    },
+    {
+      "key": "552.0",
+      "line_index": 552,
+      "inline_index": 0,
+      "line_hash": "e1150bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "凄いな！　じゃあ、俺が作った爆弾でも……",
+      "zh": ""
+    },
+    {
+      "key": "554.1",
+      "line_index": 554,
+      "inline_index": 1,
+      "line_hash": "d4a2ae3a",
+      "speaker": "ルミナ",
+      "ja": "爆弾？",
+      "zh": ""
+    },
+    {
+      "key": "556.0",
+      "line_index": 556,
+      "inline_index": 0,
+      "line_hash": "1ef272fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……ちょっとな。宇宙船の中に置いて来てるし、戻ったら見せるよ",
+      "zh": ""
+    },
+    {
+      "key": "558.1",
+      "line_index": 558,
+      "inline_index": 1,
+      "line_hash": "a0d51f92",
+      "speaker": "ルミナ",
+      "ja": "そろそろ、戻らないとね……あ、じゃあ、最後に……",
+      "zh": ""
+    },
+    {
+      "key": "560.0",
+      "line_index": 560,
+      "inline_index": 0,
+      "line_hash": "245948fa",
+      "speaker": "",
+      "ja": "ルミナが、ピンク色の小さい物……恐らく果物を取り出す。",
+      "zh": ""
+    },
+    {
+      "key": "562.0",
+      "line_index": 562,
+      "inline_index": 0,
+      "line_hash": "1682187d",
+      "speaker": "{G_PlayerName}",
+      "ja": "これって？",
+      "zh": ""
+    },
+    {
+      "key": "564.1",
+      "line_index": 564,
+      "inline_index": 1,
+      "line_hash": "80d91695",
+      "speaker": "ルミナ",
+      "ja": "さっき、もらったの……スッキリした味で美味しいから、これくらいなら食べられるかなって……",
+      "zh": ""
+    },
+    {
+      "key": "566.0",
+      "line_index": 566,
+      "inline_index": 0,
+      "line_hash": "9af7a748",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう、もらおうかな",
+      "zh": ""
+    },
+    {
+      "key": "568.1",
+      "line_index": 568,
+      "inline_index": 1,
+      "line_hash": "733b97d7",
+      "speaker": "ルミナ",
+      "ja": "うん……へへ、美味しい",
+      "zh": ""
+    },
+    {
+      "key": "570.0",
+      "line_index": 570,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "584.1",
+      "line_index": 584,
+      "inline_index": 1,
+      "line_hash": "fcdea762",
+      "speaker": "ルミナ",
+      "ja": "へへ、美味しい……",
+      "zh": ""
+    },
+    {
+      "key": "586.0",
+      "line_index": 586,
+      "inline_index": 0,
+      "line_hash": "1638898d",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、あんまり慌てて食べるなよ。服についてるぞ？",
+      "zh": ""
+    },
+    {
+      "key": "588.1",
+      "line_index": 588,
+      "inline_index": 1,
+      "line_hash": "8b9cc97f",
+      "speaker": "ルミナ",
+      "ja": "あれ……初めて食べたから……食べにくい、ね。このイロイチゴ？　って……",
+      "zh": ""
+    },
+    {
+      "key": "590.0",
+      "line_index": 590,
+      "inline_index": 0,
+      "line_hash": "f37bf851",
+      "speaker": "{G_PlayerName}",
+      "ja": "イロイチゴ食べたことないって……お前、どこから来たんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "592.1",
+      "line_index": 592,
+      "inline_index": 1,
+      "line_hash": "7ae76412",
+      "speaker": "ルミナ",
+      "ja": "あのね……",
+      "zh": ""
+    },
+    {
+      "key": "606.0",
+      "line_index": 606,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "608.0",
+      "line_index": 608,
+      "inline_index": 0,
+      "line_hash": "fb7687c1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……今の、村の畑……？",
+      "zh": ""
+    },
+    {
+      "key": "610.1",
+      "line_index": 610,
+      "inline_index": 1,
+      "line_hash": "e898f2f0",
+      "speaker": "ルミナ",
+      "ja": "……？　どうかした、{G_PlayerName}くん？",
+      "zh": ""
+    },
+    {
+      "key": "612.0",
+      "line_index": 612,
+      "inline_index": 0,
+      "line_hash": "3b955bf1",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……ルミナ、あのさ……",
+      "zh": ""
+    },
+    {
+      "key": "629.0",
+      "line_index": 629,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "631.0",
+      "line_index": 631,
+      "inline_index": 0,
+      "line_hash": "faf89150",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　ここって……宇宙船？",
+      "zh": ""
+    },
+    {
+      "key": "641.1",
+      "line_index": 641,
+      "inline_index": 1,
+      "line_hash": "4335a363",
+      "speaker": "コハル",
+      "ja": "……え？　い、今買った物は……？",
+      "zh": ""
+    },
+    {
+      "key": "643.1",
+      "line_index": 643,
+      "inline_index": 1,
+      "line_hash": "a7578ced",
+      "speaker": "雫",
+      "ja": "宇宙船……？　る、ルミナ様！　お体に問題はございませんか！？",
+      "zh": ""
+    },
+    {
+      "key": "645.1",
+      "line_index": 645,
+      "inline_index": 1,
+      "line_hash": "8d54f559",
+      "speaker": "ルミナ",
+      "ja": "えっ……う、うん……大丈夫……だけど、どうして……？",
+      "zh": ""
+    },
+    {
+      "key": "647.0",
+      "line_index": 647,
+      "inline_index": 0,
+      "line_hash": "cb8db71d",
+      "speaker": "",
+      "ja": "視界に入った３人。全員困惑している様子で、誰も心当たりは無いのが見て取れた。",
+      "zh": ""
+    },
+    {
+      "key": "649.1",
+      "line_index": 649,
+      "inline_index": 1,
+      "line_hash": "369317bb",
+      "speaker": "雫",
+      "ja": "テレポート……？　いや、あまりに突然過ぎます。テレポートでも説明が出来ない……",
+      "zh": ""
+    },
+    {
+      "key": "651.0",
+      "line_index": 651,
+      "inline_index": 0,
+      "line_hash": "da7cc672",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロの機能で呼び寄せられたとかじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "653.1",
+      "line_index": 653,
+      "inline_index": 1,
+      "line_hash": "d65ed7b9",
+      "speaker": "雫",
+      "ja": "そんな高度な技術がアポロに備わっているわけがないでしょう。そんな物があれば今までもっと楽に旅が出来ていました",
+      "zh": ""
+    },
+    {
+      "key": "655.0",
+      "line_index": 655,
+      "inline_index": 0,
+      "line_hash": "9b8cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……",
+      "zh": ""
+    },
+    {
+      "key": "666.1",
+      "line_index": 666,
+      "inline_index": 1,
+      "line_hash": "7306c9de",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "668.0",
+      "line_index": 668,
+      "inline_index": 0,
+      "line_hash": "6ee44c67",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ？",
+      "zh": ""
+    },
+    {
+      "key": "672.1",
+      "line_index": 672,
+      "inline_index": 1,
+      "line_hash": "d3224821",
+      "speaker": "アポロ",
+      "ja": "ステルス機能解除。これより一部の機能は出発するまでスリープ状態に入ります",
+      "zh": ""
+    },
+    {
+      "key": "674.0",
+      "line_index": 674,
+      "inline_index": 0,
+      "line_hash": "76f9f553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "676.0",
+      "line_index": 676,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": ""
+    }
+  ]
+}

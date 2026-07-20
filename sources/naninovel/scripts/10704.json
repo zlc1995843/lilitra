@@ -1,0 +1,553 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "fe581833",
+      "speaker": "ルミナ",
+      "ja": "はあ、はあ……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "517ba177",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんとか、逃げられたな……",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "515fb7fe",
+      "speaker": "ルミナ",
+      "ja": "う、うん……何事も無くて良かったね……",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "e5fd7f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし、あんなヤツもいるんだな……この星、思ってたより危ないやつ多いのかも……！",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "f3e91426",
+      "speaker": "ルミナ",
+      "ja": "ちょっと、無警戒過ぎたかな……もうちょっと、気をつけないと……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "f6d76454",
+      "speaker": "{G_PlayerName}",
+      "ja": "……でも、得たものもあったな",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "6e84767",
+      "speaker": "ルミナ",
+      "ja": "得たもの、って……？",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "2f38f1a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "モエが言ってたこと、どこまで本当かはわからないけど、全部ウソってことは無いと思うんだよな",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "95faefce",
+      "speaker": "モエ",
+      "ja": "どうせ戻るから、って……皆さん、好き勝手暴れてて。お……大変なことになって",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "b2f4c478",
+      "speaker": "モエ",
+      "ja": "でも最初のほうはそういう人もいましたが、殆どはすぐにいなくなりました",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "e923d0e5",
+      "speaker": "モエ",
+      "ja": "だってすぐに元に戻って意味が無いし……そのうち、記憶も無くなり始めるんです",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "9dd9ad10",
+      "speaker": "ルミナ",
+      "ja": "……えっ、記憶が……？　でも、モエさんは……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "dfab55ec",
+      "speaker": "モエ",
+      "ja": "あたしは大丈夫です。……何でかは、わからないんですけど",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "d408ac5e",
+      "speaker": "モエ",
+      "ja": "最初は大丈夫でも、そのうち記憶が無くなり始める人がいるんです",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "416412e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……記憶を失う人と失わない人がいて、最初は失わなくてもそのうち……っていうあたりとか",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "4496f34c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今考えたら、多分最初の「お……」って「面白いこと」って言おうとしてたんだな）",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "bc5cff8",
+      "speaker": "ルミナ",
+      "ja": "確かに……そう、だね。モエさ……んの、振る舞いと矛盾も無かったし……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "21ba46a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "つまり次は……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "1d079a80",
+      "speaker": "ルミナ",
+      "ja": "記憶が残ってる、まともな人を探せばいいんだね……！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "daec12b7",
+      "speaker": "",
+      "ja": "口に出してから、周囲の人混みに目を向ける。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "16a9dbfd",
+      "speaker": "",
+      "ja": "……国を上げての、５００年に１度の祭。今まで見てきた祭の比ではないほどの、人の量。",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "e8cb1d78",
+      "speaker": "{G_PlayerName}",
+      "ja": "……この中から？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "6fcf28ff",
+      "speaker": "ルミナ",
+      "ja": "この、中から……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "f7ac025d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……まともな人は……見つかったらラッキー、くらいで……とりあえず、時間が巻き戻ってる原因を探すか",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "8080513a",
+      "speaker": "ルミナ",
+      "ja": "そうだね……ナハト、さん……まともなリリアンさんに見えたから、見つかったらいいけど……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "d3bd986d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……あ、そういえば。確かアポロが、機械が原因なら……なんだっけ。どうこう言ってたような",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "6d2eb9b8",
+      "speaker": "ルミナ",
+      "ja": "察知しやすくなる……って言ってた、ね。帰ったら、お願いしてみようか……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "6307b7aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "通信機で今頼むのは？",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "80404cb0",
+      "speaker": "ルミナ",
+      "ja": "……もうすぐ、時間だから。今頼んでも、多分結果が出る前に……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "72aa702c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……そっか",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "45a1d27c",
+      "speaker": "{G_PlayerName}",
+      "ja": "機械が原因じゃなかった場合も一応考えておくか？　……リリアンの能力とか、呪いとか",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "1b20df05",
+      "speaker": "ルミナ",
+      "ja": "リリアンの能力……って、流石に……こんな大きな事、１人のリリアンじゃ……無理そうだけど……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "8e2d1b37",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ……そう～かな～……！？　万が一ぃ～、ってことも、あると思うっ……けどな～っ！？",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "dc4d92e4",
+      "speaker": "ルミナ",
+      "ja": "ど、どうしたの{G_PlayerName}くん……急に、喋り方……変、だよ……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "bd59510e",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……な、なんでもない……！",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "1313a9ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、今ここで色々考えてもただの当てずっぽうになっちゃうな。一度情報をまとめてみるか？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "c4f94d3f",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "ae96abd5",
+      "speaker": "{G_PlayerName}",
+      "ja": "まず、この星は星全体の時間がずっと繰り返されてるらしい。時間は昼前から夜、まあ半日……よりちょっと長いくらいか",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "18940a87",
+      "speaker": "ルミナ",
+      "ja": "しっかり時間を確認して……どれくらいか、見てみないとね……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "137b5da9",
+      "speaker": "{G_PlayerName}",
+      "ja": "だな。あと……前と同じ行動をしている人もいれば、してない人もいる。多分記憶が続いてるか続いてないかが関係してそうだな",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "67ee019b",
+      "speaker": "ルミナ",
+      "ja": "あと、私達が……何をしたかで、影響して……変わってるかも……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "b3a764af",
+      "speaker": "{G_PlayerName}",
+      "ja": "ナハト、来なかったな。いや来たのかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "efdf7ed0",
+      "speaker": "ルミナ",
+      "ja": "私達の顔を見て、って言ってたから……私達の動き方が影響したのかも……",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "1f086404",
+      "speaker": "{G_PlayerName}",
+      "ja": "次は会えるといいな。……リリアンは記憶が残ってる事が多い？　かも知れないらしいな。ナハトさんはリリアンだよな？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "fc575aaf",
+      "speaker": "ルミナ",
+      "ja": "多分、ね……危ない人も……いた、けど……リリアンさんを見つけたら、出来るだけ話しかけてみたい、ね……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "fb3e4fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "かなり長い間この時間に閉じ込められて、おかしくなってるヤツもいる、と。モエみたいなヤツにまた引っかからないようにしないとな",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "bb86a625",
+      "speaker": "ルミナ",
+      "ja": "雫とコハルさ……ちゃんにも、教えないと……",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "54b272a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "危ない目にあってないといいけど……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "5c28661d",
+      "speaker": "ルミナ",
+      "ja": "うん……あ……そろそろ、時間……だね",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "3f247a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうそんな時間か！？　……モエに引っ掻き回されて時間がかかっちゃったんだな",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "f829ea9f",
+      "speaker": "ルミナ",
+      "ja": "……でも、もしかしたら……直ってる、かも？　時間がまた戻るかはわからない……よね",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "2f42ff8e",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　そう簡単に直るか～？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "8e135e0a",
+      "speaker": "ルミナ",
+      "ja": "だって……私達が来たことで、色々変わってるなら……直ることも、あるかも……",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "65ecedd8",
+      "speaker": "{G_PlayerName}",
+      "ja": "……確かに、そうかもな。ありえないことじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "dd03e9ab",
+      "speaker": "",
+      "ja": "昔、子供が蹴った石の影響で、不治の病にかかった王様が助かる物語を聞いたことがあるのを思い出した。",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "4fe0d510",
+      "speaker": "",
+      "ja": "帰ったら、プラネタリウムで流すのもいいか……いや、俺の宇宙の旅を話したらウケるかも知れないな。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "e1b33835",
+      "speaker": "",
+      "ja": "……とか考えていたのだが。",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "76bee914",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……アポロ？",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "d3cd7f60",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "d3224821",
+      "speaker": "アポロ",
+      "ja": "ステルス機能解除。これより一部の機能は出発するまでスリープ状態に入ります",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "96d4d61c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうなっちゃうよな",
+      "zh": ""
+    }
+  ]
+}

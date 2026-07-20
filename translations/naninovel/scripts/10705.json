@@ -1,0 +1,778 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "faafc54c",
+      "speaker": "アポロ",
+      "ja": "全く……挙動不審な動きをしていましたが、まだ続いているのですか。早く正気にお戻りください",
+      "zh": "虽然刚才动作是有点反常，但您还在继续吗？请尽快恢复正常。"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "591143dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "きょっ……まだそれ言ってたのか！",
+      "zh": "切……还在说那事啊？"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "3095a55",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いやアポロにとっては、ついさっきの事なのか。紛らわしいな……",
+      "zh": "……喂，对阿波罗来说，那件事是刚才发生的吗？真麻烦……"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "3e3e5212",
+      "speaker": "アポロ",
+      "ja": "……？　何を言っているかわかりませんが、特に用が無いならスリープモードに……",
+      "zh": "……？我不明白您在说什么。不过既然没事的话，就切换到休眠模式吧……"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "342b1734",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや待て！　ルミナ、あれ！",
+      "zh": "不，等等！露米娜，你看！"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "eb08d550",
+      "speaker": "ルミナ",
+      "ja": "そうだ……！　アポロちゃん！　この星でも、何か機械が悪さしてるかも知れない、から……探してみて、欲しいの……",
+      "zh": "是啊……！阿波罗酱！这个星球上，也许有什么机器在搞鬼也说不定……所以我想去调查一下……"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "fe705602",
+      "speaker": "アポロ",
+      "ja": "はっ。マスター、かしこまりました。……あの、まだ着いたばかりだというのにそう仰るのは、きっと何か理由があるからですよね？",
+      "zh": "哈。主人，您太急躁了。……明明才刚醒来就这么激动，肯定是有原因的吧？"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "dc3ec810",
+      "speaker": "ルミナ",
+      "ja": "うん……ごめんね、急だけど……",
+      "zh": "嗯……抱歉，是有点急了……"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "13f8bfb2",
+      "speaker": "アポロ",
+      "ja": "……ですが、しばらくエネルギーの充填が行えなくなりますが……",
+      "zh": "……不过，再这样下去，能量补充就会跟不上了……"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "db98fbb1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなの、どうせ無駄になるから後回しでいいよ",
+      "zh": "那种东西，反正也是浪费，后面再说吧。"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "32d6d98e",
+      "speaker": "アポロ",
+      "ja": "な…………",
+      "zh": "你……！！"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "af153642",
+      "speaker": "アポロ",
+      "ja": "なんですって！？　む、無駄ァ！？　ワタシの自慢、セルフエネルギージェネレーターを無駄と申しましたか！？",
+      "zh": "什么态度啊！！唔，浪费？！您说我引以为傲的自我能量发生器是浪费？！"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "3a4cbf5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　いやそういう意味じゃ……すまん、余計なこと言ったな",
+      "zh": "诶？！我不是那个意思……算了，是我多嘴了。"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "a702da0",
+      "speaker": "ルミナ",
+      "ja": "ご、ごめんねアポロちゃん……抑えて……今は、機械を探すのに集中して……",
+      "zh": "对、对不起阿波罗酱……克制一下……现在要集中精力找机器……"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "2602262b",
+      "speaker": "アポロ",
+      "ja": "くっ……！　{G_PlayerName}様にワタシの高機能を嫌というほど叩き込んでやりたいですが、マスターのご命令とあらば、仕方ありません……",
+      "zh": "唔……！虽然我很想把{G_PlayerName}先生狠狠揍一顿，让您见识下我的高性能，但既然是主人的命令，那也没办法……"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "d672f7aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あのさ、コハルと雫は……？",
+      "zh": "……那位小春和雪呢……？"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "6238dee2",
+      "speaker": "",
+      "ja": "前に巻き戻った時は、確かこの宇宙船内にいたはずだ。その２人が、今は……",
+      "zh": "之前时空回溯的时候，他们应该确实在这艘飞船里。那两个人，现在……"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "f92efb89",
+      "speaker": "アポロ",
+      "ja": "……もう降りたのでは？　忙しない方達ですね",
+      "zh": "……已经下去了吧？反正他们也不是忙人。"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "4367f7cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………！",
+      "zh": "……！"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "6f442e73",
+      "speaker": "",
+      "ja": "嫌な冷たい血液が、胸から肩へドクドクと上がってくる感触がする。無意識に、俺は外へと走り出していた。",
+      "zh": "一股令人厌恶的冰冷血液，从胸口涌上肩膀，啪嗒啪嗒地滴落。我不由自主地跑了出去。"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "11724bf9",
+      "speaker": "ルミナ",
+      "ja": "！　{G_PlayerName}くんっ！",
+      "zh": "！{G_PlayerName}君！"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "17f72940",
+      "speaker": "{G_PlayerName}",
+      "ja": "はっ、はっ……！　すみません、すみません……！",
+      "zh": "哈、哈……！对不起，对不起……！"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "ca73d50",
+      "speaker": "",
+      "ja": "人混みを掻き分けながら走る。確か前回、コハル達はこっちの道を真っ直ぐ行っていた……はずだ。",
+      "zh": "我拨开人群拼命跑。没错，上次小春他们确实是径直走了这条路……应该是。"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "673af851",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……！　待って……！",
+      "zh": "{G_PlayerName}君……！等等……！"
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "be5be40c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……！　でも、急がないとコハル達が……！",
+      "zh": "露米娜……！但是，再不快点的话小春他们……！"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "7770fcf9",
+      "speaker": "ルミナ",
+      "ja": "まだ、どうなってるか……わから、ないよ……！",
+      "zh": "还不知道情况怎么样呢……！"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "bcc07f8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかしたら、変なヤツに捕まってるのかも知れない！　早く助けないと……",
+      "zh": "说不定他们被什么怪人抓住了！得赶快去帮忙……"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "8519d554",
+      "speaker": "{G_PlayerName}",
+      "ja": "時間が巻き戻っても帰ってこない理由が、もしかしたら、死……！",
+      "zh": "就算时间回溯了也不回来，说不定他们已经……死……！"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "d45ff567",
+      "speaker": "",
+      "ja": "そう言いかけると、ルミナが口を押さえてくる。必死な表情のルミナと目が合って、ようやく頭の熱が少し冷めた。",
+      "zh": "我正要这么说，露米娜捂住了我的嘴。她用一副“你别说这种不吉利的话”的表情看着我，我总算冷静了一点。"
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "70bae51c",
+      "speaker": "ルミナ",
+      "ja": "……落ち着いて。もしかしたら、時間のループから２人だけ抜け出したのかも知れない、でしょ？",
+      "zh": "……冷静点。也许只是那两个人从时间循环里漏出来了而已，对吧？"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "8728d19c",
+      "speaker": "ルミナ",
+      "ja": "焦るのは、わかるよ。私も、雫のことを考えたら……すぐにでも何とかしたくなる。でも……",
+      "zh": "我明白你很着急。我也一样，一想到雪的事……就恨不得马上做点什么。但是……"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": "……"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "e9e47147",
+      "speaker": "",
+      "ja": "何が起こってるのか全然わからない状況。ルミナだって不安なはずだ。もしかしたら、高度な技術に詳しいルミナのほうが、よっぽど……",
+      "zh": "完全搞不清楚发生了什么。连露米娜都肯定很不安。也许还是精通技术的露米娜更靠谱些……"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "5aa45460",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ごめん。取り乱した……",
+      "zh": "……抱歉。我太冲动了。"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "af4eb08a",
+      "speaker": "ルミナ",
+      "ja": "ううん。私も……偉そうなこと言ってごめんね……",
+      "zh": "唔嗯。我也……说了些自以为是的话，对不起……"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "3bac2b11",
+      "speaker": "ルミナ",
+      "ja": "２人は……通信機、持ってるはずだから。アポロちゃんに、位置とかわからないか聞いてみるよ",
+      "zh": "那两个人……应该带着通讯器吧。去问问阿波罗酱他们位置有没有异常。"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "bcdbb242",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか！　そういう手があったか……！",
+      "zh": "对啊！还有这招啊……！"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "f5980b4f",
+      "speaker": "",
+      "ja": "胸を撫で下ろす。……自分の軽率な行動への呆れが、それでもまだ安心出来るわけじゃないという現実を上回った。",
+      "zh": "我松了一口气。但同时也意识到，自己刚才的鲁莽行为并不值得完全放心。"
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "d6e0378e",
+      "speaker": "ルミナ",
+      "ja": "……うん。見つかったらアポロちゃんが報せてくれるって",
+      "zh": "……嗯。要是找到了，阿波罗酱会通知我们的。"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "acf084b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう。……今は、とにかく話が通じる人を探して色々確認しないとな",
+      "zh": "谢谢……。现在总之先去找能通信的人，一一确认吧。"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "e950474f",
+      "speaker": "ルミナ",
+      "ja": "うん……！　一番の近道は、やっぱりナハトさんにもう一度会うことだと思うんだけど……",
+      "zh": "嗯……！最近的捷径，果然还是再去见一次纳哈特先生吧，不过……"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "f6d1629f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ……な？",
+      "zh": "是吧……嗯？"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "670254d9",
+      "speaker": "",
+      "ja": "どこからか、ガシャガシャと何かが倒れたり割れたりする音がする。",
+      "zh": "不知从哪里传来嘎沙嘎沙的声音，好像有什么东西倒了或碎了。"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "deae0be2",
+      "speaker": "",
+      "ja": "……それは、少しずつこちらに近づいてきているようだ！",
+      "zh": "……那声音，好像正一点点往这边靠近！"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "8eeee4ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだなんだ！？",
+      "zh": "什、什么情况？"
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "12171c70",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、私の後ろに……！",
+      "zh": "{G_PlayerName}君，在我后面……！"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "26907b8c",
+      "speaker": "ジラド",
+      "ja": "がおーっ！　ジラド様だぞーーーっ！",
+      "zh": "嘎喔——！是吉拉德大人来了——！"
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "18829f7f",
+      "speaker": "",
+      "ja": "人を飛び越え、踏み潰しながら怪獣……もとい、ジラドと名乗るリリアンが現れた。",
+      "zh": "那人飞越人群，踩着踩踏着摔倒的人——不对，是名叫吉拉德的莉安出现了。"
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "f633ce13",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……前見たおかしいやつ！？",
+      "zh": "啥……！这不是上次那个怪人吗？！"
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "6753086",
+      "speaker": "ジラド",
+      "ja": "オマエら！　ジラド様を差し置いて、騒ぎを起こすなんてやるじゃないか～？",
+      "zh": "喂，你们几个！把我吉拉德大人晾在一边自己闹事，还真有你们的啊~？"
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "52fc9297",
+      "speaker": "{G_PlayerName}",
+      "ja": "さ……騒ぎ？　ああ……ちょっと急いでて……",
+      "zh": "呃……闹事？啊……我正赶时间呢……"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "a481ae3f",
+      "speaker": "ジラド",
+      "ja": "ジラド様より目立とうだなんて、許せないぞー！　かかって来ーいっ！！",
+      "zh": "想比我吉拉德大人更出风头？我绝饶不了你们！！放马过来！！"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "a94bdf7d",
+      "speaker": "ルミナ",
+      "ja": "や、やっぱりこの人も……おかしくなってる！？",
+      "zh": "果、果然这个人也……变得奇怪了！？"
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "4845d9bf",
+      "speaker": "",
+      "ja": "飛びかかってくるジラド。ルミナが前に出て、お互いの手を掴み合う状態になる。",
+      "zh": "吉拉德猛地扑了过来。露米娜迎上前去，两人双手交握。"
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "132139d",
+      "speaker": "ルミナ",
+      "ja": "うっ……！　つ……強い……！　すごい力……",
+      "zh": "呃……！好、好强……！力气好大……"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "de597136",
+      "speaker": "ジラド",
+      "ja": "おっ……おお……！　なかなかやるな！　うふっ……うほほほ！",
+      "zh": "哦……哦哦！！还真有两下子！哼……哼哈哈哈！"
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "24ca366c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なに気持ち悪い笑い上げてるんだ、こいつ……！？）",
+      "zh": "（这家伙笑得真恶心……！？）"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "70c959b6",
+      "speaker": "ルミナ",
+      "ja": "くっ……！　えいっ……！",
+      "zh": "哼……！嘿……！"
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "78f2d659",
+      "speaker": "ジラド",
+      "ja": "おおっ！？",
+      "zh": "哦哦！？"
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "37c11620",
+      "speaker": "",
+      "ja": "ジラドの体が宙に少しだけ浮く。多分、ルミナが光を操る能力で何かしているのだろう。",
+      "zh": "吉拉德的身体微微飘起。大概是露米娜用光之能力做了什么。"
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "86ba84b4",
+      "speaker": "ジラド",
+      "ja": "くっ……！　このジラド様が……！　うおおっ……",
+      "zh": "哼……！本大爷我竟然……！呜哦哦……"
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "2a16fb97",
+      "speaker": "ジラドの声",
+      "ja": "ぐわーーーっ！！　覚えてろよ～～～～っ！",
+      "zh": "呜哇——！！你给我记住了——！！"
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "719d600e",
+      "speaker": "ルミナ",
+      "ja": "えっ！？",
+      "zh": "哎！？"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "8de05834",
+      "speaker": "",
+      "ja": "ジラドはそう言い残し、空へと吹き飛ばされ消えていった。……まるで投石機で射出される石のように、遥か彼方へと消えていく。",
+      "zh": "吉拉德留下这句话，被吹飞向空中消失了。……就像被投石机抛出的石头一样，飞向了遥远的天边。"
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "a5302fcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "や……やりすぎじゃないか、ルミナ！？",
+      "zh": "喂……你是不是做得太过分了，露米娜！？"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "7879ed05",
+      "speaker": "ルミナ",
+      "ja": "う……ううん。今の人……自分から吹き飛んでいった、みたい……？",
+      "zh": "唔……嗯。那个人……好像是主动飞走的……？"
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "db8a447e",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　じ、自分から？",
+      "zh": "哎！？他、他自己飞走的？"
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "5cb5dc8a",
+      "speaker": "ルミナ",
+      "ja": "うん……何だったんだろう……",
+      "zh": "嗯……到底是怎么回事……"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "2ef33ff1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……やっぱり、変なヤツだったんだな。おかしくなってるヤツの事を考えても、仕方ないんじゃないか？",
+      "zh": "……果然是个怪人。就算琢磨那些不对劲的家伙，也没办法吧？"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "30dc2686",
+      "speaker": "ルミナ",
+      "ja": "そうだね……そうかも……",
+      "zh": "也是呢……或许吧……"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "3dca49a",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうこんな時間か……前のカフェに行くか。次はナハトさんが来るかも……",
+      "zh": "已经这个时间了……去之前那家咖啡馆吧。说不定纳哈特会来……"
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "21384fa7",
+      "speaker": "ルミナ",
+      "ja": "うん！　……途中もどこかにいないか、探しながら、行こう……",
+      "zh": "嗯！……我们边走边找，看看他是不是在哪儿……"
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "10a848da",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー……途中までは、いなかったな",
+      "zh": "呼……路上没见到他。"
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "19b450a8",
+      "speaker": "ルミナ",
+      "ja": "これだけ人がいると、探しにくいね……",
+      "zh": "这么多人，找起来真不容易啊……"
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "169ef1b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "別の場所も探してみたいけど……やっぱり来るかもしれないからな",
+      "zh": "虽然也想去找其他地方，但他说不定会来这儿啊。"
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "3bb07a19",
+      "speaker": "ルミナ",
+      "ja": "待つしか、ないね……",
+      "zh": "只能等了吧……"
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "3fcac3ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょうどいいから休憩するか。すみません！",
+      "zh": "正好，休息一下吧。不好意思！"
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "702e8f5a",
+      "speaker": "ウェイトレス",
+      "ja": "お待たせいたしました！　ご注文お決まりですか？",
+      "zh": "让您久等了！请问您要点什么？"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "84dc2776",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……流石に頼んでる物は関係ないよな。別のも頼んでみるか……この青いジュースを１つください",
+      "zh": "啊……果然点的东西无所谓吧。试试其他的……请给我一杯这个蓝色果汁。"
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "3812da8a",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……私は……隣の、緑色のジュースで……",
+      "zh": "那……我要……旁边那个绿色的果汁……"
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "f66e971a",
+      "speaker": "ウェイトレス",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "e163aa51",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　あの……？",
+      "zh": "……？那个……？"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "d88aee2b",
+      "speaker": "ウェイトレス",
+      "ja": "すっ……すみません！　えっと、えっと……！",
+      "zh": "对、对不起！那个、那个……！"
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "643572a6",
+      "speaker": "ウェイトレス",
+      "ja": "お２人は……私が見てる幻覚、とかじゃ……ないですよね？",
+      "zh": "你们两位……不是我产生的幻觉，对吧？"
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "5667d605",
+      "speaker": "ルミナ",
+      "ja": "えっ……？",
+      "zh": "哎……？"
+    }
+  ]
+}

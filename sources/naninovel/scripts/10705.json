@@ -1,0 +1,778 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "faafc54c",
+      "speaker": "アポロ",
+      "ja": "全く……挙動不審な動きをしていましたが、まだ続いているのですか。早く正気にお戻りください",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "591143dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "きょっ……まだそれ言ってたのか！",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "3095a55",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いやアポロにとっては、ついさっきの事なのか。紛らわしいな……",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "3e3e5212",
+      "speaker": "アポロ",
+      "ja": "……？　何を言っているかわかりませんが、特に用が無いならスリープモードに……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "342b1734",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや待て！　ルミナ、あれ！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "eb08d550",
+      "speaker": "ルミナ",
+      "ja": "そうだ……！　アポロちゃん！　この星でも、何か機械が悪さしてるかも知れない、から……探してみて、欲しいの……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "fe705602",
+      "speaker": "アポロ",
+      "ja": "はっ。マスター、かしこまりました。……あの、まだ着いたばかりだというのにそう仰るのは、きっと何か理由があるからですよね？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "dc3ec810",
+      "speaker": "ルミナ",
+      "ja": "うん……ごめんね、急だけど……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "13f8bfb2",
+      "speaker": "アポロ",
+      "ja": "……ですが、しばらくエネルギーの充填が行えなくなりますが……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "db98fbb1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなの、どうせ無駄になるから後回しでいいよ",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "32d6d98e",
+      "speaker": "アポロ",
+      "ja": "な…………",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "af153642",
+      "speaker": "アポロ",
+      "ja": "なんですって！？　む、無駄ァ！？　ワタシの自慢、セルフエネルギージェネレーターを無駄と申しましたか！？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "3a4cbf5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　いやそういう意味じゃ……すまん、余計なこと言ったな",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "a702da0",
+      "speaker": "ルミナ",
+      "ja": "ご、ごめんねアポロちゃん……抑えて……今は、機械を探すのに集中して……",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "2602262b",
+      "speaker": "アポロ",
+      "ja": "くっ……！　{G_PlayerName}様にワタシの高機能を嫌というほど叩き込んでやりたいですが、マスターのご命令とあらば、仕方ありません……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "d672f7aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あのさ、コハルと雫は……？",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "6238dee2",
+      "speaker": "",
+      "ja": "前に巻き戻った時は、確かこの宇宙船内にいたはずだ。その２人が、今は……",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "f92efb89",
+      "speaker": "アポロ",
+      "ja": "……もう降りたのでは？　忙しない方達ですね",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "4367f7cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "6f442e73",
+      "speaker": "",
+      "ja": "嫌な冷たい血液が、胸から肩へドクドクと上がってくる感触がする。無意識に、俺は外へと走り出していた。",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "11724bf9",
+      "speaker": "ルミナ",
+      "ja": "！　{G_PlayerName}くんっ！",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "17f72940",
+      "speaker": "{G_PlayerName}",
+      "ja": "はっ、はっ……！　すみません、すみません……！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "ca73d50",
+      "speaker": "",
+      "ja": "人混みを掻き分けながら走る。確か前回、コハル達はこっちの道を真っ直ぐ行っていた……はずだ。",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "673af851",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……！　待って……！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "be5be40c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……！　でも、急がないとコハル達が……！",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "7770fcf9",
+      "speaker": "ルミナ",
+      "ja": "まだ、どうなってるか……わから、ないよ……！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "bcc07f8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかしたら、変なヤツに捕まってるのかも知れない！　早く助けないと……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "8519d554",
+      "speaker": "{G_PlayerName}",
+      "ja": "時間が巻き戻っても帰ってこない理由が、もしかしたら、死……！",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "d45ff567",
+      "speaker": "",
+      "ja": "そう言いかけると、ルミナが口を押さえてくる。必死な表情のルミナと目が合って、ようやく頭の熱が少し冷めた。",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "70bae51c",
+      "speaker": "ルミナ",
+      "ja": "……落ち着いて。もしかしたら、時間のループから２人だけ抜け出したのかも知れない、でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "8728d19c",
+      "speaker": "ルミナ",
+      "ja": "焦るのは、わかるよ。私も、雫のことを考えたら……すぐにでも何とかしたくなる。でも……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "e9e47147",
+      "speaker": "",
+      "ja": "何が起こってるのか全然わからない状況。ルミナだって不安なはずだ。もしかしたら、高度な技術に詳しいルミナのほうが、よっぽど……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "5aa45460",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ごめん。取り乱した……",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "af4eb08a",
+      "speaker": "ルミナ",
+      "ja": "ううん。私も……偉そうなこと言ってごめんね……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "3bac2b11",
+      "speaker": "ルミナ",
+      "ja": "２人は……通信機、持ってるはずだから。アポロちゃんに、位置とかわからないか聞いてみるよ",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "bcdbb242",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか！　そういう手があったか……！",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "f5980b4f",
+      "speaker": "",
+      "ja": "胸を撫で下ろす。……自分の軽率な行動への呆れが、それでもまだ安心出来るわけじゃないという現実を上回った。",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "d6e0378e",
+      "speaker": "ルミナ",
+      "ja": "……うん。見つかったらアポロちゃんが報せてくれるって",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "acf084b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ありがとう。……今は、とにかく話が通じる人を探して色々確認しないとな",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "e950474f",
+      "speaker": "ルミナ",
+      "ja": "うん……！　一番の近道は、やっぱりナハトさんにもう一度会うことだと思うんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "f6d1629f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだ……な？",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "670254d9",
+      "speaker": "",
+      "ja": "どこからか、ガシャガシャと何かが倒れたり割れたりする音がする。",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "deae0be2",
+      "speaker": "",
+      "ja": "……それは、少しずつこちらに近づいてきているようだ！",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "8eeee4ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだなんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "12171c70",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、私の後ろに……！",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "26907b8c",
+      "speaker": "ジラド",
+      "ja": "がおーっ！　ジラド様だぞーーーっ！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "18829f7f",
+      "speaker": "",
+      "ja": "人を飛び越え、踏み潰しながら怪獣……もとい、ジラドと名乗るリリアンが現れた。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "f633ce13",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……前見たおかしいやつ！？",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "6753086",
+      "speaker": "ジラド",
+      "ja": "オマエら！　ジラド様を差し置いて、騒ぎを起こすなんてやるじゃないか～？",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "52fc9297",
+      "speaker": "{G_PlayerName}",
+      "ja": "さ……騒ぎ？　ああ……ちょっと急いでて……",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "a481ae3f",
+      "speaker": "ジラド",
+      "ja": "ジラド様より目立とうだなんて、許せないぞー！　かかって来ーいっ！！",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "a94bdf7d",
+      "speaker": "ルミナ",
+      "ja": "や、やっぱりこの人も……おかしくなってる！？",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "4845d9bf",
+      "speaker": "",
+      "ja": "飛びかかってくるジラド。ルミナが前に出て、お互いの手を掴み合う状態になる。",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "132139d",
+      "speaker": "ルミナ",
+      "ja": "うっ……！　つ……強い……！　すごい力……",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "de597136",
+      "speaker": "ジラド",
+      "ja": "おっ……おお……！　なかなかやるな！　うふっ……うほほほ！",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "24ca366c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なに気持ち悪い笑い上げてるんだ、こいつ……！？）",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "70c959b6",
+      "speaker": "ルミナ",
+      "ja": "くっ……！　えいっ……！",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "78f2d659",
+      "speaker": "ジラド",
+      "ja": "おおっ！？",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "37c11620",
+      "speaker": "",
+      "ja": "ジラドの体が宙に少しだけ浮く。多分、ルミナが光を操る能力で何かしているのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "86ba84b4",
+      "speaker": "ジラド",
+      "ja": "くっ……！　このジラド様が……！　うおおっ……",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "2a16fb97",
+      "speaker": "ジラドの声",
+      "ja": "ぐわーーーっ！！　覚えてろよ～～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "719d600e",
+      "speaker": "ルミナ",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "8de05834",
+      "speaker": "",
+      "ja": "ジラドはそう言い残し、空へと吹き飛ばされ消えていった。……まるで投石機で射出される石のように、遥か彼方へと消えていく。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "a5302fcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "や……やりすぎじゃないか、ルミナ！？",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "7879ed05",
+      "speaker": "ルミナ",
+      "ja": "う……ううん。今の人……自分から吹き飛んでいった、みたい……？",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "db8a447e",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　じ、自分から？",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "5cb5dc8a",
+      "speaker": "ルミナ",
+      "ja": "うん……何だったんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "2ef33ff1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……やっぱり、変なヤツだったんだな。おかしくなってるヤツの事を考えても、仕方ないんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "30dc2686",
+      "speaker": "ルミナ",
+      "ja": "そうだね……そうかも……",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "3dca49a",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうこんな時間か……前のカフェに行くか。次はナハトさんが来るかも……",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "21384fa7",
+      "speaker": "ルミナ",
+      "ja": "うん！　……途中もどこかにいないか、探しながら、行こう……",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "10a848da",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー……途中までは、いなかったな",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "19b450a8",
+      "speaker": "ルミナ",
+      "ja": "これだけ人がいると、探しにくいね……",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "169ef1b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "別の場所も探してみたいけど……やっぱり来るかもしれないからな",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "3bb07a19",
+      "speaker": "ルミナ",
+      "ja": "待つしか、ないね……",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "3fcac3ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょうどいいから休憩するか。すみません！",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "702e8f5a",
+      "speaker": "ウェイトレス",
+      "ja": "お待たせいたしました！　ご注文お決まりですか？",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "84dc2776",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……流石に頼んでる物は関係ないよな。別のも頼んでみるか……この青いジュースを１つください",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "3812da8a",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……私は……隣の、緑色のジュースで……",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "f66e971a",
+      "speaker": "ウェイトレス",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "e163aa51",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　あの……？",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "d88aee2b",
+      "speaker": "ウェイトレス",
+      "ja": "すっ……すみません！　えっと、えっと……！",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "643572a6",
+      "speaker": "ウェイトレス",
+      "ja": "お２人は……私が見てる幻覚、とかじゃ……ないですよね？",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "5667d605",
+      "speaker": "ルミナ",
+      "ja": "えっ……？",
+      "zh": ""
+    }
+  ]
+}
