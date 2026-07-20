@@ -1,0 +1,823 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "a6b7dc3e",
+      "speaker": "刃物を持つ男性",
+      "ja": "待てぇっ！　カス！　■■■■！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "385d1e41",
+      "speaker": "ガラの悪い男性",
+      "ja": "どんなに逃げたとこで、ここは俺たちの庭なんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "23972708",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそ、しつこいな！",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "3045baeb",
+      "speaker": "コハル",
+      "ja": "ああもう、どこに逃げれば……！　薄暗くて道がわかりにくい！",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "c839a28a",
+      "speaker": "雫",
+      "ja": "！　この先、カーブになっています！　曲がってすぐ、どこかへ隠れましょう！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "2914c83c",
+      "speaker": "ルミナ",
+      "ja": "うん、わかっ、た……！",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "ed82af2f",
+      "speaker": "コハル",
+      "ja": "隠れる場所、隠れる場所……！　どこ！？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "e16ccb5e",
+      "speaker": "雫",
+      "ja": "っ、ここはひとまず……！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "a97fef2e",
+      "speaker": "刃物を持つ男性",
+      "ja": "くそ、速え！",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "8512b38a",
+      "speaker": "ガラの悪い男性",
+      "ja": "あいつら全員がリリアンってわけじゃねえ、そのうち追いつく！　急げ！",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "e74612c6",
+      "speaker": "コハル",
+      "ja": "つい入っちゃったけど、ここって……？",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "33372968",
+      "speaker": "雫",
+      "ja": "わかりません、明るかったのでつい……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "a2c2b0ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "（虫の習性みたいだな……）",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "fd32b202",
+      "speaker": "コハル",
+      "ja": "でも、ここ綺麗な商品を扱ってるお店なのね……！　これ、ランプ？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "863e9445",
+      "speaker": "{G_PlayerName}",
+      "ja": "……っぽいな。ガラス製か……？　いや、違うっぽいな……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "df8885ad",
+      "speaker": "ルミナ",
+      "ja": "綺麗、だね……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "ddcd36ba",
+      "speaker": "雫",
+      "ja": "商品を見てる場合じゃありません。今のうちに隠れて、静かに……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "22a1a6ac",
+      "speaker": "？？？",
+      "ja": "シューちゃん？　また来たの～？",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "14a28636",
+      "speaker": "？？？",
+      "ja": "えっ、シューちゃんじゃないっ！？　い、いいい、いらっしゃいませ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "c0a838e6",
+      "speaker": "",
+      "ja": "奥から声が響いて来たと思うと、おずおずとした動きで店員が顔を出した。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "bdbe24db",
+      "speaker": "？？？",
+      "ja": "あ……あたしランプ職人のプリズムと申しますっ！　え、えとっ！　初めましてのお客様、ですよね……！？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "6422927f",
+      "speaker": "ルミナ",
+      "ja": "（店主さん、かな……？　大丈夫、かな……）",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "c5202c75",
+      "speaker": "雫",
+      "ja": "（ルミナ様、わたくしの後ろへ……）",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "ea99785e",
+      "speaker": "雫",
+      "ja": "突然驚かせてしまったかも知れませんが、わたくし達は……",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "2b12b17f",
+      "speaker": "プリズム",
+      "ja": "というかお客様っ、すごく素晴らしい服をお召しですねっ！？　この村じゃ見たことが無い意匠で、見てるだけでインスピレーションが……",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "809ba75b",
+      "speaker": "プリズム",
+      "ja": "あっ、すみません急に！　し、失礼いたしました！　あの、そうです！　とにかくいらっしゃいませっ！",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "6ae8dd2d",
+      "speaker": "ルミナ",
+      "ja": "（……あがりしょう、の人かな……？）",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "da9ce50d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そう……なのかもな？）",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "182bbdd4",
+      "speaker": "プリズム",
+      "ja": "でもそんな格好してたら強盗に襲われてしまうんじゃあ……いかにも高価そうですし……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "a44a9b2b",
+      "speaker": "雫",
+      "ja": "襲われましたよ",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "3e71ca61",
+      "speaker": "プリズム",
+      "ja": "えーっ！？　たっ、大変でしたね、大丈夫でしたか！？",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "4c9a3167",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあなんとか……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "c484ff82",
+      "speaker": "プリズム",
+      "ja": "そ、そう……ですよね……そんな目立ってしまう……卓越したデザインの……技術の結晶……",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "1b4e9da5",
+      "speaker": "プリズム",
+      "ja": "あの、この後のご予定とか……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "f869d4a4",
+      "speaker": "雫",
+      "ja": "……ありませんが",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "1a763a28",
+      "speaker": "プリズム",
+      "ja": "でしたらその、奇抜な服やお持ちのアイテムを、観察させていただきたいのですがっ！　ランプデザインのヒントになる予感がビンビンなんです！",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "60b7369a",
+      "speaker": "ルミナ",
+      "ja": "う……うん。それは、大丈夫……だけど……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "6a5c7470",
+      "speaker": "雫",
+      "ja": "ただし、条件があります",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "7761d41",
+      "speaker": "プリズム",
+      "ja": "ま……まさか……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "aa616466",
+      "speaker": "プリズム",
+      "ja": "臓器…………！",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "867d805d",
+      "speaker": "雫",
+      "ja": "違います。この村について教えて欲しいのです",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "82e35ceb",
+      "speaker": "プリズム",
+      "ja": "え……村について……？",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "8b0e7036",
+      "speaker": "ルミナ",
+      "ja": "私達……えっと……別の村……遠いところからやってきたんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "eb0f2f5d",
+      "speaker": "雫",
+      "ja": "まさか、こんなに暗いとは思いませんでした。一体どういうことなんですか？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "6e731457",
+      "speaker": "プリズム",
+      "ja": "えっ……ここの外の村って、明るいんですか！？　というか、鉱山の外から来た……ってことですよね？　初めて聞きました……！　すごい！",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "936d2288",
+      "speaker": "プリズム",
+      "ja": "明るい場所があるなんて信じられない……！　え、土地が全てジュームで作られてるってことですか！？　そんなおとぎ話みたいな……！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "633fbcf7",
+      "speaker": "ルミナ",
+      "ja": "（……この星、太陽とか……大きい恒星を知らない、みたいだね……）",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "f12eb2e7",
+      "speaker": "雫",
+      "ja": "（恐らくこの場所は自転か公転の関係で日が当たらないのでしょう。凍えず済んでいる理由はわかりませんが……）",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "667944e8",
+      "speaker": "コハル",
+      "ja": "（ジテン？）",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "23830d16",
+      "speaker": "{G_PlayerName}",
+      "ja": "（コーテン？）",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "8474a8d9",
+      "speaker": "雫",
+      "ja": "（……まあ、どこまで合っているかはわかりませんが……）",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "efaff5ae",
+      "speaker": "雫",
+      "ja": "……どうやら、わたくし達が住んでいた場所とはあらゆる常識が違うようです。ジュームというのは何ですか？",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "2c62918",
+      "speaker": "プリズム",
+      "ja": "えっと……この村で、通貨として使われる光る石です。ジュームは名前でも、数え方でも使われますね",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "338b51fb",
+      "speaker": "プリズム",
+      "ja": "珍しさとか、光る強さとか、重さで何ジュームか判断されます。変わった物ほど高価ですよ",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "76955fd2",
+      "speaker": "コハル",
+      "ja": "街灯とかに使われてる石は何ジュームなの？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "17117ffa",
+      "speaker": "プリズム",
+      "ja": "あはは、あれは加工品ですから、１ジュームにもなりません。目が悪い人とかならわかりませんけど、大抵は騙すことも出来ないかと",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "48d281dd",
+      "speaker": "コハル",
+      "ja": "へえー……",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "78e23f5c",
+      "speaker": "プリズム",
+      "ja": "それに単純に光るだけの石だったら、浅いところでも掘れるので価値が低いんですよ～！　高価なのは、深いところで採れる物がほとんどですね！",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "c265cb64",
+      "speaker": "コハル",
+      "ja": "（……鉱山に入って、貴重な石を採ってくれば……サンプルになるかしら？）",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "2eefc6f2",
+      "speaker": "雫",
+      "ja": "（分析で重要なのは種類の多さですから……貴重な石を分析し、売って別の石に交換……と続ければ、かなり楽になるでしょうね）",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "72515b21",
+      "speaker": "コハル",
+      "ja": "ジュームを交換することって、できるの？　物騒な人が多いけど……",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "20ea27e3",
+      "speaker": "プリズム",
+      "ja": "そう……ですね！　皆生きるのに必死で、商魂たくましいですけど……そのぶん、ジュームがある人には優しいですよ！",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "cfa4bb3",
+      "speaker": "プリズム",
+      "ja": "仲良い人にはジュームが無くても優しい人、多いですけどね……！",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "ca77e88c",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ、ジュームが無い俺達にプリズムが優しいのって……",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "95e4d148",
+      "speaker": "プリズム",
+      "ja": "でゅわーっ！！　す、すみません私ごときがそんな、馴れ馴れしくも畏れ多いことをのたまって！　口が滑ったんです！",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "64f09d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、い、いや……仲良く出来たら嬉しいけど……",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "6f7c6396",
+      "speaker": "プリズム",
+      "ja": "でへーっ！？　つ、つつつまりそれって、あ、ああああたしとお友達になってくれるってことですかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "734a51a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……そうだな。友達になれたら嬉しいよ",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "6ae9eb02",
+      "speaker": "プリズム",
+      "ja": "あ……あわわわわ……こんな、ランプ職人のド底辺なあたしにお、お友達が……！",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "e692269f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（助かるけど、変なリリアンだな……）",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "d855c149",
+      "speaker": "コハル",
+      "ja": "服とかだけじゃなくて、杖とか持ち物も見せてあげるから！　色々協力してね？",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "9dadeaa1",
+      "speaker": "プリズム",
+      "ja": "わひょーっ！？　何でもやりますやりますっ！",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "18d6573c",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺達でも、鉱山に入って鉱石の採掘とか出来たりするのか？",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "4c54c17b",
+      "speaker": "プリズム",
+      "ja": "へっ？　は、はい。自己責任にはなりますけど、出来ますよ。出来ますけど……すごく大変ですよ？　入り組んでますし……縄張り意識が強い作業者との衝突とか……",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "a30d674",
+      "speaker": "コハル",
+      "ja": "鉱山の地図とか持ってる？",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "72317acf",
+      "speaker": "プリズム",
+      "ja": "持ってませんね……結構高いので……",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "2c154009",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ案内してもらうしかないか……",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "8a150adf",
+      "speaker": "プリズム",
+      "ja": "あたしのわかる範囲でよければ！",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "2ed03576",
+      "speaker": "プリズム",
+      "ja": "じゃあ鉱山へ案内しますけど……気をつけてくださいね",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "33d9e652",
+      "speaker": "",
+      "ja": "こそこそと、プリズムの先導に従って鉱山へと向かう一同。",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "e8a11b72",
+      "speaker": "ルミナ",
+      "ja": "目立ってない、かな……見つからないと、いいけど……",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "6ee0557d",
+      "speaker": "プリズム",
+      "ja": "暗いところをできるだけ通るので、大丈夫だと思います！",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "6b695a09",
+      "speaker": "雫",
+      "ja": "鉱山は誰でも入れるのですね？　先ほどの暴漢に会う可能性はございませんか？",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "4dd5fe5e",
+      "speaker": "プリズム",
+      "ja": "鉱山は広いので、追われてた人に会う可能性は低いと思います！",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "f2a568a0",
+      "speaker": "プリズム",
+      "ja": "それに、あの広場で会ったんですよね……？　あそこにいる人は日銭を稼ぐだけでギリギリな人が多いので……",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "f0f142d9",
+      "speaker": "プリズム",
+      "ja": "多分、鉱山の深いところには来ないでしょうね……浅いところならわかりませんが",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "86ccaca0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "523b0d68",
+      "speaker": "ルミナ",
+      "ja": "（色んな星、に……色んな常識があるんだ、ね）",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "32cd2697",
+      "speaker": "プリズム",
+      "ja": "鉱山はもうすぐです！　行きますよ～！　帰ったらいっぱい服、見せてくださいね！",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "510dfcfa",
+      "speaker": "ルミナ",
+      "ja": "うん……案内ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "bb489064",
+      "speaker": "？？？",
+      "ja": "……………………",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,2155 @@
+{
+  "lines": [
+    {
+      "key": "10.1",
+      "line_index": 10,
+      "inline_index": 1,
+      "line_hash": "c4a6f208",
+      "speaker": "フォニー",
+      "ja": "……それで、具体的に研究の手伝いって何をするの？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "a5362897",
+      "speaker": "オーロラ",
+      "ja": "そーだなー、魔法の知識とかって、みんなはある？",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2e89ea09",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……ちょっと無理だな",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "76fc8c89",
+      "speaker": "コハル",
+      "ja": "あたしも、多少使えはするけど知識があるかって言われると～……",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "30061ef4",
+      "speaker": "雫",
+      "ja": "我々が仮に知識を持っていたとしても、ここでは通用しないでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "1cdfa4c9",
+      "speaker": "フォニー",
+      "ja": "……本当に、一体どんなお友達なのよ",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "f1fb6923",
+      "speaker": "オーロラ",
+      "ja": "え、えへへ……それじゃあ、みんなには素材の調達とか、えーっと……アイデアのお手伝いをしてもらおうかな？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "edb8eb26",
+      "speaker": "{G_PlayerName}",
+      "ja": "素材と、アイデア……なるほど",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "ca851728",
+      "speaker": "フォニー",
+      "ja": "素材はわかるけど、アイデア？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "b10a1bb5",
+      "speaker": "オーロラ",
+      "ja": "みんな、色々画期的なことを教えてくれるからね～！　悩んでるところを、思いもよらなかった方法で解決できるようになる……かも！",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "a8612860",
+      "speaker": "フォニー",
+      "ja": "ふーん……？",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "977275bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（フォニーの前じゃ、宇宙船の原理を教えてもらいますとは言えないよな……）",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "38a8753e",
+      "speaker": "コハル",
+      "ja": "材料調達なら任せて！　値切り交渉は得意だから！",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "d00622fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう人選でいいのか！？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "1c6076aa",
+      "speaker": "コハル",
+      "ja": "（あと……この中だと、結構この星の服に近いと思うしね……{G_PlayerName}もだけど）",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "dea467fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、確かにな……）",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "84e50685",
+      "speaker": "オーロラ",
+      "ja": "えへへ、苦学生だから助かるよ～！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "ce077c5c",
+      "speaker": "コハル",
+      "ja": "でも、さっき追いかけられたけど大丈夫かしら？　顔覚えられてたりして……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "9a4e9ab0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう意味でも、服が一番目立ってなかったってことで大丈夫じゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "3220e7d6",
+      "speaker": "フォニー",
+      "ja": "……私も手伝いたいのは山々だけど、学校が……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "c6769e46",
+      "speaker": "オーロラ",
+      "ja": "それー！　学校じゃないと見られない本とかあるでしょ？　フォニーに調べてもらおうかなーって！",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "57c5cc90",
+      "speaker": "フォニー",
+      "ja": "いやあなたが登校しなさいよ！　自分で！",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "13597d84",
+      "speaker": "オーロラ",
+      "ja": "やだ～……怒られるし。研究が終わってからならいいけど！",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "11c6fa0d",
+      "speaker": "フォニー",
+      "ja": "はあ……まあ、一週間ならいいか……",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "3613ce10",
+      "speaker": "オーロラ",
+      "ja": "じゃあ手伝ってほしいことがまとまったらお願いするから、明日からよろしく……ってことでいい？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "74458c2",
+      "speaker": "フォニー",
+      "ja": "わかったわ、じゃあ私は学校に戻るから……絶対、研究が終わったら学校に来るのよ！？　あと私が指定した魔法の研究！",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "461e067c",
+      "speaker": "オーロラ",
+      "ja": "もちろ～ん！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "990fd74d",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は……コハルの荷物持ちでもするか？",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "bbfb4b69",
+      "speaker": "オーロラ",
+      "ja": "あ、あなたには研究中の作業のお手伝いしてもらおうかな！　手先は器用でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "ecd06b43",
+      "speaker": "{G_PlayerName}",
+      "ja": "た……多分？　わかった、手伝うよ",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "7df1068d",
+      "speaker": "ルミナ",
+      "ja": "あの宇宙船は……反重力……えっと、地面に引っ張られる力とは逆の力が起きるようになっていて……",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "39e6fbb3",
+      "speaker": "オーロラ",
+      "ja": "ジュウリョク！　単純な風の流れとかだけじゃバランスが取れないところを、別の力で補ってるんだ！　ふむふむ……",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "6cc6173d",
+      "speaker": "",
+      "ja": "すぐに魔法の研究が始まった。フォニーは学校へと向かい、コハルと雫は買い出しへと向かった。",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "8027df63",
+      "speaker": "オーロラ",
+      "ja": "{G_PlayerName}くん、そっちは大丈夫そう？",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "f16385a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……多分、大丈夫。これでいいか？",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "eaf57825",
+      "speaker": "オーロラ",
+      "ja": "うん、バッチリ！　あたしが作るよりキレイだよ～！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "e1b847a",
+      "speaker": "",
+      "ja": "必要な、しかし簡単な材料をオーロラに教えてもらって大量に作っている最中だ。",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "91fca5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（植物の茎？　を編んだ紐……って、何に使うんだろうな……魔法のことはよくわからん）",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "4b02b57d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっちは順調か？",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "559226b4",
+      "speaker": "オーロラ",
+      "ja": "うん！　色々教えてもらって、今までに無い発想が出てきそう～！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "d255d93d",
+      "speaker": "ルミナ",
+      "ja": "私でも……わかる範囲でも、役に立てそうで、良かった……",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "eac114d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、良かったな",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "6870a6ca",
+      "speaker": "オーロラ",
+      "ja": "……うん、間に合うはず……多分、これまでは本気出してなかっただけだし……出せば間に合う……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "61ecff61",
+      "speaker": "ルミナ",
+      "ja": "多分……教えていい、よね……法律では……これくらいなら大丈夫だった、はず……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "1f28aadd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当に大丈夫なんだろうな……２人とも……）",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "ceda775d",
+      "speaker": "コハル",
+      "ja": "買ってきたわよ～！　物が合ってるか確認してくれる？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "4a9e16e8",
+      "speaker": "オーロラ",
+      "ja": "わ―！　ありがとー！　……うん、欲しいの全部揃ってるよ！",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "fe6adc8a",
+      "speaker": "コハル",
+      "ja": "で、これ残ったお金ね",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "29d7d25b",
+      "speaker": "オーロラ",
+      "ja": "……えっ、こんなに！？　どうやったらこんな……",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "ab05e414",
+      "speaker": "コハル",
+      "ja": "他の店と値段比較したり、別の商品と一緒に買うから安くしてーって頼み込んだり？",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "b78e4d80",
+      "speaker": "{G_PlayerName}",
+      "ja": "……よく出来るな、そんな事……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "513d8aa6",
+      "speaker": "コハル",
+      "ja": "商売人が捨てなきゃいけない心は３つあるの。恥と、遠慮と、手間を惜しむ心よ！",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "1553b7ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは……そういえば、雫は？",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "5c825a98",
+      "speaker": "コハル",
+      "ja": "ああ、雫なら買った物資を宇宙船に運んでるわ。凄い量だったけど……",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "153c3bb7",
+      "speaker": "雫",
+      "ja": "戻りましたよ",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "89c515e5",
+      "speaker": "アポロ",
+      "ja": "……随分と時間がかかりましたね。どちらへ行っていたのですか",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "6e90dd12",
+      "speaker": "雫",
+      "ja": "現地人との交流をしていました。ああ、あと一週間滞在することが決定しました",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "700690f3",
+      "speaker": "アポロ",
+      "ja": "なんと……！？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "11859a86",
+      "speaker": "雫",
+      "ja": "文句はあの男へ言ってください。大半はあの男のせいです",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "6016a337",
+      "speaker": "アポロ",
+      "ja": "はあ……物資の確認をしてもよろしいですか？",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "d3c783b4",
+      "speaker": "雫",
+      "ja": "はい。一通り、参考程度に購入したものですが",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "b4a0c7a2",
+      "speaker": "アポロ",
+      "ja": "……なるほど。ここにある物を分解すれば、不足物資の２割ほどはまかなえそうです",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "15f44d39",
+      "speaker": "雫",
+      "ja": "２割ですか……何が必要かリストアップしなさい",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "4ddfc476",
+      "speaker": "アポロ",
+      "ja": "はい。主に必要な物は金属類ですので、ひとまずはこの……",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "e098f9ad",
+      "speaker": "教師",
+      "ja": "……のように、同時に使用された魔法は試薬を用いることによって特定が可能です",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "fac354f2",
+      "speaker": "フォニー",
+      "ja": "……ふう",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "ee5b3e",
+      "speaker": "",
+      "ja": "片手で羽ペンの先端を撫で、無意識に手遊びをする。予習した部分なので、多少聞き逃しても問題ない。",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "28543eb5",
+      "speaker": "フォニー",
+      "ja": "（……大丈夫かしら、オーロラ。どれだけ天才でも、あそこから一週間で魔法の完成は物理的に無理なんじゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "3ef68d8",
+      "speaker": "",
+      "ja": "一応調べて欲しい情報や必要な本は確認済みだが、普通なら読むだけでも一週間以上かかりそうだ。",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "cc834d77",
+      "speaker": "フォニー",
+      "ja": "（一週間以内に間に合わせるには、色々先読みして必要な物をこちらで揃えてあげないと……ええと、オーロラが欲しがってた本から予想するに……）",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "8be298f0",
+      "speaker": "教師",
+      "ja": "フォニーさん……？　大丈夫ですか？",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "3514e121",
+      "speaker": "フォニー",
+      "ja": "ぴっ！？　だ、大丈夫です！　ナノ先生",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "7eafaf7f",
+      "speaker": "",
+      "ja": "声がした背後を慌てて振り向く。が、そこにナノ先生の姿は無く、教卓からナノ先生が改めて近づいてきた。",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "a78d6aca",
+      "speaker": "フォニー",
+      "ja": "（声の発生源を操作する音響魔法……最近出た難しい魔法なのに、この先生やたらお上手なのよね……）",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "1c97be60",
+      "speaker": "ナノ",
+      "ja": "いつも真面目なあなたがボーッとするとは珍しい。治療薬は要りますか？　熱があるのでは……",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "9a30efb7",
+      "speaker": "フォニー",
+      "ja": "い、いいえ。すみません授業中に、少し考え事があって……",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "b8dda71",
+      "speaker": "ナノ",
+      "ja": "そう……？　何か手伝えることがあればいつでも言いなさい。授業の手伝いをいつもされているのですから……",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "cb9fd92",
+      "speaker": "フォニー",
+      "ja": "（ふー、危なかった……優しいナノ先生じゃなかったら罰則を受けてるところだったわ）",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "baf3996d",
+      "speaker": "オーロラ",
+      "ja": "ふー、大体わかってきたかも……！　何か掴めた気分！",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "77834c21",
+      "speaker": "ルミナ",
+      "ja": "良かった……",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "50e87510",
+      "speaker": "{G_PlayerName}",
+      "ja": "研究は進んだか？",
+      "zh": ""
+    },
+    {
+      "key": "303.1",
+      "line_index": 303,
+      "inline_index": 1,
+      "line_hash": "b8002535",
+      "speaker": "オーロラ",
+      "ja": "ううん、全然！　でもちょっと道筋がわかったって感じ！",
+      "zh": ""
+    },
+    {
+      "key": "305.0",
+      "line_index": 305,
+      "inline_index": 0,
+      "line_hash": "9b8cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……",
+      "zh": ""
+    },
+    {
+      "key": "307.1",
+      "line_index": 307,
+      "inline_index": 1,
+      "line_hash": "274815dd",
+      "speaker": "コハル",
+      "ja": "何か手伝うことがあったら言ってね？",
+      "zh": ""
+    },
+    {
+      "key": "309.1",
+      "line_index": 309,
+      "inline_index": 1,
+      "line_hash": "227eb67a",
+      "speaker": "オーロラ",
+      "ja": "うん！　今日はいっぱい手伝ってくれてありがとう！　一人で進められるところは進めちゃうから、気をつけて帰ってね！",
+      "zh": ""
+    },
+    {
+      "key": "325.1",
+      "line_index": 325,
+      "inline_index": 1,
+      "line_hash": "3518805b",
+      "speaker": "コハル",
+      "ja": "手伝うって言っても、出来ることは少なそうだったけどね……",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "7ab0827b",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり、ここの魔法と俺たちの魔法は違う感じだったか？",
+      "zh": ""
+    },
+    {
+      "key": "329.1",
+      "line_index": 329,
+      "inline_index": 1,
+      "line_hash": "fae3f274",
+      "speaker": "コハル",
+      "ja": "うん、なんか空気中の精霊の魔力がどうとか……精霊術師はあたし達の星にもいたけど、少なかったじゃない？　この国だと全部それに近いみたい。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "59e79ff0",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ！　……いや、俺はさっぱりわからないけど……",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "ea615800",
+      "speaker": "コハル",
+      "ja": "まあ、あたし達の考える精霊とは違うみたいだけど……ああそう言えば",
+      "zh": ""
+    },
+    {
+      "key": "339.1",
+      "line_index": 339,
+      "inline_index": 1,
+      "line_hash": "6c3df4b",
+      "speaker": "コハル",
+      "ja": "これだけ魔法とか色々違っても、リリアンはどこの星にもいるのよね。不思議だわ",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "3d86198a",
+      "speaker": "コハル",
+      "ja": "どうかした？　{G_PlayerName}",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "6cf6e49a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　ああ、ごめんちょっと……確かにな、と思って",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "2ec8ca51",
+      "speaker": "コハル",
+      "ja": "でしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "dc8f2b49",
+      "speaker": "ルミナ",
+      "ja": "……私達は自動翻訳機を使ってるけど……どこの星でも、リリアンはリリアンって呼ばれてるの……",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "6fe688f0",
+      "speaker": "コハル",
+      "ja": "え、そうなの？　ますます不思議ね～！",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "d8d2b621",
+      "speaker": "ルミナ",
+      "ja": "そういえば、明日……だけど、お昼から、またオーロラさんの家に、行こうね……",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "29770583",
+      "speaker": "コハル",
+      "ja": "それじゃ、朝は宇宙船でご飯ね！　{G_PlayerName}もそれでいい？",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "3aadab4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった",
+      "zh": ""
+    },
+    {
+      "key": "363.1",
+      "line_index": 363,
+      "inline_index": 1,
+      "line_hash": "60d60698",
+      "speaker": "コハル",
+      "ja": "……そういえば、買い物中{G_PlayerName}が好きそうな部品とかもあったわよ",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "ebbe47f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "何っ！？　本当か！？",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "d2b5d6a8",
+      "speaker": "",
+      "ja": "翌日、昼。オーロラの家……",
+      "zh": ""
+    },
+    {
+      "key": "381.1",
+      "line_index": 381,
+      "inline_index": 1,
+      "line_hash": "477c8e00",
+      "speaker": "オーロラ",
+      "ja": "行き詰まった～！",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "71fd37ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "早いな！",
+      "zh": ""
+    },
+    {
+      "key": "393.1",
+      "line_index": 393,
+      "inline_index": 1,
+      "line_hash": "8d320926",
+      "speaker": "ルミナ",
+      "ja": "やっぱり……難し、い？",
+      "zh": ""
+    },
+    {
+      "key": "395.1",
+      "line_index": 395,
+      "inline_index": 1,
+      "line_hash": "69f68bd4",
+      "speaker": "コハル",
+      "ja": "フォニーって人も、一週間は無理って言ってたしね……",
+      "zh": ""
+    },
+    {
+      "key": "397.1",
+      "line_index": 397,
+      "inline_index": 1,
+      "line_hash": "e365dd23",
+      "speaker": "オーロラ",
+      "ja": "あ、ごめんね。行き詰まったって言うのはちょっと違ったかも。研究で絶対必要になる素材が足りなくって～……",
+      "zh": ""
+    },
+    {
+      "key": "399.1",
+      "line_index": 399,
+      "inline_index": 1,
+      "line_hash": "bacdc13d",
+      "speaker": "コハル",
+      "ja": "買って来ようか？",
+      "zh": ""
+    },
+    {
+      "key": "401.1",
+      "line_index": 401,
+      "inline_index": 1,
+      "line_hash": "4bdf36f6",
+      "speaker": "オーロラ",
+      "ja": "それがねー……学校から許可が必要な物なんだよね。買うにしても、色々面倒くさくって……",
+      "zh": ""
+    },
+    {
+      "key": "403.1",
+      "line_index": 403,
+      "inline_index": 1,
+      "line_hash": "8f6fca77",
+      "speaker": "オーロラ",
+      "ja": "フォニーに買ってきてもらうにしても、使う量とか内容とか色々厳しくチェックされちゃうし……",
+      "zh": ""
+    },
+    {
+      "key": "405.1",
+      "line_index": 405,
+      "inline_index": 1,
+      "line_hash": "3849f7ed",
+      "speaker": "ルミナ",
+      "ja": "随分、厳重なんだ、ね……",
+      "zh": ""
+    },
+    {
+      "key": "407.1",
+      "line_index": 407,
+      "inline_index": 1,
+      "line_hash": "a6b3cf27",
+      "speaker": "オーロラ",
+      "ja": "危険な物だし、色々悪用もできちゃう材料だからね～",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "357f38d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そこまでしてでも空を飛びたいのか……）",
+      "zh": ""
+    },
+    {
+      "key": "411.1",
+      "line_index": 411,
+      "inline_index": 1,
+      "line_hash": "126b6c2f",
+      "speaker": "オーロラ",
+      "ja": "で、それが手に入るまでは別の進められるところをやっちゃおっかな～って。それまで仕事は少ないから、１人お手伝いしてもらえれば自由に過ごしてて大丈夫！",
+      "zh": ""
+    },
+    {
+      "key": "413.1",
+      "line_index": 413,
+      "inline_index": 1,
+      "line_hash": "bdae6317",
+      "speaker": "ルミナ",
+      "ja": "じゃあ、私……お手伝いする、よ。{G_PlayerName}くんは、何か買いたい物があるんだよね……？",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "9398ad72",
+      "speaker": "{G_PlayerName}",
+      "ja": "いいのか？　悪いな、なんだか",
+      "zh": ""
+    },
+    {
+      "key": "417.1",
+      "line_index": 417,
+      "inline_index": 1,
+      "line_hash": "a1a10036",
+      "speaker": "コハル",
+      "ja": "買ってきたら交代しましょっか。じゃ、解散ってことで！",
+      "zh": ""
+    },
+    {
+      "key": "429.1",
+      "line_index": 429,
+      "inline_index": 1,
+      "line_hash": "cc31c9c7",
+      "speaker": "フォニー",
+      "ja": "（オーロラ、何考えてんのよ……！）",
+      "zh": ""
+    },
+    {
+      "key": "431.0",
+      "line_index": 431,
+      "inline_index": 0,
+      "line_hash": "fe538dfb",
+      "speaker": "",
+      "ja": "思わず、メモを握る手に力が入る。オーロラが必要だと書いた材料の文字が、私の眉間くらい歪んだ。",
+      "zh": ""
+    },
+    {
+      "key": "433.1",
+      "line_index": 433,
+      "inline_index": 1,
+      "line_hash": "e67d347e",
+      "speaker": "フォニー",
+      "ja": "（高い材料ばっかり……！　書かれた材料の合計で私の実験器具全部買い替えられるんじゃないの！？）",
+      "zh": ""
+    },
+    {
+      "key": "435.1",
+      "line_index": 435,
+      "inline_index": 1,
+      "line_hash": "fa4bd202",
+      "speaker": "フォニー",
+      "ja": "（ま、まあそれは置いておいて……問題は買おうと思っても買えない材料よね。使用用途まで記録される材料なんて、どうしようもないわ）",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "ce98b7d1",
+      "speaker": "生徒",
+      "ja": "フォニー、どうしたの？　次移動だよ～",
+      "zh": ""
+    },
+    {
+      "key": "439.1",
+      "line_index": 439,
+      "inline_index": 1,
+      "line_hash": "b213f46e",
+      "speaker": "フォニー",
+      "ja": "あ、ええ！　先に行ってて！",
+      "zh": ""
+    },
+    {
+      "key": "441.1",
+      "line_index": 441,
+      "inline_index": 1,
+      "line_hash": "273ecb",
+      "speaker": "フォニー",
+      "ja": "（ちょっと調べるか……間に合うといいんだけれど）",
+      "zh": ""
+    },
+    {
+      "key": "453.0",
+      "line_index": 453,
+      "inline_index": 0,
+      "line_hash": "e7074b3a",
+      "speaker": "",
+      "ja": "２時間後……",
+      "zh": ""
+    },
+    {
+      "key": "459.1",
+      "line_index": 459,
+      "inline_index": 1,
+      "line_hash": "f52e24fb",
+      "speaker": "コハル",
+      "ja": "ただいま～……！",
+      "zh": ""
+    },
+    {
+      "key": "461.0",
+      "line_index": 461,
+      "inline_index": 0,
+      "line_hash": "2e902a0d",
+      "speaker": "{G_PlayerName}",
+      "ja": "はっはっは、ただいま～！",
+      "zh": ""
+    },
+    {
+      "key": "463.1",
+      "line_index": 463,
+      "inline_index": 1,
+      "line_hash": "ba3c276d",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……すごい荷物、だね……",
+      "zh": ""
+    },
+    {
+      "key": "465.0",
+      "line_index": 465,
+      "inline_index": 0,
+      "line_hash": "5c356173",
+      "speaker": "{G_PlayerName}",
+      "ja": "へへへ、色々試したい物が多くてな……",
+      "zh": ""
+    },
+    {
+      "key": "467.1",
+      "line_index": 467,
+      "inline_index": 1,
+      "line_hash": "deb1c143",
+      "speaker": "オーロラ",
+      "ja": "うわ～、これ全部機械の材料！？",
+      "zh": ""
+    },
+    {
+      "key": "469.0",
+      "line_index": 469,
+      "inline_index": 0,
+      "line_hash": "fca52b58",
+      "speaker": "{G_PlayerName}",
+      "ja": "今ある武器の部品の差し替えとか、冷却用に表面に塗ったりできそうなやつがあって……比較したいって思ったら止まらなくて……",
+      "zh": ""
+    },
+    {
+      "key": "471.1",
+      "line_index": 471,
+      "inline_index": 1,
+      "line_hash": "de4f212b",
+      "speaker": "コハル",
+      "ja": "だからって、あたしも手伝わなきゃいけないくらい買うんじゃないわよ！　まったく……",
+      "zh": ""
+    },
+    {
+      "key": "473.0",
+      "line_index": 473,
+      "inline_index": 0,
+      "line_hash": "2e705e14",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん。つい……",
+      "zh": ""
+    },
+    {
+      "key": "475.1",
+      "line_index": 475,
+      "inline_index": 1,
+      "line_hash": "a600fd88",
+      "speaker": "ルミナ",
+      "ja": "だい、じょうぶ？　休憩する……？　私、まだお手伝い続けられるけど……",
+      "zh": ""
+    },
+    {
+      "key": "477.1",
+      "line_index": 477,
+      "inline_index": 1,
+      "line_hash": "4484c69",
+      "speaker": "コハル",
+      "ja": "いいのよ！　{G_PlayerName}に任せれば！　あたし達はお茶でも飲みましょ！",
+      "zh": ""
+    },
+    {
+      "key": "479.0",
+      "line_index": 479,
+      "inline_index": 0,
+      "line_hash": "75f6643e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、機械いじりも兼ねてオーロラの手伝いは俺がするよ。ルミナも街に行ってきてくれ",
+      "zh": ""
+    },
+    {
+      "key": "481.1",
+      "line_index": 481,
+      "inline_index": 1,
+      "line_hash": "b574e055",
+      "speaker": "ルミナ",
+      "ja": "う、うん。ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "483.1",
+      "line_index": 483,
+      "inline_index": 1,
+      "line_hash": "9e575db7",
+      "speaker": "コハル",
+      "ja": "じゃ、出発～！",
+      "zh": ""
+    },
+    {
+      "key": "495.0",
+      "line_index": 495,
+      "inline_index": 0,
+      "line_hash": "648066d7",
+      "speaker": "{G_PlayerName}",
+      "ja": "さて、こっちも進めるか。オーロラは大丈夫か？　休憩とか……",
+      "zh": ""
+    },
+    {
+      "key": "497.1",
+      "line_index": 497,
+      "inline_index": 1,
+      "line_hash": "61cf4cf6",
+      "speaker": "オーロラ",
+      "ja": "うん、大丈夫！　魔法薬は飲んでるから、一週間くらいなら休憩なしでもオッケ～♪",
+      "zh": ""
+    },
+    {
+      "key": "499.0",
+      "line_index": 499,
+      "inline_index": 0,
+      "line_hash": "5edbd23b",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫って言って良いのかそれは……",
+      "zh": ""
+    },
+    {
+      "key": "511.1",
+      "line_index": 511,
+      "inline_index": 1,
+      "line_hash": "a92da06",
+      "speaker": "フォニー",
+      "ja": "お疲れ様。調子はどう？",
+      "zh": ""
+    },
+    {
+      "key": "513.0",
+      "line_index": 513,
+      "inline_index": 0,
+      "line_hash": "ad4e9f5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、入れ違いだな",
+      "zh": ""
+    },
+    {
+      "key": "515.1",
+      "line_index": 515,
+      "inline_index": 1,
+      "line_hash": "43d77826",
+      "speaker": "オーロラ",
+      "ja": "フォニーちゃん！　学校お疲れ様！　調子はね～……うーん……順調！",
+      "zh": ""
+    },
+    {
+      "key": "517.1",
+      "line_index": 517,
+      "inline_index": 1,
+      "line_hash": "6dc7831",
+      "speaker": "フォニー",
+      "ja": "ちょっと考えないと出てこない順調は、順調じゃないわね",
+      "zh": ""
+    },
+    {
+      "key": "519.1",
+      "line_index": 519,
+      "inline_index": 1,
+      "line_hash": "317264b9",
+      "speaker": "オーロラ",
+      "ja": "うっ……フォニーちゃんが来てくれたなら順調になるから！",
+      "zh": ""
+    },
+    {
+      "key": "521.1",
+      "line_index": 521,
+      "inline_index": 1,
+      "line_hash": "f8aec0fe",
+      "speaker": "フォニー",
+      "ja": "はいはい。どこまで進んだの？",
+      "zh": ""
+    },
+    {
+      "key": "523.1",
+      "line_index": 523,
+      "inline_index": 1,
+      "line_hash": "fe4111c1",
+      "speaker": "オーロラ",
+      "ja": "えっとねー……",
+      "zh": ""
+    },
+    {
+      "key": "525.0",
+      "line_index": 525,
+      "inline_index": 0,
+      "line_hash": "aa8434c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（同じ星の人が手伝うのが一番いいよな。これで効率が上がればいいけど……）",
+      "zh": ""
+    },
+    {
+      "key": "527.1",
+      "line_index": 527,
+      "inline_index": 1,
+      "line_hash": "e83f34cb",
+      "speaker": "フォニー",
+      "ja": "ああ……ここ。精液が必要ね。もう無かったの？",
+      "zh": ""
+    },
+    {
+      "key": "529.0",
+      "line_index": 529,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "531.1",
+      "line_index": 531,
+      "inline_index": 1,
+      "line_hash": "eafd90a4",
+      "speaker": "オーロラ",
+      "ja": "そうなの～！　さっきちょうど切らして……",
+      "zh": ""
+    },
+    {
+      "key": "533.0",
+      "line_index": 533,
+      "inline_index": 0,
+      "line_hash": "e8874d21",
+      "speaker": "{G_PlayerName}",
+      "ja": "せ、精液って聞こえたんだが……人間の？　魔法に使うのか？",
+      "zh": ""
+    },
+    {
+      "key": "535.1",
+      "line_index": 535,
+      "inline_index": 1,
+      "line_hash": "78ea43fd",
+      "speaker": "フォニー",
+      "ja": "そうよ。珍しくもない、血とか髪の毛みたいな物でしょ？　金に困った学生がよく売ってるわよ",
+      "zh": ""
+    },
+    {
+      "key": "537.0",
+      "line_index": 537,
+      "inline_index": 0,
+      "line_hash": "69198d7d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（顔色一つ変えずに……やっぱり、星によって常識って全然違うな……）",
+      "zh": ""
+    },
+    {
+      "key": "539.1",
+      "line_index": 539,
+      "inline_index": 1,
+      "line_hash": "c70b677f",
+      "speaker": "フォニー",
+      "ja": "じゃ、買ってくる？　今の時期どこも追い込みかけてるから、結構高いけど……",
+      "zh": ""
+    },
+    {
+      "key": "541.0",
+      "line_index": 541,
+      "inline_index": 0,
+      "line_hash": "4dff8513",
+      "speaker": "{G_PlayerName}",
+      "ja": "えーっと……",
+      "zh": ""
+    },
+    {
+      "key": "549.0",
+      "line_index": 549,
+      "inline_index": 0,
+      "line_hash": "563be507",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ、俺はさっきの作業の続きをしてるよ",
+      "zh": ""
+    },
+    {
+      "key": "551.1",
+      "line_index": 551,
+      "inline_index": 1,
+      "line_hash": "981c67a4",
+      "speaker": "オーロラ",
+      "ja": "うん、お願い～！　その、フォニーちゃんは来たばっかりで悪いんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "553.1",
+      "line_index": 553,
+      "inline_index": 1,
+      "line_hash": "2c5e68fb",
+      "speaker": "フォニー",
+      "ja": "買い出しね。……そこまで研究が進んでるってわかってたら、帰りに一応買ってきたのに！",
+      "zh": ""
+    },
+    {
+      "key": "555.1",
+      "line_index": 555,
+      "inline_index": 1,
+      "line_hash": "c810f6cd",
+      "speaker": "オーロラ",
+      "ja": "ごめんねー……よろしく！",
+      "zh": ""
+    },
+    {
+      "key": "566.0",
+      "line_index": 566,
+      "inline_index": 0,
+      "line_hash": "36c68f57",
+      "speaker": "{G_PlayerName}",
+      "ja": "そこまで進んでるってわかってたら……ってことは、結構進んでるのか？",
+      "zh": ""
+    },
+    {
+      "key": "568.1",
+      "line_index": 568,
+      "inline_index": 1,
+      "line_hash": "81b45779",
+      "speaker": "オーロラ",
+      "ja": "飛ばした作業もあるけど、順調は順調だよ～！　おかげさまで！",
+      "zh": ""
+    },
+    {
+      "key": "570.1",
+      "line_index": 570,
+      "inline_index": 1,
+      "line_hash": "473ea728",
+      "speaker": "オーロラ",
+      "ja": "魔法の研究って素材や術式を変えて何度も繰り返して、成功するか運試しみたいなパートがあるから……そこがどうなるかだね",
+      "zh": ""
+    },
+    {
+      "key": "572.0",
+      "line_index": 572,
+      "inline_index": 0,
+      "line_hash": "8a568b79",
+      "speaker": "{G_PlayerName}",
+      "ja": "博打なんだな、結構……",
+      "zh": ""
+    },
+    {
+      "key": "574.1",
+      "line_index": 574,
+      "inline_index": 1,
+      "line_hash": "be47cb19",
+      "speaker": "オーロラ",
+      "ja": "名が残る魔法使いは、腕が良いんじゃなくて運が良いんだ、なーんて言葉もあるくらいだからね！",
+      "zh": ""
+    },
+    {
+      "key": "576.1",
+      "line_index": 576,
+      "inline_index": 1,
+      "line_hash": "b3ea201c",
+      "speaker": "オーロラ",
+      "ja": "……だから{G_PlayerName}くんも、少しの失敗でめげてちゃダメだよ？",
+      "zh": ""
+    },
+    {
+      "key": "578.0",
+      "line_index": 578,
+      "inline_index": 0,
+      "line_hash": "894ef7d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかってるよ！",
+      "zh": ""
+    },
+    {
+      "key": "580.0",
+      "line_index": 580,
+      "inline_index": 0,
+      "line_hash": "852dd330",
+      "speaker": "",
+      "ja": "機械の実験結果……残骸を尻目に、俺は精一杯強がってみせるのだった……",
+      "zh": ""
+    },
+    {
+      "key": "606.0",
+      "line_index": 606,
+      "inline_index": 0,
+      "line_hash": "e5fda77d",
+      "speaker": "フォニー",
+      "ja": "えぇっ！？　べ、別にいいけれど……色々とその、助かるし……",
+      "zh": ""
+    },
+    {
+      "key": "609.0",
+      "line_index": 609,
+      "inline_index": 0,
+      "line_hash": "e8135637",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あれ？　もっと気軽な感じかと思ったけど失敗した……？）",
+      "zh": ""
+    },
+    {
+      "key": "613.0",
+      "line_index": 613,
+      "inline_index": 0,
+      "line_hash": "4074dbe7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんか俺まで照れくさくなってきた……。でも言い出した手前、精液出さないととダメだよな……）",
+      "zh": ""
+    },
+    {
+      "key": "617.0",
+      "line_index": 617,
+      "inline_index": 0,
+      "line_hash": "78b8f84c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うう、俺の精子をフォニーに渡す……ダメだ、ヘンに意識するな！　余計に恥ずかしくなる！）",
+      "zh": ""
+    },
+    {
+      "key": "621.0",
+      "line_index": 621,
+      "inline_index": 0,
+      "line_hash": "41d0704a",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃ、じゃあその……トイレで出してくるから、少し待っててくれ……",
+      "zh": ""
+    },
+    {
+      "key": "625.1",
+      "line_index": 625,
+      "inline_index": 1,
+      "line_hash": "ddfaa80e",
+      "speaker": "フォニー",
+      "ja": "まっ、待ちなさい！　そんなにあっさり出されたモノじゃ、その、効果が……",
+      "zh": ""
+    },
+    {
+      "key": "628.0",
+      "line_index": 628,
+      "inline_index": 0,
+      "line_hash": "393fc23d",
+      "speaker": "{G_PlayerName}",
+      "ja": "効果……？　精液ならなんでもいいんじゃ……？",
+      "zh": ""
+    },
+    {
+      "key": "632.1",
+      "line_index": 632,
+      "inline_index": 1,
+      "line_hash": "c7f08041",
+      "speaker": "フォニー",
+      "ja": "そういう訳にもいかないのよ。精子の状態とか、色々管理が必要なのよっ。そういうわけで……その……",
+      "zh": ""
+    },
+    {
+      "key": "635.0",
+      "line_index": 635,
+      "inline_index": 0,
+      "line_hash": "8157000e",
+      "speaker": "フォニー",
+      "ja": "わ、私が、するから……オーロラもいなくなっちゃったし……",
+      "zh": ""
+    },
+    {
+      "key": "638.0",
+      "line_index": 638,
+      "inline_index": 0,
+      "line_hash": "1d8473",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ？　オーロラいつの間にいなくなったんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "641.0",
+      "line_index": 641,
+      "inline_index": 0,
+      "line_hash": "a52bca1f",
+      "speaker": "",
+      "ja": "気がつくとオーロラの姿がなくなっていた。恐らく{G_PlayerName}たちに配慮し移動したのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "644.0",
+      "line_index": 644,
+      "inline_index": 0,
+      "line_hash": "b1bad890",
+      "speaker": "フォニー",
+      "ja": "さ、さぁ……？　でもいないんだし、私がするしかないでしょ……",
+      "zh": ""
+    },
+    {
+      "key": "647.0",
+      "line_index": 647,
+      "inline_index": 0,
+      "line_hash": "f1ae638f",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……それじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "662.0",
+      "line_index": 662,
+      "inline_index": 0,
+      "line_hash": "583a038e",
+      "speaker": "フォニー",
+      "ja": "んぅぅぅ……♥　れるぅ……♥　れりゅ……♥ど、どう……？♥　その……感じる……？♥　射精できそう……？♥",
+      "zh": ""
+    },
+    {
+      "key": "664.0",
+      "line_index": 664,
+      "inline_index": 0,
+      "line_hash": "84b7efe0",
+      "speaker": "",
+      "ja": "フォニーは恐る恐る舌を伸ばし、肉棒の先端に舌を這わせる。",
+      "zh": ""
+    },
+    {
+      "key": "665.0",
+      "line_index": 665,
+      "inline_index": 0,
+      "line_hash": "8d380b4b",
+      "speaker": "",
+      "ja": "フェラに不安があるのか、俺の方をチラチラと見る様子がとても可愛らしい。",
+      "zh": ""
+    },
+    {
+      "key": "667.0",
+      "line_index": 667,
+      "inline_index": 0,
+      "line_hash": "b2cb2d48",
+      "speaker": "",
+      "ja": "しかしフェラ自体は快感とは無縁で、フォニーが望むような射精はできそうになかった。",
+      "zh": ""
+    },
+    {
+      "key": "670.0",
+      "line_index": 670,
+      "inline_index": 0,
+      "line_hash": "cfe96c67",
+      "speaker": "フォニー",
+      "ja": "あむ、ちゅるっ……♥　こんな感じで、出せそう？",
+      "zh": ""
+    },
+    {
+      "key": "673.0",
+      "line_index": 673,
+      "inline_index": 0,
+      "line_hash": "c85f4542",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……ごめん、正直気持ち良さはそんなに……。くすぐったい感じしかしない……",
+      "zh": ""
+    },
+    {
+      "key": "677.0",
+      "line_index": 677,
+      "inline_index": 0,
+      "line_hash": "540bf351",
+      "speaker": "フォニー",
+      "ja": "むぅ……！　何よ、一生懸命人がしてあげているのに……！！",
+      "zh": ""
+    },
+    {
+      "key": "680.0",
+      "line_index": 680,
+      "inline_index": 0,
+      "line_hash": "772f8241",
+      "speaker": "{G_PlayerName}",
+      "ja": "ハッキリ言えって言ったのはフォニーだろっ",
+      "zh": ""
+    },
+    {
+      "key": "684.0",
+      "line_index": 684,
+      "inline_index": 0,
+      "line_hash": "f1d466f2",
+      "speaker": "フォニー",
+      "ja": "そ、そうだけど……！",
+      "zh": ""
+    },
+    {
+      "key": "687.0",
+      "line_index": 687,
+      "inline_index": 0,
+      "line_hash": "d8afa19f",
+      "speaker": "フォニー",
+      "ja": "（気持ちよくないですって……！？　こっちは恥ずかしいのを我慢して舐めてあげているっていうのに、えっらそうに……！！）",
+      "zh": ""
+    },
+    {
+      "key": "690.0",
+      "line_index": 690,
+      "inline_index": 0,
+      "line_hash": "efdee757",
+      "speaker": "フォニー",
+      "ja": "（でも正直射精させる方法なんてよくわからないのよね……。いつまでもおちんちんペロペロしているわけにはいかないし……。こうなったら直接こいつに教えてもらいながらするしか……）",
+      "zh": ""
+    },
+    {
+      "key": "693.0",
+      "line_index": 693,
+      "inline_index": 0,
+      "line_hash": "15901c5e",
+      "speaker": "フォニー",
+      "ja": "じゃああなたが指示しなさいよ……！今日だけは特別に従ってあげるから……！！",
+      "zh": ""
+    },
+    {
+      "key": "696.0",
+      "line_index": 696,
+      "inline_index": 0,
+      "line_hash": "a32c898c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……わかった",
+      "zh": ""
+    },
+    {
+      "key": "700.0",
+      "line_index": 700,
+      "inline_index": 0,
+      "line_hash": "8d378ba2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（フォニーやけに顔赤いな……表情も普段よりも硬いし……緊張、しているのか？）",
+      "zh": ""
+    },
+    {
+      "key": "704.0",
+      "line_index": 704,
+      "inline_index": 0,
+      "line_hash": "d5fedc8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……じゃあ俺が動くから、フォニーは口を大きく開けて続けてくれ。それなら出せると思うから",
+      "zh": ""
+    },
+    {
+      "key": "708.0",
+      "line_index": 708,
+      "inline_index": 0,
+      "line_hash": "d32abb28",
+      "speaker": "フォニー",
+      "ja": "本当でしょうねっ？　絶対に射精しなさいよ？　いいわねっ！？",
+      "zh": ""
+    },
+    {
+      "key": "714.0",
+      "line_index": 714,
+      "inline_index": 0,
+      "line_hash": "aaf0d230",
+      "speaker": "フォニー",
+      "ja": "んんん……！♥　ふぅぅ……！♥　う、ううぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "716.0",
+      "line_index": 716,
+      "inline_index": 0,
+      "line_hash": "7cfe40d7",
+      "speaker": "",
+      "ja": "フォニーは素直に口を大きく開けると、亀頭を押し込むように肉棒を差し入れる。",
+      "zh": ""
+    },
+    {
+      "key": "718.0",
+      "line_index": 718,
+      "inline_index": 0,
+      "line_hash": "ebba4f75",
+      "speaker": "",
+      "ja": "小さな口が目いっぱい拡がり、涙目になってしまうフォニー。",
+      "zh": ""
+    },
+    {
+      "key": "719.0",
+      "line_index": 719,
+      "inline_index": 0,
+      "line_hash": "3b1b490d",
+      "speaker": "",
+      "ja": "俺は少しでも早く終わらそうと腰を動かし、フォニーの苦しそうな声がどんどん大きくなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "722.0",
+      "line_index": 722,
+      "inline_index": 0,
+      "line_hash": "b56fc1ee",
+      "speaker": "フォニー",
+      "ja": "んっ♥　激し、すぎぃっ！♥　んぐぅっ！♥　お゛っ……お゛ぶっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "725.0",
+      "line_index": 725,
+      "inline_index": 0,
+      "line_hash": "c623a6a8",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……！　フォニーの口の中が気持ち良くて……！　一旦止めに……",
+      "zh": ""
+    },
+    {
+      "key": "729.0",
+      "line_index": 729,
+      "inline_index": 0,
+      "line_hash": "31463b32",
+      "speaker": "フォニー",
+      "ja": "んぢゅっ！♥　ぢゅるっ♥　やめる必要なんてないわ……♥そのまま続けなさい……♥　良質な精液は射精する側が感じる必要があるんだから♥だからあなたが感じてくれないとダメなのよ……♥",
+      "zh": ""
+    },
+    {
+      "key": "732.0",
+      "line_index": 732,
+      "inline_index": 0,
+      "line_hash": "99a1d913",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……わかった。それじゃあ……うおっ！？",
+      "zh": ""
+    },
+    {
+      "key": "736.0",
+      "line_index": 736,
+      "inline_index": 0,
+      "line_hash": "ac037014",
+      "speaker": "フォニー",
+      "ja": "ぢゅるっ……♥　んぢゅ……♥　ちゅちゅ……♥　ぢゅるるるっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "738.0",
+      "line_index": 738,
+      "inline_index": 0,
+      "line_hash": "c825ddd7",
+      "speaker": "",
+      "ja": "フォニーは口を窄め、裏筋を擦るように舌を動かしていく。",
+      "zh": ""
+    },
+    {
+      "key": "739.0",
+      "line_index": 739,
+      "inline_index": 0,
+      "line_hash": "258d835d",
+      "speaker": "",
+      "ja": "カリがフォニーの柔らかな唇に引っ掛かり、それがさらに気持ち良さを引き出す。",
+      "zh": ""
+    },
+    {
+      "key": "740.0",
+      "line_index": 740,
+      "inline_index": 0,
+      "line_hash": "51c71971",
+      "speaker": "",
+      "ja": "一生懸命に舌を伸ばし、射精させようとする姿に俺の興奮がさらに高まっていく。",
+      "zh": ""
+    },
+    {
+      "key": "743.0",
+      "line_index": 743,
+      "inline_index": 0,
+      "line_hash": "e9e8f8a5",
+      "speaker": "フォニー",
+      "ja": "（すごい……カウパーどんどん溢れてきてる……♥裏側を舐められると男は感じるって本に書いてあったけど、本当だったのね……♥）",
+      "zh": ""
+    },
+    {
+      "key": "746.0",
+      "line_index": 746,
+      "inline_index": 0,
+      "line_hash": "e3fcb0e8",
+      "speaker": "フォニー",
+      "ja": "（ああ……苦しいはずなのに、胸がヘンにドキドキしてくる……♥コイツの感じている姿に、身体が熱くなって……♥）",
+      "zh": ""
+    },
+    {
+      "key": "749.0",
+      "line_index": 749,
+      "inline_index": 0,
+      "line_hash": "f6db6156",
+      "speaker": "フォニー",
+      "ja": "ぢゅるるるっ！♥　ちゅ……♥　ちゅううっ♥　ぢゅぽっ♥　ぢゅるっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "752.0",
+      "line_index": 752,
+      "inline_index": 0,
+      "line_hash": "98481a41",
+      "speaker": "{G_PlayerName}",
+      "ja": "くう、フォニー……も、もう少し早く動きたいけど……構わないか？",
+      "zh": ""
+    },
+    {
+      "key": "756.0",
+      "line_index": 756,
+      "inline_index": 0,
+      "line_hash": "43e1d82e",
+      "speaker": "フォニー",
+      "ja": "ええ、いいわ……あなたの好きになさい……♥その代わり、精液たくさん出しなさいよ……♥　絶対だからね……！♥",
+      "zh": ""
+    },
+    {
+      "key": "758.0",
+      "line_index": 758,
+      "inline_index": 0,
+      "line_hash": "9c98bba3",
+      "speaker": "",
+      "ja": "フォニーの言葉を合図にさらに腰を小刻みに動かし、唾液と先走りの混ざり合ったフォニーの口内で肉棒を擦らせる。",
+      "zh": ""
+    },
+    {
+      "key": "760.0",
+      "line_index": 760,
+      "inline_index": 0,
+      "line_hash": "24af1f33",
+      "speaker": "",
+      "ja": "フォニーはさらに口を窄め、舌を大きく動かし裏筋を舐め上げる。",
+      "zh": ""
+    },
+    {
+      "key": "761.0",
+      "line_index": 761,
+      "inline_index": 0,
+      "line_hash": "6be0cfa2",
+      "speaker": "",
+      "ja": "肉棒に慣れてきたのか、動きがどんどん積極的になっていき、それがさらに俺を射精へと追い詰めていく。",
+      "zh": ""
+    },
+    {
+      "key": "764.0",
+      "line_index": 764,
+      "inline_index": 0,
+      "line_hash": "764f1534",
+      "speaker": "フォニー",
+      "ja": "（男の人が私の口で感じてる……♥　こんなに腰を振って射精しようとしてる……♥私が逃げられない様に掴んで、必死に奥まで突いて……♥）",
+      "zh": ""
+    },
+    {
+      "key": "767.0",
+      "line_index": 767,
+      "inline_index": 0,
+      "line_hash": "cf478bdf",
+      "speaker": "フォニー",
+      "ja": "（ああ……おちんちんの先っぽ膨らんできてる……♥これ本に書いてあった反応……もうすぐ出る……私の口で射精する……♥）",
+      "zh": ""
+    },
+    {
+      "key": "770.0",
+      "line_index": 770,
+      "inline_index": 0,
+      "line_hash": "255dd55e",
+      "speaker": "フォニー",
+      "ja": "（精液出ちゃう……私の口の中にいっぱい……♥あああ……また胸がドキドキしてきたぁ……♥　んぅ……出して……射精して……♥私の口でイって……！！♥　あなたのイクところ、見せて……！！♥♥）",
+      "zh": ""
+    },
+    {
+      "key": "773.0",
+      "line_index": 773,
+      "inline_index": 0,
+      "line_hash": "b0b888a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "あああ！　フォニー！　出るっ！　出るっ！　う、ううううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "777.0",
+      "line_index": 777,
+      "inline_index": 0,
+      "line_hash": "1d1c145c",
+      "speaker": "フォニー",
+      "ja": "らひてっ！♥　んぢゅる、ちゅ……！♥　たくさん、だしなしゃいっ！♥わらひのおくひ……せーえきでいっぱいにしてぇええっ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "785.0",
+      "line_index": 785,
+      "inline_index": 0,
+      "line_hash": "669c8815",
+      "speaker": "フォニー",
+      "ja": "ふあぁっ！？♥　うあ、た、たくさん出て……うう、あ、熱いぃぃ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "788.0",
+      "line_index": 788,
+      "inline_index": 0,
+      "line_hash": "5f32c640",
+      "speaker": "フォニー",
+      "ja": "なんでおちんちん抜いちゃうのよぉ……！♥口に出してもらわなきゃ採取できないでしょ……！♥　このばかぁ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "791.0",
+      "line_index": 791,
+      "inline_index": 0,
+      "line_hash": "5c6b911b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はぁ、はぁ……そ、そうなのか？　す、すまない……！　口に出すのは失礼かと思って……",
+      "zh": ""
+    },
+    {
+      "key": "795.0",
+      "line_index": 795,
+      "inline_index": 0,
+      "line_hash": "cc1b9f2d",
+      "speaker": "フォニー",
+      "ja": "はぁ……♥　はぁ……♥　それに、出しすぎぃ……♥たくさん欲しいって思っていたけど、少しは加減しなさいよ……♥顔があんたの精液でいっぱい……♥",
+      "zh": ""
+    },
+    {
+      "key": "798.0",
+      "line_index": 798,
+      "inline_index": 0,
+      "line_hash": "4768a4f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ごめん……フォニーの口が気持ち良過ぎて加減できなくて……",
+      "zh": ""
+    },
+    {
+      "key": "802.0",
+      "line_index": 802,
+      "inline_index": 0,
+      "line_hash": "336f6b65",
+      "speaker": "フォニー",
+      "ja": "そう、なの……？♥　まぁ……それなら仕方ない、のかしら……？",
+      "zh": ""
+    },
+    {
+      "key": "804.0",
+      "line_index": 804,
+      "inline_index": 0,
+      "line_hash": "dd34e3fa",
+      "speaker": "",
+      "ja": "俺の言葉にフォニーは目を逸らし、頬がさらに紅く染まる。",
+      "zh": ""
+    },
+    {
+      "key": "805.0",
+      "line_index": 805,
+      "inline_index": 0,
+      "line_hash": "2c3fde38",
+      "speaker": "",
+      "ja": "その姿がとても可愛らしく、射精したばかりの肉棒がビクンと大きく跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "807.0",
+      "line_index": 807,
+      "inline_index": 0,
+      "line_hash": "2552c285",
+      "speaker": "",
+      "ja": "そんな俺の肉棒の反応見て、僅かに微笑むフォニー。",
+      "zh": ""
+    },
+    {
+      "key": "808.0",
+      "line_index": 808,
+      "inline_index": 0,
+      "line_hash": "55791cd",
+      "speaker": "",
+      "ja": "そして再び肉棒をそっと掴み、小さなスベスベの手で肉棒に触れられ、さらに大きく陰茎が跳ねる。",
+      "zh": ""
+    },
+    {
+      "key": "811.0",
+      "line_index": 811,
+      "inline_index": 0,
+      "line_hash": "6887226d",
+      "speaker": "フォニー",
+      "ja": "こぼれた分が勿体ないわね……♥　もう少し精液欲しいからもう一回ね♥拒否なんてさせないから♥　いいわね？♥",
+      "zh": ""
+    },
+    {
+      "key": "814.0",
+      "line_index": 814,
+      "inline_index": 0,
+      "line_hash": "3246f9ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……フォニーが言うなら、俺も頑張る……",
+      "zh": ""
+    },
+    {
+      "key": "818.0",
+      "line_index": 818,
+      "inline_index": 0,
+      "line_hash": "bb06e966",
+      "speaker": "フォニー",
+      "ja": "じゃあ次は口の中に出しなさいよ？♥　精液はたくさんあって困るモノじゃないからね♥　ちゅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "820.0",
+      "line_index": 820,
+      "inline_index": 0,
+      "line_hash": "c121414d",
+      "speaker": "",
+      "ja": "フォニーに亀頭に軽くキスされ、それだけゾクゾクした快感が背筋を駆け上がる。またフォニーにしてもらえる、それだけで俺の心は大きく弾み、",
+      "zh": ""
+    },
+    {
+      "key": "821.0",
+      "line_index": 821,
+      "inline_index": 0,
+      "line_hash": "4fa6b99c",
+      "speaker": "",
+      "ja": "肉棒に痛みを感じるほど勃起してしまうのであった。",
+      "zh": ""
+    }
+  ]
+}

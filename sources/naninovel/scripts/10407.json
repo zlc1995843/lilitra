@@ -1,0 +1,1552 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "b454001a",
+      "speaker": "ブロワー",
+      "ja": "へー、空にタイヨウって光るでけー石が！？",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "bc55e321",
+      "speaker": "ルミナ",
+      "ja": "石じゃ、ないけど……そんな感じ、かな……？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "40792261",
+      "speaker": "ブロワー",
+      "ja": "遠くの村って言ってたけど、ちょっと離れるだけでそんなに事情が違うんだなー……！　いやあ、おいらの世界なんてまだまだ狭いんだな",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "7b9d1095",
+      "speaker": "{G_PlayerName}",
+      "ja": "（遠くの村……まあ、遠いし、村だし……嘘はついてないか）",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "382d0b23",
+      "speaker": "コハル",
+      "ja": "ところで、さっきまでと同じような明るい道を進んでるけど……",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "d629de9a",
+      "speaker": "ブロワー",
+      "ja": "うん？　そうだけど？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "1e3f90d7",
+      "speaker": "コハル",
+      "ja": "さっきの話だと、人が通ったあとは良い石が採れないって……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "370846b0",
+      "speaker": "ブロワー",
+      "ja": "ああ、大丈夫。心配すんなって。おいらの場合は別だから",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "2d7a5d1c",
+      "speaker": "ルミナ",
+      "ja": "別……って？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "a8713da6",
+      "speaker": "ブロワー",
+      "ja": "例えば……そうだな、そこの石。ちょっと重いけど持ち上げてみな？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "dcaf7f2b",
+      "speaker": "コハル",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "58519416",
+      "speaker": "コハル",
+      "ja": "うわっ！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "6b95351",
+      "speaker": "",
+      "ja": "コハルが持ち上げた石の下からは、ひときわ大きく輝く石が現れた。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "375122b",
+      "speaker": "コハル",
+      "ja": "こ、これって……！？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "2716ae33",
+      "speaker": "ルミナ",
+      "ja": "すごい……きれい、だね……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "deccf154",
+      "speaker": "ブロワー",
+      "ja": "採り損ねだろうな。ま、価値はそこまでじゃないけどさ",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "9261574a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなのか……もらっていいのか？　これって",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "93423137",
+      "speaker": "ブロワー",
+      "ja": "ああ！　好きにしな",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "3fbc6301",
+      "speaker": "コハル",
+      "ja": "やったー！　……でも、なんでわかったの？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "f4850883",
+      "speaker": "ブロワー",
+      "ja": "おいらは石の声が聞こえるのさ。他の石の下だろうと、壁の向こうだろうと、耳を澄ませばこの通り！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "c108e912",
+      "speaker": "コハル",
+      "ja": "石の声……？　い、石って喋るの……？",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "40dc6201",
+      "speaker": "{G_PlayerName}",
+      "ja": "（魔法みたいなもんか……？　リリアンの身体能力も合わさって、そりゃあ普通の鉱夫は敵わないだろうな……）",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "ff4d21f8",
+      "speaker": "ルミナ",
+      "ja": "その能力、って……",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "c8bfce4a",
+      "speaker": "雫",
+      "ja": "そこまでで。……お下がりください、皆様",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "98870ae7",
+      "speaker": "",
+      "ja": "雫が前に出て、腕で制す。通路の先には……見覚えのある人影がいた。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "e456da17",
+      "speaker": "紅葉",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "5fd7a0d0",
+      "speaker": "雫",
+      "ja": "お早いお帰りですね",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "f4b0a3af",
+      "speaker": "紅葉",
+      "ja": "……投降すれば攻撃しない",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "a1f2b96c",
+      "speaker": "雫",
+      "ja": "投降した場合、どうなるのです？　何が目的なのですか、貴方は",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "5e6386e6",
+      "speaker": "紅葉",
+      "ja": "……依頼人の情報は話せない。けど、人質としてジュームを要求されるだけ",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "113f01d",
+      "speaker": "紅葉",
+      "ja": "命が金で買えるなら、買うべきだと思わない？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "8d8f3aa8",
+      "speaker": "雫",
+      "ja": "思いません……ね！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "71746785",
+      "speaker": "コハル",
+      "ja": "う、うわぁ……また始まっちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "319c27e2",
+      "speaker": "ルミナ",
+      "ja": "だ、大丈夫……かな……雫……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "412a1efc",
+      "speaker": "ブロワー",
+      "ja": "何度も、何度も……神聖な鉱山で暴れやがって……！",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "c619745f",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、今は横槍入れないほうが……！",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "1a61eb8f",
+      "speaker": "ブロワー",
+      "ja": "…………ん？　なんか……",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "54791350",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　どうかしたか？",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "8e6499d2",
+      "speaker": "ブロワー",
+      "ja": "やべえ！　落盤が来る！　お前ら、逃げろ！",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "9b569536",
+      "speaker": "コハル",
+      "ja": "えええええっ！？　ら、落盤！？",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "9906d4ce",
+      "speaker": "雫",
+      "ja": "なっ……て、天井が崩れ……！？",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "d89a48ec",
+      "speaker": "紅葉",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "99cb6a5c",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう…………だ、大丈夫か……？",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "c09f13f2",
+      "speaker": "ルミナ",
+      "ja": "いた、た……大丈夫、だよ……{G_PlayerName}くん、は……？",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "50bc8298",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺も……ちょっと打ったみたいだけど、大丈夫だ……",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "649f0523",
+      "speaker": "ブロワーの声",
+      "ja": "あんちゃんたち、生きてるかー！？",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "26584675",
+      "speaker": "雫の声",
+      "ja": "こちらも無事です！　コハル様と２人の状態です！",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "50f8151c",
+      "speaker": "{G_PlayerName}",
+      "ja": "お……！　おう！　こっちは俺とルミナだけど、どっちも大丈夫だ！",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "4dc3056b",
+      "speaker": "雫",
+      "ja": "なんですって！　男とルミナ様が２人きり……！？　すぐに向かいませんと……！",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "ffb503dd",
+      "speaker": "コハル",
+      "ja": "今は動かないほうが……ってちょっと！？",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "e7e76007",
+      "speaker": "ブロワーの声",
+      "ja": "そこから動かずに待ってろ！　おいらのほうから迎えに行く！",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "e13e851c",
+      "speaker": "コハル",
+      "ja": "で、でも雫が……",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "7851f63c",
+      "speaker": "ブロワーの声",
+      "ja": "大丈夫、こんな落盤事故しょっちゅうある！　石の声を聞きながら全員合流なんて楽勝だって！",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "69bfd1a3",
+      "speaker": "コハル",
+      "ja": "そ……そう？　じゃあ、ここで待ってるわね。そっちは大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "93b5a9a6",
+      "speaker": "ブロワー",
+      "ja": "あー……大丈夫だ、多分",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "e456da17",
+      "speaker": "紅葉",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "b801e555",
+      "speaker": "ブロワー",
+      "ja": "ねえちゃん、おいらは襲わないのかい？",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "75c2f397",
+      "speaker": "紅葉",
+      "ja": "依頼主からは、変な服を着た女を拐ってこいとしか言われていない。それに……",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "47db7ffe",
+      "speaker": "ブロワー",
+      "ja": "……あー",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "f6c9b425",
+      "speaker": "",
+      "ja": "紅葉が差し出したのは、砕けた鎖。武器として使っていた物のようだが、こうなっては直すまで使えないだろう。",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "8e0bbe13",
+      "speaker": "紅葉",
+      "ja": "……不本意ではあるけれど、出直すしかない",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "bf2bb55d",
+      "speaker": "ブロワー",
+      "ja": "外に出るのか？　なら付いて来いよ",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "a3424ff4",
+      "speaker": "紅葉",
+      "ja": "……？　それこそ、どうして。助かるけれど、あなたに利は無い",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "f7534da",
+      "speaker": "ブロワー",
+      "ja": "でも損も無いだろ？　嫌だって言うなら、それも止めないけどな",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "e456da17",
+      "speaker": "紅葉",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "465a747a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……どうも、声の方向からするに俺達だけ下の方に落ちたみたいだな",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "d3e00596",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……ブロワーさんが言ってた、みたいに……じっとしてようか……？",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "213125d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。……まだ崩れそうだったら、流石に離れないといけないと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "76519eeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ！？",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "b4ff2114",
+      "speaker": "",
+      "ja": "天井の岩の割れ目から、突然水が降り注ぎ……頭に直撃した。すぐ避けたが、全身ずぶ濡れになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "7877651",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、泥水……！　ぺっ、ぺっ！　きたねっ！",
+      "zh": ""
+    },
+    {
+      "key": "332.1",
+      "line_index": 332,
+      "inline_index": 1,
+      "line_hash": "bd6e708d",
+      "speaker": "ルミナ",
+      "ja": "ど、どうしよう……！？",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "415a4051",
+      "speaker": "{G_PlayerName}",
+      "ja": "う……まあ、洞窟の中結構あったかいから……脱いで乾かしたほうがいいな。いいか、ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "91a754e0",
+      "speaker": "ルミナ",
+      "ja": "えっ……う……うん。目、閉じてる、ね……",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "356.1",
+      "line_index": 356,
+      "inline_index": 1,
+      "line_hash": "2705db45",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "5ccecae5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんか気まずいな……）",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "1b45fe9a",
+      "speaker": "",
+      "ja": "裸でルミナの近くに座っているという状況が、どうにも落ち着かない。お互い目をそらしつつ、ぎこちない時間が過ぎていった。",
+      "zh": ""
+    },
+    {
+      "key": "362.1",
+      "line_index": 362,
+      "inline_index": 1,
+      "line_hash": "50812597",
+      "speaker": "ルミナ",
+      "ja": "服……どれくらいで乾く、かな……",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "b7084c83",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……だな。結構固く絞ったし……なんか特にあったかい場所においたし。３０分もすれば着られはするんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "366.1",
+      "line_index": 366,
+      "inline_index": 1,
+      "line_hash": "9503b311",
+      "speaker": "ルミナ",
+      "ja": "ブロワーさんが来るの、と……どっちが早い、かな？",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "2b463b75",
+      "speaker": "{G_PlayerName}",
+      "ja": "う……ブロワーに裸見られるのはちょっと恥ずかしいな……",
+      "zh": ""
+    },
+    {
+      "key": "370.1",
+      "line_index": 370,
+      "inline_index": 1,
+      "line_hash": "d47206f9",
+      "speaker": "ルミナ",
+      "ja": "私はいい、の？",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "b10517cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　あ、ま、まあ……あんなこともあったし……",
+      "zh": ""
+    },
+    {
+      "key": "374.1",
+      "line_index": 374,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "29da386b",
+      "speaker": "",
+      "ja": "ルミナが恥ずかしそうに顔を背ける。「あんなこと」を思い出させてしまっただろうか……",
+      "zh": ""
+    },
+    {
+      "key": "378.0",
+      "line_index": 378,
+      "inline_index": 0,
+      "line_hash": "66ee40fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（う……俺まで思い出してきた。ルナリングの効果、じゃないよな……鎮まれ鎮まれ……）",
+      "zh": ""
+    },
+    {
+      "key": "380.1",
+      "line_index": 380,
+      "inline_index": 1,
+      "line_hash": "5f0e65bf",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんは……嫌じゃ、なかった？",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "34156c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　嫌って……命がかかってたんだ、俺はそりゃあ……ルミナこそ……",
+      "zh": ""
+    },
+    {
+      "key": "384.1",
+      "line_index": 384,
+      "inline_index": 1,
+      "line_hash": "d2650068",
+      "speaker": "ルミナ",
+      "ja": "私は……嫌じゃあ、なかった、よ。{G_PlayerName}くんは……命のためじゃ、なかったとしたら……どうだった？",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "ccca66d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……それは……",
+      "zh": ""
+    },
+    {
+      "key": "388.1",
+      "line_index": 388,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "fd203b9",
+      "speaker": "",
+      "ja": "ルミナの息遣いを感じる。いつの間にか、距離が随分と……近づいているような……",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "96d0b11c",
+      "speaker": "{G_PlayerName}",
+      "ja": "る、ルミナ……",
+      "zh": ""
+    },
+    {
+      "key": "399.1",
+      "line_index": 399,
+      "inline_index": 1,
+      "line_hash": "b03e86e4",
+      "speaker": "雫",
+      "ja": "ルミナ様ーッ！　こちらですか！？　ようやく発信機の反応がある場所へ続く道を見つけ……ま……",
+      "zh": ""
+    },
+    {
+      "key": "405.1",
+      "line_index": 405,
+      "inline_index": 1,
+      "line_hash": "2705db45",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "407.0",
+      "line_index": 407,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "409.1",
+      "line_index": 409,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "f85818c0",
+      "speaker": "雫",
+      "ja": "な……何をしているのですかこの変態っ！！",
+      "zh": ""
+    },
+    {
+      "key": "423.0",
+      "line_index": 423,
+      "inline_index": 0,
+      "line_hash": "b16bff6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐへえっ！",
+      "zh": ""
+    },
+    {
+      "key": "426.1",
+      "line_index": 426,
+      "inline_index": 1,
+      "line_hash": "dc1976da",
+      "speaker": "雫",
+      "ja": "そこになおりなさい！　たたっ斬って差し上げます！",
+      "zh": ""
+    },
+    {
+      "key": "428.1",
+      "line_index": 428,
+      "inline_index": 1,
+      "line_hash": "4c347417",
+      "speaker": "ルミナ",
+      "ja": "し、雫！　やめて……",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "6e371864",
+      "speaker": "{G_PlayerName}",
+      "ja": "誤解だって！　まだなにも……",
+      "zh": ""
+    },
+    {
+      "key": "432.1",
+      "line_index": 432,
+      "inline_index": 1,
+      "line_hash": "ebc9d501",
+      "speaker": "雫",
+      "ja": "まだ？　まだということは、一体何を……",
+      "zh": ""
+    },
+    {
+      "key": "435.1",
+      "line_index": 435,
+      "inline_index": 1,
+      "line_hash": "97a0f168",
+      "speaker": "雫",
+      "ja": "なっ！！？　な、なな！　なんて格好をしているのですか！　前くらい隠しなさい！",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "b51abb91",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前が急に襲いかかるからだろうが！　服は濡れたから乾かしてるんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "439.1",
+      "line_index": 439,
+      "inline_index": 1,
+      "line_hash": "99814aa",
+      "speaker": "雫",
+      "ja": "あ……ああもう！　私は少し離れますから、その間に服を着なさいっ！",
+      "zh": ""
+    },
+    {
+      "key": "452.0",
+      "line_index": 452,
+      "inline_index": 0,
+      "line_hash": "25f12404",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、くそ……まだ乾いてないけど、着るしか無いか……",
+      "zh": ""
+    },
+    {
+      "key": "454.1",
+      "line_index": 454,
+      "inline_index": 1,
+      "line_hash": "7b1c8cc3",
+      "speaker": "ルミナ",
+      "ja": "風邪、ひかないようにね……無理しないで……",
+      "zh": ""
+    },
+    {
+      "key": "456.1",
+      "line_index": 456,
+      "inline_index": 1,
+      "line_hash": "c1a8f2ed",
+      "speaker": "ルミナ",
+      "ja": "（……なんだか、ちょっと……惜しかった、かな……？）",
+      "zh": ""
+    },
+    {
+      "key": "458.1",
+      "line_index": 458,
+      "inline_index": 1,
+      "line_hash": "a31e9d42",
+      "speaker": "ルミナ",
+      "ja": "（でも……よく、ないよね……こんな、抜け駆け……みたいなの……これで良かったんだ……）",
+      "zh": ""
+    },
+    {
+      "key": "482.0",
+      "line_index": 482,
+      "inline_index": 0,
+      "line_hash": "590354ff",
+      "speaker": "雫",
+      "ja": "はぁ……♥　はぁ……♥　はぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "484.0",
+      "line_index": 484,
+      "inline_index": 0,
+      "line_hash": "21d03df1",
+      "speaker": "",
+      "ja": "離れた場所で、雫は息を荒げていた。しかも足を大きく広げてパンツの上から股間を指で撫で上げている。",
+      "zh": ""
+    },
+    {
+      "key": "487.0",
+      "line_index": 487,
+      "inline_index": 0,
+      "line_hash": "da23af1e",
+      "speaker": "雫",
+      "ja": "わ、わたくし……どうしてこんな……んっ♥　んんんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "489.0",
+      "line_index": 489,
+      "inline_index": 0,
+      "line_hash": "d19e4b7",
+      "speaker": "",
+      "ja": "自らの興奮に戸惑いつつも、おまんこをいじらずにはいられない程に気持ちは高ぶってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "492.0",
+      "line_index": 492,
+      "inline_index": 0,
+      "line_hash": "e643d961",
+      "speaker": "雫",
+      "ja": "あぁぁ……おまんこが疼く……あふっ……うっ……くふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "494.0",
+      "line_index": 494,
+      "inline_index": 0,
+      "line_hash": "79fd86d3",
+      "speaker": "",
+      "ja": "パンツの上から割れ目に沿って指を動かすと、ゾクッとする快感が走りネットリとした汁が奥から溢れ出てきてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "497.0",
+      "line_index": 497,
+      "inline_index": 0,
+      "line_hash": "19d78566",
+      "speaker": "雫",
+      "ja": "んっ♥　なんで……こんなに濡れて……っ♥　あっ♥　ふぅんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "499.0",
+      "line_index": 499,
+      "inline_index": 0,
+      "line_hash": "b1de1fcd",
+      "speaker": "",
+      "ja": "雫の体はすっかり高揚してしまい、全身が熱く火照っている。",
+      "zh": ""
+    },
+    {
+      "key": "501.0",
+      "line_index": 501,
+      "inline_index": 0,
+      "line_hash": "7dfae94e",
+      "speaker": "",
+      "ja": "その高ぶりを慰めるために、彼女は自ら股間を撫で上げていた。",
+      "zh": ""
+    },
+    {
+      "key": "504.0",
+      "line_index": 504,
+      "inline_index": 0,
+      "line_hash": "82fca2d4",
+      "speaker": "雫",
+      "ja": "なんでわたくし……こんなに興奮してしまって……もしかして……あの男の裸を見た……せい……？",
+      "zh": ""
+    },
+    {
+      "key": "506.0",
+      "line_index": 506,
+      "inline_index": 0,
+      "line_hash": "24d920c7",
+      "speaker": "",
+      "ja": "ずぶ濡れになって服を乾かすため全裸になっていた{G_PlayerName}の姿を見てから雫の心臓はドキドキしてしまっている。",
+      "zh": ""
+    },
+    {
+      "key": "509.0",
+      "line_index": 509,
+      "inline_index": 0,
+      "line_hash": "e4717967",
+      "speaker": "雫",
+      "ja": "わたくしが……男の……裸を……み、見た程度で……んんんっ♥　こ、こんなに……欲情してしまって……あふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "511.0",
+      "line_index": 511,
+      "inline_index": 0,
+      "line_hash": "2d2ae57a",
+      "speaker": "",
+      "ja": "パンツの上から割れ目を指でなぞり上げる度に雫の口からは甘い声が漏れた。",
+      "zh": ""
+    },
+    {
+      "key": "513.0",
+      "line_index": 513,
+      "inline_index": 0,
+      "line_hash": "bc3eb2b0",
+      "speaker": "",
+      "ja": "その度に股間の部分にシミが広がっていくが、そんなことなど気にせずに雫の指先はおまんこを撫で上げていく。",
+      "zh": ""
+    },
+    {
+      "key": "516.0",
+      "line_index": 516,
+      "inline_index": 0,
+      "line_hash": "d6abb35d",
+      "speaker": "雫",
+      "ja": "んふぅぅ……♥　あっ……あんっ♥　こんなことするなんて……で、でも……指が……とめられない……はぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "518.0",
+      "line_index": 518,
+      "inline_index": 0,
+      "line_hash": "a522ecc1",
+      "speaker": "",
+      "ja": "指の動きはどんどん激しさを増す。パンツの上からもおまんこの形がハッキリと透けて見え、クリトリスがすっかり勃起しているのが丸わかりだ。",
+      "zh": ""
+    },
+    {
+      "key": "521.0",
+      "line_index": 521,
+      "inline_index": 0,
+      "line_hash": "8a0369ad",
+      "speaker": "雫",
+      "ja": "んっ、んんっ♥　クリ……硬くなってる……あっ……ああっ……♥　おまんこも……ヒクヒクして……はぁ……はぁ……♥",
+      "zh": ""
+    },
+    {
+      "key": "523.0",
+      "line_index": 523,
+      "inline_index": 0,
+      "line_hash": "8875687f",
+      "speaker": "",
+      "ja": "すっかり興奮してしまった雫は、何度も割れ目を撫で上げて膨らんだクリトリスを指先で転がしていた。",
+      "zh": ""
+    },
+    {
+      "key": "525.0",
+      "line_index": 525,
+      "inline_index": 0,
+      "line_hash": "98b218e6",
+      "speaker": "",
+      "ja": "その刺激におまんこは物欲しげに蠢き更に濡れていってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "527.0",
+      "line_index": 527,
+      "inline_index": 0,
+      "line_hash": "f434efd5",
+      "speaker": "",
+      "ja": "そんな彼女の脳裏には先程見てしまった{G_PlayerName}の性器が思い浮かんでいた。",
+      "zh": ""
+    },
+    {
+      "key": "530.0",
+      "line_index": 530,
+      "inline_index": 0,
+      "line_hash": "ec2d0729",
+      "speaker": "雫",
+      "ja": "あ、あの男……普段はふにゃふにゃしているくせに……んんんっ♥　ゴツゴツしていて……大きくて……あっ……あぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "532.0",
+      "line_index": 532,
+      "inline_index": 0,
+      "line_hash": "61603411",
+      "speaker": "",
+      "ja": "思い出す程に心臓の鼓動は速まり体が火照っていってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "534.0",
+      "line_index": 534,
+      "inline_index": 0,
+      "line_hash": "6f6aba0f",
+      "speaker": "",
+      "ja": "ムラムラは治まるどころか大きくなる一方なのだがそれに雫自身は納得出来なかった。",
+      "zh": ""
+    },
+    {
+      "key": "537.0",
+      "line_index": 537,
+      "inline_index": 0,
+      "line_hash": "41915875",
+      "speaker": "雫",
+      "ja": "もう！　わたくしったら何を考えているの！",
+      "zh": ""
+    },
+    {
+      "key": "540.0",
+      "line_index": 540,
+      "inline_index": 0,
+      "line_hash": "55e171c0",
+      "speaker": "雫",
+      "ja": "どうしてわたくしのおまんこはこんなに疼いてしまうんですか！　ば、馬鹿じゃありませんの！",
+      "zh": ""
+    },
+    {
+      "key": "542.0",
+      "line_index": 542,
+      "inline_index": 0,
+      "line_hash": "1276911c",
+      "speaker": "",
+      "ja": "雫は発情してしまっている自らに憤りながらも指の動きを止められない。",
+      "zh": ""
+    },
+    {
+      "key": "545.0",
+      "line_index": 545,
+      "inline_index": 0,
+      "line_hash": "1cc63a8e",
+      "speaker": "雫",
+      "ja": "ああ！　もう！",
+      "zh": ""
+    },
+    {
+      "key": "547.0",
+      "line_index": 547,
+      "inline_index": 0,
+      "line_hash": "4e796b41",
+      "speaker": "",
+      "ja": "すごく苛立ちながらも雫は我慢できなくなり、おもむろにパンツをずらすとすっかり濡れたおまんこに躊躇なく中指と人差し指を挿入した。",
+      "zh": ""
+    },
+    {
+      "key": "554.0",
+      "line_index": 554,
+      "inline_index": 0,
+      "line_hash": "65a9324e",
+      "speaker": "雫",
+      "ja": "フーッ♥　フゥーーーッ♥",
+      "zh": ""
+    },
+    {
+      "key": "556.0",
+      "line_index": 556,
+      "inline_index": 0,
+      "line_hash": "e2f26b16",
+      "speaker": "",
+      "ja": "濡れたおまんこは簡単に２本の指を咥え込んでびゅくびゅくとイヤらしく蠢いている。",
+      "zh": ""
+    },
+    {
+      "key": "558.0",
+      "line_index": 558,
+      "inline_index": 0,
+      "line_hash": "480ff9e2",
+      "speaker": "",
+      "ja": "そんなおまんこを雫は挿入した指で掻き回し始めた。",
+      "zh": ""
+    },
+    {
+      "key": "561.0",
+      "line_index": 561,
+      "inline_index": 0,
+      "line_hash": "e6e90d30",
+      "speaker": "雫",
+      "ja": "こ、こんな……グチョグチョになってしまって……うぅぅっ……わ、わたくしが……あんなもので興奮するなど……くっ……ふぅぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "563.0",
+      "line_index": 563,
+      "inline_index": 0,
+      "line_hash": "ee036324",
+      "speaker": "",
+      "ja": "そう言っても疼く身体はどうしようもなく、おまんこで蠢く指を止めることもできない。",
+      "zh": ""
+    },
+    {
+      "key": "566.0",
+      "line_index": 566,
+      "inline_index": 0,
+      "line_hash": "2c14690c",
+      "speaker": "雫",
+      "ja": "ふぅーっ……ふぅーっ……なんでこんな……くふぅぅ……んんんっ♥　あぁぁ……どんどん溢れてきてる……もうベチョベチョで……♥",
+      "zh": ""
+    },
+    {
+      "key": "568.0",
+      "line_index": 568,
+      "inline_index": 0,
+      "line_hash": "90fa6e47",
+      "speaker": "",
+      "ja": "雫の指はおまんこを出入りしながら掻き回すように動き続けた。",
+      "zh": ""
+    },
+    {
+      "key": "570.0",
+      "line_index": 570,
+      "inline_index": 0,
+      "line_hash": "d3b67a34",
+      "speaker": "",
+      "ja": "その度に淫らな水音が鳴り、ネットリとした汁が滴っていく。",
+      "zh": ""
+    },
+    {
+      "key": "573.0",
+      "line_index": 573,
+      "inline_index": 0,
+      "line_hash": "cd9ab048",
+      "speaker": "雫",
+      "ja": "んっ♥　んんんっ♥　指がヌルヌルになって……ふぅぅ♥　んあぁぁ♥",
+      "zh": ""
+    },
+    {
+      "key": "576.0",
+      "line_index": 576,
+      "inline_index": 0,
+      "line_hash": "c8f70bfa",
+      "speaker": "雫",
+      "ja": "こ、こんなにびしょびしょに濡れてしまって……んっ♥　くふぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "579.0",
+      "line_index": 579,
+      "inline_index": 0,
+      "line_hash": "8655a784",
+      "speaker": "雫",
+      "ja": "も、もしエッチすることになったら、あのおちんちんがここに……っ",
+      "zh": ""
+    },
+    {
+      "key": "581.0",
+      "line_index": 581,
+      "inline_index": 0,
+      "line_hash": "e9ff18c1",
+      "speaker": "",
+      "ja": "そんな想像をした雫だが、すぐにそれを否定するように激しく首を横に振った。",
+      "zh": ""
+    },
+    {
+      "key": "584.0",
+      "line_index": 584,
+      "inline_index": 0,
+      "line_hash": "5ad6687a",
+      "speaker": "雫",
+      "ja": "いいえ！　ありえません！　わたくしが男となんかと！",
+      "zh": ""
+    },
+    {
+      "key": "586.0",
+      "line_index": 586,
+      "inline_index": 0,
+      "line_hash": "abbf2",
+      "speaker": "",
+      "ja": "必死に口では否定してみるが、{G_PlayerName}の裸体を思い出すと悶々としてしまい指の動きがどんどん激しくなっていってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "589.0",
+      "line_index": 589,
+      "inline_index": 0,
+      "line_hash": "eae3c9fa",
+      "speaker": "雫",
+      "ja": "んんんっ！　な、なんでわたくしがっ！　あ、あんなのに興奮して！　くっ、うぅぅっ！　あふっ……うっ、んくぅぅぅっ♥",
+      "zh": ""
+    },
+    {
+      "key": "591.0",
+      "line_index": 591,
+      "inline_index": 0,
+      "line_hash": "cc63603f",
+      "speaker": "",
+      "ja": "拒絶しようとすればする程、{G_PlayerName}の全裸がハッキリと蘇る。それが雫の興奮を煽り、おまんこからはネットリとした汁が後から後から溢れ出てしまう。",
+      "zh": ""
+    },
+    {
+      "key": "594.0",
+      "line_index": 594,
+      "inline_index": 0,
+      "line_hash": "3dba25ff",
+      "speaker": "雫",
+      "ja": "……だ、だめっ……おまんこ指でズボズボするの……んんんっ♥　どんどん気持ちよくなって……はふぅ♥　はぁんっ♥　あんあんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "597.0",
+      "line_index": 597,
+      "inline_index": 0,
+      "line_hash": "57e065c2",
+      "speaker": "雫",
+      "ja": "ど、どうしてわたくし……こ、こんなっ♥　あふぅぅんっ♥　も、もう……だめっ♥　おまんこ……いっ、いいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "599.0",
+      "line_index": 599,
+      "inline_index": 0,
+      "line_hash": "57cd8d7",
+      "speaker": "",
+      "ja": "いつの間にかさっきまで否定していた言葉すら出なくなってきて雫は夢中で濡れたおまんこを指で掻き回し喘ぐ。",
+      "zh": ""
+    },
+    {
+      "key": "601.0",
+      "line_index": 601,
+      "inline_index": 0,
+      "line_hash": "16559737",
+      "speaker": "",
+      "ja": "その度に腰が何度も小さく跳ねて、おまんこが物欲しげに蠢いた。",
+      "zh": ""
+    },
+    {
+      "key": "604.0",
+      "line_index": 604,
+      "inline_index": 0,
+      "line_hash": "ac122dcb",
+      "speaker": "雫",
+      "ja": "んふぅぅ♥　どんどん溢れてくるぅ♥　ぐっちゅぐちゅになるぅ♥　はふぅぅ♥　はぁ♥　はぁ♥　おまんこ気持ちいい～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "606.0",
+      "line_index": 606,
+      "inline_index": 0,
+      "line_hash": "1602ac27",
+      "speaker": "",
+      "ja": "息を荒げながら雫はすっかり夢中になっておまんこを指で掻き回す。その刺激で雫は、絶頂が徐々に近づいてくるのを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "609.0",
+      "line_index": 609,
+      "inline_index": 0,
+      "line_hash": "c39633b6",
+      "speaker": "雫",
+      "ja": "イくっ♥　イッちゃうぅ♥　はぁはぁ♥　あっ……あぁんっ♥",
+      "zh": ""
+    },
+    {
+      "key": "612.0",
+      "line_index": 612,
+      "inline_index": 0,
+      "line_hash": "9aa6eb9e",
+      "speaker": "雫",
+      "ja": "ああ～っ！　だめっ！　気持ちいいっ！　イくっ、イっくぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "620.0",
+      "line_index": 620,
+      "inline_index": 0,
+      "line_hash": "da5c5744",
+      "speaker": "雫",
+      "ja": "んんん～～～～～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "622.0",
+      "line_index": 622,
+      "inline_index": 0,
+      "line_hash": "a284b682",
+      "speaker": "",
+      "ja": "雫は派手に潮を吹きながら大きな絶頂に襲われてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "627.0",
+      "line_index": 627,
+      "inline_index": 0,
+      "line_hash": "972185d5",
+      "speaker": "雫",
+      "ja": "気持ちいい♥　気持ちいい♥　おまんこ天国になるっ♥　すごいっ、いいっ♥",
+      "zh": ""
+    },
+    {
+      "key": "629.0",
+      "line_index": 629,
+      "inline_index": 0,
+      "line_hash": "f4e96a22",
+      "speaker": "",
+      "ja": "すっかり快感に溺れている雫は、ギュッと目をつむり歯を食いしばっていた。絶頂に集中しすぎ何も考えられず、口の端からヨダレが垂れていることにすら気づいていない。",
+      "zh": ""
+    },
+    {
+      "key": "632.0",
+      "line_index": 632,
+      "inline_index": 0,
+      "line_hash": "db9a22c9",
+      "speaker": "雫",
+      "ja": "はぁ……はぁ……はぁ……ふぅ～……ふぅ～……",
+      "zh": ""
+    },
+    {
+      "key": "634.0",
+      "line_index": 634,
+      "inline_index": 0,
+      "line_hash": "1ad89fb7",
+      "speaker": "",
+      "ja": "絶頂の余韻が徐々に治まり息づかいは荒いものの雫は徐々に思考を取り戻し始めた。そして自らの姿にハッとする。",
+      "zh": ""
+    },
+    {
+      "key": "637.0",
+      "line_index": 637,
+      "inline_index": 0,
+      "line_hash": "f30cc38d",
+      "speaker": "雫",
+      "ja": "あっ……まずい……見つからないうちに処理しなくては……！",
+      "zh": ""
+    },
+    {
+      "key": "639.0",
+      "line_index": 639,
+      "inline_index": 0,
+      "line_hash": "ae420b11",
+      "speaker": "",
+      "ja": "我に返った雫はそそくさと乱れた服を整えると、びしょびしょに濡れてしまっているおまんこを拭き始めるのだった。",
+      "zh": ""
+    }
+  ]
+}

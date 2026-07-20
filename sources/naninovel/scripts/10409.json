@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "8388205a",
+      "speaker": "コハル",
+      "ja": "止めるって……どうやって！？",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "11a719a2",
+      "speaker": "コハル",
+      "ja": "あ、もしかしてこの村じゃそんなの簡単だったり……？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "9feba29e",
+      "speaker": "コーゼ",
+      "ja": "そんなわけないでしょ～……ブロワー、何か考えがあるの？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "e1c7517",
+      "speaker": "ブロワー",
+      "ja": "石達が言うには、ヘンな物があるらしいんだけど……それがまだわかんねー",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "8069a981",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヘンな物……？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "2d0de790",
+      "speaker": "雫",
+      "ja": "ひとまず戻って、色々準備をいたしましょう",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "894a38f2",
+      "speaker": "ブロワー",
+      "ja": "そうだな……今ある道具だけじゃ心もとない。一度帰って別の採掘道具も持って来たほうが良さそうだ",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "c3a7d4f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫……？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "749b97b7",
+      "speaker": "雫",
+      "ja": "（万が一の場合に飛び立てるようにしておかねば、我々も命を落とす危険があります）",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "d1927a05",
+      "speaker": "雫",
+      "ja": "（サンプルを手に入れ、飛び立てるようになればこの星はわたくし達とは関係ありません。長居は無用です）",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "e5cecfae",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんな薄情な……）",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "6c454190",
+      "speaker": "雫",
+      "ja": "（必ず見捨てるとは言っていません。備えというものは常に必要です）",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "d6b66e27",
+      "speaker": "ブロワー",
+      "ja": "じゃあ、おいらたちは必要な物を取ってくる",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "7f057f01",
+      "speaker": "ルミナ",
+      "ja": "うん……私達も、ちょっと……準備してくる、ね",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "b3a2aa20",
+      "speaker": "コーゼ",
+      "ja": "はー、マフィアに溶岩に……マジ勘弁してよね～",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "f74b330e",
+      "speaker": "雫",
+      "ja": "戻りました。サンプルの解析をお願いします。量は問題ありませんか？",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "ebde404a",
+      "speaker": "",
+      "ja": "ゴロゴロと石を取り出す雫。一体どこに持っていたのか……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "e65e8bf4",
+      "speaker": "アポロ",
+      "ja": "十分ですね。これを解析すれば引力のパターンを分析し、星からの脱出も可能になるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "59b454f1",
+      "speaker": "ルミナ",
+      "ja": "脱出、なんだけど……アポロちゃん、この星は今……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "22660f29",
+      "speaker": "雫",
+      "ja": "……ということで、すぐに飛び立つ準備を",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "3f9c4dc1",
+      "speaker": "{G_PlayerName}",
+      "ja": "逆だろ！　解決するまで待てって話だろ！？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "ab8d907c",
+      "speaker": "雫",
+      "ja": "噴火は現地に住まう人々の問題です。我々が立ち入れば、犯罪行為となり得ます",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "92b72805",
+      "speaker": "ルミナ",
+      "ja": "……うう。でも、確かに……ただの噴火なら、私達が、介入したら……ダメ、かも……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "9562d5b6",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう、なのか……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "86a647a",
+      "speaker": "",
+      "ja": "確かに、いちいちピンチの人を見ては助ける、を繰り返していればキリが無いかも知れない。でも……",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "cccd8387",
+      "speaker": "ブロワー",
+      "ja": "おいら達からすれば、たまったもんじゃあないな",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "52624ae5",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　えっ！？　いつの間に！？",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "86e23d45",
+      "speaker": "雫",
+      "ja": "尾行……！？　そんな、わたくしが気づけぬはずが……！",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "64b84dd6",
+      "speaker": "ブロワー",
+      "ja": "石に聞いたんだよ。どんなに足跡を消そうと、石の目撃情報は消せない",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "8c342c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ど、どうするんだ……？）",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "6a1e519a",
+      "speaker": "雫",
+      "ja": "（……今ならこいつを消せば、何も問題はありませんね）",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "8fc414",
+      "speaker": "{G_PlayerName}",
+      "ja": "（物騒な事言うな！　助けてもらった立場だろ！）",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "15bbc2db",
+      "speaker": "ブロワー",
+      "ja": "おいらがわざわざあんちゃん達の後をつけたのは理由があってな",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "f1a0163f",
+      "speaker": "ブロワー",
+      "ja": "石たちが「溶岩の中に仲間じゃない異物がある、噴火はそのせいだ」って騒いでんだ",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "cdeae842",
+      "speaker": "ブロワー",
+      "ja": "「その異物に近い物が最近ここらへんに来た」って言うから来た。この乗り物のことだろ？　あんちゃん達の物とは思わなかったけどな",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "594bc89",
+      "speaker": "{G_PlayerName}",
+      "ja": "コレに近い物がある？　それってつまり……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "5cc6c780",
+      "speaker": "雫",
+      "ja": "緑と獣の星のように、この星にも異常な機械がある……？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "5a9ec237",
+      "speaker": "アポロ",
+      "ja": "……ムチャクチャな引力や磁力でわかりにくいですが、確かに強力なエネルギーを放出している機械の反応を感じますね",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "b46d668",
+      "speaker": "ルミナ",
+      "ja": "じゃあ、それを止めれば……",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "52d046e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "噴火は止まる！？",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "ca1509ac",
+      "speaker": "ルミナ",
+      "ja": "……それなら、現地の問題じゃなくて……星間犯罪を止める名目が、あるよね。雫……",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "598bd077",
+      "speaker": "雫",
+      "ja": "……危険があるのは看過いたしかねますが……仕方がございませんね",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "bd34821b",
+      "speaker": "ルミナ",
+      "ja": "ありがとう……！",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "61557570",
+      "speaker": "ブロワー",
+      "ja": "しかし、変わったトロッコだな。他の村にはこんなモンまであるのか",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "ff04bc38",
+      "speaker": "雫",
+      "ja": "えっ……ええ、そうです",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "2429c06b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もしかして、まだ他の村から来たって嘘信じてる？）",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "ead4b93f",
+      "speaker": "雫",
+      "ja": "（石の声とやらに頼りすぎてカンが鈍っておられるのでは……）",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "bab694cd",
+      "speaker": "ルミナ",
+      "ja": "でも、良かった……星を守る、お手伝いが出来るんだね……",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "d6529c3",
+      "speaker": "ブロワー",
+      "ja": "星？　村じゃなくて？",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "11a403d4",
+      "speaker": "ルミナ",
+      "ja": "あ……えっと、私の村では……村を星って言う文化があって……",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "505e418a",
+      "speaker": "ブロワー",
+      "ja": "ふーん？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "c48848f2",
+      "speaker": "コハル",
+      "ja": "そ、それで……その機械の位置さえわかれば、なんとかなるってことでいいの？",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "1ce747fb",
+      "speaker": "雫",
+      "ja": "恐らくは。前回同様に、止められなかったとしても破壊すれば良いのです",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "30e3f5c7",
+      "speaker": "ブロワー",
+      "ja": "じゃあ急がねえと！　残り２時間もねえぞ！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "19e98375",
+      "speaker": "アポロ",
+      "ja": "であれば、こちらをお持ちください",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "58e3fab1",
+      "speaker": "",
+      "ja": "アポロが、雫に向け何かする。……確か、雫の持つタンマツにデータを送信するとかいう動きだ。",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "122822e",
+      "speaker": "アポロ",
+      "ja": "そちらのプログラムを利用すれば、近距離ではありますが機械の反応を調べることができます",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "2d7267c",
+      "speaker": "雫",
+      "ja": "わかりました",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "a1e752c3",
+      "speaker": "ブロワー",
+      "ja": "機械……とかいうやつの近くに行けばいいってことか？　じゃあ、おおまかな場所なら石の声でわかるから、そっからは任せりゃいいんだな！",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "abe8ee35",
+      "speaker": "雫",
+      "ja": "なるほど。そう出来ると助かります。案内をお願いしても？",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "ea5c98f6",
+      "speaker": "ブロワー",
+      "ja": "もちろん！　行くぞ！",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "792a9ff4",
+      "speaker": "コハル",
+      "ja": "こっち……最初の道とは違うみたいだけど、大丈夫なのよね？",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "d4c49ff4",
+      "speaker": "ブロワー",
+      "ja": "別の入口から近道する！　鉱山には何個も入口があるんだ、ついてこい！",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "6ea274ec",
+      "speaker": "ブロワー",
+      "ja": "こっちだ、石の声はこの奥に続いて……",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "e4779680",
+      "speaker": "ブロワー",
+      "ja": "と、止まれ！",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "5657c262",
+      "speaker": "",
+      "ja": "ブロワーの声に慌てて足を止める。それを見て、岩の陰から武器を持った男達が現れた。",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "c20687a8",
+      "speaker": "ブロワー",
+      "ja": "お前らは……",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "c24c9c86",
+      "speaker": "屈強な男性",
+      "ja": "やっぱり嗅ぎつけやがったか。コーゼのヤツがウロウロしてたから、ヤベえとは思ってたが……こんなに早いとはな",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "db167030",
+      "speaker": "{G_PlayerName}",
+      "ja": "嗅ぎつける？",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "eb34405d",
+      "speaker": "ブロワー",
+      "ja": "……爆弾を使った違法採掘のことだろ。そんなこと今はどうでもいい、おいら達は……",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "ea077d51",
+      "speaker": "ガラの悪い男性",
+      "ja": "俺達にだって関係ねーんだよ、お前らの理屈なんざ！　いつもいつも邪魔ばっかりしやがって！",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "e8d26b5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでお前ら、同じ村に住む人間なのにこんな、足を引っ張り合うような真似を……！",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "ca1970e",
+      "speaker": "屈強な男性",
+      "ja": "同じ村に住んでるからこそ邪魔なんだよ。どれだけ俺達が苦労してるかも知らねぇで",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "ef054040",
+      "speaker": "ガラの悪い男性",
+      "ja": "価値のある石は根こそぎブロワーに掘られて、俺達の石はコーゼに安く買い叩かれる。いつまで経っても、俺達は上にいけやしねえ！",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "8812ef1d",
+      "speaker": "ブロワー",
+      "ja": "おいらは根こそぎ掘ったりしてないし、コーゼだってお前たちが違法に採掘しなけりゃ、もっとマシな値で……",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "b398e996",
+      "speaker": "ガラの悪い男性",
+      "ja": "うるせえッ！　いつもいつも上から偉そうに見下しやがって、イラついてたんだよッ！　今までの恨み、思い知らせてやる！",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "4643527c",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそっ、話が通じそうにないな……このままじゃ皆死ぬかもしれないのに",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "2ab8e546",
+      "speaker": "ブロワー",
+      "ja": "残り時間は１時間くらいか……急いで片付けて、奥に行かねえと……！",
+      "zh": ""
+    }
+  ]
+}

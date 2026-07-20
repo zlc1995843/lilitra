@@ -1,0 +1,598 @@
+{
+  "lines": [
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "3ffff29a",
+      "speaker": "雫",
+      "ja": "さて……どこを案内いたしましょうか……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "ee9f65f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり、最初はあそこじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "1e88b3c3",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}？　あそこってどこ？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "a475e655",
+      "speaker": "{G_PlayerName}",
+      "ja": "操縦席だよ、操縦席！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "2cf0cc1e",
+      "speaker": "コハル",
+      "ja": "操縦席？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "f71ad6eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "この船を動かす部屋！　運転手がいるんだろ？　流石に勝手に動くわけないもんな！",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "bc872e4e",
+      "speaker": "雫",
+      "ja": "いえ、勝手に動きますが",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "d18a88f",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ…………",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "659c99df",
+      "speaker": "雫",
+      "ja": "そもそも、この船に運転席と呼べる場所はありません。基本的にはオートパイロット……自動操縦です",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "278d8ea6",
+      "speaker": "雫",
+      "ja": "例外的な操作が必要な場合もありますが、大抵は様々な場所にある端末を操作すれば事足ります",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "5560895e",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……はぁ～……運転席、見てみたかったけどなぁ",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "697bf762",
+      "speaker": "コハル",
+      "ja": "それって、御者無しの馬車ってこと？　そうとう優秀な馬なのね……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "37eb851c",
+      "speaker": "？？？",
+      "ja": "誰が馬ですか。仮に運転席があったとして、文明レベル最底辺の人間に見せるわけがないでしょう",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "a8c135aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おい、ケンカ売らなきゃ喋れないのか？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "28d1650",
+      "speaker": "雫",
+      "ja": "……は？　なんですか、いきなり睨みつけて",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "20df7554",
+      "speaker": "{G_PlayerName}",
+      "ja": "今俺たちのことまた馬鹿にしただろ？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "419ea84f",
+      "speaker": "雫",
+      "ja": "私は何も話しておりませんよ。……卑屈すぎて幻聴が聞こえたのでは？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "e3f5ddcb",
+      "speaker": "コハル",
+      "ja": "え？　でも確かに聞こえたけど……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "2bd67ac4",
+      "speaker": "雫",
+      "ja": "ふっ……それでは案内を続けましょう",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "70d039e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………？？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "83d1ac85",
+      "speaker": "",
+      "ja": "あたりを見回すが、２人以外の影はない。確かに声が聞こえたはずだが……",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "42b5418e",
+      "speaker": "雫",
+      "ja": "……と、基本的には個室が殆どです。部屋が多いので、間違えないようにお気をつけください",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "fc0f5432",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はあ……間違えないといいけど",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "a02da6c7",
+      "speaker": "コハル",
+      "ja": "広いし、見た目が似たような扉ばっかりだし……覚えられるかなあ……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "33bd4d73",
+      "speaker": "雫",
+      "ja": "心配は必要ありません。もしもご自身の部屋がわからなくなった時は……",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "e6955cda",
+      "speaker": "",
+      "ja": "雫の言葉を遮るように、甲高い音が宇宙船の廊下に響き渡った。",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "3b23ce67",
+      "speaker": "コハル",
+      "ja": "こ……これって！？",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "f0d0a512",
+      "speaker": "？？？",
+      "ja": "宇宙生物です。当機の自動処理限界ですので、対処をお願いします",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "47e74a3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ、今の声！　さっき聞こえたやつ！",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "92233cfb",
+      "speaker": "雫",
+      "ja": "……説明は後で。宇宙船が航行中の些細な障害は、宇宙船に備わった機能で対処できます",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "aa6c2013",
+      "speaker": "雫",
+      "ja": "宇宙技術が発達した宙域であれば、整備され障害自体が少ない。ですが、現在いる場所は……",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "8f425531",
+      "speaker": "？？？",
+      "ja": "ド田舎で危険な物体、生物がいるということです。……早く対処を",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "328687ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "ド田舎……",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "786c0f96",
+      "speaker": "雫",
+      "ja": "説明しながら向かいます",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "5cf92c23",
+      "speaker": "コハル",
+      "ja": "何で私の腕掴んで歩き出すの！？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "977de61f",
+      "speaker": "雫",
+      "ja": "宇宙船に危害を加える生物を、直接排除します",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "f347c3d1",
+      "speaker": "コハル",
+      "ja": "直接！？　外って出れないんじゃないの！？",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "1cd0f737",
+      "speaker": "雫",
+      "ja": "生身では、というだけです。宇宙空間に出てもある程度活動できるよう、体表をコーティングする機械がございます。それで外へ出て戦うのです",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "b04d3b1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっき危険って言ってたのに！？",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "812fe5a8",
+      "speaker": "雫",
+      "ja": "……ああ、使う機械はリリアンしか使えないので、あなたはここでボーッと突っ立ってお待ちください",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "76519eeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ！？",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "533139f",
+      "speaker": "雫",
+      "ja": "そも、リリアンでなければ魔力の使用も困難。魔力を使わなければ宇宙空間では会話すら出来ませんからね",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "4fafee00",
+      "speaker": "雫",
+      "ja": "心配せずとも、多少放置したところで宇宙船が汚れる程度の被害です。安心して呆けているといいでしょう",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "8b386e42",
+      "speaker": "",
+      "ja": "そう言いながらも、雫はコハルの腕を急かすように引っ張っている。",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "292c1da2",
+      "speaker": "コハル",
+      "ja": "よ、よくわかんないけど……行ってくる！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "4f15a10b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……気をつけろよ！",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "37fb124",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}も気をつけて！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "b6e9f851",
+      "speaker": "{G_PlayerName}",
+      "ja": "一緒に冒険に出たと思ったのに……ここでも俺は置いてけぼりかよ……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "f1478158",
+      "speaker": "雫",
+      "ja": "ここです",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "b49cbe12",
+      "speaker": "コハル",
+      "ja": "ここ……？　廊下の途中だと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "9cc1ac2c",
+      "speaker": "雫",
+      "ja": "この窪みにあるスイッチを引くと……",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "cb4c6b44",
+      "speaker": "コハル",
+      "ja": "きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "755b1fe8",
+      "speaker": "",
+      "ja": "壁がズレるように開き、小さい出入り口が現れた。向こう側には、暗い中に星が輝く宇宙空間が見える。",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "1dd4fae6",
+      "speaker": "コハル",
+      "ja": "き、危険だったんじゃないの！？　空気がこう、なんかボシューッて出ていくみたいな！",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "4bd4545a",
+      "speaker": "雫",
+      "ja": "ここには見えない膜が張られており、空間自体は隔絶されています。ここから出入りすることで、その膜をリリアンは体表に纏えるのです",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "cd01547a",
+      "speaker": "コハル",
+      "ja": "……？　えーっと……",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "f3e23728",
+      "speaker": "雫",
+      "ja": "とにかく、ここからならリリアンであれば出入りが可能です。早く外へ出ましょう",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "e1e281e2",
+      "speaker": "コハル",
+      "ja": "あっ！？　ちょっと、待ってよ！",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "cfa3a2b1",
+      "speaker": "雫",
+      "ja": "さて……敵対生物は……",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "38ceb952",
+      "speaker": "コハル",
+      "ja": "う、うわ……浮いてる……！",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "ea0bd23c",
+      "speaker": "雫",
+      "ja": "落ち着かれてください。リリアンであれば無意識に魔力を使用して、体勢が整うはずで……",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "bb8e294",
+      "speaker": "コハル",
+      "ja": "わーっ！　きゃーっ！　すごーい！",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "f86d998",
+      "speaker": "雫",
+      "ja": "…………先に向かってよろしいでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "c780f90",
+      "speaker": "コハル",
+      "ja": "あっ、ごめん！　す、すぐ行く！　すぐ行くからーっ！",
+      "zh": ""
+    }
+  ]
+}

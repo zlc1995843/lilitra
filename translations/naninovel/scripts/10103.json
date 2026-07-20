@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "2890e5b",
+      "speaker": "雫",
+      "ja": "それでは……解散して各々自由に過ごすといたしましょうか",
+      "zh": "那么……我们就解散，各自自由行动吧，如何？"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "d617c3a3",
+      "speaker": "コハル",
+      "ja": "えっ、か、解散？",
+      "zh": "诶？解、解散？"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "90fa0ccf",
+      "speaker": "ルミナ",
+      "ja": "雫……２人に宇宙船を案内しなきゃ駄目、でしょ？",
+      "zh": "翆……还得给那两个人介绍飞船吧？"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "f475295e",
+      "speaker": "雫",
+      "ja": "……そうでございました。船内を案内いたしますね",
+      "zh": "……是的。那就带你们参观飞船内部吧。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "e540ad93",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今確実に俺たちのことを放置するつもりだったな……）",
+      "zh": "（她果然是打算把我们扔下不管啊……）"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "12254122",
+      "speaker": "コハル",
+      "ja": "あっ！　じゃあさ、じゃあさ！",
+      "zh": "啊！那、那个！"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "febf39a2",
+      "speaker": "コハル",
+      "ja": "ちょっと外に出てみてもいい？　風とかすごいんじゃないかな！",
+      "zh": "能出去看看吗？外面风肯定很大吧！"
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "2296213",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、確かに！　すげえスピード出てるんだよな？　ちょっと顔出すくらいならいけるんじゃないか？",
+      "zh": "哦，确实！速度这么快！只是探个头应该没问题吧？"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "b4ceccba",
+      "speaker": "ルミナ",
+      "ja": "えっ……と……",
+      "zh": "呃……那个……"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "4e2f6eaa",
+      "speaker": "雫",
+      "ja": "……案内の前に、お２人には宇宙について説明したほうがよろしいですね",
+      "zh": "……在参观之前，最好先给两位解释一下宇宙的情况。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "5afa9148",
+      "speaker": "ルミナ",
+      "ja": "宇宙ってね……そのまま外に出たら、死んじゃう……の……",
+      "zh": "宇宙啊……就这么出去的话，会死的……"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "33dfab79",
+      "speaker": "コハル",
+      "ja": "ええっ！？　そうなの！？　なんで！？",
+      "zh": "诶诶！！？是这样吗！？为什么！？"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "31b740d1",
+      "speaker": "雫",
+      "ja": "わかりやすくお伝えするならば……空気はありませんし、凄く寒いうえ、危険な見えない物も飛び交っています",
+      "zh": "简单来说……没有空气，非常寒冷，而且还有各种看不见的危险东西到处飞。"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "857c7599",
+      "speaker": "雫",
+      "ja": "外に出る方法はありますが、対策しなければとにかく死にます",
+      "zh": "虽然也有办法出去，但如果不做好防护，肯定会死。"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "d463d682",
+      "speaker": "{G_PlayerName}",
+      "ja": "か……顔だけでも？",
+      "zh": "那……只露个脸也不行吗？"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "2d95f284",
+      "speaker": "雫",
+      "ja": "……マグマに一瞬浸かっても大丈夫なら大丈夫ではないでしょうか",
+      "zh": "……如果被岩浆沾到一瞬都没事，那才叫没事吧？"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "bc72796b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひぇー……",
+      "zh": "噫——……"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "8ce5db9b",
+      "speaker": "ルミナ",
+      "ja": "だから、この船の窓は開かないし……それと……",
+      "zh": "所以，这艘船的窗户不会打开……还有……"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "dd68c32f",
+      "speaker": "ルミナ",
+      "ja": "っ…………",
+      "zh": "唔…………"
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "1f7610d9",
+      "speaker": "",
+      "ja": "話していたルミナがよろめく。近くの椅子に座り込む前に、雫が素早く抱きとめた。",
+      "zh": "正在说话的露米娜身体一晃。就在她快要坐到旁边的椅子上之前，翆迅速抱住了她。"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "7e7e1718",
+      "speaker": "雫",
+      "ja": "ルミナ様！　いけません！　すぐにお部屋で休みませんと！",
+      "zh": "露米娜大人！不行！得马上去房间休息！"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "a8db6e05",
+      "speaker": "ルミナ",
+      "ja": "そう……だね。色々無理……しすぎたみたい……",
+      "zh": "是啊……看来是……太勉强自己了……"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "af371893",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫か……？",
+      "zh": "没、没事吧……？"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "6f94767d",
+      "speaker": "",
+      "ja": "気遣うと、ルミナがこちらに力ない笑みを返す。そして１人で扉のほうへと歩き出すが……",
+      "zh": "面对关心，露米娜向我们露出了无力的微笑。然后她一个人朝门那边走去……"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "c3bd77e",
+      "speaker": "雫",
+      "ja": "いけませんルミナ様、私がお送りを……",
+      "zh": "不行，露米娜大人，让我送您……"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "f97ce548",
+      "speaker": "ルミナ",
+      "ja": "大丈夫、一人で行けるから……二人に、続きを案内して？",
+      "zh": "没关系，我一个人能行……你带他们继续参观吧？"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "eca5b925",
+      "speaker": "雫",
+      "ja": "ですが……",
+      "zh": "可是……"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "a7a9714f",
+      "speaker": "ルミナ",
+      "ja": "大丈夫、何かあったらアポロもいるから",
+      "zh": "没事的，出了什么事还有阿波罗在呢。"
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "6aaf5a99",
+      "speaker": "雫",
+      "ja": "……かしこまりました。お気をつけて",
+      "zh": "……明白了。请小心。"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "b6f187ba",
+      "speaker": "コハル",
+      "ja": "…………？",
+      "zh": "…………？"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "99bac503",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アポロ……？）",
+      "zh": "（阿波罗……？）"
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "75744a1a",
+      "speaker": "",
+      "ja": "雫は深々と頭を下げ、ルミナは部屋を出ていった。",
+      "zh": "翆深深地低下头，露米娜离开了房间。"
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "99ac86cb",
+      "speaker": "雫",
+      "ja": "さて、では説明の続きをいたしましょう",
+      "zh": "好了，那我们继续讲解吧。"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "6ddc40e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫なのか？　従者なのに、ルミナから離れて……",
+      "zh": "没问题吗？你明明是随从，却离开露米娜身边……"
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "2b0fbb77",
+      "speaker": "雫",
+      "ja": "ルミナ様も、お１人になりたい時間はあります",
+      "zh": "露米娜大人也有想一个人待着的时候。"
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "62c29e35",
+      "speaker": "コハル",
+      "ja": "風邪とかひいてないといいけど……あとでポーション持っていこうか？",
+      "zh": "希望她别感冒了……待会儿要不要拿点药过去？"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "8f80cabf",
+      "speaker": "雫",
+      "ja": "いいえ。リリアンなので問題は無いとは思いますが、別の星の薬を軽々に飲用することは……",
+      "zh": "不。因为是莉安，我觉得应该没问题，但轻易服用其他星球的药……"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "98de95dc",
+      "speaker": "コハル",
+      "ja": "そっか……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "915ea1cf",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "22ac1620",
+      "speaker": "雫",
+      "ja": "気を取り直しまして。宇宙という物の基本の説明を続けましょう",
+      "zh": "振作起来吧。继续讲解宇宙的基本知识。"
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "b84495a3",
+      "speaker": "コハル",
+      "ja": "あ、そうだそうだ。宇宙ってつまり、何もない空間が広がってるんだよね？",
+      "zh": "啊，对对。宇宙就是说，一片什么都没有的空间对吧？"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "fca4361e",
+      "speaker": "雫",
+      "ja": "おおよそ間違いございません",
+      "zh": "大体没错。"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "55f096da",
+      "speaker": "コハル",
+      "ja": "じゃあ何で星とか、色々浮いてるの？　魔力？",
+      "zh": "那为什么星星什么的都浮着？是魔力吗？"
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "6e0b30fc",
+      "speaker": "雫",
+      "ja": "……重力と呼ばれる物が、世界にはありまして",
+      "zh": "……世界上有一种叫重力的东西。"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "3a6901f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "重力……物が落ちる力だよな？",
+      "zh": "重力……就是物体下落的力量吧？"
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "760c69a2",
+      "speaker": "雫",
+      "ja": "ああ良かった……そこはご存知でしたか",
+      "zh": "啊，太好了……您知道这个啊。"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "40cf4b8b",
+      "speaker": "コハル",
+      "ja": "地の神に愛される物は重くて、天の神に愛される物は軽いんだよね？",
+      "zh": "被地神喜爱的物体就重，被天神喜爱的物体就轻对吧？"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "e4cdc1df",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "d687e307",
+      "speaker": "雫",
+      "ja": "え、ここからでございますか？　いえ、むしろどこからでございますか？",
+      "zh": "诶，从这里开始吗？不，该从哪里开始呢？"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "aee6e93d",
+      "speaker": "コハル",
+      "ja": "ど、どうしたの……？　何か悪いこと言っちゃった？",
+      "zh": "怎、怎么了……？我说了什么不好的话吗？"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "61ead7ac",
+      "speaker": "",
+      "ja": "十数分後…………",
+      "zh": "十分钟后……"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "cf8474ef",
+      "speaker": "コハル",
+      "ja": "へえ、つまり色んな星に地の神様がいて、神様の力が届かないところは浮いちゃうんだ？",
+      "zh": "诶，也就是说每颗行星上都有大地之神，神的力量够不到的地方就会浮起来？"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "171a41b",
+      "speaker": "{G_PlayerName}",
+      "ja": "大きい星ほどその引っ張る力が強いってことでいいのか？",
+      "zh": "可以理解为越大星球引力就越强吗？"
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "6759fb09",
+      "speaker": "雫",
+      "ja": "ええ……まあ……そのような感じで",
+      "zh": "嗯……差不多就是那个意思。"
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "98120bc3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんかどうも本当は違うけど一旦コレにしとこう感あるな……）",
+      "zh": "（感觉实际上不太一样……不过先这么理解吧。）"
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "d03b159a",
+      "speaker": "雫",
+      "ja": "それでその重力……が無いところを動ける乗り物が、宇宙船でございます",
+      "zh": "而那些能在没有重力的地方移动的载具，就是宇宙飞船。"
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "69bb53aa",
+      "speaker": "コハル",
+      "ja": "なるほどぉ……あたし達が住んでたみたいなところもいっぱいあるのかな？",
+      "zh": "原来如此……我们之前住的地方也有很多这样的星球吗？"
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "ea4691b",
+      "speaker": "雫",
+      "ja": "ございますが……数は多くありません。殆どは生命がいない星でございます",
+      "zh": "有的，不过数量不多。大多是完全没有生命的星球。"
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "96212643",
+      "speaker": "コハル",
+      "ja": "そうなんだ……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "2c327862",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ！　でもそれって、食料とかは……！",
+      "zh": "啊！但是这样的话，食物什么的怎么办？"
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "f2b6a606",
+      "speaker": "コハル",
+      "ja": "あ、そうか！　何もない空間で生き物もいない星が多いなら、ご飯とかお水とか大変なんじゃ……！？",
+      "zh": "啊，对哦！如果大多数星球都是空荡荡的、连生物都没有，那饭和水不就成大问题了吗？！"
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "69747978",
+      "speaker": "雫",
+      "ja": "蓄えや生産設備は整っておりますのでご心配なく。……時々星に降りて物資を調達する必要はございますが",
+      "zh": "储存及生产设备都很完善，请放心……只不过需要定期降落到星球上调配物资。"
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "82c673f5",
+      "speaker": "コハル",
+      "ja": "せいさんせつび……って？",
+      "zh": "精密的设备……？"
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "39a6917",
+      "speaker": "雫",
+      "ja": "植物を自動的に育成・収穫する設備や、菌類を培養して食用肉を作り出す設備もございます",
+      "zh": "有自动培育和收获植物的设备，还有培养菌类制作食用肉的设备。"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "12e5df4d",
+      "speaker": "コハル",
+      "ja": "……よくわかんないけど、すごーい！",
+      "zh": "……虽然听不太懂，但感觉很厉害！"
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "a8647041",
+      "speaker": "雫",
+      "ja": "……これは、案内をする場所や情報をかなり絞り込んだほうがよさそうですね",
+      "zh": "……我觉得，相关场所和信息还是不要透露太多比较好。"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "e580b54c",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いや……高い技術が使われてるのはわかるから、ある程度はお願いしたいんだが……",
+      "zh": "呃，也不是……既然用了高科技，那透露一些应该没问题吧……"
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "3d06ea7c",
+      "speaker": "雫",
+      "ja": "はあ……では廊下に出て別の部屋を案内いたしますが、休んでいるルミナ様の邪魔をしないようにお願いいたします。くれぐれも",
+      "zh": "哈……那我们在走廊里参观其他房间吧。不过请别打扰正在休息的露米娜大人，别恶作剧……倒也不是。"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "1e1daa2f",
+      "speaker": "コハル",
+      "ja": "はーい！",
+      "zh": "好！"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "6e678e4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナ……大丈夫かな？）",
+      "zh": "（露米娜……是夫人吗？）"
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "136e66",
+      "speaker": "ルミナ",
+      "ja": "……ふう……",
+      "zh": "……呼……"
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": "…………"
+    },
+    {
+      "key": "261.1",
+      "line_index": 261,
+      "inline_index": 1,
+      "line_hash": "a45d3685",
+      "speaker": "ルミナ",
+      "ja": "私、あなたと前にも……それで、あの……婚約……",
+      "zh": "我、之前和你……那个……婚约……"
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "370037de",
+      "speaker": "{G_PlayerName}",
+      "ja": "え…………",
+      "zh": "呃……"
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "5e4a2a0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………ごめん。覚えて、ないな……",
+      "zh": "…………抱歉，我不记得了。"
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "b6c7d7a",
+      "speaker": "ルミナ",
+      "ja": "そう……なん、だ……",
+      "zh": "这样……啊……"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "8b97fa70",
+      "speaker": "{G_PlayerName}",
+      "ja": "人違いとかじゃ、ないよな？",
+      "zh": "认错人了吧？"
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "d86c9963",
+      "speaker": "ルミナ",
+      "ja": "……うん……",
+      "zh": "……嗯……"
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": "…………"
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "7110ef7e",
+      "speaker": "ルミナ",
+      "ja": "私……馬鹿、みたい……",
+      "zh": "我……像只麋鹿一样……"
+    }
+  ]
+}

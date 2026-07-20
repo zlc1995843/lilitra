@@ -1,0 +1,652 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "3e78e322",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……ん～～～っ……よく寝た……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "aba062b7",
+      "speaker": "",
+      "ja": "何回目かの朝？　を迎える。最初こそ慣れない環境に戸惑っていたが、今となっては毎日快眠で、慣れた物だ。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "c2f2c44a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……って言っても、未だに何かわからないまま触らず放置してる機械も多いけどな）",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "83b5b3",
+      "speaker": "",
+      "ja": "機械師として興味深い物は多いが、いかんせんアポロの説明を聞いても理解が及ばない物が多い。",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "5849414d",
+      "speaker": "",
+      "ja": "詳細は教えてくれないし、構造を理解して自分の機械に活かす日が来るのはいつになることか……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1389e33b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おっと、ボーッとしてないで起きないとな",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "1b730bfa",
+      "speaker": "コハル",
+      "ja": "あ、{G_PlayerName}！　おはよう！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "2a17a1c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "おはよう。起きるタイミングよく合うよな",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "d3d340c0",
+      "speaker": "コハル",
+      "ja": "部屋の明かりがつく時間が同じなんじゃない？　アレのおかげでしっかり起きられるわよね",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "e0490d39",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、なるほどな……にしても、準備とか色々あると思うが……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "510e7602",
+      "speaker": "{G_PlayerName}",
+      "ja": "……お前、ちゃんと朝顔洗ったりしてるのか？　女なのに俺と同じタイミングって……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "6bf2da9c",
+      "speaker": "コハル",
+      "ja": "よけーなお世話よっ！　あたしは準備の手際が良いだけ！",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "63c1fe84",
+      "speaker": "{G_PlayerName}",
+      "ja": "いてて！　すまん、すまん！",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "805129f4",
+      "speaker": "雫",
+      "ja": "コハル様……お二方、おはようございます",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "6cedef29",
+      "speaker": "{G_PlayerName}",
+      "ja": "いい加減名前呼んでくれ……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "afa58d6e",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん、コハル、さん……おは、よう……",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "8130490a",
+      "speaker": "コハル",
+      "ja": "うん！　おはよう！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9bb731fa",
+      "speaker": "",
+      "ja": "配膳された朝ご飯の前に座り、各自が朝食を始める。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "a3ed651b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ。このパン、オーロラの家でも出たやつか？",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "b063d84d",
+      "speaker": "ルミナ",
+      "ja": "今朝……アポロが、発酵が終わったからって……出してくれた、よ。作り方、勉強してくれたみたい……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e2ee7cda",
+      "speaker": "コハル",
+      "ja": "行ったことのある星の料理なら再現できるようになるの？",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "b294e860",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば俺たちの星の料理も覚えてたな。なんだかんだやっぱり成長するんだなアポロも",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "2fc0c8",
+      "speaker": "",
+      "ja": "あなたに言われたくありません、とどこかでアポロの声が聞こえた気がした。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "e1985c88",
+      "speaker": "コハル",
+      "ja": "あの星も飛び立って一週間くらいかー。……また、落ちたりしないわよね？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "dd642166",
+      "speaker": "雫",
+      "ja": "物資も補充したばかり。しばらくは困りません",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "25820a81",
+      "speaker": "ルミナ",
+      "ja": "そもそも……墜落なんて早々……ないこと、だよ……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "c793b48e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは、それもそうだよな！　こんな高い技術があるのに、墜落なんて……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "38c50a22",
+      "speaker": "コハル",
+      "ja": "……これ、何かの間違い？　訓練とかよね、きっと",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "5e8cc0c5",
+      "speaker": "アポロ",
+      "ja": "……大変恐れながら申し上げます。現在当機は異常な引力によって惑星に引き寄せられています",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "39c3b561",
+      "speaker": "コハル",
+      "ja": "イジョウなインリョク～ッ！？　なんなのよ、毎回毎回！",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "7752c03b",
+      "speaker": "アポロ",
+      "ja": "げ、原因はまだ不明で……申し訳ございません",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "7a20bb8b",
+      "speaker": "ルミナ",
+      "ja": "ご……ごめん、ね……",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "e5ca1be6",
+      "speaker": "コハル",
+      "ja": "２人が謝ることじゃ……こっちこそ、騒いでごめんなさい",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "3c7d1671",
+      "speaker": "雫",
+      "ja": "引き寄せられている……というのは、何かの攻撃ということですか？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "25ae2ce3",
+      "speaker": "アポロ",
+      "ja": "わかりません。当機は再び不時着体勢に入ります",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "ae4060a9",
+      "speaker": "雫",
+      "ja": "……はあ、もうこの状況も慣れてしまいましたね",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "5f86c99e",
+      "speaker": "{G_PlayerName}",
+      "ja": "慣れてたまるかっ！",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "179daaa5",
+      "speaker": "雫",
+      "ja": "み、皆様大丈夫ですか？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "760abcd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "前に比べればまだ……大丈夫だけど、はあ……心臓がまだバクバクしてるぞ",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "89ed33be",
+      "speaker": "アポロ",
+      "ja": "……周囲を確認していますが、暗過ぎますね。岩地が広がっているようです",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "b26c83bb",
+      "speaker": "コハル",
+      "ja": "今、この星は夜……ってこと？",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "cbd9decb",
+      "speaker": "アポロ",
+      "ja": "恐らくは。細かく輝く石もありますが、今は外へ出ないほうが無難でしょう",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "a027e174",
+      "speaker": "雫",
+      "ja": "岩地……と言っていましたが、危険は無いのですか？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "6a6ab82b",
+      "speaker": "アポロ",
+      "ja": "生体反応はありません",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "4f126538",
+      "speaker": "雫",
+      "ja": "ふむ……調査は必要ですが、朝まで待つとしましょうか",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "8dedd727",
+      "speaker": "アポロ",
+      "ja": "獣を呼ぶかも知れないので明かりを落としましょう。ではよき夜を",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "875ed0da",
+      "speaker": "ルミナ",
+      "ja": "よき夜を……って言っても……",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "ac431ed1",
+      "speaker": "{G_PlayerName}",
+      "ja": "まだ起きたばっかりなんだけどな……",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "76f9f553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "30058eb0",
+      "speaker": "コハル",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "dd7a8b8a",
+      "speaker": "",
+      "ja": "無意識に沈黙が訪れる。暗闇がそうさせるのか、獣を呼ぶかも知れない、という言葉をつい意識してしまっているのだろうか。",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "f2cd4c14",
+      "speaker": "コハル",
+      "ja": "……ふふっ、話すくらい、いいわよね？　静かにしなくても……",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "26fbc2dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょうど、同じこと考えてたところだ",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "cab6f834",
+      "speaker": "雫",
+      "ja": "こうしていると夜間訓練を思い出しますね……",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "4ac2b20b",
+      "speaker": "ルミナ",
+      "ja": "夜間訓練……たいへん、だった？",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "55bebd0b",
+      "speaker": "雫",
+      "ja": "ええ、それなりには……ああ、お嬢様。もう少しこちらへお近づきください",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "3bfca4fc",
+      "speaker": "ルミナ",
+      "ja": "う、うん……",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "176bd4ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "まーたお前、ルミナにベタベタと……",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "ba2cb34a",
+      "speaker": "雫",
+      "ja": "やかましいですよ、男。暗闇に乗じて暗殺されたくなければ黙りなさい",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "e8f8885",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、こわ……でも、俺も冒険者体験キャンプを思い出すな",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "291be488",
+      "speaker": "コハル",
+      "ja": "ああ、あったわね……子供の時の、キッツいやつ",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "6a140f2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ、絶対冒険者に憧れる子供に現実教えるためにやってたよな……",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "a541dc92",
+      "speaker": "コハル",
+      "ja": "わざと持っていく道具が古い、壊れかけのやつだったりしたしね。歩く道も整備されてないキツい道だったり……",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "24cf3140",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれで冒険者諦めなかったの、結局村じゃ俺とコハルだけだったしな",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "53b5e331",
+      "speaker": "コハル",
+      "ja": "ね～！　……余裕だったあたしと違って、{G_PlayerName}は息も絶え絶えって感じだったけど",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "9f11cf20",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるさいな！",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "b61f8c3",
+      "speaker": "ルミナ",
+      "ja": "……いい、な……",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "68f3d668",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナも冒険者体験キャンプしてみたいか？",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "cab6bf5b",
+      "speaker": "ルミナ",
+      "ja": "……ううん、そうじゃなくて……いや、してみたい、かも……？",
+      "zh": ""
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "2408ef5",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、どっかで再現してみるのも楽しいかもな",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "755360ac",
+      "speaker": "コハル",
+      "ja": "ええ～？　どうせならただのキャンプとかにしましょうよ！",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "304be246",
+      "speaker": "",
+      "ja": "暗闇の中でも笑いは絶えず、賑やかなまま夜は更けていった……",
+      "zh": ""
+    }
+  ]
+}

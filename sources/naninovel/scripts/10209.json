@@ -1,0 +1,571 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "6ce03e5",
+      "speaker": "雫",
+      "ja": "……ふう、異常な暑さですね。これも天候のせいですか？　それとも正常？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "759ccd07",
+      "speaker": "ラギオラ",
+      "ja": "正常だ。……と思うが、もはやわからんな",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "c658e098",
+      "speaker": "",
+      "ja": "先頭を歩く雫。まるで来たことがある場所かのように、ぐんぐんと進んでいくが……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "f032f2b2",
+      "speaker": "コハル",
+      "ja": "迷わずどんどん進んでるけど、道わかるの？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "833f513c",
+      "speaker": "雫",
+      "ja": "アポロから検証結果は受け取っています。マップを起動し、それに従って進んでいくだけです",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "7b417a09",
+      "speaker": "コハル",
+      "ja": "へぇ～！　……自動で作られる地図？　お店にあったら人気商品になりそう……！",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "566f4958",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなレベルじゃないだろ……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "1647abca",
+      "speaker": "ラギオラ",
+      "ja": "……こっちで間違いないのか？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "94b307c",
+      "speaker": "雫",
+      "ja": "ええ。どうかしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "359dd130",
+      "speaker": "ラギオラ",
+      "ja": "こっちは聖域だ……というか、もう入りかけている",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "50f9e57c",
+      "speaker": "コハル",
+      "ja": "えっ！　……ってことは、また怒られるの！？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "e1a1e7ab",
+      "speaker": "ラギオラ",
+      "ja": "向かってる方向……あとどれくらいの距離だ？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "977870df",
+      "speaker": "雫",
+      "ja": "今歩いた距離の倍ほどでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "250f180a",
+      "speaker": "ラギオラ",
+      "ja": "間違いない。キカイとやらがあるのは恐らく……聖域の中心にある、遺跡だろう",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "3f02458a",
+      "speaker": "{G_PlayerName}",
+      "ja": "遺跡……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "d68d1dfa",
+      "speaker": "ラギオラ",
+      "ja": "神が住まうとされる遺跡だ。どのように高い地位があろうと、生者は立ち入ってはならんとされている",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "a809c721",
+      "speaker": "コハル",
+      "ja": "どうしよう……許可を得たほうが……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "8263c4f1",
+      "speaker": "ラギオラ",
+      "ja": "いや。神と、死者のみ立ち入ることが許される場だ。私でさえ……目的があるとはいえ、入るのに抵抗がある。許されるなど有り得ぬだろうな",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "d5488bc4",
+      "speaker": "雫",
+      "ja": "では、突貫するしかありませんね",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "5b04a503",
+      "speaker": "コハル",
+      "ja": "もっと考えてよ！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "6c489092",
+      "speaker": "雫",
+      "ja": "ラギオラ様は、遺跡に入るということ自体は問題ございませんか？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "32f11cfa",
+      "speaker": "ラギオラ",
+      "ja": "……やむをえまい。村を救うためだ。問題は見張りの目が道中あることだが……",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "34cecfb",
+      "speaker": "ラギオラ",
+      "ja": "キカイとやらを止める方法は？　時間はかかるか？",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "dda81f60",
+      "speaker": "雫",
+      "ja": "停止すること自体にそう時間はかかりません。構造を理解できるかにもよりますが……最悪破壊すればよいでしょう。長くて数分かと",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "ba431188",
+      "speaker": "ラギオラ",
+      "ja": "であれば、向かってしまえば後は考えなくて良いな。このまま遺跡へ向かえばいいだろう",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "2e913f12",
+      "speaker": "コハル",
+      "ja": "隠れながらこっそり進む、とか出来ないの？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "8f6a53a0",
+      "speaker": "ラギオラ",
+      "ja": "トレ村には獣の血が濃い者が多く、鼻や目がよく利く。難しいだろうな",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "edb088c3",
+      "speaker": "ラギオラ",
+      "ja": "異常気象の関係で多少戦力が削がれていたが、聖域、それも遺跡の周囲は警戒が多いはずだ",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "be7da48b",
+      "speaker": "雫",
+      "ja": "であれば、やはり……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "402efdf8",
+      "speaker": "ラギオラ",
+      "ja": "待て。来たようだ",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "cf26c41e",
+      "speaker": "コハル",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "f29a4ec6",
+      "speaker": "ラチャナ",
+      "ja": "罰当たりどもがぁっ！　聖域にはい……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "4aeefb8c",
+      "speaker": "ラチャナ",
+      "ja": "な、覚えのある匂いじゃと思ったら……貴様ら、無事だったのか！",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "2e8e32e3",
+      "speaker": "コハル",
+      "ja": "あ、ああ……ええと……なんて言えばいいのか……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "606b917b",
+      "speaker": "ラギオラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "9cb8ff52",
+      "speaker": "ラチャナ",
+      "ja": "な、な、な……ラギオラ！？　まさかお主ら……裏切ったのじゃな！？",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "2152203d",
+      "speaker": "コハル",
+      "ja": "違うわよっ！",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "e0ff8bcf",
+      "speaker": "ラチャナ",
+      "ja": "いや、むしろ最初から敵じゃったのか！？　神をも畏れぬ蛮行……おのれ……許さぬぞ！",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "a8cbdadd",
+      "speaker": "コハル",
+      "ja": "っていうか今更だけど、なんで村長が見張りとかやってるの！？",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "e850c5fb",
+      "speaker": "ラチャナ",
+      "ja": "人手不足じゃからしょうがないじゃろうが！　当番制なんじゃ、村長だから免除されるとか無いんじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "7b1f746d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんな掃除当番みたいな感じなのか……）",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "72520b0d",
+      "speaker": "",
+      "ja": "ラチャナの声を聞いてか、周囲にいたであろうトレ村の見張り達が集まってくる。",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "170ab090",
+      "speaker": "トレ村の戦士",
+      "ja": "また侵入者カ！？",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "ad41ad29",
+      "speaker": "トレ村の戦士",
+      "ja": "ラギオラ……！　連れ去ったイケニエを返せ！",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "6f5d6159",
+      "speaker": "ラギオラ",
+      "ja": "走れ！　遺跡に行くぞ！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "2a3b09ef",
+      "speaker": "コハル",
+      "ja": "う、うん！",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "e2398257",
+      "speaker": "コハル",
+      "ja": "あっ、何かある！　これが遺跡……！？",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "ce5b6971",
+      "speaker": "ラギオラ",
+      "ja": "ああ、しかし深い遺跡だから……っ",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "d490fe34",
+      "speaker": "ラギオラ",
+      "ja": "下がれ！",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "cb4c6b44",
+      "speaker": "コハル",
+      "ja": "きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "472be36b",
+      "speaker": "",
+      "ja": "背を掴まれたコハルの横を、一本の矢が掠める。遺跡の横からは、弓を番えた戦士が現れた。",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "f808b2ed",
+      "speaker": "ラギオラ",
+      "ja": "……なぜボバ村の戦士が、私に向け弓を引く？",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "9d1c21bc",
+      "speaker": "ボバ村の戦士",
+      "ja": "長こソ、何故遺跡ヘ？　ここは村の長でさエ、近づいてはならぬ場でハ？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "b73746e4",
+      "speaker": "ラギオラ",
+      "ja": "天命である。神は、この遺跡の奥へ稀人を導けと告げられた",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "a74e1a78",
+      "speaker": "ボバ村の戦士",
+      "ja": "聞いたカ、皆の者！　長は乱心されタ！　聖域を侵シ、穢れを持ち込む痴れ者ダ！　おかしい天気モ、長が原因ダ！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "ae90da5a",
+      "speaker": "",
+      "ja": "木々の間から、何人もの戦士が顔を覗かせる。皆一様に槍や弓を構え、こちらへと向けている……！",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "de69cc26",
+      "speaker": "ラギオラ",
+      "ja": "奥へ行け！　ここは私が抑える！",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "a0b066c0",
+      "speaker": "コハル",
+      "ja": "そ、そんな……！　でも！",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "5d6113d2",
+      "speaker": "雫",
+      "ja": "行きますよ。機械さえ止めればいいのですから",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "1ece800a",
+      "speaker": "コハル",
+      "ja": "あ、ちょ、ちょっと！　……{G_PlayerName}、行くわよ！",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "252dfc50",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……！",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "f8f6bf98",
+      "speaker": "ラギオラ",
+      "ja": "……我の後ろに付き従うだけだった貴様らが、よくも謳ってみせたものだ",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "5a73d882",
+      "speaker": "ラギオラ",
+      "ja": "来るがいい！　ボバ村の長たる我を、軽々に討てると思うなよ！",
+      "zh": ""
+    }
+  ]
+}

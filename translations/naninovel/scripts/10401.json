@@ -1,0 +1,652 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "3e78e322",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……ん～～～っ……よく寝た……",
+      "zh": "嗯……嗯～～～嘛……睡得挺香的……"
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "aba062b7",
+      "speaker": "",
+      "ja": "何回目かの朝？　を迎える。最初こそ慣れない環境に戸惑っていたが、今となっては毎日快眠で、慣れた物だ。",
+      "zh": "不知第几天的早晨。迎来新的一天。起初还不适应环境，有些不知所措，但现在每天都睡得香甜，已经习惯了。"
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "c2f2c44a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……って言っても、未だに何かわからないまま触らず放置してる機械も多いけどな）",
+      "zh": "（……话是这么说，但还有许多机器我还没搞明白，就这么放着没动呢。）"
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "83b5b3",
+      "speaker": "",
+      "ja": "機械師として興味深い物は多いが、いかんせんアポロの説明を聞いても理解が及ばない物が多い。",
+      "zh": "作为机械师，我感兴趣的东西很多，但就算听了阿波罗的解释，很多地方还是理解不了。"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "5849414d",
+      "speaker": "",
+      "ja": "詳細は教えてくれないし、構造を理解して自分の機械に活かす日が来るのはいつになることか……",
+      "zh": "他不肯告诉我细节，我也没法理解构造然后用到自己的机器上，这要等到什么时候啊……"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1389e33b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おっと、ボーッとしてないで起きないとな",
+      "zh": "……喂，别赖床了，快起来啊！"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "1b730bfa",
+      "speaker": "コハル",
+      "ja": "あ、{G_PlayerName}！　おはよう！",
+      "zh": "啊，{G_PlayerName}！早啊！"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "2a17a1c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "おはよう。起きるタイミングよく合うよな",
+      "zh": "早。你起得还真准时啊。"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "d3d340c0",
+      "speaker": "コハル",
+      "ja": "部屋の明かりがつく時間が同じなんじゃない？　アレのおかげでしっかり起きられるわよね",
+      "zh": "房间亮灯的时间不都一样的嘛？多亏了那个，我才能准时爬起来啊。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "e0490d39",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、なるほどな……にしても、準備とか色々あると思うが……",
+      "zh": "啊——说得也是……不过话说回来，准备工作什么的应该挺多的吧……"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "510e7602",
+      "speaker": "{G_PlayerName}",
+      "ja": "……お前、ちゃんと朝顔洗ったりしてるのか？　女なのに俺と同じタイミングって……",
+      "zh": "……我说你，早上好好洗脸了吗？你可是女生，居然跟我同时起床……"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "6bf2da9c",
+      "speaker": "コハル",
+      "ja": "よけーなお世話よっ！　あたしは準備の手際が良いだけ！",
+      "zh": "要你管啊！我只是准备工作做得快而已！"
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "63c1fe84",
+      "speaker": "{G_PlayerName}",
+      "ja": "いてて！　すまん、すまん！",
+      "zh": "别跑！等等，等等！"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "805129f4",
+      "speaker": "雫",
+      "ja": "コハル様……お二方、おはようございます",
+      "zh": "小春大人……二位，早上好。"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "6cedef29",
+      "speaker": "{G_PlayerName}",
+      "ja": "いい加減名前呼んでくれ……",
+      "zh": "能不能别加那种奇怪的称呼……"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "afa58d6e",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん、コハル、さん……おは、よう……",
+      "zh": "{G_PlayerName}君、小春小姐……早、上好……"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "8130490a",
+      "speaker": "コハル",
+      "ja": "うん！　おはよう！",
+      "zh": "嗯！早上好！"
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9bb731fa",
+      "speaker": "",
+      "ja": "配膳された朝ご飯の前に座り、各自が朝食を始める。",
+      "zh": "我们在丰盛的早餐前坐下，各自开始吃早饭。"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "a3ed651b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ。このパン、オーロラの家でも出たやつか？",
+      "zh": "哦。这个面包，奥罗拉那里也有吗？"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "b063d84d",
+      "speaker": "ルミナ",
+      "ja": "今朝……アポロが、発酵が終わったからって……出してくれた、よ。作り方、勉強してくれたみたい……",
+      "zh": "今早……阿波罗说发酵完成了，就拿出来了。好像……他还特意教我做法呢。"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "e2ee7cda",
+      "speaker": "コハル",
+      "ja": "行ったことのある星の料理なら再現できるようになるの？",
+      "zh": "如果是去过的那颗星球的料理，就能再现出来吗？"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "b294e860",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば俺たちの星の料理も覚えてたな。なんだかんだやっぱり成長するんだなアポロも",
+      "zh": "这么说起来，我们星球的料理我也还记得。阿波罗那家伙果然也在成长啊。"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "2fc0c8",
+      "speaker": "",
+      "ja": "あなたに言われたくありません、とどこかでアポロの声が聞こえた気がした。",
+      "zh": "“不想被你这么说”——我好像听到阿波罗的声音从哪儿传来的。"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "e1985c88",
+      "speaker": "コハル",
+      "ja": "あの星も飛び立って一週間くらいかー。……また、落ちたりしないわよね？",
+      "zh": "那颗星球也就飞出去一周左右吧……不过，应该不会再坠落了吧？"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "dd642166",
+      "speaker": "雫",
+      "ja": "物資も補充したばかり。しばらくは困りません",
+      "zh": "物资也刚刚补给过。暂时不会有什么问题。"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "25820a81",
+      "speaker": "ルミナ",
+      "ja": "そもそも……墜落なんて早々……ないこと、だよ……",
+      "zh": "本来就……不会那么早坠落啦……"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "c793b48e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは、それもそうだよな！　こんな高い技術があるのに、墜落なんて……",
+      "zh": "哈哈哈，说得也是！有这么厉害的技术，怎么可能会坠落呢……"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "38c50a22",
+      "speaker": "コハル",
+      "ja": "……これ、何かの間違い？　訓練とかよね、きっと",
+      "zh": "……这是，哪里不对劲吧？肯定是训练什么的吧。"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "5e8cc0c5",
+      "speaker": "アポロ",
+      "ja": "……大変恐れながら申し上げます。現在当機は異常な引力によって惑星に引き寄せられています",
+      "zh": "……很抱歉，虽然有些难以启齿——当前机体正被异常引力拖向一颗惑星。"
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "39c3b561",
+      "speaker": "コハル",
+      "ja": "イジョウなインリョク～ッ！？　なんなのよ、毎回毎回！",
+      "zh": "又是异常引力？！每次都这样！"
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "7752c03b",
+      "speaker": "アポロ",
+      "ja": "げ、原因はまだ不明で……申し訳ございません",
+      "zh": "呃……原因尚不明确……非常抱歉。"
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "7a20bb8b",
+      "speaker": "ルミナ",
+      "ja": "ご……ごめん、ね……",
+      "zh": "对……对不起，呢……"
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "e5ca1be6",
+      "speaker": "コハル",
+      "ja": "２人が謝ることじゃ……こっちこそ、騒いでごめんなさい",
+      "zh": "两个人道什么歉啊……我们这边才该为吵吵嚷嚷道歉呢。"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "3c7d1671",
+      "speaker": "雫",
+      "ja": "引き寄せられている……というのは、何かの攻撃ということですか？",
+      "zh": "被拖过去……意思是受到了某种攻击吗？"
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "25ae2ce3",
+      "speaker": "アポロ",
+      "ja": "わかりません。当機は再び不時着体勢に入ります",
+      "zh": "不清楚。机体将再次进入不测状态。"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "ae4060a9",
+      "speaker": "雫",
+      "ja": "……はあ、もうこの状況も慣れてしまいましたね",
+      "zh": "……哈，看来我也已经习惯这种情况了啊。"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "5f86c99e",
+      "speaker": "{G_PlayerName}",
+      "ja": "慣れてたまるかっ！",
+      "zh": "习惯个鬼啊！"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "179daaa5",
+      "speaker": "雫",
+      "ja": "み、皆様大丈夫ですか？",
+      "zh": "喂，大家都还好吗？"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "760abcd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "前に比べればまだ……大丈夫だけど、はあ……心臓がまだバクバクしてるぞ",
+      "zh": "比以前是好多了……不过，哈……心脏还在怦怦跳呢。"
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "89ed33be",
+      "speaker": "アポロ",
+      "ja": "……周囲を確認していますが、暗過ぎますね。岩地が広がっているようです",
+      "zh": "……我正在确认周围环境，但太暗了。好像岩地很广阔。"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "b26c83bb",
+      "speaker": "コハル",
+      "ja": "今、この星は夜……ってこと？",
+      "zh": "现在，这颗星球是晚上……是吗？"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "cbd9decb",
+      "speaker": "アポロ",
+      "ja": "恐らくは。細かく輝く石もありますが、今は外へ出ないほうが無難でしょう",
+      "zh": "恐怕不是。虽然有一些细碎的发光石头，但现在还是不要外出为妙。"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "a027e174",
+      "speaker": "雫",
+      "ja": "岩地……と言っていましたが、危険は無いのですか？",
+      "zh": "岩地……虽说如此，但危险吗？"
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "6a6ab82b",
+      "speaker": "アポロ",
+      "ja": "生体反応はありません",
+      "zh": "没有生命反应。"
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "4f126538",
+      "speaker": "雫",
+      "ja": "ふむ……調査は必要ですが、朝まで待つとしましょうか",
+      "zh": "嗯……调查是必要的，不过要等到天亮吗？"
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "8dedd727",
+      "speaker": "アポロ",
+      "ja": "獣を呼ぶかも知れないので明かりを落としましょう。ではよき夜を",
+      "zh": "也不清楚会不会引来野兽，还是等天亮吧。那么，晚安。"
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "875ed0da",
+      "speaker": "ルミナ",
+      "ja": "よき夜を……って言っても……",
+      "zh": "说晚安……可是……"
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "ac431ed1",
+      "speaker": "{G_PlayerName}",
+      "ja": "まだ起きたばっかりなんだけどな……",
+      "zh": "这才刚起床没多久啊……"
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "76f9f553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……",
+      "zh": "……"
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "30058eb0",
+      "speaker": "コハル",
+      "ja": "……",
+      "zh": "……"
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "dd7a8b8a",
+      "speaker": "",
+      "ja": "無意識に沈黙が訪れる。暗闇がそうさせるのか、獣を呼ぶかも知れない、という言葉をつい意識してしまっているのだろうか。",
+      "zh": "不知何时，沉默降临了。是黑暗的缘故吗？我总想着“可能会把野兽引来”这句话。"
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "f2cd4c14",
+      "speaker": "コハル",
+      "ja": "……ふふっ、話すくらい、いいわよね？　静かにしなくても……",
+      "zh": "……哼，说说话总行吧？没必要那么安静嘛……"
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "26fbc2dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょうど、同じこと考えてたところだ",
+      "zh": "巧了，我刚才也在想这个。"
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "cab6f834",
+      "speaker": "雫",
+      "ja": "こうしていると夜間訓練を思い出しますね……",
+      "zh": "这样让我想起了夜间训练呢……"
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "4ac2b20b",
+      "speaker": "ルミナ",
+      "ja": "夜間訓練……たいへん、だった？",
+      "zh": "夜间训练……挺辛苦的吧？"
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "55bebd0b",
+      "speaker": "雫",
+      "ja": "ええ、それなりには……ああ、お嬢様。もう少しこちらへお近づきください",
+      "zh": "嗯，算是吧……啊，公主殿下。请再靠近我一点。"
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "3bfca4fc",
+      "speaker": "ルミナ",
+      "ja": "う、うん……",
+      "zh": "唔、嗯……"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "176bd4ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "まーたお前、ルミナにベタベタと……",
+      "zh": "你又来了，对露米娜这么黏糊……"
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "ba2cb34a",
+      "speaker": "雫",
+      "ja": "やかましいですよ、男。暗闇に乗じて暗殺されたくなければ黙りなさい",
+      "zh": "吵死了，男人。要是不想被趁黑干掉，就给我闭嘴。"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "e8f8885",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、こわ……でも、俺も冒険者体験キャンプを思い出すな",
+      "zh": "哦，好可怕……不过，我也想起了那个冒险者体验营。"
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "291be488",
+      "speaker": "コハル",
+      "ja": "ああ、あったわね……子供の時の、キッツいやつ",
+      "zh": "啊，确实有呢……小时候那个，超严酷的体验。"
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "6a140f2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ、絶対冒険者に憧れる子供に現実教えるためにやってたよな……",
+      "zh": "那个啊，是为了让那些盲目憧憬冒险者的小鬼认清现实才搞的吧……"
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "a541dc92",
+      "speaker": "コハル",
+      "ja": "わざと持っていく道具が古い、壊れかけのやつだったりしたしね。歩く道も整備されてないキツい道だったり……",
+      "zh": "特意带的装备都是旧得快坏掉的。走的路也都是没修过的破路……"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "24cf3140",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれで冒険者諦めなかったの、結局村じゃ俺とコハルだけだったしな",
+      "zh": "就这样还能坚持当冒险者，最后村里也就剩我和小春了。"
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "53b5e331",
+      "speaker": "コハル",
+      "ja": "ね～！　……余裕だったあたしと違って、{G_PlayerName}は息も絶え絶えって感じだったけど",
+      "zh": "喂～！……我可轻松得很，跟你不一样，{G_PlayerName}那时候上气不接下气的。"
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "9f11cf20",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるさいな！",
+      "zh": "少啰嗦！"
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "b61f8c3",
+      "speaker": "ルミナ",
+      "ja": "……いい、な……",
+      "zh": "……真好啊……"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "68f3d668",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナも冒険者体験キャンプしてみたいか？",
+      "zh": "露米娜，你也想试试那个冒险者体验营吗？"
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "cab6bf5b",
+      "speaker": "ルミナ",
+      "ja": "……ううん、そうじゃなくて……いや、してみたい、かも……？",
+      "zh": "……嗯，不是那个……不，或许我也想试试……？"
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "2408ef5",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは、どっかで再現してみるのも楽しいかもな",
+      "zh": "哈哈，找地方重现一下也挺有意思的。"
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "755360ac",
+      "speaker": "コハル",
+      "ja": "ええ～？　どうせならただのキャンプとかにしましょうよ！",
+      "zh": "诶～？要弄的话，就搞个普通的露营吧！"
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "304be246",
+      "speaker": "",
+      "ja": "暗闇の中でも笑いは絶えず、賑やかなまま夜は更けていった……",
+      "zh": "即便在黑暗中，笑声也没有断绝，夜晚就这样在热闹中渐渐深沉……"
+    }
+  ]
+}

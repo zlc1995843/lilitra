@@ -1,0 +1,1030 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "84282292",
+      "speaker": "コハル",
+      "ja": "………………あ……",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "70780f13",
+      "speaker": "コハル",
+      "ja": "寒っ！？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "3c89d3f",
+      "speaker": "雫",
+      "ja": "コハル様！？　……よかった、お目覚めになりましたか",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "d54c01aa",
+      "speaker": "",
+      "ja": "雫がコハルにタオルケットを手渡す。昼の猛暑が嘘のように、冷えた空気が周囲に満ちていた。",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "4cf33c72",
+      "speaker": "コハル",
+      "ja": "雫？　今は夜……？　そっか、流砂に飲まれそうになって、私達……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "55130419",
+      "speaker": "",
+      "ja": "巨大なサンドワームが、砂の海を掻き回しながら浮上する。その衝撃に、私達は散り散りになってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "39502e7d",
+      "speaker": "コハル",
+      "ja": "っ……{G_PlayerName}！",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "a8c7320",
+      "speaker": "",
+      "ja": "特に砂賊に近づいていた{G_PlayerName}は、サンドワームを挟んだ向こう側にいる。早く助けなくては、はぐれてしまう……！",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "3ff3c17d",
+      "speaker": "雫",
+      "ja": "いけません、コハル様！",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "f0b5969f",
+      "speaker": "コハル",
+      "ja": "なんで止め……あ……！",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "1f1ce3eb",
+      "speaker": "",
+      "ja": "サンドワームの周囲は、栓を抜いた水が螺旋を描き落ちていくように……渦を作り出していた。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "b9dbe80",
+      "speaker": "",
+      "ja": "これ以上近づけば、{G_PlayerName}を助けるどころか、私に助けが必要になってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "4fd1a471",
+      "speaker": "雫",
+      "ja": "それに……もう、追いつけません",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "b622ca24",
+      "speaker": "",
+      "ja": "雫の視線を追うと、砂賊が目にも止まらぬ速さで遠ざかっていっている。……{G_PlayerName}も、担がれて連れ去られていた。",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "6b7021c2",
+      "speaker": "コハル",
+      "ja": "そうだ……{G_PlayerName}！　{G_PlayerName}は！？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "2bd51a29",
+      "speaker": "雫",
+      "ja": "……わかりません。砂漠環境での追跡術を、私は持っておりませんので",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "144ef78e",
+      "speaker": "コハル",
+      "ja": "そんな……！　探しに行かないと！　もし、怪我とかしてたら……！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "f5be75b2",
+      "speaker": "雫",
+      "ja": "ご安心を。ルナリングがあれば多少の怪我は問題ありませんし、今生きていることは間違いありません",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "f78f01e8",
+      "speaker": "コハル",
+      "ja": "ど、どうして！？　砂賊に何されてるか、わかったもんじゃあ……！",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "524e9868",
+      "speaker": "雫",
+      "ja": "それも、ルナリングが理由です。あれは、宿主が生命活動を停止した際、リリアンにだけわかる音……魔力の波のような物を発します",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "7a3f1125",
+      "speaker": "雫",
+      "ja": "恐らく、紛失を防止するための機能でしょう。ルミナ様が所持していた時でも、指から外して暫く放置すれば同じ物を発していました",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "9fca5ee8",
+      "speaker": "コハル",
+      "ja": "そ……それが無いってこと？　ってことは、{G_PlayerName}は生きてる……？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "d26798a",
+      "speaker": "雫",
+      "ja": "ええ。……まあ、男を殺した後に心臓をかっさばいて、砂賊がルナリングを指につければ、死んでいることも有り得ますが",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "e1889366",
+      "speaker": "コハル",
+      "ja": "縁起でもないこと言わないでよ！　……でも、出来れば{G_PlayerName}を探しに行きたいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "864dd391",
+      "speaker": "雫",
+      "ja": "どうせあの砂賊はこちらのライラ様を必死で狙ってくるでしょう。先にオアシスを探したほうが手間が省けます",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "343611da",
+      "speaker": "コハル",
+      "ja": "そ……そうかしら……なんだか、不安……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "289c0489",
+      "speaker": "雫",
+      "ja": "ルミナ様も先程まで、わたくしの制止を聞かれず外へ向かおうとしておりましたが……何とかご納得いただけたのです。あなたも耐えてください",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "4e41e8f8",
+      "speaker": "コハル",
+      "ja": "うー……わかったわ。本当に、心配無いなら……仕方ないわね",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "84d0f92e",
+      "speaker": "？？？",
+      "ja": "あ～らあら、最後のお客様がお目覚めでございますね♪",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "8f3863ff",
+      "speaker": "コハル",
+      "ja": "えっ？　……えっと、どなたですか……？",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "b3b1abb",
+      "speaker": "パセリ",
+      "ja": "わたくしめはパセリ。皆様を保護した流れの商人でございますわ～♪　この説明も４回目ですの♪",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "138d2c55",
+      "speaker": "雫",
+      "ja": "あの後サンドワーム……とやらから全力で逃げた結果、皆様は極度の疲労と酷暑で朦朧とされて……",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "976e7866",
+      "speaker": "雫",
+      "ja": "この洞窟でひとまず休憩を、と思ったところでこの方に助けていただいたのです",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "b0e1f8ea",
+      "speaker": "コハル",
+      "ja": "そ、そうだったの。……ありがとうございます、ご迷惑をおかけしたみたいで……",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "7de8633",
+      "speaker": "パセリ",
+      "ja": "と～んでもございません！　皆様にプレゼントした滋養ドリンクの代金はきーっちりといただきますから♪",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "e342e2e4",
+      "speaker": "パセリ",
+      "ja": "この過酷な砂漠のド真ん中です、普段であれば１０倍以上のお値段いたしますが……特別に９倍でご提供させていただきますわ♪",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "b16c7999",
+      "speaker": "コハル",
+      "ja": "そ……そう、なのね。はは……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "82741efe",
+      "speaker": "雫",
+      "ja": "事実、手持ちの食料では心許有りませんでしたから、助かりました。……捉え方次第では、命の恩人でしょうね",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "bb1f30dd",
+      "speaker": "ライラ",
+      "ja": "お金は心配しないで。帰ったらきちんと私が支払うから",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "e6035b29",
+      "speaker": "コハル",
+      "ja": "あっ、そっか。ライラは、おうー……",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "1c8a683e",
+      "speaker": "コハル",
+      "ja": "（じょさま……って、この人の前じゃ言わないほうが良い……ですか？）",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "ebadb187",
+      "speaker": "ライラ",
+      "ja": "（い、一応隠してるから！　……まだバレてないみたいだから、前のままの口調でお願い……！）",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "50c0b4a9",
+      "speaker": "パセリ",
+      "ja": "（ところでこの方、どう見てもライラ王女ですが……やめておきましょう、良い商人はお客様の事情に踏み込みすぎませんことよ）",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "6d5158c1",
+      "speaker": "パセリ",
+      "ja": "それでお客様がた、どうしてあんなところで行き倒れていらっしゃいましたの？",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "19c89dbe",
+      "speaker": "パセリ",
+      "ja": "偶然通りがかったとは言え、お客様がたが向かっていた先はどの国にも通じておりませんが……",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "80ebac44",
+      "speaker": "ライラ",
+      "ja": "伝説のオアシスを探すためよ！",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "69de573c",
+      "speaker": "パセリ",
+      "ja": "……はい？",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "5bbb9df7",
+      "speaker": "ライラ",
+      "ja": "伝説のオアシス！　どの国も知ってる砂漠伝説、あるでしょう！？　あの伝説にあった文明の遺跡が見つかったのよ！",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "99f62720",
+      "speaker": "ライラ",
+      "ja": "それなら、別の章に書いてあった『千の国を潤すオアシス』も存在するはず！　それを見つけて、戦争を無くすのよ！",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "759e6884",
+      "speaker": "パセリ",
+      "ja": "ふ、うふふふふ！　左様でございますか……！　オアシスを探してらっしゃるのですね！",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "a04dbc7a",
+      "speaker": "コハル",
+      "ja": "……信じてくれるの？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "793e0c08",
+      "speaker": "パセリ",
+      "ja": "いえ、ちーとも信じておりませんわ。それだけのオアシスとなれば巨大。今まで見つかってないはずがありませんもの",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "3a1ee548",
+      "speaker": "ライラ",
+      "ja": "そっか……そうだよね……",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "328b91f0",
+      "speaker": "パセリ",
+      "ja": "ですが……対価を支払っていただけるのであれば、協力するのは勿論お断りいたしませんわ♪　それこそ見つかれば、大儲けできそうですもの♪　ふふふ♪",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "de2adbc4",
+      "speaker": "ライラ",
+      "ja": "信じてくれなくても、協力してくれるだけで、すっごくありがたいわ！",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "2580e80e",
+      "speaker": "パセリ",
+      "ja": "（伝説のオアシスは無いかも知れませんが、小さいオアシスくらいあるかも知れません。それはそれで全然構いませんわ！）",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "c0e803b5",
+      "speaker": "パセリ",
+      "ja": "（キャラバンの休息所に出来れば、さらに多くの荷物が運べるようになります！　うふふふふ♪）",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "159071d0",
+      "speaker": "ルミナ",
+      "ja": "コハルさん……よかった、起きたんだね……",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "637f39df",
+      "speaker": "コハル",
+      "ja": "ルミナ！　……大丈夫だった？　ルミナもフラフラしてたけど……",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "591227b8",
+      "speaker": "ルミナ",
+      "ja": "うん……日が落ちたら、なんとか……次はちょっと、寒すぎるけど……",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "6897f385",
+      "speaker": "ルミナ",
+      "ja": "あったかい物、淹れたよ……飲む……？",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "376e7b5a",
+      "speaker": "コハル",
+      "ja": "ありがとう、もらうわ！",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "d9174f20",
+      "speaker": "ライラ",
+      "ja": "私にもくれるの？　ありがとう！",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "71b07971",
+      "speaker": "ルミナ",
+      "ja": "うん……あの……ライラさん、ちょっといいかな……？　２人で話したいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "d0bc2fd0",
+      "speaker": "ライラ",
+      "ja": "え？　……うん、いいよ？",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "3abee535",
+      "speaker": "ライラ",
+      "ja": "ここなら、大丈夫かな？　……どうかした？",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "ad09a4dc",
+      "speaker": "ルミナ",
+      "ja": "うん……王女様って、本当……なの……？",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "b5262d39",
+      "speaker": "ライラ",
+      "ja": "うん……ごめんね、隠してて。嘘ついてたわけじゃないんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "3fca0613",
+      "speaker": "ライラ",
+      "ja": "王女だってわかったら尻込みして、ますます協力してくれる人が少なくなるし……危険な人もいるからさ",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "b926c34e",
+      "speaker": "ライラ",
+      "ja": "髪型変えたり喋り方を変えたりしてたんだけど、やっぱり気付かれちゃうね。……まさか最初に砂賊に気付かれると思ってなかったけど",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "7ba3f794",
+      "speaker": "ルミナ",
+      "ja": "喋り方、変えてるの……？　……隠すって言っても、最初にちゃんと、名乗ってたけど……",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "70665c66",
+      "speaker": "ライラ",
+      "ja": "な、名前はついクセで。喋り方はね……ゴホン！",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "24eea3ef",
+      "speaker": "ライラ",
+      "ja": "妾はこの国の王女、ライラだ。そなたのこの度の助力、褒めて遣わそう",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "aa3ac86a",
+      "speaker": "ライラ",
+      "ja": "……みたいな喋り方がいつもの私なの。あまり好きじゃないけど、必要だから……そう話すように言われてる",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "7d6f4eeb",
+      "speaker": "ライラ",
+      "ja": "でも、今みたいな話し方は久しぶり！　……凄く楽だわ！",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "fe17d577",
+      "speaker": "ルミナ",
+      "ja": "そうなんだ……えっと、それでね……",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "bc4b8607",
+      "speaker": "ルミナ",
+      "ja": "私も……王女なの。別の……すごく遠い国の……",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "9a8eaaf9",
+      "speaker": "ライラ",
+      "ja": "ええっ！？　そ、そうだったの！？　……冗談とかじゃ、なくて！？",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "9dc24d5c",
+      "speaker": "ルミナ",
+      "ja": "うん。……この国に来たのは、初めてだけどね……",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "bcaff85",
+      "speaker": "ライラ",
+      "ja": "も、もしかして私の国が戦争仕掛けたり……してないよね？",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "50bd0944",
+      "speaker": "ルミナ",
+      "ja": "それは、大丈夫……こっちの国の事、知らないところ……だから……",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "f6a881fe",
+      "speaker": "ライラ",
+      "ja": "そんなに遠くなんだ……へえ……",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "eca012b2",
+      "speaker": "",
+      "ja": "ライラが口を手で覆いながら、何度も頷く。……知らない事に対する好奇心から、酷く興奮しているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "d3a1122e",
+      "speaker": "ライラ",
+      "ja": "じゃあ……私の国が、どんなことしてるかも、あんまり知らないんだよね？",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "6d4976d7",
+      "speaker": "ルミナ",
+      "ja": "うん……まだ、わかってない……かな",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "fcfc0677",
+      "speaker": "ライラ",
+      "ja": "……王女仲間が見つかって最初に聞くことが、戦争仕掛けてないか……なんて、情けないでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "a7ddccc7",
+      "speaker": "ルミナ",
+      "ja": "……そんな、こと……",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "1a5941f2",
+      "speaker": "ライラ",
+      "ja": "王……私のお父様はね、昔はすごく優しくて、賢い王様だって言われてたの。小さかった国を何倍にも大きくした名君だって",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "5d197240",
+      "speaker": "ライラ",
+      "ja": "でも……今は違う。水源を確保することに異常にこだわって……色んな国に戦争を仕掛けてる。手当たり次第って言ってもいいくらい……",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "d1a7b1ed",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "86b8d457",
+      "speaker": "ライラ",
+      "ja": "私や他の人がいくら止めても聞かなかった。そのうち、便乗する人や増長する人が増えて……今じゃ、王宮で反対の声を上げるのは私くらい",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "bef6a936",
+      "speaker": "ライラ",
+      "ja": "水源なんて、考えなくてもいいくらい……巨大なオアシスが見つかったら。もしかしたらお父様も、正気を取り戻すかも知れない……そう思ったの",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "1d1c28a1",
+      "speaker": "ライラ",
+      "ja": "でも……見つかるのかな。見つからなかったら……次はどうすればいいか、わかんないな……",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "4ec35d5f",
+      "speaker": "ルミナ",
+      "ja": "……自分の声が届かなくて、何かしたくても無力で……変えられない苦しさは、私も少し、わかる……つもり……",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "b8771ed7",
+      "speaker": "ライラ",
+      "ja": "ルミナも……そうなの？",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "962d865f",
+      "speaker": "ルミナ",
+      "ja": "うん……戦争とかでは、ないけれど……",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "3fe02c9",
+      "speaker": "ルミナ",
+      "ja": "私の国では、王女が何人もいて……女王の座を、奪い合うような仲、なの",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "2ee0a157",
+      "speaker": "ライラ",
+      "ja": "そう……なんだ。そっか、想像したことなかったけど……兄弟や姉妹がいたら……そうなっちゃうんだ",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "a59e5de7",
+      "speaker": "ルミナ",
+      "ja": "うん。それで……私は、望んでないけれど、次の女王に選ばれた。……他の姉妹からは、恨まれたり疎まれたりしてると……思う",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "d4b52498",
+      "speaker": "ライラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "ba618f4c",
+      "speaker": "ルミナ",
+      "ja": "本当は女王になんて……ならなくてもいい。ただ、仲良く暮らしたいだけなのに……私の声は、全然届かない",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "d7712a6b",
+      "speaker": "ルミナ",
+      "ja": "私は色々考えたけど、変える手段はまだ……思いついてないの。でも、ライラさんは……思いついて、行動してる……",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "e46da20e",
+      "speaker": "ルミナ",
+      "ja": "凄いと、思う。だから……私は、ライラさんに、できる限り協力したいの",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "fed51df",
+      "speaker": "ライラ",
+      "ja": "ルミナ……！　ありがとう！",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "fd353cd6",
+      "speaker": "ルミナ",
+      "ja": "うぷっ",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "4b00a35d",
+      "speaker": "",
+      "ja": "ライラが感極まったのか、ルミナを急に抱きしめる。冷えた肌に、ライラの体温がじんわりと差し込んだ。",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "ee2f8de5",
+      "speaker": "ルミナ",
+      "ja": "（コップ……置いてて、良かった……）",
+      "zh": ""
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "bce16ae8",
+      "speaker": "ライラ",
+      "ja": "私も、ルミナに協力できることなら何でも協力するから！　……王女仲間だもんね！",
+      "zh": ""
+    },
+    {
+      "key": "308.1",
+      "line_index": 308,
+      "inline_index": 1,
+      "line_hash": "94c5d412",
+      "speaker": "ルミナ",
+      "ja": "うん……ライラさん、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "3aa76b9",
+      "speaker": "ライラ",
+      "ja": "ふふ、違うでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "4936ef15",
+      "speaker": "ルミナ",
+      "ja": "……？　違うって……？",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "c0202543",
+      "speaker": "ライラ",
+      "ja": "ライラちゃん、って呼んで！　私も、ルミナちゃんって呼ぶから！",
+      "zh": ""
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "ca1af06e",
+      "speaker": "ルミナ",
+      "ja": "……！　ありがとう、ライラちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "375eaa6b",
+      "speaker": "ルミナ",
+      "ja": "（また１人、友達、増えた……のかな……？　嬉しい、な……）",
+      "zh": ""
+    }
+  ]
+}

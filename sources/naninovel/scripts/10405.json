@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "9b1e90",
+      "speaker": "ルミナ",
+      "ja": "す……ごい……！",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "47e47278",
+      "speaker": "コハル",
+      "ja": "綺麗……！　これ、みんな宝石？　光る石？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "1d05093d",
+      "speaker": "雫",
+      "ja": "ここの物だけでもサンプルが揃えば、話は早いですが……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "14e33b17",
+      "speaker": "プリズム",
+      "ja": "このあたりで残ってる石は光が弱かったり、加工出来なかったり問題がある石だから……価値は低いですよ？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "916fccf0",
+      "speaker": "雫",
+      "ja": "やはりですか。わかってはいましたが、甘くはありませんね",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "17f5b3ac",
+      "speaker": "プリズム",
+      "ja": "まだまだ浅層なので、めぼしい物はここには残ってないと思います～",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "b8c58ed5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……鉱石って無かったところに増えたりしないのか？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "92da6717",
+      "speaker": "雫",
+      "ja": "……そんなこと、あるわけが……",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "7d916ab0",
+      "speaker": "プリズム",
+      "ja": "増えるらしいですよ？",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "a6fdd233",
+      "speaker": "雫",
+      "ja": "あるのですかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "96882439",
+      "speaker": "プリズム",
+      "ja": "浅層ではなかなかありませんけど、深層だと前掘ったところに石が増えてるって聞いたことあります！",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "9e5ffbd3",
+      "speaker": "ルミナ",
+      "ja": "そ、そうなんだ……なんか、不思議だね……",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "7695805f",
+      "speaker": "プリズム",
+      "ja": "半分は噂話みたいなものですけどね！　でも、実際に確かめた人はいるって話です",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "9213fa24",
+      "speaker": "雫",
+      "ja": "それが本当だとすれば、分析しがいがありそうですね",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "c92b50ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ん、この音は……？）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "813243ca",
+      "speaker": "雫",
+      "ja": "（アポロから通信のようです）",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "aeee99c9",
+      "speaker": "",
+      "ja": "雫は歩くスピードを落とし、プリズムから隠れるようにして通信機のボタンを押した。",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "948ff667",
+      "speaker": "雫",
+      "ja": "（アポロ？　どうかしたのですか？）",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "c94ca36a",
+      "speaker": "アポロ",
+      "ja": "ワタシはアポロではありません、APL-180です。調査の結果判明した情報を伝えるべく連絡いたしました",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "e614a0e2",
+      "speaker": "アポロ",
+      "ja": "この星は異常な引力が発生しており、それが原因で引き寄せられてしまったようです",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9461085c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（緑と獣の星？　だっけ。あそこと一緒か？）",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "ddbdbb0e",
+      "speaker": "雫",
+      "ja": "（あの星は通常の引力でしたが、アポロの失態で……まあ続きを聞きましょう）",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "41e76aba",
+      "speaker": "アポロ",
+      "ja": "引力のムラを調査し、ルートの構築が脱出には必要です。そのためには様々なサンプルを用意してください",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "1b7883f7",
+      "speaker": "雫",
+      "ja": "……なるほど。わかりました。では",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "26d2f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（要するに……？）",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "a638eb4a",
+      "speaker": "ルミナ",
+      "ja": "（予定通り……鉱石、をいっぱい持ち帰ったら、大丈夫……ってことだね）",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "d931f842",
+      "speaker": "コハル",
+      "ja": "（オッケー！　いっぱい掘って帰ろう！）",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "3f3f58b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう！",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "c4cb5c3e",
+      "speaker": "コハル",
+      "ja": "（……もういっそ、この星で王様目指せるくらい掘り尽くしちゃおう）",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "5d4bc7a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それは流石に……）",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "62abe26a",
+      "speaker": "雫",
+      "ja": "っ、はぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "c8dbf61c",
+      "speaker": "コハル",
+      "ja": "なっ、何！？",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "42d7d6b",
+      "speaker": "",
+      "ja": "雫が何者かの攻撃を受け止め、弾き飛ばす。軽業師のように着地した少女――恐らくリリアンが、こちらに向き直った。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "175a2d87",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "c53b24c6",
+      "speaker": "プリズム",
+      "ja": "もしかして、さっき襲ってきた人ってこの人ですか！？",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "901483f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、こんなヤツは見たこと無い……！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "8a5b3ffc",
+      "speaker": "？？？",
+      "ja": "……命までは、取らない",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "974fe9ff",
+      "speaker": "プリズム",
+      "ja": "きゃあーーーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "fb856632",
+      "speaker": "雫",
+      "ja": "くっ……！",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "283a70fb",
+      "speaker": "ルミナ",
+      "ja": "雫……！",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "3ba75c06",
+      "speaker": "雫",
+      "ja": "お下がりください、ルミナ様！",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "175a2d87",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "893ca679",
+      "speaker": "雫",
+      "ja": "（蛇のように、わたくしですら捉えられない動き……この者、強い……！）",
+      "zh": ""
+    }
+  ]
+}

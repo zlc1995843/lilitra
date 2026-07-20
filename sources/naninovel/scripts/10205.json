@@ -1,0 +1,544 @@
+{
+  "lines": [
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "6b5c85b1",
+      "speaker": "ラチャナ",
+      "ja": "ほっほっほ。いやあ、おぬしら期待はしておらんかったが、良い営みであったのう",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "7d952c7f",
+      "speaker": "村人",
+      "ja": "ね～、あんなの見たことなかった！",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "6a3a9f4e",
+      "speaker": "コハル",
+      "ja": "そ、そんなことより！　……もうこれで、聖域に入った、とかいうのは許されたんですよね？　ならもう行っても……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "c6423b14",
+      "speaker": "ラチャナ",
+      "ja": "ああ、それじゃが……おぬしらには色々と聞きたいことがあってな",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "8d753b17",
+      "speaker": "{G_PlayerName}",
+      "ja": "聞きたいことって……？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "83e1cd02",
+      "speaker": "ラチャナ",
+      "ja": "お主らは……ここの村の、隣にある村に行ったことはあるか？　山を一つ越えた場所にあるのじゃが……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "84d0c7b0",
+      "speaker": "コハル",
+      "ja": "え？　……いや、行ったことないですけど……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "2ed095ce",
+      "speaker": "ラチャナ",
+      "ja": "そうか、それは運が良かったのう。お前たちの振る舞いであればイケニエ確実だったじゃろうな",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "5f1f1e7a",
+      "speaker": "コハル",
+      "ja": "イケニエ……って、そっちの村じゃ、罪人は即イケニエってこと！？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "d0a760c3",
+      "speaker": "ラチャナ",
+      "ja": "……いや、罪人かどうかは関係ない。隣村……このトレ村の隣にある、ボバ村は少し前からおかしいのじゃ",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "4fb22a3d",
+      "speaker": "",
+      "ja": "最初は罪人、次に老人。果てはこちらの村……隣の村までその手を伸ばし、イケニエをかき集めておる。",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "b4c62b67",
+      "speaker": "",
+      "ja": "狙いは何だかわからん。抵抗しようものなら捕まって、連れ去られてしまうのじゃ。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "7820d498",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………怖いな",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "6b795646",
+      "speaker": "コハル",
+      "ja": "は、はあ……それは物騒ですね",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "6ed4d80f",
+      "speaker": "ラチャナ",
+      "ja": "実際、もう既に何人かトレ村でも被害が出ておる。何人か帰ってこない者、全員がボバ村に襲われたと考えるべきじゃな",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "cd647cb5",
+      "speaker": "ラチャナ",
+      "ja": "……というわけじゃが。ここまで言えばわかるな？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "2f09e072",
+      "speaker": "コハル",
+      "ja": "……え、何です？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "661c070c",
+      "speaker": "ラチャナ",
+      "ja": "おぬしらが、ボバ村へと行って首領を倒してくるのじゃ",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "16ea01de",
+      "speaker": "コハル",
+      "ja": "えええっ！？　な、なんで私達が！？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "2285d154",
+      "speaker": "ラチャナ",
+      "ja": "聖域に入った罪はまだ許されておらんわい。さっきのはただの対処。償いはここからじゃ",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "251ed16a",
+      "speaker": "ラチャナ",
+      "ja": "なあに、ボバ村の首領、ラギオラはあまりにも強すぎる。おぬしらでは歯が立たんとわかっておる",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "62247665",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあなんで……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "508a920d",
+      "speaker": "ラチャナ",
+      "ja": "じゃから、倒さんでも連れ去られた村の者を取り返すだけでよいぞ。まだ時間はそう経っておらんから、生きているヤツもおるじゃろうて",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "7b157118",
+      "speaker": "{G_PlayerName}",
+      "ja": "（事態の割に軽いな……命の扱いが軽いのか？）",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "248b039a",
+      "speaker": "コハル",
+      "ja": "え、ええ……でも……部外者の私達が、部族同士の争いに加担するなんて……",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "2af2374d",
+      "speaker": "ラチャナ",
+      "ja": "聖域に入った罪を償うためじゃ！　ただでさえ最近は神様がお怒りになっておる。事情があるならともかく、本来なら禁域と言ってもいいのじゃぞ！",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "1424c678",
+      "speaker": "ラチャナ",
+      "ja": "……神の怒りを防ぐためじゃ。これからはワシでさえ儀式を経たとしても入れぬじゃろうて。……はあ、今回のことでさらにお怒りになるかもしれんのう……",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "35f0726b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ……",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "730e7225",
+      "speaker": "コハル",
+      "ja": "（どうする？　{G_PlayerName}……）",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "249fada",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ううん……やっぱりこんな村同士の戦いに加担するのは良くないと思うけど……）",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "23ec5962",
+      "speaker": "ラチャナ",
+      "ja": "頼む！　この通りじゃ！　このままではこの村はいつか滅んでしまう！　おぬしらの力が必要なのじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "d2c8f503",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、脅したり頼ったり忙しいな……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "b9a1d319",
+      "speaker": "コハル",
+      "ja": "そんな風に頼まれちゃったら、ちょっと困るけど……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "c2c1740b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どちらにしろ、ここから離れるチャンスだし……ひとまず引き受けておくか？）",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "1e3bd336",
+      "speaker": "コハル",
+      "ja": "（そ……そうね。ちょっと可哀想だけど、一旦宇宙船に帰るためにも……）",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "9f4ef635",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった。どこまで出来るかわからないけど、やってみるよ",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "fbb5a09",
+      "speaker": "ラチャナ",
+      "ja": "おおお！　やってくれるか！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "16007719",
+      "speaker": "",
+      "ja": "ラチャナの喜びの声に合わせ、周囲の村人が腕を上下させる。……喜びの動きなのだろうか。",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "7af52d8c",
+      "speaker": "ラチャナ",
+      "ja": "武器も必要じゃろう。好きなだけ持っていくがいい",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "1e5737d9",
+      "speaker": "",
+      "ja": "ラチャナが指さした先を見ると、槍や斧が立てかけられている。……石で作られているようで、満足な働きはしないだろう。",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "768ffba7",
+      "speaker": "コハル",
+      "ja": "あ、いえ……使い慣れた武器が一番なんで……",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "e8c4c",
+      "speaker": "ラチャナ",
+      "ja": "そうか？　……では、気をつけていくのじゃぞ。ボバ村はあっちの方角じゃ",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "2ac93140",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、はい……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "793f9eab",
+      "speaker": "コハル",
+      "ja": "（……様子を見て、逃げちゃう？）",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "d109b3b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや、でも何人か村人はついて来るみたいだ。……俺達がちゃんとやるか、見張るみたいだな）",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "5e2fabd7",
+      "speaker": "コハル",
+      "ja": "（そ、そうねー……やるだけやった、みたいなポーズは必要かも知れないけど……どっちにしても、宇宙船に戻らないと……）",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "56016050",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そうだな。宇宙船に戻らないと……）",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "7888cf32",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……何か忘れてるような？）",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "738c0383",
+      "speaker": "コハル",
+      "ja": "（？　どうかし……）",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "a89a959",
+      "speaker": "",
+      "ja": "どこからか何かが飛んできて、目の前の地面に突き刺さる。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "bac929a9",
+      "speaker": "",
+      "ja": "思考が一瞬停止し、それが１本の槍だと気づくのに時間がかかった。",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "c2100733",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}っ！　あたしの後ろに！",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "ff28cd59",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう！　……一体どっから……",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "db2b83",
+      "speaker": "？？？",
+      "ja": "見ない顔がいるな……奇怪な服装をしている",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "6a650b61",
+      "speaker": "コハル",
+      "ja": "……！　あそこ！",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "42aa59fa",
+      "speaker": "？？？",
+      "ja": "だが、その生命力……きっと神もお喜びになるだろう",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "80aa8e41",
+      "speaker": "？？？",
+      "ja": "我らに首を差し出せ。さもなくば……",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "e9056b18",
+      "speaker": "ラチャナ",
+      "ja": "きっ……きおったぁ……",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "7c673409",
+      "speaker": "ラチャナ",
+      "ja": "ラギオラじゃ！　ラギオラが来たぞっ！",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "fd116b2b",
+      "speaker": "ラギオラ",
+      "ja": "その身に、神の裁きを刻みつけることになろうぞ",
+      "zh": ""
+    }
+  ]
+}

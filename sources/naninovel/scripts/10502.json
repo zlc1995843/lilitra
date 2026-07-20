@@ -1,0 +1,625 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "4deda56b",
+      "speaker": "ライラ",
+      "ja": "わら……私はライラ。あなたたちは？　見慣れない服装だけれど……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "f56e1713",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと、遠くから来た……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "160e3594",
+      "speaker": "ライラ",
+      "ja": "え、この国の人間じゃないってこと！？　砂賊は……？　砂漠を歩いてて、襲われなかった？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "57dd4554",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、詳しいことは言えないけど……なんとかなったよ。な？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "576a51f6",
+      "speaker": "コハル",
+      "ja": "えっ？　そ、そうね！",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "d4703d14",
+      "speaker": "ライラ",
+      "ja": "……強いの？　あなた達。キャラバンの商人……という見た目じゃないわね。傭兵？　トレジャーハンター？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "693db603",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、どっちかっていうと……トレジャーハンター、かな？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "d072c58e",
+      "speaker": "コハル",
+      "ja": "（ちょっと、色々言ってるけど大丈夫なの！？）",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "fa31d9a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（仕方ないだろ、いつもなら雫がなんとかしてる場面なんだから……！）",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "68edc124",
+      "speaker": "ルミナ",
+      "ja": "（あ、あんまり無理……しないでね。私も頑張れる……から……）",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "ba906ad1",
+      "speaker": "ライラ",
+      "ja": "……ねえ、報酬は弾むから、あなた達にお願いしたい仕事があるんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "5d1a4a87",
+      "speaker": "ルミナ",
+      "ja": "しごと……？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "9168eaae",
+      "speaker": "ライラ",
+      "ja": "ええ！　トレジャーハンターなら、最近お金に困ってるわよね？　最近どこの遺跡も砂に沈むか、立入禁止にされてるから",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "30a0a5dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだな……？　それで、仕事ってなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "84dc665d",
+      "speaker": "ライラ",
+      "ja": "……伝説のオアシスを探して欲しいの",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "8dfb0bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "で……伝説の……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "d8207acf",
+      "speaker": "ルミナ",
+      "ja": "オア……シス……？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "baf497f",
+      "speaker": "ライラ",
+      "ja": "外から来たあなた達は知らないかもしれないけど、今この国は戦争状態にあるの。隣国同士で、限られた水源の奪い合い",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "fefecfcc",
+      "speaker": "コハル",
+      "ja": "へ……へえ……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "b769f6f4",
+      "speaker": "ライラ",
+      "ja": "それでも国に入れるなんて、よっぽど強いのかと思ったけど。運良く戦いにならなかっただけ？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "119a506",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……そんなところだな",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2b098354",
+      "speaker": "ルミナ",
+      "ja": "それで、戦争を止めたくて……オアシスを探してる、ってこと……？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "43c27d2a",
+      "speaker": "ライラ",
+      "ja": "そう！　今だって、どこかで知らない誰かが戦争の煽りを受けて命を落としてる。とにかく早く見つけたいの！",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "eb9ad1f",
+      "speaker": "コハル",
+      "ja": "えっと……伝説、ってことは、どこにあるかだけじゃなくて、本当にあるかも……わからなさそうな響きだけど",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "e071121a",
+      "speaker": "ライラ",
+      "ja": "そうよ。でも伝説の、とはついてるけれど、私はそうは思ってないの",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "c969beda",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでそう思うんだ？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "65d1d64e",
+      "speaker": "ライラ",
+      "ja": "オアシスの存在が描かれた伝説は、他の章もあるのだけれど……別の章に書かれている文明や、自然物が実際に最近見つかった",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "74208ef4",
+      "speaker": "ライラ",
+      "ja": "つまり、作り話じゃなくて実在した物を記した……記録だと思うのよ。それなら、オアシスだって探す価値はある！",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "25b9d386",
+      "speaker": "{G_PlayerName}",
+      "ja": "探すって言ったって……なあ？",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "343d5c25",
+      "speaker": "",
+      "ja": "脳裏に浮かぶのは、さっきも見た広々とした砂漠。国の中の砂でさえ四苦八苦していたのに、あんな砂の海に出ればそれどころでは済まないだろう。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "be6c908a",
+      "speaker": "ルミナ",
+      "ja": "……私は、協力したいな",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "5bd4e920",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "2e3dd7f2",
+      "speaker": "コハル",
+      "ja": "（いいの？　また法律が……とか言われない？）",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "aaf6ef39",
+      "speaker": "ルミナ",
+      "ja": "（水源を探すのは、私達の目的でもあるし……それに）",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "ad3ba81",
+      "speaker": "ルミナ",
+      "ja": "（国を、国民を心配して、戦争を止めたいって気持ち。私も……同じ立場だったら、って考えると、見なかったことには……出来ない、よ）",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "e1b80d98",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナ……）",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "c4e63383",
+      "speaker": "",
+      "ja": "実の姉妹と女王の座を奪い合っているルミナ。ルミナ自身は女王に執着している様子は無いゆえに、争いを止めたいという立場に共感したのだろうか。",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "383d44ef",
+      "speaker": "コハル",
+      "ja": "……そうね！　うん、私達に何が出来るかはわからないけど、協力しましょう！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "e7ea4aac",
+      "speaker": "ライラ",
+      "ja": "本当に！？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "2ce0b8f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ただ、今別行動してる仲間がいる。仲間と合流してからでいいか？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "919e3e3",
+      "speaker": "ライラ",
+      "ja": "わかったわ！　……まさか、こんなに早く協力してくれる人が見つかるなんて！",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "6e30c63",
+      "speaker": "コハル",
+      "ja": "（協力する、とは言ったけど大丈夫かしら。これで何も出来なかったら……）",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "d4b93a3b",
+      "speaker": "ルミナ",
+      "ja": "（それ、なんだけど……実は……）",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "b54c7b1a",
+      "speaker": "雫",
+      "ja": "戻りました。やはり、水を入手する方法は無さそうですので、急いで……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "4ce95f06",
+      "speaker": "ライラ",
+      "ja": "この人が……さっき言ってた、別行動してた仲間？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "810ad214",
+      "speaker": "雫",
+      "ja": "……また厄介な事態なのですね",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "77905e10",
+      "speaker": "雫",
+      "ja": "……なるほど。オアシスの捜索……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "f8fd6952",
+      "speaker": "ライラ",
+      "ja": "伝説の、よ。ただのオアシスなら何個かある。伝説のオアシスは、もっと巨大で……全ての国で分け合っても、お釣りが出る物らしいわ",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "fd9a0fe",
+      "speaker": "雫",
+      "ja": "（……我々としては、ただのオアシスでも問題無いのですが……）",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "2ccc7369",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でもさ……あの広い砂漠だぞ？　俺達に何か出来るのか？）",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "60495f60",
+      "speaker": "ルミナ",
+      "ja": "（それだったら……大丈夫）",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "4837ac06",
+      "speaker": "{G_PlayerName}",
+      "ja": "（えっ？　……何とかなるのか？）",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "6020450d",
+      "speaker": "雫",
+      "ja": "（宇宙船には、惑星の広い範囲をスキャンし水源を探る機能が備わっています）",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "89a9743a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ええっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "a50447f8",
+      "speaker": "雫",
+      "ja": "（遭難した時用の非常機能です。エネルギーはその分必要としますが……）",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "2dd01816",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんなのがあるなら、あっという間にオアシスが見つけられるな！）",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "222cb5f3",
+      "speaker": "ルミナ",
+      "ja": "（それなんだけど……水源が「ある」ことはすぐわかっても、場所を探るには……流れを少しずつ辿るしか、無いの……）",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "7ff77198",
+      "speaker": "ルミナ",
+      "ja": "（大きいオアシスなら……見つけやすいとは、思うけど……やっぱり、歩かないと……）",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "642f8130",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そ、そうなのか……）",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "9606b76b",
+      "speaker": "雫",
+      "ja": "（ですが……わかっていますよね、ルミナ様。問題はそれだけではありません）",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "eff7fa6",
+      "speaker": "雫",
+      "ja": "（星の……それも戦争の引き金になる原因に直接干渉するなんて、少し考えても１０以上の法律に抵触しています）",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "3561c918",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "355d238",
+      "speaker": "ルミナ",
+      "ja": "（大丈夫。もう、今更だから……出来るだけ法律は破らないようにしたいけど……人助けのほうが、大事だよ）",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "b2d287ea",
+      "speaker": "雫",
+      "ja": "（……仕方有りませんね、どこまでもお供いたします、ルミナ様）",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "47d53115",
+      "speaker": "ライラ",
+      "ja": "どうかした？　何とかなりそうかしら？　……やっぱり仕事、断るとか……",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "a19b0b8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ！　大丈夫だ！　ただ、えーっと……",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "48cff69a",
+      "speaker": "雫",
+      "ja": "こちらの仲間に占術の心得があります。オアシスの場所の当たりをつけるので、少々お待ちください",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "469ce486",
+      "speaker": "ライラ",
+      "ja": "本当！？　わかったわ！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "7cbe8350",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり雫が一番嘘が上手いな……）",
+      "zh": ""
+    }
+  ]
+}

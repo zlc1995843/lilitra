@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "332403a",
+      "speaker": "ラギオラ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "2d34eced",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "1f17bf99",
+      "speaker": "",
+      "ja": "コハルが不安そうにこちらを見てくる。間にラギオラが挟まっているので、迂闊なことは話せないが……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "a0b8d66f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（不安なのはわかるけど、今はどうしようもないよな……）",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "e7fca7ba",
+      "speaker": "",
+      "ja": "ラギオラだけではなく、ボバ村の戦士や拐われたトレ村の人たちもいる。逃げ出したところですぐ捕まるのがオチだろう。",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "9b40f3a2",
+      "speaker": "コハル",
+      "ja": "……あれっ？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "826ce8d2",
+      "speaker": "",
+      "ja": "酷暑のジャングルに、上からちらちらと降り注ぐ白い物。これは……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "edb7b686",
+      "speaker": "コハル",
+      "ja": "ゆ、雪……！？",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "2a7aceb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな暑いのに、雪って降るのか……！？",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "bb9db81f",
+      "speaker": "",
+      "ja": "この星では普通なのか、とも思ったが、村人たちや戦士たちも狼狽えている。ここでも異常なことらしい。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "581fe201",
+      "speaker": "ラギオラ",
+      "ja": "……騒ぐな、戦士達よ。これは神が我々に与えたる褒章、激励である",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "f558a902",
+      "speaker": "ラギオラ",
+      "ja": "儀式を進めよという意思に他ならない。口を塞ぎ、歩みを進めよ",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "7bf16d4d",
+      "speaker": "",
+      "ja": "ラギオラがそう告げると、戦士たちが再び列を作り歩き始めた。",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "5abf905c",
+      "speaker": "",
+      "ja": "神の意思という言葉に、囚われた人たちの表情がさらに暗くなる。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "92f6106c",
+      "speaker": "コハル",
+      "ja": "（ほ……本当なの？　神の意思ってやつ……）",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "c2f929a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（さ、さあなあ……）",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "332403a",
+      "speaker": "ラギオラ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "522350cb",
+      "speaker": "コハル",
+      "ja": "うっ……は、離れればいいんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "67a1be9d",
+      "speaker": "",
+      "ja": "隙をついて話しかけてくるコハルだが、すぐにラギオラに睨まれ元の位置へと戻る。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "f2488c86",
+      "speaker": "",
+      "ja": "ラギオラは軽く鼻を鳴らし、前へと向き直り歩き始めた。",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "606b917b",
+      "speaker": "ラギオラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "809213c9",
+      "speaker": "コハル",
+      "ja": "こ、ここが……ボバ村？　元のトレ村じゃないの？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "678ec586",
+      "speaker": "ボバ村の戦士",
+      "ja": "元ボバ村とトレ村は同じ村。見た目はほとんど同じだ",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "b84d8ee9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いや……）",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "5b6f33ae",
+      "speaker": "",
+      "ja": "確かにテントや飾りは殆どトレ村と同じだ。しかし、決定的に違う点がある。",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "babb2d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（遊ぶ子どもたちがいない。……大人ばっかりだ……）",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "6dbe6a30",
+      "speaker": "",
+      "ja": "トレ村にあった、子どもたちの弾むような声。ボバ村にはそれが無く、どこも静かな印象だ。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "6b95d751",
+      "speaker": "ラギオラ",
+      "ja": "……こっちに来い",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "b00062fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いてて……",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "e5815981",
+      "speaker": "",
+      "ja": "一際大きいテントの前でラギオラが立ち止まり、後ろを振り返った。",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "29e3bce0",
+      "speaker": "ラギオラ",
+      "ja": "この者たちには少し聞きたい事がある。お前たちは他の者を牢へと連れて行け。このテントに人を近づけるな",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "d0bcf042",
+      "speaker": "{G_PlayerName}",
+      "ja": "（えっ……？）",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "401104e2",
+      "speaker": "コハル",
+      "ja": "（この者たち、って……あたしと、{G_PlayerName}？）",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "2bb42db",
+      "speaker": "ボバ村の戦士",
+      "ja": "はっ、かしこまりました。すぐにイケニエに捧げる準備を進めます",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "79820d6d",
+      "speaker": "ラギオラ",
+      "ja": "儀式は急いてはならん。牢に入れるだけにしろ",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "d54efd5e",
+      "speaker": "ボバ村の戦士",
+      "ja": "はっ！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "7a035d9b",
+      "speaker": "",
+      "ja": "ボバ村の戦士達は、トレ村の村民達を別のテントへと連れて行った。",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "2e747725",
+      "speaker": "ラギオラ",
+      "ja": "入れ",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "e9cffc72",
+      "speaker": "",
+      "ja": "そう言うと、ラギオラはテントの中へと入っていった。",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "332403a",
+      "speaker": "ラギオラ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "678d8075",
+      "speaker": "",
+      "ja": "テントの中で、ラギオラとコハルと３人になる。何か聞きたい事があると言っていたが……",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "7939542b",
+      "speaker": "コハル",
+      "ja": "（いきなり首はねられたりしないでしょうね……）",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "9a3a0fe4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いちいち怖いこと言うな！）",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "d8e887e6",
+      "speaker": "コハル",
+      "ja": "（さ、最悪の事を想定するのは大事でしょ！）",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "f556b8af",
+      "speaker": "コハル",
+      "ja": "（それに……こんな状況になっちゃったら説得力ないけど、何があっても{G_PlayerName}のことはあたしが守るから！）",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "ba91baba",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺が言うところだろ普通、そのセリフ……）",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "5c2d1be8",
+      "speaker": "ラギオラ",
+      "ja": "……行ったか。",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "66fe02b6",
+      "speaker": "コハル",
+      "ja": "は、はいっ？",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "2ea4c9e",
+      "speaker": "",
+      "ja": "外のほうへと視線を送っていたラギオラが、こちらへと向き直る。どうやら、テント付近の人を警戒していたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "596195e9",
+      "speaker": "ラギオラ",
+      "ja": "それで、貴様たちに聞きたい話だが……",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "b44913e4",
+      "speaker": "コハル",
+      "ja": "……はい。",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "b9eee04",
+      "speaker": "ラギオラ",
+      "ja": "オマエたち、どこか遠い外から来たんだろう？　頼む、アタシに協力してくれないか……？",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "92dc9738",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "57b6482b",
+      "speaker": "",
+      "ja": "ラギオラが床に座り、姿勢を崩す。こちらにも座るよう促すが、突然の態度の変わり様にコハルと顔を見合わせてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "23c767ea",
+      "speaker": "コハル",
+      "ja": "……あ、えっと……きょ、協力……？",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "4364435a",
+      "speaker": "ラギオラ",
+      "ja": "ああ。……実は最近のイケニエを集める動きだが、我……アタシの手には負えないんだよ",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "7546eb87",
+      "speaker": "コハル",
+      "ja": "（……随分話し方が砕けたわね……）",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "6e02192c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こっちが本当のラギオラ……ってことなのか？　それともこれも作戦……？）",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "93809093",
+      "speaker": "ラギオラ",
+      "ja": "そもそも最近、このあたり一帯の天気が異常に変わり始めて、それを鎮めたいと騒ぎ出した一部の村民が……",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "2a42640",
+      "speaker": "？？？",
+      "ja": "ラギオラッ！",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "c56572f5",
+      "speaker": "ラギオラ",
+      "ja": "どうした、シーシャ",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "db99511a",
+      "speaker": "",
+      "ja": "ラギオラが先程まで曲げていた背筋を一瞬で伸ばし、シーシャと呼ばれたリリアンに冷たい視線を向ける。",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "6ceaedf4",
+      "speaker": "シーシャ",
+      "ja": "ケモノ、でケーヤツ、出タ！　ワタシ、行っていいカ！？",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "958e9f8f",
+      "speaker": "ラギオラ",
+      "ja": "貴様は先日、命令に背いて突出したため謹慎させていたはずだが？",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "237063c",
+      "speaker": "シーシャ",
+      "ja": "ウッ、でモ……今いるヤツジャ、倒せそうになイ……何匹か逃がス……",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "8911198d",
+      "speaker": "ラギオラ",
+      "ja": "……隊を率いる者の命令を聞くならば、許可する",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "89f18c4a",
+      "speaker": "シーシャ",
+      "ja": "ホントカ！？　ジャ、行ってクル！",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "332403a",
+      "speaker": "ラギオラ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "bded9ad8",
+      "speaker": "ラギオラ",
+      "ja": "……と、まあこの村には血の気が多い者が多く、イケニエだと騒ぎ出し今に至るというわけだ",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "a0cdc574",
+      "speaker": "コハル",
+      "ja": "は……はあ……でも、嫌ならやめさせたらいいんじゃないの……ですか？　この村の長なんですよね？",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "cc113437",
+      "speaker": "ラギオラ",
+      "ja": "そうもいかない。ボバ村の……トレ村も含めて、大半は神の裁きを信じている。急にやめると言って、納得しないだろう",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "53380105",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……ラギオラ……さん？　は、神様を信じてないんですか？",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "3d0353b5",
+      "speaker": "ラギオラ",
+      "ja": "アタシも全く信じていないわけではないが、今回の異常な天気は神の怒りとは無関係のように感じる。イケニエを捧げたところで止まるようには思えん",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "b02bf5bd",
+      "speaker": "ラギオラ",
+      "ja": "イケニエを捧げ民の心が救われても、天気が元に戻らなくては意味が無い。そのため、イケニエは無闇に捧げず解決策を探していたのだが……",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "3ad99464",
+      "speaker": "コハル",
+      "ja": "（異常気象を止めるって言っても……ねえ？　本当に神様の機嫌が悪かったらどうするのかしら）",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "800cdae0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺達に解決できるような問題じゃないような……いや、ルミナ達ならなんとか出来たりするのか？）",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "6d47fffa",
+      "speaker": "ラギオラ",
+      "ja": "氷が溶けるように、木が枯れるように、天気もまた、何かの法則で異常になっているのではとアタシは考えている",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "ecc9c31a",
+      "speaker": "ラギオラ",
+      "ja": "アタシ達には無い知識がある、空を飛ぶ者達。お前達なら、原因を知っているんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "c281afe7",
+      "speaker": "",
+      "ja": "その言葉に、コハルと再び顔を見合わせた……",
+      "zh": ""
+    }
+  ]
+}

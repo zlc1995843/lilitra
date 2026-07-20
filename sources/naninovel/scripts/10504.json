@@ -1,0 +1,760 @@
+{
+  "lines": [
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "b1bddf1f",
+      "speaker": "",
+      "ja": "ライラが砂賊だと言った遥か彼方の影は、覚悟する間も無く距離を詰めてくる。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "56d8ba94",
+      "speaker": "",
+      "ja": "豆粒ほどだった影は、いつの間にか姿形をハッキリ捉えられるほどに近づいていた。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "24510ed1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あいつら凄い速度で砂を滑ってるけど、どうなってんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "b62a2ab0",
+      "speaker": "雫",
+      "ja": "リリアンの魔力を使っているのでしょう！　ただの機械士は下がっていなさい！",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "b66a9787",
+      "speaker": "ライラ",
+      "ja": "あの赤髪……もしかして、兵士が噂してたゼミア！？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "806bd446",
+      "speaker": "コハル",
+      "ja": "そ、そのゼミアってヤツ強いの！？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "a05ae133",
+      "speaker": "ライラ",
+      "ja": "砂賊の戦闘部隊の隊長を務めるリリアンよ！　砂賊のリーダーは別にいるらしいけど、戦いにおいての力は互角らしいわ……！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "77015367",
+      "speaker": "ゼミア",
+      "ja": "はああっ！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "b2dbcc1c",
+      "speaker": "雫",
+      "ja": "くっ……！　っ！",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "e41f4868",
+      "speaker": "",
+      "ja": "ゼミアの振りかざすシミターが雫の剣と打ち鳴らされる度、雫の足が砂に沈んでゆく。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "3699e3ee",
+      "speaker": "",
+      "ja": "対してゼミアは砂に足をつく度に、トランポリンに弾かれるように機敏な動きを見せた。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "b924a54b",
+      "speaker": "ゼミア",
+      "ja": "ふん……護衛をつけた商人かと思ったが、世間知らずの旅人か何かか？　楽に終わらせられそうだ",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "d926034c",
+      "speaker": "雫",
+      "ja": "（どこか、足の踏ん張りが利く石などは……！）",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "e6261b12",
+      "speaker": "ゼミア",
+      "ja": "足場を探しているのか？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "2557588",
+      "speaker": "雫",
+      "ja": "（読まれている……！）",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "d5935d01",
+      "speaker": "ゼミア",
+      "ja": "甘いな。砂漠での戦いは、地を制した者が勝つ！",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "ee021489",
+      "speaker": "コハル",
+      "ja": "ライラ、あなた戦闘は！？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "66c8fb8",
+      "speaker": "ライラ",
+      "ja": "わ、私実は戦いは得意じゃなくて……！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "67510f6c",
+      "speaker": "コハル",
+      "ja": "（私も戦いたいけど……他の砂賊も来る。ライラや{G_PlayerName}を守らないと……！）",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "dd867431",
+      "speaker": "{G_PlayerName}",
+      "ja": "！　ルミナ！",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "4f6b333f",
+      "speaker": "ルミナ",
+      "ja": "雫！",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "ffebe9ee",
+      "speaker": "雫",
+      "ja": "……！　いけませんルミナ様、お下がりください……！",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "560db854",
+      "speaker": "ルミナ",
+      "ja": "私だって……！",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "f63afd90",
+      "speaker": "ゼミア",
+      "ja": "っ……何をした？",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "1fa56623",
+      "speaker": "",
+      "ja": "ルミナが雫の前に立ちはだかるように能力を発動する。どうやら、光を固定する能力で壁を作ったらしい。",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "6b8590",
+      "speaker": "ルミナ",
+      "ja": "（これだけ日光が強い環境なら……私も、能力を使いやすいはず……！　このまま、拘束して……）",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "d98f7858",
+      "speaker": "ルミナ",
+      "ja": "うっ……",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "7ec8c97a",
+      "speaker": "",
+      "ja": "ゼミアがルミナを警戒してか、一度距離を取り直した。他の砂賊も到着し、こちらを取り囲むように円を成す。",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "15e1e6f4",
+      "speaker": "ルミナ",
+      "ja": "（動きが、速い……前止めた矢は、直線でわかりやすい動きだったから、止められたけど……これじゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "f930de0",
+      "speaker": "コハル",
+      "ja": "２人とも、大丈夫！？",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "fb868b2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "完全に囲まれたな……！",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "c2f8777c",
+      "speaker": "コハル",
+      "ja": "このままじゃ……わっ！",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "12931226",
+      "speaker": "",
+      "ja": "コハルが飛んできたボウガンの矢を防御する。こちらに向けられたボウガンの数はさほど多くないが……砂賊の人数は、合計で３０人はいるようだ。",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "2ff86c01",
+      "speaker": "ルミナ",
+      "ja": "はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "65ac3d96",
+      "speaker": "雫",
+      "ja": "ルミナ様……！　やはり、ご無理を……",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "817214b6",
+      "speaker": "雫",
+      "ja": "（いや……無理をさせたのはふがいないわたくしの責任。リリアンの能力を使わなければこうはならなかったはず……！）",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "302ca65",
+      "speaker": "雫",
+      "ja": "（このまま戦えば、敗北は必至。どうすれば……！）",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "87057026",
+      "speaker": "コハル",
+      "ja": "……ちょっと、{G_PlayerName}！？　なんで１人で近づいて……！？",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "4dbb0a49",
+      "speaker": "ゼミア",
+      "ja": "……？　止まれ。お前は後ろで隠れてただけの、リリアンでもない男だろ？　何しに来た",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "81d1e78a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ちょっと話を聞きたいと、思ってな",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "f3a75357",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あの中でリリアンじゃないのは俺だけ……丸腰で手を上げながら近づけば、攻撃はして来ないと思ったけど、上手くいって良かった）",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "853a6be7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナが少しでも回復すれば何とかなるかも……そうじゃなくても雫が何か考えるはずだ。時間を稼がないと……）",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "cb17dcb6",
+      "speaker": "ゼミア",
+      "ja": "話？　自分だけ助かりたいとでも言う気か？",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "c8de0c8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "違う。……砂賊は砂漠に住んでいて、通る人を襲うと聞いた。なんでそんな事するんだ？　砂漠に住むなんて、それだけでも大変だろ？",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "799ac8c",
+      "speaker": "ゼミア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "8fee8451",
+      "speaker": "砂賊",
+      "ja": "この砂漠に、これ以上血を流させないためだ！",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "ebf853f8",
+      "speaker": "",
+      "ja": "沈黙するゼミアに代わってか、単に待ちきれなかったのか、横の砂賊が叫び始める。",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "34a418fb",
+      "speaker": "砂賊",
+      "ja": "どの国も、武力を溜めて他の国から水と国土を奪うことしか考えてない！　その武力を削って、平和を取り戻す事こそが砂賊の使命！",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "2c991cae",
+      "speaker": "",
+      "ja": "そうだそうだ、と他の砂賊も同調し叫び、武器を掲げる。隊長であるはずのゼミアは、同調も否定もせず、ただ黙ったままだ。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "9ba85fb5",
+      "speaker": "{G_PlayerName}",
+      "ja": "血を流さない……平和……って、今俺たちが血を流しそうなんだが？　俺たち、武器商人でもなけりゃ、この国の人間でもないぞ？",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "8ff0e40e",
+      "speaker": "砂賊",
+      "ja": "砂賊が力をつけて国を止めるには、多少の犠牲は付き物だ！　殺しはしない、身ぐるみ置いてとっとと失せな！",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "f349437c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（要するに……誤差程度に優しい強盗か……）",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "657e2403",
+      "speaker": "ライラ",
+      "ja": "国の戦争を止めるために略奪をしていた……？　じゃあ、砂賊が出した被害も、ひいては国の戦争が原因で……",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "6685aeec",
+      "speaker": "コハル",
+      "ja": "ラ、ライラ？　あんな奴らのこと、まともに考えないほうが……",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "808adef3",
+      "speaker": "ライラ",
+      "ja": "う……うん……そう、かな……",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "8dd3cc5a",
+      "speaker": "砂賊",
+      "ja": "お前、どこかで見たと思ったら……まさか……",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "47789bf",
+      "speaker": "コハル",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "a974bb91",
+      "speaker": "",
+      "ja": "砂賊がコハルとライラ……いや、ライラに向けてシミターの先端を向け、叫んだ。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "8d2e6e2a",
+      "speaker": "砂賊",
+      "ja": "ライラ王女か！",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "724c1dc7",
+      "speaker": "ライラ",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "281.1",
+      "line_index": 281,
+      "inline_index": 1,
+      "line_hash": "1dc9a436",
+      "speaker": "コハル",
+      "ja": "えっ、王女っ！！？　あの国の！？",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "b46759fb",
+      "speaker": "ゼミア",
+      "ja": "……ライラ、王女？　なぜ王女がこんな場所に、大した護衛も無く……",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "dc84af53",
+      "speaker": "砂賊",
+      "ja": "確かに……でも、あの顔！　戦勝祭で間違いなく見ましたよ！　格好は違いますが……",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "57e40efb",
+      "speaker": "ゼミア",
+      "ja": "ふ……王女、ね。あの戦争しか能の無い国の……",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "d2e20965",
+      "speaker": "ゼミア",
+      "ja": "そうなれば話は別だ、金を出そうが何をしようが、お前らは……特に王女は絶対逃さん……！　抵抗するようなら殺してでも、絶対に捕らえろ……！",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "de43fcac",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ま、まずい……！）",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "6a16267d",
+      "speaker": "",
+      "ja": "砂賊が全員、武器を構えて再び臨戦態勢になる。当然だ。戦争している国の王女を人質にすれば、それだけで戦争を止められる可能性がある……事実がどうあれ、そんな幻想を見ることはおかしくない。",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "255f9db7",
+      "speaker": "{G_PlayerName}",
+      "ja": "に、逃げ……！",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "c610ff1e",
+      "speaker": "砂賊",
+      "ja": "な、なんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "326.0",
+      "line_index": 326,
+      "inline_index": 0,
+      "line_hash": "340be51b",
+      "speaker": "{G_PlayerName}",
+      "ja": "じ……地面が、揺れて……！",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "2820ba",
+      "speaker": "",
+      "ja": "一際大きく地面が揺れ、全員が地に倒れる。それと同時に、超巨大な魔物が砂漠から浮上した。",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "fced6fab",
+      "speaker": "砂賊",
+      "ja": "さっ……サンドワームだ！！　サンドワームが出たぞ！！",
+      "zh": ""
+    },
+    {
+      "key": "341.0",
+      "line_index": 341,
+      "inline_index": 0,
+      "line_hash": "d5701a5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "わーーーーっ！！！？",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "b5a26d4b",
+      "speaker": "",
+      "ja": "地面が、液体と化したように流れ始める。近場にあった草を掴むが、もろともに流されるだけで無意味に終わった。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "f8196457",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こ、このままじゃ……死ぬ……！！）",
+      "zh": ""
+    },
+    {
+      "key": "354.1",
+      "line_index": 354,
+      "inline_index": 1,
+      "line_hash": "5603814c",
+      "speaker": "ゼミア",
+      "ja": "撤退だ！　撤退を……！",
+      "zh": ""
+    },
+    {
+      "key": "356.1",
+      "line_index": 356,
+      "inline_index": 1,
+      "line_hash": "f248014b",
+      "speaker": "ゼミア",
+      "ja": "……っ",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "659f3cb8",
+      "speaker": "ゼミア",
+      "ja": "オレは王女を捕らえる！　お前らは撤退しろ！",
+      "zh": ""
+    },
+    {
+      "key": "371.1",
+      "line_index": 371,
+      "inline_index": 1,
+      "line_hash": "d1b61a40",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}ーーーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "373.1",
+      "line_index": 373,
+      "inline_index": 1,
+      "line_hash": "aa606608",
+      "speaker": "ライラ",
+      "ja": "そ、そんな……！　ど、どうしよう……！",
+      "zh": ""
+    },
+    {
+      "key": "375.1",
+      "line_index": 375,
+      "inline_index": 1,
+      "line_hash": "774de4cb",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……！　ごほっ、ごほっ……",
+      "zh": ""
+    },
+    {
+      "key": "383.1",
+      "line_index": 383,
+      "inline_index": 1,
+      "line_hash": "9765c932",
+      "speaker": "雫",
+      "ja": "ルミナ様！　こちらへ……！　今は逃げるしかありません！",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "41ed69c7",
+      "speaker": "",
+      "ja": "砂に沈みながらこちらへ来ようとするコハル、能力を使おうとして咳き込むルミナ、それを止める雫。",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "b6aff899",
+      "speaker": "",
+      "ja": "その光景を最後に、砂に飲まれてあなたは意識を失った……",
+      "zh": ""
+    }
+  ]
+}

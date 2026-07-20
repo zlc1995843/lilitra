@@ -1,0 +1,751 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "5cf9e731",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふー、この機械の使い方、ようやくわかってきたな……",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "add2fd9f",
+      "speaker": "",
+      "ja": "緑と獣の星を旅立ってから３日。船内は一通り見て回ったし、ラウンジのよく使う機械などの操作法も教えてもらった。",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "13c42892",
+      "speaker": "",
+      "ja": "まだまだ自信は無いが、日常生活に不便は無くなってきた……と思う。",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "a3dc04f4",
+      "speaker": "ルミナ",
+      "ja": "うん……甘さとか、濃さの調節はここを触れば出来るけど……",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "5875390b",
+      "speaker": "コハル",
+      "ja": "えー、無理無理！　このミルク……コーヒー？　って言うの出すだけでも大変なんだから……覚えられないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "88a31424",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと読んで操作すれば大丈夫だろ……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "4c278d4c",
+      "speaker": "コハル",
+      "ja": "んー……壊しそうで怖いけど、じゃあ次はチャレンジしてみようかな……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "650a9bef",
+      "speaker": "ルミナ",
+      "ja": "うん……他のメニューも選べる、から……わからなかったら呼んでくれたらいいし……やってみて……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "72398a86",
+      "speaker": "{G_PlayerName}",
+      "ja": "にしても、ルミナはスイスイ使うよな。ルミナの星って、皆そうなのか？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "3ba5881c",
+      "speaker": "ルミナ",
+      "ja": "うーん……初めて触る、機械は……皆、戸惑うかも知れないけど……少し触れば、大丈夫、かも……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "e4a66cce",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー……ルミナの星の人たちにとって、機械ってよっぽど馴染み深いんだな……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "4c3e947b",
+      "speaker": "ルミナ",
+      "ja": "そういえば……設定、で、期間限定……少しの間だけ出せる飲み物が、あるの……後で、飲んでみる？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "bf07dfd6",
+      "speaker": "コハル",
+      "ja": "特別セールってこと？　あたしそういうの大好き！　飲む飲む！",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "67cf63e",
+      "speaker": "アポロ",
+      "ja": "ご歓談中申し訳ございません。今後のルートプランについてご提案が",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "10a638fb",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃん……どうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "3e41269b",
+      "speaker": "アポロ",
+      "ja": "物資不足のため、補給をしなければいけません",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "7892ef73",
+      "speaker": "{G_PlayerName}",
+      "ja": "物資……って、前の星で補給出来たんじゃなかったのか？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "48d24065",
+      "speaker": "アポロ",
+      "ja": "エネルギー補給は十分出来ました。ですが、船の修繕などで消耗した物資が心もとない状態です",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "6fb28f68",
+      "speaker": "コハル",
+      "ja": "そうだったんだ……",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "fd8d9599",
+      "speaker": "アポロ",
+      "ja": "次に文明のある星が見つかり次第、その星へ着陸を推奨いたします",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "92b1868e",
+      "speaker": "雫",
+      "ja": "見つかったらって……惑星の位置くらいわかるでしょう、近い星は？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "a3953d5d",
+      "speaker": "アポロ",
+      "ja": "……現在スキャンしています",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "826f8837",
+      "speaker": "雫",
+      "ja": "……この銀河のマップデータすらインストールされておりませんのね……",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "46361b60",
+      "speaker": "アポロ",
+      "ja": "な、なんですか。スキャンすることで情報が得られるならば問題ございません",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "be037f8e",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃんは、あんまり触れてなかったから……仕方ない、よ……アップデートが必要、だったもん……",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "fbe4f480",
+      "speaker": "雫",
+      "ja": "まあ……それはそうですが……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "d033ae38",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても、この広い宇宙から情報を集められるのか？　それだけでも凄いよな！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "eb9752f9",
+      "speaker": "アポロ",
+      "ja": "そっ……その通りです。ワタシは凄い。アナタもようやく理解してきたようですね",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "940b6ab6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（割りと最初から褒めてはいるんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "8074fe74",
+      "speaker": "アポロ",
+      "ja": "スキャン結果が出ました。一晩ほどかかる距離に、文明がある星が見つかりました",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "532398f2",
+      "speaker": "雫",
+      "ja": "一晩ですか。まあそれなら通り道のような物でしょうね",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "51a39908",
+      "speaker": "{G_PlayerName}",
+      "ja": "それじゃあ、明日はまた冒険か？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "83cc19",
+      "speaker": "雫",
+      "ja": "冒険……前回の星は不時着した未開惑星でしたけれど、次は文明のある星です。冒険にはならないでしょう",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "1ab9abeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "3d0b253",
+      "speaker": "コハル",
+      "ja": "だとしても、降りるかもしれないでしょ？　それなら、準備だけはしないとね！",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "1e9c43e4",
+      "speaker": "ルミナ",
+      "ja": "じゃあ、今日は早く寝ないと……部屋に戻るね。おやすみ……",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "ce15eabb",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう、おやすみ",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "9d6f5546",
+      "speaker": "コハル",
+      "ja": "おやすみ！",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "b9ce36a0",
+      "speaker": "雫",
+      "ja": "おやすみなさいませ、ルミナ様",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "ec261548",
+      "speaker": "雫",
+      "ja": "では、わたくし達も準備が出来次第就寝を……",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "e2858366",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ちょっとすまん。気になったことがあるんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "d9c68121",
+      "speaker": "雫",
+      "ja": "はあ。なんでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "856d448d",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっき、宇宙船……アポロは倉庫にずっといたみたいなこと言ってたけど。アポロって、どういう流れでもらったんだ？　母親からもらったんだよな？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "70361324",
+      "speaker": "雫",
+      "ja": "……ルミナ様が、幼い頃にいただきました",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "edb35f5f",
+      "speaker": "コハル",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "2d057d1c",
+      "speaker": "",
+      "ja": "それだけ言うと、雫は少し目を伏せて黙った。何か考え込んでいるようだが……",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "70a4a0f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "聞いちゃいけないことだったか？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "be9a767d",
+      "speaker": "雫",
+      "ja": "いいえ。多少はお伝えしておかなければならない事でしたので。……どこからお伝えしようかと考えておりました",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "99b11324",
+      "speaker": "雫",
+      "ja": "まず……現女王様は、ルミナ様に……いえ、女王候補の王女様方皆様に、十分な愛情をお持ちでありません",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "12ce4a70",
+      "speaker": "コハル",
+      "ja": "……え、どういうこと？",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "a0b12ee6",
+      "speaker": "雫",
+      "ja": "我々の星……『終と始まりの星』と呼ばれる星は、代々リリアンとしての能力、俗に魔力と呼ばれる力の大きい者が、女王や王として選ばれます",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "3af332e6",
+      "speaker": "雫",
+      "ja": "魔力については我々の星でもまだ解明されていない部分が多く、遺伝により強弱が左右される事はわかっています",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "6abe6063",
+      "speaker": "雫",
+      "ja": "ですので、姉妹の中でも特別力が強いルミナ様が次期女王として選ばれたのですが……",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "7ef7dcdb",
+      "speaker": "",
+      "ja": "雫が再び言い淀む。俺もコハルも急かすことはせず、先を待った。",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "cf61b9cc",
+      "speaker": "雫",
+      "ja": "女王を受け継ぐには、魔力を高めるとされる訓練にとどまらず、多種多様な勉学、言語習得、厳しい礼節の教育が必要とされています。ルミナ様は……",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "816a524b",
+      "speaker": "雫",
+      "ja": "生まれた時から現在まで。殆ど外界に出ること無く、絶え間ない訓練に自室で励んでいらっしゃいました",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "6b60eb9e",
+      "speaker": "コハル",
+      "ja": "殆ど外界に出ること無く……って、監禁されてるってこと！？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "45d461d0",
+      "speaker": "雫",
+      "ja": "視察や教育の一貫として、別の星へと行くことも稀にございます。が、今回の旅で実に……８年ぶりの外出となります",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "1d58fdb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、８年……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "aa5b641a",
+      "speaker": "雫",
+      "ja": "最も女王に近いルミナ様が一番愛情をお受けとお思いかも知れませんが、逆です。ルミナ様はお母様どころか、わたくし以外の家臣と会話をすることすら稀です",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "4197cd0e",
+      "speaker": "雫",
+      "ja": "他の女王候補の王女様方も、教育こそルミナ様より少なく、外ヘ出るのも自由ですが、女王様からの干渉は殆どございません",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "afc7d763",
+      "speaker": "コハル",
+      "ja": "そんな……でも、なんでルミナはこの宇宙船をもらったの？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "1248c24e",
+      "speaker": "雫",
+      "ja": "畏れ多くも、言わせていただくと……突き放すため……です",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "5ece50b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "突き放す、ため……？",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "62c07ca2",
+      "speaker": "雫",
+      "ja": "この宇宙船をルミナ様がいただいたのは、１５年前。他星の視察に使われたこの船で、また外へ出たいと……無口であったルミナ様が、女王様へ願いを口にしたのです",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "b560e816",
+      "speaker": "雫",
+      "ja": "それをお聞きになった女王様は、女王となった暁には、この船を使って良いと……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "1df60bab",
+      "speaker": "雫",
+      "ja": "そして幼稚な願いを二度と口にするなと、この宇宙船の所有権をルミナ様に譲渡しました",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "4f775b9b",
+      "speaker": "コハル",
+      "ja": "なっ……酷くない……！？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "d2a76561",
+      "speaker": "雫",
+      "ja": "宇宙船が欲しいというのは嘘ではなかったでしょうが、ルミナ様にとって女王様は用事が無くては話しかけられない存在。お甘えになる思いもあったでしょう",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "cdeb4146",
+      "speaker": "雫",
+      "ja": "だというのに帰ってきた物は、冷たい叱責と宇宙船と……女王になるまで外に出てはならないという言いつけ。あの時のルミナ様のお気持ちは、察するに余りあります",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "8a06fe58",
+      "speaker": "",
+      "ja": "少しの沈黙が、宇宙船のラウンジを包む。コハルが、冷めたミルクコーヒーを少し啜ってから口を開いた。",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "a65189ab",
+      "speaker": "コハル",
+      "ja": "私、王女様ってもっと……なんていうか、大事にされる物だと思ってた。そうとは限らないのね",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "37d4b4f7",
+      "speaker": "雫",
+      "ja": "勿論ルミナ様の存在は、家臣も国民も何より尊重しています。ですが……",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "c76fa435",
+      "speaker": "雫",
+      "ja": "絶え間ない教育と訓練で、外へ出られないルミナ様に話しかけられる者はごく僅か。わたくしとアポロ以外に、ルミナ様のご友人と呼べる方はおりません",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "ecb69775",
+      "speaker": "雫",
+      "ja": "女王候補でなければ、せめてもう少しリリアンとしての力が弱ければ……ルミナ様はもっと幸せになれたのではと、考える事は少なくありません",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "e26bba88",
+      "speaker": "",
+      "ja": "友人がいないだけではない。女王の座を競い合い、女王の寵愛を奪い合う他の王女……敵と呼べる者もいる。",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "2747e1a1",
+      "speaker": "",
+      "ja": "家族も友人もいない、会話すら出来ない状態で一人部屋の中、勉強と訓練に明け暮れる毎日。想像しただけで……",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "16e8fd24",
+      "speaker": "{G_PlayerName}",
+      "ja": "（多分、俺が想像する何倍も苦労、してるんだな……）",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "3b5432c6",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃん。次の星、降りられ、そう？",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "5b9e1617",
+      "speaker": "アポロ",
+      "ja": "はい、既にシミュレートは終わりました。不時着時とは違い、快適な着陸をお約束できます",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "8a10e959",
+      "speaker": "ルミナ",
+      "ja": "よかった。……頼りに、してるから、ね",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "cf389a5e",
+      "speaker": "アポロ",
+      "ja": "光栄です。これからも、よろしくお願いいたします",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "dc72ac4b",
+      "speaker": "ルミナ",
+      "ja": "うん。こちらこそ、よろしくね……",
+      "zh": ""
+    }
+  ]
+}

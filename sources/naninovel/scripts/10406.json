@@ -1,0 +1,760 @@
+{
+  "lines": [
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "ce41a51b",
+      "speaker": "雫",
+      "ja": "くっ……早い！",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "775e04da",
+      "speaker": "コハル",
+      "ja": "は、早すぎてついていけない……！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "104805b",
+      "speaker": "プリズム",
+      "ja": "ど、どうしましょう～……！？",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "439beecf",
+      "speaker": "{G_PlayerName}",
+      "ja": "下手に手出しすると邪魔になる。今は雫に任せるしか……",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "175a2d87",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "80630a10",
+      "speaker": "紅葉",
+      "ja": "……私の名は紅葉。あなたは？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "73519d4c",
+      "speaker": "雫",
+      "ja": "…………！？　急に、何を……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "bcd634dc",
+      "speaker": "紅葉",
+      "ja": "……依頼中、『鉢合わせ』になった場合は名乗れと教えられた",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "6c0abfe6",
+      "speaker": "紅葉",
+      "ja": "依頼の行き違いを防ぐため。……同業者でしょう？",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "114eaa26",
+      "speaker": "雫",
+      "ja": "な……何を勘違いなさっているかはわかりませんが……",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "e7c03010",
+      "speaker": "紅葉",
+      "ja": "そんなはずはない。地の利がこちらにあるにも関わらず、私の攻撃を防げているのは……同門か、近い流派に師事を受けたはず",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "7a2d65b0",
+      "speaker": "紅葉",
+      "ja": "私と同じ、暗殺の……",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "3589c2dd",
+      "speaker": "雫",
+      "ja": "それ以上……口を開かないでいただけますか……！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "e4700bd9",
+      "speaker": "紅葉",
+      "ja": "……違うと言うなら、構わない。その方が仕事は楽。このまま全員……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "659bb596",
+      "speaker": "雫",
+      "ja": "何！？　壁が……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "a6348b62",
+      "speaker": "？？？",
+      "ja": "騒がしいんじゃボケェーッ！",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "c91bd68c",
+      "speaker": "雫",
+      "ja": "こ、鉱山作業者……！？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "dd308124",
+      "speaker": "紅葉",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "9e05a7bc",
+      "speaker": "ブロワー",
+      "ja": "ここがおいら、ブロワーのシマって知ってんのか！？　好き放題しやがって！",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "70479993",
+      "speaker": "雫",
+      "ja": "そ、それは申し訳ございませんが……危険です！　ここからすぐ離れて……",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "5cbaf022",
+      "speaker": "紅葉",
+      "ja": "……任務に支障は無い。すぐに片付ける……！",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "a59b7ef6",
+      "speaker": "雫",
+      "ja": "！　力が増して……",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "91944342",
+      "speaker": "？？？",
+      "ja": "ダメ！",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "4aad1b29",
+      "speaker": "紅葉",
+      "ja": "っ！？",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "e34eb793",
+      "speaker": "",
+      "ja": "突如として後ろから飛んできた巨大な獣が、紅葉を殴り飛ばした。いや、この鮮やかな水色の毛を持つ何かは、獣ではなく……",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "6cc06c78",
+      "speaker": "雫",
+      "ja": "き……着ぐるみ？　いや……巨大な、ぬいぐるみ？",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "56060ed5",
+      "speaker": "？？？",
+      "ja": "はぁ……はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "923e4d15",
+      "speaker": "ブロワー",
+      "ja": "あん……？　なんでこんなちっちゃいお嬢ちゃんまでこんなところに……",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "a4650367",
+      "speaker": "プリズム",
+      "ja": "シューちゃん！？　なんでここに！？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "44098886",
+      "speaker": "シュー",
+      "ja": "プリズムお姉ちゃん……どこか行ってた、から……",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "7e3c94c9",
+      "speaker": "プリズム",
+      "ja": "あたしに黙って着いてきたらダメだよって、前も言ったでしょ！？",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "583a6572",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、今はそんな事言ってる場合じゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "a9e691cd",
+      "speaker": "ブロワー",
+      "ja": "だーっ！　おいらを無視するなーっ！",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "35c425b",
+      "speaker": "雫",
+      "ja": "ああもう、何が何やら……！",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "e456da17",
+      "speaker": "紅葉",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "7ccc0175",
+      "speaker": "",
+      "ja": "ぬいぐるみに吹き飛ばされた後、紅葉は苦も無く壁面に着地し様子を伺っていた。",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "8760b557",
+      "speaker": "紅葉",
+      "ja": "機を見直す……",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "1c9e9862",
+      "speaker": "コハル",
+      "ja": "あ、あれ……あの人、消えちゃったわよ。また不意打ちしてくるんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "a41e6fef",
+      "speaker": "雫",
+      "ja": "多勢……多勢？　に無勢ですから、一度退却したのでしょう",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "fd9087ae",
+      "speaker": "プリズム",
+      "ja": "よ、よかった……でも……",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "83f50c55",
+      "speaker": "プリズム",
+      "ja": "……こらっ！　シューちゃん！",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "56b59acd",
+      "speaker": "シュー",
+      "ja": "……う……",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "1aa3b72b",
+      "speaker": "プリズム",
+      "ja": "危ないところだったんだよ！？　……お姉ちゃんの言う事は、聞かなきゃダメでしょ！？",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "d3231f5",
+      "speaker": "シュー",
+      "ja": "で……でも……お姉ちゃんたちも、危ないからと思って……",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "32958043",
+      "speaker": "プリズム",
+      "ja": "それは……助かったけど、シューちゃんが危ない目にあうのが一番ダメなの",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "4a0922f6",
+      "speaker": "プリズム",
+      "ja": "助けてくれてありがとう。……でも、次からは無茶しないこと。こっそり着いてこないこと、約束してくれる？",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "67b3eceb",
+      "speaker": "シュー",
+      "ja": "うん……ごめんなさい……",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "cf1d89c",
+      "speaker": "ブロワー",
+      "ja": "うんうん、おいらも子供の頃はこっそりオヤジたちについて鉱山に来て怒られたもんだ。鉱山はガキんちょやシロートには危険……",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "952082ad",
+      "speaker": "ブロワー",
+      "ja": "……だから！　勝手に入ったら危ねえんだ！　お前らとっとと出てけ！",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "974e9e56",
+      "speaker": "プリズム",
+      "ja": "あ……あの……パニックになっててよくわかってませんでしたが……もしかして……ブロワーさん！？",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "b059250a",
+      "speaker": "ブロワー",
+      "ja": "あん？　名乗っただろ？　ブロワーだって",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "c6c366e4",
+      "speaker": "プリズム",
+      "ja": "わーっ！　え、え、え、超有名な鉱山のカリスマ、ブロワーさん！？　本物！？　わああああ！　ファ、ファ、ファンですぅっ！",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "24cb72de",
+      "speaker": "ブロワー",
+      "ja": "どわっ！？　な、なんだなんだぁ！？",
+      "zh": ""
+    },
+    {
+      "key": "303.1",
+      "line_index": 303,
+      "inline_index": 1,
+      "line_hash": "28721032",
+      "speaker": "ルミナ",
+      "ja": "あの……ひとまず……落ち着き、ません、か……？",
+      "zh": ""
+    },
+    {
+      "key": "315.1",
+      "line_index": 315,
+      "inline_index": 1,
+      "line_hash": "98d8734f",
+      "speaker": "プリズム",
+      "ja": "ランプ屋を営んでおります、プリズムと申します……！　ほ、ほんとしがない一般人です……！",
+      "zh": ""
+    },
+    {
+      "key": "317.1",
+      "line_index": 317,
+      "inline_index": 1,
+      "line_hash": "17ccb6bc",
+      "speaker": "シュー",
+      "ja": "……シュー。プリズムお姉ちゃんに、ついてきたの……",
+      "zh": ""
+    },
+    {
+      "key": "319.1",
+      "line_index": 319,
+      "inline_index": 1,
+      "line_hash": "57be5df0",
+      "speaker": "プリズム",
+      "ja": "あ、ウチによく遊びに来てくれる子です……お父さんがほとんど家にいないらしくって……",
+      "zh": ""
+    },
+    {
+      "key": "321.1",
+      "line_index": 321,
+      "inline_index": 1,
+      "line_hash": "fa6c01c0",
+      "speaker": "ブロワー",
+      "ja": "ブロワー。この鉱山で石を掘ってる一般作業員だ",
+      "zh": ""
+    },
+    {
+      "key": "323.0",
+      "line_index": 323,
+      "inline_index": 0,
+      "line_hash": "55f38d98",
+      "speaker": "{G_PlayerName}",
+      "ja": "……これで、全員の自己紹介は終わったかな",
+      "zh": ""
+    },
+    {
+      "key": "325.1",
+      "line_index": 325,
+      "inline_index": 1,
+      "line_hash": "e0708cdd",
+      "speaker": "ブロワー",
+      "ja": "じゃあ気を取り直して……なんでシロートが鉱山に来たんだ？　まともな準備もしてないんだろ？",
+      "zh": ""
+    },
+    {
+      "key": "334.1",
+      "line_index": 334,
+      "inline_index": 1,
+      "line_hash": "e8842aea",
+      "speaker": "雫",
+      "ja": "……先ほどお伝えしたように、我々は事故のような形で遠くの村からここに来まして。当面の生活、帰る情報収集のためにお金……ジュームが必要なのです",
+      "zh": ""
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "87872571",
+      "speaker": "ブロワー",
+      "ja": "まあ……どういうことか、聞いてもよくわからんかったが",
+      "zh": ""
+    },
+    {
+      "key": "338.1",
+      "line_index": 338,
+      "inline_index": 1,
+      "line_hash": "a7db184f",
+      "speaker": "ブロワー",
+      "ja": "事情があるなら仕方ないか。……でも、それならこの先に行ってもろくなモン出ないぞ",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "59a27a66",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "342.1",
+      "line_index": 342,
+      "inline_index": 1,
+      "line_hash": "1e1727cb",
+      "speaker": "ブロワー",
+      "ja": "こっちに行こうとしてたんだろ？　明るい、通りやすい道だからな。それは他の奴らだって同じ。取り尽くされてるに決まってる",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "16d4eeb1",
+      "speaker": "ルミナ",
+      "ja": "そう……なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "8e790169",
+      "speaker": "ブロワー",
+      "ja": "まあ、さんざっぱら奥まで歩いて疲れ果てた頃に、痩身に鞭打って石掘って、また同じ距離帰れるってなら話は別だけどな",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "62203b44",
+      "speaker": "雫",
+      "ja": "ううむ……やや現実的では無さそうですね",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "d6c288",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どうしようか……",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "c4e7e42b",
+      "speaker": "ブロワー",
+      "ja": "……はあ、悪い奴らじゃなさそうだしな。仕方ない、おいらが案内してやるか。ああ、金は要らんからな",
+      "zh": ""
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "92ea02d5",
+      "speaker": "ルミナ",
+      "ja": "ほ、本当……ですか……！",
+      "zh": ""
+    },
+    {
+      "key": "363.1",
+      "line_index": 363,
+      "inline_index": 1,
+      "line_hash": "261fe1b7",
+      "speaker": "ブロワー",
+      "ja": "ここまで事情を聞いて放置すんのも寝覚めが悪い。遠くの村から来たってんなら、印象良くしといたほうが金に繋がるかも知れないしな",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "30a9014",
+      "speaker": "{G_PlayerName}",
+      "ja": "（一応金の事も考えてるのか……）",
+      "zh": ""
+    },
+    {
+      "key": "374.1",
+      "line_index": 374,
+      "inline_index": 1,
+      "line_hash": "c49f613f",
+      "speaker": "プリズム",
+      "ja": "……でもシューちゃんは危険だから、帰ろうね",
+      "zh": ""
+    },
+    {
+      "key": "383.1",
+      "line_index": 383,
+      "inline_index": 1,
+      "line_hash": "2973b29",
+      "speaker": "シュー",
+      "ja": "えっ……う、うん……でも……",
+      "zh": ""
+    },
+    {
+      "key": "385.1",
+      "line_index": 385,
+      "inline_index": 1,
+      "line_hash": "fc995880",
+      "speaker": "プリズム",
+      "ja": "もちろん、あたしも一緒に戻るから。安心して？",
+      "zh": ""
+    },
+    {
+      "key": "387.1",
+      "line_index": 387,
+      "inline_index": 1,
+      "line_hash": "977a9368",
+      "speaker": "シュー",
+      "ja": "……いいの……？",
+      "zh": ""
+    },
+    {
+      "key": "389.1",
+      "line_index": 389,
+      "inline_index": 1,
+      "line_hash": "4de93c26",
+      "speaker": "プリズム",
+      "ja": "じゃあ……ごめんなさい、最後まで案内出来なくて……",
+      "zh": ""
+    },
+    {
+      "key": "391.1",
+      "line_index": 391,
+      "inline_index": 1,
+      "line_hash": "ecde5494",
+      "speaker": "ルミナ",
+      "ja": "ううん……ここまで、ありがとう……また、ね……",
+      "zh": ""
+    },
+    {
+      "key": "393.1",
+      "line_index": 393,
+      "inline_index": 1,
+      "line_hash": "47c9f89a",
+      "speaker": "プリズム",
+      "ja": "はい！　また絶対、会いましょうね……！",
+      "zh": ""
+    },
+    {
+      "key": "395.1",
+      "line_index": 395,
+      "inline_index": 1,
+      "line_hash": "79934d20",
+      "speaker": "プリズム",
+      "ja": "……うううう！",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "dda6e6fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ブロワーと俺達の服を見ながら苦悶してる……）",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "c557c5f2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちゃんと見せに行くから、安心して戻ってくれ……",
+      "zh": ""
+    },
+    {
+      "key": "401.1",
+      "line_index": 401,
+      "inline_index": 1,
+      "line_hash": "c7849bd7",
+      "speaker": "プリズム",
+      "ja": "はい……では、また！",
+      "zh": ""
+    }
+  ]
+}

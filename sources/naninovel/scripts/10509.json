@@ -1,0 +1,445 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "48169c7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー、はー……やっと着いたぁ……！",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "f5800a82",
+      "speaker": "コハル",
+      "ja": "ちょっと、だらしないわよ",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "a43369d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "仕方ないだろ、今まで拘束されてたのにいきなり歩くなんて……昨日だって一晩中……",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "7e35b462",
+      "speaker": "コハル",
+      "ja": "一晩中？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "38ee8aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "ご……拷問受けてたから……",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "bc641d32",
+      "speaker": "コハル",
+      "ja": "拷問！？　ちょっと、大丈夫なの！？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "758d9cb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫大丈夫！　拷問っていうか……あの、詰問？　問い詰められてただけだから！",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "a005fb2",
+      "speaker": "コハル",
+      "ja": "そうなの……？　何かあったら言ってね？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "e1a6c45d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "c05147a5",
+      "speaker": "雫",
+      "ja": "……息は整いましたか？　王宮へ続く道はどちらです？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "39c7ed79",
+      "speaker": "ライラ",
+      "ja": "このまま真っ直ぐ進めば……",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "297d7f47",
+      "speaker": "兵士",
+      "ja": "お待ち下さい、ライラ王女様",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "5d053930",
+      "speaker": "ライラ",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "3fd7b339",
+      "speaker": "",
+      "ja": "甲冑を身にまとった兵士達が、ぞろぞろとこちらへ近づいて来る。先頭を歩いていた兵士は、ライラの前に恭しく跪いた。",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "dbd2cfb1",
+      "speaker": "雫",
+      "ja": "……王宮の衛兵ですか？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "de7d04d2",
+      "speaker": "ライラ",
+      "ja": "マルカ、少しいい？",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "2cea9b81",
+      "speaker": "マルカ",
+      "ja": "はい、ライラ様！　どうかなさいましたかっ？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "a7c385ed",
+      "speaker": "ライラ",
+      "ja": "妾はこれより、戦争を止めるため重要な旅に出かける。そなたは妾の代わりに部屋で返事をし、それを気取られぬように努めなさい。いいわね？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "290bebdf",
+      "speaker": "マルカ",
+      "ja": "はい！　かしこまり……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "75c27d4e",
+      "speaker": "マルカ",
+      "ja": "ええ～～っ！？　マ、マルカがライラ様の代わりに！？　む、無理ですよっ！　声もそんなに似て……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "1567a15a",
+      "speaker": "ライラ",
+      "ja": "じゃ、頼んだわよ～！",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "e0ad452d",
+      "speaker": "マルカ",
+      "ja": "ちょっ……ライラ様～～～！",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "e22563c1",
+      "speaker": "ライラ",
+      "ja": "（……マルカめ、一泊くらいは隠し切りなさいって言ったのに……バレたわね！）",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "d758d870",
+      "speaker": "兵士",
+      "ja": "ライラ様。今すぐ部屋へお戻りください",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "ffd34df8",
+      "speaker": "ライラ",
+      "ja": "当然、妾の目的が終われば部屋へと戻ります。部屋に戻る前に、陛下に然るべき話をする必要があります。下がりなさい",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "92360628",
+      "speaker": "兵士",
+      "ja": "いいえ。王女様には陛下に会わず、当分部屋の中で過ごしていただきます",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "7041c100",
+      "speaker": "ライラ",
+      "ja": "……なんですって？",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "eca248e0",
+      "speaker": "兵士",
+      "ja": "そのご様子では、王宮でも仰っていたオアシスの場所を突き止めるのに成功したのですね。喜ばしいことです",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "72b8a248",
+      "speaker": "兵士",
+      "ja": "ですが……それを王に伝えさせるわけには参りません",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "d164381d",
+      "speaker": "ライラ",
+      "ja": "なぜ……？　あなた達、何をするつもり……！？",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "6307d374",
+      "speaker": "兵士",
+      "ja": "オアシスの事を知れば、陛下は戦争を止めるか、勢いを増すかどちらかの判断をなさるでしょう。しかしそれは、私共の意に反するのです",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "850679c2",
+      "speaker": "兵士",
+      "ja": "戦争が激化するのは論外。小国は消え、今や大国ばかりだからこその膠着状態。それによって生き永らえている者もいます",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "2a13f633",
+      "speaker": "兵士",
+      "ja": "戦争が無くなる……これは、殊更論外",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "78367905",
+      "speaker": "ライラ",
+      "ja": "なぜ！？　戦争が無くなれば、失われる命も無くなるでしょう！",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "adb26215",
+      "speaker": "兵士",
+      "ja": "戦争があるからこそ、日銭を稼げている者もいる。……この国が、年々軍備に回す資金が増えていることは王女様もご存知でしょう",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "af7a0bc8",
+      "speaker": "ライラ",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "2d23e8d7",
+      "speaker": "兵士",
+      "ja": "それが無くなった場合でも、今の兵の数が維持出来るとでも？　……路頭に迷う者が出る事、その数が少なくないことは目に見えている",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "e8e7aef1",
+      "speaker": "",
+      "ja": "兵士が、次々と武器を抜く。それを見てこちらも、いつでも応戦できるように武器を構えた。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "2cc81142",
+      "speaker": "兵士",
+      "ja": "我々は、それを阻止し……現状の維持を望む者の集まりです。どうかお考え直しください、王女様",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "d4b52498",
+      "speaker": "ライラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "63ffea07",
+      "speaker": "コハル",
+      "ja": "お考え直しください、って……完全に脅しじゃない、ただの！",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "9cf16861",
+      "speaker": "ルミナ",
+      "ja": "許せない……",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "8cc7f74e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "266801b6",
+      "speaker": "ルミナ",
+      "ja": "ライラちゃんは誰よりも国の、民のことを考えてるのに……邪魔するなんて……！　雫……！",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "2d193c78",
+      "speaker": "雫",
+      "ja": "はい、ルミナ様",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "6ff61038",
+      "speaker": "ルミナ",
+      "ja": "ライラちゃんを、王宮まで、守って……！",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "cd8e88b0",
+      "speaker": "雫",
+      "ja": "仰せのままに。全力を尽くしますわ",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "2931667a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ル、ルミナもしかして……結構怒ってる？）",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "3f6df7b",
+      "speaker": "コハル",
+      "ja": "（珍しいわね……ルミナがあんなに激しくなるのって……）",
+      "zh": ""
+    }
+  ]
+}

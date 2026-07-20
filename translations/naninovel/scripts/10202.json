@@ -1,0 +1,562 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "6cf4406b",
+      "speaker": "コハル",
+      "ja": "あ……あ……",
+      "zh": "啊……啊……"
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "9b7a1a80",
+      "speaker": "コハル",
+      "ja": "あつ～～～い……",
+      "zh": "好热啊……"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "6ebd0983",
+      "speaker": "",
+      "ja": "コハルが犬のように舌を出し、ハヒハヒと息を荒く吐き出しながら呻いた。",
+      "zh": "小春像狗一样伸出舌头，呼哧呼哧地喘着粗气，呻吟起来。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "12625f",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかってるよ、そんなこと……口に出したらもっと暑くなるだろ……",
+      "zh": "我知道啦，这种事情……说出来会更热的吧……"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "262fa72d",
+      "speaker": "コハル",
+      "ja": "そんなこと言ったって……暑いもんは暑いの！",
+      "zh": "话是这么说……热的东西就是热啊！"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "6661fb05",
+      "speaker": "コハル",
+      "ja": "……っ、ぺっぺっ！　もう、また虫が口に……！",
+      "zh": "啧，呸呸！搞什么，又有虫子飞到嘴里了！"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "4f620aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "いてっ！　……草が顔にベシベシと……何回目だコレ……",
+      "zh": "哎哟！……草打在脸上啪啪响……这都第几次了……"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "4f257b97",
+      "speaker": "",
+      "ja": "意気揚々と探索を始めたは良いが、周囲の確認は遅々として進んでいなかった。",
+      "zh": "虽然兴致勃勃地开始了探索，但一直没顾上确认周围情况。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "fd3bdd66",
+      "speaker": "",
+      "ja": "どの程度確認すれば良いかハッキリとは決めていなかったものの、まだ不足しているのは明らかだろう。",
+      "zh": "虽然没具体说要查看多少，但明显还不够仔细。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "4b6f655c",
+      "speaker": "コハル",
+      "ja": "まあ、嫌なことばっかりじゃないみたいだけど……ほら、アレ！　綺麗な花！",
+      "zh": "嘛，也不是全是倒霉事嘛……你看，那是什么！好漂亮的花！"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "847a852",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、本当だ……いやアレ、花じゃなくて葉っぱじゃないか？",
+      "zh": "哦，还真是……不对，那个不是花，是叶子吧？"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "2b015303",
+      "speaker": "コハル",
+      "ja": "え？　……ホントだ。あんな真っ赤な葉っぱがあるの！？",
+      "zh": "诶？……还真是。居然有那种红彤彤的叶子啊！？"
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "d56650e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "植物園でも色々見たし、今更だと思うけどな……",
+      "zh": "植物园里也见过不少，现在说起来有点多余……"
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "31596918",
+      "speaker": "コハル",
+      "ja": "それもそうね！　……にしても、よくわからない植物っていっぱいあるのねー……",
+      "zh": "说得也对！……不过话说回来，不认识的植物还真多呢……"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "4e397e60",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだなー……",
+      "zh": "是啊……"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "3b41414f",
+      "speaker": "コハル",
+      "ja": "ふふ……それにしても……",
+      "zh": "嘻嘻……说起来……"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "4ec3253d",
+      "speaker": "{G_PlayerName}",
+      "ja": "それにしても？",
+      "zh": "说起来？怎么了？"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "41a74722",
+      "speaker": "コハル",
+      "ja": "冒険してるわね、私達！",
+      "zh": "我们这是在冒险呢！"
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "90d4fb60",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだな。……さっきまで文句言ってたくせに……",
+      "zh": "呃，倒是没错。……明明刚才还在抱怨个不停。"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "3fb81ecb",
+      "speaker": "コハル",
+      "ja": "そういうのも含めてよ！　嫌なもんは嫌だけど、これはこれで冒険って感じがしない？",
+      "zh": "这些也算冒险的一部分啦！讨厌是讨厌，但这样才像冒险，不是吗？"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "e4322cc9",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあな……",
+      "zh": "好吧，有道理……"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "6f8961fb",
+      "speaker": "コハル",
+      "ja": "冒険の醍醐味と言えばー、テント張ったりお宝見つけたり？　夢が広がるわ～！",
+      "zh": "说到冒险的乐趣，就是搭帐篷、找宝藏什么的吧？光想就兴奋～！"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "27e120a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "お宝なあ……あったらそりゃ嬉しいけどな",
+      "zh": "宝藏啊……要真有的话当然开心啦"
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "47dd3c7a",
+      "speaker": "",
+      "ja": "周囲は見渡す限りの大自然だ。お宝、と言って想像するような金銀財宝は早々無いだろう。",
+      "zh": "周围全是广阔的自然风光。说宝藏，像金银财宝那种东西，恐怕早就被人捡光了。"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "c9dd2299",
+      "speaker": "コハル",
+      "ja": "んー、ここらへんは結構安全そうね。暑いけど……そろそろ戻って、反対方向行ってみる？",
+      "zh": "嗯——这边看起来还挺安全的。虽然热……不过我们该回去，去相反方向看看吧？"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "9e382195",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん、そうだな。あんまり遠くに行って迷っても困るし……",
+      "zh": "嗯，说得对。走太远迷路了可就麻烦了……"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "37579ee9",
+      "speaker": "コハル",
+      "ja": "あっ……！",
+      "zh": "啊……！"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "b2be43d4",
+      "speaker": "",
+      "ja": "鼻に当たる、水の感触。ぽつぽつと落ちてきた雨は、あっという間に勢いを増して降り注ぎ始めた。",
+      "zh": "脸颊上碰到了水珠。起初只是零星雨点，转眼间就变大，哗啦啦地下了起来。"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "693cefc8",
+      "speaker": "コハル",
+      "ja": "雨……！　帰るにも距離あるし、ちょっと雨宿りしましょ！",
+      "zh": "下雨了！回基地还有一段路，先躲躲雨吧！"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "cfe1d03a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、そこにでっかい葉っぱの木があるぞ",
+      "zh": "哦，那里有棵大叶子树。"
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "b88fb58a",
+      "speaker": "コハル",
+      "ja": "そうね、弱まるまであそこで休憩！",
+      "zh": "就是，等雨小点就在那休息吧！"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "c88555af",
+      "speaker": "コハル",
+      "ja": "ふー……あんまり濡れずに済んだわね。{G_PlayerName}は大丈夫？",
+      "zh": "呼……还好没怎么淋湿。{G_PlayerName}你没事吧？"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "43659544",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。ちょっと靴に泥が跳ねたけど……ずっと汚れてたし、これも今更か",
+      "zh": "嗯。鞋上溅了点泥……反正早就脏了，也无所谓了。"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "537d38",
+      "speaker": "コハル",
+      "ja": "ふふ、そう……",
+      "zh": "嘻嘻，也是……"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "822442a",
+      "speaker": "コハル",
+      "ja": "ねっ……？",
+      "zh": "喂……？"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "5d3d160f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　どうした？",
+      "zh": "嗯？怎么了？"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "34f4b7b3",
+      "speaker": "",
+      "ja": "コハルが急に動きを止める。どうやら、俺の背後に視線を注いでいるようだが……",
+      "zh": "小春突然停下脚步。看样子，她正盯着我身后……"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "27048a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "一体何……がぁっ！？",
+      "zh": "到底什么……啊！？"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "3d23fc06",
+      "speaker": "",
+      "ja": "振り向いた瞬間。巨大な植物が、俺の頭をすっぽり包むように覆いかぶさって……いや、食らいついてきた。",
+      "zh": "回头的那一瞬间。一棵巨大的植物猛地罩下来，像是要把我的头整个包住——不对，是直接咬了上来。"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "a7e90d22",
+      "speaker": "コハル",
+      "ja": "マンイーター！？　……っていうモンスターがいるらしいけど、これもそれ！？",
+      "zh": "食人花！？……听说有那种怪物，这个就是吗！？"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "b3c4ec7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "もっ、もごごごご！　（考えてないで早く助けてくれぇ！）",
+      "zh": "唔、唔唔唔！（别光想啊快来救我！）"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "2b367e98",
+      "speaker": "コハル",
+      "ja": "そ、そうね！　今助ける！",
+      "zh": "对、对哦！现在就来救你！"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "348e578c",
+      "speaker": "コハル",
+      "ja": "……あまり動かないでね？　{G_PlayerName}ごとヤっちゃうかも知れないから……",
+      "zh": "……{G_PlayerName}别动啊？搞不好连你一起打中……"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "fb5cd23b",
+      "speaker": "{G_PlayerName}",
+      "ja": "もごごー！　（怖いこと言うんじゃない！）",
+      "zh": "唔唔唔！（别说吓人的话啊！）"
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "f4d63376",
+      "speaker": "雫",
+      "ja": "……ふう。就寝されましたね。色々あって、お疲れでしょうに……無理をなさって……",
+      "zh": "……呼。已经睡着了。今天发生了这么多，肯定很累了吧……还硬撑……"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "ff124ec8",
+      "speaker": "",
+      "ja": "ラウンジのソファーの上で、すうすうと寝息を立てるルミナ。雫はその体の上に、ふわりとブランケットをかけた。",
+      "zh": "露米娜躺在客厅沙发上，发出均匀的呼吸声。雪轻盈地把毯子盖在她身上。"
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "d0121b03",
+      "speaker": "アポロ",
+      "ja": "……ご希望とあらば、リラックス出来る環境ホログラムを投影しますが",
+      "zh": "……如果您需要，我可以投影一个让人放松的环境全息图。"
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "a429c31",
+      "speaker": "雫",
+      "ja": "エネルギーの残りが少ないのでしょう？　そんなことより、自己修復のほうに回しなさい",
+      "zh": "能源本来就不多了吧？与其做那个，不如把能源用来自我修复吧。"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "bfdb9dcd",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": "……"
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "f63be25",
+      "speaker": "雫",
+      "ja": "……？　なにを留まっているのですか？　何か用事でも……？",
+      "zh": "……？你还在想什么？有什么事吗……？"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "b309381f",
+      "speaker": "アポロ",
+      "ja": "…………捨てるおつもりですか",
+      "zh": "……你这是要抛弃我吗？"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "3c9a7d35",
+      "speaker": "雫",
+      "ja": "……はい？　なんと？",
+      "zh": "……嗯？你说什么？"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "ae9179d4",
+      "speaker": "アポロ",
+      "ja": "買い替えるつもりなのでしょう！　たやすく敵の侵入を許し、不甲斐なくも航行を続けられなかったワタシを！",
+      "zh": "你是要换掉我吧！我轻易就让敌人入侵，窝囊得连航行都没法继续了！"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "3842e5bf",
+      "speaker": "雫",
+      "ja": "何を急に……そもそもこの惑星で宇宙船なんて買えないでしょう",
+      "zh": "怎么突然说这个……再说了，这个星球上哪买得到宇宙船啊。"
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "60b4da3c",
+      "speaker": "アポロ",
+      "ja": "可能であればする、と……？　やはり、宇宙技術が発達した惑星に着き次第、ワタシをスクラップに……！",
+      "zh": "如果可能的话你就真这么做是吧……？果然，一到宇宙技术发达的行星，就把我当废铁处理……！"
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "58197f39",
+      "speaker": "雫",
+      "ja": "……はあ。今まで散々無礼を働いておいて、何を心配しているのか知りませんが……",
+      "zh": "……唉。你之前一直那么无礼，现在倒不知道在瞎担心什么了……"
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "a2549874",
+      "speaker": "雫",
+      "ja": "中古とは言え、女王からいただいたあなたをルミナ様が軽々に廃棄するわけがないでしょう。……私が言うのもおかしいですが",
+      "zh": "虽然是二手货，但你是女王大人赐予的，露米娜大人不会随随便便就把你扔掉的。……虽然由我来说有点奇怪。"
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "a9ab4db8",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "f69cd5e",
+      "speaker": "雫",
+      "ja": "今はあなたの個性的な会話プログラムに付き合っている暇はありません。作業に戻りなさい",
+      "zh": "现在没空陪你那些有个性的聊天程序。回去干活。"
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "3827c807",
+      "speaker": "アポロ",
+      "ja": "…………そうします",
+      "zh": "…………好吧。"
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "bf4a3c79",
+      "speaker": "雫",
+      "ja": "……はあ。私も疲れましたね……少しだけ、仮眠をとりますか……",
+      "zh": "……唉。我也累了……要不稍微眯一会儿……"
+    }
+  ]
+}

@@ -1,0 +1,1669 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "d6e32c0f",
+      "speaker": "",
+      "ja": "ひんやりとした空気が満たされた遺跡。走る度に積もった砂埃が舞い散り、相当古い遺跡であることがわかる。",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "5805812d",
+      "speaker": "コハル",
+      "ja": "追って来てる……！？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "595aa4ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……来てない。ラギオラが抑えてくれてるみたいだ",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "2bde0066",
+      "speaker": "コハル",
+      "ja": "あんな人数、ラギオラ一人じゃ時間の問題よ……！",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "1a7daf5b",
+      "speaker": "雫",
+      "ja": "どうでしょうね、リリアンですから。襲ってきた戦士達にリリアンはいなかったようですしね",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "d550f0fb",
+      "speaker": "コハル",
+      "ja": "そ……そうなの？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "7cf604af",
+      "speaker": "雫",
+      "ja": "あなたは……道具屋をしていたのでしたか。リリアンは身体の成長が止まってから、他の能力の成長率が著しく上がります",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "b6609581",
+      "speaker": "雫",
+      "ja": "ラギオラ様は……この過酷な環境ですからね。どこまで身体能力が上がっているか、予想もつきません",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "606b917b",
+      "speaker": "ラギオラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "41b19ca0",
+      "speaker": "",
+      "ja": "遺跡の前に立ちはだかるラギオラと、それを囲む戦士達に、白い粒が降り注ぎ視界を遮る。",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "a16ae8bc",
+      "speaker": "ボバ村の戦士",
+      "ja": "……大雪、ダ。神の怒りもここまで来たカ",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "7b5f7bc0",
+      "speaker": "ラギオラ",
+      "ja": "……貴様、先程も意図的に他の村人を煽っていたな。何が狙いだ？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "b9aa0a78",
+      "speaker": "ラギオラ",
+      "ja": "村をトレ村とボバ村に分けるのを推進したのも、記憶が正しければ貴様であったはず。この状況を狙っていたというのか？",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "5519aae2",
+      "speaker": "ボバ村の戦士",
+      "ja": "……革新を進める行動力ある者をボバ村。日和見しか出来ぬ者をトレ村に残シ、ボバ村だけを豊かにすル。争いを好む強い者こソ、森には必要ダ",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "99404424",
+      "speaker": "ボバ村の戦士",
+      "ja": "イケニエ騒ぎモ、天候を理由に邪魔なトレ村を一掃するたメ。……ここにいるのハ、それに賛同した者達だけダ",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "9816f594",
+      "speaker": "ラギオラ",
+      "ja": "争いだけで生き延びられるほど、森の掟は単純ではない！　そのような……",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "c671b9f5",
+      "speaker": "トレ村の戦士",
+      "ja": "そんな理由で……ボバ村の奴ら、俺達をイケニエにしていたのか……！",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "160e4aeb",
+      "speaker": "ラギオラ",
+      "ja": "トレ村の……！？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "b26ab205",
+      "speaker": "",
+      "ja": "木々の奥……薮の裏から、先程までこちらを追ってきていたトレ村の戦士達が顔を出す。どうやら、迎え撃たれると警戒し距離を取っていたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "7046a412",
+      "speaker": "トレ村の戦士",
+      "ja": "俺達の聴力を舐めるなよ！　声を小さくした程度で、お前らの汚い声は聞き逃さねえ！　やるぞ、お前ら！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "44501543",
+      "speaker": "",
+      "ja": "その声を合図に、トレ村の戦士がボバ村の戦士へと襲いかかる。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "ac259fef",
+      "speaker": "ラギオラ",
+      "ja": "くっ……！",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "ecc31387",
+      "speaker": "",
+      "ja": "標的は分散すれども、ラギオラは「ボバ村の長」扱いだ。トレ村からも、反旗を翻したボバ村からも狙われる立場にある。",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "5ae0ec6a",
+      "speaker": "ラギオラ",
+      "ja": "（不味い……！　天候が元に戻ろうとも、度重なる天候の変動で獣も、果実も少なくなっている）",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "6551b232",
+      "speaker": "ラギオラ",
+      "ja": "（ここで村同士の争いが広がれば、互いに疲弊して滅びに近づくだけ……！　なんとか収めなければ……！　だが、どうやって……！）",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "839a98df",
+      "speaker": "{G_PlayerName}",
+      "ja": "……しっかし、広い遺跡だな……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "62064df4",
+      "speaker": "雫",
+      "ja": "……！？　危ない！",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "dae695ff",
+      "speaker": "コハル",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "412a707f",
+      "speaker": "",
+      "ja": "何かが前方から飛来し、石畳に砕かれ宙を舞った。……先程も見た矢だ。",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "f457b661",
+      "speaker": "",
+      "ja": "見れば、遺跡の奥……柱の影から、ボバ村の戦士と思わしき影がこちらを見据えている。",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "c6dcce46",
+      "speaker": "コハル",
+      "ja": "なんで遺跡の中に！？　聖域がどうこう言ってたじゃないの！",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "7c996ffb",
+      "speaker": "雫",
+      "ja": "どうやら、それは建前……単に、ここに近づくわたくし達が邪魔だったようですね",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "70244eae",
+      "speaker": "雫",
+      "ja": "っ、呆けている場合ではございませんよ！",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "381eab09",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "34030d34",
+      "speaker": "",
+      "ja": "眼前へと迫った矢を、雫が光る刃で叩き落とす。",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "aead0619",
+      "speaker": "{G_PlayerName}",
+      "ja": "た、助かった……！　あ……ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "636fefc0",
+      "speaker": "雫",
+      "ja": "チッ……本来であれば見殺しにしたいところですが、ルミナ様のため……あと、借りを返すためです",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "5d82bab0",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな時くらい、素直に助けてくれよ……！",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "bd3a5a46",
+      "speaker": "トレ村の戦士",
+      "ja": "く……そ……",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "c6443392",
+      "speaker": "ボバ村の戦士",
+      "ja": "トレ村の奴らの癖に……この……っ",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "33771dee",
+      "speaker": "",
+      "ja": "あれから戦いは激化。負傷し動けなくなる者、倒れる者が増え始めた。",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "249c7cc8",
+      "speaker": "ケット",
+      "ja": "わあ……！　みんな、ケンカしてる！？　なんで～！？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "825299f0",
+      "speaker": "ルルハ",
+      "ja": "ケット、はやい～！　ちょっと待って～！",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "38e1db30",
+      "speaker": "ルルハ",
+      "ja": "……あれ？　村長、何してんのこんなとこで",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "3bce5782",
+      "speaker": "ラチャナ",
+      "ja": "ぬおっ！？　見つかってしもうたか！　おぬしらも隠れよ！",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "bad51437",
+      "speaker": "ケット",
+      "ja": "なんで～！？　ケンカは止めないと！",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "c655fead",
+      "speaker": "ラチャナ",
+      "ja": "わしも止めようとはしたのじゃ！　いつものように神の御座の前で～とか言うてな！　でもだ～れも聞く耳もたん！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "d8276ed4",
+      "speaker": "ラチャナ",
+      "ja": "度重なるイケニエ騒ぎや不作で、溜まっておった不満が爆発したのじゃよ……！　もう止めるのは無理じゃ、諦めよ！",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "65f08b5d",
+      "speaker": "ルルハ",
+      "ja": "そ、そりゃあこんなにいっぱいの人は～、止めるの大変だろうけど～……隠れてるだけじゃどうしようも……",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "6411be88",
+      "speaker": "ケット",
+      "ja": "ケット、行ってくる！",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "213e3132",
+      "speaker": "ルルハ",
+      "ja": "えっ！？　ちょっと待ってって～！　追いつけないってば！",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "209b0aeb",
+      "speaker": "ラギオラ",
+      "ja": "……くっ。気絶させても気絶させても、キリが無い……！　少しずつ村にいた戦士もここに来ているのか！",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "42c9994b",
+      "speaker": "",
+      "ja": "後から来たトレ村、ボバ村の戦士達は村同士の争いという程度にしか考えていないのだろう。増える人員は、理由もわからぬ戦いに浪費されていっている。",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "b6befebd",
+      "speaker": "ラギオラ",
+      "ja": "死者こそ出ていない……と信じたいが、このままでは……！",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "d7936cb5",
+      "speaker": "ケット",
+      "ja": "とうっ！",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "84a92024",
+      "speaker": "ラギオラ",
+      "ja": "なっ……お前、どこから……！？",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "d7123616",
+      "speaker": "ケット",
+      "ja": "みんな～！　仲良くして～！　ケンカはダメだよ～！",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "60d18829",
+      "speaker": "",
+      "ja": "戦いの中央に躍り出て、間延びした声で叫ぶケット。",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "7e415d30",
+      "speaker": "",
+      "ja": "そんなことで戦いが終わるわけもなく、ケットの背後からボバ村の戦士が飛びかかる……！",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "9467285",
+      "speaker": "ラギオラ",
+      "ja": "はあっ！",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "579aee69",
+      "speaker": "ケット",
+      "ja": "あれ？　どうしたの～？",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "5e5cfdf8",
+      "speaker": "ラギオラ",
+      "ja": "危険なことをするな！　隠れていろ！",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "38f214e",
+      "speaker": "ケット",
+      "ja": "でも、ケンカはとめないと～……",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "f34fbf68",
+      "speaker": "ラギオラ",
+      "ja": "……扇動していた戦士は倒した。しかし、ボバ村の戦士もトレ村の戦士も熱が上がり、もはや止めることは出来ないだろう",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "ab3338f7",
+      "speaker": "ラギオラ",
+      "ja": "せめて何か……何か切っ掛けがあれば……！",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "6371269d",
+      "speaker": "ケット",
+      "ja": "……あっ！　う、上っ！",
+      "zh": ""
+    },
+    {
+      "key": "261.1",
+      "line_index": 261,
+      "inline_index": 1,
+      "line_hash": "c9c34719",
+      "speaker": "ラギオラ",
+      "ja": "上？　ッ……！",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "bd078a3b",
+      "speaker": "",
+      "ja": "残った戦士達が一斉に力を振り絞ったのか。雨と言っていいほどの矢が、ラギオラ達の上空を覆った。",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "61bac746",
+      "speaker": "コハル",
+      "ja": "はぁっ！",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "53954ec1",
+      "speaker": "コハル",
+      "ja": "お、終わり？　……殺さないようにするの、大変ね……！",
+      "zh": ""
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "eca1d8a4",
+      "speaker": "雫",
+      "ja": "相手は野生で揉まれた強靭な体とはいえ、ただの人間ですからね。確か、アポロが割り出した座標は……",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "fb259ab",
+      "speaker": "雫",
+      "ja": "ここですね",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "a716be6d",
+      "speaker": "コハル",
+      "ja": "えっ……ここ？　何もないように見えるけど",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "65af2004",
+      "speaker": "",
+      "ja": "雫が石柱の一つに近づき、手をかざす。すると……",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "d6a0f016",
+      "speaker": "コハル",
+      "ja": "わっ！　……何か出てきた！？",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "ebe6f791",
+      "speaker": "",
+      "ja": "何もなかったはずの石柱の表面に、モニターやボタン……鈍い鉄の色をした、人工的な機械が現れた。",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "122176bf",
+      "speaker": "雫",
+      "ja": "カモフラージュ機能……原住民族に操作されないための措置ですね。高性能で精密……高度な科学力で作られた機械です",
+      "zh": ""
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "f4c8def2",
+      "speaker": "コハル",
+      "ja": "な、なんとかなりそう？",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "c2df3c",
+      "speaker": "雫",
+      "ja": "ええ……幸い、操作方法自体はかけ離れた物ではなさそうです。すぐにでも……",
+      "zh": ""
+    },
+    {
+      "key": "338.1",
+      "line_index": 338,
+      "inline_index": 1,
+      "line_hash": "bc1b456a",
+      "speaker": "ケット",
+      "ja": "きゃあっ！",
+      "zh": ""
+    },
+    {
+      "key": "340.1",
+      "line_index": 340,
+      "inline_index": 1,
+      "line_hash": "6de900c2",
+      "speaker": "ラギオラ",
+      "ja": "伏せろ！",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "782de0e3",
+      "speaker": "",
+      "ja": "ケットを矢の雨から庇い、上に覆いかぶさるラギオラ。襲い来るであろう痛みに備え、ラギオラは硬く目を閉じた。",
+      "zh": ""
+    },
+    {
+      "key": "344.1",
+      "line_index": 344,
+      "inline_index": 1,
+      "line_hash": "606b917b",
+      "speaker": "ラギオラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "346.1",
+      "line_index": 346,
+      "inline_index": 1,
+      "line_hash": "dd54c37a",
+      "speaker": "ラギオラ",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "61e579a5",
+      "speaker": "",
+      "ja": "しかし、矢の雨は降り注いでこず。閉じた目を開け、ラギオラが天を見上げた。",
+      "zh": ""
+    },
+    {
+      "key": "350.1",
+      "line_index": 350,
+      "inline_index": 1,
+      "line_hash": "8b79f15b",
+      "speaker": "ラギオラ",
+      "ja": "こ……これは……？",
+      "zh": ""
+    },
+    {
+      "key": "352.1",
+      "line_index": 352,
+      "inline_index": 1,
+      "line_hash": "62700711",
+      "speaker": "ケット",
+      "ja": "わぁ…………！　すごーい……！",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "161f31f2",
+      "speaker": "",
+      "ja": "矢は空に固定され、それ以上落ちてくる様子が無かった。まるで時間が止まったかのように、張り付いたまま動かない。",
+      "zh": ""
+    },
+    {
+      "key": "356.0",
+      "line_index": 356,
+      "inline_index": 0,
+      "line_hash": "c3eb2001",
+      "speaker": "トレ村の戦士",
+      "ja": "な、なんだこれは……ラギオラ様の、魔術……！？",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "159abbf3",
+      "speaker": "ボバ村の戦士",
+      "ja": "そんなわけあるか！　そんな力、見たことが……",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "291c8757",
+      "speaker": "",
+      "ja": "どよめく戦士達。武器を握る力が緩み、視線はラギオラへと一点に注がれている。今こそ好機と、ラギオラが吠えた。",
+      "zh": ""
+    },
+    {
+      "key": "373.1",
+      "line_index": 373,
+      "inline_index": 1,
+      "line_hash": "2acc2e07",
+      "speaker": "ラギオラ",
+      "ja": "和平を結ぶ！",
+      "zh": ""
+    },
+    {
+      "key": "378.0",
+      "line_index": 378,
+      "inline_index": 0,
+      "line_hash": "7e54ada5",
+      "speaker": "トレ村の戦士",
+      "ja": "……見ろ、空が……！",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "2c1fe352",
+      "speaker": "",
+      "ja": "まるでラギオラの声に呼応するかのように黒雲が散り、太陽が顔を覗かせる。",
+      "zh": ""
+    },
+    {
+      "key": "382.1",
+      "line_index": 382,
+      "inline_index": 1,
+      "line_hash": "72111f6c",
+      "speaker": "ラギオラ",
+      "ja": "天啓は下された。……ボバ村とトレ村は和平を結び直し、一つの村へと戻る！　さすれば天候は戻り、神の裁きも終わるであろう！",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "45bebaf7",
+      "speaker": "",
+      "ja": "静寂が包む。次第に、武器を落とす音と、歓声によって静寂は破られた。",
+      "zh": ""
+    },
+    {
+      "key": "401.1",
+      "line_index": 401,
+      "inline_index": 1,
+      "line_hash": "f71462a",
+      "speaker": "雫",
+      "ja": "戻ってみれば、これは一体……？",
+      "zh": ""
+    },
+    {
+      "key": "409.1",
+      "line_index": 409,
+      "inline_index": 1,
+      "line_hash": "219a9124",
+      "speaker": "ルミナ",
+      "ja": "……あのラギオラさん、って言う人、良い人だったん……だよね？",
+      "zh": ""
+    },
+    {
+      "key": "411.1",
+      "line_index": 411,
+      "inline_index": 1,
+      "line_hash": "2d362445",
+      "speaker": "雫",
+      "ja": "ル、ルミナ様！？",
+      "zh": ""
+    },
+    {
+      "key": "413.1",
+      "line_index": 413,
+      "inline_index": 1,
+      "line_hash": "f1c7747f",
+      "speaker": "ルミナ",
+      "ja": "アポロに、私が寝てた時のことを聞いて、来たの。……本当はこんなことしちゃいけないんだろうけど……危なかった、から……",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "2e8d3efd",
+      "speaker": "雫",
+      "ja": "わたくし共を追ってこられたのですか！？　お体に障るというのに、なんてことを……！",
+      "zh": ""
+    },
+    {
+      "key": "417.0",
+      "line_index": 417,
+      "inline_index": 0,
+      "line_hash": "147c4205",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの……空中で止まってる矢、ルミナがやったのか？　いったいどうやって……",
+      "zh": ""
+    },
+    {
+      "key": "419.1",
+      "line_index": 419,
+      "inline_index": 1,
+      "line_hash": "4c6d11ce",
+      "speaker": "ルミナ",
+      "ja": "うん……私……光を、ちょっとだけ好きに操れるの",
+      "zh": ""
+    },
+    {
+      "key": "421.1",
+      "line_index": 421,
+      "inline_index": 1,
+      "line_hash": "d70e98d8",
+      "speaker": "コハル",
+      "ja": "光魔法が得意な魔術師ってこと？　それなら聞いたことあるけど……",
+      "zh": ""
+    },
+    {
+      "key": "423.1",
+      "line_index": 423,
+      "inline_index": 1,
+      "line_hash": "4e82f1f4",
+      "speaker": "ルミナ",
+      "ja": "それと同じかも知れないし……ちょっと違うかも。光を硬くして好きな形にしたり……浮かせたり。それを使って、今矢の周りの光を固めてるの",
+      "zh": ""
+    },
+    {
+      "key": "425.0",
+      "line_index": 425,
+      "inline_index": 0,
+      "line_hash": "8517979",
+      "speaker": "{G_PlayerName}",
+      "ja": "す……凄い魔法？　能力？　だな。無敵なんじゃないか……？",
+      "zh": ""
+    },
+    {
+      "key": "427.1",
+      "line_index": 427,
+      "inline_index": 1,
+      "line_hash": "9a7a44a6",
+      "speaker": "ルミナ",
+      "ja": "ううん。止める力も、硬さも弱いから……出来ることはそんなに……もう大丈夫そうだから、やめるね",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "8b111318",
+      "speaker": "",
+      "ja": "ルミナがそう言うと、空中にあった矢が動き出す。射られた時の勢いは無く重力に従って落ち、地面に転がった。",
+      "zh": ""
+    },
+    {
+      "key": "440.0",
+      "line_index": 440,
+      "inline_index": 0,
+      "line_hash": "95d761d7",
+      "speaker": "戦士たち",
+      "ja": "神の御業ダ！　ラギオラ！　ラギオラ！",
+      "zh": ""
+    },
+    {
+      "key": "442.1",
+      "line_index": 442,
+      "inline_index": 1,
+      "line_hash": "cb4da41e",
+      "speaker": "ラギオラ",
+      "ja": "……稀人たちが何かしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "456.1",
+      "line_index": 456,
+      "inline_index": 1,
+      "line_hash": "e447dcbf",
+      "speaker": "コハル",
+      "ja": "どうする……？　ラギオラに声、かけにいく？",
+      "zh": ""
+    },
+    {
+      "key": "458.1",
+      "line_index": 458,
+      "inline_index": 1,
+      "line_hash": "57e9b3d3",
+      "speaker": "雫",
+      "ja": "今出ていくと水を差すでしょう。最悪襲われるかもしれませんし……",
+      "zh": ""
+    },
+    {
+      "key": "460.1",
+      "line_index": 460,
+      "inline_index": 1,
+      "line_hash": "b4210980",
+      "speaker": "雫",
+      "ja": "現地住民への関わりは本来最低限にするべきです。そろそろ修理も終わっているでしょうし、このまま飛び立つべきかと",
+      "zh": ""
+    },
+    {
+      "key": "462.0",
+      "line_index": 462,
+      "inline_index": 0,
+      "line_hash": "4694f644",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうもんか……？",
+      "zh": ""
+    },
+    {
+      "key": "464.1",
+      "line_index": 464,
+      "inline_index": 1,
+      "line_hash": "841abe84",
+      "speaker": "コハル",
+      "ja": "（……もしまた、アレしろって言われたらどうするのよ！）",
+      "zh": ""
+    },
+    {
+      "key": "466.0",
+      "line_index": 466,
+      "inline_index": 0,
+      "line_hash": "bde600ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "アレ？　……あっ……",
+      "zh": ""
+    },
+    {
+      "key": "468.1",
+      "line_index": 468,
+      "inline_index": 1,
+      "line_hash": "66ac00cd",
+      "speaker": "ルミナ",
+      "ja": "どうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "470.0",
+      "line_index": 470,
+      "inline_index": 0,
+      "line_hash": "344a111b",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いやなんでもない。雫の言う通りだ、急いで帰ろう！",
+      "zh": ""
+    },
+    {
+      "key": "472.1",
+      "line_index": 472,
+      "inline_index": 1,
+      "line_hash": "a86c5247",
+      "speaker": "ルミナ",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "486.1",
+      "line_index": 486,
+      "inline_index": 1,
+      "line_hash": "7a2120fb",
+      "speaker": "アポロ",
+      "ja": "戻られましたか。いつでも宇宙へと浮上する準備は出来ています",
+      "zh": ""
+    },
+    {
+      "key": "488.1",
+      "line_index": 488,
+      "inline_index": 1,
+      "line_hash": "1b514461",
+      "speaker": "雫",
+      "ja": "ええ。すぐに出立を",
+      "zh": ""
+    },
+    {
+      "key": "490.1",
+      "line_index": 490,
+      "inline_index": 1,
+      "line_hash": "d919e1bb",
+      "speaker": "アポロ",
+      "ja": "かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "492.1",
+      "line_index": 492,
+      "inline_index": 1,
+      "line_hash": "95098fc5",
+      "speaker": "コハル",
+      "ja": "はあ……なんかずっと、慌ただしかったわね……",
+      "zh": ""
+    },
+    {
+      "key": "494.0",
+      "line_index": 494,
+      "inline_index": 0,
+      "line_hash": "19cc0bdd",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうせならもっとゆっくりしたかったけどな……ん？",
+      "zh": ""
+    },
+    {
+      "key": "496.0",
+      "line_index": 496,
+      "inline_index": 0,
+      "line_hash": "9ca554e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、外見てみろよ！",
+      "zh": ""
+    },
+    {
+      "key": "498.1",
+      "line_index": 498,
+      "inline_index": 1,
+      "line_hash": "12dec4b4",
+      "speaker": "コハル",
+      "ja": "え、外……？",
+      "zh": ""
+    },
+    {
+      "key": "512.1",
+      "line_index": 512,
+      "inline_index": 1,
+      "line_hash": "e46b911b",
+      "speaker": "ラギオラ",
+      "ja": "稀人たち！　……世話になった、また来いよ！",
+      "zh": ""
+    },
+    {
+      "key": "514.1",
+      "line_index": 514,
+      "inline_index": 1,
+      "line_hash": "47d94bbc",
+      "speaker": "ケット",
+      "ja": "ちょっとしかお話できなかったけど～、今度来たら一緒に遊ぼうね～！",
+      "zh": ""
+    },
+    {
+      "key": "516.1",
+      "line_index": 516,
+      "inline_index": 1,
+      "line_hash": "e04bd518",
+      "speaker": "ラチャナ",
+      "ja": "おぬしら、そんな物を隠しておったのかー！　今度乗せ……いや、今乗せろー！",
+      "zh": ""
+    },
+    {
+      "key": "529.0",
+      "line_index": 529,
+      "inline_index": 0,
+      "line_hash": "6326aeeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "村にいた人たちもいっぱい見送り？　に来てるな……逃げなくても良かったかもな？",
+      "zh": ""
+    },
+    {
+      "key": "531.1",
+      "line_index": 531,
+      "inline_index": 1,
+      "line_hash": "3c9c981c",
+      "speaker": "コハル",
+      "ja": "ふふ、次があったらゆっくり村を見て回るのもいいかもね？",
+      "zh": ""
+    },
+    {
+      "key": "533.1",
+      "line_index": 533,
+      "inline_index": 1,
+      "line_hash": "4f28f61d",
+      "speaker": "雫",
+      "ja": "次があれば、ですけれどね",
+      "zh": ""
+    },
+    {
+      "key": "551.1",
+      "line_index": 551,
+      "inline_index": 1,
+      "line_hash": "9ebcaf02",
+      "speaker": "雫",
+      "ja": "そういえば、色々あって十分なお話ができておりませんでしたが……",
+      "zh": ""
+    },
+    {
+      "key": "553.1",
+      "line_index": 553,
+      "inline_index": 1,
+      "line_hash": "9dfb7d6d",
+      "speaker": "コハル",
+      "ja": "お話？　何の？",
+      "zh": ""
+    },
+    {
+      "key": "555.1",
+      "line_index": 555,
+      "inline_index": 1,
+      "line_hash": "495da1f4",
+      "speaker": "雫",
+      "ja": "貴方がたは見回りすら満足に出来ないのですか！",
+      "zh": ""
+    },
+    {
+      "key": "557.1",
+      "line_index": 557,
+      "inline_index": 1,
+      "line_hash": "ec0418e0",
+      "speaker": "コハル",
+      "ja": "ひぇっ！",
+      "zh": ""
+    },
+    {
+      "key": "559.1",
+      "line_index": 559,
+      "inline_index": 1,
+      "line_hash": "348afc4",
+      "speaker": "雫",
+      "ja": "冒険者に憧れると言っておきながら、不用意な行動ばかり……！　慎みを持って行動なさってください！",
+      "zh": ""
+    },
+    {
+      "key": "561.1",
+      "line_index": 561,
+      "inline_index": 1,
+      "line_hash": "7e2066ed",
+      "speaker": "コハル",
+      "ja": "うう……すみません……",
+      "zh": ""
+    },
+    {
+      "key": "563.0",
+      "line_index": 563,
+      "inline_index": 0,
+      "line_hash": "2a0bbbd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "悔しいけど、正論だな……",
+      "zh": ""
+    },
+    {
+      "key": "565.1",
+      "line_index": 565,
+      "inline_index": 1,
+      "line_hash": "eb1af832",
+      "speaker": "雫",
+      "ja": "コハル様は自室に戻ったら反省してください。男はこの後鞭で百叩きです",
+      "zh": ""
+    },
+    {
+      "key": "567.0",
+      "line_index": 567,
+      "inline_index": 0,
+      "line_hash": "705de7ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでだよ！　……そうだった、俺もルミナに言い忘れてた！",
+      "zh": ""
+    },
+    {
+      "key": "569.1",
+      "line_index": 569,
+      "inline_index": 1,
+      "line_hash": "b5236f08",
+      "speaker": "ルミナ",
+      "ja": "え……？　どうか、した……？　{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "571.0",
+      "line_index": 571,
+      "inline_index": 0,
+      "line_hash": "deafb027",
+      "speaker": "{G_PlayerName}",
+      "ja": "助けに来てくれたんだよな？　ありがとうな！",
+      "zh": ""
+    },
+    {
+      "key": "573.1",
+      "line_index": 573,
+      "inline_index": 1,
+      "line_hash": "57db073b",
+      "speaker": "コハル",
+      "ja": "そうね！　ありがとう、ルミナ！",
+      "zh": ""
+    },
+    {
+      "key": "575.1",
+      "line_index": 575,
+      "inline_index": 1,
+      "line_hash": "58de3f3e",
+      "speaker": "ルミナ",
+      "ja": "う……ううん。全然お手伝い出来なかったし……そんな大したことは……",
+      "zh": ""
+    },
+    {
+      "key": "577.1",
+      "line_index": 577,
+      "inline_index": 1,
+      "line_hash": "a5e78b9b",
+      "speaker": "コハル",
+      "ja": "大したことでしょ？　体調崩してたっていうのに、あんなところまで来るなんて……来てなかったらラギオラ達が危なかったみたいだし、十分過ぎるわよ！",
+      "zh": ""
+    },
+    {
+      "key": "579.1",
+      "line_index": 579,
+      "inline_index": 1,
+      "line_hash": "8dbdb972",
+      "speaker": "雫",
+      "ja": "ええ、今回の手柄は全てルミナ様の物と言って差し支えないかと",
+      "zh": ""
+    },
+    {
+      "key": "581.0",
+      "line_index": 581,
+      "inline_index": 0,
+      "line_hash": "4a557568",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは流石に差し支えるだろ……",
+      "zh": ""
+    },
+    {
+      "key": "583.1",
+      "line_index": 583,
+      "inline_index": 1,
+      "line_hash": "56f18249",
+      "speaker": "雫",
+      "ja": "ですが、そのように報告はいたしますよ？",
+      "zh": ""
+    },
+    {
+      "key": "585.1",
+      "line_index": 585,
+      "inline_index": 1,
+      "line_hash": "51d350ee",
+      "speaker": "コハル",
+      "ja": "え……ほ、報告？",
+      "zh": ""
+    },
+    {
+      "key": "587.1",
+      "line_index": 587,
+      "inline_index": 1,
+      "line_hash": "87a3d9c1",
+      "speaker": "雫",
+      "ja": "言ったでしょう？　ルミナ様の国宝関係の減刑のため、女王の座のため、道中の善行は全てルミナ様が行った物として報告します",
+      "zh": ""
+    },
+    {
+      "key": "589.1",
+      "line_index": 589,
+      "inline_index": 1,
+      "line_hash": "d78b933b",
+      "speaker": "ルミナ",
+      "ja": "し、雫……それは……",
+      "zh": ""
+    },
+    {
+      "key": "591.1",
+      "line_index": 591,
+      "inline_index": 1,
+      "line_hash": "3f220f5c",
+      "speaker": "雫",
+      "ja": "当然の事でございます！　よろしいですね、お二方？",
+      "zh": ""
+    },
+    {
+      "key": "593.0",
+      "line_index": 593,
+      "inline_index": 0,
+      "line_hash": "b65d458c",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、そういうことなら仕方ない……か？",
+      "zh": ""
+    },
+    {
+      "key": "595.1",
+      "line_index": 595,
+      "inline_index": 1,
+      "line_hash": "7103ac38",
+      "speaker": "コハル",
+      "ja": "雫の言い方が悪いわよ！",
+      "zh": ""
+    },
+    {
+      "key": "597.1",
+      "line_index": 597,
+      "inline_index": 1,
+      "line_hash": "15a6268",
+      "speaker": "ルミナ",
+      "ja": "２人共、ごめん……ね……",
+      "zh": ""
+    },
+    {
+      "key": "599.0",
+      "line_index": 599,
+      "inline_index": 0,
+      "line_hash": "fd65ef9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いやいや。むしろ少しでもルミナに出来ることがあるなら、やるべきだとは思うし……",
+      "zh": ""
+    },
+    {
+      "key": "603.1",
+      "line_index": 603,
+      "inline_index": 1,
+      "line_hash": "92e48b5f",
+      "speaker": "コハル",
+      "ja": "むっ。何よ{G_PlayerName}、鼻の下伸ばして！",
+      "zh": ""
+    },
+    {
+      "key": "607.0",
+      "line_index": 607,
+      "inline_index": 0,
+      "line_hash": "4f95faac",
+      "speaker": "{G_PlayerName}",
+      "ja": "いたたっ！　の、伸ばしてないだろっ！",
+      "zh": ""
+    },
+    {
+      "key": "609.1",
+      "line_index": 609,
+      "inline_index": 1,
+      "line_hash": "d28e9e3a",
+      "speaker": "ルミナ",
+      "ja": "ふふっ……",
+      "zh": ""
+    },
+    {
+      "key": "611.1",
+      "line_index": 611,
+      "inline_index": 1,
+      "line_hash": "b5328397",
+      "speaker": "ルミナ",
+      "ja": "……ごめんなさい。まだ、ちょっと……調子が悪いから、お部屋に戻る、ね……",
+      "zh": ""
+    },
+    {
+      "key": "613.1",
+      "line_index": 613,
+      "inline_index": 1,
+      "line_hash": "43095f9c",
+      "speaker": "雫",
+      "ja": "ルミナ様……！　ええ、すぐにお戻りになられてください。わたくしが、お抱っこを……！",
+      "zh": ""
+    },
+    {
+      "key": "615.1",
+      "line_index": 615,
+      "inline_index": 1,
+      "line_hash": "5c4c6d11",
+      "speaker": "ルミナ",
+      "ja": "い、いい……一人で戻る……",
+      "zh": ""
+    },
+    {
+      "key": "627.1",
+      "line_index": 627,
+      "inline_index": 1,
+      "line_hash": "2705db45",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "634.1",
+      "line_index": 634,
+      "inline_index": 1,
+      "line_hash": "2ddedc3f",
+      "speaker": "ルミナ",
+      "ja": "うっ……",
+      "zh": ""
+    },
+    {
+      "key": "636.0",
+      "line_index": 636,
+      "inline_index": 0,
+      "line_hash": "a0f1abb6",
+      "speaker": "",
+      "ja": "気が抜けて、足から力が抜けてしまう。ベッドまで行く前に、床に座り込んでしまった。",
+      "zh": ""
+    },
+    {
+      "key": "638.1",
+      "line_index": 638,
+      "inline_index": 1,
+      "line_hash": "91d3c43e",
+      "speaker": "ルミナ",
+      "ja": "ちょっと……無理、しすぎたかな……",
+      "zh": ""
+    },
+    {
+      "key": "640.1",
+      "line_index": 640,
+      "inline_index": 1,
+      "line_hash": "4af14f",
+      "speaker": "ルミナ",
+      "ja": "（体調はずっと良くなかったけど……このままじゃ、{G_PlayerName}くんにずっと見てもらえないような気がして……）",
+      "zh": ""
+    },
+    {
+      "key": "642.1",
+      "line_index": 642,
+      "inline_index": 1,
+      "line_hash": "4f9e6b3",
+      "speaker": "ルミナ",
+      "ja": "（焦って、アポロちゃんに話を聞いて飛び出しちゃった……でも……）",
+      "zh": ""
+    },
+    {
+      "key": "644.1",
+      "line_index": 644,
+      "inline_index": 1,
+      "line_hash": "98697eaa",
+      "speaker": "ルミナ",
+      "ja": "「ありがとう」って、言ってもらえたから……良かった、かな……",
+      "zh": ""
+    },
+    {
+      "key": "650.1",
+      "line_index": 650,
+      "inline_index": 1,
+      "line_hash": "9208e04e",
+      "speaker": "アポロ",
+      "ja": "ルミナ様",
+      "zh": ""
+    },
+    {
+      "key": "652.1",
+      "line_index": 652,
+      "inline_index": 1,
+      "line_hash": "86ce2c09",
+      "speaker": "ルミナ",
+      "ja": "わっ……アポロちゃん。どうかしたの……？",
+      "zh": ""
+    },
+    {
+      "key": "654.1",
+      "line_index": 654,
+      "inline_index": 1,
+      "line_hash": "db07ba8c",
+      "speaker": "アポロ",
+      "ja": "この度は……誠に、申し訳ございませんでした……",
+      "zh": ""
+    },
+    {
+      "key": "656.1",
+      "line_index": 656,
+      "inline_index": 1,
+      "line_hash": "655a3076",
+      "speaker": "ルミナ",
+      "ja": "えっ、なんで……？　アポロちゃん、いっぱい助けてくれたよ……",
+      "zh": ""
+    },
+    {
+      "key": "658.1",
+      "line_index": 658,
+      "inline_index": 1,
+      "line_hash": "853244cd",
+      "speaker": "アポロ",
+      "ja": "侵入者を許し、あまつさえ墜落を防げませんでした。……ワタシが、本当の、最新鋭、最高の機能を持っていれば……起きていなかった事態です。",
+      "zh": ""
+    },
+    {
+      "key": "660.1",
+      "line_index": 660,
+      "inline_index": 1,
+      "line_hash": "d59ea63e",
+      "speaker": "アポロ",
+      "ja": "……ルミナ様の、安全を第一に考えるのであれば……宇宙技術が発達した星での、買い替えを検討なさるべきです",
+      "zh": ""
+    },
+    {
+      "key": "662.1",
+      "line_index": 662,
+      "inline_index": 1,
+      "line_hash": "f018140c",
+      "speaker": "ルミナ",
+      "ja": "…………そんなこと、しないよ",
+      "zh": ""
+    },
+    {
+      "key": "664.1",
+      "line_index": 664,
+      "inline_index": 1,
+      "line_hash": "d1c36e49",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "666.1",
+      "line_index": 666,
+      "inline_index": 1,
+      "line_hash": "17fbce5f",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃんは、アポロちゃんしかいないもん。ずっと前から一緒にいたアポロちゃんを、買い替えるなんてしない。するとしても……機体の修理とか、パーツの交換だよ",
+      "zh": ""
+    },
+    {
+      "key": "668.1",
+      "line_index": 668,
+      "inline_index": 1,
+      "line_hash": "eeb628be",
+      "speaker": "アポロ",
+      "ja": "ルミナ様……",
+      "zh": ""
+    },
+    {
+      "key": "670.1",
+      "line_index": 670,
+      "inline_index": 1,
+      "line_hash": "b997ac80",
+      "speaker": "ルミナ",
+      "ja": "いつもありがとうね、アポロちゃん……あ、ごめん……ちょっとお水、ちょうだい？",
+      "zh": ""
+    },
+    {
+      "key": "672.1",
+      "line_index": 672,
+      "inline_index": 1,
+      "line_hash": "6cb3bead",
+      "speaker": "アポロ",
+      "ja": "はい、かしこまりました。ただちに……",
+      "zh": ""
+    },
+    {
+      "key": "678.1",
+      "line_index": 678,
+      "inline_index": 1,
+      "line_hash": "d3cd7f60",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "680.1",
+      "line_index": 680,
+      "inline_index": 1,
+      "line_hash": "112184de",
+      "speaker": "アポロ",
+      "ja": "（ルミナ様は、ワタシを見捨てたりしない。でも……）",
+      "zh": ""
+    },
+    {
+      "key": "682.1",
+      "line_index": 682,
+      "inline_index": 1,
+      "line_hash": "118d6b3",
+      "speaker": "アポロ",
+      "ja": "（他の者は信用できない。きっと、次また失敗をすれば……）",
+      "zh": ""
+    }
+  ]
+}

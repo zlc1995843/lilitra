@@ -1,0 +1,1003 @@
+{
+  "lines": [
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "2b351667",
+      "speaker": "ブロワー",
+      "ja": "くそっ、採掘作業してただけあって、こいつら頑丈だな……！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "87eb97bc",
+      "speaker": "雫",
+      "ja": "なぜ手加減してるんです？　この鉱山を破壊する仇敵ではないのですか",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "246cb63e",
+      "speaker": "ブロワー",
+      "ja": "こいつらだって、努力の方向を間違えただけだ。働く意思が無く怠惰だったわけじゃない。そう思うとな……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "42836392",
+      "speaker": "雫",
+      "ja": "それは……お人好しですね",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "c2fa7037",
+      "speaker": "コーゼ",
+      "ja": "全くだよね～",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "c1bb87cc",
+      "speaker": "ブロワー",
+      "ja": "コーゼ！？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "a8bda3a0",
+      "speaker": "コーゼ",
+      "ja": "ちょっと準備に手間取っちゃって、ごめんね～",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "f633847c",
+      "speaker": "ブロワー",
+      "ja": "準備って……コーゼは何やってたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "9b25651c",
+      "speaker": "コーゼ",
+      "ja": "マフィアの親玉と平和的に交渉するのに手間取っちゃって？",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "5100fcc9",
+      "speaker": "男の声",
+      "ja": "ぎゃーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "bc37abc2",
+      "speaker": "",
+      "ja": "戦っていた男達の１人が、叫び声を上げる。驚いてそちらを見ると、こちらへと飛んでくる影があった。",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "116fb32f",
+      "speaker": "ブロワー",
+      "ja": "あの時の……！？　味方なのか！？",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "efc133f5",
+      "speaker": "紅葉",
+      "ja": "依頼主と話がついたなら裏切りにはならない。報酬も出るなら協力しない理由が無い",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "bb19cc76",
+      "speaker": "ブロワー",
+      "ja": "話……？　い、いや。今は説明を聞く時間は無いか。でも……ま、まさか殺して……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "bd65a1e",
+      "speaker": "紅葉",
+      "ja": "大丈夫。手足の関節を外しただけ。激痛はあるだろうが死にはしない",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "48c17c3c",
+      "speaker": "ブロワー",
+      "ja": "だ、大丈夫なのかそれ……？　いや、うん……手加減してくれてるのは良かったけど……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "6acdf63d",
+      "speaker": "紅葉",
+      "ja": "全員無力化する。ここは任せて",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "ef7da664",
+      "speaker": "",
+      "ja": "飛びかかる紅葉に男たちがたじろぎ、悲鳴を上げる。まるでパニック演劇のようだ。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "cd6beaff",
+      "speaker": "{G_PlayerName}",
+      "ja": "（この調子だと、すぐ終わりそうだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "d143847b",
+      "speaker": "ブロワー",
+      "ja": "おい、時間に余裕は無いんだ！　急ぐぞ！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "393ab683",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "704ce196",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "ee40a3be",
+      "speaker": "",
+      "ja": "前にここに来た時より、一層熱気が充満していて思わず眉間に皺が寄る。",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "a751431c",
+      "speaker": "コハル",
+      "ja": "ここから探さないといけないの！？　熱すぎるんだけど！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "f12b251a",
+      "speaker": "雫",
+      "ja": "なるほど、この熱……地熱があるおかげで、地上も凍えず済んでいたのですね",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "a2f18cf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな事言ってる場合か！　ブロワー、機械はどのあたりだって！？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "da2db588",
+      "speaker": "ブロワー",
+      "ja": "こっちだ！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "22d55674",
+      "speaker": "ブロワー",
+      "ja": "このあたりらしいが……！",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "83a56506",
+      "speaker": "雫",
+      "ja": "詳細な位置は……っ……！？",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "a160c24c",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうした、雫！？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "85b1ae72",
+      "speaker": "雫",
+      "ja": "……溶岩の中にあるようです",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "e597854a",
+      "speaker": "ルミナ",
+      "ja": "えっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "c6a9acbf",
+      "speaker": "",
+      "ja": "雫が指さした先は、赤黒い泡を生じさせながら対流する、輝く溶岩で埋め尽くされている。",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "46f1a101",
+      "speaker": "雫",
+      "ja": "これでは、触れることも……",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "17d2728b",
+      "speaker": "ブロワー",
+      "ja": "なあに、そんな気はしてたさ",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "7c043d6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブロワー……？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "ee2c313c",
+      "speaker": "ブロワー",
+      "ja": "だから、一応コレを持ってきたんだ",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "4a98ecbc",
+      "speaker": "",
+      "ja": "ブロワーが、何か小さい小包のようなものを取り出す。これは……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "bb69f684",
+      "speaker": "ルミナ",
+      "ja": "もしかして、爆弾……？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "19113636",
+      "speaker": "ブロワー",
+      "ja": "違法じゃない、な。そこ、ちょっとどいてろ！",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "bfd459f0",
+      "speaker": "",
+      "ja": "ブロワーが、壁の一部に立てかけるように爆弾を設置し、導火線に火を付ける。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "84038e66",
+      "speaker": "",
+      "ja": "導火線の黒煙が爆弾へと近づき、接触した瞬間壁面を破砕した。",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "f47359eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "水！？　こ、これって……！",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "4b0e7a2b",
+      "speaker": "ブロワー",
+      "ja": "あんちゃんがおっかぶった地下水さ！　おかげで近くを通ってるのはわかってたからな！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "bdc108a1",
+      "speaker": "",
+      "ja": "激しく漏れ出た地下水が、火口へと流れ込む。全体の溶岩のごく一部……先程まで雫が指さしていた部分の溶岩が冷やされ、黒ずんだ色へと姿を変えた。",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "f08e77f8",
+      "speaker": "ブロワー",
+      "ja": "こうなりゃ、後は掘るだけっ……！",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "9eef3893",
+      "speaker": "",
+      "ja": "勢いよく、ブロワーがツルハシを叩きつける。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "541f140e",
+      "speaker": "　",
+      "ja": "黒い岩が削れて砕け、何か丸い物が転がり出た。",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "a8b09bc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "これが機械か！",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "e8ae9b5e",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん！　熱いから触らないほうが……！",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "bc99c405",
+      "speaker": "",
+      "ja": "咄嗟に手が出て、足元に転がった機械に触ってしまう。……慌てて手をひっこめるが……",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "c1f269ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なんか、大丈夫そうだぞ？",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "31dc19e2",
+      "speaker": "ルミナ",
+      "ja": "えっ……ほん、とう？　火傷……してない？",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "45fb1052",
+      "speaker": "",
+      "ja": "改めて、慎重に機械に触り直す。……溶岩の中にあったとは思えない、ひんやりとした感覚が手に染み込んでくる。",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "d929aa1f",
+      "speaker": "ルミナ",
+      "ja": "不思議……だね。でも、急いで……止めないと。貸して……こう、かな……？",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "59a86fd9",
+      "speaker": "",
+      "ja": "ルミナがひねるように機械に触り、出てきた光に指を滑らせる。",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "39704519",
+      "speaker": "",
+      "ja": "静かに機械の光が収まり……いや、溶岩の灯りが静まっていき、あたりが少しずつ暗くなっていった。",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "2d573d04",
+      "speaker": "{G_PlayerName}",
+      "ja": "よ……溶岩が、減った？",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "cb9417ee",
+      "speaker": "ブロワー",
+      "ja": "下の方に、沈んでいってるみたいだ。……噴火が、止まった！",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "403a0b32",
+      "speaker": "コーゼ",
+      "ja": "まさか本当に止まるなんてね～、驚き～",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "482e5326",
+      "speaker": "雫",
+      "ja": "ふう……今回も死ぬかと思いました",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "500a6546",
+      "speaker": "雫",
+      "ja": "……では、この機械は預からせていただきます",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "a7025058",
+      "speaker": "コーゼ",
+      "ja": "え、なんで？",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "2e1f4a65",
+      "speaker": "雫",
+      "ja": "犯人について調べる必要がありますので。……わたくし達の村で作られた機械の可能性があります",
+      "zh": ""
+    },
+    {
+      "key": "279.1",
+      "line_index": 279,
+      "inline_index": 1,
+      "line_hash": "94ec8ca2",
+      "speaker": "コーゼ",
+      "ja": "そっか。じゃあ、何かわかったら教えてね～？　またこんなことあっても困るからさ",
+      "zh": ""
+    },
+    {
+      "key": "281.1",
+      "line_index": 281,
+      "inline_index": 1,
+      "line_hash": "7d340849",
+      "speaker": "雫",
+      "ja": "ええ、もちろんです。調査が終わったら報告しましょう",
+      "zh": ""
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "1bbea7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そのまま逃げそうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "3fcfbc8",
+      "speaker": "紅葉",
+      "ja": "……何があったか知らないけど……終わったの？",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "7626eb36",
+      "speaker": "ブロワー",
+      "ja": "ああ……紅葉って言ったか？　こっちはなんとかなったみてえだけど、何があったんだ、結局？",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "91b19000",
+      "speaker": "紅葉",
+      "ja": "コーゼがマフィアと一時的な和解を結んだ。結果的に、私はコーゼの指示に従って動いても良いことになった",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "ab7ea088",
+      "speaker": "ブロワー",
+      "ja": "え、マジで？　どうやったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "654b3fb1",
+      "speaker": "コーゼ",
+      "ja": "お互い意地になってた部分もあったしね～。鉱石の買い取り価格の値上げチラつかせて、鉱山で問題が起きた事伝えたら案外あっさりだったよ～",
+      "zh": ""
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "5e28b5fa",
+      "speaker": "コーゼ",
+      "ja": "治安も違法採掘も、しばらくは安心してもいいカンジかなー？",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "c26a53f8",
+      "speaker": "ブロワー",
+      "ja": "よかったなあ……！　紅葉、マフィアとの契約は？　これからどうすんの？",
+      "zh": ""
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "91c0147f",
+      "speaker": "紅葉",
+      "ja": "以後、コーゼのボディーガードを務める。……あとは、臨機応変",
+      "zh": ""
+    },
+    {
+      "key": "308.1",
+      "line_index": 308,
+      "inline_index": 1,
+      "line_hash": "d376c093",
+      "speaker": "ブロワー",
+      "ja": "臨機応変……？",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "ddc60fdd",
+      "speaker": "コーゼ",
+      "ja": "この村全体の平和を守ってもらおーと思って～。あんだけ強いならそれくらいしてもらわないと、勿体ないっしょー？",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "49bc835a",
+      "speaker": "ブロワー",
+      "ja": "そりゃまた、大変な役目で……",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "21183cd",
+      "speaker": "紅葉",
+      "ja": "そういえば、あのメイドは……？　話があったのだが……",
+      "zh": ""
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "58ed7852",
+      "speaker": "ブロワー",
+      "ja": "……ん？　あいつら、どこ行った？",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "d523aa9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……こんな急いで帰らなくても良かったんじゃないか？　まだ別れの挨拶だって……",
+      "zh": ""
+    },
+    {
+      "key": "335.1",
+      "line_index": 335,
+      "inline_index": 1,
+      "line_hash": "6a1e4dc2",
+      "speaker": "雫",
+      "ja": "今回は宇宙船に乗り込んで来た者もいたのです。目的を達成したなら、イレギュラーが発生しかねない状況は離脱出来るなら離脱すべきです",
+      "zh": ""
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "2262766b",
+      "speaker": "アポロ",
+      "ja": "妙な引力はこの機械のせいでもあったようですね。より楽に飛び立てるようになりました",
+      "zh": ""
+    },
+    {
+      "key": "349.1",
+      "line_index": 349,
+      "inline_index": 1,
+      "line_hash": "510fb6f1",
+      "speaker": "コハル",
+      "ja": "その機械って……結局どういう機械なの？　火山を噴火させるなんて……",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "75caf087",
+      "speaker": "アポロ",
+      "ja": "詳細はわかりません。予想の範疇を出ませんが、どうやら広範囲の溶岩を操作する機械だったようですね",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "d969524",
+      "speaker": "アポロ",
+      "ja": "また、鉱石を解析してわかったことですが……あの光る石は、溶岩が固まったり別の石が熱された結果生まれることがあるようです",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "fc5aeec5",
+      "speaker": "コハル",
+      "ja": "えっと……つまり？",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "b77bbbd4",
+      "speaker": "アポロ",
+      "ja": "この機械で意図的に光る石を増やしていたようですね。そして……地熱の調整も行っていたようです",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "d942c4a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "それって……まるで……",
+      "zh": ""
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "61cf0671",
+      "speaker": "アポロ",
+      "ja": "テラフォーミング。人が住めない極寒の惑星を、人が住める環境に調整する機械と推察しました",
+      "zh": ""
+    },
+    {
+      "key": "364.1",
+      "line_index": 364,
+      "inline_index": 1,
+      "line_hash": "8540fe90",
+      "speaker": "コハル",
+      "ja": "それって持ってきちゃって大丈夫なの！？",
+      "zh": ""
+    },
+    {
+      "key": "366.1",
+      "line_index": 366,
+      "inline_index": 1,
+      "line_hash": "4e7f2b7b",
+      "speaker": "アポロ",
+      "ja": "解析しましたが、そもそも機械が狂ったのは採掘によって鉱山の構造が変わったからかと",
+      "zh": ""
+    },
+    {
+      "key": "368.1",
+      "line_index": 368,
+      "inline_index": 1,
+      "line_hash": "7e625a02",
+      "speaker": "アポロ",
+      "ja": "地熱も当初は溶岩の操作が必要だったのでしょうが、現在は必要ない環境になっているようです",
+      "zh": ""
+    },
+    {
+      "key": "370.1",
+      "line_index": 370,
+      "inline_index": 1,
+      "line_hash": "2692a098",
+      "speaker": "コハル",
+      "ja": "それなら……良かったけど",
+      "zh": ""
+    },
+    {
+      "key": "372.1",
+      "line_index": 372,
+      "inline_index": 1,
+      "line_hash": "1fc4583d",
+      "speaker": "アポロ",
+      "ja": "まあ……光る石の量は減るかも知れませんが。結果的には溶岩操作で多く産出されていたようですから",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "46b585ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "よくわかんないんだが……惑星間の犯罪ってこんなによく起きることなのか？",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "fa1ddae9",
+      "speaker": "{G_PlayerName}",
+      "ja": "前だって、似たような機械を使われた犯罪だったんだろ？　なんていうか……",
+      "zh": ""
+    },
+    {
+      "key": "378.1",
+      "line_index": 378,
+      "inline_index": 1,
+      "line_hash": "c1a2369b",
+      "speaker": "雫",
+      "ja": "早々起きることではありません。私利私欲を満たす犯罪であれば、発覚がしやすい。ですが、動機もわからない以上……不気味ですね",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "1ab9abeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……",
+      "zh": ""
+    },
+    {
+      "key": "382.1",
+      "line_index": 382,
+      "inline_index": 1,
+      "line_hash": "11c553a8",
+      "speaker": "雫",
+      "ja": "（いや、不気味どころではない。異常です。あの村が出来る遥か昔から存在し……現在に至るまで機能を維持し続けただけでも驚異）",
+      "zh": ""
+    },
+    {
+      "key": "384.1",
+      "line_index": 384,
+      "inline_index": 1,
+      "line_hash": "a1b155c1",
+      "speaker": "雫",
+      "ja": "（溶岩の流れを操作？　鉱山一帯……いや、それ以上かもしれない範囲の？　一体どんな技術レベルの星で……）",
+      "zh": ""
+    },
+    {
+      "key": "386.1",
+      "line_index": 386,
+      "inline_index": 1,
+      "line_hash": "62004a50",
+      "speaker": "雫",
+      "ja": "（……いや。機械の操作方法は、私達の星で作られた機械と似た作りだった。同じ星で作られた物ではないのは確かなのに、なぜ……？）",
+      "zh": ""
+    },
+    {
+      "key": "388.1",
+      "line_index": 388,
+      "inline_index": 1,
+      "line_hash": "21c636e4",
+      "speaker": "アポロ",
+      "ja": "ですが、機械の特徴は前回の物と比較し学習しました。次何かあれば察知はしやすくなるかと",
+      "zh": ""
+    },
+    {
+      "key": "390.1",
+      "line_index": 390,
+      "inline_index": 1,
+      "line_hash": "623db157",
+      "speaker": "コハル",
+      "ja": "察知しやすくなったとしても、こんな事また起きて欲しくないけどね……",
+      "zh": ""
+    },
+    {
+      "key": "392.0",
+      "line_index": 392,
+      "inline_index": 0,
+      "line_hash": "46545156",
+      "speaker": "",
+      "ja": "ルナリングの影響で期限付きになった自分の命。ルミナの王女の座を奪いに襲ってくる女王候補たち。",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "89871b47",
+      "speaker": "",
+      "ja": "それに加えて、正体も目的もわからない機械を設置する謎の犯罪者。……宇宙は危険だと聞いてはいたが、想像していた物と大きく外れている気がする。",
+      "zh": ""
+    },
+    {
+      "key": "396.0",
+      "line_index": 396,
+      "inline_index": 0,
+      "line_hash": "df0bc005",
+      "speaker": "{G_PlayerName}",
+      "ja": "……しかし、何か忘れてるような",
+      "zh": ""
+    },
+    {
+      "key": "398.1",
+      "line_index": 398,
+      "inline_index": 1,
+      "line_hash": "12189667",
+      "speaker": "コハル",
+      "ja": "忘れてる……って？",
+      "zh": ""
+    },
+    {
+      "key": "413.1",
+      "line_index": 413,
+      "inline_index": 1,
+      "line_hash": "89ba0c73",
+      "speaker": "プリズム",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "faf7773f",
+      "speaker": "プリズム",
+      "ja": "皆さん、まだかなあ……服見せてくれる約束、忘れてないよね……？",
+      "zh": ""
+    }
+  ]
+}

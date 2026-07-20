@@ -1,0 +1,526 @@
+{
+  "lines": [
+    {
+      "key": "7.0",
+      "line_index": 7,
+      "inline_index": 0,
+      "line_hash": "aa393dee",
+      "speaker": "生徒",
+      "ja": "『魂光（ウィスプ）』",
+      "zh": ""
+    },
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "286c58bf",
+      "speaker": "",
+      "ja": "弱々しい光が生み出され、他の生徒たちから感嘆の声が上がった。魔法を唱えた生徒の顔に朱が差す。",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "8ce2ab2c",
+      "speaker": "",
+      "ja": "しかし、対照的に教師の目と声は冷めたものだった。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "cfa1e31c",
+      "speaker": "教師",
+      "ja": "これは？",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "1af7dd9f",
+      "speaker": "生徒",
+      "ja": "はいっ！これは精霊の力だけではなく、宙に漂う魔力の塵を集めて利用したもので……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "53b6988c",
+      "speaker": "教師",
+      "ja": "そのようなことは分かっています。この魔術をレポートの題材にする理由と利点は？",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "d126112c",
+      "speaker": "生徒",
+      "ja": "こ……この魔術を利用すれば、汎用的なエネルギーとして利用されている体内の魔力を温存でき……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "783bb117",
+      "speaker": "教師",
+      "ja": "他には",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "e4592e00",
+      "speaker": "生徒",
+      "ja": "え……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "69ad4563",
+      "speaker": "教師",
+      "ja": "ほんの僅か、誤差レベルに温存した力を何に利用すると？　現状、周囲を照らす魔術は『小光（ライト）』、『常光（ブライト）』があるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "b6c14a18",
+      "speaker": "教師",
+      "ja": "得られる光量も、安定性もそれらに劣っている呪文を使うメリットは？　具体的に述べなさい",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "eef98f80",
+      "speaker": "生徒",
+      "ja": "す……すみません、そこまでの想定は、まだ……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "faf72b7e",
+      "speaker": "教師",
+      "ja": "この魔術は不合格。即刻研究を中止し別の魔術を題材として選ぶこと。次の生徒、前へ",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "55e16759",
+      "speaker": "コハル",
+      "ja": "……着陸できた？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "829257e2",
+      "speaker": "アポロ",
+      "ja": "はい、着きました。『魔と叡智の星』と呼ばれる惑星です",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "fb5062da",
+      "speaker": "コハル",
+      "ja": "すごーい！　全然揺れなかった！",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "9dacaece",
+      "speaker": "アポロ",
+      "ja": "予測不能なアクシデントが無ければこの程度、当たり前です",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "b1e6a07f",
+      "speaker": "",
+      "ja": "と言いながらも、ふふん、とアポロが得意そうに笑う。",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "c69875f3",
+      "speaker": "コハル",
+      "ja": "ここでは、誰が降りるの？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "af34c932",
+      "speaker": "雫",
+      "ja": "私が降りて、物資を購入・交換してきます。周囲に危険生物はいなさそうですので、見回りは必要ございません",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "aa4dd1a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺たちは降りてもいいのか？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "b0b4c5e1",
+      "speaker": "雫",
+      "ja": "まあ……お好きにすればよろしいのではないでしょうか。危険があっても自己責任ですよ",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "c4e59195",
+      "speaker": "コハル",
+      "ja": "じゃあ、私も降りるっ！　{G_PlayerName}も降りるわよね？",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "7de12d75",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……明らかな危険とかが無さそうなら、色々興味はあるし降りたいな",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "20d34c81",
+      "speaker": "コハル",
+      "ja": "決まりねっ！",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "ebf844d5",
+      "speaker": "ルミナ",
+      "ja": "雫。私も、行く……",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "fdd9f4d8",
+      "speaker": "雫",
+      "ja": "いいえ。何があるかわかりません。ルミナ様は中でお待ち下さい",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "d1a7b1ed",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "9d286e22",
+      "speaker": "雫",
+      "ja": "そういえば。ここは物資補給が可能な程度には発展しているようですが、宇宙技術はまだのようですね",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "5e4b1b68",
+      "speaker": "アポロ",
+      "ja": "はい。魔法と我々が呼んでいる技術に関して研究を深め、生活利用している星です。魔法に関しての法律などが非常に厳しく……",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "91ac0781",
+      "speaker": "雫",
+      "ja": "なるほど、それは今はいいとして。降り立つ際、ステルス機能は使いましたか？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "d3cd7f60",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "5e295228",
+      "speaker": "雫",
+      "ja": "宇宙技術が発達していない星に降り立つ際は、ワープもしくはステルスの使用が義務付けられていますが……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "4ce0d20a",
+      "speaker": "アポロ",
+      "ja": "ステルス機能、オン",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "b6ab9771",
+      "speaker": "コハル",
+      "ja": "えっ、遅くない！？　手遅れよね、今の話聞くと！？",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "2162508d",
+      "speaker": "雫",
+      "ja": "……全く……",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "bc38f508",
+      "speaker": "？？？",
+      "ja": "あれっ？　あれっ？　消えちゃった～！？",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "bd454184",
+      "speaker": "",
+      "ja": "外から素っ頓狂な声が響く。それぞれ顔を見合わせたあと、アポロにどことなく批判的な視線が集まった。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "f06aef0c",
+      "speaker": "？？？",
+      "ja": "あ、ある！　触れる！　透明になったんだ！　すご～い！",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "448b292c",
+      "speaker": "アポロ",
+      "ja": "……飛び立ちますか",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "5bd4975a",
+      "speaker": "雫",
+      "ja": "近くに原住民がいる状態で飛び立つなど、危険でしょう！　……外に出ますよ。宇宙技術さえ伝えなければ良いのですから、なんとか誤魔化します",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "376cfcf2",
+      "speaker": "ルミナ",
+      "ja": "アポロ……気にしないで、ね。次頑張ればいいから……",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "87c79933",
+      "speaker": "アポロ",
+      "ja": "……ありがとうございます。着陸プログラムを修正いたします",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "78514d1a",
+      "speaker": "？？？",
+      "ja": "わわっ！　人！？　これ、乗り物なんだ！　言葉通じるかなっ？　初めましてっ！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "9c690a07",
+      "speaker": "？？？",
+      "ja": "あっ、あたし偶然ここの近くにいて！　魔法の研究してて、空見上げたら、何か降りてきててびっくりして！　えっと……！",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "55694268",
+      "speaker": "雫",
+      "ja": "落ち着いてください。わたくし達はここに立ち寄った……",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "3a0e71de",
+      "speaker": "雫",
+      "ja": "……旅人です",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "b05bd754",
+      "speaker": "{G_PlayerName}",
+      "ja": "（旅人で済ませるには情報量エグくないか……）",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "1b2f8561",
+      "speaker": "？？？",
+      "ja": "空、飛んでたよね！？　どこから来たの！？",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "75682921",
+      "speaker": "雫",
+      "ja": "え～……わたくし達は遠い国から……",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "b7cacd72",
+      "speaker": "？？？",
+      "ja": "別の国？　この星に別の国なんて無いよね？　みーんな、同じ国の領土だもん",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "d0ea48f2",
+      "speaker": "雫",
+      "ja": "…………ほう",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "463fce3e",
+      "speaker": "？？？",
+      "ja": "うふ。……あなた達、多分この星の……外から来た人たちなんだよね？",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "5652e3a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（思いっきりバレてる……）",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "a1c234e2",
+      "speaker": "？？？",
+      "ja": "大丈夫！　誰にも言わないから……仲間だもんね！",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "19e6516e",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、仲間？",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "dfc4cb70",
+      "speaker": "？？？",
+      "ja": "あたし、オーロラ！　……空を飛ぶことを目指してる、しがない魔法学校の生徒だよ！",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "d332ff2",
+      "speaker": "オーロラ",
+      "ja": "よろしくね、空飛び仲間さん♪",
+      "zh": ""
+    }
+  ]
+}

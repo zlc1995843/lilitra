@@ -1,0 +1,1093 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "10f58d6a",
+      "speaker": "アポロ",
+      "ja": "物資の量が維持推奨ラインを下回りました。補給が必要です",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "2cee3a7b",
+      "speaker": "コハル",
+      "ja": "また～……？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "c3e424e1",
+      "speaker": "雫",
+      "ja": "仕方が有りません。この船に積載できる物資の量はかなり限られているのですから",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "3e11e0f",
+      "speaker": "アポロ",
+      "ja": "また、とは何ですか。それに積載量は同型機に比べ、多く設計されています",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "34549829",
+      "speaker": "コハル",
+      "ja": "まあ、アポロのせいとかじゃないなら仕方ないわね",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "c719378",
+      "speaker": "アポロ",
+      "ja": "何でもかんでもワタシのせいにしては困ります。これだから人間は……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "b702c6b7",
+      "speaker": "アポロ",
+      "ja": "……？　どうかしましたか。何か言いたげですが",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "39a4ef88",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、いつもの「アポロではありません、APLなんちゃら」が無いなと……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "3fdb8534",
+      "speaker": "アポロ",
+      "ja": "なっ……いちいち毎回返すのも馬鹿らしくなっただけです！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "1d32a03e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……そんなに怒るなよ。ちょっと気になっただけなんだから",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "c3ea4ce4",
+      "speaker": "アポロ",
+      "ja": "……ともかく、着陸の準備はしておくようにお願いします。２日後、文明のある星に着陸いたします",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "b3bef895",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううん……やっぱり試射出来ないと武器を作るのは難しいか……",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "9bc65493",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}？　……あ、いた。ちょっといい？",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "7303ae91",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、コハル。どうかしたのか？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "3b90cdc",
+      "speaker": "コハル",
+      "ja": "ちょっと暇だから、話でもって思ってね。機械触ってたの？　邪魔したかしら",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "f0a33925",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、ちょうど休憩しようと思ってたところだ。何か飲むか？",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "20540864",
+      "speaker": "コハル",
+      "ja": "イチゴジュース！　付け合せのお菓子も忘れずにね！",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "4aaf62fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "……太るぞ",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "b04bbdf9",
+      "speaker": "コハル",
+      "ja": "だ、大丈夫よ！　体動かしてるもん！",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "31fdc623",
+      "speaker": "コハル",
+      "ja": "ふう……落ち着いたわー",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "660496fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "疲れてるな。何かしてたのか？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "aace33b4",
+      "speaker": "コハル",
+      "ja": "んー？　特には……ああ、多分前の星で戦った疲れが残ってるんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "92321c7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "鉱山の戦いか。確かに、ずっと休み無しに走るか戦うかだったからな……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "e5f21d9b",
+      "speaker": "コハル",
+      "ja": "噴火するんじゃって気疲れもあったしね！　……何事もなくて良かったけど",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "7f6b26aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "何事も無かった……んだよな",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "ec34c170",
+      "speaker": "コハル",
+      "ja": "……？　そうでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "c6cff32",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、それなんだけどさ……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "f6e73470",
+      "speaker": "{G_PlayerName}",
+      "ja": "紅葉、って暗殺者に狙われただろ？",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "344b7177",
+      "speaker": "{G_PlayerName}",
+      "ja": "にも関わらず、雫は無事に撃退出来るって……凄い奴だなって思ってさ",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "426dbe50",
+      "speaker": "コハル",
+      "ja": "……そうね。それなんだけど……言っても良いのかしら",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "d8026d5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだ？　そこまで言ったら言えよ",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "d8555b32",
+      "speaker": "コハル",
+      "ja": "まあ……うん。私、あの時会話が聞こえちゃったんだけど……雫も昔、紅葉と同じ？　同じような？　暗殺の訓練を受けてたらしいのよ",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "3e4918d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "61e110b",
+      "speaker": "コハル",
+      "ja": "でも、ルミナの護衛兼使用人らしいじゃない？　どんな生い立ちなんだろうって、私も不思議に思ってて……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "413dd0ac",
+      "speaker": "雫",
+      "ja": "失礼します。食事の準備が出来ましたが……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "5303bb6",
+      "speaker": "コハル",
+      "ja": "きゃっ！？",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "49d07c08",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ！？　お、おうっ！　すぐ行く！",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "7ec859f4",
+      "speaker": "雫",
+      "ja": "なんですか、そんなに慌てて……ああ",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "99860717",
+      "speaker": "雫",
+      "ja": "乳繰り合うのでしたらご自由にどうぞ。そしてルミナ様を諦めてくださるなら、わたくしとしては万々歳ですわ",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "6568e7b5",
+      "speaker": "コハル",
+      "ja": "ちちっ……何言ってるのよ！　もう！",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "1b941195",
+      "speaker": "雫",
+      "ja": "程々にしてくださいね。食事が冷めますから",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "8c088433",
+      "speaker": "コハル",
+      "ja": "はーもう、びっくりした……胸がバクバクしてるわ",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "2a23dab5",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫のことについては……ルミナにでも聞いてみるか、今度",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "2255ad88",
+      "speaker": "コハル",
+      "ja": "そうね……",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "b2f6b852",
+      "speaker": "",
+      "ja": "２日後……",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "5009e38d",
+      "speaker": "アポロ",
+      "ja": "間もなく着陸体勢に入りますが、皆様準備はよろしいでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "773fe7df",
+      "speaker": "ルミナ",
+      "ja": "うん……大丈夫。みんな、席についたよ……",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "be5f3731",
+      "speaker": "{G_PlayerName}",
+      "ja": "（結局あれから、聞くチャンスが特に無かったな……まあ急いで聞く必要も無いけど）",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "a49bab52",
+      "speaker": "アポロ",
+      "ja": "それでは、着陸を開始します",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "a2d0ad8",
+      "speaker": "商人",
+      "ja": "ん？　何か今……光ったような",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "367ed59",
+      "speaker": "？？？",
+      "ja": "光る物？　蜃気楼ではございませんの？",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "fb42473f",
+      "speaker": "商人",
+      "ja": "空に何か……一瞬、見えた気がして",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "738cde9c",
+      "speaker": "？？？",
+      "ja": "であれば、蜃気楼か……せいぜい鳥か虫ですわね。アレを見つけたのかと思いましたのに",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "2b666cdb",
+      "speaker": "商人",
+      "ja": "アレ……とおっしゃいますと？",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "5ebc258e",
+      "speaker": "？？？",
+      "ja": "とーぜん、水ですわ！　水そのものが無くとも、見た、という情報だけでいくらでも稼げますのよ♪",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "b4d09a26",
+      "speaker": "",
+      "ja": "カチャ、と体を固定するベルトが外れる。それを合図に、各々立ち上がった。",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "505d9aba",
+      "speaker": "コハル",
+      "ja": "着いたのね！　ふー、大丈夫ってわかってても、やっぱり着陸の時は緊張するわ……！",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "462097a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここは……？",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "92853b9",
+      "speaker": "アポロ",
+      "ja": "文明のある星を検知し着陸しました。食料や水、機械部品が作れる材料などを補給してください",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "7a4985ca",
+      "speaker": "雫",
+      "ja": "そうですか。では外に出るのは私だけで……",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "2cab695a",
+      "speaker": "コハル",
+      "ja": "そうはさせないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "26e6a118",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺達も行くぜ！",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "45f08664",
+      "speaker": "ルミナ",
+      "ja": "……えっと、雫。その……",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "69b48cfe",
+      "speaker": "雫",
+      "ja": "……かしこまりました、いつもの通り全員ですね。慎重に行きましょう",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "345795c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "よーし！　久しぶりの外だな！",
+      "zh": ""
+    },
+    {
+      "key": "303.1",
+      "line_index": 303,
+      "inline_index": 1,
+      "line_hash": "65ec45d6",
+      "speaker": "コハル",
+      "ja": "じゃ、出発ー！",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "612d5e55",
+      "speaker": "コハル",
+      "ja": "わーー…………",
+      "zh": ""
+    },
+    {
+      "key": "340.1",
+      "line_index": 340,
+      "inline_index": 1,
+      "line_hash": "e80f145b",
+      "speaker": "コハル",
+      "ja": "…………っ！！　暑い！！",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "63a7e0fa",
+      "speaker": "",
+      "ja": "外から流れ込んでくる灼けた空気を顔いっぱいに浴び、思わず咳き込みながら、すぐに全員が宇宙船へ戻った。",
+      "zh": ""
+    },
+    {
+      "key": "344.1",
+      "line_index": 344,
+      "inline_index": 1,
+      "line_hash": "5d141603",
+      "speaker": "雫",
+      "ja": "ゴホ……っ、今のは……砂漠？　アポロ、本当に外での活動は問題無いのですか？",
+      "zh": ""
+    },
+    {
+      "key": "350.1",
+      "line_index": 350,
+      "inline_index": 1,
+      "line_hash": "e7de7088",
+      "speaker": "アポロ",
+      "ja": "はい。気温は……まあ、40℃近くありますが",
+      "zh": ""
+    },
+    {
+      "key": "352.1",
+      "line_index": 352,
+      "inline_index": 1,
+      "line_hash": "664f62e8",
+      "speaker": "コハル",
+      "ja": "メチャクチャ暑いじゃないの！",
+      "zh": ""
+    },
+    {
+      "key": "354.1",
+      "line_index": 354,
+      "inline_index": 1,
+      "line_hash": "b16ca68d",
+      "speaker": "雫",
+      "ja": "20℃近い気温差ですか……リリアンの魔力を利用するにしても、厳しい物がありますね",
+      "zh": ""
+    },
+    {
+      "key": "356.1",
+      "line_index": 356,
+      "inline_index": 1,
+      "line_hash": "9129b980",
+      "speaker": "アポロ",
+      "ja": "近くに村もございます。村の近くや日陰であれば、少しはマシかと",
+      "zh": ""
+    },
+    {
+      "key": "358.1",
+      "line_index": 358,
+      "inline_index": 1,
+      "line_hash": "b854a73d",
+      "speaker": "コハル",
+      "ja": "そういうことなら……とりあえず、その村に行ってみる？",
+      "zh": ""
+    },
+    {
+      "key": "360.1",
+      "line_index": 360,
+      "inline_index": 1,
+      "line_hash": "2216bbae",
+      "speaker": "雫",
+      "ja": "そうしましょう。……ルミナ様、この環境ですからお待ちいただいたほうが……？",
+      "zh": ""
+    },
+    {
+      "key": "366.1",
+      "line_index": 366,
+      "inline_index": 1,
+      "line_hash": "a15774ba",
+      "speaker": "ルミナ",
+      "ja": "ううん、だいじょう、ぶ……頑張れる、よ……",
+      "zh": ""
+    },
+    {
+      "key": "368.1",
+      "line_index": 368,
+      "inline_index": 1,
+      "line_hash": "3f4429ca",
+      "speaker": "雫",
+      "ja": "……かしこまりました。では、向かうとしましょうか。その村とやらに",
+      "zh": ""
+    },
+    {
+      "key": "381.1",
+      "line_index": 381,
+      "inline_index": 1,
+      "line_hash": "9d760cd5",
+      "speaker": "コハル",
+      "ja": "すごーい……こんな見た目の村もあるのね",
+      "zh": ""
+    },
+    {
+      "key": "383.1",
+      "line_index": 383,
+      "inline_index": 1,
+      "line_hash": "6f3ed513",
+      "speaker": "雫",
+      "ja": "石造りでしょうか。酷暑の割に、活気のある村ですね",
+      "zh": ""
+    },
+    {
+      "key": "385.1",
+      "line_index": 385,
+      "inline_index": 1,
+      "line_hash": "3329bc45",
+      "speaker": "コハル",
+      "ja": "前の星とは真反対ね。本当に逆だったりして、常に昼とか",
+      "zh": ""
+    },
+    {
+      "key": "387.1",
+      "line_index": 387,
+      "inline_index": 1,
+      "line_hash": "616aab85",
+      "speaker": "ルミナ",
+      "ja": "白夜……かな……あり得る、かも……",
+      "zh": ""
+    },
+    {
+      "key": "389.0",
+      "line_index": 389,
+      "inline_index": 0,
+      "line_hash": "8593dbe5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ビャクヤ……？",
+      "zh": ""
+    },
+    {
+      "key": "391.1",
+      "line_index": 391,
+      "inline_index": 1,
+      "line_hash": "128cfa2",
+      "speaker": "ルミナ",
+      "ja": "……ずっと昼の、場所だよ……でも、街灯があるから……白夜があるとしても常に、じゃないのかも……",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "a574f618",
+      "speaker": "",
+      "ja": "ルミナがそう言いながら、額に浮かんだ汗を拭く。それを見て、雫が少し早めた口調で切り出した。",
+      "zh": ""
+    },
+    {
+      "key": "395.1",
+      "line_index": 395,
+      "inline_index": 1,
+      "line_hash": "8e6ebdfe",
+      "speaker": "雫",
+      "ja": "では、早速物資調達をしましょう。このような星、すぐに発つに越したことはありません。治安は悪く無さそうですし、手分けして終わらせましょう",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "da0bee98",
+      "speaker": "",
+      "ja": "いつもであれば冒険したいと騒ぐところではあるが、何せとにかく暑い。ルミナだけでなく、誰しも調子を崩すのではないかと心配を感じ、同調するように頷いた。",
+      "zh": ""
+    },
+    {
+      "key": "399.1",
+      "line_index": 399,
+      "inline_index": 1,
+      "line_hash": "bd3120b4",
+      "speaker": "ルミナ",
+      "ja": "わかった……みんな、気をつけて、ね……",
+      "zh": ""
+    },
+    {
+      "key": "401.1",
+      "line_index": 401,
+      "inline_index": 1,
+      "line_hash": "f69c4bed",
+      "speaker": "コハル",
+      "ja": "気分が悪くなったらはすぐに戻って休憩、無理はしないでね！　じゃ、３０分後にここで落ち合いましょ！",
+      "zh": ""
+    },
+    {
+      "key": "403.0",
+      "line_index": 403,
+      "inline_index": 0,
+      "line_hash": "3f3f58b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう！",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "4f337baf",
+      "speaker": "",
+      "ja": "１時間後……",
+      "zh": ""
+    },
+    {
+      "key": "418.1",
+      "line_index": 418,
+      "inline_index": 1,
+      "line_hash": "d7188e74",
+      "speaker": "ルミナ",
+      "ja": "……見つかった？",
+      "zh": ""
+    },
+    {
+      "key": "420.1",
+      "line_index": 420,
+      "inline_index": 1,
+      "line_hash": "39ca462",
+      "speaker": "コハル",
+      "ja": "ううん、私も全然。果物を絞ったジュースとかならあるんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "426.1",
+      "line_index": 426,
+      "inline_index": 1,
+      "line_hash": "23245367",
+      "speaker": "雫",
+      "ja": "戻りました。やはり……売っていませんね。水が",
+      "zh": ""
+    },
+    {
+      "key": "428.0",
+      "line_index": 428,
+      "inline_index": 0,
+      "line_hash": "80df2cc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……やっぱり貴重なのか、この星だと",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "93bf6779",
+      "speaker": "",
+      "ja": "あれから集合したが、必要な物資の中で、水だけは手に入れることが出来なかった。そもそも店に一切売っていないのだ。",
+      "zh": ""
+    },
+    {
+      "key": "432.1",
+      "line_index": 432,
+      "inline_index": 1,
+      "line_hash": "62081552",
+      "speaker": "コハル",
+      "ja": "人に聞いても、水について……って話そうとしただけで笑われたり、ヘンな顔してどっか行っちゃうし。……タブーなのかしら",
+      "zh": ""
+    },
+    {
+      "key": "434.1",
+      "line_index": 434,
+      "inline_index": 1,
+      "line_hash": "99064217",
+      "speaker": "ルミナ",
+      "ja": "……まだ見つかってないだけ、かも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "436.1",
+      "line_index": 436,
+      "inline_index": 1,
+      "line_hash": "d48bd306",
+      "speaker": "雫",
+      "ja": "水分補給は果汁や植物の絞り汁、体や物を洗うにも、水ではなく砂を利用しているようです。……何か理由があるのでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "438.0",
+      "line_index": 438,
+      "inline_index": 0,
+      "line_hash": "f8a664f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう、靴に砂が……",
+      "zh": ""
+    },
+    {
+      "key": "440.1",
+      "line_index": 440,
+      "inline_index": 1,
+      "line_hash": "461a7b5",
+      "speaker": "コハル",
+      "ja": "入っちゃうわよね……はあ、帰りは落とさないと……",
+      "zh": ""
+    },
+    {
+      "key": "442.1",
+      "line_index": 442,
+      "inline_index": 1,
+      "line_hash": "3a0e37d9",
+      "speaker": "雫",
+      "ja": "頼りないですね……私は広い範囲で店を回ってみますから、皆様はゆっくりと近場を回って、残りの物資を確保してください",
+      "zh": ""
+    },
+    {
+      "key": "444.1",
+      "line_index": 444,
+      "inline_index": 1,
+      "line_hash": "123e35d1",
+      "speaker": "ルミナ",
+      "ja": "あ、だったら……雫、ちょっと待って……",
+      "zh": ""
+    },
+    {
+      "key": "446.1",
+      "line_index": 446,
+      "inline_index": 1,
+      "line_hash": "9a3ae8e3",
+      "speaker": "雫",
+      "ja": "……？　ルミナ様……？",
+      "zh": ""
+    },
+    {
+      "key": "456.1",
+      "line_index": 456,
+      "inline_index": 1,
+      "line_hash": "84bab0",
+      "speaker": "雫",
+      "ja": "こ、この服は……？",
+      "zh": ""
+    },
+    {
+      "key": "460.1",
+      "line_index": 460,
+      "inline_index": 1,
+      "line_hash": "f64e98ae",
+      "speaker": "ルミナ",
+      "ja": "さっきね、そこのお店で……食べ物と服を交換したの",
+      "zh": ""
+    },
+    {
+      "key": "462.1",
+      "line_index": 462,
+      "inline_index": 1,
+      "line_hash": "4d76f519",
+      "speaker": "ルミナ",
+      "ja": "いっぱい動いたり、国を回るならここの服があったほうがいいかなって……前の星だと、服のせいで危険もあったから……",
+      "zh": ""
+    },
+    {
+      "key": "464.1",
+      "line_index": 464,
+      "inline_index": 1,
+      "line_hash": "3f089d22",
+      "speaker": "ルミナ",
+      "ja": "品切れで、雫のぶんしか……買えなかったけど……",
+      "zh": ""
+    },
+    {
+      "key": "466.1",
+      "line_index": 466,
+      "inline_index": 1,
+      "line_hash": "e5c92f9d",
+      "speaker": "雫",
+      "ja": "ル、ルミナ様……！　なんて賢く、お優しく、気高い……！",
+      "zh": ""
+    },
+    {
+      "key": "468.1",
+      "line_index": 468,
+      "inline_index": 1,
+      "line_hash": "2a7c0b99",
+      "speaker": "雫",
+      "ja": "必ずや、水を探して参りますッ！",
+      "zh": ""
+    },
+    {
+      "key": "475.0",
+      "line_index": 475,
+      "inline_index": 0,
+      "line_hash": "2d1054e",
+      "speaker": "{G_PlayerName}",
+      "ja": "うお、すごい速さだ……いつもの倍は速いんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "478.1",
+      "line_index": 478,
+      "inline_index": 1,
+      "line_hash": "75b76342",
+      "speaker": "コハル",
+      "ja": "雫に負けてられないわね。私達も、ちゃっちゃと残りの物探しましょ！",
+      "zh": ""
+    },
+    {
+      "key": "480.1",
+      "line_index": 480,
+      "inline_index": 1,
+      "line_hash": "8a89db5f",
+      "speaker": "ルミナ",
+      "ja": "水が見つからなかったら……まだ余裕はあるけど、そのうち大変になっちゃうから……他の星を探さないと、いけないかも……",
+      "zh": ""
+    },
+    {
+      "key": "491.1",
+      "line_index": 491,
+      "inline_index": 1,
+      "line_hash": "5c4a0ed3",
+      "speaker": "ルミナ",
+      "ja": "……きゃっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "493.1",
+      "line_index": 493,
+      "inline_index": 1,
+      "line_hash": "848c648c",
+      "speaker": "コハル",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "495.0",
+      "line_index": 495,
+      "inline_index": 0,
+      "line_hash": "64b14402",
+      "speaker": "",
+      "ja": "突如、建物の影から出てきた人影にぶつかる。",
+      "zh": ""
+    },
+    {
+      "key": "500.0",
+      "line_index": 500,
+      "inline_index": 0,
+      "line_hash": "ee7dd107",
+      "speaker": "",
+      "ja": "……襲われたのかと一瞬警戒したが、どうやら、ただぶつかっただけのようだ。",
+      "zh": ""
+    },
+    {
+      "key": "503.0",
+      "line_index": 503,
+      "inline_index": 0,
+      "line_hash": "8fe369f",
+      "speaker": "？？？",
+      "ja": "ご、ごめんね……！　ぶつかっちゃって……大丈夫だった？",
+      "zh": ""
+    },
+    {
+      "key": "505.1",
+      "line_index": 505,
+      "inline_index": 1,
+      "line_hash": "bda21c04",
+      "speaker": "ルミナ",
+      "ja": "う、ん……あなたは……？",
+      "zh": ""
+    }
+  ]
+}

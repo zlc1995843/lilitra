@@ -1,0 +1,751 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "5b82261b",
+      "speaker": "グリム",
+      "ja": "……ふふっ♥　それ、アタシにもくれる？　お姉ちゃん♪",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "21ac25bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（お姉ちゃん……ってことは、妹……？）",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "34b17d77",
+      "speaker": "",
+      "ja": "最初は驚いたが、家族ならここにいても問題ないのか、と思いルミナの方を見る。が……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "61328101",
+      "speaker": "ルミナ",
+      "ja": "どうやって……ここに、来たの……！？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "50d4cd45",
+      "speaker": "グリム",
+      "ja": "え～？　普通に来ただけだよ？　ふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "cb220490",
+      "speaker": "",
+      "ja": "……どうやら、招かれざる客らしい。",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "2c51c2a",
+      "speaker": "グリム",
+      "ja": "あーあ、いけないんだぁ、ルミナお姉ちゃん。お母様の言いつけ破って、こんなところで遊んでるなんてぇ♪　言ーっちゃお、言ーっちゃお♥",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "d50a326",
+      "speaker": "ルミナ",
+      "ja": "普通に入ってくれば……警報が鳴るはず……どうやって……！",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "4e3e8d33",
+      "speaker": "グリム",
+      "ja": "……ふふん♪",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "41b07a6c",
+      "speaker": "グリム",
+      "ja": "コレがルミナお姉ちゃんの、結婚相手ぇ？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "2fc5d0bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ…………",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "1275039c",
+      "speaker": "",
+      "ja": "ルミナの妹……グリムが顔を近づけ、こちらを訝しげに観察する。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "e3a52176",
+      "speaker": "グリム",
+      "ja": "あっはは、やだぁ～♪　こんなのと結婚するくらいなら、そのへんのネコちゃんと結婚したほうがマシじゃ～ん♥",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "c8758e76",
+      "speaker": "{G_PlayerName}",
+      "ja": "ネ、ネコ……！？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "1cecfb9b",
+      "speaker": "ルミナ",
+      "ja": "…………っ",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "9ae2996a",
+      "speaker": "アポロ",
+      "ja": "ご無事ですか、マスター！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "cd3d71c8",
+      "speaker": "グリム",
+      "ja": "あ、宇宙船AI？　今更来たの？　おっそ！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "47b471e1",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃん……！　雫達を呼んで！",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "d0aa2e08",
+      "speaker": "アポロ",
+      "ja": "既に呼んでおります。……内部の監視は減らしていましたが、外部からの侵入は間違いなく警戒していたはずです。なのになぜ……",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "eef30e3e",
+      "speaker": "グリム",
+      "ja": "え～？　ポンコツだからじゃない？　キャハハッ♥",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "99934f86",
+      "speaker": "アポロ",
+      "ja": "なっ……超高級、超高性能、超最新型のワタシに対して……！",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "e27c001",
+      "speaker": "グリム",
+      "ja": "は？　中古、低スペック、型落ちの間違いでしょ？　アタシの乗ってきた船のステルスも見破れないんだし♥",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "58f04e6",
+      "speaker": "アポロ",
+      "ja": "っ…………",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "2e3b4ec",
+      "speaker": "グリム",
+      "ja": "でも、そんな安物でもお母様からのプレゼントだもんね。アタシのはただの借り物だし～？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "c4965908",
+      "speaker": "グリム",
+      "ja": "いいな～、お姉ちゃんばっかり。ズルいな～？　お姉ちゃんばっかり。お母様から愛されちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "6d47a10c",
+      "speaker": "",
+      "ja": "グリムが、触れてしまいそうなほどルミナへと顔を寄せる。蛇に睨まれたようにルミナが震え、汗が落ちた。",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "b86c2a62",
+      "speaker": "ルミナ",
+      "ja": "わ、私……は……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "bf75b4b9",
+      "speaker": "雫",
+      "ja": "ルミナ様ッ！！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "bdf1d6c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫……！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "49cea2f9",
+      "speaker": "",
+      "ja": "雫が駆けつけ、ルミナを庇いグリムの前へと立ちはだかる。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "74404c38",
+      "speaker": "グリム",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "1706d932",
+      "speaker": "コハル",
+      "ja": "大丈夫！？　……何かよくわかんないけど！",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "47bebccd",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルも来てくれたのか！",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "ade28536",
+      "speaker": "コハル",
+      "ja": "な、なんかアポロが大至急植物園に来いって……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "9d6cd40b",
+      "speaker": "雫",
+      "ja": "下がりなさい！　……それ以上寄れば、第３王女様と言えども……！",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "74404c38",
+      "speaker": "グリム",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "982c801c",
+      "speaker": "グリム",
+      "ja": "うっふふ♪　誰にソレ、向けてるかわかってる？　まだな～にもしてない、お姉ちゃんに会いに来ただけの可愛い妹ちゃんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "7c40798b",
+      "speaker": "グリム",
+      "ja": "もしもアタシのやわらか～いほっぺに傷でもつけて、それをお母様に言いつけたらどうなるか……わからないほどバカじゃないでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "c4d6a57e",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "984ce936",
+      "speaker": "グリム",
+      "ja": "ほら、とっとと下ろせよ。ソレ",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "ceb26b5e",
+      "speaker": "雫",
+      "ja": "…………っ",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "a9787cde",
+      "speaker": "グリム",
+      "ja": "きゃははっ♥　そんな邪険にしないでよ～、ケンカしに来たわけじゃないんだからさ～♥",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "ff49952c",
+      "speaker": "コハル",
+      "ja": "（女王の座を争ってる……って聞いてはいたけど、ここまで剣呑だったなんて……！）",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "986eb251",
+      "speaker": "雫",
+      "ja": "……では、何をしに来られたのです",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "1f778806",
+      "speaker": "グリム",
+      "ja": "迎えに♥",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "8ca47ddf",
+      "speaker": "雫",
+      "ja": "……迎えに……？",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "db23dddb",
+      "speaker": "グリム",
+      "ja": "こんなオンボロに乗ってたら、お家に着くまですんごい時間かかっちゃうでしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "2f430904",
+      "speaker": "",
+      "ja": "ビッと、どこかから短いブザー音が鳴る。アポロの抗議だろうか……",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "3ce481f",
+      "speaker": "グリム",
+      "ja": "軍隊でも使ってる、アタシの借りた宇宙船に乗れば、すーぐ帰れちゃう♪　いい話でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "915ea1cf",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "655fcbd8",
+      "speaker": "ルミナ",
+      "ja": "……でも、グリム……",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "4f4f4c0",
+      "speaker": "グリム",
+      "ja": "あ、ソレの中に国宝入ってるんだっけ？　ソレも連れて帰ればいいんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "d983b3ba",
+      "speaker": "雫",
+      "ja": "！！　……なぜ、そこまで……！",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "6a1940cf",
+      "speaker": "グリム",
+      "ja": "お姉ちゃんがお部屋で見てた映像、録画されてたから見ちゃった～♪　うふっ、凄いことしてたね♥",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "88aeeca2",
+      "speaker": "雫",
+      "ja": "（……ルミナ様が無事女王になるには、この男から国宝を取り出し、誰にも発覚せぬまま何事も無かったことにすること）",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "47094c9e",
+      "speaker": "雫",
+      "ja": "（その事実を公表されるだけで、ルミナ様は……！）",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "e8eed8ca",
+      "speaker": "グリム",
+      "ja": "だいじょーぶ、録画は消しといたから",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "5667d605",
+      "speaker": "ルミナ",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "1dc8f5fb",
+      "speaker": "グリム",
+      "ja": "だって、グリムが独り占めしたほうが楽しいでしょ～？　そんな面白いコト！",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "e7704552",
+      "speaker": "グリム",
+      "ja": "ね、お姉ちゃん。グリムと一緒に帰ろうよ♥　いいでしょ～？　じゃないと……",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "7d67b449",
+      "speaker": "グリム",
+      "ja": "アタシ、拗ねちゃうかも……",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "65ee425f",
+      "speaker": "ルミナ",
+      "ja": "……………………",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "d3766e6d",
+      "speaker": "",
+      "ja": "逡巡するルミナ。こちらや雫の顔を見た後、考え込むように視線を下げた。",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "a6c5782d",
+      "speaker": "雫",
+      "ja": "……なりません",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "74404c38",
+      "speaker": "グリム",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "12668f",
+      "speaker": "雫",
+      "ja": "（どんなメリット、デメリットがあろうと『誘いに乗った結果秘密裏にルミナ様が殺されてしまう』リスクに比べれば些事。誘いには……乗るわけには行かない！）",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "d1effa3c",
+      "speaker": "グリム",
+      "ja": "……じゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "692a12fb",
+      "speaker": "",
+      "ja": "グリムが口を開けた途端、甲高い警告音が鳴り響く。",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "941201b4",
+      "speaker": "ルミナ",
+      "ja": "これ……って……！",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "d4a989e",
+      "speaker": "アポロ",
+      "ja": "侵入者です！　……外部から、短距離ワープで乗り込んでくる者が多数！",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "6148cf8b",
+      "speaker": "",
+      "ja": "植物園へと、何人もの人間が押し寄せる。あっという間に出入り口付近は封鎖され、包囲された。",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "51cb204e",
+      "speaker": "グリム",
+      "ja": "あれ～……来ちゃったんだ。親衛隊の皆",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "67bd6036",
+      "speaker": "雫",
+      "ja": "……最初からこの船を制圧するつもりだったのですか",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "5b258ab9",
+      "speaker": "グリム",
+      "ja": "わざとじゃないよ～！　だって、私ここには１人で来たんだもん。親衛隊さん達が、勝手に着いてきただ～け！",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "f856b1b6",
+      "speaker": "グリム",
+      "ja": "でも、ちょっと離れて着いてきてるなーって途中で気づいてたから～……",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "5c824117",
+      "speaker": "グリム",
+      "ja": "……こうなるって、ちょっと考えればわかったね。ごめ～ん♥　キャハハ♥",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "b8020ca",
+      "speaker": "",
+      "ja": "笑いながら、グリムが親衛隊の方へと歩き、囲まれるように姿を隠す。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "24541d97",
+      "speaker": "",
+      "ja": "それを合図にしたかのように、武器を構える親衛隊。こちらもそれぞれ、武器を構える。",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "b6d8b236",
+      "speaker": "ルミナ",
+      "ja": "……私も、戦わなきゃ……！",
+      "zh": ""
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "a7fb77d3",
+      "speaker": "雫",
+      "ja": "……！　ルミナ様……！　伏せていてください！",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "e4b3e93a",
+      "speaker": "ルミナ",
+      "ja": "嫌……！　ただの足手まといには、ならない……！",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "1f598a7d",
+      "speaker": "雫",
+      "ja": "…………かしこまりました。ですが、私から離れすぎないでください",
+      "zh": ""
+    },
+    {
+      "key": "301.1",
+      "line_index": 301,
+      "inline_index": 1,
+      "line_hash": "f0903f55",
+      "speaker": "ルミナ",
+      "ja": "うん…………！",
+      "zh": ""
+    }
+  ]
+}

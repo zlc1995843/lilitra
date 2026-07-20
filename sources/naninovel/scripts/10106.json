@@ -1,0 +1,1273 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "4a5736e1",
+      "speaker": "コハル",
+      "ja": "ここの扉は？　他よりちょっと扉が大きいけど……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "5f15c1f0",
+      "speaker": "アポロ",
+      "ja": "こちらは植物園です。マスターの故郷の植物、その他の惑星にある植物などを植えてある休憩室です。入りますか？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "cbdffa3f",
+      "speaker": "",
+      "ja": "コハルが期待に目を輝かせ、激しく何度も頷いた。",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "f5e6e9a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（公園みたいなものか……？）",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "33193305",
+      "speaker": "コハル",
+      "ja": "わああ……！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "7caf6d93",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、これすごいな……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "618a0a35",
+      "speaker": "",
+      "ja": "鼻に入ってくる、植物の香り。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5f9b25f7",
+      "speaker": "",
+      "ja": "当然知らない植物の匂いだが、それでも植物の匂いだとわかるあたり、星が違えど同じ物もあるらしい。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "a5a0970a",
+      "speaker": "アポロ",
+      "ja": "観葉に適した様々な植物、約80種をここで育成しています。現地環境を再現し、特別デリケートな種は小型ドームで囲っています",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "d41c4135",
+      "speaker": "{G_PlayerName}",
+      "ja": "光る植物なんてあるのか……！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "1a3b6965",
+      "speaker": "コハル",
+      "ja": "ちょ、蝶とかも飛んでるけど……！",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "ce52f2af",
+      "speaker": "アポロ",
+      "ja": "蝶に見える物は機械です。育成、剪定、植え替えなどあらゆる管理を行います",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "8239a719",
+      "speaker": "コハル",
+      "ja": "虫じゃないの！？　ええ……すごーい……！",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "b6bdb3ca",
+      "speaker": "アポロ",
+      "ja": "当機体は観光用宇宙航行機としてトップレベル、最高級の機体でございますから。この程度は当然でございます",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "33f7ee78",
+      "speaker": "",
+      "ja": "映像のアポロが、得意げに口角を上げる。褒められて喜んでいる……のだろうか。機械なのに……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "e98a0ebd",
+      "speaker": "コハル",
+      "ja": "あそこに果物みたいなのがあるけど、食べられるの？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "2b5735ca",
+      "speaker": "アポロ",
+      "ja": "食用の物もございます。適さない物もありますので、軽率に口に入れないようにご注意を",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "59211d88",
+      "speaker": "コハル",
+      "ja": "へえ……へえ～……！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "bfb4a0fc",
+      "speaker": "",
+      "ja": "コハルは感極まったように口に両手を当て、大きな木を見上げながら声を上げた。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "eb0ecadb",
+      "speaker": "コハル",
+      "ja": "私、生まれてから見た景色の中で、ここが一番綺麗だと思う！　来て良かった……！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "c31974a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに、どんな冒険者もこんなに綺麗な場所は見つけてないだろうな",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "e724b35",
+      "speaker": "アポロ",
+      "ja": "っ……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "c57bfa1f",
+      "speaker": "アポロ",
+      "ja": "案内を続けましょう。ここを出て右にお進みください",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "996c0d62",
+      "speaker": "コハル",
+      "ja": "え？　あ、もうここは終わりなの？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "d30cf455",
+      "speaker": "{G_PlayerName}",
+      "ja": "……照れたんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "44fea48d",
+      "speaker": "コハル",
+      "ja": "もうちょっと色々聞きたかったのに……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "cc77bef3",
+      "speaker": "{G_PlayerName}",
+      "ja": "またいつでも来れるだろ、多分。迷う前について行こう",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "ffec6cd2",
+      "speaker": "アポロ",
+      "ja": "最後の案内になりますが……ここがあなた達の自室となります",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "5f5432d9",
+      "speaker": "コハル",
+      "ja": "えっ！？　同室！？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "16a71700",
+      "speaker": "アポロ",
+      "ja": "……いいえ。隣ではありますが、別室です",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "fb45cc79",
+      "speaker": "コハル",
+      "ja": "な、な～んだ。びっくりした～",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "7e4af66f",
+      "speaker": "アポロ",
+      "ja": "先に{G_PlayerName}の部屋を案内します。構造はどちらも同じです",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "c01d8c00",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "aec3f00b",
+      "speaker": "",
+      "ja": "植物園で見たような小型の植物が入ったドーム。光る謎の機械に、細かなインテリアにベッド、テーブル。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "54d6a0f5",
+      "speaker": "",
+      "ja": "見たこともないデザインの家具や機械に少し気圧されたが、ここが暫く使う部屋になるなら慣れなければならないだろう。",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "797ac307",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここが俺の部屋なのか……！　ある物には触っても問題ないのか？",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "7d74c307",
+      "speaker": "アポロ",
+      "ja": "破壊されたりしては困りますが……そうでなければ自由にしていただいて問題ございません",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "c8e631",
+      "speaker": "コハル",
+      "ja": "こ、このちっちゃくて丸い水晶玉みたいなのって……？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "f27f32f9",
+      "speaker": "アポロ",
+      "ja": "室内の温度、湿度を調整する装置です。希望のボタンを押せばアロマを焚くことも可能です",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "5f05a974",
+      "speaker": "コハル",
+      "ja": "あ、あろま……？",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "51bfe9b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "温度って……この部屋全体を暖かくしたり、涼しくしたりできるってことか？",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "8e36f892",
+      "speaker": "コハル",
+      "ja": "部屋を涼しくって、まさかそんな魔法みたいなことこんな小さい物で出来るわけが……",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "c1fcd3d0",
+      "speaker": "アポロ",
+      "ja": "その認識で間違いございません",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "657958cc",
+      "speaker": "コハル",
+      "ja": "ええええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "b24605e9",
+      "speaker": "アポロ",
+      "ja": "当然、全部屋に完備している機能でございます",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "2d7a7ab3",
+      "speaker": "",
+      "ja": "植物園がある以上可能とわかっていたが、ここまで容易とは思っておらず、変な汗が背に浮かぶ。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "c3a4bb12",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、ええと……じゃあこっちの棚にあるコレは……",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "c9060b75",
+      "speaker": "アポロ",
+      "ja": "記憶補助装置です。自動で使用者の記憶を読み取り、想起しやすいように文章化して保存ができます",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "cb62e514",
+      "speaker": "コハル",
+      "ja": "ん……んん……？",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "ceeeaf52",
+      "speaker": "アポロ",
+      "ja": "下段の物は廃棄物圧縮装置です。不要なゴミなどを入れると約0.01%の体積に圧縮が可能です",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "f3de7243",
+      "speaker": "アポロ",
+      "ja": "間違えて廃棄した場合も復元が可能ですのでご心配無く",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "f3bf2c47",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "9c710ba8",
+      "speaker": "コハル",
+      "ja": "ゆっくり！　ゆっくり覚えていきましょう！",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "f7bf2665",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだな……",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "c3bed9e3",
+      "speaker": "アポロ",
+      "ja": "では、バスルームへ移動しましょう",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "2b4ea64d",
+      "speaker": "コハル",
+      "ja": "バスルームも個室についてるの？　共用かと思ってたけど……",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "acac0328",
+      "speaker": "コハル",
+      "ja": "うわあ……しかも大きい……これ全部お湯？",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "a0e9bf83",
+      "speaker": "アポロ",
+      "ja": "当然お湯です。端末を操作していただければ温度の調節が可能です",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "36326408",
+      "speaker": "{G_PlayerName}",
+      "ja": "端末ってのは……この四角いやつか？",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "fcb37a60",
+      "speaker": "アポロ",
+      "ja": "そちらもですが、鏡面にも操作機能がついています。シャワーの操作、消耗品の変更や補充なども行なえます",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "a2b573b4",
+      "speaker": "コハル",
+      "ja": "……火の魔法使いとか氷の魔法使いとか、錬金術師が小さくなって入ってるみたいな感じってことでいい？",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "49030fdc",
+      "speaker": "{G_PlayerName}",
+      "ja": "もうそれでいいんじゃないか……俺もクラクラしてきた……",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "4d13f7e2",
+      "speaker": "アポロ",
+      "ja": "……そこまで深く考えずとも、声で要求すれば自動操作も可能です。立っているだけで全ての洗浄を自動で行う機能もあります",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "7712034d",
+      "speaker": "コハル",
+      "ja": "これ、他の冒険者より凄い旅してるって言うか……王族より豪華な暮らしになったみたいな……",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "2e8159dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "！　これって……",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "f02f34db",
+      "speaker": "アポロ",
+      "ja": "緊急アラートです。すぐにラウンジへ移動をお願いします",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "c5e5a9c",
+      "speaker": "コハル",
+      "ja": "今度は何～！？",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "1e9c1d6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり、良いことばっかりじゃないな……",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "1a1c1349",
+      "speaker": "雫",
+      "ja": "ああ、来られましたか",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "5ee91d3b",
+      "speaker": "コハル",
+      "ja": "急いで来たけどどうしたの？　また宇宙生物？",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "eba28a5d",
+      "speaker": "雫",
+      "ja": "いえ、宇宙生物ではなく不審な宇宙船が近づいてきています",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "53710cc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙船が……！？",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "33fdbfc7",
+      "speaker": "コハル",
+      "ja": "そ、そんなこともあるの！？",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "91c9631",
+      "speaker": "雫",
+      "ja": "宇宙技術が発達した星から来たようですね。数が少ないので、偶然遭遇したとすれば奇跡的な確率ですが……まさかルミナ様を狙った者たちでは……",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "82a203e9",
+      "speaker": "アポロ",
+      "ja": "目標から通信。繋ぎますか？",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "8c52364e",
+      "speaker": "雫",
+      "ja": "……ええ。友好的な動きではないというだけで、襲ってくるとは限りませんから",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "ca9bd976",
+      "speaker": "",
+      "ja": "雫が許可すると、アポロが写っていた場所に外の様子……宇宙が映し出された。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "34453ba2",
+      "speaker": "？？？",
+      "ja": "……あー、あー。もうこれ繋がってるの？",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "dc313c6a",
+      "speaker": "？？？",
+      "ja": "あっ、繋がりましたよおやびん！",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "9f9d2bcb",
+      "speaker": "？？？",
+      "ja": "じゃ、せーの",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "ca6ce931",
+      "speaker": "三人組？",
+      "ja": "我らアイディル宇宙海賊団、参上！",
+      "zh": ""
+    },
+    {
+      "key": "322.1",
+      "line_index": 322,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "324.1",
+      "line_index": 324,
+      "inline_index": 1,
+      "line_hash": "f3bf2c47",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "326.1",
+      "line_index": 326,
+      "inline_index": 1,
+      "line_hash": "7471db94",
+      "speaker": "雫",
+      "ja": "は…………？",
+      "zh": ""
+    },
+    {
+      "key": "342.1",
+      "line_index": 342,
+      "inline_index": 1,
+      "line_hash": "21402cf5",
+      "speaker": "アイディル",
+      "ja": "アイディル宇宙海賊団の親分、アイディル！",
+      "zh": ""
+    },
+    {
+      "key": "344.1",
+      "line_index": 344,
+      "inline_index": 1,
+      "line_hash": "16568f54",
+      "speaker": "マロウ",
+      "ja": "したっぱ、マロウ！",
+      "zh": ""
+    },
+    {
+      "key": "346.1",
+      "line_index": 346,
+      "inline_index": 1,
+      "line_hash": "77fefa12",
+      "speaker": "モル",
+      "ja": "……裏方、モル",
+      "zh": ""
+    },
+    {
+      "key": "348.1",
+      "line_index": 348,
+      "inline_index": 1,
+      "line_hash": "9089db92",
+      "speaker": "アイディル",
+      "ja": "この広く美しい宇宙、ゴミみたいな奴らが多すぎるわ！",
+      "zh": ""
+    },
+    {
+      "key": "350.1",
+      "line_index": 350,
+      "inline_index": 1,
+      "line_hash": "622ec0bc",
+      "speaker": "アイディル",
+      "ja": "汚い金持ちを懲らしめて世直しする宇宙海賊団、それがアイディル宇宙海賊団よ！",
+      "zh": ""
+    },
+    {
+      "key": "356.1",
+      "line_index": 356,
+      "inline_index": 1,
+      "line_hash": "15145cba",
+      "speaker": "マロウ",
+      "ja": "ヒューヒュー！　おやびんかっこいー！　普段は宇宙のゴミ拾って換金してるけどかっこいー！",
+      "zh": ""
+    },
+    {
+      "key": "358.1",
+      "line_index": 358,
+      "inline_index": 1,
+      "line_hash": "318e5090",
+      "speaker": "アイディル",
+      "ja": "だっ、だまんなさい！　獲物がいないんじゃ仕方ないでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "8eff4b1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なんだこいつら……",
+      "zh": ""
+    },
+    {
+      "key": "374.1",
+      "line_index": 374,
+      "inline_index": 1,
+      "line_hash": "a5de1261",
+      "speaker": "雫",
+      "ja": "……漫才師でしょうか",
+      "zh": ""
+    },
+    {
+      "key": "376.1",
+      "line_index": 376,
+      "inline_index": 1,
+      "line_hash": "74caba6a",
+      "speaker": "コハル",
+      "ja": "え、宇宙海賊って言ってるから、宇宙にいる海賊なんでしょ？　私達の星にもいたけど違うの？",
+      "zh": ""
+    },
+    {
+      "key": "378.1",
+      "line_index": 378,
+      "inline_index": 1,
+      "line_hash": "4321ec",
+      "speaker": "雫",
+      "ja": "宇宙で海賊ごっこをすれば、ただの強盗です。……強いて言うなら、宙賊では？　格好も変ですし……コスチュームプレイでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "380.1",
+      "line_index": 380,
+      "inline_index": 1,
+      "line_hash": "59abed42",
+      "speaker": "コハル",
+      "ja": "ご、強盗？　……何はともあれ、襲ってくるんだったら迎え撃たなきゃ！",
+      "zh": ""
+    },
+    {
+      "key": "382.1",
+      "line_index": 382,
+      "inline_index": 1,
+      "line_hash": "7d87bb1d",
+      "speaker": "雫",
+      "ja": "仰る通りです。通信中も接近して来ているあたり、話が通じない連中のようですから……",
+      "zh": ""
+    },
+    {
+      "key": "384.1",
+      "line_index": 384,
+      "inline_index": 1,
+      "line_hash": "895e7f8c",
+      "speaker": "雫",
+      "ja": "……それに、どんなに間抜けな振る舞いをしていようと、ルミナ様を狙う者である可能性はあります。二度と近づかぬよう、体に刻みつけて差し上げませんと",
+      "zh": ""
+    },
+    {
+      "key": "397.1",
+      "line_index": 397,
+      "inline_index": 1,
+      "line_hash": "303d9bb6",
+      "speaker": "ルミナ",
+      "ja": "……私も、行く！",
+      "zh": ""
+    },
+    {
+      "key": "399.1",
+      "line_index": 399,
+      "inline_index": 1,
+      "line_hash": "8d4a25e1",
+      "speaker": "コハル",
+      "ja": "ルミナ！？",
+      "zh": ""
+    },
+    {
+      "key": "401.1",
+      "line_index": 401,
+      "inline_index": 1,
+      "line_hash": "2a1aa9b2",
+      "speaker": "ルミナ",
+      "ja": "任せてばっかりじゃ、いられない……私も、{G_PlayerName}くんを守る……！",
+      "zh": ""
+    },
+    {
+      "key": "403.1",
+      "line_index": 403,
+      "inline_index": 1,
+      "line_hash": "73d9e449",
+      "speaker": "雫",
+      "ja": "……なりません。万が一があればどうするのですか",
+      "zh": ""
+    },
+    {
+      "key": "405.1",
+      "line_index": 405,
+      "inline_index": 1,
+      "line_hash": "7a9ae9ce",
+      "speaker": "コハル",
+      "ja": "疲れてるんでしょ？　休んでたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "407.1",
+      "line_index": 407,
+      "inline_index": 1,
+      "line_hash": "832ffa11",
+      "speaker": "ルミナ",
+      "ja": "う……でも……",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "2f6674e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "……もしも船の中に入ってきたら、その時に戦ったらいいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "411.1",
+      "line_index": 411,
+      "inline_index": 1,
+      "line_hash": "448b58d6",
+      "speaker": "コハル",
+      "ja": "確かに、そういう万が一もあるよね",
+      "zh": ""
+    },
+    {
+      "key": "413.1",
+      "line_index": 413,
+      "inline_index": 1,
+      "line_hash": "1486a320",
+      "speaker": "ルミナ",
+      "ja": "……う、うん。じゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "1789b75e",
+      "speaker": "ルミナ",
+      "ja": "……き、気をつけて……ね",
+      "zh": ""
+    },
+    {
+      "key": "417.1",
+      "line_index": 417,
+      "inline_index": 1,
+      "line_hash": "4aa94725",
+      "speaker": "雫",
+      "ja": "有難きお言葉。では、コハルさん。行きましょう",
+      "zh": ""
+    },
+    {
+      "key": "419.1",
+      "line_index": 419,
+      "inline_index": 1,
+      "line_hash": "2a6d9c43",
+      "speaker": "コハル",
+      "ja": "あっ……う、うん",
+      "zh": ""
+    },
+    {
+      "key": "427.1",
+      "line_index": 427,
+      "inline_index": 1,
+      "line_hash": "2d34eced",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "435.0",
+      "line_index": 435,
+      "inline_index": 0,
+      "line_hash": "fbd2a752",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ここから外の様子って見れるのか？",
+      "zh": ""
+    },
+    {
+      "key": "437.1",
+      "line_index": 437,
+      "inline_index": 1,
+      "line_hash": "23673b46",
+      "speaker": "ルミナ",
+      "ja": "あ……うん。アポロに言えば見せてくれる、よ。",
+      "zh": ""
+    },
+    {
+      "key": "439.0",
+      "line_index": 439,
+      "inline_index": 0,
+      "line_hash": "85312093",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっか……やっぱ凄いな",
+      "zh": ""
+    },
+    {
+      "key": "441.1",
+      "line_index": 441,
+      "inline_index": 1,
+      "line_hash": "379dbcf1",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃん、外の様子を見せて",
+      "zh": ""
+    },
+    {
+      "key": "448.1",
+      "line_index": 448,
+      "inline_index": 1,
+      "line_hash": "4324afc9",
+      "speaker": "アポロ",
+      "ja": "かしこまりました、マスター",
+      "zh": ""
+    },
+    {
+      "key": "462.1",
+      "line_index": 462,
+      "inline_index": 1,
+      "line_hash": "8f1a9e30",
+      "speaker": "雫",
+      "ja": "問題ありませんか？",
+      "zh": ""
+    },
+    {
+      "key": "464.1",
+      "line_index": 464,
+      "inline_index": 1,
+      "line_hash": "a2803abb",
+      "speaker": "コハル",
+      "ja": "う、うん。さっきよりは慣れてきたかも……",
+      "zh": ""
+    },
+    {
+      "key": "466.0",
+      "line_index": 466,
+      "inline_index": 0,
+      "line_hash": "97b68062",
+      "speaker": "",
+      "ja": "宇宙空間に出た瞬間、先にある別の宇宙船から先程見た３人の人影が寄ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "473.1",
+      "line_index": 473,
+      "inline_index": 1,
+      "line_hash": "b1f55297",
+      "speaker": "アイディル",
+      "ja": "よく出てきたわね！　思ってたよりは度胸あるんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "475.1",
+      "line_index": 475,
+      "inline_index": 1,
+      "line_hash": "cfff1ec",
+      "speaker": "コハル",
+      "ja": "さっきの自称海賊……！",
+      "zh": ""
+    },
+    {
+      "key": "477.1",
+      "line_index": 477,
+      "inline_index": 1,
+      "line_hash": "1e13f7d0",
+      "speaker": "アイディル",
+      "ja": "『自称』は余計よ！",
+      "zh": ""
+    },
+    {
+      "key": "485.1",
+      "line_index": 485,
+      "inline_index": 1,
+      "line_hash": "57c2a456",
+      "speaker": "マロウ",
+      "ja": "出てくる前に撃っちゃえばよかったんじゃないっすか？　金目のモンなら、残骸集めりゃいいっすから……",
+      "zh": ""
+    },
+    {
+      "key": "487.1",
+      "line_index": 487,
+      "inline_index": 1,
+      "line_hash": "c2d0e08b",
+      "speaker": "アイディル",
+      "ja": "そんなことしたらデリケートなお宝が壊れるかも知れないし、コイツらが死んじゃうかも知れないでしょうが！",
+      "zh": ""
+    },
+    {
+      "key": "489.1",
+      "line_index": 489,
+      "inline_index": 1,
+      "line_hash": "888ffc7e",
+      "speaker": "マロウ",
+      "ja": "もー、海賊が死人とか気にしちゃダメっすよおやびん！",
+      "zh": ""
+    },
+    {
+      "key": "491.1",
+      "line_index": 491,
+      "inline_index": 1,
+      "line_hash": "bf74c35",
+      "speaker": "雫",
+      "ja": "（迎え撃つ兵装はなくとも、障壁くらいはあるのですがね……）",
+      "zh": ""
+    },
+    {
+      "key": "493.1",
+      "line_index": 493,
+      "inline_index": 1,
+      "line_hash": "1ad8f87f",
+      "speaker": "雫",
+      "ja": "無駄話はそこまでです。どんな愉快な芸人であろうと、ルミナ様に近づく脅威は全て排除します",
+      "zh": ""
+    },
+    {
+      "key": "495.1",
+      "line_index": 495,
+      "inline_index": 1,
+      "line_hash": "6380d949",
+      "speaker": "アイディル",
+      "ja": "誰が芸人よ！　……でも話が早いわね！　白兵戦であたし達に勝てると思うんじゃないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "503.1",
+      "line_index": 503,
+      "inline_index": 1,
+      "line_hash": "5ceca537",
+      "speaker": "コハル",
+      "ja": "そ、その前に！　あんた達、襲うのやめる気はないの！？",
+      "zh": ""
+    },
+    {
+      "key": "505.1",
+      "line_index": 505,
+      "inline_index": 1,
+      "line_hash": "da2fcc97",
+      "speaker": "アイディル",
+      "ja": "あ～ん？",
+      "zh": ""
+    },
+    {
+      "key": "507.1",
+      "line_index": 507,
+      "inline_index": 1,
+      "line_hash": "3eda96f2",
+      "speaker": "コハル",
+      "ja": "汚い金持ちとか言ってたけど、そんなんじゃないわよ私達は！",
+      "zh": ""
+    },
+    {
+      "key": "509.1",
+      "line_index": 509,
+      "inline_index": 1,
+      "line_hash": "a3794076",
+      "speaker": "アイディル",
+      "ja": "ははっ、汚い金持ちはみんなそう言うのよ！　ぶんどってから考えて、あんまり可哀想だったら奪ったモンを返してもいいわ！",
+      "zh": ""
+    },
+    {
+      "key": "511.1",
+      "line_index": 511,
+      "inline_index": 1,
+      "line_hash": "a9e2b6f0",
+      "speaker": "マロウ",
+      "ja": "うわっ！　あのメイドが持ってる武器、最新式の光学兵器じゃないっすか！？　クソお高いやつっす！",
+      "zh": ""
+    },
+    {
+      "key": "513.1",
+      "line_index": 513,
+      "inline_index": 1,
+      "line_hash": "13222985",
+      "speaker": "アイディル",
+      "ja": "ははーん、ぶんどるチャンスだね！　……あっちのピンクのやつは随分原始的だけど",
+      "zh": ""
+    },
+    {
+      "key": "515.1",
+      "line_index": 515,
+      "inline_index": 1,
+      "line_hash": "bcb28ac3",
+      "speaker": "コハル",
+      "ja": "げ、原始的で悪かったわねーっ！　あんたたち、覚悟しなさいよ！",
+      "zh": ""
+    },
+    {
+      "key": "524.1",
+      "line_index": 524,
+      "inline_index": 1,
+      "line_hash": "60df04a8",
+      "speaker": "モル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "531.1",
+      "line_index": 531,
+      "inline_index": 1,
+      "line_hash": "1e3bd6de",
+      "speaker": "マロウ",
+      "ja": "……モル、起きてるっすか？",
+      "zh": ""
+    },
+    {
+      "key": "533.1",
+      "line_index": 533,
+      "inline_index": 1,
+      "line_hash": "75b5f3ee",
+      "speaker": "モル",
+      "ja": "うす。起きてます",
+      "zh": ""
+    },
+    {
+      "key": "535.1",
+      "line_index": 535,
+      "inline_index": 1,
+      "line_hash": "94d8735b",
+      "speaker": "マロウ",
+      "ja": "いつもの事とは言え……久しぶりのエモノっすよ？　もうちょい気合とか～……",
+      "zh": ""
+    },
+    {
+      "key": "537.1",
+      "line_index": 537,
+      "inline_index": 1,
+      "line_hash": "43f32658",
+      "speaker": "モル",
+      "ja": "うす。気合十分です。頑張ります",
+      "zh": ""
+    },
+    {
+      "key": "539.1",
+      "line_index": 539,
+      "inline_index": 1,
+      "line_hash": "4838f4fc",
+      "speaker": "マロウ",
+      "ja": "……まあ、いっか……",
+      "zh": ""
+    }
+  ]
+}

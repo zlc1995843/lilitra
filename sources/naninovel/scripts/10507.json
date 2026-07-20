@@ -1,0 +1,886 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "546d84fb",
+      "speaker": "コハル",
+      "ja": "……あづーい……これなら夜のうちに動いたほうが良かったんじゃないの？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "b2635d5b",
+      "speaker": "雫",
+      "ja": "夜間用の装備は無いので仕方がございません",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "b8fce24b",
+      "speaker": "ライラ",
+      "ja": "それに夜は視界が悪いし、危険なモンスターが増えるからね～！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "aa430892",
+      "speaker": "コハル",
+      "ja": "そっかー……日焼け対策ポーションとか売れそうね、この環境",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "3d13983c",
+      "speaker": "パセリ",
+      "ja": "日射の火傷を軽減する、という名目であれば多いですが美容目的は少ないですわね～……狙い目かも知れませんわ！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "52b712c9",
+      "speaker": "コハル",
+      "ja": "もし売れたら、広告アイデア料として……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "f38cb750",
+      "speaker": "雫",
+      "ja": "話はそこまでにして、先を急ぎましょう。水脈……ではなく占術で、新しい道筋が出たのですから",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "ab6f9479",
+      "speaker": "コハル",
+      "ja": "はーい！",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "863ed7d5",
+      "speaker": "パセリ",
+      "ja": "占術とは、また古風な方法を取ってらっしゃるのですねぇ……",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "1edbc327",
+      "speaker": "コハル",
+      "ja": "（{G_PlayerName}……本当に大丈夫よね？）",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "2649ec17",
+      "speaker": "コハル",
+      "ja": "（心配しても何の意味も無いことはわかってるけど……何事もありませんように……）",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "dcf823e9",
+      "speaker": "ルミナ",
+      "ja": "ふー……よい、しょ……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "20be0674",
+      "speaker": "ライラ",
+      "ja": "ルミナちゃん、大丈夫？　結構もう歩いてるから、そろそろ休憩を挟んだほうがいいんじゃないかなーって思うんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "87654",
+      "speaker": "ルミナ",
+      "ja": "だい、じょうぶ。昨日より慣れたから……他に休憩したい人がいれば、で、いいよ……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "30ce7e68",
+      "speaker": "ライラ",
+      "ja": "そう？　じゃあ、もうちょっと後にしましょうか！",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "e76cf598",
+      "speaker": "雫",
+      "ja": "（無理をなさっている……わけではなさそうですね。確かに息も上がっていませんし、足も震えておられません）",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "cb16370e",
+      "speaker": "雫",
+      "ja": "（本来であれば、身体能力も並のリリアン以上であられるはず……偏った勉学や訓練で弱った体が、少しずつ本来の力を取り戻されているのかも……）",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "93cb5331",
+      "speaker": "ルミナ",
+      "ja": "雫？　……雫は体調、大丈夫……？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "ada3cc95",
+      "speaker": "雫",
+      "ja": "ルミナ様っ！　ええ、服をいただいたおかげで絶好調でございますわっ！　あと１０００キロは余裕でございます！",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "6d190960",
+      "speaker": "ルミナ",
+      "ja": "そ、そう……？　元気なら、良かった……",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "5633b4aa",
+      "speaker": "雫",
+      "ja": "……占術の結果が出ました。若干北方向に進路を変更します",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "c3d7a5dd",
+      "speaker": "コハル",
+      "ja": "（あれから結構歩いたけれど……オアシスなんて影も形も見えないわね）",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "d6e0d2b3",
+      "speaker": "パセリ",
+      "ja": "ふんふふーん♪　ふんふん♪",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "1af0bdf8",
+      "speaker": "コハル",
+      "ja": "……パセリさん、余裕そうですね？　やっぱり歩き慣れてるからですか？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "ee63dc55",
+      "speaker": "パセリ",
+      "ja": "砂漠の商人ですから、当然ですわ♪　……ラクダ車は一緒にいた他の商人に渡してしまいましたが、リリアンですからやろうと思えば徒歩で商売も可能ですのよ",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "ae5a9b53",
+      "speaker": "コハル",
+      "ja": "そうなんですね！　……でも、こんなに着いてきてもらっちゃっていいんですか？",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "d5208699",
+      "speaker": "パセリ",
+      "ja": "勿論構いませんことよ！　だって、後日かかった時間に応じた同行料も請求いたしますもの♪",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "2bc2edaf",
+      "speaker": "コハル",
+      "ja": "えっ？　そ、そうなんですか？",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "85362006",
+      "speaker": "パセリ",
+      "ja": "ええ、勿論です♪　なので、ゆ～っくり探していただいて構いませんわ♪　うふふ♪",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "f61ee0c3",
+      "speaker": "コハル",
+      "ja": "（だ、大丈夫なのかしらライラ……王女とは言え、お金が使い放題ってワケじゃないんじゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "6ea85dd2",
+      "speaker": "パセリ",
+      "ja": "……！　皆さん、止まってください！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "8154ecb1",
+      "speaker": "コハル",
+      "ja": "どうかしたんですか？　まさか、モンスター？　砂賊？",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "9006e6db",
+      "speaker": "パセリ",
+      "ja": "こ、これは……遅かったかも……知れませんわね",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "6f514b10",
+      "speaker": "コハル",
+      "ja": "あ……足元の砂が、動いて！？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "411d8b6c",
+      "speaker": "雫",
+      "ja": "流砂……？　また、サンドワームですか！？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "f83a64e2",
+      "speaker": "ルミナ",
+      "ja": "で、でもこれ……昨日よりも、ずっと大きい……！",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "3fa83213",
+      "speaker": "ライラ",
+      "ja": "……本で読んだこと、あるかも……夜との気温差とか……何かが原因で谷の近くに固まった砂が、人が踏むことで崩れ始める流砂があるって！",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "61cbd79c",
+      "speaker": "雫",
+      "ja": "谷！？　い、いけません！　早く戻らなくては……！",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "ff44c29a",
+      "speaker": "ライラ",
+      "ja": "だ、駄目。規模が、大きすぎる……！",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "75c97ff",
+      "speaker": "ルミナ",
+      "ja": "足場が、もう……！",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "c7478f6",
+      "speaker": "",
+      "ja": "後ろを振り返ると、背丈以上はあった岩……100メートル以上は離れた岩が、半分以上砂に埋もれている。",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "dc4ebaca",
+      "speaker": "ルミナ",
+      "ja": "（これじゃあ……能力で一時的に何かを止めても、意味が……）",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "b7a3daa7",
+      "speaker": "",
+      "ja": "堰を切ったように、砂の流れが強くなる。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "9f508b80",
+      "speaker": "",
+      "ja": "全身を襲う浮遊感に叫びを上げる間も無いまま、砂に揉まれるように押し流されてしまった……",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "c12dea6e",
+      "speaker": "ルミナ",
+      "ja": "う……うう……",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "7e3f4c39",
+      "speaker": "",
+      "ja": "手足が砂に埋もれているのを感じ、動かそうとする。",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "968f1f9f",
+      "speaker": "",
+      "ja": "砂の重さに抵抗を受けながらも、少しずつ体が地上へ抜け出ていく感触があった。",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "bfb066ed",
+      "speaker": "ルミナ",
+      "ja": "（い……生きて、る……？　呼吸も、出来る……）",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "b6567494",
+      "speaker": "雫の声",
+      "ja": "ルミナ様！　ご無事ですか！？",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "2039cb68",
+      "speaker": "ルミナ",
+      "ja": "しず、く……",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "6ba9c9c4",
+      "speaker": "雫の声",
+      "ja": "お待ち下さい、すぐにお助けいたします……！",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "fd8d5b0a",
+      "speaker": "ルミナ",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "ec717d19",
+      "speaker": "ルミナ",
+      "ja": "雫、ありがとう。ここって……！",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "a0c9d0c1",
+      "speaker": "雫",
+      "ja": "はい。辿り着きました。そして、どうやら……伝説のオアシス、というのも事実だったようです",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "388f11aa",
+      "speaker": "パセリ",
+      "ja": "キャホーー！　水、水ですわ～！　大儲け、間違い無しでしてよーー！！",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "c038f64c",
+      "speaker": "パセリ",
+      "ja": "窪地で流砂が出来やすい地形なせいで、人が近づかないから今まで気付かれていなかったのですね……！　これだけあれば……うふふふふ！",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "ba945e61",
+      "speaker": "ライラ",
+      "ja": "戦争を止めるには十分、よね！",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "d49dbf2a",
+      "speaker": "パセリ",
+      "ja": "あっ、そうでございますね、はい……！",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "b5633783",
+      "speaker": "ライラ",
+      "ja": "見て回ったけど、水が湧き出る深い割れ目がいくつもあって、見た目よりず～っと水が多いかも……！　流石、伝説のオアシス！",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "ccf92f57",
+      "speaker": "ルミナ",
+      "ja": "オアシス……見つかって、良かったね……！　ライラちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "623e64a7",
+      "speaker": "ライラ",
+      "ja": "うん……！　これで、戦争も……",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "d71076",
+      "speaker": "ゼミア",
+      "ja": "全員動くな",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "5f12f6e2",
+      "speaker": "ライラ",
+      "ja": "っ……！　うっ……",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "d476c392",
+      "speaker": "ルミナ",
+      "ja": "ライラちゃん！",
+      "zh": ""
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "9fcf63bc",
+      "speaker": "",
+      "ja": "ライラの首筋に、ゼミアの銀色に光るシミターの刀身が押し当てられる。一体どこに隠れていたのか、砂賊に一帯を囲まれていた。",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "438bffed",
+      "speaker": "ライラ",
+      "ja": "……砂の、中から……！？",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "75b274ef",
+      "speaker": "ゼミア",
+      "ja": "ふん……流石に勘付いたか。砂を操作すれば、短い距離を隠れながら移動する程度は容易い",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "cf5236df",
+      "speaker": "",
+      "ja": "砂の上での異常な移動速度の速さ、雫を圧倒する戦闘技術もこれで説明がつく。……しかし、今はそんな事を考えている暇は無い。",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "25001758",
+      "speaker": "ゼミア",
+      "ja": "お前ら、王女と……この男の命が惜しいなら、このオアシスは諦めろ",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "aad9d3db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "7a69f88c",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……！",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "9d5497d4",
+      "speaker": "",
+      "ja": "砂の中から、拘束された{G_PlayerName}が引きずり出される。近くにいた砂賊が、腰に下げたシミターを抜刀した。",
+      "zh": ""
+    },
+    {
+      "key": "308.1",
+      "line_index": 308,
+      "inline_index": 1,
+      "line_hash": "210d1830",
+      "speaker": "ゼミア",
+      "ja": "もっとも……オアシスを諦めたところで、国に帰すのは革命が終わった後だがな",
+      "zh": ""
+    },
+    {
+      "key": "321.1",
+      "line_index": 321,
+      "inline_index": 1,
+      "line_hash": "e9e1f79",
+      "speaker": "コハル",
+      "ja": "ど、どうしようどうしよう……！　このままじゃ……！",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "1f5eb642",
+      "speaker": "パセリ",
+      "ja": "うーん、身代金でなんとか……いや、このオアシスの情報を考えると、とんでもない額に……",
+      "zh": ""
+    },
+    {
+      "key": "325.1",
+      "line_index": 325,
+      "inline_index": 1,
+      "line_hash": "c31ce960",
+      "speaker": "雫",
+      "ja": "……畏れ多いですが。心配せずとも、恐らくこの状況であれば……",
+      "zh": ""
+    },
+    {
+      "key": "327.1",
+      "line_index": 327,
+      "inline_index": 1,
+      "line_hash": "47789bf",
+      "speaker": "コハル",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "339.1",
+      "line_index": 339,
+      "inline_index": 1,
+      "line_hash": "42ae4883",
+      "speaker": "ライラ",
+      "ja": "あなた達のような賊に……っ、このオアシスを渡したら、また多くの血が流れるだけじゃない……！",
+      "zh": ""
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "2be5c452",
+      "speaker": "ゼミア",
+      "ja": "砂漠を救うための血であれば歓迎だ。世間知らずの王女様より、よっぽど上手く使ってやるさ",
+      "zh": ""
+    },
+    {
+      "key": "343.1",
+      "line_index": 343,
+      "inline_index": 1,
+      "line_hash": "db041835",
+      "speaker": "ゼミア",
+      "ja": "お前の国が何をしているのか、よく知っているぞ。……戦争をさらに激化する薪になるのが目に見えている！",
+      "zh": ""
+    },
+    {
+      "key": "345.1",
+      "line_index": 345,
+      "inline_index": 1,
+      "line_hash": "40191c4b",
+      "speaker": "ライラ",
+      "ja": "っ……！",
+      "zh": ""
+    },
+    {
+      "key": "348.1",
+      "line_index": 348,
+      "inline_index": 1,
+      "line_hash": "8fe705bd",
+      "speaker": "ゼミア",
+      "ja": "…………っ！？",
+      "zh": ""
+    },
+    {
+      "key": "350.1",
+      "line_index": 350,
+      "inline_index": 1,
+      "line_hash": "8575820",
+      "speaker": "ゼミア",
+      "ja": "（シミターが、動かない……！？）",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "5e2f15fd",
+      "speaker": "ルミナ",
+      "ja": "今、だよ……！　逃げて！",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "54f152be",
+      "speaker": "ライラ",
+      "ja": "ルミナちゃん……！？",
+      "zh": ""
+    },
+    {
+      "key": "366.1",
+      "line_index": 366,
+      "inline_index": 1,
+      "line_hash": "8dbdb306",
+      "speaker": "ゼミア",
+      "ja": "ぐっ……！　一体、何が！",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "120cd43f",
+      "speaker": "砂賊",
+      "ja": "な、なんだ！？　何で動かない！？",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "45792c7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ぐっ、逃げたいのに、拘束が……！）",
+      "zh": ""
+    },
+    {
+      "key": "384.1",
+      "line_index": 384,
+      "inline_index": 1,
+      "line_hash": "6a306464",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}！　たあっ！",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "e1f720e",
+      "speaker": "砂賊",
+      "ja": "ぐあっ！",
+      "zh": ""
+    },
+    {
+      "key": "399.0",
+      "line_index": 399,
+      "inline_index": 0,
+      "line_hash": "96177cc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル！",
+      "zh": ""
+    },
+    {
+      "key": "401.1",
+      "line_index": 401,
+      "inline_index": 1,
+      "line_hash": "c479d7a1",
+      "speaker": "コハル",
+      "ja": "話は後！　今はとにかく、砂賊から離れないと！",
+      "zh": ""
+    },
+    {
+      "key": "411.1",
+      "line_index": 411,
+      "inline_index": 1,
+      "line_hash": "fac41d1a",
+      "speaker": "ゼミア",
+      "ja": "……くそっ、舐めるな！",
+      "zh": ""
+    },
+    {
+      "key": "426.1",
+      "line_index": 426,
+      "inline_index": 1,
+      "line_hash": "c8d913a4",
+      "speaker": "ゼミア",
+      "ja": "……お前の仕業だな？　よくもふざけた真似を……",
+      "zh": ""
+    },
+    {
+      "key": "433.1",
+      "line_index": 433,
+      "inline_index": 1,
+      "line_hash": "a11a9b2d",
+      "speaker": "ルミナ",
+      "ja": "（……不規則に動いてないなら、体や武器の周囲の光を私の能力で固めて……動きを止められる。でも……力が強いリリアンは、抑えきれない！）",
+      "zh": ""
+    },
+    {
+      "key": "436.1",
+      "line_index": 436,
+      "inline_index": 1,
+      "line_hash": "3c0aa5",
+      "speaker": "ゼミア",
+      "ja": "この砂漠を救うのは、我々砂賊だ！　思い上がった愚かな王族に、このオアシスを渡してたまるものか！",
+      "zh": ""
+    },
+    {
+      "key": "443.1",
+      "line_index": 443,
+      "inline_index": 1,
+      "line_hash": "54e6a62d",
+      "speaker": "雫",
+      "ja": "ルミナ様！　……先ほどはお手を煩わせて申し訳ございません。後はわたくしが……！",
+      "zh": ""
+    },
+    {
+      "key": "445.1",
+      "line_index": 445,
+      "inline_index": 1,
+      "line_hash": "7a184ec1",
+      "speaker": "ルミナ",
+      "ja": "ううん、雫。一緒に、戦うよ……！",
+      "zh": ""
+    }
+  ]
+}

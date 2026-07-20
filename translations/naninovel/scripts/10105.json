@@ -1,0 +1,931 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "d599103f",
+      "speaker": "雫",
+      "ja": "ふ……っ！",
+      "zh": "呼……！"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "de428fcd",
+      "speaker": "",
+      "ja": "どういう仕掛けかよくわからないけど、雫が手を振ると緑の光が走って、これまたよくわからない生き物を切り裂いた。",
+      "zh": "不知道是什么原理，雪一挥手，一道绿光闪过，就把那只看不清楚是什么的生物切开了。"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "7c40b2c8",
+      "speaker": "",
+      "ja": "まるでダンスでもしているかのように、空中で一回転したり、軽やかに跳躍しながら鮮やかに片付けていく。",
+      "zh": "简直就像在跳舞，在空中转了一圈，又轻巧地跳来跳去，干脆利落地把它们搞定了。"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "e9faf386",
+      "speaker": "",
+      "ja": "のだけれど、私は……",
+      "zh": "不过，我……"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "56afaaba",
+      "speaker": "コハル",
+      "ja": "とりゃっ！",
+      "zh": "嘿呀！"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "ff06cda3",
+      "speaker": "コハル",
+      "ja": "あ、あれ～～っ！？",
+      "zh": "啊，那个那个……！？"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "6c0edfc6",
+      "speaker": "",
+      "ja": "杖を振れば、引っ張られて体ごと明後日のほうへ。焦ってもがけば、体がコマのように回りだす。",
+      "zh": "一挥杖，身体就被拉着往那个方向去。一着急挣扎，身体就像陀螺一样转了起来。"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "ebee2842",
+      "speaker": "",
+      "ja": "結局、私が倒せた宇宙の生き物は１体だけ。残りはぜ～んぶ、雫がやっつけたり追い払ってしまった。",
+      "zh": "结果，我打到的宇宙生物只有一只。剩下的全都被雪干掉或者赶走了。"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "eb5af7a5",
+      "speaker": "雫",
+      "ja": "……大丈夫ですか",
+      "zh": "……你还好吗？"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "b649bbd6",
+      "speaker": "コハル",
+      "ja": "うぐっ",
+      "zh": "呜……"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "8853e981",
+      "speaker": "",
+      "ja": "回転してる私の胴を、雫がひっつかんで止める。頭も目もクラクラして、全く視点が定まらない。",
+      "zh": "雪一把抓住我乱转的手脚，让我停了下来。我头晕眼花，视线完全没法对焦。"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "7d808f29",
+      "speaker": "コハル",
+      "ja": "ご、ごめん……うまく手伝えなくって……",
+      "zh": "对、对不起……我没帮上什么忙……"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "316f530f",
+      "speaker": "雫",
+      "ja": "問題ございません。働きに期待していたのではなく、外での活動に慣れていただく目的でしたので",
+      "zh": "没关系。本来就不是指望你干活，是想让你习惯在外面活动。"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "5b142571",
+      "speaker": "コハル",
+      "ja": "そうなの？　……えっと、気になってたんだけど……",
+      "zh": "是这样吗？……呃，我一直有点在意……"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "54946f78",
+      "speaker": "雫",
+      "ja": "はい、どうぞ",
+      "zh": "嗯，请说吧。"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "fc6af628",
+      "speaker": "コハル",
+      "ja": "なんだったの、今の生き物！？　見たことないし……そもそも、生き物なの！？",
+      "zh": "刚才那个到底是什么东西！？见都没见过……而且，那真的是活的吗！？"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "32b6c2bd",
+      "speaker": "雫",
+      "ja": "まだ解明し切れていない部分は多いですが……大抵は、未開惑星から飛んでくる生物です",
+      "zh": "虽然还有很多没解释清楚的地方……主要敌人是那些从未开发行星飞来的生物。"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "e89c6289",
+      "speaker": "雫",
+      "ja": "酸素などが無い、この宇宙空間のほうが生きる環境として適している生物もいます",
+      "zh": "有些生物反而更适合没有氧气的宇宙空间环境。"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "ccbef7ac",
+      "speaker": "コハル",
+      "ja": "そ、想像出来ない……本当にいるの？　そんな生き物……",
+      "zh": "想、想象不出来……真有那种生物吗？……"
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "3bd7a0b1",
+      "speaker": "雫",
+      "ja": "今実際に見たではありませんか。では船内に戻りましょう",
+      "zh": "刚刚不是亲眼看到了吗。那么，我们回船上吧。"
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "1feb7c47",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": "……"
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "179a085",
+      "speaker": "雫",
+      "ja": "……？　どうかなさいましたか？",
+      "zh": "……？您有什么事吗？"
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "d84c92fe",
+      "speaker": "コハル",
+      "ja": "いや、その……落ち着いてきたら、景色が綺麗だなーって……",
+      "zh": "不，那个……等我冷静下来，才发现景色好美啊……"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "……"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "6971b941",
+      "speaker": "コハル",
+      "ja": "あっ！　あそこの星、赤い！　……あれってなんで赤いの？",
+      "zh": "啊！那边那颗星星，是红色的！……它为什么是红的？"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "ae014bf3",
+      "speaker": "雫",
+      "ja": "さあ……何ででしょうね……",
+      "zh": "唔……这倒是个问题……"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "f5c62ec2",
+      "speaker": "コハル",
+      "ja": "星いっぱいにリンゴが生えてるとか？",
+      "zh": "难道那颗星上长满了苹果？"
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "1730bd05",
+      "speaker": "雫",
+      "ja": "……おバカ可愛い！！！",
+      "zh": "……你这傻乎乎的真可爱！！！"
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "4b5afa27",
+      "speaker": "コハル",
+      "ja": "うわびっくりした！　何！？",
+      "zh": "哇，吓死我了！什么鬼！？"
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "8df06b16",
+      "speaker": "雫",
+      "ja": "ハッ！　声に出てしまっ……なんでもございません",
+      "zh": "啊！不小心说出来了……没什么。"
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "51fbc799",
+      "speaker": "コハル",
+      "ja": "いやなんでもないワケないでしょ！？",
+      "zh": "不不不，怎么可能没什么！？"
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "56f88a8e",
+      "speaker": "雫",
+      "ja": "……お恥ずかしながら、わたくしリリアンでありながら、他のリリアンを見ると庇護欲が掻き立てられてしまい……",
+      "zh": "……说来惭愧，我明明也是莉安，可一看到其他莉安，保护欲就忍不住冒出来……"
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "710deae7",
+      "speaker": "雫",
+      "ja": "不覚にも抱きしめてしまいたくなる事がございまして……！",
+      "zh": "会不自觉地想要抱紧……！"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "2133f27",
+      "speaker": "コハル",
+      "ja": "抱きしめながら言うな～！　た、助けて～！",
+      "zh": "别一边抱着一边说这种话啊！救、救命啊～！"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "bac57c15",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫かな、２人とも……",
+      "zh": "……你们俩没事吧？"
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "67c03edb",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}～！",
+      "zh": "{G_PlayerName}～！"
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "a0846bcc",
+      "speaker": "",
+      "ja": "２人が廊下の向こうに見えたと思ったら、コハルがこちらに向かって抱きついてきた。",
+      "zh": "刚看到两人的身影出现在走廊那头，小春就朝这边扑过来抱住了。"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "8a2f7620",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　ど、どうしたんだよコハル……",
+      "zh": "哇！你、你怎么了小春……"
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "8837d03e",
+      "speaker": "コハル",
+      "ja": "怖かった……",
+      "zh": "好可怕……"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "d5d7b20",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙生物ってそんなに怖いのか……",
+      "zh": "宇宙生物有那么可怕吗……"
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "ad415068",
+      "speaker": "コハル",
+      "ja": "いやそっちじゃなくて……貞操の危機が……",
+      "zh": "不，不是那个……是我的贞操有危险……"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "b2b3f692",
+      "speaker": "{G_PlayerName}",
+      "ja": "へ？　貞操？",
+      "zh": "诶？贞操？"
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "19f48dfc",
+      "speaker": "雫",
+      "ja": "堪能させていただきました……ふふ、心配せずとも、同意無しに揉みしだく以上の事はいたしません",
+      "zh": "我好好享受了一番……呵呵，放心吧，没有你的同意，我不会做到揉捏以上的事情。"
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "c680d804",
+      "speaker": "コハル",
+      "ja": "同意無しでやっていい範囲、十分超えてるのよ！",
+      "zh": "没有同意就能做的范围，你早就超标了好吗！"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "884f8d85",
+      "speaker": "？？？",
+      "ja": "何をなさってるのですかあなた達は……",
+      "zh": "你们在做什么啊……"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "4ec145cb",
+      "speaker": "コハル",
+      "ja": "あっ！　さっきの声！　……結局これ、何だったの？",
+      "zh": "啊！是刚才那个声音！……所以那到底是什么？"
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "207a38d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "わからん……話しかけても無視されるし……",
+      "zh": "不知道……跟它说话也不理我……"
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "a0971638",
+      "speaker": "雫",
+      "ja": "……はぁ。ルミナ様以外への愛想を知らないのでしょうか",
+      "zh": "……唉。难道她只懂得对露米娜大人的爱吗？"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "268f22c7",
+      "speaker": "雫",
+      "ja": "アポロ。ゲスト登録、コハル、{G_PlayerName}。２名を乗務員として丁重に扱いなさい",
+      "zh": "阿波罗。登记为客人：小春、{G_PlayerName}。把这两人作为乘务员好好对待。"
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "3ff3a94",
+      "speaker": "アポロ",
+      "ja": "命令無効。当機はアポロではなくAPL-180です",
+      "zh": "命令无效。本机不是阿波罗，是APL-180。"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "208ac9c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！　……空中に人が！？",
+      "zh": "哇！……天上有人！！？"
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "bf64e597",
+      "speaker": "雫",
+      "ja": "面倒ですね。ルミナ様ならアポロ呼びでも言う事を聞くのですが",
+      "zh": "真麻烦。如果是露米娜大人，就算是阿波罗叫，她也会听的。"
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "603bcd88",
+      "speaker": "雫",
+      "ja": "APL-180。命令を聞きなさい。復唱が必要ですか？",
+      "zh": "APL-180。请听从命令。需要我复述一遍吗？"
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "5011a906",
+      "speaker": "アポロ",
+      "ja": "命令を受理。コハルと{G_PlayerName}をゲスト乗務員として登録しました。ようこそ。貴方がたを歓迎いたします",
+      "zh": "命令已受理。已将小春和{G_PlayerName}登记为客席乘务员。欢迎你们。衷心欢迎二位。"
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "1d49b61",
+      "speaker": "",
+      "ja": "とても歓迎しているとは思えない冷たい視線とぶっきらぼうな声色。思わずコハルと目を見合わせ、まばたきをした。",
+      "zh": "那冰冷的目光和生硬的语气，完全看不出有欢迎的意思。我和小春不禁对视了一眼，眨了眨眼。"
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "f513ca3e",
+      "speaker": "コハル",
+      "ja": "ああ……えっとぉ……この子も宇宙船に乗ってる、リリアン……？　なの？",
+      "zh": "啊……呃，这个孩子也在宇宙船上？莉安……？是吗？"
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "8db4b1ee",
+      "speaker": "雫",
+      "ja": "いいえ。これは生き物ではなく……",
+      "zh": "不。这不是生物……"
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "527fedb7",
+      "speaker": "アポロ",
+      "ja": "APL-180。宇宙船に標準搭載されているAIです。この宇宙船そのものと思っていただいて構いません",
+      "zh": "APL-180。我是这艘飞船标配的AI。你可以把我当成这艘飞船本身。"
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "91cf012e",
+      "speaker": "コハル",
+      "ja": "えっ！？　宇宙船！？　……え、AIって何？",
+      "zh": "诶！！？宇宙船！！？……呃，AI是什么？"
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "98a2f5fe",
+      "speaker": "アポロ",
+      "ja": "人工知能の略です。要するに、自身で考え行動できる機械です",
+      "zh": "人工智能的缩写。简单说，就是能自己思考行动的机器。"
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "84e902a4",
+      "speaker": "アポロ",
+      "ja": "排泄物や無駄な娯楽無しに行動出来ない、汚れた下等生命と同一視をなさらないようお願い致します",
+      "zh": "请不要把我跟那些离开排泄和无聊娱乐就无法行动的下等生物混为一谈。"
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "bf0c542a",
+      "speaker": "コハル",
+      "ja": "かっ……下等！？",
+      "zh": "哈……下等！！？"
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "98306926",
+      "speaker": "雫",
+      "ja": "まったく、無礼な……誰の口調を学習したのだか",
+      "zh": "真是没礼貌……不知道跟谁学的这种腔调。"
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "723c8a1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（雫とそっくりだと思うんだが……）",
+      "zh": "（我觉得跟霾一模一样……）"
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "23de906b",
+      "speaker": "アポロ",
+      "ja": "もしもなにかお困りのことがあれば、お気軽にお申し付けください",
+      "zh": "如果有什么困难，请随时吩咐。"
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "812e075a",
+      "speaker": "アポロ",
+      "ja": "人間の上限が低い記憶媒体ですと、きっと頻繁にお困りになるでしょうが……気兼ねなく、助けをお求めください",
+      "zh": "如果人类的记忆存储上限太低，想必会经常遇到麻烦吧……但请不用客气，随时求助。"
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "a2cfa5e9",
+      "speaker": "コハル",
+      "ja": "…………こんなやつばっかね",
+      "zh": "……这家伙完全就是那样啊。"
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "c7823ce8",
+      "speaker": "{G_PlayerName}",
+      "ja": "同意見だな……",
+      "zh": "我同意……"
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "9387a174",
+      "speaker": "雫",
+      "ja": "ああ。ではちょうど良かった",
+      "zh": "啊。那正好。"
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "51b4532b",
+      "speaker": "コハル",
+      "ja": "えっ？",
+      "zh": "诶？"
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "3fa0ed39",
+      "speaker": "雫",
+      "ja": "わたくしには色々やる事がございますので、続きの案内はアポロに任せます",
+      "zh": "我还有很多事要忙，接下来的向导就交给阿波罗了。"
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "8c2baf2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？",
+      "zh": "诶诶！！？"
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "11abf977",
+      "speaker": "コハル",
+      "ja": "こ、この子に出来るの……？",
+      "zh": "这、这孩子能行吗……？"
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "4b2519a6",
+      "speaker": "",
+      "ja": "コハルが心配した声を上げると、アポロの表情が目に見えて不機嫌になった。",
+      "zh": "小春担心地叫了一声，阿波罗的脸色立刻变得明显不悦。"
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "3bf38044",
+      "speaker": "アポロ",
+      "ja": "この宇宙船内において、ワタシに不可能な事などございません。案内程度、出来て当然です",
+      "zh": "在这艘飞船里，没有我做不到的事。带个路而已，理所当然。"
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "d4c6c3a7",
+      "speaker": "コハル",
+      "ja": "そ、そうなの……？　なんか、えっと……ごめんなさい？",
+      "zh": "是、是吗……？唔，那个……抱歉？"
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "3816bb64",
+      "speaker": "{G_PlayerName}",
+      "ja": "（機械の癖にメチャクチャ感情があるな……）",
+      "zh": "（明明是个机器，感情还挺丰富的……）"
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "399e66f",
+      "speaker": "雫",
+      "ja": "では、私はこれで。何かあればアポロに言いつけて呼び出しをしてください",
+      "zh": "那么，我先走了。有什么事就跟阿波罗说吧，让他找我。"
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "a8a260c5",
+      "speaker": "アポロ",
+      "ja": "……アポロではありません。APL-180です",
+      "zh": "……我不是阿波罗。我是APL-180。"
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "a4f878b0",
+      "speaker": "",
+      "ja": "アポロの訂正を無視し、雫はスタスタと廊下の奥へ消えていった。",
+      "zh": "霾无视了阿波罗的纠正，大步流星地消失在走廊深处。"
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "ef82284d",
+      "speaker": "アポロ",
+      "ja": "……では、船内の案内を開始いたします",
+      "zh": "……那么，开始介绍船内情况。"
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "93415ce5",
+      "speaker": "コハル",
+      "ja": "あ、えっと……雫に途中まで案内してもらったんだけど……",
+      "zh": "啊，那个……霾已经带我们走了一半路了……"
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "5d7b012a",
+      "speaker": "アポロ",
+      "ja": "問題ございません。あなた達の様子は常にワタシも監視していました",
+      "zh": "没问题。你们的一举一动我一直都在监视。"
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "744e651",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　監視！？",
+      "zh": "诶！！？监视！！？"
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "52d8923a",
+      "speaker": "アポロ",
+      "ja": "この船内の全ては、ワタシの目であり耳であり肌です。ワタシが把握出来ていない情報などございません",
+      "zh": "这艘船里的一切，都是我的眼耳和肌肤。没有我不知道的信息。"
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "69000356",
+      "speaker": "コハル",
+      "ja": "…………なんか凄く落ち着かないんだけど……",
+      "zh": "……总觉得好不自在……"
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "f533ec20",
+      "speaker": "アポロ",
+      "ja": "心配せずとも、個人情報を漏洩させることはありません。飽くまでも、ワタシが円滑に旅路をサポートする以外の用途に使うだけです",
+      "zh": "不必担心，我不会泄露个人信息。这些信息只会用于我更好地支持你们的旅程。"
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "68f7a6c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うーん……まあ、風呂とかまで見られてなきゃいいけど……",
+      "zh": "唔、嗯……只要洗澡什么的别被看到就行……"
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "1ba5682",
+      "speaker": "アポロ",
+      "ja": "入浴中は事故が多発する危険な時間です。勿論当機は安全な旅のため、浴室内も監視しております",
+      "zh": "洗澡时是容易发生事故的危险时间。当然，为了安全旅行，浴室也在监控范围内。"
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "81006b40",
+      "speaker": "コハル",
+      "ja": "……コレ、そーいう物だって納得するしか無いのかな",
+      "zh": "……看来只能接受这就是这样了。"
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "d1760592",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうみたいだな……",
+      "zh": "……好像是这样……"
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "5a655549",
+      "speaker": "コハル",
+      "ja": "それじゃ、気を取り直して。さっきの続きから……この部屋はどんな場所なの？",
+      "zh": "那，打起精神来吧。继续刚才的……这个房间是什么地方？"
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "445e4482",
+      "speaker": "アポロ",
+      "ja": "ここはマスター、ルミナ様の個室です",
+      "zh": "这里是主人露米娜大人的私人房间。"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "72ac6823",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ルミナの部屋ってここなのか。もし大丈夫そうなら、誘っておくか？　体調も気になるし……",
+      "zh": "啊，露米娜的房间就是这里啊。如果她状态好的话，要不要叫她来？我也担心她的身体……"
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "950a9883",
+      "speaker": "アポロ",
+      "ja": "マスターはまだご休憩中です。立ち入らないことを推奨します",
+      "zh": "主人还在休息。我建议不要打扰她。"
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "a2574f94",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……そうか。助けてくれた時、色々無茶もしてただろうしな……",
+      "zh": "啊……这样啊。她帮我的时候也吃了不少苦……"
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "c7331816",
+      "speaker": "",
+      "ja": "脳裏に巨大な魔獣の姿がよぎる。そして、その後のことも……",
+      "zh": "脑海中闪过那个巨大魔兽的身影。还有之后的事……"
+    },
+    {
+      "key": "308.1",
+      "line_index": 308,
+      "inline_index": 1,
+      "line_hash": "84ad9d61",
+      "speaker": "コハル",
+      "ja": "……むうっ！",
+      "zh": "……唔！"
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "8dab08ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "いててててっ！　なんだよもう……",
+      "zh": "痛痛痛痛！搞什么啊……"
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "65b91a22",
+      "speaker": "コハル",
+      "ja": "べ・つ・に～！？　自分の胸に聞いてみたら！？",
+      "zh": "才・没・有～！！？你问自己的胸口去！！？"
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "fab5093d",
+      "speaker": "",
+      "ja": "見透かされたらしい……バツが悪い気持ちで頬を掻き、廊下をズンズンと進むコハルの後ろに着いていった。",
+      "zh": "好像被看穿了……我尴尬地挠了挠脸，跟在小春身后，她正大步流星地走在走廊上。"
+    },
+    {
+      "key": "342.1",
+      "line_index": 342,
+      "inline_index": 1,
+      "line_hash": "e132ae3",
+      "speaker": "ルミナ",
+      "ja": "……………………",
+      "zh": "……………………"
+    }
+  ]
+}

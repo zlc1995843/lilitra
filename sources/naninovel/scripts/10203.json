@@ -1,0 +1,652 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "6f733dc3",
+      "speaker": "コハル",
+      "ja": "……えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "6cbf3cd1",
+      "speaker": "",
+      "ja": "あれからすぐ、コハルは食人植物を倒してくれた。そのため、幸い俺の命に別状は無かったのだが……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "d29d2783",
+      "speaker": "コハル",
+      "ja": "ううう～～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "c656d2cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "いだだだだだだだっ！",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "c214bada",
+      "speaker": "コハル",
+      "ja": "だ～めだ……取れない、これ……",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "7285ec6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "正直俺もこれ以上引っ張られると首が限界だ……雨ももう止んだぞ……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "2fe1df1d",
+      "speaker": "",
+      "ja": "俺の首に食らいついた袋状の植物の残骸が、全く取れる気配が無い。破れて顔の上半分は外に出てるので、息と視界の心配はないが……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "ea580b7e",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "444b8bb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヌメヌメしてて気持ち悪い……別にケガとかは無いんだが、落ち着かないな",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "b41180ce",
+      "speaker": "コハル",
+      "ja": "ふふっ……あ、ごめんなさい。大丈夫ってわかったら面白くなっちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "f0db8d9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前なあ……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "b4ef7abd",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "18ea0190",
+      "speaker": "コハル",
+      "ja": "あっ、ダメ！　黙ってこっち見ないで！　つ、ツボに入るから……！",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "f42cca85",
+      "speaker": "{G_PlayerName}",
+      "ja": "他人事だと思って……",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "43e36de6",
+      "speaker": "",
+      "ja": "少し不貞腐れながらも、頭の中で自分の状況を想像する。確かに、奇抜なファッションに目覚めた人のようで間抜けだ。",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "899a9d62",
+      "speaker": "コハル",
+      "ja": "ふう……でも、どうなってるのかしら？　吸盤みたいに首に張り付いてるけど……",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "5a5faff2",
+      "speaker": "{G_PlayerName}",
+      "ja": "自分じゃ見えないから、なんとも……接着されてるみたいで、ヒリヒリする",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "156ea93f",
+      "speaker": "コハル",
+      "ja": "船に戻ったらなんとかなるかな？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "e637ec95",
+      "speaker": "{G_PlayerName}",
+      "ja": "なると思いたいな……",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "f01c609",
+      "speaker": "コハル",
+      "ja": "ッ…………！",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "e3cfa4bb",
+      "speaker": "",
+      "ja": "背後から、草木を掻き分ける音。それも、１つではない。何かの群れが近づいてくる。",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "87d9b22c",
+      "speaker": "コハル",
+      "ja": "獣かも。……戦える？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "70d008b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "75f581b8",
+      "speaker": "",
+      "ja": "コハルは杖を、俺は銃を構える。薮の向こうから現れたのは……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "6a30ee97",
+      "speaker": "？？？",
+      "ja": "……おお、ようやく見つかったか。匂いを辿るのに苦労したわい",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "de0da98",
+      "speaker": "{G_PlayerName}",
+      "ja": "人…………？",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "3a825234",
+      "speaker": "",
+      "ja": "背後に何人か、民族風の服を着た人間を連れたリリアンだった。",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "6f141fd2",
+      "speaker": "",
+      "ja": "各々、槍や斧を携えている。……雫のような失礼な言葉になってしまうが、原始的な装備をした一団だ。",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "d845459f",
+      "speaker": "コハル",
+      "ja": "あ、あなた達は……？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "d79a24d5",
+      "speaker": "？？？",
+      "ja": "ほ。ボララに襲われたか。ドゥルを持ち歩いてないのか？",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "444889e",
+      "speaker": "{G_PlayerName}",
+      "ja": "どぅ、どぅる……？　ぼらら……？",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "6ed2a52b",
+      "speaker": "？？？",
+      "ja": "……はあ。おぬし、取ってやれ",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "152b39c",
+      "speaker": "民族風の男",
+      "ja": "はっ。……動くなよ",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "de78675c",
+      "speaker": "コハル",
+      "ja": "え…………？",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "715ac6b4",
+      "speaker": "",
+      "ja": "男が、何か入った袋を近づける。ちゃぽん、と水のような音がした。",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "f69caec8",
+      "speaker": "",
+      "ja": "と思った瞬間、頭からそれをかけられた。",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "cac55a76",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぶわっ！？　ぺっぺっ……く、臭っ！？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "8577c710",
+      "speaker": "コハル",
+      "ja": "ちょっ、ちょっと！？　何してるの！？",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "ebf472bf",
+      "speaker": "？？？",
+      "ja": "やかましいのう、少しくらい我慢せい",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "b211a46e",
+      "speaker": "",
+      "ja": "腐った酢のような刺激臭。毒でもかけられたのかと思ったが……",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "f4498f80",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、あれ？　……取れるようになった",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "df2ca9b0",
+      "speaker": "",
+      "ja": "首に吸い付いていた植物の締め付けが、嘘のようにスルリと緩んだ。そのまま、抵抗なく頭から引き抜ける。",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "d2c896a6",
+      "speaker": "？？？",
+      "ja": "そなたら、ボララの対処も学んでおらんのか？　厄介な植物には大抵ドゥルが有効じゃというのに持ち歩かんとは……",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "fd6c0211",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はあ……？　ええと、ありがとうございます、すみません……？",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "7a62b1f",
+      "speaker": "コハル",
+      "ja": "……それで、あの、あなた達は……？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "e3151db7",
+      "speaker": "ラチャナ",
+      "ja": "ワシはラチャナ。トレ村の村長をしておる",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "1904b0e2",
+      "speaker": "コハル",
+      "ja": "私はコハル……って言います。助けてくれて、ありがとうございます……！",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "25df383b",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は{G_PlayerName}。よろしく……",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "e15f8bf2",
+      "speaker": "コハル",
+      "ja": "えっとそれで、他にも聞きたいことが……",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "f7b1347b",
+      "speaker": "",
+      "ja": "ラチャナの後ろに控えていた他の人達が近づいてきた。",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "7bfa8017",
+      "speaker": "",
+      "ja": "……と思うと、俺とコハルの両腕をあっというまに縄で縛った。",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "3f86fc70",
+      "speaker": "コハル",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "4aa3e233",
+      "speaker": "コハル",
+      "ja": "あ、あの、これって……？",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "8dd463eb",
+      "speaker": "ラチャナ",
+      "ja": "この、トンチキどもがああああああっ！！",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "2972e219",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええええええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "fa992890",
+      "speaker": "ラチャナ",
+      "ja": "村長のワシですら、身を清めて三日三晩の祈祷を経て入る聖域を、踏み荒らしおって……！　ビッシビシに罰してやらんとなあ！",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "a8b1ba4",
+      "speaker": "コハル",
+      "ja": "聖域っ？　ごめんなさいっ！　わっ、私達、知らなくて……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "d2ae8354",
+      "speaker": "ラチャナ",
+      "ja": "知らんで通るかっ！　馬鹿だろうが阿呆だろうが償いは償いじゃ、例外は無いっ！　連れていけっ！",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "24a9201",
+      "speaker": "",
+      "ja": "ラチャナの声を合図に、俺とコハルを囲んだ人たちが歩き始める。縄を引っ張られ、為す術無く付いて行くしかない。",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "16edfd64",
+      "speaker": "コハル",
+      "ja": "は、離してよ！　……もう！　わざとじゃないのに！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "c95592bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どうしたもんか……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "aa53ec09",
+      "speaker": "",
+      "ja": "ふと、雫から渡された装置のことを思い出す。が、鞄の中に入っていて取り出すのは不可能だ。",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "df395fa5",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ……このままイケニエ、とかならない……よな？",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "b69ed2e0",
+      "speaker": "ラチャナ",
+      "ja": "さあ、のう？　神様の機嫌次第では、なるかもしれんの～？",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "6b888cbb",
+      "speaker": "コハル",
+      "ja": "そ……そんなぁ……！？",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "10f24cf7",
+      "speaker": "{G_PlayerName}",
+      "ja": "嘘だろ……",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "f3de4d73",
+      "speaker": "{G_PlayerName}",
+      "ja": "（冒険したいとは思ってたけど、こんなのは流石に望んでないぞ……）",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "6ee1e9b6",
+      "speaker": "",
+      "ja": "振り切って逃げ出そうにも、縛られていては武器が使えない上に土地勘が無い。",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "70581759",
+      "speaker": "",
+      "ja": "「匂いを辿るのに苦労した」と言っていたが、嗅覚が発達した何かがあるのだろう。この強烈な匂いの液体をかぶった今では、撒くことは不可能だ。",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "9be81df9",
+      "speaker": "コハル",
+      "ja": "うう～……{G_PlayerName}……",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "85887793",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なんとか、なるだろ……",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "5d5f9b90",
+      "speaker": "",
+      "ja": "泣きそうな顔でこちらを見るコハル。出来ることは、同じような顔をせずに気休めを言うことくらいだった……",
+      "zh": ""
+    }
+  ]
+}

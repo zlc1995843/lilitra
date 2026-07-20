@@ -1,0 +1,1255 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "4c635dc3",
+      "speaker": "ライラ",
+      "ja": "くっ、王宮は目の前なのに……！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "cc003e4e",
+      "speaker": "",
+      "ja": "次々と迫りくる兵士たち。まるで応援にかけつけるように、数が増えているように感じるが……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "17015dd",
+      "speaker": "雫",
+      "ja": "ルートを読まれていたのでしょう。数こそ多くはありませんが、こうも陣形を組まれては……",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "b6d35e0c",
+      "speaker": "コハル",
+      "ja": "お金がいっぱいかかってる衛兵が組んだ、本気の防衛線ってこと？　これじゃ分が悪いわ！",
+      "zh": ""
+    },
+    {
+      "key": "43.0",
+      "line_index": 43,
+      "inline_index": 0,
+      "line_hash": "c64f353",
+      "speaker": "{G_PlayerName}",
+      "ja": "守りが硬すぎる……無理やり奥に行ったとしても、後ろから襲われちゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "93453636",
+      "speaker": "ゼミア",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "91dd2dce",
+      "speaker": "ゼミア",
+      "ja": "チッ、ここはオレ達……砂賊に任せろ。守りに穴を開けるから、お前らは先に行け。後はオレ達で抑える",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "9c7d74c4",
+      "speaker": "コハル",
+      "ja": "えっ！？　でも、流石に砂賊だけじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "c8ba0b88",
+      "speaker": "ゼミア",
+      "ja": "砂賊を舐めるな。この程度の人数、砂さえあればどうとでもなる",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "8378ee9",
+      "speaker": "ゼミア",
+      "ja": "そもそも、宮殿で戦闘にならないという保証も無い。それに比べたら、今の状況のほうがオレ達には有利だ",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "e142d9ae",
+      "speaker": "ゼミア",
+      "ja": "今だ、走れ！",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "7a628cf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった……！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "b61ad4dd",
+      "speaker": "コハル",
+      "ja": "い、急いで終わらせないと……！　急ぎましょ！",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "df3cd291",
+      "speaker": "ゼミア",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "7fe45249",
+      "speaker": "ライラ",
+      "ja": "私は王女として、今度こそ父を止めたい！　私だって、これ以上罪のない民の血が流れるのは許せないの！",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "49285a60",
+      "speaker": "ライラ",
+      "ja": "だから……このオアシスを、父を説得する材料に使う。それが出来なければ……私も、命を賭けて止めるつもり",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "bb802269",
+      "speaker": "ゼミア",
+      "ja": "……口では何とでも言える！　そんな言葉を、容易く信用するわけには……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "4dd8920d",
+      "speaker": "ライラ",
+      "ja": "それが信じられないなら、あなた達も付いて来ればいい！",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "e5d9e7e1",
+      "speaker": "ゼミア",
+      "ja": "（信じられないなら……か）",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "a54222ce",
+      "speaker": "ゼミア",
+      "ja": "信じたからな、王女様",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "2cfabb3c",
+      "speaker": "臣下",
+      "ja": "では次の軍事作戦について最終確認を……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "dcafe1b2",
+      "speaker": "ライラ",
+      "ja": "お父様！",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "507a68ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんとか、辿り着けた……！）",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "7c97516",
+      "speaker": "",
+      "ja": "王の近くにいた衛兵が、盾になるように武器を構える。が、襲ってきた兵士と違い、ライラに対し敵意を抱いている様子は無かった。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "480202f9",
+      "speaker": "王",
+      "ja": "よい。……ライラか。王女としての礼節を少しは弁えよ。今は……",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "fd179b0e",
+      "speaker": "ライラ",
+      "ja": "恐れ入ります。火急の用にて、無礼ではありますがお目通りをお願いします",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "9dea72a6",
+      "speaker": "王",
+      "ja": "……はあ、すまんな。聞き分けのない娘が……",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "58b8207e",
+      "speaker": "",
+      "ja": "臣下が苦笑しながら、頭を下げライラに道を開ける。ライラが深呼吸をし、一歩王へと近づいた。",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "3a25e23f",
+      "speaker": "ライラ",
+      "ja": "……この度、古書に記述が残っていた超大規模のオアシスを捜索、発見いたしました。既存のオアシスの数倍……いえ、調査が進めば数十倍の規模になると思われます",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "d78d919e",
+      "speaker": "",
+      "ja": "僅かに、臣下と衛兵に動揺が見られる。半信半疑の小さな声が、宮殿の広い空間に微かに響いた。",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "60786810",
+      "speaker": "ライラ",
+      "ja": "これまでの戦争の発端は……国民が不安なく暮らすための、水源を巡る戦争のはず",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "4b39cc41",
+      "speaker": "ライラ",
+      "ja": "このオアシスがあれば、戦争の必要性はありません。我が国だけでなく、全ての国の水源を担えるはずです",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "a1fa5da5",
+      "speaker": "王",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "56bde069",
+      "speaker": "",
+      "ja": "王は黙して目を瞑っている。ライラの言葉に聞き入っているように見えるが、呆れているようにも見える。",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "bf8bc9ac",
+      "speaker": "ライラ",
+      "ja": "これ以上、無辜の民の血を流すことは避けるべきです！　……即刻、全ての戦争の停戦を求めます！",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "a1fa5da5",
+      "speaker": "王",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "33808974",
+      "speaker": "王",
+      "ja": "……世迷い言はそれまでか",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "269d31cb",
+      "speaker": "ライラ",
+      "ja": "えっ……",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "b8a0caf2",
+      "speaker": "王",
+      "ja": "次の戦争の開戦は３日後。準備は万全だ。今更取りやめるわけにも行くまい",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "d9807eca",
+      "speaker": "ライラ",
+      "ja": "で……ですが！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "573894d1",
+      "speaker": "王",
+      "ja": "確かに、そのオアシスの存在や規模が真実であれば、国民や他国も停戦を受け入れる……その可能性はあるが",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "5136483b",
+      "speaker": "王",
+      "ja": "数十倍の巨大なオアシス……そのような物の存在が、信用されると思うか？　証拠も無しに",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "9af5e12b",
+      "speaker": "ライラ",
+      "ja": "それ……は……",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "861eca79",
+      "speaker": "王",
+      "ja": "我が国が主張したところで、何かの罠だと思われるのが関の山だろう",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "c45c45a4",
+      "speaker": "ライラ",
+      "ja": "（違う……オアシスの存在を信じさせる必要があるのは、国民や他国じゃない……）",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "5acdff50",
+      "speaker": "ライラ",
+      "ja": "（父様だ。父様がオアシスの存在を本気で信じていたなら、最も力が強いこの国が、停戦する事自体は容易いはず。信用させるのはその後で良い）",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "1e279e51",
+      "speaker": "ライラ",
+      "ja": "（今のお父様は、オアシスの存在を信じていないから……停戦しない理由を探してしまっている。私の言葉なら……信じてくれると思ったのに……！）",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "f525c45b",
+      "speaker": "王",
+      "ja": "何日も前から妄言を流布したかと思えば、宮殿を抜け出して……挙句の果てに、これか",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "7558c669",
+      "speaker": "王",
+      "ja": "お前は王女としての自覚があまりにも足りなさ過ぎる。これから１００日、自室の外へ出ることを禁じる。……連れて行け",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "b38ae79e",
+      "speaker": "",
+      "ja": "王の言葉を聞き、付近の衛兵がライラへと歩み寄る。ライラは抵抗するが、腕を捕まれ四方を囲まれ、徐々に王から引き剥がされてゆく。",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "39d84720",
+      "speaker": "ライラ",
+      "ja": "待っ……お待ちください、お父様……！　お父様！！",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "e21d29e9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "96240d22",
+      "speaker": "",
+      "ja": "ルミナが、ライラを連行しようとする衛兵の前に立ちはだかり、王に鋭い視線を投げかけた。",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "d6e6c1b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ル……ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "86860d84",
+      "speaker": "王",
+      "ja": "ライラが……雇った民か？　そなた達も速やかに宮殿から……",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "98a6e1b2",
+      "speaker": "ルミナ",
+      "ja": "証拠、が……証拠がっ、あれば……いいんですね？",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "a1fa5da5",
+      "speaker": "王",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "7d64c027",
+      "speaker": "",
+      "ja": "王が言葉を飲み込み沈黙する。衛兵は不敬を咎めるか連行を続けるか数秒迷い、再び足を動かそうとした。",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "9dddb823",
+      "speaker": "",
+      "ja": "が、衛兵の足は再び止まる事になる。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "f2e8e5b4",
+      "speaker": "王",
+      "ja": "……な…………！？",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "f05b358d",
+      "speaker": "衛兵",
+      "ja": "こ、ここ……砂！？　いや……絵！？",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "acbbcca4",
+      "speaker": "ルミナ",
+      "ja": "……これなら、信用できますよね？",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "26836bde",
+      "speaker": "ライラ",
+      "ja": "ル……ルミナちゃん……？　これ……！？",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "551cd24d",
+      "speaker": "パセリ",
+      "ja": "ほえーっ！？　なんですかこれは！　げ、幻覚ですか！？",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "6646fc50",
+      "speaker": "コハル",
+      "ja": "（これってルミナがやったの！？　……機械とか使って？）",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "c8da017e",
+      "speaker": "雫",
+      "ja": "（機械の機能でもありますが、ここまでの範囲で再現するのはルミナ様の光を操る力が無くては不可能です。……なんと精密で強力な御力でしょうか）",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "dc20845a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……でもこれって、宇宙の法律に違反したり……）",
+      "zh": ""
+    },
+    {
+      "key": "291.1",
+      "line_index": 291,
+      "inline_index": 1,
+      "line_hash": "6406cbe0",
+      "speaker": "雫",
+      "ja": "（ぐっ……）",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "e66ce9d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あ、やっぱりダメなんだな……本当は）",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "c4b226d0",
+      "speaker": "",
+      "ja": "数時間後。あれから暫く王宮内は騒然となってしまった。ルミナの見せた映像が、諦観し王に従うだけだった人々への着火剤となったのだ。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "24603584",
+      "speaker": "",
+      "ja": "このような物を見せられては、と、ライラ側につく者、それに反発する者、ただ呆然とするしか無い者……",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "bcaf03ca",
+      "speaker": "",
+      "ja": "王が絞り出すように、真偽を確かめるまで開戦を延期する、と告げると、ようやく全員から安堵の息が漏れ、ライラは輝かしい笑顔を浮かべるのだった。",
+      "zh": ""
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "f932945b",
+      "speaker": "ライラ",
+      "ja": "良かった！　本当に……ありがとう、ルミナちゃん、皆も！",
+      "zh": ""
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "46f68f67",
+      "speaker": "{G_PlayerName}",
+      "ja": "延期……って言ってたから、安心するにはまだ早い気もするけどな",
+      "zh": ""
+    },
+    {
+      "key": "340.1",
+      "line_index": 340,
+      "inline_index": 1,
+      "line_hash": "a4702847",
+      "speaker": "ライラ",
+      "ja": "大丈夫！　あの時のお父様の顔……ワガママだった私に根負けして、楽しそうに遊びに付き合ってくれた昔のお父様にそっくりだったもの！",
+      "zh": ""
+    },
+    {
+      "key": "342.1",
+      "line_index": 342,
+      "inline_index": 1,
+      "line_hash": "d55ea777",
+      "speaker": "コハル",
+      "ja": "そ、そうなの？",
+      "zh": ""
+    },
+    {
+      "key": "344.1",
+      "line_index": 344,
+      "inline_index": 1,
+      "line_hash": "8ac6790f",
+      "speaker": "ライラ",
+      "ja": "うん！　……あっ",
+      "zh": ""
+    },
+    {
+      "key": "346.1",
+      "line_index": 346,
+      "inline_index": 1,
+      "line_hash": "e2919588",
+      "speaker": "ライラ",
+      "ja": "ここは王宮内であった。かような振る舞いは王女に相応しくないな……",
+      "zh": ""
+    },
+    {
+      "key": "348.1",
+      "line_index": 348,
+      "inline_index": 1,
+      "line_hash": "e01e59a6",
+      "speaker": "ルミナ",
+      "ja": "今くらいは、いいんじゃない、かな？　凄く頑張ったんだから……",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "4cefe373",
+      "speaker": "ライラ",
+      "ja": "……そうね！　あなた達だけに聞こえるように、小声なら……！",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "2ab6d8e",
+      "speaker": "コハル",
+      "ja": "でも、戦争やめるっていきなり言ってもどうにかなるのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "929c7143",
+      "speaker": "ライラ",
+      "ja": "私達の国が一番軍事力が強いから……多分、他の国は受け入れると思うわ。その後は……まだわからないけど、なんとか信用してもらうつもり！",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "ea1dccdd",
+      "speaker": "ルミナ",
+      "ja": "これからきっと、忙しくなる……ね。井戸、掘ったり……",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "898dcf63",
+      "speaker": "ライラ",
+      "ja": "そうね。……でも、問題は兵士たちね……",
+      "zh": ""
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "52844ed6",
+      "speaker": "コハル",
+      "ja": "ああ……街で襲ってきた……",
+      "zh": ""
+    },
+    {
+      "key": "375.1",
+      "line_index": 375,
+      "inline_index": 1,
+      "line_hash": "9ad389d3",
+      "speaker": "ゼミア",
+      "ja": "それなら心配要らないだろう",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "ff8a45d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ゼミア！　無事だったのか！",
+      "zh": ""
+    },
+    {
+      "key": "379.1",
+      "line_index": 379,
+      "inline_index": 1,
+      "line_hash": "3767201b",
+      "speaker": "ゼミア",
+      "ja": "当然だ。……あの後、すぐに衛兵達も戦いをやめたからな。宮殿の状況を聞いたあとは、ライラに武器を向けた罪で大人しく投降した",
+      "zh": ""
+    },
+    {
+      "key": "381.1",
+      "line_index": 381,
+      "inline_index": 1,
+      "line_hash": "5ba47ea3",
+      "speaker": "パセリ",
+      "ja": "兵士たちなら心配要らない、と言う点はゼミアさんに同意いたしますわね～♪",
+      "zh": ""
+    },
+    {
+      "key": "383.1",
+      "line_index": 383,
+      "inline_index": 1,
+      "line_hash": "cadefec3",
+      "speaker": "ライラ",
+      "ja": "なんで……？",
+      "zh": ""
+    },
+    {
+      "key": "386.1",
+      "line_index": 386,
+      "inline_index": 1,
+      "line_hash": "7394b46f",
+      "speaker": "パセリ",
+      "ja": "働き口くらいならいくらでも見つかりますよ～♪　それも、投獄されるならそれこそ使い放題じゃありませんかっ♪",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "4da9b2b",
+      "speaker": "",
+      "ja": "いやらしい笑みを浮かべるパセリに、ゼミアは気が重そうな深いため息をついた……",
+      "zh": ""
+    },
+    {
+      "key": "403.1",
+      "line_index": 403,
+      "inline_index": 1,
+      "line_hash": "4416f7a1",
+      "speaker": "ライラ",
+      "ja": "もう行っちゃうのね……",
+      "zh": ""
+    },
+    {
+      "key": "405.1",
+      "line_index": 405,
+      "inline_index": 1,
+      "line_hash": "5684c3e4",
+      "speaker": "ルミナ",
+      "ja": "うん、水は貰ったし……ゆっくりはしてられないから……",
+      "zh": ""
+    },
+    {
+      "key": "407.1",
+      "line_index": 407,
+      "inline_index": 1,
+      "line_hash": "5d48070",
+      "speaker": "コハル",
+      "ja": "本当は、もうちょっとゆっくりしたいんだけどね",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "a3da80f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "最初はあれだけ暑い暑いって言ってたのに、随分慣れたもんだよな",
+      "zh": ""
+    },
+    {
+      "key": "411.1",
+      "line_index": 411,
+      "inline_index": 1,
+      "line_hash": "5adb25a1",
+      "speaker": "ライラ",
+      "ja": "ところで宮殿で見たあれって……",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "77c92f22",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……できれば余り……",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "19f16eda",
+      "speaker": "ライラ",
+      "ja": "聞かないほうがいいのね？　ふふ、そんな気がしてた！",
+      "zh": ""
+    },
+    {
+      "key": "417.1",
+      "line_index": 417,
+      "inline_index": 1,
+      "line_hash": "fce90c52",
+      "speaker": "ルミナ",
+      "ja": "ごめんね、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "419.1",
+      "line_index": 419,
+      "inline_index": 1,
+      "line_hash": "5036858d",
+      "speaker": "ライラ",
+      "ja": "それじゃ……私、これからいい国を作っていけるように頑張るから！",
+      "zh": ""
+    },
+    {
+      "key": "421.1",
+      "line_index": 421,
+      "inline_index": 1,
+      "line_hash": "72073cd9",
+      "speaker": "ライラ",
+      "ja": "ルミナちゃんも負けないでね！　……なにかあったら、呼んでね！　何でも協力しちゃうから！",
+      "zh": ""
+    },
+    {
+      "key": "423.1",
+      "line_index": 423,
+      "inline_index": 1,
+      "line_hash": "f3f16fe3",
+      "speaker": "ルミナ",
+      "ja": "うん、またね……！",
+      "zh": ""
+    },
+    {
+      "key": "425.1",
+      "line_index": 425,
+      "inline_index": 1,
+      "line_hash": "e8812750",
+      "speaker": "ライラ",
+      "ja": "コハル、雫、{G_PlayerName}も！　色々迷惑かけちゃってごめん、手伝ってくれてありがとう！　あなた達、皆英雄よ！",
+      "zh": ""
+    },
+    {
+      "key": "427.1",
+      "line_index": 427,
+      "inline_index": 1,
+      "line_hash": "361962b3",
+      "speaker": "コハル",
+      "ja": "え、英雄……！",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "c6948601",
+      "speaker": "{G_PlayerName}",
+      "ja": "良い響きだ……！",
+      "zh": ""
+    },
+    {
+      "key": "431.1",
+      "line_index": 431,
+      "inline_index": 1,
+      "line_hash": "1de00c62",
+      "speaker": "ライラ",
+      "ja": "ふふっ！　じゃ、帰り道、気をつけてね！　サンドワームに襲われたりするんじゃないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "452.1",
+      "line_index": 452,
+      "inline_index": 1,
+      "line_hash": "2d70276b",
+      "speaker": "雫",
+      "ja": "では、皆様疲労が残っているでしょうから、体調管理をしっかりなさって休養をとりましょう",
+      "zh": ""
+    },
+    {
+      "key": "454.0",
+      "line_index": 454,
+      "inline_index": 0,
+      "line_hash": "c958595a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前その服いつ脱ぐんだ……",
+      "zh": ""
+    },
+    {
+      "key": "458.1",
+      "line_index": 458,
+      "inline_index": 1,
+      "line_hash": "447fdaa7",
+      "speaker": "雫",
+      "ja": "保護加工を施し、ルミナ様からいただいた思い出を永遠の物としたらです！",
+      "zh": ""
+    },
+    {
+      "key": "466.0",
+      "line_index": 466,
+      "inline_index": 0,
+      "line_hash": "b362d619",
+      "speaker": "{G_PlayerName}",
+      "ja": "それ脱いでも出来るだろ……っていうか脱がなきゃできないだろ……",
+      "zh": ""
+    },
+    {
+      "key": "468.1",
+      "line_index": 468,
+      "inline_index": 1,
+      "line_hash": "f99180f5",
+      "speaker": "コハル",
+      "ja": "じゃ、私も部屋に戻るけど……{G_PlayerName}も早く寝るのよ！　機械いじるんじゃないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "470.0",
+      "line_index": 470,
+      "inline_index": 0,
+      "line_hash": "4db228c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "わーかってるよ！　おやすみ！",
+      "zh": ""
+    },
+    {
+      "key": "478.1",
+      "line_index": 478,
+      "inline_index": 1,
+      "line_hash": "ff664859",
+      "speaker": "ルミナ",
+      "ja": "おやすみ、{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "480.0",
+      "line_index": 480,
+      "inline_index": 0,
+      "line_hash": "1f83cc30",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……ルミナ、ちょっと聞きたかったんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "482.1",
+      "line_index": 482,
+      "inline_index": 1,
+      "line_hash": "e6e5a962",
+      "speaker": "ルミナ",
+      "ja": "え？　……なあに？",
+      "zh": ""
+    },
+    {
+      "key": "484.0",
+      "line_index": 484,
+      "inline_index": 0,
+      "line_hash": "e3765b6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "宮殿で、なんであんなことしたんだ？　俺もスッキリはしたけど……いつものルミナとはちょっと違ったなって……",
+      "zh": ""
+    },
+    {
+      "key": "486.1",
+      "line_index": 486,
+      "inline_index": 1,
+      "line_hash": "8f5477e7",
+      "speaker": "ルミナ",
+      "ja": "……そう、だね……私もよくわからない……",
+      "zh": ""
+    },
+    {
+      "key": "488.1",
+      "line_index": 488,
+      "inline_index": 1,
+      "line_hash": "82477c3d",
+      "speaker": "ルミナ",
+      "ja": "……カッとなって、が一番近いとは思うんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "490.0",
+      "line_index": 490,
+      "inline_index": 0,
+      "line_hash": "1cee23f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナがカッとなる……想像つかないな、あまり",
+      "zh": ""
+    },
+    {
+      "key": "492.1",
+      "line_index": 492,
+      "inline_index": 1,
+      "line_hash": "8e16c0cb",
+      "speaker": "ルミナ",
+      "ja": "……報われてほしかったのかも",
+      "zh": ""
+    },
+    {
+      "key": "494.0",
+      "line_index": 494,
+      "inline_index": 0,
+      "line_hash": "acf6b970",
+      "speaker": "{G_PlayerName}",
+      "ja": "報われてほしかった？",
+      "zh": ""
+    },
+    {
+      "key": "496.1",
+      "line_index": 496,
+      "inline_index": 1,
+      "line_hash": "580f389",
+      "speaker": "ルミナ",
+      "ja": "だって、ライラちゃんは長い間ずっと……自分の危険も顧みずに頑張って、お父さんとも話し合ってて……それでも、皆ライラちゃんの言葉を聞いてなかった",
+      "zh": ""
+    },
+    {
+      "key": "498.1",
+      "line_index": 498,
+      "inline_index": 1,
+      "line_hash": "a448d88c",
+      "speaker": "ルミナ",
+      "ja": "沢山の努力は、報われて欲しいって思うし……ここに来てから、色々してもらったし……私だって、お返ししたかった。のかも……",
+      "zh": ""
+    },
+    {
+      "key": "500.0",
+      "line_index": 500,
+      "inline_index": 0,
+      "line_hash": "a2c0bd0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……そうだな",
+      "zh": ""
+    },
+    {
+      "key": "502.0",
+      "line_index": 502,
+      "inline_index": 0,
+      "line_hash": "a23677cf",
+      "speaker": "",
+      "ja": "ルミナにしては後先考えないと言うか……突飛な行動に出たように見えたが、むしろルミナらしい行動だったと言えるのかも知れない。",
+      "zh": ""
+    },
+    {
+      "key": "504.0",
+      "line_index": 504,
+      "inline_index": 0,
+      "line_hash": "63054fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺もルミナに何か、お返し出来たらいいんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "506.1",
+      "line_index": 506,
+      "inline_index": 1,
+      "line_hash": "81f379c8",
+      "speaker": "ルミナ",
+      "ja": "えっ？　{G_PlayerName}くんには、もういっぱいお返し、もらってるよ……",
+      "zh": ""
+    },
+    {
+      "key": "508.0",
+      "line_index": 508,
+      "inline_index": 0,
+      "line_hash": "53cbdecb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……はは、少しは返せてるならいいんだけど",
+      "zh": ""
+    },
+    {
+      "key": "510.0",
+      "line_index": 510,
+      "inline_index": 0,
+      "line_hash": "57672242",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺は今回捕まるだけで、何も出来なかったからな……）",
+      "zh": ""
+    },
+    {
+      "key": "512.0",
+      "line_index": 512,
+      "inline_index": 0,
+      "line_hash": "f25095b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（オアシスの証拠を残す機械……流砂から脱出する機械……銃とか、戦闘ばっかり気にしてたけど……もっと別の機械も考えておかないと）",
+      "zh": ""
+    },
+    {
+      "key": "527.1",
+      "line_index": 527,
+      "inline_index": 1,
+      "line_hash": "9a7a4d5c",
+      "speaker": "ゼミア",
+      "ja": "そこ、サボるな！　次の石を運べ！",
+      "zh": ""
+    },
+    {
+      "key": "529.0",
+      "line_index": 529,
+      "inline_index": 0,
+      "line_hash": "f7e0f7ac",
+      "speaker": "元衛兵",
+      "ja": "サボってるわけじゃねえよ！　……はあ、宮殿の兵士から奴隷みたいな仕事になって、勝手なんかわかるかっての……",
+      "zh": ""
+    },
+    {
+      "key": "531.0",
+      "line_index": 531,
+      "inline_index": 0,
+      "line_hash": "130b73e4",
+      "speaker": "砂賊",
+      "ja": "奴隷っぽいのは仕事内容だけだろ？　賃金はたっぷり出てんだ、キリキリ働け！",
+      "zh": ""
+    },
+    {
+      "key": "533.1",
+      "line_index": 533,
+      "inline_index": 1,
+      "line_hash": "3f2fe057",
+      "speaker": "ゼミア",
+      "ja": "はあ……砂賊の罪が恩赦になったのはいいが、まさか街路の整備事業をこんな形で押し付けられるとはな",
+      "zh": ""
+    },
+    {
+      "key": "535.0",
+      "line_index": 535,
+      "inline_index": 0,
+      "line_hash": "2f3f0f7a",
+      "speaker": "砂賊",
+      "ja": "腕っぷしを見込んでとかうまいこと言いやがって……",
+      "zh": ""
+    },
+    {
+      "key": "537.1",
+      "line_index": 537,
+      "inline_index": 1,
+      "line_hash": "61c5a49d",
+      "speaker": "ゼミア",
+      "ja": "（だが、宮殿の兵士も砂賊も、戦うしか能が無いと思い込んでる連中だ。案外気は合うな）",
+      "zh": ""
+    },
+    {
+      "key": "539.1",
+      "line_index": 539,
+      "inline_index": 1,
+      "line_hash": "9a84244c",
+      "speaker": "ゼミア",
+      "ja": "（……あいつらとも、案外気は合いそうだったが。今頃、どこで何をしてるんだか……）",
+      "zh": ""
+    },
+    {
+      "key": "541.0",
+      "line_index": 541,
+      "inline_index": 0,
+      "line_hash": "1fbdc428",
+      "speaker": "",
+      "ja": "懐から取り出した水を飲んだ後、頬についた砂を軽く拭き、ゼミアは夕焼け空を見上げた。",
+      "zh": ""
+    }
+  ]
+}

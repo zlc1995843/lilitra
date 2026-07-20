@@ -1,0 +1,400 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "ed95ba56",
+      "speaker": "アポロの声",
+      "ja": "……スキャン結果を端末に送信しました。ルート通りに進めば、都度修正して水源へと辿り着けるでしょう",
+      "zh": "……扫描结果已经发送到终端了。按照路线走的话，一边修正一边就能到达水源吧。"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "1c6cb208",
+      "speaker": "雫",
+      "ja": "登録完了。これで砂漠で迷う心配はありませんね",
+      "zh": "登陆完成了。这样一来就不用担心在沙漠里迷路了吧。"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "a266d1a3",
+      "speaker": "ライラ",
+      "ja": "準備は出来たの？それじゃあ出発ね！",
+      "zh": "准备好了吗？那就出发咯！"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "663dd56",
+      "speaker": "コハル",
+      "ja": "え、貴方もついてくるの？",
+      "zh": "咦，你也要跟着来吗？"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "6f2c9688",
+      "speaker": "ライラ",
+      "ja": "勿論！　私だけ待ってるなんて出来ないわ！",
+      "zh": "当然啦！我可不想一个人等着！"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "666c8784",
+      "speaker": "雫",
+      "ja": "（待っていてくれたほうがありがたいんですけどね……）",
+      "zh": "（其实我倒希望你能留下来等我呢……）"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "f05cef89",
+      "speaker": "コハル",
+      "ja": "……でも、砂漠に詳しい人が１人はいたほうがいいかも？",
+      "zh": "……不过，还是有一个熟悉沙漠的人在比较好，对吧？"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "94e6fb87",
+      "speaker": "雫",
+      "ja": "仕方有りませんね。では向かうとしましょう",
+      "zh": "没办法呢。那我们就出发吧。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "6e3bff2a",
+      "speaker": "ライラ",
+      "ja": "改めて、出発ー！",
+      "zh": "重新出发——！"
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "2cfb35e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……暑い……",
+      "zh": "啊……好热……"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "1ce1e72",
+      "speaker": "",
+      "ja": "ジリジリと射す日光に炙られ、額をつたう汗が鼻に溜まって滴り落ちる。",
+      "zh": "炙热的阳光灼烤着，额头的汗水顺着流下，在鼻尖汇聚滴落。"
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "23042da6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、大丈夫か……？",
+      "zh": "露米娜，你没事吧……？"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "c3a6477a",
+      "speaker": "ルミナ",
+      "ja": "うん……{G_PlayerName}くんこそ、大丈夫……？",
+      "zh": "嗯……{G_PlayerName}你才没事吧……？"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "c98e5e76",
+      "speaker": "{G_PlayerName}",
+      "ja": "日除けのフードは貰ったからな。……本当なら男として、譲りたいんだけど",
+      "zh": "防晒的头罩我已经买了。……本来作为男人，应该让给你的……"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "32bcfa81",
+      "speaker": "ルミナ",
+      "ja": "遠慮、しないで……この服、体温調節機能があるし……リリアンだから、{G_PlayerName}くんより丈夫だよ……",
+      "zh": "不用客气……这件衣服有体温调节功能……而且我是莉安，比{G_PlayerName}你更结实呢……"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "a007c1cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、ルミナは……",
+      "zh": "但是，露米娜你……"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "c3a90a1c",
+      "speaker": "ルミナ",
+      "ja": "病弱、と思うかも知れないけど……能力を使わなかったら平気だから……",
+      "zh": "你可能会觉得我身体弱……但只要不用能力的话就没事的……"
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "aa1a9609",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当なのかな……）",
+      "zh": "（真的吗……）"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "6147f763",
+      "speaker": "コハル",
+      "ja": "あ、見て！　あそこ、植物があるわよ！　すごいゴツゴツしてる……アレって何なの？",
+      "zh": "啊，快看！那里有植物！长得好粗犷……那是什么啊？"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "446b03b7",
+      "speaker": "ライラ",
+      "ja": "え？　あれは、おうき……街でも見たことがないわね。初めて見たわ！",
+      "zh": "咦？那个是……我在城里也没见过呢。第一次见！"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "2ce9f735",
+      "speaker": "コハル",
+      "ja": "そうなの。砂漠って変な植物とか動物が多いって聞いたけど、種類も多いのね？",
+      "zh": "是啊。听说沙漠里有很多奇怪的动植物，种类也很多呢？"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "59a8886d",
+      "speaker": "ライラ",
+      "ja": "そうね、特に毒がある生き物には注意しないと……しかし、砂の上って、結構歩くと疲れるのね……！",
+      "zh": "是啊，尤其要注意有毒的生物……不过，走在沙子上，走久了还是挺累的呢……！"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "f042d660",
+      "speaker": "コハル",
+      "ja": "え？　も、もしかして……歩き慣れてないの？",
+      "zh": "咦？难、难道……你不习惯走路吗？"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "603ff7dc",
+      "speaker": "ライラ",
+      "ja": "い、今まで機会が無かっただけよ！　……大抵、ラクダ車を使ってたし",
+      "zh": "才、才没有！只是以前没机会而已！……一般都是用骆驼车的。"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "965fcf18",
+      "speaker": "コハル",
+      "ja": "この国に住んでて、砂の上を歩かない事なんてあるの？",
+      "zh": "住在这个国家，居然有没在沙地上走过路的事吗？"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "f64542d7",
+      "speaker": "ライラ",
+      "ja": "こ、こんな距離歩くの初めてってだけだもん！",
+      "zh": "我、我只是第一次走这么远的路而已啦！"
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "7eeb296d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当にあの国の人なのかな……？）",
+      "zh": "（她真的是那个国家的人吗……？）"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "c773a916",
+      "speaker": "コハル",
+      "ja": "（どーしましょ、もし病人でずっと部屋にいた子とかだったら……）",
+      "zh": "（怎么办，如果她是个一直待在房间里的病弱孩子……）"
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "d1888639",
+      "speaker": "雫",
+      "ja": "ルートが更新されました。……おおよそ同じ方角ですが、若干西寄りですね",
+      "zh": "路线更新了。……大致是同一个方向，不过稍微偏西了一点。"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "1e3bc9c0",
+      "speaker": "ルミナ",
+      "ja": "ふふ……",
+      "zh": "呵呵……"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "5c8a0166",
+      "speaker": "雫",
+      "ja": "どうされましたか、ルミナ様？",
+      "zh": "怎么了，露米娜小姐？"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "61ab222b",
+      "speaker": "ルミナ",
+      "ja": "ううん。なんだか……雫の案内で進んでると、一緒に旅が出来てるんだなって……思って。いいなって……",
+      "zh": "嗯，没什么。只是觉得……跟着雅小姐的指引前进，就好像我们在一起旅行一样……真好……"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "6ca36a7a",
+      "speaker": "雫",
+      "ja": "る、るみなしゃま……！",
+      "zh": "露、露米娜大人……！"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "eac6ee26",
+      "speaker": "雫",
+      "ja": "わたくしが汗で汚れていなければ、間違いなく抱きしめていたのに……！　ああ……！",
+      "zh": "要不是我身上都是汗，我肯定就抱住你了……啊啊……！"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "2f8f69fa",
+      "speaker": "ルミナ",
+      "ja": "……汚れてなくても、暑いからイヤ……かな……",
+      "zh": "……就算不脏，天这么热我也不想被抱……吧……"
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "2c4d6e8",
+      "speaker": "雫",
+      "ja": "…………！",
+      "zh": "…………！"
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "b8ce8dcd",
+      "speaker": "",
+      "ja": "雫が急に姿勢を低くし、進行方向とは違う方角を見つめる。",
+      "zh": "雅突然压低身子，盯向了与行进方向不同的方位。"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "ef75d5ba",
+      "speaker": "ルミナ",
+      "ja": "……どうか、したの……？",
+      "zh": "……怎么了……？"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "7088f66b",
+      "speaker": "雫",
+      "ja": "……皆様、何かが遠くから来ます！",
+      "zh": "……各位，有什么东西从远处过来了！"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "aeb1c55f",
+      "speaker": "",
+      "ja": "雫の声を聞き、砂の海の向こう側へ目を凝らす。……確かに凄いスピードで、こちらに近づいてくる影があった。",
+      "zh": "听到雅的声音，大家朝沙海的另一边望去。……确实有一个影子以惊人的速度向这边靠近。"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "ac35953f",
+      "speaker": "ライラ",
+      "ja": "あれは……もしかして砂賊！？",
+      "zh": "那是……难道是沙贼！？"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "c182dba1",
+      "speaker": "{G_PlayerName}",
+      "ja": "砂賊……って、ライラが言ってた……",
+      "zh": "沙贼……莱拉之前提到过……"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "122b9698",
+      "speaker": "ライラ",
+      "ja": "どこの国にも属してない、ゴロツキの集まりよ！　……まだ大して国から離れてないのに、こんなところで会うなんて！",
+      "zh": "那是一群不属于任何国家的流氓！……明明还没离开国家多远，居然会在这里碰上！"
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "d7f40871",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": "…………"
+    }
+  ]
+}

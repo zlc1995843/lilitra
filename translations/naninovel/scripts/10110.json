@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "e3828e0e",
+      "speaker": "コハル",
+      "ja": "……ううっ！",
+      "zh": "……唔！"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "f24bcc59",
+      "speaker": "",
+      "ja": "何か棒のような物を手に殴りかかってくる親衛隊を、すんでのところで杖で迎え撃ち弾き返すコハル。",
+      "zh": "亲卫队拿着棒子一样的东西冲过来，小春在千钧一发之际用手杖迎击，把它们打飞了。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "483e8f5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫か！？",
+      "zh": "你、你没事吧？！"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "5d0ed2bb",
+      "speaker": "コハル",
+      "ja": "なんとか！　……何よ、この人たち！　魔力使って受け止めないと、なんかビリビリする武器ばっかりだし……！",
+      "zh": "总算挡住了！……这些人怎么回事！不用魔力接招的话，净是些电得人发麻的武器……！"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "53525d84",
+      "speaker": "親衛隊",
+      "ja": "おい、やれ！",
+      "zh": "喂，上！"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "9bf0d6e5",
+      "speaker": "",
+      "ja": "奥に立っていた親衛隊の一人が、何か球体を掲げた。",
+      "zh": "站在后面的一个亲卫队员举起了某个球体。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "466d9f98",
+      "speaker": "コハル",
+      "ja": "ん？　何あれ？　投げるの？",
+      "zh": "嗯？那是什么？要扔吗？"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "5cab0d91",
+      "speaker": "ルミナ",
+      "ja": "あぶない……！",
+      "zh": "危险……！"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "3e29d3fb",
+      "speaker": "",
+      "ja": "球体から光が走り、ルミナが創り出した防御壁と火花を散らした。光は弾け、塵となって消える。",
+      "zh": "球体射出一道光线，和露米娜制造出的防护壁撞出火花。光线弹开，化为烟雾消散了。"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "840ff7bc",
+      "speaker": "コハル",
+      "ja": "あ……ありがとう、ルミナ……！　今のって……あの、丸いヤツも武器なの！？",
+      "zh": "啊……谢谢你，露米娜……！刚才那个……那个圆球也是武器吗？！"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "652dbb9c",
+      "speaker": "ルミナ",
+      "ja": "うん……レーザー……光で攻撃する武器、だから……赤く光ったら、気をつけて……簡単には使えないはず、だから……",
+      "zh": "嗯……是激光……用光线攻击的武器，所以……如果它变红了，就要小心……应该不是随便就能用的，所以……"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "ffb8ceef",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫のほうは、大丈夫か……！？",
+      "zh": "那焔呢，她没事吧……？！"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "d5deda49",
+      "speaker": "雫",
+      "ja": "くっ…………",
+      "zh": "可恶……"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "7e0c96cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！　……う、後ろにいたのか。ありがとう",
+      "zh": "哇！……呃，原来你在后面啊。谢谢。"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "400e6d5a",
+      "speaker": "雫",
+      "ja": "キョロキョロしないで隠れていなさい！　マトになりたいのですか！　……全く、なんでこんなヤツを守らないといけないのでしょうか……",
+      "zh": "别东张西望的，好好躲着！你想当靶子吗！？……真是的，为什么非得保护这种家伙不可……"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "2d5be6e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……隠れるにも、場所が……俺も何かしたほうが……",
+      "zh": "对、对不起……躲也没地方躲……我也该做点什么……"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "538bb875",
+      "speaker": "アポロ",
+      "ja": "懐の火器を使用するおつもりですか？　原始的な作りのその銃は、この船内で正常に使えるか疑問ですので止めておいたほうがよろしいでしょう",
+      "zh": "您打算用怀里的火器吗？那种枪太原始了，在船上能不能正常使用都是个问题，所以还是收起来比较好。"
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "518eb37b",
+      "speaker": "{G_PlayerName}",
+      "ja": "う…………",
+      "zh": "唔……"
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "905caf5",
+      "speaker": "アポロ",
+      "ja": "身の程をわきまえ、大人しくしていたほうがよろしいかと",
+      "zh": "还是认清自己的身份，老实点比较好。"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "26645360",
+      "speaker": "{G_PlayerName}",
+      "ja": "……って言われても……はあ……",
+      "zh": "……就算你这么说……唉……"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "999e5c2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうだ。ちょっと思いついたことがあるんだが……",
+      "zh": "……对了。我倒是想到了一个办法……"
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "e78dde4",
+      "speaker": "アポロ",
+      "ja": "はあ……？　思いついたことですか？",
+      "zh": "哈……？想到了什么？"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "5bbf9f9e",
+      "speaker": "アポロ",
+      "ja": "……なるほど。いかにも原始的な発想をお持ちの方が考えそうなアイデアですが……",
+      "zh": "……原来如此。这果然像是您这种原始思维的人会想出来的主意……"
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "d468dc7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "使えそうか？",
+      "zh": "能用吗？"
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "2bd31d00",
+      "speaker": "雫",
+      "ja": "……そんなことしなくとも、この場は……",
+      "zh": "……就算不做那种事，这里也……"
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "3c7a1f4c",
+      "speaker": "雫",
+      "ja": "どうとでもなります！",
+      "zh": "随你便！"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "d304091",
+      "speaker": "親衛隊",
+      "ja": "ぐわあっ！",
+      "zh": "呜哇！"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "329cbb71",
+      "speaker": "",
+      "ja": "雫が周囲にいたグリムの親衛隊達を吹き飛ばし、グリムへと距離を詰める。",
+      "zh": "焔把周围的格林亲卫队吹飞，逼近格林。"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "49097ec7",
+      "speaker": "雫",
+      "ja": "……親衛隊を下げて、お帰りください！",
+      "zh": "……撤掉亲卫队，请回吧！"
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "278b961b",
+      "speaker": "グリム",
+      "ja": "きゃ～怖～い♥　親衛隊の皆がぜーんぜん歯が立たない♥",
+      "zh": "呀～好可怕♥ 亲卫队完全不是你的对手呢♥"
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "fb20a8e",
+      "speaker": "グリム",
+      "ja": "お姉ちゃんが買った護衛なだけある～♥　やっぱり、和と桜花の星生まれは……",
+      "zh": "不愧是姐姐雇的保镖～♥ 果然，和与樱的星之子就是……"
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "9718d7b",
+      "speaker": "雫",
+      "ja": "…………っ！",
+      "zh": "……！"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "47d443c4",
+      "speaker": "",
+      "ja": "雫が再びグリムに刃を向ける。が、先程同様グリムは余裕そうに笑みを浮かべた。",
+      "zh": "焔再次将剑指向格林。但格林仍和刚才一样，露出了从容的笑容。"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "b7811082",
+      "speaker": "グリム",
+      "ja": "キャハハ、何～？　もしかして怒ったの？　ほんとのコトじゃ～ん♥",
+      "zh": "啊哈哈，怎么了～？难道生气了？我说的可是实话呀～♥"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "5d274a05",
+      "speaker": "グリム",
+      "ja": "はー、面倒だから見てるだけのつもりだったけど～、そんなことされちゃったら～……",
+      "zh": "哈——本来嫌麻烦只想看戏的，但被这样对待的话～……"
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "54791470",
+      "speaker": "グリム",
+      "ja": "ちょっとあたしも、遊びたくなっちゃうな～♥",
+      "zh": "我都有点想一起玩了呢～♥"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "730f7a00",
+      "speaker": "雫",
+      "ja": "！　その武器はまさか……っ",
+      "zh": "！那把武器难道是……！"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "46de6c76",
+      "speaker": "グリム",
+      "ja": "えいっ♥",
+      "zh": "嘿～♥"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "6bfade0",
+      "speaker": "",
+      "ja": "グリムがどこからか取り出した剣を一振りする。",
+      "zh": "格林不知从哪抽出一把剑，挥舞了一下。"
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "bb877f7",
+      "speaker": "雫",
+      "ja": "くっ……！",
+      "zh": "可恶……！"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "8da7c2e5",
+      "speaker": "",
+      "ja": "雫が周囲に浮かせていた光の刃が、まるで薄氷を割るかのように、たやすく砕け床に散らばった。",
+      "zh": "焔周围悬浮的光刃像薄冰一样被轻易击碎，散落一地。"
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "cdd8b23c",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあっ……！？",
+      "zh": "什……！？"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "69450b8a",
+      "speaker": "ルミナ",
+      "ja": "雫！　だい、じょうぶ……！？",
+      "zh": "焔！ 你、没事吧……！？"
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "7ed3beb8",
+      "speaker": "雫",
+      "ja": "ルミナ様……ご心配には、及びません。武器が使えなくなっただけでございます",
+      "zh": "露米娜大人……不必担心。只是武器用不了了而已。"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "dd44cd3c",
+      "speaker": "グリム",
+      "ja": "うふ♥　光学兵器を一時的に乱して無効化する新兵器♪　お姉ちゃんたち、まだ使ってないんだ～？",
+      "zh": "唔呼♥ 能让光学兵器暂时失效的新武器♪ 姐姐们，还没用过吧～？"
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "281d6e3f",
+      "speaker": "グリム",
+      "ja": "軍用の借り物だけど……ちょっと、自慢しちゃおっかな～♪",
+      "zh": "虽然是军用借来的……不过，还是忍不住要炫耀一下呢～♪"
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "e8da77a1",
+      "speaker": "グリム",
+      "ja": "恵まれてるお姉ちゃんでも、羨ましくなっちゃうくらい……た～っぷり、ね♥",
+      "zh": "就连得天独厚的姐姐们也会羡慕得要死……我可真是多多益善呢♥"
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "2ad798dd",
+      "speaker": "ルミナ",
+      "ja": "………………！",
+      "zh": "…………！"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "d29bf59c",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、素手で戦えるのか……！？",
+      "zh": "空手也能战斗吗……！？"
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "63bc9cca",
+      "speaker": "雫",
+      "ja": "……体術もある程度鍛えております。が……",
+      "zh": "……体术也稍微练过一些。但是……"
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "dba3a04d",
+      "speaker": "雫",
+      "ja": "どこまで通用するか……",
+      "zh": "能撑到什么时候呢……"
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "a6efcd18",
+      "speaker": "",
+      "ja": "周囲を、再び親衛隊が取り囲む。半数ほどは無力化出来たようだが、まだ脅威としては十分な人数が揃っている。",
+      "zh": "亲卫队再次围了上来。大约一半已经被解决了，但剩下的还是够危险的。"
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "14fa567c",
+      "speaker": "アポロ",
+      "ja": "こ、このままではワタシの自慢の植物園がボロボロに……",
+      "zh": "这、这么下去，我引以为傲的植物园就要被砸烂了……"
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "654c23c8",
+      "speaker": "コハル",
+      "ja": "そんなこと言ってる場合じゃないでしょ！",
+      "zh": "现在不是说这个的时候吧！"
+    }
+  ]
+}

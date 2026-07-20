@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "9b1e90",
+      "speaker": "ルミナ",
+      "ja": "す……ごい……！",
+      "zh": "唔……好疼……！"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "47e47278",
+      "speaker": "コハル",
+      "ja": "綺麗……！　これ、みんな宝石？　光る石？",
+      "zh": "好漂亮……！这些，全是宝石吗？发光的石头？"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "1d05093d",
+      "speaker": "雫",
+      "ja": "ここの物だけでもサンプルが揃えば、話は早いですが……",
+      "zh": "光是这里的矿石，如果样品齐全的话，事情倒是简单了……"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "14e33b17",
+      "speaker": "プリズム",
+      "ja": "このあたりで残ってる石は光が弱かったり、加工出来なかったり問題がある石だから……価値は低いですよ？",
+      "zh": "这一带剩下的石头不是光太弱就是没法加工，问题挺多的……所以价格很便宜哦？"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "916fccf0",
+      "speaker": "雫",
+      "ja": "やはりですか。わかってはいましたが、甘くはありませんね",
+      "zh": "果然如此。我也猜到了，不过还是有点不甘心呢。"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "17f5b3ac",
+      "speaker": "プリズム",
+      "ja": "まだまだ浅層なので、めぼしい物はここには残ってないと思います～",
+      "zh": "毕竟还只是浅层，我觉得好东西不会留在这里～"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "b8c58ed5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……鉱石って無かったところに増えたりしないのか？",
+      "zh": "这样啊……那这些矿石不会突然增多吗？"
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "92da6717",
+      "speaker": "雫",
+      "ja": "……そんなこと、あるわけが……",
+      "zh": "……这种事，按理说不可能……"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "7d916ab0",
+      "speaker": "プリズム",
+      "ja": "増えるらしいですよ？",
+      "zh": "还真有可能哦？"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "a6fdd233",
+      "speaker": "雫",
+      "ja": "あるのですかっ！？",
+      "zh": "难道真有这种事！？"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "96882439",
+      "speaker": "プリズム",
+      "ja": "浅層ではなかなかありませんけど、深層だと前掘ったところに石が増えてるって聞いたことあります！",
+      "zh": "浅层确实不太会有，但我听说深层的话，之前挖过的地方会冒出新的矿石来！"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "9e5ffbd3",
+      "speaker": "ルミナ",
+      "ja": "そ、そうなんだ……なんか、不思議だね……",
+      "zh": "这……这样啊……总觉得有点不可思议呢……"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "7695805f",
+      "speaker": "プリズム",
+      "ja": "半分は噂話みたいなものですけどね！　でも、実際に確かめた人はいるって話です",
+      "zh": "一半像是谣言啦！不过，据说确实有人亲眼确认过。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "9213fa24",
+      "speaker": "雫",
+      "ja": "それが本当だとすれば、分析しがいがありそうですね",
+      "zh": "如果那是真的，倒是有分析的价值呢。"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "c92b50ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ん、この音は……？）",
+      "zh": "（嗯？这声音是……？）"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "813243ca",
+      "speaker": "雫",
+      "ja": "（アポロから通信のようです）",
+      "zh": "（好像是阿波罗发来的通讯。）"
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "aeee99c9",
+      "speaker": "",
+      "ja": "雫は歩くスピードを落とし、プリズムから隠れるようにして通信機のボタンを押した。",
+      "zh": "雪放慢了脚步，为了不让普莉兹姆发现，按下了对讲机的按钮。"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "948ff667",
+      "speaker": "雫",
+      "ja": "（アポロ？　どうかしたのですか？）",
+      "zh": "（阿波罗？出什么事了吗？）"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "c94ca36a",
+      "speaker": "アポロ",
+      "ja": "ワタシはアポロではありません、APL-180です。調査の結果判明した情報を伝えるべく連絡いたしました",
+      "zh": "我不是阿波罗，是APL-180。已传达调查结果判明的信息。"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "e614a0e2",
+      "speaker": "アポロ",
+      "ja": "この星は異常な引力が発生しており、それが原因で引き寄せられてしまったようです",
+      "zh": "这颗星球正在产生异常的引力，似乎因此被吸引过来了。"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9461085c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（緑と獣の星？　だっけ。あそこと一緒か？）",
+      "zh": "（绿与兽之星？果然，和那里是一起的吗？）"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "ddbdbb0e",
+      "speaker": "雫",
+      "ja": "（あの星は通常の引力でしたが、アポロの失態で……まあ続きを聞きましょう）",
+      "zh": "（那颗星只是普通的引力，但阿波罗的失误……嘛，还是听听后续吧。）"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "41e76aba",
+      "speaker": "アポロ",
+      "ja": "引力のムラを調査し、ルートの構築が脱出には必要です。そのためには様々なサンプルを用意してください",
+      "zh": "调查引力异常，构建路线是脱离所必需的。为此，请准备各种样本。"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "1b7883f7",
+      "speaker": "雫",
+      "ja": "……なるほど。わかりました。では",
+      "zh": "……原来如此。明白了。那么就这样。"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "26d2f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（要するに……？）",
+      "zh": "（也就是说……？）"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "a638eb4a",
+      "speaker": "ルミナ",
+      "ja": "（予定通り……鉱石、をいっぱい持ち帰ったら、大丈夫……ってことだね）",
+      "zh": "（按计划……把矿石带一堆回去，就万事大吉了吧。）"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "d931f842",
+      "speaker": "コハル",
+      "ja": "（オッケー！　いっぱい掘って帰ろう！）",
+      "zh": "（OK！那就多挖点带回去！）"
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "3f3f58b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう！",
+      "zh": "哦！"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "c4cb5c3e",
+      "speaker": "コハル",
+      "ja": "（……もういっそ、この星で王様目指せるくらい掘り尽くしちゃおう）",
+      "zh": "（……干脆，在这颗星上挖到能让国王看中的量为止。）"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "5d4bc7a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それは流石に……）",
+      "zh": "（那得挖到流石……）"
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "62abe26a",
+      "speaker": "雫",
+      "ja": "っ、はぁっ！",
+      "zh": "呀、啊！"
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "c8dbf61c",
+      "speaker": "コハル",
+      "ja": "なっ、何！？",
+      "zh": "啊？什么事！？"
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "42d7d6b",
+      "speaker": "",
+      "ja": "雫が何者かの攻撃を受け止め、弾き飛ばす。軽業師のように着地した少女――恐らくリリアンが、こちらに向き直った。",
+      "zh": "雪受到某种攻击停下了脚步，弹飞出去。宛如轻业师般着地的少女——可怕的莉安直冲这边而来。"
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "175a2d87",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "c53b24c6",
+      "speaker": "プリズム",
+      "ja": "もしかして、さっき襲ってきた人ってこの人ですか！？",
+      "zh": "难道说，刚才袭击我们的人就是这个家伙！？"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "901483f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、こんなヤツは見たこと無い……！",
+      "zh": "不，这样的家伙我可从没见过……！"
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "8a5b3ffc",
+      "speaker": "？？？",
+      "ja": "……命までは、取らない",
+      "zh": "……不会要你的命。"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "974fe9ff",
+      "speaker": "プリズム",
+      "ja": "きゃあーーーっ！？",
+      "zh": "啊啊啊啊——！？"
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "fb856632",
+      "speaker": "雫",
+      "ja": "くっ……！",
+      "zh": "咕……！"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "283a70fb",
+      "speaker": "ルミナ",
+      "ja": "雫……！",
+      "zh": "雪……！"
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "3ba75c06",
+      "speaker": "雫",
+      "ja": "お下がりください、ルミナ様！",
+      "zh": "请您退后，露米娜大人！"
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "175a2d87",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "893ca679",
+      "speaker": "雫",
+      "ja": "（蛇のように、わたくしですら捉えられない動き……この者、強い……！）",
+      "zh": "（如同蛇一般，连我都捕捉不到的动作……这家伙，很强……！）"
+    }
+  ]
+}

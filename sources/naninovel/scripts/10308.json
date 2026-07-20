@@ -1,0 +1,616 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "fa2f54f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、え～～～～っと……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "7bebddf8",
+      "speaker": "？？？",
+      "ja": "名前すら明かせないのかい？　……ああ、ボクとしたことが",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "25390b25",
+      "speaker": "ベリル",
+      "ja": "ボクの名前はベリル。この家に住む、魔導具ブランド「アレキサンドライト」の次期当主だ",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "29f33082",
+      "speaker": "オーロラ",
+      "ja": "えっ！　アレキサンドライト！？　凄い、実験用保護グローブ使わせてもらってます！　あ、オーロラです！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "6734a565",
+      "speaker": "フォニー",
+      "ja": "オーロラ、あなた知らなかったの？　私は近くの魔導学校に通ってるフォニーと申します、その……！",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "c97a87d8",
+      "speaker": "",
+      "ja": "塀の向こうを、複数の人間が走る足音が聞こえてくる。それを聞いて、全員が息を潜めた。",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "42c0226a",
+      "speaker": "ベリル",
+      "ja": "……どうやら何かワケがあるみたいだね。そこの植木の影に隠れるといい",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "ddfbbb27",
+      "speaker": "フォニー",
+      "ja": "あ……ありがとうございます！",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "c5ab9aac",
+      "speaker": "",
+      "ja": "ベリルの指示通り植木に隠れた瞬間、門の方から足音が近づいてきた。",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "415730c3",
+      "speaker": "男",
+      "ja": "お忙しいところ失礼、この家に怪しい集団が入り込みませんでしたか？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "8477794b",
+      "speaker": "ベリル",
+      "ja": "怪しい……？　さあ、この家は大きいからね。入っていたとしてもわからないかも知れないが……",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "93c2adfb",
+      "speaker": "男",
+      "ja": "恐れ入りますが、逃亡犯が逃げ込んでいる恐れがありますので、中を調べさせていただいても……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "9e95e31e",
+      "speaker": "ベリル",
+      "ja": "アポイントメントはとっているのかい？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "dd76127f",
+      "speaker": "男",
+      "ja": "は…………？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "d208c47f",
+      "speaker": "ベリル",
+      "ja": "キミもご存知だと思うが、ここは魔道具ブランド「アレキサンドライト」の私有地、かつアトリエだ。まだ販売されてない魔導具も沢山ある",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "e6066997",
+      "speaker": "ベリル",
+      "ja": "次期当主としては、中に軽々しく部外者を入れるわけにはいかない。中に入れるかどうかは、ボクの任意だろう？　悪いがお断りするよ",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "4969ef7f",
+      "speaker": "男",
+      "ja": "そ、それは……！",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "193bdb6d",
+      "speaker": "ベリル",
+      "ja": "何、心配しなくてもいい。怪しい者を見かけたらすぐに報せるよ。ブランド自慢の、「共振ガラス」で作ったベルでね。お持ちでない？　この機会にご提供しよう",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "5822390d",
+      "speaker": "",
+      "ja": "ベリルが懐から出した魔導具を、男の手に握らせる。男は何か言いたげに口を開いたが、続ける言葉が見つからなかったのか、軽く溜め息をついた。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "ad87e03a",
+      "speaker": "男",
+      "ja": "では、何かわかりましたらご協力をお願いします",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "c9a09d07",
+      "speaker": "ベリル",
+      "ja": "ああ。次は前もって連絡を頼むよ。茶菓子を用意しておくから",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "bfc166e6",
+      "speaker": "ベリル",
+      "ja": "……行ったようだよ",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "499b573",
+      "speaker": "雫",
+      "ja": "……確かに。この家の周囲から気配は消えました",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "e465becf",
+      "speaker": "コハル",
+      "ja": "ありがとうございます……けど、なんで助けてくれたんですか？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "2f67b658",
+      "speaker": "ベリル",
+      "ja": "あの男たちの服、魔法学校の監査隊だろう？　と来れば、我がブランドの消費開発部門の敵だ。あそこは魔法の居場所を食いかねない魔導具を許さないからね",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "658bcdd2",
+      "speaker": "ベリル",
+      "ja": "あと……困ったレディー達を追い詰める悪漢は、男として許せないからね",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "c2fa2fa9",
+      "speaker": "",
+      "ja": "ベリルがコハルの手を取り、跪いてウィンクする。コハルは空いた方の手で頬を掻いた。",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "77f791e9",
+      "speaker": "コハル",
+      "ja": "あはは……ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "6e18d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……何照れてんだ",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "3b417927",
+      "speaker": "コハル",
+      "ja": "て、照れるくらいしたっていいでしょ！　こんなことされたら！",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "f7684724",
+      "speaker": "雫",
+      "ja": "（……男のリリアンは、かなり希少なはずですが。まあいる所にはいてもおかしくありませんか）",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "c712cd4a",
+      "speaker": "オーロラ",
+      "ja": "で、でもどうしよう……このままじゃ教員大会議に間に合わないかも……",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "be65ace6",
+      "speaker": "フォニー",
+      "ja": "……あと３０分くらいか。でもこうなっちゃったらいつ発表しても変わらないでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "7f9673f2",
+      "speaker": "フォニー",
+      "ja": "そもそも、研究中邪魔されないように急いでたんだから、研究終わった今なら焦らなくてもいいんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "f1a2c533",
+      "speaker": "オーロラ",
+      "ja": "う……ううん……でも、そのぉ……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "eba92da3",
+      "speaker": "ベリル",
+      "ja": "…………どうやら、お急ぎのようだね",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "880995c",
+      "speaker": "ベリル",
+      "ja": "キミたちに、是非テスターとしてお試しいただきたい商品があるんだが……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "c8af1c7b",
+      "speaker": "オーロラ",
+      "ja": "しょ、商品…………？",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "5fc59783",
+      "speaker": "フォニー",
+      "ja": "～～～～～～～っ！！",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "5bb4dfeb",
+      "speaker": "通行人",
+      "ja": "……？　今、何か上を通ったか？",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "cbd4fac3",
+      "speaker": "通行人",
+      "ja": "鳥か何かじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "c21601da",
+      "speaker": "ベリル",
+      "ja": "これは少し前から倉庫の肥やしになっていた魔導具でね。件の魔導学校から認可が降りなかった商品なのさ",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "72b237fa",
+      "speaker": "ベリル",
+      "ja": "曰く危険だとか、市場での需要が見込めないとか……何、転送魔法のサービスと競合するのを恐れただけだよ",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "1716aab8",
+      "speaker": "ベリル",
+      "ja": "キミたち、防護魔法は覚えているかい？　ああ、それならいい。まさにキミたちのような人のために作られた商品さ",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "c80bbf9f",
+      "speaker": "コハル",
+      "ja": "きゃあああっ！",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "a9328653",
+      "speaker": "{G_PlayerName}",
+      "ja": "うごぉっ！　いたっ……",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "df8f30cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "……くない？",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "9f7905db",
+      "speaker": "ルミナ",
+      "ja": "みんな……だいじょう、ぶ……？",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "77fd71f6",
+      "speaker": "フォニー",
+      "ja": "防護魔法よ！　……まさか、学校まで吹っ飛ばす魔導具があるなんて思わなかったわ……！",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "da58683f",
+      "speaker": "オーロラ",
+      "ja": "あはは！　面白かった～！　障壁魔法と拒絶魔法の応用でこんな事ができるなんて、やっぱり魔導具ブランドのトップは流石だね～！",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "c18e30db",
+      "speaker": "雫",
+      "ja": "くっ……これでルミナ様に傷ひとつでも残っていたら、あの男リリアンを八つ裂きにしてやるところでしたわ……！",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "a162f4c2",
+      "speaker": "フォニー",
+      "ja": "とにかく、着いたなら急いで研究を提出に……",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "af2e16c7",
+      "speaker": "",
+      "ja": "音を聞いてか、昼見たような監査隊がこちらへと走り寄ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "35065b26",
+      "speaker": "フォニー",
+      "ja": "ここにも……！？",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "bbfd509",
+      "speaker": "オーロラ",
+      "ja": "フォニーちゃん、こっち！",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "b8b22deb",
+      "speaker": "フォニー",
+      "ja": "え！？　あなた、そっちは校舎じゃなくて……",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "17700b22",
+      "speaker": "オーロラ",
+      "ja": "いーから！",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "5d95642b",
+      "speaker": "ルミナ",
+      "ja": "みんな、あのね……",
+      "zh": ""
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "6f7f6b2a",
+      "speaker": "コハル",
+      "ja": "わかってるわ！　……オーロラのために、監査隊の足止めをしましょう！",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "6970b8a8",
+      "speaker": "雫",
+      "ja": "ルミナ様にそんな役目をさせるわけには……",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "95c2d31d",
+      "speaker": "ルミナ",
+      "ja": "ううん、少しでも……皆の役に、立ちたい……から……",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "52344805",
+      "speaker": "雫",
+      "ja": "……かしこまりました。ですが、少し足止めをしたら逃げる前提でお願いします",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "1b9ed6d1",
+      "speaker": "ルミナ",
+      "ja": "うん……！　ありがとう、雫……！",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "e5d03719",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}は大丈夫？　銃とか使えないわよね……？",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "47773975",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふふふ……大丈夫だ。この星でちょっとだけ買った魔導具がある……！　戦闘用じゃないが、ちょっかいくらいかけられる！",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "b35b289",
+      "speaker": "コハル",
+      "ja": "……ちょっかい。……まあ、無理はしないでよね……",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "a3f389ba",
+      "speaker": "監査隊",
+      "ja": "お前たち、オーロラの協力者か？　そこをどけ！　さもないと……",
+      "zh": ""
+    },
+    {
+      "key": "317.1",
+      "line_index": 317,
+      "inline_index": 1,
+      "line_hash": "7971c275",
+      "speaker": "雫",
+      "ja": "さて……諸々で溜まった鬱憤、せいぜい晴らさせていただくといたしましょうか……！",
+      "zh": ""
+    }
+  ]
+}

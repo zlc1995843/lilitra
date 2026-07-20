@@ -1,0 +1,778 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "bf4d05fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………ね……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "dc3a8c80",
+      "speaker": "{G_PlayerName}",
+      "ja": "寝られない……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "5f21a0c2",
+      "speaker": "",
+      "ja": "疲れ果てているのですぐに寝られると思っていたが、眠りが浅いのか何度も起きてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "5aa3e666",
+      "speaker": "",
+      "ja": "自分の心臓の音が大きく感じられる。旅に興奮しているのだろうか？　慣れない場所に緊張しているのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "33a7589f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……そんな繊細な……いや、無理もないか）",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "c5a8c51c",
+      "speaker": "",
+      "ja": "何しろ、死んだり生き返ったり、他の星に住む人に会ったり宇宙に飛び立ったり、眠れないには十分過ぎるほど色々あった。",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "8c667925",
+      "speaker": "",
+      "ja": "何度も目を閉じたり、深呼吸したりしてみたが、一向に眠くなる気配は無い。それどころか、どんどん目が冴えてくる始末だ。",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "cb605173",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ～…………",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "2ddf49f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "……外に出ていいか、アポロに聞いてみるか？　でも起こしたら悪いな……",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "27e970c",
+      "speaker": "アポロ",
+      "ja": "……ですから、人工知能に何を気遣ってるんですか。あとワタシはアポロではなくAPL-180です",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "8d84a80f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ！　お、起きてたのか！",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "299c7f75",
+      "speaker": "アポロ",
+      "ja": "そもそも眠りません。……スリープモードはありますが",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "7fc7da84",
+      "speaker": "アポロ",
+      "ja": "外へ出られるならご自由にどうぞ。迷ったとしても、呼ばれれば案内します。プライドを捨てるならお呼びください",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "5d3a621e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……そうか。じゃあちょっと……散歩しようかな",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "d376b9b8",
+      "speaker": "アポロ",
+      "ja": "はい。人間の睡眠前後は不覚を取りやすい傾向にあります。精々ご注意を",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "d3cd7f60",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "f0f32da1",
+      "speaker": "アポロ",
+      "ja": "機械に、気遣い？　非合理で愚かな……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "408e8515",
+      "speaker": "アポロ",
+      "ja": "……どうせワタシが壊れたところで、生命体と同じ扱いはしない癖に",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "9c269c8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おお",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "60077857",
+      "speaker": "",
+      "ja": "寝る前に歩いた廊下の照明は一部消されており、一味違った空気を漂わせていた。",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "cdb458cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "十分歩ける明るさだけど……暗くなってると、夜って感じするな",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "d652e39a",
+      "speaker": "",
+      "ja": "確か、宇宙では朝でも夜でも同じ明るさらしい。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "6b82bd2a",
+      "speaker": "",
+      "ja": "時間感覚を忘れないようにしているのか、エネルギー節約のためにしているのかわからないが……少し面白い。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "bc34893d",
+      "speaker": "{G_PlayerName}",
+      "ja": "さーて、お散歩開始といきますか……",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "38b8a84e",
+      "speaker": "",
+      "ja": "およそ10分後……",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "9ab9a638",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん、元の位置に戻ってきたのか。",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "c73ea486",
+      "speaker": "",
+      "ja": "ここの廊下は円形に繋がっているらしい。途中の扉には入らずただ歩いていたら、いつの間にか部屋の前に戻ってきてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "a31e8e3f",
+      "speaker": "",
+      "ja": "あいにくと、まだ眠気は来ていない。どこかの部屋で時間を潰してもいいが……",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "958613ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "（変な扉開けても嫌だしな……もし王女様の部屋だったら、それこそ殺されるかも……いや、流石に止められるか）",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "14b702c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "覚えてる部屋は……",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "207df564",
+      "speaker": "",
+      "ja": "隣がコハルの部屋なのは覚えているが、流石にもう寝ているだろう。後は……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "3e0c721",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あ、あそこの扉なら覚えてるな",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "bfd80dcb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………これは……本当に凄いな",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "d5c41ce",
+      "speaker": "",
+      "ja": "記憶が間違っていなかった、と喜ぶ暇も無く嘆息する。",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "c7be8a02",
+      "speaker": "",
+      "ja": "明るい状態では気づかなかった、光る植物が暗闇に浮かび上がり、より幻想的に植物園を彩っている。",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "8a48c847",
+      "speaker": "{G_PlayerName}",
+      "ja": "今度コハルにも教えて……ん？",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "fc2a520c",
+      "speaker": "",
+      "ja": "淡い光の向こうに、何かの影が見えた。大きな木の根本にある、ベンチに座ったあの影は……",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "96140b9c",
+      "speaker": "ルミナ",
+      "ja": "……あ……{G_PlayerName}、くん！？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "cfeb9047",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……！？　ここで何してるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "d3c256f1",
+      "speaker": "ルミナ",
+      "ja": "ちょっと……眠れなく、て……",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "a4dc1e1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなんだ。俺もだよ",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "6ed7f1e1",
+      "speaker": "",
+      "ja": "そう答えると、少しの沈黙が訪れた。口調は普通で良いとは言われたものの、王女様とどんな話をすればいいのか……",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "a0acecb2",
+      "speaker": "ルミナ",
+      "ja": "隣……すわ、る？　よかったら……",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "d417af2f",
+      "speaker": "ルミナ",
+      "ja": "あ、嫌、だったら！　無理、しないで……",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "911d1ae4",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いや！　少し驚いただけだ。じゃあ、お言葉に甘えて……",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "b94ac952",
+      "speaker": "",
+      "ja": "恐る恐る、ルミナの隣に座る。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "f4ab46a6",
+      "speaker": "",
+      "ja": "こう並んでみると、やはり背が小さい。コハルや村の子供達と大して変わらないのに、粗相してはいけないと緊張で体が強ばる。",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "3ede56a7",
+      "speaker": "ルミナ",
+      "ja": "どう……だった？",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "8b2591b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　あ……どう、って？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "b3c61f4b",
+      "speaker": "ルミナ",
+      "ja": "宇宙船の、中……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "fc3bb266",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。色々見せてもらったけど……どこも凄くて。文句のつけようが無かったよ",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "591f4f45",
+      "speaker": "ルミナ",
+      "ja": "良かった……その、やっぱり帰りたいって、言われたらどうしようって……思ってた……",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "a51f043e",
+      "speaker": "",
+      "ja": "夕食のメニュー然り、こちらのホームシックを随分と心配しているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "9765f884",
+      "speaker": "{G_PlayerName}",
+      "ja": "って言っても、１年……帰りも同じだけかかったとして、２年だろ？　それくらいなら大丈夫だって",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "20ac1ea2",
+      "speaker": "ルミナ",
+      "ja": "そっ……か。そう、だよね……",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "e07961a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "それを言うなら、ルミナ達だって元いた星に帰りたいんじゃないか？　辛くないのか？",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "7fbe0650",
+      "speaker": "ルミナ",
+      "ja": "…………私は、大丈夫",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "7ae57567",
+      "speaker": "ルミナ",
+      "ja": "帰っても楽しいこと、無いから……",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "c7e55a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………？",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "5bdb3111",
+      "speaker": "",
+      "ja": "王女様なら、お城に住んでて贅沢三昧なイメージだったが。……ここの設備を見る限りは。",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "2329b9a0",
+      "speaker": "",
+      "ja": "もしかしたら、何か悩みがあるのだろうか……？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "8897ea20",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}くんの故郷って言えば",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "55af282b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　何してるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "47cee034",
+      "speaker": "",
+      "ja": "ルミナは立ち上がると、茂みから何かを千切ってこちらへ持ってきた。",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "12439ebd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……！　これって……",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "aac784ce",
+      "speaker": "ルミナ",
+      "ja": "この果物。{G_PlayerName}くんの村の……だよ、ね？",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "dbbb1851",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。名物のイロイチゴだな",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "5dbecd8f",
+      "speaker": "",
+      "ja": "豊かな自然の中で育つイチゴ。故郷の村の、数少ない名産品だった。",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "f524127f",
+      "speaker": "{G_PlayerName}",
+      "ja": "食べていいのか？",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "963c073e",
+      "speaker": "ルミナ",
+      "ja": "うん。……ちょっと、違うかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "6037a582",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……うん、美味い。ちゃんと出来てるじゃないか",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "d86865a3",
+      "speaker": "",
+      "ja": "ハリのある食感と、中から溢れ出る果汁。子供の頃から食べている味と、なんら遜色はなかった。",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "dc0d4033",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙でも育てられるなんて、凄いな。帰りたくなる理由が１つ無くなった",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "4345aeb2",
+      "speaker": "ルミナ",
+      "ja": "へへ……",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "2550d94a",
+      "speaker": "",
+      "ja": "ルミナも続いて食べる。小さいイチゴでもルミナの口には大きいのか、何度か分けて食べていた。",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "319bea6d",
+      "speaker": "ルミナ",
+      "ja": "……美味しい",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "28c3e96c",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "2081d110",
+      "speaker": "",
+      "ja": "イチゴを食べて笑うルミナ。その表情を見た瞬間、脳裏に何かがチラついた。",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "81be2dd6",
+      "speaker": "ルミナ",
+      "ja": "？　どうか……した？",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "ff5d01ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……もしかして、ルミナって……",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "8b55e040",
+      "speaker": "？？？",
+      "ja": "い～な～。それって、美味しいの？",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "e23a2539",
+      "speaker": "ルミナ",
+      "ja": "……っ！",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "a45344dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　誰かいるのか？",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "67148bd",
+      "speaker": "",
+      "ja": "ベンチから立ち上がって振り向く。先程までは誰もいなかったはずの、木の上に少女の姿があった。",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "48e7ecfd",
+      "speaker": "ルミナ",
+      "ja": "……グリ、ム……！",
+      "zh": ""
+    }
+  ]
+}

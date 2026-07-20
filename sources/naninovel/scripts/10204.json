@@ -1,0 +1,1084 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "ea5f08ef",
+      "speaker": "コハル",
+      "ja": "はぁ……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "bd9edc4e",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………ふぅ、ふー……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "1f1633e6",
+      "speaker": "",
+      "ja": "あれから、蒸し暑い森を暫く歩いた。おおよそ３０分ほどだろうか……？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "afc8213",
+      "speaker": "",
+      "ja": "歩く速度は全く変わらない。村とやらまで、どれくらい近づいたのか……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "bb232c6d",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "30f691f6",
+      "speaker": "コハル",
+      "ja": "う、うん……私は大丈夫。{G_PlayerName}こそ、疲れてるんじゃないの？",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "fdbdebef",
+      "speaker": "{G_PlayerName}",
+      "ja": "しょ、正直結構疲れてはいる……けど、まだいける",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "375e086d",
+      "speaker": "",
+      "ja": "元々足腰に自信が無いのもあるが、それを抜きにしてもこの森は足場が悪い。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "3d226a80",
+      "speaker": "",
+      "ja": "雨のせいでぬかるんでいる地面ばかりだし、元から悩まされていた植物を、縛られているせいで手でどけることも出来ない。",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "e0456e7b",
+      "speaker": "コハル",
+      "ja": "あ、あの～……む、村ってあとどれくらいで……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "4dce9fc5",
+      "speaker": "ラチャナ",
+      "ja": "着いたぞ、村じゃ",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "51b4532b",
+      "speaker": "コハル",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "5028361",
+      "speaker": "",
+      "ja": "森の中に、少しずつ柱やテントが見え始めた。",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "d51ea7d1",
+      "speaker": "",
+      "ja": "焚き火の跡やよくわからない祭壇のような物、干し肉が作られている網などが点在している。",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "204fdf41",
+      "speaker": "コハル",
+      "ja": "わ……ちょっとした広場、って感じ……？",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "f0428212",
+      "speaker": "{G_PlayerName}",
+      "ja": "（村って言うには小規模だけど、これでも……３０人くらいは村人がいそうだな）",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "7f51924d",
+      "speaker": "",
+      "ja": "棒を振り回す少年少女が、柱を縫うように走り回っている。飾りかと思ったが、遊具なのかも知れない。",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "216397c",
+      "speaker": "コハル",
+      "ja": "こんな文化もあるんだ……",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "4a81239c",
+      "speaker": "コハル",
+      "ja": "……ってあの人、裸じゃない！？　そういう決まりとか無いの！？",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "83e138c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "全体的に布面積少ないな……暑いからかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "55c89478",
+      "speaker": "ラチャナ",
+      "ja": "なーにをやっとるんじゃ、とっとと来い。ワシらの村……トレ村が綺麗過ぎて惚けとるのか？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "98bab846",
+      "speaker": "コハル",
+      "ja": "わっ！",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "fa0d1915",
+      "speaker": "",
+      "ja": "縄を再び引っ張られ、村の奥へと連行される。",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "ae676b6f",
+      "speaker": "",
+      "ja": "服が目立つのだろうか。奇異な物を見る視線を浴びながら、テントの前へと来た。",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "5ea48ef2",
+      "speaker": "ラチャナ",
+      "ja": "ほれっ、入れっ！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "b805ec7d",
+      "speaker": "コハル",
+      "ja": "えっ！？　きゃーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "d27d4b25",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおおっ！？",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "d12e9e2b",
+      "speaker": "",
+      "ja": "周囲に群がられ、あっという間にテントの中へと押し込まれた。",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "757eeff6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あいてっ！",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "c862a205",
+      "speaker": "コハル",
+      "ja": "な、何すんのよっ！",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "780f1460",
+      "speaker": "ラチャナの声",
+      "ja": "あの聖域は生命の神がおわす場所じゃ。お前たちはその部屋で、神に捧げる儀式を執り行わなければならん",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "5bb32c02",
+      "speaker": "コハル",
+      "ja": "儀式……？",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "3513325b",
+      "speaker": "ラチャナの声",
+      "ja": "交尾じゃ",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "692ad69d",
+      "speaker": "{G_PlayerName}",
+      "ja": "こっ……",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "f303e607",
+      "speaker": "コハル",
+      "ja": "こ、交尾って……つまり、え、え、エッチしろってこと！？",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "780bfcdd",
+      "speaker": "ラチャナの声",
+      "ja": "？　何を驚いておる。女はともかく、男はこの儀式なくして森に出てはならん。それを改めてするだけじゃろう",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "6119ec41",
+      "speaker": "ラチャナの声",
+      "ja": "まさかおぬしら、それすらまだしたことが無いとでも……",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "1e36419f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちっ、違う違う！　……とにかく儀式するんだから、お前らはどっか行ってろよな！",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "ac0e3860",
+      "speaker": "ラチャナの声",
+      "ja": "ほっほっ。周りを気にするなど、男として小さいやつじゃのう",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "6093e29b",
+      "speaker": "コハル",
+      "ja": "うう……こ、こっち見ないでよ！？　絶対だからねっ！",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "fad0d70",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかってるって……！",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "fbfec798",
+      "speaker": "",
+      "ja": "俺とコハルは部族の人たちに何も抵抗できずに、服を全部ひん剥かれると部屋に閉じ込められてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "3bdad61",
+      "speaker": "コハル",
+      "ja": "それにしてもこんなことになるなんて……どうしてここの人たちは、その……交尾……えっち、なんて……",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "44f34a0d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういうのが大事な部族、ってことなんじゃないか……？　交尾しろって声、かなりマジだったしさ",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "9c1d6e99",
+      "speaker": "コハル",
+      "ja": "風習も慣習も違う人たちとコミュニケーションを取るのって大変なのね……",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "83bfca08",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに、な……",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "7ea0af93",
+      "speaker": "",
+      "ja": "俺達は何もできずに途方に暮れる。やがて会話も無くなり、背中を見せあいながらただただじっとしていた。",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "d6b76fe4",
+      "speaker": "コハル",
+      "ja": "……いつまでもこうしているわけにはいかない、よね……？",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "a9a3ab54",
+      "speaker": "{G_PlayerName}",
+      "ja": "まぁな……俺達が戻ってこなければルミナ達が心配するだろうし",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "63387d50",
+      "speaker": "コハル",
+      "ja": "ねぇ……あんたルミナのことどう思っているの？",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "4c80e189",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……？　いきなり何を言い出すんだよ？",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "c248f175",
+      "speaker": "コハル",
+      "ja": "えっと……その、ちょっと知りたかったというか……。ああもう……！　今の無し！　聞かなかったことにして！",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "bd3b442e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……わかった……",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "5b4820f8",
+      "speaker": "",
+      "ja": "再び会話が途切れ、静寂が部屋の中を支配する。どうすればいいか色々考えるものの、いい案も浮かぶはずもなく呆然と天井を見つめる。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "b88b01f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "とりあえず、フリだけでもして終わらせるか？　気づかれないかもしれないし……",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "88228128",
+      "speaker": "コハル",
+      "ja": "ねぇ……あたしは……そんなに嫌じゃ……ないよ……？",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "61b56dc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　何が？",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "ac152bcc",
+      "speaker": "コハル",
+      "ja": "何がって……！　この鈍感……！！　エッチするってことよ！！",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "8a8361d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい！　コハル……！！",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "64279c2f",
+      "speaker": "",
+      "ja": "俺はコハルの思わぬ言葉に慌てて振り返ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "5cf742cd",
+      "speaker": "",
+      "ja": "視界に生まれたままの姿のコハル、それもこちらを向いていたコハルが目に入り、その綺麗で傷一つない裸に思わず見とれてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "7105761e",
+      "speaker": "コハル",
+      "ja": "あんたさ……身体つきが子供の頃と全然変わったよね。すごくがっちりしているっていうか……",
+      "zh": ""
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "20cadfd7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そういうコハルだって……その、何て言ったらいいか……",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "fa13eb77",
+      "speaker": "",
+      "ja": "子供の頃何度も一緒にお風呂にも入ったことがある。その時は付いているかいないか、その程度の違いしかなかった。俺の中でのコハルの裸はその時のままで止まってしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "8e697ad8",
+      "speaker": "",
+      "ja": "リリアンになり成長が止まっているとはいえ、記憶よりも成長したコハルの姿にドキドキして、ただただ困惑してしまう。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "c8c999f8",
+      "speaker": "コハル",
+      "ja": "エッチしなきゃ部屋から出られないなら……あたしは本当に構わないから……",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "1dd0055c",
+      "speaker": "コハル",
+      "ja": "だから……その……",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "67df1bc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ば、ばか！　そんな簡単にしていいものじゃないだろっ。もっと自分を大事にしろよっ",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "2dd09f44",
+      "speaker": "コハル",
+      "ja": "うーーっ！　バカはあんたよっ！　女の子が勇気を出して誘っているのに！",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "d60cb25f",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……？",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "d5f32851",
+      "speaker": "コハル",
+      "ja": "もういいっ！　勝手にやるからっ！！",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "32d58032",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！？　コハル！　何するんだよっ！！",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "6da3f050",
+      "speaker": "",
+      "ja": "力任せに押し倒され、そして馬乗りになるコハル。そして半勃になってしまっていた肉棒を掴み、自身の閉じた割れ目に宛がう。",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "189afce3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、待てコハル！　俺は別に嫌だからって言ったわけじゃなくて……！！",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "5f6a97fa",
+      "speaker": "コハル",
+      "ja": "うるさい！　黙ってて！　あたしだって女なんだから……！！　いつまでもあんたの幼馴染じゃないんだから……！！",
+      "zh": ""
+    },
+    {
+      "key": "293.0",
+      "line_index": 293,
+      "inline_index": 0,
+      "line_hash": "112f74d3",
+      "speaker": "コハル",
+      "ja": "んんんっ！♥　は、挿った……！♥　ううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "29e76f20",
+      "speaker": "{G_PlayerName}",
+      "ja": "コ、ハル……！　くぅ……！！",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "cc5c8fba",
+      "speaker": "",
+      "ja": "コハルは一切の迷うことなく腰を降ろすと、膣穴に肉棒を押し込む。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "59c041c1",
+      "speaker": "",
+      "ja": "メリメリとこじ開ける感覚とともに、肉棒が締め付けられ、ゾクゾクした快感が肉棒から全身へと広がる。",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "20ab83c9",
+      "speaker": "コハル",
+      "ja": "こ、これでやっとあたしも……♥　うう、いったぃぃ……くぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "307.0",
+      "line_index": 307,
+      "inline_index": 0,
+      "line_hash": "ba17e80c",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、だいじょうぶか！？　無理するなよ……まったく！",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "8f43e9b0",
+      "speaker": "コハル",
+      "ja": "う、うるさい……！♥　そ、それよりあんたも、その……こんなに大きくして……",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "74c19e9",
+      "speaker": "コハル",
+      "ja": "これってその……その気があったってことよ、ね？",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "a481a8fe",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そりゃ……そうだよ、あるに決まってるだろっ。コハルの裸見ちまったら勝手に勃ってしまうって……！",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "1daab098",
+      "speaker": "{G_PlayerName}",
+      "ja": "いつの間にそんな綺麗でエッチな身体になってしまったんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "e6b633bf",
+      "speaker": "コハル",
+      "ja": "ふふん♥　あたしはあんたと違ってちゃんと成長するんだから♥",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "29436a45",
+      "speaker": "",
+      "ja": "コハルは痛みに堪えながらも微笑む。その健気な姿にコハルに愛しさを覚え、さらにドキドキ感が強くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "622d18f1",
+      "speaker": "コハル",
+      "ja": "でもあんたと一つになるのがゴールじゃない……♥　あたしだってあんたのこと気持ち良くさせられるんだから……♥",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "4c06f8d7",
+      "speaker": "コハル",
+      "ja": "見てなさいよ……あんたのおちんちん、たくさん感じさせてやるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "b6ac7612",
+      "speaker": "コハル",
+      "ja": "うう……！♥　ふあ、あ……あああ！♥",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "c7c7ae2",
+      "speaker": "{G_PlayerName}",
+      "ja": "ううう……！！　ちょ……待って……これ、す、すご……くうぅっ！！",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "50409c9b",
+      "speaker": "",
+      "ja": "コハルが腰を動かすと、ツブツブの膣肉が肉棒の気持ち良いところを擦り上げる。初めて味わうその快感に逃げるように腰を捩らせてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "348.0",
+      "line_index": 348,
+      "inline_index": 0,
+      "line_hash": "f7439965",
+      "speaker": "コハル",
+      "ja": "んあっ！♥　ちょっとぉ！♥　動かないでよぉ……あんっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "d81fe737",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そんなこと言ったって……！！　コハルのあそこ……き、気持ち良くて……！！",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "2d4c7e77",
+      "speaker": "コハル",
+      "ja": "あんたのも……すごい、のかもぉ♥　あたし、初めてなのに……あそこ、感じちゃってるぅ♥",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "51640915",
+      "speaker": "コハル",
+      "ja": "セックスってこんなにすごいの？♥　頭の中真っ白になっちゃうくらい気持ち良いよぉ！♥",
+      "zh": ""
+    },
+    {
+      "key": "360.0",
+      "line_index": 360,
+      "inline_index": 0,
+      "line_hash": "6882089b",
+      "speaker": "",
+      "ja": "コハルの腰の動きがどんどん大きくなり、その表情はとろりと蕩け始める。",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "90805b08",
+      "speaker": "",
+      "ja": "愛液がどんどん膣奥から溢れ、コハルの動きが大きくなるにつれ、ぐちゅぐちゅと大きな音が部屋の中に響き渡る。",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "ad1554a4",
+      "speaker": "コハル",
+      "ja": "気持ち良い……！♥　気持ち良いよぉ……！♥　オナニーと大違いっ！♥　おまんこ蕩けちゃうぅ～！♥",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "2b254850",
+      "speaker": "コハル",
+      "ja": "あんたのおちんちん気持ち良いのっ♥　もっと……もっとぉっ！♥　んあぁっ！♥　あぁぁんっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "371.0",
+      "line_index": 371,
+      "inline_index": 0,
+      "line_hash": "49774a60",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル……うううううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "374.0",
+      "line_index": 374,
+      "inline_index": 0,
+      "line_hash": "76cfc5c0",
+      "speaker": "",
+      "ja": "今までは想像もできなかったエッチな言葉が、次々とコハルの口から零れる。",
+      "zh": ""
+    },
+    {
+      "key": "376.0",
+      "line_index": 376,
+      "inline_index": 0,
+      "line_hash": "44f5a51e",
+      "speaker": "",
+      "ja": "真面目でしっかり者のコハルが肉棒を求め喘ぐ……その姿に異様なまでに興奮が高ぶり、息苦しいほど心音が多くなっていく。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "da84891",
+      "speaker": "コハル",
+      "ja": "奥気持ち良いっ♥　おちんちんコツンって……これいいのっ！♥　ねぇ、あんたももっと感じて……あたしのおまんこでおちんちん喜んでぇっ♥",
+      "zh": ""
+    },
+    {
+      "key": "381.0",
+      "line_index": 381,
+      "inline_index": 0,
+      "line_hash": "50d5ef5f",
+      "speaker": "",
+      "ja": "コハルの快感に反応するように、膣肉が収縮を繰り返す。肉棒を包み込む膣壁が蠢き、無数のツブツブが亀頭の先端から根本まで刺激してくる。",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "12588815",
+      "speaker": "コハル",
+      "ja": "あたしっ……もうダメ！♥　おまんこイっちゃいそう！♥　一緒に……うう、このまま中に出してっ！♥　お願いっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "fc56318e",
+      "speaker": "",
+      "ja": "コハルは蕩けた瞳でおねだりをするようにじっとみつめる。",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "de578dca",
+      "speaker": "",
+      "ja": "初めて見せる幼馴染の女の表情に、頭の中で何かが弾け、コハルの身体を持ち上げるように腰を突き上げた。",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "acf54ec8",
+      "speaker": "コハル",
+      "ja": "あうううっ！♥　奥ぅぅっ！♥　あぁっ！♥　んああぁっ！♥　もうイク、イっちゃう！♥　あんたの精液っ、中にちょうだいっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "3fbc29c2",
+      "speaker": "コハル",
+      "ja": "あんただけしか知らないおまんこを精液でいっぱいにしてぇ～！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "402.0",
+      "line_index": 402,
+      "inline_index": 0,
+      "line_hash": "a99b3ce6",
+      "speaker": "コハル",
+      "ja": "んあああぁぁっ！♥　イっくぅぅぅ～！♥　んぅ、ふああぁぁんっ！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "404.0",
+      "line_index": 404,
+      "inline_index": 0,
+      "line_hash": "6b412a7b",
+      "speaker": "",
+      "ja": "子宮口が亀頭の先端に吸い付き、吸い出されるように熱いモノを吐き出す。",
+      "zh": ""
+    },
+    {
+      "key": "406.0",
+      "line_index": 406,
+      "inline_index": 0,
+      "line_hash": "af828f39",
+      "speaker": "",
+      "ja": "大量の精液がドクドクと膣奥に注ぎ込まれ、コハルは甘い悲鳴を上げながら全身を大きく痙攣させる。",
+      "zh": ""
+    },
+    {
+      "key": "409.0",
+      "line_index": 409,
+      "inline_index": 0,
+      "line_hash": "2e5c5887",
+      "speaker": "コハル",
+      "ja": "う、は……♥　あはは……♥　あなたの……いっぱい出てりゅぅ♥嬉しい……♥　もっと……もっとどっくんしてぇ～♥　ああぁ～♥",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "3f179fc1",
+      "speaker": "{G_PlayerName}",
+      "ja": "くう……！　コハル……ううっ！！",
+      "zh": ""
+    },
+    {
+      "key": "415.0",
+      "line_index": 415,
+      "inline_index": 0,
+      "line_hash": "ee830cb2",
+      "speaker": "",
+      "ja": "コハルは腰を捩り、射精の催促をする。射精で過敏になっていた肉棒はすぐに反応し、再び白濁液をコハルの中に注ぎ込む。",
+      "zh": ""
+    },
+    {
+      "key": "418.0",
+      "line_index": 418,
+      "inline_index": 0,
+      "line_hash": "c98815a1",
+      "speaker": "コハル",
+      "ja": "しゅごいよぉ♥　エッチしゅごいのぉ♥　もっと……もっとすりゅぅ♥　もっとあんたと気持ち良くなりたいよぉ～♥",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "ee58b804",
+      "speaker": "コハル",
+      "ja": "もっともっと……愛して……♥　あんたのおちんちんで気持ち良くしてぇ……♥",
+      "zh": ""
+    },
+    {
+      "key": "423.0",
+      "line_index": 423,
+      "inline_index": 0,
+      "line_hash": "bcf54341",
+      "speaker": "",
+      "ja": "快楽に我を忘れ、俺を求めるコハル。そんなエッチで可愛いコハルに完全に心奪われる。",
+      "zh": ""
+    },
+    {
+      "key": "425.0",
+      "line_index": 425,
+      "inline_index": 0,
+      "line_hash": "486b9f6a",
+      "speaker": "",
+      "ja": "俺達は幼馴染としてではなく、一組の男と女として、我を忘れて愛し合った。",
+      "zh": ""
+    }
+  ]
+}

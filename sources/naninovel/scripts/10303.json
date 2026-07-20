@@ -1,0 +1,769 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "617871fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "空飛び仲間……？",
+      "zh": ""
+    },
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "4d221f37",
+      "speaker": "オーロラ",
+      "ja": "うんっ♪　法律とか決まりに屈しないで、空を飛ぶことを目指す仲間！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "6f6a58e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "目指すっていうか、もう飛んでるけど……こっちは……",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "d1b56dfd",
+      "speaker": "オーロラ",
+      "ja": "それ！　それだよ！",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "1726f7de",
+      "speaker": "雫",
+      "ja": "…………？　それ？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "a8013722",
+      "speaker": "オーロラ",
+      "ja": "空を飛ぶ魔法の研究は、私達の星じゃ学校の決まりで禁止されてるから！",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "ee22c808",
+      "speaker": "雫",
+      "ja": "はあ…………",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "821fca64",
+      "speaker": "オーロラ",
+      "ja": "それで、あなた達が飛ぶ方法を参考にしたいの！　いいよね？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "52cc1829",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……つまり、宇宙船の構造を教えるってことだよな。それっていいのか？）",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "cf8f5726",
+      "speaker": "雫",
+      "ja": "（いいわけが無いでしょう。宇宙技術が未発達な星に技術を漏洩させる行為は、法律で禁止されています）",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "411aa6ad",
+      "speaker": "",
+      "ja": "俺たちを代表するかのように、雫が前へと出て対話を始める。何か要らないことを言ってしまわないように、俺とコハルは一歩下がって見守った。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "c1da9280",
+      "speaker": "雫",
+      "ja": "こちらの船は魔法とは全く違う方法で空を飛んでいます。魔法の参考には出来ないでしょうし、許可できません",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "83d2fa86",
+      "speaker": "オーロラ",
+      "ja": "ええ～？　何かのヒントにはなると思うんだけどな～……ケチケチしないで、教えてよ～！",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "77ce39a",
+      "speaker": "雫",
+      "ja": "ダメです。こちらにも法律という物がございますので",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "18797c73",
+      "speaker": "オーロラ",
+      "ja": "…………ふ～ん。じゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "22adb862",
+      "speaker": "オーロラ",
+      "ja": "他の人に教えるしかないかな～。宇宙から人が来たぞ～って。空飛ぶ技術があるんだぞ～って",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "ea213ead",
+      "speaker": "雫",
+      "ja": "……くっ！　脅すおつもり、ですか……！",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "b2e474b9",
+      "speaker": "オーロラ",
+      "ja": "別に～？　空飛び仲間じゃなきゃ、黙ってる理由ないもーん。透明になったってことは、隠したいんでしょ？　違う？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "eee38212",
+      "speaker": "雫",
+      "ja": "ぐ、ぐぬぬ……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "1fbae169",
+      "speaker": "オーロラ",
+      "ja": "それにさ、街を案内するから！　歩きながら、教えられることだけでいいから色々教えてよ！　ね？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "b5365b1b",
+      "speaker": "雫",
+      "ja": "う、ううん……確かに、自然に物資を補給するために現地協力者はいたほうが楽ですが……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "da7e2e1c",
+      "speaker": "雫",
+      "ja": "……仕方ありませんね。何をされるかわかりませんし……教えられることだけですからね",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "c3be6ac8",
+      "speaker": "オーロラ",
+      "ja": "やった～！　ありがと、えっと……ごめん、皆のお名前聞いてもいい？",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "2f83b0b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……まだ名乗って無かったな。俺は{G_PlayerName}。他の星から来たんだけど……俺もこの宇宙船ってやつについては、まだよくわかってないんだ",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "43b9b391",
+      "speaker": "雫",
+      "ja": "……雫。この船におられる、ルミナ様というお方の従者です",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "5424508e",
+      "speaker": "コハル",
+      "ja": "あたしはコハル！　{G_PlayerName}の幼馴染で、一緒の星から来たのよ！",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "cef9812a",
+      "speaker": "オーロラ",
+      "ja": "ルミナ様？　って？",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "71469192",
+      "speaker": "ルミナ",
+      "ja": "私の、ことだよ……",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "bfe4a782",
+      "speaker": "雫",
+      "ja": "ルミナ様！　中でお待ち下さいと……！",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "4b9f8184",
+      "speaker": "ルミナ",
+      "ja": "雫が、私のことを思って言ってくれてるのはわかるけど……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "5187d0b9",
+      "speaker": "雫",
+      "ja": "はい。ルミナ様は魔力がずば抜けて高い代償に、お体が繊細でございます。このような場所では、何が起こるか……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "39937160",
+      "speaker": "ルミナ",
+      "ja": "せっかく、外に出れたんだから。私も、いろんな物を見たい……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "dcfc0e05",
+      "speaker": "雫",
+      "ja": "…………た、たしかに、仰る通りでございますが……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "bd02d779",
+      "speaker": "コハル",
+      "ja": "そうよそうよ、ルミナのやりたい事、もうちょっとやらせてあげるべきだわ！",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "3dc8535e",
+      "speaker": "{G_PlayerName}",
+      "ja": "コ、コハル？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "3cb7fad7",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}だってそう思わない？　……私達がいるんだから、少しくらい大丈夫でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "6f1d9c8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "む……ううん……",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "f838e6db",
+      "speaker": "",
+      "ja": "ルミナの気持ちも、雫の気持ちもわかる。ただ、どちらに同意するのも無責任のような……",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "5cff3674",
+      "speaker": "コハル",
+      "ja": "（……可哀想じゃない）",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "5690f12a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（え？）",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "1452c967",
+      "speaker": "コハル",
+      "ja": "（今まで閉じ込められてて、ようやく出たのにまた閉じ込められるなんて可哀想でしょ！　……あたし達は、ルミナの味方にならないと！）",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "5d1ecb6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……そうだな）",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "626e4e7",
+      "speaker": "ルミナ",
+      "ja": "絶対、無茶はしないから……お願い",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "a7d8e186",
+      "speaker": "雫",
+      "ja": "……わかりました。必ず、離れないようにお願いします",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "dc8859a5",
+      "speaker": "ルミナ",
+      "ja": "うん。ありがとう、雫……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "319e3e50",
+      "speaker": "オーロラ",
+      "ja": "着いてきて、こっち！　すぐそこだから！",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "1860d80c",
+      "speaker": "",
+      "ja": "自己紹介を終えると、オーロラは意気揚々と歩き出した。",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "17232a78",
+      "speaker": "コハル",
+      "ja": "この星、私達の星とあんまり変わらないかもね？",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "894a0fe2",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな、魔法が発達してるらしいけど違いはそれくらいか？　……植物はところどころ変な色してるけど",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "8d43d713",
+      "speaker": "ルミナ",
+      "ja": "星の違い、って、よく調べないとわかんないことも多い、から……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "da221a58",
+      "speaker": "コハル",
+      "ja": "……そういえばアポロが法律が厳しいとか言ってたっけ",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "6cb75110",
+      "speaker": "オーロラ",
+      "ja": "そう！　よく知ってるね？　色々イヤ～な決まりが多いの！",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "8b658e90",
+      "speaker": "オーロラ",
+      "ja": "魔法を研究してる場所でも色々あって……そこだともーっとイヤな決まりが多いんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "c3371ef4",
+      "speaker": "コハル",
+      "ja": "例えば……どんな？",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "d3c6e8fc",
+      "speaker": "オーロラ",
+      "ja": "お金にならない魔法は研究禁止、研究の前に絶対上の許可が必要、その許可が出るまですっごい時間がかかったり……",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "4893f15f",
+      "speaker": "コハル",
+      "ja": "へ、へえ～。大変そうね……オーロラは魔法の研究が好きなのね？",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "6ecfe837",
+      "speaker": "オーロラ",
+      "ja": "うん！　勿論！　……あ、そろそろ着くよ！",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "b7d24551",
+      "speaker": "",
+      "ja": "オーロラが指さした方向を見る。砂の道が石レンガに変わり、賑やかな雑踏が出迎えた。",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "a0fa0fd1",
+      "speaker": "コハル",
+      "ja": "うわ～……！　私達の星の、城下町に似てる……かも！？",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "ea9adcdb",
+      "speaker": "{G_PlayerName}",
+      "ja": "売ってる物は全然違いそうだな。どんな店があるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "a5d65a0",
+      "speaker": "雫",
+      "ja": "お二人共。必要な物資以外は購入を控えなくては……",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "b487d01e",
+      "speaker": "ルミナ",
+      "ja": "……お土産、欲しい……",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "e49e20bd",
+      "speaker": "雫",
+      "ja": "勿論でございます。オーロラ様、よいお店はございませんか？",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "ddc85eb4",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前……",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "aa830d6f",
+      "speaker": "オーロラ",
+      "ja": "お土産？　色々あるよ、って言いたいところだけど……",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "96eb225d",
+      "speaker": "オーロラ",
+      "ja": "持ち出し禁止の物が結構あって、魔法で検査とかされてるからなあ……お土産かあ……",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "f7fcd77d",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなところでも法律があるんだな……",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "a40f1bdc",
+      "speaker": "オーロラ",
+      "ja": "でも大丈夫！　こっそりすれば気づかれないだろうし！",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "d03ec449",
+      "speaker": "コハル",
+      "ja": "本当……？　なんか不安だけど……",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "ac68c174",
+      "speaker": "オーロラ",
+      "ja": "大丈夫大丈夫！　空が飛べる皆なら、透明になってどこか行くくらい余裕でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "1191d114",
+      "speaker": "ルミナ",
+      "ja": "そ、それはちょっと……",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "b3c20593",
+      "speaker": "",
+      "ja": "その時、どこからか甲高い笛のような音が鳴り響いた。",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "9617007c",
+      "speaker": "ルミナ",
+      "ja": "……？　今の音、何……？",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "c4940cbb",
+      "speaker": "オーロラ",
+      "ja": "……あちゃ～……",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "a8996fdd",
+      "speaker": "男",
+      "ja": "オーロラ！　持ち物を検めさせてもらう！",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "d1704303",
+      "speaker": "",
+      "ja": "ずかずかとこちらに近づいてくる男。周囲の人たちはこちらに不安そうな視線や、興味のある視線を投げかけている。",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "c9c875d7",
+      "speaker": "コハル",
+      "ja": "え、え？　何、この人？",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "ddd34d7e",
+      "speaker": "オーロラ",
+      "ja": "……ごめん、皆！　逃げるよ！",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "ac12a2b0",
+      "speaker": "コハル",
+      "ja": "えっ！？　あ、ちょっと！？",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "69dfbb68",
+      "speaker": "男",
+      "ja": "逃げたぞ！　……一緒にいた貴様ら、お前達は何者だ？　魔法学校生ではないな。国民番号を言え！",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "a21cbbb8",
+      "speaker": "コハル",
+      "ja": "あ、あー……そのぉ……",
+      "zh": ""
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "c83a5b5e",
+      "speaker": "雫",
+      "ja": "失礼！　走りますよ！　男！　急ぎなさい！",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "10ec852a",
+      "speaker": "",
+      "ja": "言うが早いか、雫はコハルとルミナを抱きかかえオーロラの後を走り始めた。",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "25e00a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお！？",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "ff7521f1",
+      "speaker": "男",
+      "ja": "止まれ！　くそっ！",
+      "zh": ""
+    }
+  ]
+}

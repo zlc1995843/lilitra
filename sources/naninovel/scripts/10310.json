@@ -1,0 +1,1714 @@
+{
+  "lines": [
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "666e647b",
+      "speaker": "雫",
+      "ja": "ちっ……魔法というのは、攻撃の予測がつきにくいですね！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "64322ceb",
+      "speaker": "コハル",
+      "ja": "え、そう？　魔力の流れとか読めばどこから攻撃が来るかわからない？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "443edba9",
+      "speaker": "雫",
+      "ja": "魔力の流れ……とは？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "821caee4",
+      "speaker": "コハル",
+      "ja": "空気中の魔力よ！　体内の魔力を使ってるみたいだけど、その影響で空気中の魔力も動くから、それを肌とか目で感じ取って……",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "bf49d463",
+      "speaker": "雫",
+      "ja": "何を言っているのか理解しかねますが……技術レベルが低い土地では、別の能力が秀でるということはわかりました",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "964ec596",
+      "speaker": "コハル",
+      "ja": "！　危ない！　あっちの奥で、大きい魔力が使われてる……！",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "6be9f9b9",
+      "speaker": "雫",
+      "ja": "奥の魔法使いが、空を狙っています！　止めなくては……！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "ae250a92",
+      "speaker": "監査隊",
+      "ja": "通さんっ！",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "38462f61",
+      "speaker": "雫",
+      "ja": "くっ……！　邪魔な！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "edeefd00",
+      "speaker": "コハル",
+      "ja": "ルミナ！　そっちはいける！？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "ab4b5d75",
+      "speaker": "ルミナ",
+      "ja": "やってみる……！　……っ",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "e129ae2d",
+      "speaker": "ルミナ",
+      "ja": "ごほっ！　ごほっ……！",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "41a3aab1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ！　大丈夫か！？",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "1e6a1ae7",
+      "speaker": "",
+      "ja": "咳き込んだルミナが地面に座り込む。返事をしようとしているようだが、言葉になる前に咳で遮られてしまう。",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "cd3da0ab",
+      "speaker": "雫",
+      "ja": "ルミナ様！　ご無理をなさらないでください！",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "391ce398",
+      "speaker": "コハル",
+      "ja": "ど、どうしよう……！　このままじゃ魔法が止められない……！",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "d87ea182",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そうだ！　そういえば……！",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "971de8bf",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}……？",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "b7168eb7",
+      "speaker": "監査隊Ａ",
+      "ja": "詠唱、残りはどれくらいだ！？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "7f22b022",
+      "speaker": "監査隊Ｂ",
+      "ja": "Ulbgs……Mvclts……",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "5dedc12d",
+      "speaker": "監査隊Ｃ",
+      "ja": "あと少しだ！　もう撃てる！",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "86e43369",
+      "speaker": "監査隊Ａ",
+      "ja": "よし、監査隊の恐ろしさ、思い知らせて……！",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "fe607e25",
+      "speaker": "監査隊Ｂ",
+      "ja": "おわあああああっ！？",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "3081dbcb",
+      "speaker": "",
+      "ja": "突如、付近から複数の甲高い音が鳴り響く。呪文を詠唱していた者に集っていた光が、霧散して空気へと溶けた。",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "e7e3abbc",
+      "speaker": "監査隊Ａ",
+      "ja": "ばっ……！　何やってんだ！　後は発動するだけだっただろ！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "318a3ba2",
+      "speaker": "監査隊Ｂ",
+      "ja": "だ、誰だって今のは驚くだろ！　何だったんだよ今の音は！",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "a6766a2e",
+      "speaker": "ルミナ",
+      "ja": "今のって……！？　{G_PlayerName}がやったの！？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "dca7c3ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "へへ、ああ！　これ、もらってな……",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "3b506a76",
+      "speaker": "ベリル",
+      "ja": "じゃあ魔導具を使うから、指定の位置に立ったら動かずに待っていてくれ",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "41ee4b8a",
+      "speaker": "ベリル",
+      "ja": "……？　どうかしたかい？",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "1044d3d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いや！　……さっきの奴らに渡した道具って、なんだったのかなーと……",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "9f558a4d",
+      "speaker": "ベリル",
+      "ja": "これかい？　共振ガラスで作られたベルだよ。同じ場所で作られたベルは、鳴らすと離れたベルも一緒に鳴るんだ。呼び出したり警報を鳴らす時に使われるね",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "a621b143",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ……！　すごい道具があるんだな",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "4ec9fe42",
+      "speaker": "ベリル",
+      "ja": "我が社の工房で作られたベルは、音量調節機能もついていてね。このつまみの位置で、伝えたい音の大きさを変えられるんだ",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "cf735d7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなことまで！？　どういう原理なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "a20f09ae",
+      "speaker": "ベリル",
+      "ja": "……欲しいのなら、キミにもあげるけれど……",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "7233c4a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "音量を最大にして鳴らしてみたんだが……思ってたより上手く行ったな",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "175c623",
+      "speaker": "コハル",
+      "ja": "やるじゃない！",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "bb8bdb78",
+      "speaker": "雫",
+      "ja": "今のうちに、距離を詰めれば……！",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "8d38d463",
+      "speaker": "フォニーの声",
+      "ja": "みなさああああああん！",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "c1def9a9",
+      "speaker": "雫",
+      "ja": "！？　……今の声は……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "95fbb393",
+      "speaker": "",
+      "ja": "突如として、巨大なフォニーの声が響いた。何か魔法を使っているのか、学校中に声が響いているのがわかる。",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "36ec2f1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど、どうするつもりなんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "c7943d75",
+      "speaker": "フォニー",
+      "ja": "皆さん！　……まずは、お騒がせしてすみません！　こちらも色々と想定外の事態でして……",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "92486abe",
+      "speaker": "フォニー",
+      "ja": "オーロラが……私達が使ってる魔法は、皆さんご存知の通り、禁止された空を飛ぶ魔法です！　つい先程研究が終わり、完成しました！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "bd4bd71e",
+      "speaker": "フォニー",
+      "ja": "本来なら人前で使うべき魔法じゃなく、全くもって褒められた物ではありませんが……",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "afdf0b96",
+      "speaker": "男子生徒",
+      "ja": "これ……大丈夫か？　後でメチャクチャ怒られるんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "e3632f4a",
+      "speaker": "女子生徒",
+      "ja": "あれって、優等生で有名なフォニーさんよね？　こんなことする人だったんだ～……",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "53228ef3",
+      "speaker": "男子生徒",
+      "ja": "テロ？　テロ的なやつ？",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "6291d0b6",
+      "speaker": "オーロラ",
+      "ja": "（フォニーちゃん、何言ってるの……！？）",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "168aed1a",
+      "speaker": "フォニー",
+      "ja": "（わ、私もパニックなの！　え、えっと……！）",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "53f5c0fb",
+      "speaker": "フォニー",
+      "ja": "……１０年前、空を飛ぶ魔法の研究が禁止されました",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "18b943c4",
+      "speaker": "フォニー",
+      "ja": "私はその時ちょうど空を飛ぶ魔法を研究していましたが、仕方がなく研究を中止しました。それを見かねて、研究を引き継いでくれたのがオーロラです",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "37a14504",
+      "speaker": "オーロラ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "abdb0fd2",
+      "speaker": "フォニー",
+      "ja": "魔法の研究対象の選別は、日毎に厳しくなっています。本当に研究したい魔法を否定されて、泣く泣く諦めた生徒も多いことでしょう",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "8fbc85dc",
+      "speaker": "フォニー",
+      "ja": "魔法学の発展に繋がらない、不要な魔法だと……切り捨てられる魔法は今も増え続けています。それで苦しむ生徒も",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "5e7e7e8b",
+      "speaker": "フォニー",
+      "ja": "危険な魔法や悪用されかねない魔法は、研究を禁止されても仕方ないと思います。でも……",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "79497a5a",
+      "speaker": "フォニー",
+      "ja": "くだらない魔法や、役に立たない魔法という物は、この世に無いと思います！　どんな魔法でも、新しい技術は別の何かに繋がります！",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "e493f0d7",
+      "speaker": "フォニー",
+      "ja": "だから、えーと、もしも……みなさんが……",
+      "zh": ""
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "729c75e6",
+      "speaker": "フォニー",
+      "ja": "昔研究を諦めた魔法とか！　諦めようとしてる魔法があったら！　もう一度だけ頑張ってみませんか！？　声を上げるべきだと思いませんか！？",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "8e740348",
+      "speaker": "男子生徒",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "8bbc916f",
+      "speaker": "女子生徒",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "20f84bc2",
+      "speaker": "男子生徒",
+      "ja": "俺、動物と話せるようになる魔法、研究したかったんだよな……通らなかったけど",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "d2e4e3e0",
+      "speaker": "女子生徒",
+      "ja": "……私も、お腹がすく魔法の研究したかった",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "29ceb271",
+      "speaker": "男子生徒",
+      "ja": "ははっ！　なんだそれ、お腹がすく魔法？　自分の！？",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "666cd07b",
+      "speaker": "女子生徒",
+      "ja": "べ、別にいいじゃない！　色々いっぱい食べたい時とか、ギリギリ食べきれなくて困ることってあるでしょー！？",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "2dbefdee",
+      "speaker": "女子生徒",
+      "ja": "私、前落とされたレポートまだ一応持ってるんだけど……もしかして、まだ使える？",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "8f2dd7b5",
+      "speaker": "男子生徒",
+      "ja": "これ、抗議活動なん？　おもしれー、署名とか集めんの？",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "632e1223",
+      "speaker": "女子生徒",
+      "ja": "先生は？　会議中？　……意見とか言いに行くってこと？",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "36473bdc",
+      "speaker": "女性教員",
+      "ja": "少しずつ、外に生徒が集まってきていますが……",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "1996f71",
+      "speaker": "壮年の教員",
+      "ja": "中に入れるな！　……過去に禁止した魔法の話なんて、する価値が無い！　どうせアツくなってるのは今だけだ、ほっとけばいいだろう",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "d8715f7c",
+      "speaker": "男性教員",
+      "ja": "そ……そうですね。ハハ……",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "d63019a6",
+      "speaker": "ナノ",
+      "ja": "……そういえば、空を飛ぶ魔法を禁止した理由は何でしたっけ？",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "e3948656",
+      "speaker": "壮年の教員",
+      "ja": "危険だからだろう",
+      "zh": ""
+    },
+    {
+      "key": "327.1",
+      "line_index": 327,
+      "inline_index": 1,
+      "line_hash": "6f3ef933",
+      "speaker": "ナノ",
+      "ja": "ですが防護魔法もあります。免許制にすれば良い話では？　免許が必要な魔法は他にもあるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "ee49f9e4",
+      "speaker": "壮年の教員",
+      "ja": "……わかっているだろう、今は転送魔法がある。移動に使う魔法など不要だ",
+      "zh": ""
+    },
+    {
+      "key": "331.1",
+      "line_index": 331,
+      "inline_index": 1,
+      "line_hash": "d8c6796a",
+      "speaker": "ナノ",
+      "ja": "ああ……あの転送魔法の使用権利はあなたがお持ちでしたね",
+      "zh": ""
+    },
+    {
+      "key": "333.0",
+      "line_index": 333,
+      "inline_index": 0,
+      "line_hash": "77c47c8a",
+      "speaker": "壮年の教員",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "335.1",
+      "line_index": 335,
+      "inline_index": 1,
+      "line_hash": "d8db07c7",
+      "speaker": "ナノ",
+      "ja": "需要の分散を恐れて？",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "7eae9dcd",
+      "speaker": "壮年の教員",
+      "ja": "人聞きが悪い……！　そもそも生徒が独自の魔法を研究する事自体がおこがましいんだ！　新しい魔法の研究には金がかかる！",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "66aefe4d",
+      "speaker": "壮年の教員",
+      "ja": "金の動きや市場への影響を踏まえてレポートを書かない、考えの無い生徒ばかり！　あのオーロラとかいう生徒はその典型だ！",
+      "zh": ""
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "ce95c99e",
+      "speaker": "ナノ",
+      "ja": "そういえば……校庭では監査隊が争っているようですね。先日、貴方が監査隊の方と会話しているのを見ましたが……",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "1bd216c",
+      "speaker": "壮年の教員",
+      "ja": "フン……あんな叩けばいくらでも埃が出そうな生徒、野放しにしてるほうがおかしいだろう？　さっさと証拠を見つけて、退学にしちまえばいい",
+      "zh": ""
+    },
+    {
+      "key": "345.1",
+      "line_index": 345,
+      "inline_index": 1,
+      "line_hash": "486d6c3a",
+      "speaker": "ナノ",
+      "ja": "証拠……というのは、先日学校の素材倉庫が荒らされた件ですか？",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "3109a5ac",
+      "speaker": "壮年の教員",
+      "ja": "……そうかも知れんな",
+      "zh": ""
+    },
+    {
+      "key": "349.1",
+      "line_index": 349,
+      "inline_index": 1,
+      "line_hash": "693eaf13",
+      "speaker": "ナノ",
+      "ja": "あの倉庫の管理権もあなたがお持ちとは言え……詳しく捜査をされては、罪をなすりつけるのは不可能なのでは？",
+      "zh": ""
+    },
+    {
+      "key": "351.0",
+      "line_index": 351,
+      "inline_index": 0,
+      "line_hash": "77c47c8a",
+      "speaker": "壮年の教員",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "f7b3fc58",
+      "speaker": "壮年の教員",
+      "ja": "詳しい捜査をさせず、内々で片付ければどうとでもなる。それこそ口裏を合わせれば、あの厄介な生徒を退学に……",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "3a4ef35d",
+      "speaker": "ナノ",
+      "ja": "ああ、ありがとうございます。よかった。ギリギリですが、及第点でしょう",
+      "zh": ""
+    },
+    {
+      "key": "357.0",
+      "line_index": 357,
+      "inline_index": 0,
+      "line_hash": "350aaa8",
+      "speaker": "壮年の教員",
+      "ja": "……は？　何を……",
+      "zh": ""
+    },
+    {
+      "key": "363.0",
+      "line_index": 363,
+      "inline_index": 0,
+      "line_hash": "2d004fd9",
+      "speaker": "入って来た教員",
+      "ja": "あ、あのっ！　すみません！",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "2228a7be",
+      "speaker": "壮年の教員",
+      "ja": "なんだ、そんなに慌てて……",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "331ef28e",
+      "speaker": "入って来た教員",
+      "ja": "ここの会話……外に、聞こえてます……音響魔法で……",
+      "zh": ""
+    },
+    {
+      "key": "369.0",
+      "line_index": 369,
+      "inline_index": 0,
+      "line_hash": "cefe3a6c",
+      "speaker": "壮年の教員",
+      "ja": "………………え？",
+      "zh": ""
+    },
+    {
+      "key": "371.1",
+      "line_index": 371,
+      "inline_index": 1,
+      "line_hash": "f88ae73",
+      "speaker": "ナノ",
+      "ja": "…………♪",
+      "zh": ""
+    },
+    {
+      "key": "384.1",
+      "line_index": 384,
+      "inline_index": 1,
+      "line_hash": "8d08d7da",
+      "speaker": "オーロラ",
+      "ja": "今のって……つまり、学校の先生に私達を狙った犯人がいた……ってこと？　びっくり……",
+      "zh": ""
+    },
+    {
+      "key": "386.1",
+      "line_index": 386,
+      "inline_index": 1,
+      "line_hash": "a1df8f20",
+      "speaker": "フォニー",
+      "ja": "今の魔法……もしかして",
+      "zh": ""
+    },
+    {
+      "key": "388.1",
+      "line_index": 388,
+      "inline_index": 1,
+      "line_hash": "9e4a3ef1",
+      "speaker": "オーロラ",
+      "ja": "……あ！　ねえ、フォニーちゃん！",
+      "zh": ""
+    },
+    {
+      "key": "390.1",
+      "line_index": 390,
+      "inline_index": 1,
+      "line_hash": "3213b589",
+      "speaker": "フォニー",
+      "ja": "な、なに？",
+      "zh": ""
+    },
+    {
+      "key": "392.1",
+      "line_index": 392,
+      "inline_index": 1,
+      "line_hash": "e4201b50",
+      "speaker": "オーロラ",
+      "ja": "もう降りても大丈夫そう！　降りてもいい？",
+      "zh": ""
+    },
+    {
+      "key": "394.1",
+      "line_index": 394,
+      "inline_index": 1,
+      "line_hash": "f35cbbe2",
+      "speaker": "フォニー",
+      "ja": "え？　あっ……",
+      "zh": ""
+    },
+    {
+      "key": "411.0",
+      "line_index": 411,
+      "inline_index": 0,
+      "line_hash": "fbc3b3bd",
+      "speaker": "監査隊",
+      "ja": "上のワガママにこれ以上振り回されてたまるか！",
+      "zh": ""
+    },
+    {
+      "key": "413.0",
+      "line_index": 413,
+      "inline_index": 0,
+      "line_hash": "c23827a1",
+      "speaker": "監査隊",
+      "ja": "ジジイの小遣い稼ぐためにやってるんじゃない！　抗議に加われ！",
+      "zh": ""
+    },
+    {
+      "key": "419.0",
+      "line_index": 419,
+      "inline_index": 0,
+      "line_hash": "ae43b243",
+      "speaker": "",
+      "ja": "何かの魔法で聞こえていた教師たちの会話を聞き、監査隊達は武器を降ろして校内へと走って行ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "425.1",
+      "line_index": 425,
+      "inline_index": 1,
+      "line_hash": "9288d52c",
+      "speaker": "コハル",
+      "ja": "な……なんとかなった？",
+      "zh": ""
+    },
+    {
+      "key": "427.1",
+      "line_index": 427,
+      "inline_index": 1,
+      "line_hash": "cceda290",
+      "speaker": "雫",
+      "ja": "はあ……何度ルミナ様を連れてわたくし達だけ逃げようと思ったことか",
+      "zh": ""
+    },
+    {
+      "key": "429.1",
+      "line_index": 429,
+      "inline_index": 1,
+      "line_hash": "b2d4e43f",
+      "speaker": "ルミナ",
+      "ja": "でも……止めてくれたんだね。優しい……ね、雫……",
+      "zh": ""
+    },
+    {
+      "key": "431.1",
+      "line_index": 431,
+      "inline_index": 1,
+      "line_hash": "b825106d",
+      "speaker": "雫",
+      "ja": "ルミナ様……",
+      "zh": ""
+    },
+    {
+      "key": "433.0",
+      "line_index": 433,
+      "inline_index": 0,
+      "line_hash": "7a2721ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そこの評価は「優しい」でいいんだろうか……）",
+      "zh": ""
+    },
+    {
+      "key": "445.1",
+      "line_index": 445,
+      "inline_index": 1,
+      "line_hash": "d4e39701",
+      "speaker": "オーロラ",
+      "ja": "よっ……とっとっと！　着地成功！",
+      "zh": ""
+    },
+    {
+      "key": "447.1",
+      "line_index": 447,
+      "inline_index": 1,
+      "line_hash": "efdadb70",
+      "speaker": "フォニー",
+      "ja": "はー……今更だけど……高いところ、怖かったわ……",
+      "zh": ""
+    },
+    {
+      "key": "449.1",
+      "line_index": 449,
+      "inline_index": 1,
+      "line_hash": "43732d51",
+      "speaker": "コハル",
+      "ja": "二人共！　大丈夫だった！？",
+      "zh": ""
+    },
+    {
+      "key": "451.1",
+      "line_index": 451,
+      "inline_index": 1,
+      "line_hash": "68a4c321",
+      "speaker": "フォニー",
+      "ja": "大丈夫……って言っていいのかしら。とりあえず怪我とかは無いわ",
+      "zh": ""
+    },
+    {
+      "key": "453.1",
+      "line_index": 453,
+      "inline_index": 1,
+      "line_hash": "16d43cb6",
+      "speaker": "コハル",
+      "ja": "良かった……なんか、戦ってた監査隊達、全員校舎に入っていったけど……",
+      "zh": ""
+    },
+    {
+      "key": "455.1",
+      "line_index": 455,
+      "inline_index": 1,
+      "line_hash": "f86696d0",
+      "speaker": "フォニー",
+      "ja": "ああ、あの監査隊達も学生だからね。監査する立場でも、窮屈な思いさせられてたんでしょ",
+      "zh": ""
+    },
+    {
+      "key": "459.1",
+      "line_index": 459,
+      "inline_index": 1,
+      "line_hash": "baa5968a",
+      "speaker": "コハル",
+      "ja": "あの人達も学生だったの！？",
+      "zh": ""
+    },
+    {
+      "key": "467.1",
+      "line_index": 467,
+      "inline_index": 1,
+      "line_hash": "5fee4c01",
+      "speaker": "雫",
+      "ja": "お話はそこまででよろしいですか。そろそろ我々は帰らないといけません",
+      "zh": ""
+    },
+    {
+      "key": "469.1",
+      "line_index": 469,
+      "inline_index": 1,
+      "line_hash": "2dbb05d3",
+      "speaker": "コハル",
+      "ja": "えっ、もう！？",
+      "zh": ""
+    },
+    {
+      "key": "471.1",
+      "line_index": 471,
+      "inline_index": 1,
+      "line_hash": "9317a3e",
+      "speaker": "雫",
+      "ja": "先日必要な物資は揃いましたし、このままだと我々まで取り調べを受けるでしょう。これ以上の滞在は避けなくてはなりませんから",
+      "zh": ""
+    },
+    {
+      "key": "473.0",
+      "line_index": 473,
+      "inline_index": 0,
+      "line_hash": "a9ff8cad",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……まあ、１週間もいたんだから、そろそろ帰るのも当然か……",
+      "zh": ""
+    },
+    {
+      "key": "475.1",
+      "line_index": 475,
+      "inline_index": 1,
+      "line_hash": "523db810",
+      "speaker": "コハル",
+      "ja": "えっと、オーロラ、フォニー……あたし達、帰らなきゃいけないんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "477.1",
+      "line_index": 477,
+      "inline_index": 1,
+      "line_hash": "a9beb637",
+      "speaker": "オーロラ",
+      "ja": "うん！　……また、会えるよね！",
+      "zh": ""
+    },
+    {
+      "key": "485.1",
+      "line_index": 485,
+      "inline_index": 1,
+      "line_hash": "7f109aac",
+      "speaker": "フォニー",
+      "ja": "家に帰るだけでしょ？　じゃ、また明日ね",
+      "zh": ""
+    },
+    {
+      "key": "487.1",
+      "line_index": 487,
+      "inline_index": 1,
+      "line_hash": "1b2ff179",
+      "speaker": "コハル",
+      "ja": "あー……えっと……うん……",
+      "zh": ""
+    },
+    {
+      "key": "489.0",
+      "line_index": 489,
+      "inline_index": 0,
+      "line_hash": "70cbe617",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……な。また会おう",
+      "zh": ""
+    },
+    {
+      "key": "491.1",
+      "line_index": 491,
+      "inline_index": 1,
+      "line_hash": "8e1b6736",
+      "speaker": "フォニー",
+      "ja": "何よその煮えきらない態度は……",
+      "zh": ""
+    },
+    {
+      "key": "499.1",
+      "line_index": 499,
+      "inline_index": 1,
+      "line_hash": "78e2f52b",
+      "speaker": "ルミナ",
+      "ja": "凄く、楽しかった……また、ね……",
+      "zh": ""
+    },
+    {
+      "key": "501.1",
+      "line_index": 501,
+      "inline_index": 1,
+      "line_hash": "1f89d59a",
+      "speaker": "オーロラ",
+      "ja": "こちらこそ、色々ありがとう！　またね！",
+      "zh": ""
+    },
+    {
+      "key": "520.1",
+      "line_index": 520,
+      "inline_index": 1,
+      "line_hash": "c75fad38",
+      "speaker": "フォニー",
+      "ja": "……今までごめんなさい",
+      "zh": ""
+    },
+    {
+      "key": "522.1",
+      "line_index": 522,
+      "inline_index": 1,
+      "line_hash": "6efa888e",
+      "speaker": "オーロラ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "524.1",
+      "line_index": 524,
+      "inline_index": 1,
+      "line_hash": "5bef88af",
+      "speaker": "オーロラ",
+      "ja": "えっ、あたしに謝ってるの？　何を？　なんで？",
+      "zh": ""
+    },
+    {
+      "key": "526.1",
+      "line_index": 526,
+      "inline_index": 1,
+      "line_hash": "dfb7e451",
+      "speaker": "フォニー",
+      "ja": "だって……オーロラが空を飛ぶ魔法を研究してたのって、私のためでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "528.1",
+      "line_index": 528,
+      "inline_index": 1,
+      "line_hash": "a6f6d184",
+      "speaker": "フォニー",
+      "ja": "それなのに私、今まで研究を止めようとして、課題の魔法を研究させようとしたりして、邪魔ばっかり……",
+      "zh": ""
+    },
+    {
+      "key": "530.1",
+      "line_index": 530,
+      "inline_index": 1,
+      "line_hash": "dadc517a",
+      "speaker": "オーロラ",
+      "ja": "そ、そんなことないよ！　フォニーちゃんが今まで真面目にやってたからこそ、皆話を聞いてくれたんでしょ！？",
+      "zh": ""
+    },
+    {
+      "key": "533.1",
+      "line_index": 533,
+      "inline_index": 1,
+      "line_hash": "a7fec35a",
+      "speaker": "オーロラ",
+      "ja": "だから今までも手伝ってくれてたようなもので……えっとぉ……その……",
+      "zh": ""
+    },
+    {
+      "key": "535.1",
+      "line_index": 535,
+      "inline_index": 1,
+      "line_hash": "cf148950",
+      "speaker": "フォニー",
+      "ja": "ぷっ……貴方、真面目に喋ろうとしたらそうなるの？",
+      "zh": ""
+    },
+    {
+      "key": "537.1",
+      "line_index": 537,
+      "inline_index": 1,
+      "line_hash": "1b42dfd0",
+      "speaker": "オーロラ",
+      "ja": "あ、あたしちゃんとしたこと喋るの苦手なんだってば～！",
+      "zh": ""
+    },
+    {
+      "key": "539.0",
+      "line_index": 539,
+      "inline_index": 0,
+      "line_hash": "f40f900",
+      "speaker": "？？？",
+      "ja": "とんでもない事をしてくれましたね",
+      "zh": ""
+    },
+    {
+      "key": "541.1",
+      "line_index": 541,
+      "inline_index": 1,
+      "line_hash": "54f22291",
+      "speaker": "フォニー",
+      "ja": "あっ……ナノ先生！",
+      "zh": ""
+    },
+    {
+      "key": "548.1",
+      "line_index": 548,
+      "inline_index": 1,
+      "line_hash": "c09da24b",
+      "speaker": "ナノ",
+      "ja": "ですが、おかげで学校の風通しが良くなりそうです。感謝いたしますよ",
+      "zh": ""
+    },
+    {
+      "key": "550.1",
+      "line_index": 550,
+      "inline_index": 1,
+      "line_hash": "2d6a618",
+      "speaker": "オーロラ",
+      "ja": "え、えへへ……先生に褒められるって、嬉しいな……あたし怒られてばっかりだったから……",
+      "zh": ""
+    },
+    {
+      "key": "552.1",
+      "line_index": 552,
+      "inline_index": 1,
+      "line_hash": "3bac447c",
+      "speaker": "フォニー",
+      "ja": "感謝なんて。こちらこそ、ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "554.1",
+      "line_index": 554,
+      "inline_index": 1,
+      "line_hash": "f00eefc1",
+      "speaker": "ナノ",
+      "ja": "なんの話ですか？",
+      "zh": ""
+    },
+    {
+      "key": "556.1",
+      "line_index": 556,
+      "inline_index": 1,
+      "line_hash": "cd68bb65",
+      "speaker": "フォニー",
+      "ja": "……あの魔法使ったのって、ナノ先生ですよね？　先生たちの会話が外まで聞こえるようにしてた魔法……",
+      "zh": ""
+    },
+    {
+      "key": "558.1",
+      "line_index": 558,
+      "inline_index": 1,
+      "line_hash": "5bc0f94b",
+      "speaker": "ナノ",
+      "ja": "証拠はありませんよ？",
+      "zh": ""
+    },
+    {
+      "key": "560.1",
+      "line_index": 560,
+      "inline_index": 1,
+      "line_hash": "8f2418fc",
+      "speaker": "フォニー",
+      "ja": "精度が違いますから。あの音響魔法をあそこまで使いこなす人なんて、ナノ先生以外にいません",
+      "zh": ""
+    },
+    {
+      "key": "562.1",
+      "line_index": 562,
+      "inline_index": 1,
+      "line_hash": "50f240a7",
+      "speaker": "ナノ",
+      "ja": "ふふっ……どうでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "564.1",
+      "line_index": 564,
+      "inline_index": 1,
+      "line_hash": "821fdcf7",
+      "speaker": "ナノ",
+      "ja": "怪我が無かったようで安心しました。ですが、あんな無茶は程々にするようにお願いします",
+      "zh": ""
+    },
+    {
+      "key": "566.1",
+      "line_index": 566,
+      "inline_index": 1,
+      "line_hash": "895ef534",
+      "speaker": "オーロラ",
+      "ja": "は、はいっ！　……あの！",
+      "zh": ""
+    },
+    {
+      "key": "568.1",
+      "line_index": 568,
+      "inline_index": 1,
+      "line_hash": "b1b19643",
+      "speaker": "ナノ",
+      "ja": "どうかしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "571.1",
+      "line_index": 571,
+      "inline_index": 1,
+      "line_hash": "c1ad1b02",
+      "speaker": "オーロラ",
+      "ja": "夢も大事ですけど……先生みたいに、立派な魔法も作りますから！",
+      "zh": ""
+    },
+    {
+      "key": "573.1",
+      "line_index": 573,
+      "inline_index": 1,
+      "line_hash": "12c4412c",
+      "speaker": "ナノ",
+      "ja": "……ええ！　勿論、期待していますよ。オーロラさん。フォニーさんも",
+      "zh": ""
+    },
+    {
+      "key": "593.1",
+      "line_index": 593,
+      "inline_index": 1,
+      "line_hash": "85db50f5",
+      "speaker": "コハル",
+      "ja": "つ、疲れた～！　研究して走って戦って、もうへとへと……",
+      "zh": ""
+    },
+    {
+      "key": "595.1",
+      "line_index": 595,
+      "inline_index": 1,
+      "line_hash": "64bc34c3",
+      "speaker": "雫",
+      "ja": "……ルミナ様、お体は大丈夫ですか？",
+      "zh": ""
+    },
+    {
+      "key": "598.1",
+      "line_index": 598,
+      "inline_index": 1,
+      "line_hash": "53658f9",
+      "speaker": "ルミナ",
+      "ja": "う……うん。思ってたより、平気、みたい……咳は出たけど。ちょっと体力……ついてきたのかも……",
+      "zh": ""
+    },
+    {
+      "key": "600.0",
+      "line_index": 600,
+      "inline_index": 0,
+      "line_hash": "524cab54",
+      "speaker": "",
+      "ja": "ルミナがそう言って笑うが、空元気を振り絞っているようで、腕は震えている。",
+      "zh": ""
+    },
+    {
+      "key": "602.1",
+      "line_index": 602,
+      "inline_index": 1,
+      "line_hash": "e92a80ee",
+      "speaker": "雫",
+      "ja": "……そうですね。ですが、大事をとってご休憩いたしましょう。栄養も取らなくては",
+      "zh": ""
+    },
+    {
+      "key": "610.1",
+      "line_index": 610,
+      "inline_index": 1,
+      "line_hash": "90b7d588",
+      "speaker": "アポロ",
+      "ja": "では、消化に良い料理を本日はご提供いたします",
+      "zh": ""
+    },
+    {
+      "key": "612.1",
+      "line_index": 612,
+      "inline_index": 1,
+      "line_hash": "c66e6bad",
+      "speaker": "雫",
+      "ja": "いいえ、アポロ。たまにはわたくしが……",
+      "zh": ""
+    },
+    {
+      "key": "614.1",
+      "line_index": 614,
+      "inline_index": 1,
+      "line_hash": "79846fe4",
+      "speaker": "アポロ",
+      "ja": "アポロではなくAPL-180です。雫様もお疲れのご様子。休憩が必要です。そうでしょう、マスター？",
+      "zh": ""
+    },
+    {
+      "key": "616.1",
+      "line_index": 616,
+      "inline_index": 1,
+      "line_hash": "257bf255",
+      "speaker": "ルミナ",
+      "ja": "うん。雫も、休んで……",
+      "zh": ""
+    },
+    {
+      "key": "618.1",
+      "line_index": 618,
+      "inline_index": 1,
+      "line_hash": "cbf7246f",
+      "speaker": "雫",
+      "ja": "か、かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "631.1",
+      "line_index": 631,
+      "inline_index": 1,
+      "line_hash": "c373ba31",
+      "speaker": "コハル",
+      "ja": "はー、今回の星も大変だったわね。{G_PlayerName}は大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "633.0",
+      "line_index": 633,
+      "inline_index": 0,
+      "line_hash": "d7e80d3d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、なんとかな",
+      "zh": ""
+    },
+    {
+      "key": "635.1",
+      "line_index": 635,
+      "inline_index": 1,
+      "line_hash": "9a0378a",
+      "speaker": "コハル",
+      "ja": "本当に～？　……結局私達って振り回されただけじゃない？　{G_PlayerName}はそれでいいの？",
+      "zh": ""
+    },
+    {
+      "key": "637.0",
+      "line_index": 637,
+      "inline_index": 0,
+      "line_hash": "9152c797",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあまあ、おかげで物資はいっぱい手に入ったし……",
+      "zh": ""
+    },
+    {
+      "key": "639.1",
+      "line_index": 639,
+      "inline_index": 1,
+      "line_hash": "dbad78d3",
+      "speaker": "コハル",
+      "ja": "でも、結局{G_PlayerName}の機械作りのほうはあんまり手伝ってもらってなかったじゃない。魔法の研究が忙しすぎたとはいえ……",
+      "zh": ""
+    },
+    {
+      "key": "641.0",
+      "line_index": 641,
+      "inline_index": 0,
+      "line_hash": "8ae752fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは……そうかもな。でも……",
+      "zh": ""
+    },
+    {
+      "key": "643.0",
+      "line_index": 643,
+      "inline_index": 0,
+      "line_hash": "30b7e27c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……夢を追ってるヤツって、応援したくなるんだよな",
+      "zh": ""
+    },
+    {
+      "key": "645.1",
+      "line_index": 645,
+      "inline_index": 1,
+      "line_hash": "b1b41986",
+      "speaker": "コハル",
+      "ja": "……そうね。その気持ちはわかるわ",
+      "zh": ""
+    },
+    {
+      "key": "647.1",
+      "line_index": 647,
+      "inline_index": 1,
+      "line_hash": "6a82b7ad",
+      "speaker": "コハル",
+      "ja": "……私も頑張らないと",
+      "zh": ""
+    },
+    {
+      "key": "649.0",
+      "line_index": 649,
+      "inline_index": 0,
+      "line_hash": "d1659cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　何か言ったか？",
+      "zh": ""
+    },
+    {
+      "key": "652.1",
+      "line_index": 652,
+      "inline_index": 1,
+      "line_hash": "9eb1ad8e",
+      "speaker": "コハル",
+      "ja": "なーんでも！",
+      "zh": ""
+    },
+    {
+      "key": "654.0",
+      "line_index": 654,
+      "inline_index": 0,
+      "line_hash": "2f4d974c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか？　……あっ",
+      "zh": ""
+    },
+    {
+      "key": "658.1",
+      "line_index": 658,
+      "inline_index": 1,
+      "line_hash": "83003781",
+      "speaker": "コハル",
+      "ja": "……ねえ、今何か隠さなかった？",
+      "zh": ""
+    },
+    {
+      "key": "660.0",
+      "line_index": 660,
+      "inline_index": 0,
+      "line_hash": "8dd3357d",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何も隠してない……",
+      "zh": ""
+    },
+    {
+      "key": "664.1",
+      "line_index": 664,
+      "inline_index": 1,
+      "line_hash": "b1f5cea",
+      "speaker": "コハル",
+      "ja": "ちょっと！　それ火竜草の根じゃないの！！　まさか盗んだの！？",
+      "zh": ""
+    },
+    {
+      "key": "666.0",
+      "line_index": 666,
+      "inline_index": 0,
+      "line_hash": "169523a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "違う！　くれるって言ったから！　くれるって言ったから！",
+      "zh": ""
+    },
+    {
+      "key": "670.1",
+      "line_index": 670,
+      "inline_index": 1,
+      "line_hash": "eb2540a1",
+      "speaker": "コハル",
+      "ja": "絶対ダメ！　宇宙船燃やす気！？",
+      "zh": ""
+    },
+    {
+      "key": "676.0",
+      "line_index": 676,
+      "inline_index": 0,
+      "line_hash": "a0d0d874",
+      "speaker": "{G_PlayerName}",
+      "ja": "扱い方だって教えてくれたし！　瓶から出さなきゃ絶対大丈夫らしいから！",
+      "zh": ""
+    },
+    {
+      "key": "683.1",
+      "line_index": 683,
+      "inline_index": 1,
+      "line_hash": "35e215cb",
+      "speaker": "コハル",
+      "ja": "信用できるか！　捨てなさ～い！",
+      "zh": ""
+    },
+    {
+      "key": "697.1",
+      "line_index": 697,
+      "inline_index": 1,
+      "line_hash": "ed993083",
+      "speaker": "コハル",
+      "ja": "……はあ、結局奪えなかった……もう、機械の事になると本当バカなんだから……",
+      "zh": ""
+    },
+    {
+      "key": "699.1",
+      "line_index": 699,
+      "inline_index": 1,
+      "line_hash": "2d34eced",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "712.1",
+      "line_index": 712,
+      "inline_index": 1,
+      "line_hash": "447b7a3d",
+      "speaker": "雫",
+      "ja": "現女王様は、ルミナ様に……いえ、女王候補の王女様方皆様に、十分な愛情をお持ちでありません",
+      "zh": ""
+    },
+    {
+      "key": "714.1",
+      "line_index": 714,
+      "inline_index": 1,
+      "line_hash": "c76fa435",
+      "speaker": "雫",
+      "ja": "絶え間ない教育と訓練で、外へ出られないルミナ様に話しかけられる者はごく僅か。わたくしとアポロ以外に、ルミナ様のご友人と呼べる方はおりません",
+      "zh": ""
+    },
+    {
+      "key": "716.1",
+      "line_index": 716,
+      "inline_index": 1,
+      "line_hash": "ecb69775",
+      "speaker": "雫",
+      "ja": "女王候補でなければ、せめてもう少しリリアンとしての力が弱ければ……ルミナ様はもっと幸せになれたのではと、考える事は少なくありません",
+      "zh": ""
+    },
+    {
+      "key": "729.1",
+      "line_index": 729,
+      "inline_index": 1,
+      "line_hash": "3c9f030",
+      "speaker": "コハル",
+      "ja": "「可哀想」だなんて、失礼だったかな。でも……",
+      "zh": ""
+    },
+    {
+      "key": "731.1",
+      "line_index": 731,
+      "inline_index": 1,
+      "line_hash": "7cff29c7",
+      "speaker": "コハル",
+      "ja": "可哀想、ってだけで、{G_PlayerName}は十分……ルミナを選んじゃうんじゃないかな……",
+      "zh": ""
+    },
+    {
+      "key": "733.1",
+      "line_index": 733,
+      "inline_index": 1,
+      "line_hash": "189efccb",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}……宇宙にずっと、いないよね……？　……村に、帰ってくるよね……？",
+      "zh": ""
+    }
+  ]
+}

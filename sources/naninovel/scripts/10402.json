@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "c24f3f64",
+      "speaker": "女性",
+      "ja": "すみません……このあたりで、小さな男の子を見かけませんでしたか？　迷子なんです……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "45b45224",
+      "speaker": "男性",
+      "ja": "ああ……さっき見かけたな。教えてやってもいいが、いくら出せる？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "941d1710",
+      "speaker": "老人",
+      "ja": "ひったくりだ！　誰か捕まえてくれ！",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a1ce783c",
+      "speaker": "男性",
+      "ja": "任せてくれ！　それで、助けたらいくらくれるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "c652355a",
+      "speaker": "叫び声",
+      "ja": "大変だーッ！　火事だ！　火事だぞ！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "2eb9d67f",
+      "speaker": "男性",
+      "ja": "なんだと！　すぐに助けにいかねぇと！　命に値段はつけられねぇからな！",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "d7f28f99",
+      "speaker": "男性",
+      "ja": "つまり助けりゃ、有り金全部いただけるってことだ！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "dd832383",
+      "speaker": "",
+      "ja": "夜は更けていった、と言ったものの。",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "8b3bba59",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あれから結局、何時間経った？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "359d58ee",
+      "speaker": "ルミナ",
+      "ja": "そろそろ……１０時間、かな。まだ全然、暗いまんま、だね……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "84079248",
+      "speaker": "コハル",
+      "ja": "全く陽の光が見えないけど……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "b3861e23",
+      "speaker": "雫",
+      "ja": "……これは異常ですね",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "706b7dd",
+      "speaker": "コハル",
+      "ja": "雫？　……確かにちょっと夜が長いけど、おかしいってほどでもないんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "44de8d38",
+      "speaker": "雫",
+      "ja": "念の為、空の星の位置を記憶して観察してみたのですが……ほとんど移動していないように見えます",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "796267b0",
+      "speaker": "雫",
+      "ja": "専門ではないので、詳しくはわかりませんが……自転か、公転の関係で夜の長さが異常な土地なのかも知れません",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "ac2a00f8",
+      "speaker": "コハル",
+      "ja": "ジテン？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "8357a261",
+      "speaker": "{G_PlayerName}",
+      "ja": "コーテン？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "be50f49e",
+      "speaker": "雫",
+      "ja": "……待ってても朝が来ないかもしれない、ということです",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "5e544386",
+      "speaker": "コハル",
+      "ja": "えーっ！　そうなの？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "c541bc67",
+      "speaker": "アポロ",
+      "ja": "墜落した原因が不明のまま、再度脱出する訳にはいきません。ワタシはこのまま調査を進めます",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "b6b3b5c6",
+      "speaker": "雫",
+      "ja": "わたくしも降りて周辺を調べましょう。……大気なども問題無く、危険は無さそうですが……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "36a761b1",
+      "speaker": "コハル",
+      "ja": "あたしも行くわよ！　ここでずっと待ってるなんてまっぴら！　{G_PlayerName}もそうよね？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "86a8686b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……大丈夫そうなら俺も行きたいな",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "dc67cf99",
+      "speaker": "ルミナ",
+      "ja": "え、えっと……私、も……",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "8d23ac82",
+      "speaker": "雫",
+      "ja": "……ええ。今更お止めしませんよ、ルミナ様。……無理に止めては逆に危険ですからね",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "930b9049",
+      "speaker": "ルミナ",
+      "ja": "ありがとう、雫……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "a4002d55",
+      "speaker": "雫",
+      "ja": "さて、では……警戒を怠らず、探索へ向かうとしましょう",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "434e8773",
+      "speaker": "コハル",
+      "ja": "外に出てみると……なんか、不安ね。思ってたより暗いし……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "d0f59e50",
+      "speaker": "雫",
+      "ja": "本当ですね……ルミナ様、わたくしから離れないようにお気をつけください",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "69cd93d7",
+      "speaker": "ルミナ",
+      "ja": "うん……{G_PlayerName}くん、も、離れないでね……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "b918888d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。……見えないだけで、なんか魔物とかいないよな？",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "3aa48cba",
+      "speaker": "雫",
+      "ja": "今のところは。ただの岩地が広がっていますね……一部、人工物が見えますので人はいそうですが",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "2a837bc0",
+      "speaker": "コハル",
+      "ja": "え、こんなに暗いのに見えるの！？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "e0f11571",
+      "speaker": "雫",
+      "ja": "ええ。訓練を受けていますので",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "26302e55",
+      "speaker": "{G_PlayerName}",
+      "ja": "訓練でどうにかなる部分なのか……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "62c4164d",
+      "speaker": "雫",
+      "ja": "……？　あれは……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "d16aca50",
+      "speaker": "ルミナ",
+      "ja": "何か……見え、た……？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "69ad6f85",
+      "speaker": "雫",
+      "ja": "光が……あちらに",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "40bae2a9",
+      "speaker": "",
+      "ja": "雫が歩く先を指差す。確かに、何か小さな光がいくつも見えた。",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "275ac042",
+      "speaker": "雫",
+      "ja": "……近づいてみましょう。動かないので、生物ではないようです",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "8d91f7f4",
+      "speaker": "",
+      "ja": "闇の中に浮かぶ明かりは、微動だにせず宙に浮いているように見える。",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "4cc6eab3",
+      "speaker": "コハル",
+      "ja": "火……？　なにかしら、あれ",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "e391f50b",
+      "speaker": "雫",
+      "ja": "街灯のようになっています。どうやら……村のようです",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "a4d1c67b",
+      "speaker": "{G_PlayerName}",
+      "ja": "行ってみよう！",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "eced1109",
+      "speaker": "コハル",
+      "ja": "……光る石が入った、街灯？　変わったデザインね",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "ef58449b",
+      "speaker": "雫",
+      "ja": "いえ、どうやら……本当に中にある石が光っているようです",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "9f765d7e",
+      "speaker": "ルミナ",
+      "ja": "光る……石……？",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "2ce786b",
+      "speaker": "雫",
+      "ja": "これは相当に珍しい石ですね……持ち帰って研究すれば、新しい技術になり得るかも……",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "3e986637",
+      "speaker": "コハル",
+      "ja": "でも今はとにかく情報を集めないと！　……何を調べればいいの？",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "d2628207",
+      "speaker": "雫",
+      "ja": "そうですね……恐らく、周辺の地形情報やサンプルを集めれば、アポロの分析も進みやすくなるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "f4a0bfff",
+      "speaker": "{G_PlayerName}",
+      "ja": "サンプルって……？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "b578f945",
+      "speaker": "雫",
+      "ja": "この惑星を構成している物質……つまり石や水ですね",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "c486d1fb",
+      "speaker": "雫",
+      "ja": "加工物ではなく自然物に近いほど良いですが、珍しくない物はそのあたりで調達すれば良いので、何か珍しい物があれば買いたい、程度でしょうか",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "8636e388",
+      "speaker": "コハル",
+      "ja": "じゃあそっちはあんまり無理しないでもいいのね。……じゃ、ちょっと聞き込みしましょう！",
+      "zh": ""
+    }
+  ]
+}

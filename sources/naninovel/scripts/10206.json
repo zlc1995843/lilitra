@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "fa6f1069",
+      "speaker": "トレ村人",
+      "ja": "くそっ……なんでこんな……！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "5b070bff",
+      "speaker": "",
+      "ja": "ボバ村から来た戦士達が、槍を振るい、矢を放つ。",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "6bbd7847",
+      "speaker": "",
+      "ja": "トレ村の戦士達も負けじと応戦する。人数はボバ村と比べると少ないが、自分たちの村である分地の利があるのか拮抗しているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "40415732",
+      "speaker": "トレ村人",
+      "ja": "うわああっ！",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "35a7f62e",
+      "speaker": "ラチャナ",
+      "ja": "おぬし、下がれ！　……くっ、準備が整う前に攻め込まれたわい……！",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "485175d8",
+      "speaker": "ラチャナ",
+      "ja": "交代じゃ！　二の隊、前へ！",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "a96afe9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ラチャナは戦わないのか。……戦いが苦手なのかもな……）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "bbb31f4c",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}！　ここに隠れてたのね！　……どうする！？",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "76d40869",
+      "speaker": "{G_PlayerName}",
+      "ja": "一応、時々ラチャナ達の村に加勢はしてるけど……正直、逃げるチャンスだよな……",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "ead2d2d5",
+      "speaker": "",
+      "ja": "武器こそ原始的なものの、卓越した身体能力で戦う村人達。激化する戦闘に必死で、こちらまで目を配る余裕は無さそうだ。",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "1e09929",
+      "speaker": "コハル",
+      "ja": "加勢って言えば、銃は使わないの？",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "c9471036",
+      "speaker": "{G_PlayerName}",
+      "ja": "狙いが外れるのが怖くて使えないし、俺達の星と環境の条件が違って爆発とかしたら嫌だしなあ……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "87bb6531",
+      "speaker": "コハル",
+      "ja": "まあ、確かにね……でもこのまま隠れ続けても仕方ないわよ？",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "2cd29ab0",
+      "speaker": "コハル",
+      "ja": "正直これを放ってどこか行くのもちょっと……罪悪感があるわよね",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "a211ac03",
+      "speaker": "{G_PlayerName}",
+      "ja": "って言ってもな……っ、危ない！",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "7bd5a644",
+      "speaker": "コハル",
+      "ja": "きゃっ！",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "ace876a7",
+      "speaker": "",
+      "ja": "コハルの足元の地面に矢が突き刺さる。安全な場所に隠れていたつもりだが、徐々に押し込まれているらしい。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "e1fd9aaa",
+      "speaker": "",
+      "ja": "練度が違うのだろうか。見れば、何人かトレ村の村人が拘束され、ボバ村の戦士がこちらへと近づいてくる。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "7c64ac61",
+      "speaker": "{G_PlayerName}",
+      "ja": "まずいっ……こっちに来るぞ",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "ae2551b6",
+      "speaker": "コハル",
+      "ja": "……もう、戦うしかないわね！　やあっ！",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "14fb64a4",
+      "speaker": "ボバ村の戦士",
+      "ja": "グヌゥッ！？",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "8cee46c3",
+      "speaker": "",
+      "ja": "相手が持つ槍を、杖で弾き飛ばすコハル。不意を打たれ、相手が体勢を崩す。",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ae942fa5",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}は今のうちに、村の外に逃げて、宇宙船に！　私もすぐ行くから……！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "4a38f0ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "……わかった！　無理するなよ！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "1853fa88",
+      "speaker": "",
+      "ja": "一瞬コハルの援護をしようかと考えたが、この村にいると危険な今、少しでも早く離れたほうがいい。",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "98e96bf1",
+      "speaker": "",
+      "ja": "コハルの身体能力なら、先に離れた俺に追いつく形が一番理想的だろう。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "5c551cf8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（確か、宇宙船はこっちの方角……！）",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "db4514d6",
+      "speaker": "？？？",
+      "ja": "止まれ",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "d5a2503",
+      "speaker": "{G_PlayerName}",
+      "ja": "がっ！？",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "295126d3",
+      "speaker": "ラギオラ",
+      "ja": "逃がすとでも思ったか？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "aad9d3db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "30b29310",
+      "speaker": "",
+      "ja": "首元を掴まれ、軽々と空中に持ち上げられる。足をじたばたと動かすが、掴まれた拳の力が強まっただけだった。",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "69cde776",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}っ！",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "3edec066",
+      "speaker": "",
+      "ja": "コハルがこちらへ駆け寄ろうとする。が、ラギオラの声がそれを遮った。",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "f5ab8714",
+      "speaker": "ラギオラ",
+      "ja": "止まれ。それ以上近づけば、この男の首をへし折るぞ",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "62010e20",
+      "speaker": "コハル",
+      "ja": "っ…………",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "61afafbb",
+      "speaker": "ラギオラ",
+      "ja": "大人しく付いて来れば生かしてやる。理解したか？",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "fb358735",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "f33b797f",
+      "speaker": "コハル",
+      "ja": "……わかったわ",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "505eb5cd",
+      "speaker": "",
+      "ja": "コハルが杖を下ろす。それと同時に首を掴んでいた手が開かれ、地面に投げ出された。",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "6fed9fa9",
+      "speaker": "{G_PlayerName}",
+      "ja": "ゲホッ、ゲホッ！",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "e9f84d97",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}！",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "ac4673aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫……",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "f749f6df",
+      "speaker": "ラギオラ",
+      "ja": "抵抗は無意味だ。これ以上血を流す必要もないだろう",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "6996227c",
+      "speaker": "",
+      "ja": "俺を立たせ、前を歩かせるラギオラ。俺とコハルを分断したいらしい。意図を理解したコハルが、一拍遅れて後に続く。",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "233caa76",
+      "speaker": "ラチャナ",
+      "ja": "コハル、{G_PlayerName}……！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "f22a69f8",
+      "speaker": "コハル",
+      "ja": "……な、なんとかするから！　待ってて！",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "d46f5de1",
+      "speaker": "ラチャナ",
+      "ja": "っ…………",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "f6411cc9",
+      "speaker": "ラチャナ",
+      "ja": "……なんとかと、言うても……",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "1036184d",
+      "speaker": "",
+      "ja": "倒れた村人や崩れたテントを見回し、ラチャナが深いため息を吐いた。",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "ee85b15a",
+      "speaker": "ラギオラ",
+      "ja": "……………………",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "cbfbab0",
+      "speaker": "コハル",
+      "ja": "……………………",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "88111bc5",
+      "speaker": "コハル",
+      "ja": "（この距離じゃ、{G_PlayerName}とこっそり話すことも出来ないわね……）",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "dda1a727",
+      "speaker": "コハル",
+      "ja": "（それにしても、聞いてたよりずっと横暴だわ！　もう、巻き込まれた以上ラチャナと協力するしか……）",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "6aee644",
+      "speaker": "コハル",
+      "ja": "（……協力するより先に、イケニエにされちゃったらどうしよう……その前になんとか逃げ出さないと……）",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "e5cb4ae9",
+      "speaker": "コハル",
+      "ja": "すみません！ ちょっとお聞きしたいんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "7217c1f9",
+      "speaker": "おばさん",
+      "ja": "なんだい？",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "81bfc70e",
+      "speaker": "コハル",
+      "ja": "このあたりで、地図を売ってる場所とか知りませんか？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "dbcacfc2",
+      "speaker": "おばさん",
+      "ja": "地図ぅ？　炭鉱のかい？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "20a25196",
+      "speaker": "コハル",
+      "ja": "あ、いえ。この辺り一帯の、とかもっと広い範囲の……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "baed29d5",
+      "speaker": "おばさん",
+      "ja": "ふーん……それで、いくら？",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "d1ec0cfb",
+      "speaker": "コハル",
+      "ja": "地図の値段ですか？　確か、お財布には……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "7bafdb90",
+      "speaker": "おばさん",
+      "ja": "違うよ。それを教えたら、あたしにいくらくれるんだい？",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "d3e031a8",
+      "speaker": "コハル",
+      "ja": "……え。えーっと……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "20d8579",
+      "speaker": "おばさん",
+      "ja": "なんだい、ケチだねえ。おととい来な",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "40871306",
+      "speaker": "コハル",
+      "ja": "あっ……行っちゃった",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "5e68bdde",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか……強気なおばちゃんだったな",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "fe22a3c5",
+      "speaker": "コハル",
+      "ja": "そ、そうね。次は違う人に聞いてみましょ……すみません！",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "2dd520b4",
+      "speaker": "男性",
+      "ja": "ん？　オレ？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "8269a0ea",
+      "speaker": "コハル",
+      "ja": "はい。地図を売ってる店を探してるんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "d46f1e39",
+      "speaker": "男性",
+      "ja": "へー、地図ね。知ってる知ってる。色んな地図が揃ってる店に案内してあげるよ",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "a6d21864",
+      "speaker": "コハル",
+      "ja": "ありがとうございます！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "9971ca63",
+      "speaker": "男性",
+      "ja": "じゃあ、はい",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "4eb32d1c",
+      "speaker": "コハル",
+      "ja": "……その手は、もしかして",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "fcd4cf32",
+      "speaker": "男性",
+      "ja": "案内料。５００ジュームくれるなら案内するよ",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "8ee6753d",
+      "speaker": "コハル",
+      "ja": "じゅ、ジューム？",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "281f5e7b",
+      "speaker": "男性",
+      "ja": "……はぁ、冷やかしならやめてくれよ、１秒の無駄は１ジュームの無駄だ",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "9a258ec0",
+      "speaker": "コハル",
+      "ja": "……また行っちゃった",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "7dc6f8e",
+      "speaker": "雫",
+      "ja": "ですが、新しい単語を聞けましたね。どうやらこの星で使われる通貨か何かの単位のようです",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "8969f7b9",
+      "speaker": "ルミナ",
+      "ja": "それが、無いと……お話聞けないのかな……？",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "62998aae",
+      "speaker": "{G_PlayerName}",
+      "ja": "偶然話しかけたやつが金にうるさかっただけだろ。もうちょっと聞き込みしてみよう",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "a7b6c658",
+      "speaker": "コハル",
+      "ja": "そうね！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "41c8a149",
+      "speaker": "コハル",
+      "ja": "……どいつも、こいつも……ジュームジュームジューム！",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "d48b649a",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさか全員同じだとはな……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "f2d35163",
+      "speaker": "雫",
+      "ja": "この街……もしくは星の特色なのでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "f9b5a853",
+      "speaker": "コハル",
+      "ja": "人は金のために生きてるわけじゃないでしょ！　少しくらい助け合ったっていいじゃないの！",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "dba95b30",
+      "speaker": "雫",
+      "ja": "それは御尤もですが……",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "926ded4f",
+      "speaker": "ルミナ",
+      "ja": "でも、わかったことがある……よ……",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "fc3e2b6",
+      "speaker": "雫",
+      "ja": "ルミナ様？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "9078568",
+      "speaker": "ルミナ",
+      "ja": "じゅーむ、っていうのを受け渡してる人がいて……それ、光る、石……だったよ",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "c15128d",
+      "speaker": "{G_PlayerName}",
+      "ja": "光る石……",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "1f0118e5",
+      "speaker": "",
+      "ja": "全員が、街灯を見上げる。",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "3e1c3bd8",
+      "speaker": "コハル",
+      "ja": "あれ壊して、中の物取り出せば……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "78b3c0d2",
+      "speaker": "雫",
+      "ja": "……最後の手段にいたしましょう。間違いなく犯罪でしょうし、対策が取られている可能性が高いです",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "42773b26",
+      "speaker": "ルミナ",
+      "ja": "あと……人がいっぱい集まってる、場所があった、よ。何してるか、わかんないけど……",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "335a38a6",
+      "speaker": "{G_PlayerName}",
+      "ja": "行ってみるか？",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "8b41f5e3",
+      "speaker": "雫",
+      "ja": "そうですね……少し、様子を見てみましょうか",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "c01d8c00",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "9023e50",
+      "speaker": "",
+      "ja": "ルミナの道案内に従うと、徐々に光が強くなり、談笑する人や座り込む人が多くいる広場に着いた。",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "5a837ed4",
+      "speaker": "コハル",
+      "ja": "（他の場所より明かりが多いような……？）",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "58ad7c3f",
+      "speaker": "雫",
+      "ja": "（食事中の、薄汚れた人が多いですね。作業者たちの憩いの場、というところでしょうか）",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "ba9d0249",
+      "speaker": "{G_PlayerName}",
+      "ja": "（しかし、なんというか……）",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "2b7494ed",
+      "speaker": "",
+      "ja": "たむろしている作業者たちは、一様に好き勝手振る舞っている……具体的には、道端に唾を吐き捨てたり、下品な笑いを上げていた。",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "d556978a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（治安が悪いな）",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "81353664",
+      "speaker": "雫",
+      "ja": "（不本意ですが、同意せざるを得ませんね。長居してはルミナ様の教育に悪うございます。速やかにここを……）",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "994437ed",
+      "speaker": "ガラの悪い男性",
+      "ja": "なあ、そこの嬢ちゃんたち",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "c99bd54e",
+      "speaker": "コハル",
+      "ja": "ひゅっ！？　はい！",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "86fbdd73",
+      "speaker": "",
+      "ja": "作業者――いや、ごろつきと言っても良いかも知れない男がこちらへと近寄ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "9d9ae780",
+      "speaker": "コハル",
+      "ja": "な、なんでしょうか……",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "c12dc89d",
+      "speaker": "ガラの悪い男性",
+      "ja": "さっきから行ったり来たり、もしかして困ってんじゃねぇか？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "9ef5df6",
+      "speaker": "コハル",
+      "ja": "え、えー……はい、実は色々困ってましてー……でもお金が……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "6f014d62",
+      "speaker": "ガラの悪い男性",
+      "ja": "なに、困ってる時はお互い様って言うだろ？　タダで色々教えてやるよ",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "744e6b3b",
+      "speaker": "コハル",
+      "ja": "ほ……本当ですか！？",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "a627dc0d",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "9ca65dc9",
+      "speaker": "ガラの悪い男性",
+      "ja": "ただ、あんまり人に聞かれたく無くてなあ……よかったらなんだが、そこの店の中で話さねぇか？　お嬢ちゃんと……そこの変な服来た嬢ちゃんだけ来て欲しいんだが",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "d0b431df",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、全員じゃダメなんですか？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "c006f05e",
+      "speaker": "ガラの悪い男性",
+      "ja": "店の中は広くねぇしなあ、ちょーっと全員は……",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "ac75a0d1",
+      "speaker": "雫",
+      "ja": "はっ！",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "ef554369",
+      "speaker": "刃物を持つ男性",
+      "ja": "ぐっ！",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "848c648c",
+      "speaker": "コハル",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "c539e1d9",
+      "speaker": "",
+      "ja": "雫が背後へ光の刃を振る。いつの間にか背後に近づいていた男のナイフが弾かれ、宙に舞った。",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "8d6c59c2",
+      "speaker": "ガラの悪い男性",
+      "ja": "くそっ、こいつらやっぱりリリアンか！",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "a3eac7e0",
+      "speaker": "雫",
+      "ja": "走りますよ！",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "949f3c0",
+      "speaker": "コハル",
+      "ja": "あ……うん！",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "1776c45",
+      "speaker": "ガラの悪い男性",
+      "ja": "おい、待て！　……抜け駆けしといて何バレてんだよ！　もうちょっとでイケそうだったのに！",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "ac42447c",
+      "speaker": "刃物を持つ男性",
+      "ja": "しゃあねえだろ、リリアンじゃなきゃヤれてたタイミングだったのに！",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "f7cfe7bc",
+      "speaker": "ガラの悪い男性",
+      "ja": "そんな場合じゃねえ、あんな高そうな服着てる奴らだ！　拐えばしばらく遊んで暮らせるぞ！",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "bda64304",
+      "speaker": "刃物を持つ男性",
+      "ja": "おうよ、絶対逃がすな！",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "6b919ebf",
+      "speaker": "コハル",
+      "ja": "あ、あいつらやっぱり悪いヤツだったってこと！？",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "26f31bbc",
+      "speaker": "雫",
+      "ja": "どうやら、身なりから裕福な生まれと見て誘拐を企んだ輩のようですね……煩わしい！",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "d9e9c7aa",
+      "speaker": "雫",
+      "ja": "いっそ１人くらい見せしめに血祭りにあげて……",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "b9095e4b",
+      "speaker": "ルミナ",
+      "ja": "雫……ダメ、だよ……！",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "1ae3e78",
+      "speaker": "雫",
+      "ja": "ああ、お優しいルミナ様……ですがいざと言う時の反撃程度はお許しくださいませ",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "5e847061",
+      "speaker": "コハル",
+      "ja": "逃げるしか無いけど……でも、どこに！？",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "41f17517",
+      "speaker": "{G_PlayerName}",
+      "ja": "どこの星に降りてもこんなのばっかりだな……",
+      "zh": ""
+    }
+  ]
+}
