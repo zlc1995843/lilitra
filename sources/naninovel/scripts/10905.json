@@ -1,0 +1,1102 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "77631205",
+      "speaker": "ラト",
+      "ja": "全く、崇姫だなんてご大層な肩書をお持ちなのに、こんなところをブラブラして……崇姫ってお仕事は思っていたよりお飾りなのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "98c07f7",
+      "speaker": "グレメイン",
+      "ja": "こちらのお方はラトさん。\"鍵拝教\"の教祖様です。ラトさん、こちらはコハルさんと{G_PlayerName}さんです",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "2fbcdfa6",
+      "speaker": "コハル",
+      "ja": "教祖様……！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "fb0966dc",
+      "speaker": "ラト",
+      "ja": "ちょっと！　無視なさらないでくださる！？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "93c1b016",
+      "speaker": "ラト",
+      "ja": "あと、ラトさんではなくちゃんと\"崇皇\"と呼んでいただけますこと？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "fad7e4b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "スウコウ？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "603c286d",
+      "speaker": "ラト",
+      "ja": "\"鍵拝教\"での教祖を意味する言葉です！　新しい呼び名とはいえ、頭に入れておいていただかなくては",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "51e3f21d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（この感じを見るに、崇姫に対抗して作った言葉なんじゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "fd70f5a0",
+      "speaker": "グレメイン",
+      "ja": "かしこまりました、崇皇さん",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "20414d4a",
+      "speaker": "ラト",
+      "ja": "……何だか嫌味っぽいわね！　失礼ですこと！",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "6b31d197",
+      "speaker": "グレメイン",
+      "ja": "はあ……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b659ceff",
+      "speaker": "{G_PlayerName}",
+      "ja": "（このどうやっても怒り出す理不尽さ……なんだかデジャヴを感じるな……）",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "1a8e358a",
+      "speaker": "雫",
+      "ja": "……っくしゅ！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "3309786e",
+      "speaker": "ルミナ",
+      "ja": "大丈夫、雫……？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "6671d2cc",
+      "speaker": "雫",
+      "ja": "た、大変失礼いたしました。少し外へ……",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "3e807334",
+      "speaker": "雫の声",
+      "ja": "ぅゎっくっしょんふぁっへーい！",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "3e297699",
+      "speaker": "ルミナ",
+      "ja": "（……{G_PlayerName}くんかコハルちゃんが、雫の噂してるのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "c49d7f74",
+      "speaker": "ラト",
+      "ja": "さて、ご相談なのですが……",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "f5014d50",
+      "speaker": "ラト",
+      "ja": "そこのお二方。わたくしと共に来ていただけませんか？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "848c648c",
+      "speaker": "コハル",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "2428833e",
+      "speaker": "ラト",
+      "ja": "あまり見ない格好のお方ですもの。きっと宗教の紹介か、道案内をされていたのでしょう？　であればわたくしにお任せください",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "2cbd6670",
+      "speaker": "",
+      "ja": "思わぬ誘いに驚き、コハルと共にグレメインの表情を伺う。なんとも言えない表情を浮かべ、少し困ったように笑った。",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "1627e8fa",
+      "speaker": "グレメイン",
+      "ja": "ですが……こちらのお２人は、既に別に信仰されている物があるようですので……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "2043a03",
+      "speaker": "ラト",
+      "ja": "信仰する場を変えるのも、２つ以上の神を信仰するのも珍しいことではありません。知ることに罪はないでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "47661d94",
+      "speaker": "グレメイン",
+      "ja": "それは……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "598593f0",
+      "speaker": "コハル",
+      "ja": "（ねぇ、グレメインさんにはちょっと案内してもらったし……）",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "cb0605b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだか困ってそうだな。崇姫って仕事も忙しそうだから、このあたりでラトさんにお願いしてみるか？）",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "5c8a80ba",
+      "speaker": "コハル",
+      "ja": "グレメインさん、グレメインさんもお忙しそうなので……",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "a648ca10",
+      "speaker": "{G_PlayerName}",
+      "ja": "道案内の続きは、ラトさんにお願いしても大丈夫ですよ？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "2c498f0b",
+      "speaker": "ラト",
+      "ja": "ほっ！？　おほほほっ！　貴方がた、グレメインよりわたくしを選ぶだなんてっ……見る目がございますね！？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "e4cd9d6e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（きゅ、急にメチャクチャ上機嫌になった……）",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "2682e041",
+      "speaker": "ラト",
+      "ja": "この崇皇が、崇姫よりもずっと完璧な案内をして差し上げましょう！　おほほほほ！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "c59c314d",
+      "speaker": "グレメイン",
+      "ja": "ああ……これは、もう止められなさそうですね……",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "17cd0dad",
+      "speaker": "グレメイン",
+      "ja": "お２人共、もしも危なくなったらお逃げくださいね？",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "7e810a4c",
+      "speaker": "ラト",
+      "ja": "さあさあ！　こちらへこちらへ！",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "40d610a7",
+      "speaker": "グレメイン",
+      "ja": "神のご加護がありますように……",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "e570be60",
+      "speaker": "ラト",
+      "ja": "こちらがわたくしの\"鍵拝教\"の教会です！",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "bc37de3e",
+      "speaker": "コハル",
+      "ja": "わぁ……とっても綺麗な教会！",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "1331d067",
+      "speaker": "{G_PlayerName}",
+      "ja": "神々しい、って言葉だけじゃ足りないな……凄い空気だ",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "97cfc6bd",
+      "speaker": "ラト",
+      "ja": "おっほっほ！　そうでしょうそうでしょう！　理想的な教会でしょう！",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "6919182a",
+      "speaker": "ラト",
+      "ja": "まあ、立地は理想というわけではないのですけれども……",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "53131be",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "1922974",
+      "speaker": "ラト",
+      "ja": "瞑想の体験をしてみませんか？　きっと奇跡を身近に感じられて、道が示されたような気持ちになるはずです",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "408bedbc",
+      "speaker": "コハル",
+      "ja": "そうね……ちょっと疲れたし、休憩も兼ねてちょうどいいかも？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "93236ba2",
+      "speaker": "ラト",
+      "ja": "では、コハルさんはこちらに座られて、周りの信者の方を真似てお座りください",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "1acaa468",
+      "speaker": "ラト",
+      "ja": "{G_PlayerName}さんはこちらに来て、少しわたくしの仕事を手伝っていただけます？",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "a85a01f9",
+      "speaker": "",
+      "ja": "そう言いながら、ラトが腕を軽く引っ張る。グレメインの言葉が脳裏をよぎるが……",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "780a2c64",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと疲れたから、俺もコハルの隣で瞑想するよ",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "f57b9ece",
+      "speaker": "ラト",
+      "ja": "む……そうですか。それは残念です……",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "7fdea3f5",
+      "speaker": "コハル",
+      "ja": "ええと、手をこうして……？",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "e7e8dbca",
+      "speaker": "",
+      "ja": "コハルとお互いの姿勢をチェックし合いながら、暫くの間目を閉じるのだった……",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "58b9bf0f",
+      "speaker": "ラト",
+      "ja": "ありがとうございます♪　ではこちらへ！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "2fbb52fa",
+      "speaker": "",
+      "ja": "{G_PlayerName}の手を引きながらラトは狭い部屋へと足を運ぶ。",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "fae214e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、この部屋は……？",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "60d341d5",
+      "speaker": "ラト",
+      "ja": "貴方達、グレメインの傘下に入ろうとしていたのでしょう……？　あんな女はやめて、わたくしにしませんか？",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "8371c3fb",
+      "speaker": "",
+      "ja": "ラトは{G_PlayerName}に身を寄せ、耳元で艶っぽい声で囁きかけた。",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "d74a5488",
+      "speaker": "ラト",
+      "ja": "こちらに味方して頂けるなら、いつでもこうして差し上げますよ",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "866e8d69",
+      "speaker": "",
+      "ja": "そう言ったラトはおもむろに衣服をはだけ胸を{G_PlayerName}に見せつけながら股間をまさぐってきた。",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "2d53ee22",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ちょっと……いきなり何を……",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "311c3d87",
+      "speaker": "",
+      "ja": "戸惑う{G_PlayerName}に構うことなくラトは{G_PlayerName}の大きくなってきている陰茎を取り出して躊躇無く握ってくる。",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "3f4d95ec",
+      "speaker": "ラト",
+      "ja": "ふふっ、逃げようとしても、もう遅いですよ……♥",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "4fe406c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんでこんな事を……！？",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "6a15612e",
+      "speaker": "",
+      "ja": "ラトは笑みを浮かべながら答えた。",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "9b3c486f",
+      "speaker": "ラト",
+      "ja": "そんなこと決まっているではありませんか……あの憎き崇姫に吠え面をかかせるためです……♥",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "5f43f7f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、な……！？　一体何のことだか……！？",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "8fab71bb",
+      "speaker": "",
+      "ja": "ラトは余裕の笑みを浮かべながら陰茎をさらに強く握って言った。",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "48629bb4",
+      "speaker": "ラト",
+      "ja": "ふふふっ♥　口ではそのような事をおっしゃっていても……ここはそうじゃないみたいですよ♥",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "f9ed6128",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……！",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "1080ee21",
+      "speaker": "ラト",
+      "ja": "どうですか……♥　協力して頂けるなら、このまま快楽に導いてさし上げますが……？",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "90e695b5",
+      "speaker": "",
+      "ja": "{G_PlayerName}の心を揺さぶるようにラトは耳に息を吹きかけながらそう囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "ea680e06",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いくらそんなこと言われても……変なことやらせるなら、俺は……協力しないぞ……",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "73f2c4e2",
+      "speaker": "",
+      "ja": "快感に抗いながら答えると、ラトは少し表情を強ばらせた。",
+      "zh": ""
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "9c21381",
+      "speaker": "ラト",
+      "ja": "うっ……か、頑なですね、まあいいでしょう……",
+      "zh": ""
+    },
+    {
+      "key": "272.0",
+      "line_index": 272,
+      "inline_index": 0,
+      "line_hash": "26c1a01f",
+      "speaker": "ラト",
+      "ja": "でも……いつまで抗えるか楽しみです……♥",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "e88ed478",
+      "speaker": "",
+      "ja": "ラトは陰茎を握った手をおもむろに動かし始める。",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "a896896e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あうっ……うっ……あぁぁぁ……",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "a266db2d",
+      "speaker": "",
+      "ja": "肉竿を擦り上げられる快感に{G_PlayerName}は思わず声を上げてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "e513ea49",
+      "speaker": "",
+      "ja": "するとラトは淫靡な笑みを浮かべて手を動かし続ける。",
+      "zh": ""
+    },
+    {
+      "key": "289.0",
+      "line_index": 289,
+      "inline_index": 0,
+      "line_hash": "9103529b",
+      "speaker": "ラト",
+      "ja": "ふふっ……快楽に身を任せても良いのですよ……♥",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "665b5191",
+      "speaker": "",
+      "ja": "甘い言葉を囁きかけながらラトは{G_PlayerName}のおちんちんをしごき上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "1ad23ffc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……くっ……ぅぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "48181d8b",
+      "speaker": "",
+      "ja": "その刺激に{G_PlayerName}は押し殺した呻き声を漏らしながら陰茎を大きくさせていってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "3d407ffb",
+      "speaker": "ラト",
+      "ja": "少しだけ……たった少しだけ、わたくしに従っていただくだけで……いつでもこのように、快楽へと導いてさし上げます……♥",
+      "zh": ""
+    },
+    {
+      "key": "303.0",
+      "line_index": 303,
+      "inline_index": 0,
+      "line_hash": "22766fe0",
+      "speaker": "{G_PlayerName}",
+      "ja": "何のつもりか、知らないが……嫌だ……うっ、くぅぅ……",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "84fc1a4a",
+      "speaker": "",
+      "ja": "必死に抵抗する{G_PlayerName}だがラトの手は巧みにおちんちんの気持ちがいい場所を責めてきた。",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "263f0b21",
+      "speaker": "",
+      "ja": "竿をしごきつつも亀頭を指先で弄ばれると、{G_PlayerName}の体に快感が広がっていく。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "d62cab23",
+      "speaker": "ラト",
+      "ja": "ほら……おちんぽは、すごく気持ちよさそうですわよ♥　先っぽから先走りのお汁が溢れ出てきてますわ♥",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "423bbae5",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……くぅぅ……も、もうやめて……あっ……あぁぁっ……",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "e2eb2ca5",
+      "speaker": "ラト",
+      "ja": "我慢しないで♥　素直になって……気持ちよくなって下さい♥　ほら♥　ほら♥",
+      "zh": ""
+    },
+    {
+      "key": "320.0",
+      "line_index": 320,
+      "inline_index": 0,
+      "line_hash": "cb65789c",
+      "speaker": "",
+      "ja": "ラトは{G_PlayerName}の耳元で甘い声と吐息を漏らしながら陰茎をしごく手の動きを徐々に速めてきた。",
+      "zh": ""
+    },
+    {
+      "key": "322.0",
+      "line_index": 322,
+      "inline_index": 0,
+      "line_hash": "e0fd8327",
+      "speaker": "",
+      "ja": "その堪え難い刺激に、{G_PlayerName}は身悶えていく。",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "88707e8c",
+      "speaker": "",
+      "ja": "ラトはそんな{G_PlayerName}のおちんちんから溢れ出た先走りの汁を全体に塗りつけていった。",
+      "zh": ""
+    },
+    {
+      "key": "327.0",
+      "line_index": 327,
+      "inline_index": 0,
+      "line_hash": "f2aaa78e",
+      "speaker": "ラト",
+      "ja": "こんなにエッチなお汁をいっぱい溢れさせて♥　すごく気持ちよくなっているのですね♥　ふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "329.0",
+      "line_index": 329,
+      "inline_index": 0,
+      "line_hash": "1410c8bf",
+      "speaker": "",
+      "ja": "反り返ったおちんちんは脈打ち、溢れ出た我慢汁でぬるぬるになっていく。",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "5b81bcfe",
+      "speaker": "",
+      "ja": "おかげでラトの手の動きがスムーズになってきて、しごく速度が上がっていった。",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "b3af6d57",
+      "speaker": "{G_PlayerName}",
+      "ja": "くぅぅっ……そ、そんなに激しくされたら……で、出ちゃう……",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "f7b041d8",
+      "speaker": "",
+      "ja": "身悶えながらそう呟く{G_PlayerName}を楽しそうに見つめながら、ラトは何度も手を上下させながら囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "46152634",
+      "speaker": "ラト",
+      "ja": "いいのですよ、出してしまって♥　そしてわたくしに手でしごかれる快感を体に刻み込みましょうね♥　そうすれば……ふふふっ♥",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "5d33fd99",
+      "speaker": "ラト",
+      "ja": "きっとあなたはわたくしが与える快楽の虜♥　気持ちよくして欲しくてしかたなくなってしまいますわよ♥",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "c4012f80",
+      "speaker": "",
+      "ja": "楽しそうにそう言いながら{G_PlayerName}を堕とさんと陰茎を激しくしごき上げていった。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "6fb75feb",
+      "speaker": "",
+      "ja": "裏スジを擦られ亀頭を捏ね回される快感に、{G_PlayerName}の頭の中は真っ白になっていく。",
+      "zh": ""
+    },
+    {
+      "key": "349.0",
+      "line_index": 349,
+      "inline_index": 0,
+      "line_hash": "35a249c7",
+      "speaker": "",
+      "ja": "あまりの快感に腰が小さく跳ねて肉竿が強く脈動してきた。",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "1f44caec",
+      "speaker": "{G_PlayerName}",
+      "ja": "も、もう……ダメだ……これ以上は……うっ……うぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "b5f04477",
+      "speaker": "",
+      "ja": "{G_PlayerName}が低く呻くと限界が近づいていると感じたラトはラストスパートをかけるように一気にしごく手の動きを加速させていく。",
+      "zh": ""
+    },
+    {
+      "key": "358.0",
+      "line_index": 358,
+      "inline_index": 0,
+      "line_hash": "cb126312",
+      "speaker": "ラト",
+      "ja": "さあ、わたくしの手でイってしまいましょう♥　遠慮なさらずに♥　素直に快感に身を任せて♥",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "bb854e40",
+      "speaker": "{G_PlayerName}",
+      "ja": "くっ……んんんっ……あっ……あうぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "dc6263bb",
+      "speaker": "",
+      "ja": "必死に堪えていた{G_PlayerName}だが快楽に勝てるわけもなく、脈打つおちんちんから白濁した精液が勢いよくほとばしってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "6af362c0",
+      "speaker": "ラト",
+      "ja": "ふふふっ♥　悪い人ですね……♥　あれだけ抗っていたのに、こんなに出してしまって……♥",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "2a280553",
+      "speaker": "",
+      "ja": "からかうようにそう言いながらラトは陰茎から精液を搾り取ろうとするように何度もしごき上げてくる。",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "49fa086b",
+      "speaker": "",
+      "ja": "その度におちんちんの先からは精液がほとばしり続けてしまっていた。",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "63e30da7",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}にラトはどこか小馬鹿にしたような口調で囁きかける。",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "2912adb3",
+      "speaker": "ラト",
+      "ja": "びゅるびゅると出して、わたくしの手を汚して……♥　エッチなお汁が止まりませんね……♥",
+      "zh": ""
+    },
+    {
+      "key": "385.0",
+      "line_index": 385,
+      "inline_index": 0,
+      "line_hash": "f59ecca8",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……うぅぅっ……",
+      "zh": ""
+    },
+    {
+      "key": "388.0",
+      "line_index": 388,
+      "inline_index": 0,
+      "line_hash": "497c6913",
+      "speaker": "",
+      "ja": "情けなさと快感に{G_PlayerName}は呻きながら全ての精液を放って果てた。",
+      "zh": ""
+    },
+    {
+      "key": "390.0",
+      "line_index": 390,
+      "inline_index": 0,
+      "line_hash": "ace9a431",
+      "speaker": "",
+      "ja": "そんな{G_PlayerName}のおちんちんをラトは精液まみれになってしまった手でくちゅくちゅと撫で回していく。",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "b07f4123",
+      "speaker": "ラト",
+      "ja": "いかがですか……♥　わたくしに協力する気にはなりましたか……？♥",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "9a6806ab",
+      "speaker": "",
+      "ja": "しかし、{G_PlayerName}は快感の余韻で返事をする余裕も無い。",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "17305c3b",
+      "speaker": "ラト",
+      "ja": "くすくす……♥　いつでもお待ちしていますからね……♥",
+      "zh": ""
+    },
+    {
+      "key": "400.0",
+      "line_index": 400,
+      "inline_index": 0,
+      "line_hash": "8009093a",
+      "speaker": "",
+      "ja": "ラトは満足そうに呟くと、倒れる{G_PlayerName}を置いてどこかへと去っていった。",
+      "zh": ""
+    }
+  ]
+}

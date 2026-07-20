@@ -1,0 +1,832 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "e0d9e129",
+      "speaker": "コハル",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "749bd253",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふう……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "7820c1c9",
+      "speaker": "",
+      "ja": "周りの信者たちと同じように組んでいた指を解き、目を開けて息を吐き出す。それを聞いて、コハルも目を開けてこちらを見た。",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "3b57eadb",
+      "speaker": "コハル",
+      "ja": "（{G_PlayerName}、お祈り終わった？）",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "79646026",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ああ、見様見真似だけどな）",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "2b26eae",
+      "speaker": "コハル",
+      "ja": "（どうだった？）",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "9255541c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どうだった、って……体は休まったし、頭の中の整理はついたかな？）",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "d71093c6",
+      "speaker": "コハル",
+      "ja": "（ふふ、神様の声とか聞こえちゃったりするのかなーって思ったけど。やっぱりそういうことは無いみたいね）",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "2acb3838",
+      "speaker": "{G_PlayerName}",
+      "ja": "（入信もしてない、にわか以下の俺達には流石に聞こえないだろ……）",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "bef52409",
+      "speaker": "ラト",
+      "ja": "祈りは終わりましたか？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "5444972",
+      "speaker": "コハル",
+      "ja": "あっ、はい！　今終わりました",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "4fa16275",
+      "speaker": "ラト",
+      "ja": "どうでしたか？　神を近くに感じられたでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "2af0523b",
+      "speaker": "コハル",
+      "ja": "えっと……あはは、はい。なんとなくですけど……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "9aad574e",
+      "speaker": "ラト",
+      "ja": "{G_PlayerName}さんは？",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "1398b428",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……？　ちょっとだけ？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "12c88a03",
+      "speaker": "ラト",
+      "ja": "そうですか！　きっとお二人には素質があるのですね。初めてなのに神を感じられるだなんて",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "a8686068",
+      "speaker": "{G_PlayerName}",
+      "ja": "（うーん、上手くノせようとしてるっぽいな……）",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "5c4dcf23",
+      "speaker": "ラト",
+      "ja": "もしよろしければ、より近くに神を感じられる場所があるのです。試してみませんか？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "4b3c6189",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　瞑想する場所……ってことですか？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "5571abf4",
+      "speaker": "ラト",
+      "ja": "少し違いますが、近い物です。自身の悩みを思い出し、その解決法を探す……儀式のような物です",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "1758e1a1",
+      "speaker": "コハル",
+      "ja": "うーん……他に用事もあるので、またの機会に……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "a2a47485",
+      "speaker": "ラト",
+      "ja": "こ、これで最後ですから！　是非！　どうでしょうか！？",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "78d5ce2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（う、うーん……必死だな……断りにくい）",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "100aeee0",
+      "speaker": "コハル",
+      "ja": "最後なら……？　いい、{G_PlayerName}？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "ae1cf2ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……だな。ちょっとならいいか",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "d469e411",
+      "speaker": "ラト",
+      "ja": "ありがとうございます！　では、こちらへ",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "30fa1970",
+      "speaker": "ラト",
+      "ja": "こちらです",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "2969d074",
+      "speaker": "コハル",
+      "ja": "小部屋……？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "e06e168e",
+      "speaker": "ラト",
+      "ja": "はい。部屋を暗くしますので、こちらで少しの間瞑想をしてください",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "dbc362df",
+      "speaker": "{G_PlayerName}",
+      "ja": "（狭い部屋のほうが落ち着く、とかか……？）",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "88b728ca",
+      "speaker": "コハルの声",
+      "ja": "わっ、真っ暗ね",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "7ec7aac3",
+      "speaker": "ラトの声",
+      "ja": "では、わたくしは外で待っています。時間になったら開けに来ます",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "9c83da0",
+      "speaker": "ラトの声",
+      "ja": "それまでは外から鍵を閉めておきますね",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "c87e5db4",
+      "speaker": "{G_PlayerName}",
+      "ja": "……え、鍵？　なんで？",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "3b54821e",
+      "speaker": "",
+      "ja": "ラトからの返答は無い。離れる足音だけが聞こえ、静寂が訪れた。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "ccd91c41",
+      "speaker": "コハルの声",
+      "ja": "……閉じ込められたってこと？　殺意や攻撃の意思は無かったみたいだから、大丈夫だと思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "2432cb1c",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、魔力の動きでどうこうってやつか？　見てたのか",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "6882807e",
+      "speaker": "コハルの声",
+      "ja": "まあね。リリアン相手にしか使えない警戒方法だけど……　……",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "50c433f7",
+      "speaker": "コハルの声",
+      "ja": "なんか、変な匂いしない？",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "b9191126",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "2ee05180",
+      "speaker": "",
+      "ja": "言われて、鼻に感覚を集中させる。確かに甘いような、渋いような妙な匂いがするような……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "be520c0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かにするな。なんだこの匂い？",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "36a41f6b",
+      "speaker": "コハルの声",
+      "ja": "……なんか……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "2ffebfde",
+      "speaker": "コハルの声",
+      "ja": "気持ち悪い、かも？　クラクラするみたいな……",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "483e8f5f",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫か！？",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "958ede47",
+      "speaker": "コハルの声",
+      "ja": "{G_PlayerName}は、大丈夫……？",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "2220c208",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は……平気みたいだ。ルナリングのおかげか？",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "98f677ec",
+      "speaker": "コハルの声",
+      "ja": "うっ……ちょ、ちょっと……立ってられない……",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "5f70ceeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おい、コハル！？",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "d2efaefc",
+      "speaker": "あたし",
+      "ja": "{G_PlayerName}、{G_PlayerName}ったら！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "739c222d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん～？",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "be431057",
+      "speaker": "",
+      "ja": "あたし、今どうなってるの？　これ、いつだったっけ……？　夢？",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "8123f141",
+      "speaker": "あたし",
+      "ja": "もう、機械触ってばっかり……何作ってるの？　それ",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "5a5a4f69",
+      "speaker": "",
+      "ja": "そうだ、{G_PlayerName}の部屋にちょっと前入って……",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "5cc8ceb",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……暗い場所でもルミナが能力使えるように、光る何かが作れないかなって",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "100950d",
+      "speaker": "",
+      "ja": "チクリと胸が痛む。",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "836b5629",
+      "speaker": "",
+      "ja": "ずっと色々機械は作ってるけど、武器ばっかりで……",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "72e3512c",
+      "speaker": "",
+      "ja": "村にいた時だって、あたしのために作った機械なんて、無かったのに……",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "48b9b4ee",
+      "speaker": "あたし",
+      "ja": "そうなの。……また何も食べないで、ずっと作業してたの？　何か食べないと！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "1cfa23",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……そうだなー……",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "648bea7c",
+      "speaker": "",
+      "ja": "{G_PlayerName}はあたしの顔も見ないで、機械を触る手を止めない。",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "8fad6c7a",
+      "speaker": "あたし",
+      "ja": "面倒なら、水分だけでも摂ったら？　何が飲みた……",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "9a206463",
+      "speaker": "ルミナ",
+      "ja": "あ……コハルちゃん。{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "6dada456",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、ルミナ。どうした？",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "6c4b7f13",
+      "speaker": "",
+      "ja": "機械を触る手を止めて、{G_PlayerName}がルミナに向き直った。",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "6cbbe00a",
+      "speaker": "",
+      "ja": "違う。ルミナが{G_PlayerName}にとってあたしより上ってわけじゃなくて、部屋にあたしが来るのはいつものことだからで。",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "a62d1247",
+      "speaker": "",
+      "ja": "ルミナが部屋まで来るのは珍しいからで。ルミナが王女様だから礼儀を気にしたからで。今ちょうど作業のキリが良かったからで。深い意味なんて……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "f206336a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと休憩するか。ルミナも何か飲むか？",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "1e9da16a",
+      "speaker": "",
+      "ja": "あたしには、聞かないんだ。",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "fd434ad0",
+      "speaker": "",
+      "ja": "何をウジウジと考えてるんだろう。こんなこといちいち気にしてたら面倒な女だって思われちゃう。{G_PlayerName}の足を引っ張りたいわけじゃない。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "b43cc13f",
+      "speaker": "",
+      "ja": "{G_PlayerName}のことを理解して、許して。機械作りを支えて。例え機械作りが失敗し続けても、{G_PlayerName}を守れるような強いリリアンになって。",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "1050d78",
+      "speaker": "",
+      "ja": "一緒に冒険に出られる日が来るまで、{G_PlayerName}のそばにずっといようって思ったのに。強くなったのはそのためだったのに。なのに……",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "acdbcc0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな機械を作ってるんだけど、使えそうか？",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "1aaeb86e",
+      "speaker": "ルミナ",
+      "ja": "うん……ありがとう、{G_PlayerName}くん……私の能力、まだ不便だから……助かる、よ……",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "be386541",
+      "speaker": "",
+      "ja": "強くないほうが、いいの？",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "91274b04",
+      "speaker": "",
+      "ja": "あたし、{G_PlayerName}の邪魔に、なってた？",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "5d206d25",
+      "speaker": "{G_PlayerName}",
+      "ja": "おーい！　……くそ、誰も開けに来てくれない！",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "e6e3f6a3",
+      "speaker": "コハル",
+      "ja": "私も、王女様なら良かったのにな……",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "aa75ee10",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル？",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "87713f6c",
+      "speaker": "",
+      "ja": "目が慣れてきたのか、コハルの姿が見える。壁に寄りかかっていた体を、無理に起こそうとしているようだ……",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "1e5f0a0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あまり無理するなよ。……大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "f30bb22b",
+      "speaker": "コハル",
+      "ja": "王女様じゃなくても……他の人にいじめられてれば良かったのに。ルミナより、弱くて可哀想な子に生まれてたら良かったのに！",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "afd9df31",
+      "speaker": "コハル",
+      "ja": "そうだったらきっと、もっと{G_PlayerName}に好きになってもらえたのに……！",
+      "zh": ""
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "154744be",
+      "speaker": "{G_PlayerName}",
+      "ja": "コ……コハル。何を……",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "4d497eed",
+      "speaker": "{G_PlayerName}",
+      "ja": "（さっきの匂い……何か、混乱させるような効果がある薬とか……？）",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "31787efc",
+      "speaker": "",
+      "ja": "コハルは俺の声など耳に入っていないように、俺の胸に顔を埋めてきた。",
+      "zh": ""
+    },
+    {
+      "key": "261.1",
+      "line_index": 261,
+      "inline_index": 1,
+      "line_hash": "e13f3279",
+      "speaker": "コハル",
+      "ja": "お願い……{G_PlayerName}……",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "fc14d117",
+      "speaker": "コハル",
+      "ja": "見捨てないで……",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "382f46c",
+      "speaker": "ラト",
+      "ja": "時間です、ご気分はどうですか？",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "ac075704",
+      "speaker": "ラト",
+      "ja": "お、おやおや。そのように仲睦まじくなされて。そのようなつもりで焚いた香では無かったのですが……",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "794b2870",
+      "speaker": "{G_PlayerName}",
+      "ja": "に、逃げるぞコハル！",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "c6b57b5e",
+      "speaker": "ラト",
+      "ja": "えっ！？　ちょ、ちょっとお二人共！？",
+      "zh": ""
+    }
+  ]
+}

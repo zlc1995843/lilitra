@@ -1,0 +1,994 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "c91c61c7",
+      "speaker": "信徒A",
+      "ja": "コハル様～！　どうか我々の教会へ来てください！",
+      "zh": "小春大人～！快来我们教会吧！"
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "22234091",
+      "speaker": "信徒B",
+      "ja": "コハル神様～！　お怒りをお鎮めくださいませ！",
+      "zh": "小春神大人～！请您息怒！"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "1b0c788b",
+      "speaker": "コハル",
+      "ja": "ああもう、襲ってきてるわけじゃないから反撃しにくい……！　どうしよう！？",
+      "zh": "哎呀，他们又不是来打我们的，不好还手……！怎么办啊！？"
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "35d2c113",
+      "speaker": "グレア",
+      "ja": "睡眠命令弾で、危険そうな相手は眠らせていますが……",
+      "zh": "我用睡眠命令弹把看起来危险的人都催眠了，但是……"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "5eb900f8",
+      "speaker": "信徒C",
+      "ja": "ああ、これが神の御業……♥",
+      "zh": "啊，这就是神迹……♥"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "987c78d2",
+      "speaker": "信徒D",
+      "ja": "コハル様の眷属の方♥　私にも、その御業を体感させてくださいっ♥",
+      "zh": "小春大人的眷属大人♥ 也让我感受一下那份神迹吧♥"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "6a1389e9",
+      "speaker": "グレア",
+      "ja": "むしろ勢いが増しているような……というか、眷属とは……",
+      "zh": "感觉他们反而更狂热了……话说回来，眷属是什么意思……"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "7f5021bb",
+      "speaker": "コハル",
+      "ja": "（うっ、神様呼ばわりされるのも大概だけど、王女様に対してそんな扱い……気まずい！）",
+      "zh": "（唔，被当成神大人也就算了，可他们对王女殿下那种态度……真尴尬！）"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "6707fa4e",
+      "speaker": "コハル",
+      "ja": "どこかから、抜けられたりしませんかね！？",
+      "zh": "就不能找个地方逃出去吗！？"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "993c6bad",
+      "speaker": "グレア",
+      "ja": "私もそう考えましたが……",
+      "zh": "我也这么想过，可是……"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "d3ec9b4a",
+      "speaker": "ラト",
+      "ja": "おっほっほ！　無理でしょう？　これだけの信徒の壁をくぐり抜けるのは！",
+      "zh": "哦呵呵！怎么可能！这么多信徒挡着，怎么可能冲出去！"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "4a01cdbc",
+      "speaker": "コハル",
+      "ja": "ラト……！",
+      "zh": "拉托……！"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "f6b6b801",
+      "speaker": "ラト",
+      "ja": "\"鍵拝教\"の信徒数はこの街でも随一！　囲んでしまえば逃げ場なんてありませんよぉ！",
+      "zh": "键拜教的信徒数量在这条街上可是数一数二的！一旦被围住，你们就插翅难飞啦！"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "7a969c70",
+      "speaker": "ラト",
+      "ja": "……ま、まあ。天に還るとかは後でなんとかするとして。まずは捕まえなければ始まりません",
+      "zh": "……嘛，算了。升天什么的以后再说。现在先得把你们抓住。"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "790b4563",
+      "speaker": "ラト",
+      "ja": "先程とは香を変えて、洗脳部屋……ではなく赦しの間に入っていただければ、考えもお変わりになるはずです！",
+      "zh": "换个香，不进洗脑室……啊不，是厨房的话，你们肯定会改变主意的！"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "12cec062",
+      "speaker": "コハル",
+      "ja": "洗脳部屋って言った！？　今！　やっぱり危ない部屋だったんじゃないの！",
+      "zh": "你说洗脑室了！？刚刚！果然不是什么好房间吧！"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "1f13d583",
+      "speaker": "コハル",
+      "ja": "（ああもう、{G_PlayerName}は大丈夫かしら……！？）",
+      "zh": "（啊啊真是的，{G_PlayerName}你还好吧……！？）"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "360c5fc1",
+      "speaker": "グレア",
+      "ja": "……困りましたね。非殺傷兵器では、これ以上打つ手がありません",
+      "zh": "……这下麻烦了。用非杀伤性武器，我们已经没有办法了。"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "689c4be1",
+      "speaker": "コハル",
+      "ja": "す、すみません巻き込んじゃって……！",
+      "zh": "对、对不起，连累你们了……！"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "38435df9",
+      "speaker": "グレア",
+      "ja": "いいえ。それに、私は……",
+      "zh": "不。而且，我……"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "162423f1",
+      "speaker": "コハル",
+      "ja": "っ！？　あれ、グレアさん！？",
+      "zh": "啊！？ 诶，格蕾亚小姐！？"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "3d939e8",
+      "speaker": "",
+      "ja": "一瞬でグレアの姿は消え去った。あたりを見回しても、逃げた様子、隠れた様子は無い。",
+      "zh": "格蕾亚的身影一下子消失了。环顾四周，既不像逃走了，也不像躲起来了。"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "f8485ac7",
+      "speaker": "コハル",
+      "ja": "い、一体どうやって……！？",
+      "zh": "她、她到底是怎么做到的……！？"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "3d57ad3b",
+      "speaker": "信徒E",
+      "ja": "コハル様……！",
+      "zh": "小春大人……！"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "9417274",
+      "speaker": "コハル",
+      "ja": "っ…………！",
+      "zh": "呃……！"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "1e48261",
+      "speaker": "",
+      "ja": "こちらの抵抗が弱まり、信徒に距離を詰められる。信徒に次々と腕を掴まれ、振り払っても倍の腕に掴まれる。",
+      "zh": "我们的抵抗越来越弱，信徒们逼近过来。一个接一个地被抓住手臂，甩开一只，又有更多只手抓上来。"
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "29f2bc7c",
+      "speaker": "信徒F",
+      "ja": "恐ろしいことなどございません、こちらへ……！",
+      "zh": "没什么好怕的，到这边来……！"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "a3b4266c",
+      "speaker": "コハル",
+      "ja": "（この人たち、心の底から善意であたしを連れて行こうとしてる……！　こ、怖い……！）",
+      "zh": "（这些人，是真心实意地想带我走……！好、好可怕……！）"
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "7c69f58d",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}……！",
+      "zh": "{G_PlayerName}……！"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "1241d48",
+      "speaker": "？？？",
+      "ja": "者ども、控えよ",
+      "zh": "你们，给我制住她。"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "de78675c",
+      "speaker": "コハル",
+      "ja": "え…………？",
+      "zh": "咦……？"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "589507b7",
+      "speaker": "",
+      "ja": "街に響く声。声の主を探し、誰もが視線を迷わせる。腕を掴む腕達の力が、大きく緩んだ。",
+      "zh": "一个声音响彻街道。大家都循声望去，视线变得游移不定。抓住她手臂的那些人，手劲明显松了下来。"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "12b972ad",
+      "speaker": "信徒G",
+      "ja": "あそこだ！",
+      "zh": "就在那儿！"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "c1177c6a",
+      "speaker": "",
+      "ja": "信徒の１人が天を指差す。その先には……",
+      "zh": "一个信徒指向天空。只见那边……"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "7f45a62e",
+      "speaker": "コハル",
+      "ja": "…………はああっ！！？",
+      "zh": "…………哈啊！！？"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "1feed2c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "地に伏し、我が声を……聞くのだ……",
+      "zh": "趴在地上，听我的声音……"
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "a9da43fe",
+      "speaker": "",
+      "ja": "天からゆっくりと降りてくる{G_PlayerName}。……目を擦って改めて見上げるコハルだが、眼の前に広がる景色は変わることはない。",
+      "zh": "{G_PlayerName}从天而降，缓缓落地。……小春揉揉眼睛再抬头看，眼前的景象确实没有变化。"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "21b4261b",
+      "speaker": "",
+      "ja": "周りの信徒たちは地にひれ伏し、空に浮く{G_PlayerName}を見上げている。そのうち{G_PlayerName}は地面に降り立った。",
+      "zh": "周围的信徒都俯伏在地，抬头仰望空中的{G_PlayerName}。随后{G_PlayerName}落回地面。"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "bcd51eff",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのまま聞くがいい。コハル、こちらへ",
+      "zh": "这就对了，听我说。小春，过来这边。"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "9a738f5e",
+      "speaker": "コハル",
+      "ja": "（ちょ……ちょっと、これどういうこと！？）",
+      "zh": "（喂……等一下，这到底是怎么回事！？）"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "19425e60",
+      "speaker": "{G_PlayerName}",
+      "ja": "我らは確かに汝らが……",
+      "zh": "我们确实是你们的……"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "1650a9d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……思うように、神の使いである",
+      "zh": "……如你所愿，正是神的使者。"
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "f5b1b8ff",
+      "speaker": "コハル",
+      "ja": "（……台本見てる！？）",
+      "zh": "（……这家伙是在念台词吧！？）"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "7057605",
+      "speaker": "",
+      "ja": "見れば、{G_PlayerName}の手には文章が墨で書かれており、時折目線をやりながらそれを読み上げているようだった。",
+      "zh": "仔细一看，{G_PlayerName}手上用墨写了一段文字，他时不时瞄两眼在读。"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "7aad4ed4",
+      "speaker": "{G_PlayerName}",
+      "ja": "されど、我らは汝らの助けなく天へと還ることが出来る。汝らに命ずる",
+      "zh": "但是，我们不靠你们也能回到天上。现在命令你们——"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "78b41de",
+      "speaker": "{G_PlayerName}",
+      "ja": "……我らは今から天へと還るが、それを妨げず、伏したまま見届けるが良い",
+      "zh": "……我们现在就要返回天上，你们不许阻拦，老老实实趴着看着就行。"
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "fbcc9939",
+      "speaker": "コハル",
+      "ja": "ええっ！？",
+      "zh": "哎！？"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "17cf497",
+      "speaker": "",
+      "ja": "さらに、空から降りてくる大きな影。アポロの宇宙船本体が、空から街に大きな影を作っていた。",
+      "zh": "这时，一个巨大的影子从天而降。阿波罗的宇宙船本体，在街道上投下了巨大的阴影。"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "19b33d73",
+      "speaker": "{G_PlayerName}",
+      "ja": "（行くぞ）",
+      "zh": "（走了）"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "bf51c1d3",
+      "speaker": "コハル",
+      "ja": "え、あ……！",
+      "zh": "哎，啊……！"
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "3300a319",
+      "speaker": "",
+      "ja": "コハルは{G_PlayerName}にしがみつくような形で、上空の宇宙船へと吸い込まれていった……",
+      "zh": "小春像死死抓住{G_PlayerName}一样，被吸进了上空的宇宙飞船……"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "e353593e",
+      "speaker": "ラト",
+      "ja": "な……な……",
+      "zh": "啊……啊……"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "ca09a740",
+      "speaker": "ラト",
+      "ja": "なんなのですかあれはっ！？",
+      "zh": "那是什么啊！？"
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "41f23f31",
+      "speaker": "グレメイン",
+      "ja": "やはり……天から訪れた神族の方々は、長くこの世界にはいられないのですね……",
+      "zh": "果然……从天而降的神族，是不能长久留在这个世界的呢……"
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "5b933cb8",
+      "speaker": "ラト",
+      "ja": "グレメインっ！　まさか、貴方がまた余計なことを……！？",
+      "zh": "格蕾梅因！ 难道你又在多管闲事……！？"
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "b01b38ea",
+      "speaker": "グレメイン",
+      "ja": "とんでもございません、天の使いに対して矮小なわたくしが何を出来ましょう",
+      "zh": "不敢当，面对上天的使者，渺小的我哪能做什么呢。"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "f196616b",
+      "speaker": "ラト",
+      "ja": "くううっ……！　わたくしは全部わかっているのですから！　騙されませんからね！",
+      "zh": "唔……！我可全都知道！你骗不了我的！"
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "de4446e9",
+      "speaker": "メイズ",
+      "ja": "わお。ド派手に帰っていったね～、あれって法律違反じゃないのかな？",
+      "zh": "哇。动静可真大啊～，那不是违法吗？"
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "22fadbac",
+      "speaker": "グレア",
+      "ja": "……宇宙船、だとは思っていないので問題無いでしょう",
+      "zh": "……反正我没当它是宇宙飞船，所以没问题。"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "33065a55",
+      "speaker": "メイズ",
+      "ja": "あはは、あたし達もああやって帰っちゃう～！？",
+      "zh": "啊哈哈，我们也要那样回去了～！？"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "8df9912c",
+      "speaker": "グレア",
+      "ja": "必要無いでしょう……視察は済んだし、戻りますよ",
+      "zh": "没必要吧……视察完了，回去了。"
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "b663407e",
+      "speaker": "メイズ",
+      "ja": "オッケー♪　お疲れお疲れー♪　じゃ、戻ろ！",
+      "zh": "OK♪ 辛苦了辛苦了～♪ 那，回去咯！"
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "cb20c01e",
+      "speaker": "グレア",
+      "ja": "……メイズ！",
+      "zh": "……梅兹！"
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "bfb20513",
+      "speaker": "メイズ",
+      "ja": "ん？　何、グレア？",
+      "zh": "嗯？怎么了，格蕾亚？"
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "cc50222c",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "81738b5b",
+      "speaker": "グレア",
+      "ja": "なんでも、ないです……",
+      "zh": "没什么……"
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "3f9758ed",
+      "speaker": "メイズ",
+      "ja": "そう？　早く行こ！",
+      "zh": "是吗？快走快走！"
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "5c9b1c13",
+      "speaker": "グレア",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "f5fd0def",
+      "speaker": "コハル",
+      "ja": "もう、心臓止まるかと思ったわよ！　もっとスムーズに助けられないわけ！？",
+      "zh": "真是的，心脏都快吓停了！就不能再顺利点救我嘛！？"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "1e4771a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん！　グレメインさんの提案でああするしか……",
+      "zh": "对、对不起！但那是格蕾梅因小姐的建议，只能那么做……"
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "b3d72ca3",
+      "speaker": "コハル",
+      "ja": "グレメインさんが？",
+      "zh": "格蕾梅因小姐？"
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "b29fa896",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、水を探しててグレメインさんに会ったから、案内してもらってたんだけど……",
+      "zh": "啊，因为我在找水遇到了格蕾梅因小姐，她带我过来的……但是……"
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "770a97e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルが追われてる……！　助けないと！",
+      "zh": "小春被追着呢……！得去救她！"
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "edaa9fe8",
+      "speaker": "グレメイン",
+      "ja": "お待ち下さい。この状況では普通に助けるのは難しいかと",
+      "zh": "请等一下。这种情况，普通的救援恐怕很难。"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "da8056e2",
+      "speaker": "{G_PlayerName}",
+      "ja": "で、でも……",
+      "zh": "可、可是……"
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "2e17c936",
+      "speaker": "グレメイン",
+      "ja": "幸い、別に殺されようとしてるわけでもありません。時間をかけて、確実に助けましょう",
+      "zh": "幸好，对方也不是要杀了她。花点时间，稳妥地救吧。"
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "fa1f193c",
+      "speaker": "グレメイン",
+      "ja": "{G_PlayerName}さんが乗ってきた宇宙船。ありますよね？",
+      "zh": "{G_PlayerName}先生您乘来的那艘宇宙飞船。是有的吧？"
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "665f3440",
+      "speaker": "コハル",
+      "ja": "グレメインさん、宇宙船知ってたの！？",
+      "zh": "格蕾梅因小姐，你知道宇宙飞船的事！？"
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "da46b084",
+      "speaker": "ルミナ",
+      "ja": "この星の……崇姫って呼ばれてる人だけは、宇宙技術の存在を知ってるの。……伝え忘れちゃってた、ね……",
+      "zh": "这颗星球上……只有被称为公主的人才知道宇宙技术的存在。……我忘记告诉你们了，呢……"
+    },
+    {
+      "key": "279.1",
+      "line_index": 279,
+      "inline_index": 1,
+      "line_hash": "36dea7e8",
+      "speaker": "雫",
+      "ja": "それで、ルミナ様のお力を使いながら透明なワイヤーで機械士を吊るしたというわけです",
+      "zh": "所以，是利用露米娜大人的力量，用透明线缆把机械师吊起来的。"
+    },
+    {
+      "key": "281.1",
+      "line_index": 281,
+      "inline_index": 1,
+      "line_hash": "e54c2d0a",
+      "speaker": "コハル",
+      "ja": "……ってことは、グレメインさん、最初のほうは知っててからかってたのね！？　も～！",
+      "zh": "……这么说，格蕾梅因小姐你一开始就知道，是故意耍我的！？真是的～！"
+    },
+    {
+      "key": "283.0",
+      "line_index": 283,
+      "inline_index": 0,
+      "line_hash": "7f8217d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "案外いたずら心がある人なのかもな……",
+      "zh": "也许她意外地还挺有玩心的……"
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "6eda8eae",
+      "speaker": "雫",
+      "ja": "全く、不調なルミナ様にご迷惑をおかけするとは！　機械士も男ならあれくらいの人混み小指一本で消し飛ばしなさい！",
+      "zh": "真是的，竟敢给不适的露米娜大人添麻烦！机械师好歹是个男人，那种人群就该用小指头一扫而光！"
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "3e48c96a",
+      "speaker": "{G_PlayerName}",
+      "ja": "どんな男だ！　……ルミナに迷惑かけたのは申し訳ないけどな。ごめん",
+      "zh": "这是什么男人啊！……抱歉让露米娜受困扰了。对不起。"
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "a7f06015",
+      "speaker": "ルミナ",
+      "ja": "う、ううん！　全然……！",
+      "zh": "唔、没事！完全……！"
+    },
+    {
+      "key": "291.1",
+      "line_index": 291,
+      "inline_index": 1,
+      "line_hash": "a5b1e208",
+      "speaker": "雫",
+      "ja": "まあ、騒ぎを起こしていたおかげでわたくしは物資調達がすんなり終わりましたけれども",
+      "zh": "不过，托他们闹腾的福，我的物资调查顺利结束了。"
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "54905a72",
+      "speaker": "コハル",
+      "ja": "け、結局雫が買ってきてたのね……ごめんなさい",
+      "zh": "结、结果是你买的啊……对不起。"
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "6030c7aa",
+      "speaker": "雫",
+      "ja": "とんでもございませんっ♥　もとよりわたくしの役目ですもの、心優しいコハル様にはいつも感謝しておりますわ♥",
+      "zh": "哪里哪里♥ 这本就是我的职责，温柔的小春大人，我一直感激不尽呢♥"
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "c424ee71",
+      "speaker": "{G_PlayerName}",
+      "ja": "差別だ……疲れたし、部屋に戻るか",
+      "zh": "真是天差地别……累了，回房间吧。"
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "22728c8a",
+      "speaker": "コハル",
+      "ja": "そうね。もうずーっとお腹空いちゃってて大変だったわ！　部屋で何か食べましょ！",
+      "zh": "是啊。我早就饿得不行了！回房间吃点东西吧！"
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "f3bf2c47",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "c0333048",
+      "speaker": "コハル",
+      "ja": "（洗脳部屋じゃ変なとこ見せちゃった……かも知れないし、気まずいわね……）",
+      "zh": "（在洗脑室给他看到了奇怪的一面……可能，有点尴尬啊……）"
+    },
+    {
+      "key": "322.1",
+      "line_index": 322,
+      "inline_index": 1,
+      "line_hash": "a5a73cf6",
+      "speaker": "コハル",
+      "ja": "ね、ねえ？　そういえば今回の星じゃ機械は殆ど無かったわね",
+      "zh": "喂、喂？说起来，这次那个星球上几乎没有机械呢。"
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "6478d4fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　ああ、そうだな。そういう技術レベルはそこまで高く無かったのかもな",
+      "zh": "嗯？啊，是啊。可能技术等级没那么高吧。"
+    },
+    {
+      "key": "326.1",
+      "line_index": 326,
+      "inline_index": 1,
+      "line_hash": "d763f969",
+      "speaker": "コハル",
+      "ja": "あれだけキレイな建物作ってるんだから、何かしら機械は使ってそうだけど……",
+      "zh": "他们能建那么漂亮的建筑，应该也用了些机械吧……"
+    },
+    {
+      "key": "328.1",
+      "line_index": 328,
+      "inline_index": 1,
+      "line_hash": "4683b70",
+      "speaker": "コハル",
+      "ja": "そういえば……{G_PlayerName}が今まで作った機械の中で、一番のお気に入りって何？",
+      "zh": "说起来……{G_PlayerName}你至今为止做的机械里，最喜欢的是哪个？"
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "375783e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お気に入り？　一番の？　そうだな……",
+      "zh": "最喜欢的？最好的？嗯……"
+    },
+    {
+      "key": "332.1",
+      "line_index": 332,
+      "inline_index": 1,
+      "line_hash": "97f6e21a",
+      "speaker": "コハル",
+      "ja": "（多分、大事にしてた銃か……ルミナのために作った光る爆弾とか、かな）",
+      "zh": "（多半是他珍藏的枪……或者为露米娜做的那发光爆弹吧。）"
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "e2f9e5cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "プラネタリウムだな",
+      "zh": "是星象仪呢。"
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "7299f06e",
+      "speaker": "コハル",
+      "ja": "えっ？　プラネタリウム？　……なんで？",
+      "zh": "咦？星象仪？……为什么啊？"
+    },
+    {
+      "key": "338.0",
+      "line_index": 338,
+      "inline_index": 0,
+      "line_hash": "138ffd49",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでって……",
+      "zh": "什么叫为什么……"
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "798130f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ほら、プラネタリウム作った時さ、コハルに見せただろ。テントの中で試運転してさ",
+      "zh": "……你看，做星象仪的时候，不是给你看过了吗？还在帐篷里试运行过呢。"
+    },
+    {
+      "key": "342.1",
+      "line_index": 342,
+      "inline_index": 1,
+      "line_hash": "a8b49418",
+      "speaker": "コハル",
+      "ja": "うん……覚えてるけど",
+      "zh": "嗯……是骗你的啦……"
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "e42c3636",
+      "speaker": "{G_PlayerName}",
+      "ja": "今まで銃の失敗作とかガタガタ動く人形とか見せても、お前の反応ってあんまり良くなかったんだよ。でも……",
+      "zh": "之前给你看那些失败的枪啊、嘎吱嘎吱动的人偶啊，你的反应都不怎么好。不过……"
+    },
+    {
+      "key": "346.0",
+      "line_index": 346,
+      "inline_index": 0,
+      "line_hash": "964d52e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "プラネタリウムを見せた時は、お前があんまり喜ぶもんだからさ。今でもあの機械が一番作って良かったなーって思うんだよ",
+      "zh": "给你看星象仪的时候，你高兴得不得了。直到现在我都觉得那个机器做得最值了。"
+    },
+    {
+      "key": "348.1",
+      "line_index": 348,
+      "inline_index": 1,
+      "line_hash": "ee748b9f",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "350.1",
+      "line_index": 350,
+      "inline_index": 1,
+      "line_hash": "d955050b",
+      "speaker": "コハル",
+      "ja": "そ、そーなんだー。なるほどねー。じゃ、お疲れ様",
+      "zh": "是、是这样啊。原来如此。那，辛苦你了。"
+    },
+    {
+      "key": "353.0",
+      "line_index": 353,
+      "inline_index": 0,
+      "line_hash": "65ba1d28",
+      "speaker": "",
+      "ja": "コハルは早口でそう言うと、自分の部屋へと小走りで入っていった。",
+      "zh": "小春飞快地说完，就小跑着回了自己房间。"
+    },
+    {
+      "key": "355.0",
+      "line_index": 355,
+      "inline_index": 0,
+      "line_hash": "316336d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよその反応は！　自分で言わせたんだろ！",
+      "zh": "喂，你这是什么反应！明明是你自己让我说的！"
+    }
+  ]
+}

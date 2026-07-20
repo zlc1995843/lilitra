@@ -1,0 +1,679 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "61fc104f",
+      "speaker": "神父",
+      "ja": "では皆さん、心に神様のお姿を映して、静寂の中瞑想を……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "726189c3",
+      "speaker": "神父",
+      "ja": "……と思いましたが、外の聖歌が始まって静かではありませんね",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "f609d021",
+      "speaker": "信徒",
+      "ja": "隣の\"聖安教\"ですね。いつもこの時間に歌っています",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b0a4ef31",
+      "speaker": "神父",
+      "ja": "わっ！　この音は……！？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "47840c6c",
+      "speaker": "信徒",
+      "ja": "\"灰還の徒\"ですね。目の前の広場で、いつもの物を叩き割る儀式をやってるみたいです",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "d834566e",
+      "speaker": "神父",
+      "ja": "し、仕方ありませんね……共用の聖堂を今からでも借りられないでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "54d126a4",
+      "speaker": "信徒",
+      "ja": "確か、\"ヤテライマ\"が使っていたので無理かと……あそこの後は、強い香が残って瞑想に不向きですし……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "94f7f164",
+      "speaker": "神父",
+      "ja": "ああ……喧騒の中、神様を心に映す罪、どうかお赦しください……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "50e999cb",
+      "speaker": "アポロ",
+      "ja": "着陸しました。固定ベルトを外して構いません",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "1ac957de",
+      "speaker": "コハル",
+      "ja": "今回はどうするの？　全員降りる？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "86de452",
+      "speaker": "ルミナ",
+      "ja": "ん……私は、ちょっと……やめておこう、かな……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "5c73ccee",
+      "speaker": "雫",
+      "ja": "ルミナ様、起きて来られるのがいつもより……と思っていましたが、ご体調が芳しくないのですね！？",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "630bce73",
+      "speaker": "雫",
+      "ja": "今すぐにお部屋に戻りましょう！！　今日は付きっ切りでわたくしが看病いたしますっ！",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "5f549e9a",
+      "speaker": "ルミナ",
+      "ja": "あ、雫……そこまでじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "d87cc12d",
+      "speaker": "コハル",
+      "ja": "い、行っちゃった……大丈夫かしら、ルミナ",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "e9829c9f",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、ちょっと気分悪い、くらいに見えたから大丈夫じゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "621c465",
+      "speaker": "コハル",
+      "ja": "あの感じだと確かにそうね。雫もいるから大丈夫かな……どうしましょうか、あたし達も船に残る？",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "4bc424e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだなあ……アポロ？",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "d9d90fe0",
+      "speaker": "アポロ",
+      "ja": "はい。どうしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "8eb72247",
+      "speaker": "{G_PlayerName}",
+      "ja": "いつも雫がやってる資源チョータツ、とかやらなきゃいけない事はあるか？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "a3506e7f",
+      "speaker": "アポロ",
+      "ja": "基本的にはここで待機してエネルギーがチャージできれば問題ありません。一部減っている資源はありますが、次の惑星で補給しても問題ない量となっています",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "edcf49",
+      "speaker": "アポロ",
+      "ja": "可能であれば調達しておいたほうが、アクシデントに備えられますが……",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "854239",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし。じゃあその資源、俺達で調達して来ようぜ",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "4f235efe",
+      "speaker": "コハル",
+      "ja": "えっ！　……あたし達だけで！？",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "1643660",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ。そのほうがルミナも雫も助かるだろ？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "a173016",
+      "speaker": "コハル",
+      "ja": "まあ……そうかも知れないけど。大丈夫かしら？",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "1272641f",
+      "speaker": "{G_PlayerName}",
+      "ja": "それはこの星がどんな星か次第だと思うけど……アポロ、もっと詳しい星の説明をお願いできるか？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "54b649dd",
+      "speaker": "アポロ",
+      "ja": "かしこまりました。宇宙進出はしていませんので技術レベルは高くありません。が、文化のレベルは高く人々が支え合って生きている星です",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "f08ce9aa",
+      "speaker": "アポロ",
+      "ja": "{G_PlayerName}様、コハル様が住んでいた星に近い星でしょう。宗教の数が多いこと以外、突出した違いはございません",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "900bb78b",
+      "speaker": "コハル",
+      "ja": "あたし達の星に近いの？　じゃあ安心かも知れないわね……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "8ab794f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんかこう……緑と獣の星みたいに危険な獣がいたり、白夜と砂の星みたいに戦争中だったりしないか？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "92926ddb",
+      "speaker": "コハル",
+      "ja": "あ、確かに！　あたし達の星でも、宗教が違う人が戦争を起こした歴史があったっけ……！",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "e9017df2",
+      "speaker": "アポロ",
+      "ja": "その心配は無用かと。星の外から先に状況を確認しましたが、争いが発生している様子は無く、街も傷一つありませんでした",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "38afd2c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか、良かった……",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "ab4716f4",
+      "speaker": "コハル",
+      "ja": "じゃあ……アポロ、後で通信機に必要な物のメモ、送ってくれる？",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "214c1cb1",
+      "speaker": "アポロ",
+      "ja": "かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "1481dceb",
+      "speaker": "コハル",
+      "ja": "じゃ、お先ーっ！",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "33c82daf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ！？　待てよ、ずるいぞ！",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "a82106db",
+      "speaker": "アポロ",
+      "ja": "説明がまだ……！",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "f49671df",
+      "speaker": "アポロ",
+      "ja": "……まあ、変なことをしなければ大丈夫だとは思いますが……",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "9e2caaa4",
+      "speaker": "コハル",
+      "ja": "わぁ……ここが神と天啓の星、なんだ……！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "7c93710d",
+      "speaker": "{G_PlayerName}",
+      "ja": "キレイな街だな……！　俺達の星に近いって言ってたけど、これじゃ王都くらいしか相手にならないぞ",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "e6838f2b",
+      "speaker": "コハル",
+      "ja": "あれ、噴水よね……！　豊かな街を象徴するオブジェって感じでいいわねぇ……！",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "bcfb0139",
+      "speaker": "{G_PlayerName}",
+      "ja": "平和な街って落ち着くよな……",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "8d367f54",
+      "speaker": "コハル",
+      "ja": "稼ぐチャンスがありそうで！",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "9950be5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう『いいわね』かよ……まあ、でもアポロに言われた物資買うためにもそういうことも考えなきゃか。ちょっと歩いてどんな店があるか見てみるか？",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "581fa5c2",
+      "speaker": "コハル",
+      "ja": "うん！　そうしましょ！",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "f7a7199",
+      "speaker": "コハル",
+      "ja": "なんだか……",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "cbd38bf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "変わった街、だな？",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "7f1fc6d2",
+      "speaker": "",
+      "ja": "しばらく街を歩いて回ったが、店らしい店はほとんど見つからなかった。見つかる建物は教会や宗教がらみの建物が多いらしく、妙な飾りや妙な人ばかりが目につく。",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "c0b000cb",
+      "speaker": "コハル",
+      "ja": "これだけ歩いて食べ物のお店が１個も無いってどういうこと……！？　彫像とか絵とか装飾品とか、そんな店ばっかりね……！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "898dfddf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとはお香と、布……？　の店ならあったな。まあ、俺達が見つけられてないだけでどっかにはあるんじゃないか……？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "f1782a0a",
+      "speaker": "コハル",
+      "ja": "あんまりウロウロしても、迷っちゃうかも知れないし……そろそろ休憩する？",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "72920b31",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな。そこの石段にでも座って一息つくか",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "df2b57a0",
+      "speaker": "",
+      "ja": "コハルと隣り合い、硬い石の階段に座る。足の裏に僅かに残った痺れが、膝へ腰へと上ってくるのを感じた。",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "19710da5",
+      "speaker": "コハル",
+      "ja": "街の地図とかどこかに無いかなーと思ってたけど、どうも無いみたいね……",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "faa33604",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かにな。全体図くらいならどっかにありそうなもんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "321452da",
+      "speaker": "コハル",
+      "ja": "やっぱり人に聞くしかないかしら？　でも……",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "fa52b6b5",
+      "speaker": "コハル",
+      "ja": "なんかここの人たちって……話しかけにくいわね",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "ec747653",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……邪魔になっちゃうかも知れないしな",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "be79205e",
+      "speaker": "",
+      "ja": "大抵歩いている人は妙な格好か動きをしている。寸分たがわぬ足取りで行進する人の列や、何かを歌いながら歩く人。眉間に皺を寄せながら、熱心になにかを呟く人。",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "562588b3",
+      "speaker": "コハル",
+      "ja": "あたし達の国でも、祈ってる人の邪魔をしたら凄く怒られちゃうしね……",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "719219ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、そろそろ勇気を出してみるのもいいかも知れないな。……えーっと",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "4b0fefa",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの人とかどうだ？",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "f51d9c2a",
+      "speaker": "",
+      "ja": "直立不動。何もせず、立った状態で噴水を見つめる男性。",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "713ff817",
+      "speaker": "",
+      "ja": "服装も特別奇抜な物はしておらず、妙な物も持っていなければ、妙な言葉を呟いてもいない。",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "4e50d842",
+      "speaker": "コハル",
+      "ja": "確かに……あの人なら大丈夫そうね",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "678ec1b6",
+      "speaker": "{G_PlayerName}",
+      "ja": "よし……それじゃ、聞いてみるか",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "8377cc6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "すみません！　……ちょっと聞きたいことがあるんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "13c8d185",
+      "speaker": "男性",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "20694287",
+      "speaker": "",
+      "ja": "男性が、首だけ動かしてこちらを見る。思わずたじろいでしまうが、男性が表情を柔らかくしてこちらへと向き直る。",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "45733763",
+      "speaker": "男性",
+      "ja": "ああ……その出で立ち……まさしく……",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "4062dfe5",
+      "speaker": "男性",
+      "ja": "神様……！！",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "b35e7438",
+      "speaker": "コハル",
+      "ja": "えっ……？",
+      "zh": ""
+    }
+  ]
+}

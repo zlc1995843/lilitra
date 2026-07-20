@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "1a4c9533",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……俺が{G_PlayerName}で。こっちが……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "40154028",
+      "speaker": "コハル",
+      "ja": "コハルって言います。えっと、あたし達天使でも悪魔でも、神様でもなくて……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "3f8acc53",
+      "speaker": "グレメイン",
+      "ja": "ふふっ、本気で言っていたわけではありませんよ。そのように名乗ったとしても不思議ではないとは思いましたが……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "2f2ce08a",
+      "speaker": "グレメイン",
+      "ja": "この国で１度も見かけていない方、どの宗教にも属していない方でしたので。貴方がたは一体……？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "7ca2f043",
+      "speaker": "コハル",
+      "ja": "（ど……どう名乗ればいいのかしら！？）",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "9a594baf",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、俺達、国の外から来て、初めてこの街にも来て。それで……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "d78138d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（国の外ではあるから、嘘はついてない……よな！）",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "8b7288cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "冒険者を目指して色んなところを旅してるんです",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "62769ccf",
+      "speaker": "グレメイン",
+      "ja": "冒険者……そうなのですか。それで街の中で見かけなかったのかも知れませんね。では、この国を是非案内させてください",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "b058b2cd",
+      "speaker": "コハル",
+      "ja": "（なんとか誤魔化せた？）",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "9869a43",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……だと、いいけどな）",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "28570fe1",
+      "speaker": "コハル",
+      "ja": "あの、ちょっと気になってたんですけど。さっきグレメインさんや他の人が言っていた、スウキ？　って言うのは……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "11b98a89",
+      "speaker": "グレメイン",
+      "ja": "崇姫ですね。僭越ながらわたくし、この国の宗教全てを取りまとめる役を担わせていただいておりまして……その役職名のようなものです",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "3fce6c69",
+      "speaker": "{G_PlayerName}",
+      "ja": "宗教を、全て！？　……この国の宗教って、何個くらい……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "e735a392",
+      "speaker": "グレメイン",
+      "ja": "小さな物や所属している人が数人の物を除くと……８５０ほどでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "fcda19bc",
+      "speaker": "コハル",
+      "ja": "は、は、８５０！？　それの全てを取りまとめてるんですか！？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "a0b5f064",
+      "speaker": "グレメイン",
+      "ja": "はい。共通の教義や規則を決めていますので、厳密には全てを管理しているわけではありませんが……",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "92acaf7c",
+      "speaker": "グレメイン",
+      "ja": "除いた物を含めると、総数は１００倍以上になりますよ",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "60c3043f",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、凄い……全然想像が出来ない……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "7296ec14",
+      "speaker": "コハル",
+      "ja": "でも、宗教って決まりや教えが厳しい物もあって……真反対の物だってきっとあります、よね？　どうやってまとめてるんですか？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "eab2cbba",
+      "speaker": "グレメイン",
+      "ja": "そういった宗教同士は、場所や距離を離したり、活動時間をずらしたり……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "6542a695",
+      "speaker": "グレメイン",
+      "ja": "それが難しい場合は、話し合いで妥協点を決めたりしています。揉めることもありますが、皆様最後にはご理解いただけますよ",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "795174fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなんですか……大変そう……",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "90bc230f",
+      "speaker": "コハル",
+      "ja": "あ、グレメインさん。ちょっとお聞きしたいんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "3f89e57f",
+      "speaker": "グレメイン",
+      "ja": "はい、どうなさいましたか？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "f902937c",
+      "speaker": "コハル",
+      "ja": "あの人達は何をしようとしてるんですか？　ずっとあそこから動きませんけど……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "6dd3027c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん、確かに。最初ここ通った時もあのポーズだったな",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "b028460",
+      "speaker": "グレメイン",
+      "ja": "え？　ああ……天属……と言ってもわかりませんよね。どう説明しましょう……要するに",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "1a5648ec",
+      "speaker": "グレメイン",
+      "ja": "死のうとしています",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "47790233",
+      "speaker": "コハル",
+      "ja": "……え？",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "9048e21b",
+      "speaker": "{G_PlayerName}",
+      "ja": "死のうとしてるって……じ、自殺ってことですか？",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "41f057dd",
+      "speaker": "グレメイン",
+      "ja": "定義次第ではありますが……そうですね",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "753899da",
+      "speaker": "コハル",
+      "ja": "止めたほうが……！",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "d72d3bbb",
+      "speaker": "",
+      "ja": "グレメインは黙って、ゆっくりと首を横に振った。",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "d374ca81",
+      "speaker": "グレメイン",
+      "ja": "多くの宗教では自死が禁じられていますが、一部の宗教ではそれこそが最終目標と定められています",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "fc9739c7",
+      "speaker": "グレメイン",
+      "ja": "死こそが真の幸福であり、それまでは死ぬための準備であり、贖罪であり、試練。あの信徒たちの信念を妨げる権利は、我々にはありません",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "626044e2",
+      "speaker": "コハル",
+      "ja": "そんな……でも……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "be66f3a6",
+      "speaker": "グレメイン",
+      "ja": "お二方は、冒険者……をお目指しでしたね？　様々な場所を冒険される人、ということでしょう",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "3aa52a23",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　はい……",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "7f837d82",
+      "speaker": "グレメイン",
+      "ja": "誰も生きて戻らぬ秘境、と言われている場所があったとして……そこに向かう冒険者を止められますか？",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "c39f75ce",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それは……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "55bc5294",
+      "speaker": "グレメイン",
+      "ja": "自身が止められた場合はどう感じるでしょうか？　全く同じとは言いませんが、似たような物ですよ",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "37361c28",
+      "speaker": "グレメイン",
+      "ja": "わたくしはあの方々と同じ考えを持っているわけではありませんが……どうか、ご理解いただいて尊重していただけると嬉しいです",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "f6640f3c",
+      "speaker": "コハル",
+      "ja": "は……はい……",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "9950c3fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（目の前で死のうとしてるのに……納得は出来ないけど、でも……難しいな）",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "3e45a774",
+      "speaker": "コハル",
+      "ja": "あ……そうだ。グレメインさんに他にも聞きたいことがあって",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "c8bbcaa",
+      "speaker": "グレメイン",
+      "ja": "はい。何でしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "8121989c",
+      "speaker": "コハル",
+      "ja": "このあたりで、お買い物できるお店って……",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "acb1a85f",
+      "speaker": "？？？",
+      "ja": "あ～ら、こんなところに崇姫様がいらっしゃるなんて、とっても驚きですね！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "58c7eba7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？　グレメインさんの知り合い、ですか？",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "728af353",
+      "speaker": "グレメイン",
+      "ja": "ラトさん……",
+      "zh": ""
+    }
+  ]
+}

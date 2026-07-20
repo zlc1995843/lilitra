@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "c8865039",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ、はあ……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "fea59c65",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここまで来れば、捕まったりしないだろうな……グレメインさんが言ってたんだから、すぐ逃げればよかった……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "ccdebb52",
+      "speaker": "コハル",
+      "ja": "う、ううん……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "27dc2c6b",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か、コハル？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "69dc7ffd",
+      "speaker": "コハル",
+      "ja": "大丈夫……ちょっとまだ、気分があんまり良くないだけ",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "4ed813c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "それ大丈夫じゃないだろ……顔色が悪いな",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "3a970223",
+      "speaker": "コハル",
+      "ja": "ここは……？",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "9bc0e445",
+      "speaker": "{G_PlayerName}",
+      "ja": "広場だ。ここならお祈りしてる人も多いし、すぐにラトに見つからないと思う",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "f7d73221",
+      "speaker": "コハル",
+      "ja": "そう……ゴホッ！",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "7cb361b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと水だけでも探して、買ってくる！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "d049f4b2",
+      "speaker": "コハル",
+      "ja": "あっ……ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "d737c517",
+      "speaker": "",
+      "ja": "コハルの返事を聞くやいなや、{G_PlayerName}は走って人混みの中へと消えていった。",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "fd06f116",
+      "speaker": "コハル",
+      "ja": "ふう……ちょっと、お行儀悪いけど……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "5449cbeb",
+      "speaker": "",
+      "ja": "広場にいくつかある像のうちの１つ。周囲に石で出来た塀のような物があり、そこにコハルは背を預けた。",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "b17d7c81",
+      "speaker": "コハル",
+      "ja": "（ふー……深呼吸してたら、少しずつ気分良くなってきたかも……）",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "5a4f0b6e",
+      "speaker": "コハル",
+      "ja": "（でも、{G_PlayerName}に迷惑かけちゃった……嫌だな、あんまり覚えてないけど変なこと言ってないかしら）",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "32f0a553",
+      "speaker": "コハル",
+      "ja": "（とにかく、早く調子戻さないと。そしたら一回宇宙船に帰ったほうが……）",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "9b63ad4e",
+      "speaker": "",
+      "ja": "そう言ってコハルは目を閉じた。",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "a2916eec",
+      "speaker": "",
+      "ja": "ざわざわと蠢く往来の声と、広場を吹き抜ける風の音が頭に響く。静かで落ち着くわけではないが、そうしているうちにコハルの頭は少しずつ澄んでいった。",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "2f89fd19",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "85f651a",
+      "speaker": "コハル",
+      "ja": "（{G_PlayerName}？　……じゃ、ないみたいね）",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "95eda727",
+      "speaker": "",
+      "ja": "寄りかかった塀の中にある像。そこに誰かお祈りでもしに来たのか、近づいてきた足音がそこで止まった。",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "c0af38d6",
+      "speaker": "コハル",
+      "ja": "（邪魔になったら悪いわね。このまま気づかれないように隠れてましょ）",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "7a7cf64c",
+      "speaker": "？？？",
+      "ja": "どうか…………",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "bdd2081c",
+      "speaker": "？？？",
+      "ja": "メイズが……解放されて、自由に……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "f181a060",
+      "speaker": "コハル",
+      "ja": "（？　……この声、どこかで聞いたような）",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "3cc8c86e",
+      "speaker": "コハル",
+      "ja": "（えっ！？）",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "f7014471",
+      "speaker": "",
+      "ja": "見覚えのある顔。目にしたのは随分前で１度しか見ていないが、この外見は確か……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "ddbdf95d",
+      "speaker": "コハル",
+      "ja": "（グレア……ルミナの、姉！？）",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "bd7fe931",
+      "speaker": "グレア",
+      "ja": "！　だ、誰ですか？　そんなところに……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "5511c73a",
+      "speaker": "コハル",
+      "ja": "（見つかっちゃった！？）",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "ccbb4897",
+      "speaker": "コハル",
+      "ja": "あ、あの……",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "6b5b23b8",
+      "speaker": "グレア",
+      "ja": "あなたは確か……ルミナと船に乗っていた……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "272d2b9",
+      "speaker": "ルミナ",
+      "ja": "ど、どのような……御用でしょうか、グレアお姉様",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "bed95c02",
+      "speaker": "グレア",
+      "ja": "当然、迎えに",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "169ae807",
+      "speaker": "グレア",
+      "ja": "度重なる愚行で王家の品位を下げて、もう十分満足したでしょう？　わたくし達の船に乗って母星に戻りなさい",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "12142081",
+      "speaker": "グレア",
+      "ja": "お母様は大変お怒りです。わたくしが一緒に謝って差し上げましょう。よろしいですね？",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "8867c305",
+      "speaker": "ルミナ",
+      "ja": "……わ……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "bc9ff69e",
+      "speaker": "ルミナ",
+      "ja": "私達、は……この宇宙船で、母星へと戻らせていただきます。……事情が、ございますので……",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "555819f1",
+      "speaker": "",
+      "ja": "ルミナがうつむき、震えながらも言葉を絞り出す。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "bda80438",
+      "speaker": "",
+      "ja": "グレアは肺を空にするかのように、大げさに息を吐き出した。",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "4cca3039",
+      "speaker": "グレア",
+      "ja": "はあ……。慈悲を与えてあげたというのに",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "ce2bc23e",
+      "speaker": "グレア",
+      "ja": "貴方には愛想が尽きました。やはり貴方には、女王の座は務まりません",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "c60acab3",
+      "speaker": "グレア",
+      "ja": "今回は十分な準備もございませんし、見逃しますが……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "78c9c2d6",
+      "speaker": "グレア",
+      "ja": "次は必ず、女王の座をいただきます。貴方の命をもって",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "83a388ec",
+      "speaker": "コハル",
+      "ja": "（もしかして……殺される……！？）",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "cc50222c",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "1f3a59c0",
+      "speaker": "グレア",
+      "ja": "気分が優れないのですか？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "67d90fca",
+      "speaker": "コハル",
+      "ja": "えっ？　は、はい……ちょっとだけ……",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "c2b3800f",
+      "speaker": "グレア",
+      "ja": "休むのであれば、こちらにもっと適した場所があります",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "edb35f5f",
+      "speaker": "コハル",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "a62afbaa",
+      "speaker": "グレア",
+      "ja": "立てますか？　ついて来なさい",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "f02f2544",
+      "speaker": "コハル",
+      "ja": "あ、あれ……？　人違いじゃ、ないわよね？　なんで親切にしてくれるの……？",
+      "zh": ""
+    }
+  ]
+}
