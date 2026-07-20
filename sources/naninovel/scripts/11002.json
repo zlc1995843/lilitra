@@ -1,0 +1,508 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "745c4b52",
+      "speaker": "",
+      "ja": "愛と欲望の館へようこそ、ご注文は？♥",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "c139edd",
+      "speaker": "",
+      "ja": "熱い口付けから、絡み合うような■■■■、忘れられないような■■■まで全部のプレイに対応してるわよ♥　代金は……",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "8d62a3b7",
+      "speaker": "",
+      "ja": "同じプレイを、他のお客様としてもらえたら無料です……♥　無限に膨れ上がる快楽に溺れましょう♥",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "79e6a7d9",
+      "speaker": "コハル",
+      "ja": "美と享楽の星って、こんな星だったの……！？",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "82150e73",
+      "speaker": "雫",
+      "ja": "いいえ。\"芸術\"と\"娯楽\"を追求する星で、動画や映画などを主な武器として発展してきた星のはずですが",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "8509a0d7",
+      "speaker": "雫",
+      "ja": "……方向転換したのでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "cd4e23d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、これは流石に……方向転換にしても、芸術のげの字も無さすぎるだろ",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "9acd38a6",
+      "speaker": "コハル",
+      "ja": "これって、もしかしてだけど……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "a06069d7",
+      "speaker": "アポロ",
+      "ja": "オーバーテクノロジーの異常な動きを検知しました",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "c3a2871a",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "473b6f65",
+      "speaker": "コハル",
+      "ja": "やっぱり！？　あの、よくわからないけど凄い機械が悪さしてるってこと？",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "f437210d",
+      "speaker": "雫",
+      "ja": "何が起きているのです？",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "24761316",
+      "speaker": "アポロ",
+      "ja": "そこまではわかりません",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "43c007a4",
+      "speaker": "雫",
+      "ja": "役っ……に立ちますね、本当に",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "7bcff874",
+      "speaker": "アポロ",
+      "ja": "ええ、あなた達よりは",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "4a4cd43f",
+      "speaker": "{G_PlayerName}",
+      "ja": "皮肉が効いてない……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "c531e7aa",
+      "speaker": "雫",
+      "ja": "（しかし、終と始まりの星に近い惑星で？　機械による犯罪が……？）",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "23c2f722",
+      "speaker": "雫",
+      "ja": "（最初こそ遠い星で違法な実験が行われていると仮定しましたが。この事態、思っていたよりも……数段、厄介なのでは……）",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "11c244e",
+      "speaker": "コハル",
+      "ja": "いやでも、何が起きてるって……",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "15725e8e",
+      "speaker": "",
+      "ja": "コハルが、顔の向きはそのままで視線だけ横へ向ける。そのままひとつに合体でもするのではないか、という２人組が歩いて消えていった。",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "20239769",
+      "speaker": "コハル",
+      "ja": "……異常って言ったら、これなんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "31099c17",
+      "speaker": "雫",
+      "ja": "まあ……倫理的に大変よろしくない状態ではありますね",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "54da3fff",
+      "speaker": "コハル",
+      "ja": "でも、これが機械の仕業だとすれば、これくらいなら色街なら珍しくないかも？　……いや、珍しいかも知れないけど。問題は無いのかな",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "6859fc49",
+      "speaker": "{G_PlayerName}",
+      "ja": "都会の夜の裏って言ったら……こういうイメージはまあ、あるよな",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "317179a1",
+      "speaker": "雫",
+      "ja": "どんなイメージですか。……まあ、何か異常が起きていたとしても、急を要する事態でなければ今解決する必要はありません",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "ad66bf85",
+      "speaker": "雫",
+      "ja": "ひとまずは、燃料や食料などを補充しましょう",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "4f337baf",
+      "speaker": "",
+      "ja": "１時間後……",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "4dac47af",
+      "speaker": "コハル",
+      "ja": "前言撤回、問題あるわ！",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "1e1539c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "店員みーんなイチャイチャベタベタ、全然話聞かずエロいことに夢中で……",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "ecf3ed50",
+      "speaker": "雫",
+      "ja": "たまに話が通じるかと思えば性行為を対価に要求。はあ、機械士ならいくらでも差し出しますが",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "49c59752",
+      "speaker": "{G_PlayerName}",
+      "ja": "嫌だっつーの、普通に！",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "95bfbfbd",
+      "speaker": "雫",
+      "ja": "ですが、このままでは別の星に行けませんよ。体を差し出しなさい",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "4c9ab24d",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……いやいや。どうせなら、機械探して止めようぜ……",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "ffad6483",
+      "speaker": "雫",
+      "ja": "全く。アポロ、機械の場所を特定しなさい",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "a41c03e5",
+      "speaker": "アポロの通信",
+      "ja": "影響が広すぎるうえに、機械が多い星なので問題の機械の場所がわかりません",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "e2b8f04d",
+      "speaker": "雫",
+      "ja": "つっかえ……るAIですね、全くもって",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "7dee3a69",
+      "speaker": "アポロの通信",
+      "ja": "ええ、あなた達よりは",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "b49a3224",
+      "speaker": "アポロの通信",
+      "ja": "この星全体をスキャンすることは不可能ですが……そうですね、建物１つくらいにあたりをつければなんとかなるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "40623a59",
+      "speaker": "{G_PlayerName}",
+      "ja": "随分と狭い範囲だな……",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "a99ab95d",
+      "speaker": "コハル",
+      "ja": "とりあえず、どこかで情報を集めましょう！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "99287e57",
+      "speaker": "雫",
+      "ja": "そうですね。30分探して収穫が無かった場合は男を差し出しましょう",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "1372cb01",
+      "speaker": "コハル",
+      "ja": "駄目だってばっ！",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "32746223",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナいないうえに緊張無い状況だから仕方ないけど、やる気無さすぎるだろ……）",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "7e9b994f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（情報を集める、って言ったって……）",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "56b7d806",
+      "speaker": "道行く女性",
+      "ja": "あんっ♥　もっと奥ぅ、奥触ってぇ♥　いっぱい……",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "8f665c6b",
+      "speaker": "道行く男性",
+      "ja": "さっきもやったばっかなのに、もうこんなに……",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "ba1e0c2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あー、どこいってもベタベタネチョネチョと……どうせ話も通じないし、これ以上情報増えないって……）",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "1ce12fe2",
+      "speaker": "",
+      "ja": "２人以上で歩いている人間は真っ最中で話が通じないし、１人の人も話しかければ誘ったと思われて話が通じない。",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "49c3b087",
+      "speaker": "",
+      "ja": "もっとも、全員に話しかけたわけではないので絶対そうなると決まったわけではないが……",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "b0b98ca3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（せめてもうちょっと……こう、なんだ。まともそうな雰囲気の人がいたらいいんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "86ae12d6",
+      "speaker": "",
+      "ja": "と言っても、見ただけでまともかどうかわかれば苦労するわけもなく……",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "7ec16173",
+      "speaker": "{G_PlayerName}",
+      "ja": "んっ？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "77396f44",
+      "speaker": "メイメイ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "cb6c362e",
+      "speaker": "メイメイ",
+      "ja": "あら！？　推し……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "e8c55403",
+      "speaker": "メイメイ",
+      "ja": "……ン゛ンッ！　読者様の{G_PlayerName}くんじゃない。こんなところで会うなんて……珍しいこともあるものね？",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "1ad42737",
+      "speaker": "{G_PlayerName}",
+      "ja": "メイメイ……！",
+      "zh": ""
+    }
+  ]
+}

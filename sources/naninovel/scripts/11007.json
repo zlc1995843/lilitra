@@ -1,0 +1,913 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "e3b20aaf",
+      "speaker": "コハル",
+      "ja": "ここがメイメイのお家？",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "f464e0b8",
+      "speaker": "ルミナ",
+      "ja": "うん……そう、みたいだね……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "a399224e",
+      "speaker": "",
+      "ja": "翌日。結局ルミナを宇宙船にずっと待たせておくわけにもいかないということで、合流の時間、ルミナも連れてメイメイの家に来た。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "ee183333",
+      "speaker": "",
+      "ja": "イチャつく人を見る度に目に毒だと騒ぎ、ルミナに見えないように奮闘する雫がいつもの数倍うるさいが……",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "9e69f9ae",
+      "speaker": "メイメイ",
+      "ja": "ご、ごめんなさいお待たせして……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "e8e9f917",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、待ってないけど。どうしたんだ？　寝坊か？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "3aa2647c",
+      "speaker": "メイメイ",
+      "ja": "いいえ。小説のほうがその、捗ってしまって……昨日の取材で……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "3d90f714",
+      "speaker": "コハル",
+      "ja": "昨日の取材で捗って……って、もしかして寝てないの！？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "63739fc5",
+      "speaker": "メイメイ",
+      "ja": "筆が乗った時に書かないといけないから……ま、まあリリアンだしね。少しくらい寝ていなくても大丈夫よ",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "e10045af",
+      "speaker": "ルミナ",
+      "ja": "む、無理はしないでね……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "eeb8f5ad",
+      "speaker": "メイメイ",
+      "ja": "無理なんて、全然！　むしろとっても元気なくらいよ",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "4f8a938b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（逆に不安なんだが……）",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "48a6712d",
+      "speaker": "メイメイ",
+      "ja": "手分けして情報を探しましょう。クラブ内と、クラブ外で",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "3872881",
+      "speaker": "{G_PlayerName}",
+      "ja": "クラブ外って言っても……どこで話を聞けばいいか、見当がついてないんだが",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "b9aa5411",
+      "speaker": "メイメイ",
+      "ja": "それについては安心して。他に、リリアンのいるクラブを探しておいたから。そこで何か聞けないか確認して欲しいの",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "96fed571",
+      "speaker": "メイメイ",
+      "ja": "特に……いつから客やスタッフの様子がおかしくなったか聞いて欲しいわ",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "2564ed84",
+      "speaker": "ルミナ",
+      "ja": "いつから始まったか……だね。わかった",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "26b4a2cd",
+      "speaker": "メイメイ",
+      "ja": "それが終わったら、またクラブで合流しましょう。昨日と同じで、体験入店って形で色々調べておくから",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "92ae2318",
+      "speaker": "コハル",
+      "ja": "わかったわ。でも、これをまとめてたから眠れなかったんじゃない？　ありがとうね……！",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "14bac141",
+      "speaker": "メイメイ",
+      "ja": "いいえ。そっちは５分くらいで終わったわ。ただインスピレーションがどんどん湧いて……ふわあ",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "84661513",
+      "speaker": "コハル",
+      "ja": "そ、そう",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "178a485e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こんな調子でクラブに出て大丈夫なのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "fa5d45b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……次で最後だけど、道が難しいな……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "3d744f6a",
+      "speaker": "",
+      "ja": "メイメイに渡された、リリアンがいるクラブは合計で９個。",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "ab971830",
+      "speaker": "",
+      "ja": "{G_PlayerName}、コハル、雫とルミナの３手に別れ、３個ずつクラブを回ることになった。",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "2b28b1d1",
+      "speaker": "",
+      "ja": "雫がルミナを守るために……というのは予想がついていたが、実際は雫の豪遊を阻止する意味合いが大きいだろう。",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "5b5e85b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええと、ここまでは合ってると思うんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "39a718f5",
+      "speaker": "",
+      "ja": "３度目になる同じ景色。今一度地図を確認しながら景色と情報を整合させていると……",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "b8f21149",
+      "speaker": "雛菊",
+      "ja": "あら……？　ぬしさん、こんなところでどうしたでありんすか？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "afcbda7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　あっ……雛菊！",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "f250fdb9",
+      "speaker": "",
+      "ja": "雛菊。美と享楽の星で花魁をしているリリアン。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "86005aea",
+      "speaker": "",
+      "ja": "花魁になってから日が浅く、まだ見習いらしい。花魁でありながら酒に弱く、誘惑に弱い。食べることが大好き。",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "be5f7baa",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか、ちょうど雛菊が働いてる店、遊郭を探してたんだ……！　何してるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "9294de2b",
+      "speaker": "雛菊",
+      "ja": "まだまだ見習いでありんすから、必要な買い物をしてやした",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "5c459f89",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そうは見えないんだよなあ……いつもマイペースだから、堂々として見えるのかな）",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "87758950",
+      "speaker": "{G_PlayerName}",
+      "ja": "荷物いっぱいで大変そうだな。どんな物を買ったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "d85095c8",
+      "speaker": "雛菊",
+      "ja": "旦那さんがたにお出しする物とか、わちきらで食べるおやつとか……",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "5eb98a88",
+      "speaker": "{G_PlayerName}",
+      "ja": "食べ物ばっかりじゃないか……つまんでないだろうな？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "63733575",
+      "speaker": "雛菊",
+      "ja": "のおこめんと、でありんす",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "4d18b0ee",
+      "speaker": "{G_PlayerName}",
+      "ja": "はは……ってそうだ、最近おかしなところは無いか？",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2cf0bfda",
+      "speaker": "雛菊",
+      "ja": "おかしなところ、でありんすか",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "8be9f46d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああすまん、漠然とした聞き方で……この星の人たちがなんていうか、本能に忠実すぎるっていうか……理性が少なくなってるみたいなんだけど",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "190cf35e",
+      "speaker": "{G_PlayerName}",
+      "ja": "もし心当たりがあるなら、原因とか、いつからおかしくなったか教えて欲しいなって",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "7e6b9440",
+      "speaker": "雛菊",
+      "ja": "確かに、旦那さんや他の姐さんの様子がどうもおかしゅうなってやすね。鼻息が荒うござりんしたり……",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "1990d4c1",
+      "speaker": "雛菊",
+      "ja": "何でありんす、機械の仕業やったんやね？　大体２ヶ月前くらいからでありんしょうか？　そんなに前からではのう最近の異変だと思いんすえ",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "c56df237",
+      "speaker": "{G_PlayerName}",
+      "ja": "うんうん……そうか、遊郭でもそんな感じなんだな",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "7cb25880",
+      "speaker": "雛菊",
+      "ja": "他は何も……大した情報が無うて申し訳ございんせん。遊郭は閉じた空間でありんすゆえ",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "7568a0f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、ありがとう。助かったよ",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "68bb0ee6",
+      "speaker": "雛菊",
+      "ja": "これ以上は怒られちまいましんす。今日はこのあたりで失礼しんす",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "6e589777",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、気を付けてな！",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "891369c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "……って、迷ってたらこんな時間だ！　クラブに行かないと！",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "82b8232a",
+      "speaker": "カルーア",
+      "ja": "い、いらっしゃいませぇ～っ！",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "b6f5d2c5",
+      "speaker": "メイメイ",
+      "ja": "あら{G_PlayerName}くん、遅かったのね",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "2ebcd139",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ちょっと色々あって……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "202a9180",
+      "speaker": "コハル",
+      "ja": "まさか誰かとイチャイチャしてたんじゃあ……！",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "41c1bce8",
+      "speaker": "{G_PlayerName}",
+      "ja": "迷っただけだっつーの！",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "7835b58e",
+      "speaker": "コハル",
+      "ja": "なーんだ、あんたらしいわね",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "8f0f8fab",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで、情報共有したいんだが……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "e3ae05d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "……で、雛菊は２ヶ月前って言ってたんだが",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "ca975ac2",
+      "speaker": "ルミナ",
+      "ja": "……皆同じくらいの情報しか、やっぱりわからなかったね",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "66febaa4",
+      "speaker": "雫",
+      "ja": "発覚した時期はバラバラのようですが",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "573110f8",
+      "speaker": "メイメイ",
+      "ja": "……やっぱり、もしかして",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "c2e5cdbc",
+      "speaker": "メイメイ",
+      "ja": "人間のお客さん……そうね、あの人にしようかしら",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "300388d",
+      "speaker": "{G_PlayerName}",
+      "ja": "メイメイ？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "600887d5",
+      "speaker": "メイメイ",
+      "ja": "うっひょひょ～～～い！　女！　酒！　サイコ～～～～！　ひょっひょっひょ～～～い！",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "64799a3",
+      "speaker": "ルミナ",
+      "ja": "えっ！？　……メイメイさんまで、もしかしておかしくなっちゃった……！？",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "daa59367",
+      "speaker": "{G_PlayerName}",
+      "ja": "リリアンなら大丈夫なんじゃなかったのか！？　それとも雫の真似か！？",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "6960e12e",
+      "speaker": "雫",
+      "ja": "吊るしますよ男！！",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "fd519284",
+      "speaker": "メイメイ",
+      "ja": "……っと、",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "5389bb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ、大丈夫か！？　メイメイまで壊れたんじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "93074cc7",
+      "speaker": "メイメイ",
+      "ja": "違うわ、これは私のリリアンとしての、そして作家としての能力よ",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "d8ba0c5b",
+      "speaker": "ルミナ",
+      "ja": "メイメイさんの能力……？",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "a55942f0",
+      "speaker": "メイメイ",
+      "ja": "共感すること。人や物、場に対しての……まあ、限定的なサイコメトリーみたいなものかしら",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "80f51c34",
+      "speaker": "メイメイ",
+      "ja": "このクラブに来ている人たち、明らかに異常ね。性欲が酷く強化された状態……",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "5e79229b",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、それは……外でもそうだったような",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "8937aa9d",
+      "speaker": "メイメイ",
+      "ja": "外でも能力を使ったんだけど、このクラブは一際異常よ。影響が強く出ているのを感じるわ",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "47e30827",
+      "speaker": "メイメイ",
+      "ja": "……だから２ヶ月前じゃなくて、３ヶ月前から異常が出ていたのね",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "7d137f14",
+      "speaker": "ルミナ",
+      "ja": "もしかして……つまり……",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "280f5c0",
+      "speaker": "雫",
+      "ja": "このクラブが元凶に近い、ということですか",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "fe2130b9",
+      "speaker": "メイメイ",
+      "ja": "そういうことよ",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "b979e76",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……早速アポロちゃんにお願いして、近くを調査してもらおう……！",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "3238f849",
+      "speaker": "アポロ",
+      "ja": "……調査結果が出ました",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "f0f10f7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、どうだった！？",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "d7ceac7b",
+      "speaker": "アポロ",
+      "ja": "……このクラブがあるタワーの頂上付近に、機械の反応があります",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "23467ad3",
+      "speaker": "雫",
+      "ja": "そんなわかりやすいところにあったのに、なぜ探知できなかったのですか……！",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "d0ddb2a0",
+      "speaker": "ルミナ",
+      "ja": "ま、まあ……電灯の裏が一番暗い、って言葉もあるくらいだから……",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "3ec9bae4",
+      "speaker": "コハル",
+      "ja": "ここのてっぺんに行けば解決するってことね！？　じゃあ、登りましょう！",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "18937b58",
+      "speaker": "{G_PlayerName}",
+      "ja": "カルーア、メイメイ。上に登る階段はあるのか？",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "83a1f2ea",
+      "speaker": "カルーア",
+      "ja": "え！？　あ、ありますけどぉ……めっちゃ高いですよぉ？　めんどくさくありませんかぁ？",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "f7e4e19f",
+      "speaker": "メイメイ",
+      "ja": "普通にエレベーター使いましょう……こっちにあるわよ",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "6ae8ac6b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、登る機械があるのか。じゃあそれで……",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "3c7f7bad",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "6802152c",
+      "speaker": "",
+      "ja": "メイメイが指さした方向。そちらに、大勢の人間が壁を作るように立ちはだかった。",
+      "zh": ""
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "32bf3f7e",
+      "speaker": "メイメイ",
+      "ja": "あ……え？　あの、お客様……？",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "354e565a",
+      "speaker": "",
+      "ja": "立ちはだかった人たちは、思い思いに武器……主に酒瓶や、あるいは拳を構えた。",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "af6ec785",
+      "speaker": "カルーア",
+      "ja": "えっ！？　えっ！？　なんでそんな、ケンカ上等みたいな雰囲気なんですかぁ～っ！？",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "47d056aa",
+      "speaker": "メイメイ",
+      "ja": "もしかして、機械に……！",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "aea85884",
+      "speaker": "雫",
+      "ja": "操られているのでしょうね。恐らく、機械に危機が訪れそうなのを察知した場合妨害するようプログラミングされているのでしょう",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "1f0d1ffc",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おいおい……！　それって、この星の人間全員敵ってことか……！？",
+      "zh": ""
+    },
+    {
+      "key": "318.1",
+      "line_index": 318,
+      "inline_index": 1,
+      "line_hash": "492e1f61",
+      "speaker": "メイメイ",
+      "ja": "仕方ないわね……戦いましょう！　行くわよ！",
+      "zh": ""
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "3eb31dda",
+      "speaker": "カルーア",
+      "ja": "え、私も！？",
+      "zh": ""
+    }
+  ]
+}

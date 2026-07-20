@@ -1,0 +1,553 @@
+{
+  "lines": [
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "7a9bc6ef",
+      "speaker": "",
+      "ja": "エレベーターに近づこうとすると、反応して襲いかかってくる人の壁。",
+      "zh": "一接近电梯，那些人墙就会扑上来。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "cfee2693",
+      "speaker": "",
+      "ja": "機械に操られているためか、一様に無表情、無言で凶器を振りかぶってくる。",
+      "zh": "可能是被机器操控了，全都面无表情，一声不吭地挥舞着武器攻过来。"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "3ac4a8dc",
+      "speaker": "カルーア",
+      "ja": "ひいぃ！　こわいぃ！　無言で殴りかかって来ないでくださいぃ！",
+      "zh": "卡鲁阿：呀！好可怕！别一声不吭就打过来啊！"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "a8804481",
+      "speaker": "コハル",
+      "ja": "リリアンが操られてなくてよかったわね……！",
+      "zh": "小春：还好莉莉安没有被操控……！"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "c7f7f64c",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、このままじゃエレベーターに近づけないぞ……！",
+      "zh": "但是这样下去没法靠近电梯啊……！"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "560f3ee3",
+      "speaker": "雫",
+      "ja": "いいえ。エレベーターは使わないほうがよいかも知れません",
+      "zh": "雫：不，最好别用电梯。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "b96be740",
+      "speaker": "コハル",
+      "ja": "え、なんで？",
+      "zh": "小春：哎，为什么？"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "e7de88dc",
+      "speaker": "雫",
+      "ja": "エレベーターは外部からいくらでも止められますし、閉じ込められるかも知れませんし……",
+      "zh": "雫：电梯可以从外部随意停止，也可能被关在里面……"
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "52cd5fc1",
+      "speaker": "雫",
+      "ja": "最悪、登ったところで落とされて地面に叩きつけられるかも……",
+      "zh": "雫：最糟的情况，可能爬到一半被扔下去摔在地上……"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "d5d734a1",
+      "speaker": "カルーア",
+      "ja": "ひえぇっ！",
+      "zh": "卡鲁阿：噫！"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "24da1e5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあどうすればいいんだ？　やっぱり階段か？",
+      "zh": "那怎么办？还是走楼梯？"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "1c5ffd01",
+      "speaker": "雫",
+      "ja": "癪ですがそうしましょう",
+      "zh": "雫：罚是罚，但就这么办吧。"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "e8d0e118",
+      "speaker": "カルーア",
+      "ja": "階段でテッペンまで！？　無理無理ムリですっ！",
+      "zh": "卡鲁阿：走楼梯到顶楼！？不行不行，绝对不行！"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "19e23382",
+      "speaker": "メイメイ",
+      "ja": "ここまで来たら一蓮托生よ！　あっちも仲間と思ってるみたいだし、殴られたくないなら来なさい！",
+      "zh": "美美：都到这里了就生死与共吧！对方好像也觉得是半途，不想挨打就过来！"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "4a088c38",
+      "speaker": "カルーア",
+      "ja": "ひいいっ！　なんでこんなことに！",
+      "zh": "卡鲁阿：呀！怎么会这样！"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "e73e5244",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、襲いかかってくるこいつらを放置するわけにも……",
+      "zh": "但是也不能放着这些扑过来的家伙不管……"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "758a27a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ！？",
+      "zh": "哦！？"
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "8e242d0e",
+      "speaker": "",
+      "ja": "どこかから飛来してくる物体。これは……扇子？",
+      "zh": "从某处飞来的物体。这是……扇子？"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "cd6a00b3",
+      "speaker": "雛菊",
+      "ja": "お困りでありんすか♪",
+      "zh": "雏菊：您有麻烦吗♪"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "666581",
+      "speaker": "{G_PlayerName}",
+      "ja": "雛菊！",
+      "zh": "雏菊！"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "3f4f2c51",
+      "speaker": "雛菊",
+      "ja": "遊郭のお客さんが、ふらふらとこのクラブに集まってるみたいでありんしたから嫌な予感がして来てみたんでありんす",
+      "zh": "雏菊：因为游郭的客人好像都晃晃悠悠聚到这家俱乐部来了，所以有种不好的预感就过来看看。"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "fc9987c4",
+      "speaker": "クラブのリリアン",
+      "ja": "私たちも手伝うから、お客さんたちは上がって！",
+      "zh": "俱乐部的莉安：我们也来帮忙，客人们先上去！"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "4b79bc30",
+      "speaker": "",
+      "ja": "続々と戦いに加わる、クラブや付近で働くリリアンたち。最初こそ敵の多さに不安がっていたが、今やどちらが多いかわからないくらいだ。",
+      "zh": "俱乐部和附近工作的莉莉安们陆续加入战斗。一开始还为敌人众多而不安，但现在已分不清哪边人更多了。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "3dcccb2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "集まってたのは敵だけじゃなかったんだ……！",
+      "zh": "原来聚集过来的不只是敌人……！"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "e8ca06bc",
+      "speaker": "雛菊",
+      "ja": "さっ、早う行っておくんなんし！",
+      "zh": "雏菊：来，快走吧！"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "bf68e1ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……！",
+      "zh": "知道了……！"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "1fc940b9",
+      "speaker": "",
+      "ja": "メイメイに案内された階段は、建物の外に備え付けられた金属の階段……非常階段、とメイメイは言っていた。",
+      "zh": "美美指引的楼梯，是安装在建筑物外面的金属楼梯……美美说是紧急楼梯。"
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "2aefee69",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いかん……まだ５階くらいしか登ってないけど、もう足が痛いぞ）",
+      "zh": "（糟了……才爬了五层左右，脚已经开始疼了）"
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "581aeb49",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここって、ちなみに、どれくらいの……階数なんだ？",
+      "zh": "那个，顺便问一下，有多少……层？"
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "259e3bc5",
+      "speaker": "カルーア",
+      "ja": "な、７８階ですけど……",
+      "zh": "卡鲁阿：呃，78层……"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "c91f3af3",
+      "speaker": "{G_PlayerName}",
+      "ja": "うげっ……！？",
+      "zh": "呃啊……！？"
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "108b52f",
+      "speaker": "カルーア",
+      "ja": "ねっ、ねっ？　ムリですよね、やめましょうよ！",
+      "zh": "卡鲁阿：喂，喂？不可能的，还是放弃吧！"
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "1bff7662",
+      "speaker": "メイメイ",
+      "ja": "心配しないで、アポロも頂上付近、って言ってたでしょう？　多分、タワーの先端じゃなくて外に出られるデッキの屋根部分だと思うのよね",
+      "zh": "美美：别担心，阿波罗不也说过接近顶楼吗？我觉得大概不是塔尖，而是能到外面去的露台屋顶部分。"
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "17f9028d",
+      "speaker": "コハル",
+      "ja": "そこならもうちょっと下なの？",
+      "zh": "小春：那的话还要再往下一点？"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "57523363",
+      "speaker": "メイメイ",
+      "ja": "……７５階よ！",
+      "zh": "美美：……75层！"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "304952ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "誤差じゃねーか！",
+      "zh": "这误差也太大了吧！"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "e3e15271",
+      "speaker": "カルーア",
+      "ja": "もー、なんでこんなことに……",
+      "zh": "卡鲁阿：真是的，怎么会这样……"
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "f0412304",
+      "speaker": "カルーア",
+      "ja": "こんな展開あたし、知らないよぉ……",
+      "zh": "卡鲁阿：这种展开我完全不知道啊……"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "396ab43",
+      "speaker": "コハル",
+      "ja": "……こんな展開？",
+      "zh": "小春：……这种展开？"
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "fa49328c",
+      "speaker": "カルーア",
+      "ja": "えっ！？　あっ！",
+      "zh": "卡鲁阿：哎！？啊！"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "242f6ea7",
+      "speaker": "コハル",
+      "ja": "聞き捨てならないわよ！　やっぱりあなた、何か知ってるのね！？",
+      "zh": "小春：我可不能装作没听见！果然你知道些什么吧！？"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "e498b955",
+      "speaker": "カルーア",
+      "ja": "あ、でも、その、そんなに重要じゃないっていうか……",
+      "zh": "卡鲁阿：啊，不过，那个，也没那么重要……"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "32ea7ef1",
+      "speaker": "コハル",
+      "ja": "いいから話しなさい！",
+      "zh": "小春：快说！"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "a6d54359",
+      "speaker": "カルーア",
+      "ja": "お、同じなんです……ちょっとだけ",
+      "zh": "卡鲁阿：哦，是一样的……只是稍微有点。"
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "590dd7bd",
+      "speaker": "コハル",
+      "ja": "同じ？　何が？",
+      "zh": "小春：一样的？什么一样？"
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "aec8a205",
+      "speaker": "カルーア",
+      "ja": "あ、あたしがサボ……休憩中に読んでた、本に……",
+      "zh": "卡鲁阿：啊，我偷懒……休息时读的书里……"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "72d8c514",
+      "speaker": "コハル",
+      "ja": "本……？",
+      "zh": "小春：书……？"
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "8ca98a22",
+      "speaker": "カルーア",
+      "ja": "は、はいい。って言っても……その。かっこよくて、ロマンチックで……",
+      "zh": "卡鲁阿：是，是的。虽然这么说……那个，又帅气又浪漫……"
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "fb311727",
+      "speaker": "カルーア",
+      "ja": "……ちょっとエッチな本なんですけど。それと同じセリフが何度か聞こえたり、同じようなことしてる人がいたり……",
+      "zh": "卡鲁阿：……虽然有点色色的书。但同样的话听到过好几次，也有人做同样的事……"
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "144b35e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……その本ってもしかしてメイメイのなんじゃ",
+      "zh": "……那本书该不会是美美的吧？"
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "35678556",
+      "speaker": "メイメイ",
+      "ja": "えっ！？　な、なんでわかったの！？",
+      "zh": "诶！？ 你、你怎么知道的！？"
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "a42dc702",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんかビクンビクンしてたから……",
+      "zh": "因为你刚才一直在抖个不停……"
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "ed7518e5",
+      "speaker": "カルーア",
+      "ja": "えっ！？　まさかメイメイ大先生！？　ただ同じ名前の人かと……！",
+      "zh": "诶！？ 难道你就是美美老师！？ 我还以为只是同名的人……！"
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "b6a913ae",
+      "speaker": "メイメイ",
+      "ja": "あなたも読者様だったのね……読んでくれてありがとう",
+      "zh": "原来你也是我的读者啊……谢谢你来看。"
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "7a4250bc",
+      "speaker": "カルーア",
+      "ja": "あ、あたしいつも愛読しててぇ……！",
+      "zh": "啊、我一直都是你的忠实粉丝……！"
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "f592c1fd",
+      "speaker": "コハル",
+      "ja": "そういうの今いいから！　……２人が嘘ついてたのって、そういうことだったのね",
+      "zh": "现在别说这些啦！ ……原来你们俩一直在说谎，是这么回事啊。"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "2f7f4601",
+      "speaker": "メイメイ",
+      "ja": "でっ、でも流石にこんなにみだらな状態になる小説を書いてたわけじゃないわよ！？　ラブシーンをかき集められて、セリフを引用されてるだけ！",
+      "zh": "可、可是我也没写那种让人变得这么放荡的小说啊！？ 只是被截取了恋爱场景，引用了几句台词而已！"
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "62fd0bf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ、まあ……気になる情報ではあるけど、今は確かに重要でもないか……",
+      "zh": "唉，好吧……虽然是挺在意的信息，但现在确实也不重要了……"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "b69182b3",
+      "speaker": "コハル",
+      "ja": "そうね。気になってたことが解決したのはいいけど、今は階段を登りましょ！",
+      "zh": "嗯。虽然弄清了在意的事，但我们现在先上楼吧！"
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "48c1b4a2",
+      "speaker": "メイメイ",
+      "ja": "……もしかしたら。何かに役立つかも知れない……けどね",
+      "zh": "……说不定。也许对什么有用呢……不过。"
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "53131be",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？",
+      "zh": "……？"
+    }
+  ]
+}

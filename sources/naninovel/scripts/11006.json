@@ -1,0 +1,544 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "fb19f471",
+      "speaker": "コハル",
+      "ja": "あ、メイメイから連絡来たわよ。遅くなるから、先に戻ってて欲しいだって。明日の朝また合流しましょうってさ",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "79beafed",
+      "speaker": "雫",
+      "ja": "家の場所も送られてきてますね",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "4af46db",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ、一度帰るか",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "15ba752d",
+      "speaker": "雫",
+      "ja": "まったく……思い通りに調査は進みませんし……住民は貞操観念が低く……リリアンとは近距離でイチャイチャできて……",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "183aedf1",
+      "speaker": "雫",
+      "ja": "いい星ですね！",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "e61de4db",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃお前はリリアン大好きだから良かったかも知れんけども……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "c9c9d09",
+      "speaker": "コハル",
+      "ja": "子供たちは大丈夫かしら……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "29971014",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……子供の食事とかが危ないんだっけ？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "eac059d5",
+      "speaker": "雫",
+      "ja": "流石に餓死の心配は無さそうですし……数が多いですから、見えている部分ではなく根本を解決しなくては。今急いでも仕方ありません",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "e958704e",
+      "speaker": "コハル",
+      "ja": "そう……そうね。まずは機械の場所を特定するのを頑張らないと……",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "53b944e5",
+      "speaker": "？？？",
+      "ja": "どう……だった……？",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "f774d014",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、この声……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "f5a25d3e",
+      "speaker": "",
+      "ja": "フードを深く被った人物が近づいてきて、顔を露わにする。フードの中からは、いないはずのルミナが現れた。",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "9c32ada1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ！　出てきて大丈夫なのか！？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "54be47ac",
+      "speaker": "ルミナ",
+      "ja": "う、うん……隠れながら来たから……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "3afc6f0",
+      "speaker": "雫",
+      "ja": "ルミナ様……！　何かあったらどうするのですか、危険ですよ！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "c555294a",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃんに外の様子も教えてもらって……なんだか、私に気づいてもそれどころじゃなさそうな人ばっかりだから……いいかなって……",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "999b54de",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、確かに……そうかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "44c7d921",
+      "speaker": "コハル",
+      "ja": "でも、ちょうど戻るところだったのよ。来たばっかりで申し訳ないけど……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "8508eeff",
+      "speaker": "ルミナ",
+      "ja": "そう……なんだ。皆が無事で良かった……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "ee9589e8",
+      "speaker": "雫",
+      "ja": "心配をおかけして申し訳ございません、ルミナ様。帰りはわたくしが必ずお守りいたしますわ♥",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "1418dfb0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "cf49dd2b",
+      "speaker": "",
+      "ja": "視界の隅、どこかで見たような……最近コハルから話を聞いたような人影が、ちらついたように感じる{G_PlayerName}。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "6fba6131",
+      "speaker": "{G_PlayerName}",
+      "ja": "……すまん、先に行っててくれ",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "cc4a104b",
+      "speaker": "コハル",
+      "ja": "え、どうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "21b816b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと気になることがあって……大丈夫、すぐ帰るから",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "35242d2e",
+      "speaker": "コハル",
+      "ja": "まさか……行きずりの人と、エ、エッチなことしてくるつもりじゃないでしょうね！？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "a3ccf7dc",
+      "speaker": "ルミナ",
+      "ja": "えっ……",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "929a817",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違う！　断じて違う！　そんなわけないだろ！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "a8146b44",
+      "speaker": "雫",
+      "ja": "くく……所詮はラグシェ様に『エッチすぎるから良い子ではない』と断じられる存在……一皮むけば本性はケダモノでございますわ……",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "430ede3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前にだけは本当に言われたくない……急がないといけないから、じゃあな！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "eca88ff6",
+      "speaker": "コハル",
+      "ja": "ちょっと！　……大丈夫かしら、危ないことじゃないといいけど",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "84a48a81",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かここに……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "ff21ec6",
+      "speaker": "グレア",
+      "ja": "……やはり、見つかっていましたか。余計な真似を……",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "c614dbb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "見間違いじゃなかったか……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "31380478",
+      "speaker": "",
+      "ja": "建物の影に隠れるような影を見つけた時、グレアの姿に似ていることに気づいた。何か事情があるのかと思って、他の人には教えなかったが……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "9a9d0480",
+      "speaker": "{G_PlayerName}",
+      "ja": "もしかしてグレア……さん？　様？　もこの星で……あ、遊びを……！？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "b78f4a15",
+      "speaker": "グレア",
+      "ja": "そんな訳が無いでしょう……！　気持ちが悪い敬語を使われるよりはマシです。楽に喋りなさい、呼び方も自由にしなさい",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6ef40745",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はあ……じゃあ、お言葉に甘えて……なんでここに？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "510761cd",
+      "speaker": "グレア",
+      "ja": "この星は娯楽が発達しており、人民の不満度が低い。その文化を勉強し取り入れようとしていたのですが……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "f20dd82a",
+      "speaker": "グレア",
+      "ja": "まさか、このような事態になっているとは。原因を探っていたところです",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "159e9fc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ……俺達と同じ状況なのか。なんでルミナから隠れたんだ？　前、次会ったら……その……殺すみたいなことを……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "a2a93879",
+      "speaker": "グレア",
+      "ja": "……啖呵は切りましたが、あれはルミナがどれだけのことをしたか自覚して欲しかっただけです。……もちろん、準備があればそのようにしましたが",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "58142c20",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当かな……？　コハルから聞いた話じゃ、そこまでルミナを敵対視してなさそうだったけど）",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "c952d2e7",
+      "speaker": "グレア",
+      "ja": "ルミナは……次期女王として選ばれているのです。仮に殺害して自分こそが次期女王だ、などとのたまったところで国民には受け入れられないでしょう",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "a049ba92",
+      "speaker": "グレア",
+      "ja": "そもそもわたくしは、自らトップに立つのではなく、誰かを支えるほうが向いています",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "b7d4c25b",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　女王を目指してるんじゃあ……？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "d33233d1",
+      "speaker": "グレア",
+      "ja": "昔は……そのような時期もありましたね",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "e8dc8f5f",
+      "speaker": "グレア",
+      "ja": "ですがリリアンとしての能力も、平たく言えば他者を強化するもの。下の者より弱くなる能力など、上に立つには不向きにも程があるでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "9861aa92",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、それ聞いて良かったのか……？",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "38abea1b",
+      "speaker": "グレア",
+      "ja": "別に隠していません。国民も殆どが認知している情報です",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "76ceebe5",
+      "speaker": "グレア",
+      "ja": "……幼い頃から、ルミナを支えろとお母様に言い聞かされ、わたくしもそのつもりで育って来ました",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "bdd5f3c7",
+      "speaker": "グレア",
+      "ja": "だと言うのに、責務から逃げるような真似ばかり……挙げ句、わたくしに女王の座を譲るなどと……！　女王としての自覚が、足りなさすぎる……！",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "d9e14e70",
+      "speaker": "{G_PlayerName}",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "2441dff7",
+      "speaker": "",
+      "ja": "そのセリフを聞いた時、唐突に理解した気がした。グレアが、ルミナを厭う理由……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "ccabd5bf",
+      "speaker": "グレア",
+      "ja": "……いえ、あなたにこのような話をする必要はありませんね。事を荒立てないための代金とでも思っておきなさい",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "c6a31ef2",
+      "speaker": "グレア",
+      "ja": "あなた達に危害を加える気もありませんし……状態を把握し終わればこの星からも発ちます。わたくしを見たことは忘れなさい",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "2f6c9cf3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ…………",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "54ad2247",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……いや、あんな王族の人に失礼だよな）",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "94c03d90",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺と似てるかも、なんて……）",
+      "zh": ""
+    }
+  ]
+}

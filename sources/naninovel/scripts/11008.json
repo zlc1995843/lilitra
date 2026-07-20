@@ -1,0 +1,553 @@
+{
+  "lines": [
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "7a9bc6ef",
+      "speaker": "",
+      "ja": "エレベーターに近づこうとすると、反応して襲いかかってくる人の壁。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "cfee2693",
+      "speaker": "",
+      "ja": "機械に操られているためか、一様に無表情、無言で凶器を振りかぶってくる。",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "3ac4a8dc",
+      "speaker": "カルーア",
+      "ja": "ひいぃ！　こわいぃ！　無言で殴りかかって来ないでくださいぃ！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "a8804481",
+      "speaker": "コハル",
+      "ja": "リリアンが操られてなくてよかったわね……！",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "c7f7f64c",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、このままじゃエレベーターに近づけないぞ……！",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "560f3ee3",
+      "speaker": "雫",
+      "ja": "いいえ。エレベーターは使わないほうがよいかも知れません",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "b96be740",
+      "speaker": "コハル",
+      "ja": "え、なんで？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "e7de88dc",
+      "speaker": "雫",
+      "ja": "エレベーターは外部からいくらでも止められますし、閉じ込められるかも知れませんし……",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "52cd5fc1",
+      "speaker": "雫",
+      "ja": "最悪、登ったところで落とされて地面に叩きつけられるかも……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "d5d734a1",
+      "speaker": "カルーア",
+      "ja": "ひえぇっ！",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "24da1e5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあどうすればいいんだ？　やっぱり階段か？",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "1c5ffd01",
+      "speaker": "雫",
+      "ja": "癪ですがそうしましょう",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "e8d0e118",
+      "speaker": "カルーア",
+      "ja": "階段でテッペンまで！？　無理無理ムリですっ！",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "19e23382",
+      "speaker": "メイメイ",
+      "ja": "ここまで来たら一蓮托生よ！　あっちも仲間と思ってるみたいだし、殴られたくないなら来なさい！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "4a088c38",
+      "speaker": "カルーア",
+      "ja": "ひいいっ！　なんでこんなことに！",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "e73e5244",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、襲いかかってくるこいつらを放置するわけにも……",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "758a27a5",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ！？",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "8e242d0e",
+      "speaker": "",
+      "ja": "どこかから飛来してくる物体。これは……扇子？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "cd6a00b3",
+      "speaker": "雛菊",
+      "ja": "お困りでありんすか♪",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "666581",
+      "speaker": "{G_PlayerName}",
+      "ja": "雛菊！",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "3f4f2c51",
+      "speaker": "雛菊",
+      "ja": "遊郭のお客さんが、ふらふらとこのクラブに集まってるみたいでありんしたから嫌な予感がして来てみたんでありんす",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "fc9987c4",
+      "speaker": "クラブのリリアン",
+      "ja": "私たちも手伝うから、お客さんたちは上がって！",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "4b79bc30",
+      "speaker": "",
+      "ja": "続々と戦いに加わる、クラブや付近で働くリリアンたち。最初こそ敵の多さに不安がっていたが、今やどちらが多いかわからないくらいだ。",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "3dcccb2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "集まってたのは敵だけじゃなかったんだ……！",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "e8ca06bc",
+      "speaker": "雛菊",
+      "ja": "さっ、早う行っておくんなんし！",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "bf68e1ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった……！",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "1fc940b9",
+      "speaker": "",
+      "ja": "メイメイに案内された階段は、建物の外に備え付けられた金属の階段……非常階段、とメイメイは言っていた。",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "2aefee69",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いかん……まだ５階くらいしか登ってないけど、もう足が痛いぞ）",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "581aeb49",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここって、ちなみに、どれくらいの……階数なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "259e3bc5",
+      "speaker": "カルーア",
+      "ja": "な、７８階ですけど……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "c91f3af3",
+      "speaker": "{G_PlayerName}",
+      "ja": "うげっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "108b52f",
+      "speaker": "カルーア",
+      "ja": "ねっ、ねっ？　ムリですよね、やめましょうよ！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "1bff7662",
+      "speaker": "メイメイ",
+      "ja": "心配しないで、アポロも頂上付近、って言ってたでしょう？　多分、タワーの先端じゃなくて外に出られるデッキの屋根部分だと思うのよね",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "17f9028d",
+      "speaker": "コハル",
+      "ja": "そこならもうちょっと下なの？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "57523363",
+      "speaker": "メイメイ",
+      "ja": "……７５階よ！",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "304952ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "誤差じゃねーか！",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "e3e15271",
+      "speaker": "カルーア",
+      "ja": "もー、なんでこんなことに……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "f0412304",
+      "speaker": "カルーア",
+      "ja": "こんな展開あたし、知らないよぉ……",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "396ab43",
+      "speaker": "コハル",
+      "ja": "……こんな展開？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "fa49328c",
+      "speaker": "カルーア",
+      "ja": "えっ！？　あっ！",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "242f6ea7",
+      "speaker": "コハル",
+      "ja": "聞き捨てならないわよ！　やっぱりあなた、何か知ってるのね！？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "e498b955",
+      "speaker": "カルーア",
+      "ja": "あ、でも、その、そんなに重要じゃないっていうか……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "32ea7ef1",
+      "speaker": "コハル",
+      "ja": "いいから話しなさい！",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "a6d54359",
+      "speaker": "カルーア",
+      "ja": "お、同じなんです……ちょっとだけ",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "590dd7bd",
+      "speaker": "コハル",
+      "ja": "同じ？　何が？",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "aec8a205",
+      "speaker": "カルーア",
+      "ja": "あ、あたしがサボ……休憩中に読んでた、本に……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "72d8c514",
+      "speaker": "コハル",
+      "ja": "本……？",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "8ca98a22",
+      "speaker": "カルーア",
+      "ja": "は、はいい。って言っても……その。かっこよくて、ロマンチックで……",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "fb311727",
+      "speaker": "カルーア",
+      "ja": "……ちょっとエッチな本なんですけど。それと同じセリフが何度か聞こえたり、同じようなことしてる人がいたり……",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "144b35e9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……その本ってもしかしてメイメイのなんじゃ",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "35678556",
+      "speaker": "メイメイ",
+      "ja": "えっ！？　な、なんでわかったの！？",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "a42dc702",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんかビクンビクンしてたから……",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "ed7518e5",
+      "speaker": "カルーア",
+      "ja": "えっ！？　まさかメイメイ大先生！？　ただ同じ名前の人かと……！",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "b6a913ae",
+      "speaker": "メイメイ",
+      "ja": "あなたも読者様だったのね……読んでくれてありがとう",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "7a4250bc",
+      "speaker": "カルーア",
+      "ja": "あ、あたしいつも愛読しててぇ……！",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "f592c1fd",
+      "speaker": "コハル",
+      "ja": "そういうの今いいから！　……２人が嘘ついてたのって、そういうことだったのね",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "2f7f4601",
+      "speaker": "メイメイ",
+      "ja": "でっ、でも流石にこんなにみだらな状態になる小説を書いてたわけじゃないわよ！？　ラブシーンをかき集められて、セリフを引用されてるだけ！",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "62fd0bf5",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ、まあ……気になる情報ではあるけど、今は確かに重要でもないか……",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "b69182b3",
+      "speaker": "コハル",
+      "ja": "そうね。気になってたことが解決したのはいいけど、今は階段を登りましょ！",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "48c1b4a2",
+      "speaker": "メイメイ",
+      "ja": "……もしかしたら。何かに役立つかも知れない……けどね",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "53131be",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？",
+      "zh": ""
+    }
+  ]
+}

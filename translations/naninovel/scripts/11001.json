@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "3f57fcf4",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあぁあ、おはよう……",
+      "zh": "哈啊，早上好……"
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "475fee66",
+      "speaker": "",
+      "ja": "大きな欠伸をしながら、宇宙船のラウンジに入る。おはようと言うべきか、こんにちはと言うべきか、悩む程度には遅い時間だった。",
+      "zh": "打着哈欠走进飞船的休息室。这个点该说早安还是午安，已经晚到让人犹豫了。"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "e8f037d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　珍しいな",
+      "zh": "嗯……？真稀奇啊。"
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "412eebc8",
+      "speaker": "",
+      "ja": "大抵この空間には誰かしらの人がいた。居心地が良いし、食べ物や飲み物を注文する端末があるからだ。",
+      "zh": "通常这个空间里总有其他人。因为这里很舒适，还有可以点餐的终端。"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "c9d90b58",
+      "speaker": "",
+      "ja": "しかし、ちょうどご飯を食べ始めてもおかしくない時間だと言うのに、ラウンジには誰の姿も無かった。",
+      "zh": "可现在明明是饭点，休息室里却一个人影也没有。"
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "11cacd8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "机の上に何か……",
+      "zh": "桌上好像有东西……"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "3ca0abd5",
+      "speaker": "",
+      "ja": "植物園に来てね。",
+      "zh": "来植物园吧。"
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "adfdd55d",
+      "speaker": "",
+      "ja": "短い文が書かれたメモが、机の上に残されていた。",
+      "zh": "桌上留着张纸条，上面写着短短一句话。"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "176b003",
+      "speaker": "ルミナ",
+      "ja": "あ、{G_PlayerName}くん、来た……おはよう",
+      "zh": "啊，{G_PlayerName}，你来啦……早上好。"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "31f18511",
+      "speaker": "コハル",
+      "ja": "遅いわよ、もう！　いつも夜ふかししてるんだから……",
+      "zh": "太慢了啦！你老是熬夜……"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "36b73f34",
+      "speaker": "アポロ",
+      "ja": "全く、アラームも毎回無視して……防音だからと言って、うるさくして良い理由にはならないのですよ",
+      "zh": "真是的，每次都忽略闹钟……虽说是隔音，但也不是你可以吵吵闹闹的理由。"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "6a6b803c",
+      "speaker": "",
+      "ja": "植物園にはルミナとコハル、雫にアポロまで来ていた。",
+      "zh": "植物园里，露米娜、小春、雪，连阿波罗也来了。"
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "e2247ddc",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何だ？　勢揃いで……何で呼んだんだ？",
+      "zh": "啊？怎么回事？都到齐了……叫我出来干嘛？"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "6925f732",
+      "speaker": "ルミナ",
+      "ja": "写真、撮ろうと思って……",
+      "zh": "想拍个合照……"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "4bb04fbb",
+      "speaker": "{G_PlayerName}",
+      "ja": "写真？　なんで？　記念日か何かなのか？",
+      "zh": "拍照？为什么？是什么纪念日吗？"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "de7722f0",
+      "speaker": "ルミナ",
+      "ja": "ううん。そういうわけじゃないんだけど……",
+      "zh": "不，也不是那个意思啦……"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "f627e6a7",
+      "speaker": "ルミナ",
+      "ja": "私たちの星に、もうすぐ着いちゃうから……",
+      "zh": "因为马上就要到我们的星球了……"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": "……"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "bb88081e",
+      "speaker": "",
+      "ja": "ルミナ達の母星、終と始まりの星。その後ルミナ達とどうするのか、故郷の星に帰るのかまではわからないが……環境が劇的に変わるのは想像に難くない。",
+      "zh": "露米娜她们的母星，终结与起始之星。之后会何去何从，是会回到故乡的星球，虽然还不清楚……但环境会发生剧变，这点不难想象。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "405e52e2",
+      "speaker": "ルミナ",
+      "ja": "一度……ちゃんと皆で揃った写真が欲しいなって、思って",
+      "zh": "我在想……想要一张大家都到齐的合照。"
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "50d81caf",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほどな……そうだな",
+      "zh": "原来如此……也是呢。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "6707b73c",
+      "speaker": "{G_PlayerName}",
+      "ja": "出来たら俺にもくれよな",
+      "zh": "弄好了也给我一张哦。"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1569d08e",
+      "speaker": "ルミナ",
+      "ja": "うん……！",
+      "zh": "嗯……！"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "6e874573",
+      "speaker": "コハル",
+      "ja": "あ、あたしも欲しい！　紙にして、飾れたりするのかしら？",
+      "zh": "啊，我也想要！是印成照片拿来装饰吗？"
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "619a196f",
+      "speaker": "雫",
+      "ja": "当然可能です。わたくしも壁紙にするレベルで印刷しましょう",
+      "zh": "当然可以。我会打印到能当壁纸的程度。"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "504501f7",
+      "speaker": "ルミナ",
+      "ja": "そ、それはどうかな……じゃあアポロちゃん、撮影お願いね",
+      "zh": "呃，那个不好吧……那阿波罗，拍照就拜托你啦。"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "1e93b23a",
+      "speaker": "アポロ",
+      "ja": "かしこまりました",
+      "zh": "交给我吧。"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "7f6b7a3d",
+      "speaker": "",
+      "ja": "2日後……",
+      "zh": "两天后……"
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "93c593b0",
+      "speaker": "アポロ",
+      "ja": "次に着陸する予定の惑星が近づいてきました",
+      "zh": "下一个要着陆的行星正在接近。"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "33cd827d",
+      "speaker": "{G_PlayerName}",
+      "ja": "次の星は？",
+      "zh": "下一个星球是？"
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "43c2ae5",
+      "speaker": "アポロ",
+      "ja": "最後の星ですね",
+      "zh": "是最后一颗星球了。"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "3ae930c3",
+      "speaker": "コハル",
+      "ja": "えっ、到着！？",
+      "zh": "诶，到了？！"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "1c26347d",
+      "speaker": "アポロ",
+      "ja": "そ、そうではありません。……終と始まりの星に到着するまでに経由する、大きい惑星としては最後の星、という意味です",
+      "zh": "不，不是的。……是前往终结与起始之星途中经过的，最后一个大型行星。"
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "79e692e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか。びっくりした……",
+      "zh": "哦，这样啊。吓我一跳……"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "7324f531",
+      "speaker": "雫",
+      "ja": "宇宙技術が発達している星です。終と始まりの星との交易も盛んなので、いつものように口を滑らせる心配はしないで済みます",
+      "zh": "这颗星球宇宙技术很发达。和终结与起始之星往来频繁，所以不用担心像平时那样说漏嘴。"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "92932a3a",
+      "speaker": "雫",
+      "ja": "ただ、終と始まりの星に近いのでルミナ様の存在に気づかれないように注意したいですね",
+      "zh": "不过，因为离终结与起始之星很近，要小心别让人发现露米娜大人的身份。"
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "5944e264",
+      "speaker": "コハル",
+      "ja": "外に出たら、大人気で囲まれちゃったりするのかしら！？",
+      "zh": "要是出去，会不会因为太受欢迎被围起来啊？！"
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "f923a328",
+      "speaker": "雫",
+      "ja": "その程度で済めばよいですが。誘拐され身代金を要求されたり、他の王女を支持する者に殺されるかも知れません",
+      "zh": "如果只是那种程度还好。但可能会被绑架要赎金，或者被支持其他公主的人杀掉。"
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "889af5a8",
+      "speaker": "コハル",
+      "ja": "そっか……グリムとは仲直りしたけど、支持者の中にはそんなの気にしない人もいるわよね",
+      "zh": "这样啊……虽然和格林和好了，但支持者里也有不在乎这些的吧。"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "66fdb72b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ってことは……最初はルミナは船内で待ってるか？",
+      "zh": "也就是说，一开始露米娜是留在飞船上等着？"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "a28ca5e0",
+      "speaker": "ルミナ",
+      "ja": "うん、仕方ないね……",
+      "zh": "嗯，没办法呢……"
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "8a0e1d39",
+      "speaker": "雫",
+      "ja": "では、我々は外へ出て物資を調達しましょう。治安は比較的良いはずですが、警戒は怠らないように",
+      "zh": "那我们就出去采集物资吧。治安应该还算不错，但也要保持警惕。"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "4d5a1733",
+      "speaker": "コハル",
+      "ja": "わかったわ！",
+      "zh": "明白了！"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "e16142bb",
+      "speaker": "コハル",
+      "ja": "わっ！　綺麗な星ね！",
+      "zh": "哇！好美的星球啊！"
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "52f3f5e3",
+      "speaker": "雫",
+      "ja": "綺麗？　まあ……綺麗と言えば綺麗ですね",
+      "zh": "漂亮？嗯……要说漂亮也算漂亮吧。"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "2fae8748",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで、ここで俺達は……",
+      "zh": "那么，我们在这里……"
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "e379c093",
+      "speaker": "",
+      "ja": "道行く人を見る。道行く人、立ち止まっている人を見るが、誰も皆一様に……",
+      "zh": "看着路上的人。无论是走路的还是停下的，每个人都一样……"
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "e23fb02c",
+      "speaker": "男女で歩く女性",
+      "ja": "あんっ♥　ダメ、そんなに奥に手入れたら……♥",
+      "zh": "啊♥不行，伸那么里面的话……♥"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "8b75a051",
+      "speaker": "ベンチに座る男性",
+      "ja": "ほら、もっと舌出せよ♥",
+      "zh": "来，把舌头再伸出来嘛♥"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "e88e05c2",
+      "speaker": "ベンチに座る女性",
+      "ja": "ちゅ……ん♥　んむっ♥",
+      "zh": "啾……嗯♥　嗯唔♥"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "1328829",
+      "speaker": "",
+      "ja": "絡み合いながら、弄り合いながら歩く人、話す人。暗がりからは、見ずとも何が行われているかわかる嬌声が漏れ出てきた。",
+      "zh": "他们互相配合、互相嬉闹着，走路、说话。暗处漏出了细语声，不用看也知道在干什么。"
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "373cb17",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、これは……",
+      "zh": "这、这是……"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "e0166343",
+      "speaker": "雫",
+      "ja": "……別の意味で、ルミナ様にお待ちいただいていて良かったですね",
+      "zh": "……从另一种意义上说，让露米娜大人等着还真是太好了呢。"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "5a528432",
+      "speaker": "コハル",
+      "ja": "な、なんなのよこの星はぁっ！？　治安が良いって本当なのぉ！？",
+      "zh": "什、什么啊这颗星！？治安好是真的吗！？"
+    }
+  ]
+}

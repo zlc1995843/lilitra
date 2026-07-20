@@ -1,0 +1,1147 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "fc0fbf1f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナッ！！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "6039c115",
+      "speaker": "",
+      "ja": "屋上の外へと落ち、消えていくルミナを追いかける。しかし、届くはずもなく……",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "ff304d8b",
+      "speaker": "雫",
+      "ja": "ルミナ様ぁぁぁ！！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "81aa1e35",
+      "speaker": "",
+      "ja": "自分も飛び降りる勢いで、雫が屋上の縁へと走る。しかし、後を追う寸前で足を止めた。と同時に……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "5aef2c2c",
+      "speaker": "",
+      "ja": "……巨大な宇宙船が、目の前に浮上して来た。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "cdd8b23c",
+      "speaker": "{G_PlayerName}",
+      "ja": "なあっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "769b97f3",
+      "speaker": "",
+      "ja": "そして……ルミナと、ルミナを抱えたグレアが降りてくる。",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "66f491de",
+      "speaker": "ルミナ",
+      "ja": "え、あ、あの……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "cc50222c",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "bb2dbeb0",
+      "speaker": "",
+      "ja": "聞こえるか聞こえないか、というほど小さな舌打ちをしてグレアはルミナを解放した。傍らに、操られていた男も転がされる。気絶しているらしい……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "a6b90727",
+      "speaker": "ルミナ",
+      "ja": "あ、ありが……",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "238e29eb",
+      "speaker": "グレア",
+      "ja": "早く機械を止めなさい",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "f06cf59a",
+      "speaker": "{G_PlayerName}",
+      "ja": "！　あ、ああ",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "f4398abf",
+      "speaker": "",
+      "ja": "グレアに言われて気付いたが、振り向いた頃には雫が機械を止めていた。",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "f2b120f4",
+      "speaker": "雫",
+      "ja": "ご助力感謝します。ですが、なぜグレア様が……",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "bc67087c",
+      "speaker": "グレア",
+      "ja": "騒動から、原因の場所がわかったので宇宙船で移動しただけです。逆に、なぜわざわざ階段を……？　効率が悪いでしょう",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "c1aa0122",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは……店の中で気付いたから、流れで……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "25aa73f3",
+      "speaker": "ルミナ",
+      "ja": "あ、あのっ……！",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1535a319",
+      "speaker": "ルミナ",
+      "ja": "なんで、助けてくれたん……ですか……？　助けなければ、それだけで……グレアお姉様が、女王になれる……のに……",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "fd6bb3f3",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "41d1c8aa",
+      "speaker": "",
+      "ja": "無言で立ち去ろうとするグレア。ルミナが泣きそうな顔になるのを見て、思わず口を挟んでしまう。",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "ae48e92a",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺の勘違いかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "a01d048f",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当はグレアは、ルミナを応援してるんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "dad93b8f",
+      "speaker": "ルミナ",
+      "ja": "……え……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "c83e21e0",
+      "speaker": "グレア",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "50fed2a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、憎く思ってるっていうのも、間違いじゃないかも知れないけど……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "239943e1",
+      "speaker": "雫",
+      "ja": "はあ？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "256e5f89",
+      "speaker": "冒険者",
+      "ja": "このでっかい獣をコハルちゃんが！？　凄いなあ！",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "740ffc78",
+      "speaker": "コハル",
+      "ja": "あ、あはは……いや、偶然で……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "719c91aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当、凄いよな……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "d318084f",
+      "speaker": "冒険者",
+      "ja": "コハルちゃん、こんなに強いんだったら絶対冒険者を目指すべきだって！",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "51378dee",
+      "speaker": "コハル",
+      "ja": "……ううん！",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "82f1bc13",
+      "speaker": "コハル",
+      "ja": "あたしにはまだ、道具屋が似合ってるから……",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "861a6ab9",
+      "speaker": "{G_PlayerName}",
+      "ja": "女王になろうとしないで譲ろうとしてくるルミナに、同情されたと思って……",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "2b6f980c",
+      "speaker": "{G_PlayerName}",
+      "ja": "憎く思うと同時に……自分が足を引っ張っている、って思ったんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "16b7dc6",
+      "speaker": "",
+      "ja": "複雑な感情過ぎて、一言で言い表すことはできないが……一番近いのは\"もどかしさ\"。",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "96663b07",
+      "speaker": "",
+      "ja": "自分が一番応援したいのに、妨げになってしまっている。その覚えなら、自分にもある。",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "7575db52",
+      "speaker": "グレア",
+      "ja": "……強く否定する必要も感じませんし、好きに考えるがよいでしょう",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "fb56a287",
+      "speaker": "グレア",
+      "ja": "ただ……補足しておくとすれば。わたくしは、本来であれば第二王女という立場も捨て、完全に女王候補としての争いから抜け出そうとしていました",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "5667d605",
+      "speaker": "ルミナ",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "eee97bb1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……でも、そうしなかったんだよな？　何があったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "a958dd3a",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "48760fef",
+      "speaker": "",
+      "ja": "グレアは言い淀んだ。見えない猿轡でもされているかのように、口をはくはくと泳がせたあと、一度唇を噛み締め、言葉を絞り出した。",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "5a400172",
+      "speaker": "グレア",
+      "ja": "……メイズを、人質に、取られています",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "d04a9b58",
+      "speaker": "雫",
+      "ja": "……人質……！？",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "9314351f",
+      "speaker": "グレア",
+      "ja": "ずっと前。ルミナの能力が一番強いと知り、わたくしが女王候補を辞退しようとしていた頃……",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "de679245",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "ba24b548",
+      "speaker": "女王",
+      "ja": "グレア",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "edb6bee0",
+      "speaker": "グレア",
+      "ja": "！　……お母様。お声をかけていただき光栄です",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "96d2df62",
+      "speaker": "女王",
+      "ja": "女王候補の座を捨てるつもりだと聞きました",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "623f8be1",
+      "speaker": "グレア",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "6121d82a",
+      "speaker": "",
+      "ja": "見えない圧。リリアンの能力を使われたわけではない、言葉と威厳だけで感じる全身の重み。体を強張らせつつ、額を下げたままわたくしは答えました。",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "5d6189cb",
+      "speaker": "グレア",
+      "ja": "はい。リリアンの能力はどう考えてもルミナが上です。わたくしの能力も、他のリリアンを強化する物",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "b328a777",
+      "speaker": "グレア",
+      "ja": "不釣り合いな座に見苦しく縋り付くより、補佐する立場に落ち着いたほうが……もしくは、表舞台からは退くほうが、道理に適っているかと",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "d4419095",
+      "speaker": "女王",
+      "ja": "なりません",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "a958dd3a",
+      "speaker": "グレア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "4b20f410",
+      "speaker": "",
+      "ja": "冷たく響く声。こちらが何を言おうとも、決して受け入れないという鉄のような意思を感じました。",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "f0b3c53c",
+      "speaker": "女王",
+      "ja": "貴方には、もう少しルミナの障害として働いてもらわなくては",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "fe5eeeb5",
+      "speaker": "グレア",
+      "ja": "障害……？　なぜ、ですか……",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "c069f1e8",
+      "speaker": "女王",
+      "ja": "ストレスが多い環境に曝される場合、リリアンの能力が育ちやすいという説があります",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "a2cd3bca",
+      "speaker": "グレア",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "ee22439a",
+      "speaker": "女王",
+      "ja": "ルミナの能力をより強めるため、貴方には適度にルミナを追い詰めていただかなければなりません",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "31bf624",
+      "speaker": "グレア",
+      "ja": "そんな……それだけの……！？　ですが、ルミナは……",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "ac6929bf",
+      "speaker": "女王",
+      "ja": "メイズ、というのでしたね。幼い頃から、貴方の護衛としていつも近くに置いているリリアン……",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "8fe0c695",
+      "speaker": "グレア",
+      "ja": "……っ",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "cb20b348",
+      "speaker": "女王",
+      "ja": "歳も近く、さぞ気の置けない仲なのでしょう。その有能な働きからも、貴方の能力の影響を濃く受けていることがわかります",
+      "zh": ""
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "ce305540",
+      "speaker": "女王",
+      "ja": "私の能力を加えれば……さらに有能な人材となるのでしょうね？",
+      "zh": ""
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "8198f7e2",
+      "speaker": "グレア",
+      "ja": "お母様の能力は……公には発表されていませんが、人の魂を、支配下に置くこと。既にメイズは、その術中に堕とされていました",
+      "zh": ""
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "5c29b59b",
+      "speaker": "{G_PlayerName}",
+      "ja": "た……魂？　それって、どういう能力なんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "228.1",
+      "line_index": 228,
+      "inline_index": 1,
+      "line_hash": "bb7301b0",
+      "speaker": "グレア",
+      "ja": "詳しくは、お母様にしかわかりません。ですが、わかっている効果は……",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "a9dcbae2",
+      "speaker": "グレア",
+      "ja": "性格を変える。能力の強度を変える。僅かな間、行動を操作する。そして……",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "16396ed",
+      "speaker": "グレア",
+      "ja": "行動不能に陥らせる、または……壊す",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "212466f",
+      "speaker": "{G_PlayerName}",
+      "ja": "こわ……す？",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "19d74b66",
+      "speaker": "グレア",
+      "ja": "……お母様曰く。「魂は繊細で不安定な存在。陶器を形作る土塊のように、わずかに形を整えたり量を減らすことは容易い。ですが……焼いた皿を、瓶にしようとすれば壊れてしまう」",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "422e3305",
+      "speaker": "",
+      "ja": "「メイズを、瓶にされたくはないでしょう？」",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "9f53f0c1",
+      "speaker": "ルミナ",
+      "ja": "グレア、お姉様……！",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "4e51831f",
+      "speaker": "",
+      "ja": "自分の腕を、辛そうに強く握りしめるグレア。その手をルミナが優しく包んで止める。",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "b5126815",
+      "speaker": "グレア",
+      "ja": "……これが、わたくしが今までルミナに辛く当たってきた理由。公の場で支持出来ない理由",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "67ae6f80",
+      "speaker": "グレア",
+      "ja": "ここであれば監視の目は無いと踏んで明かしましたが、これからもあなたの味方にはなれません。……グリムのような、仲良しごっこを期待しないようにしなさい",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "a54466b5",
+      "speaker": "",
+      "ja": "グレアは踵を返し、宇宙船の出入り口へと足を運んだ。",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "bc05bcd2",
+      "speaker": "ルミナ",
+      "ja": "あっ……！",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "fe343032",
+      "speaker": "グレア",
+      "ja": "あなた達に、こんな願いを伝える立場ではありませんが……",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "a49cb7ea",
+      "speaker": "グレア",
+      "ja": "どうか、メイズは……メイズだけは、傷つけないであげて……",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "33a49182",
+      "speaker": "",
+      "ja": "そう言い残すと、グレアは振り返らず宇宙船の扉を閉めた。すぐに宇宙船は上昇を始め、みるみるうちに雲の向こうへと姿を消した。",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "c23bb4fa",
+      "speaker": "ルミナ",
+      "ja": "……まだ、きちんと御礼も言っていないのに……",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "cc589587",
+      "speaker": "",
+      "ja": "床に転がる機械。雫がグレアとルミナの間に入った際、置いていた機械が転がったらしい。",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "80811b2f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（拾っておかないと……）",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "135b661f",
+      "speaker": "",
+      "ja": "そうして、機械に触れた瞬間。",
+      "zh": ""
+    },
+    {
+      "key": "299.0",
+      "line_index": 299,
+      "inline_index": 0,
+      "line_hash": "bddd4ff4",
+      "speaker": "",
+      "ja": "ふむ。",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "abc5a1d3",
+      "speaker": "",
+      "ja": "なるほど。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "c7c7410a",
+      "speaker": "",
+      "ja": "脳裏に誰かわからない囁き声が響いた。",
+      "zh": ""
+    },
+    {
+      "key": "313.0",
+      "line_index": 313,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "28c3e96c",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "385df775",
+      "speaker": "{G_PlayerName}",
+      "ja": "あれ、機械は……",
+      "zh": ""
+    },
+    {
+      "key": "319.0",
+      "line_index": 319,
+      "inline_index": 0,
+      "line_hash": "730ba697",
+      "speaker": "",
+      "ja": "瞬きの間に消えた……いや、そもそも見えていた物が幻だったかのように、機械の影は消え失せていた。",
+      "zh": ""
+    },
+    {
+      "key": "329.1",
+      "line_index": 329,
+      "inline_index": 1,
+      "line_hash": "26de79d2",
+      "speaker": "雫",
+      "ja": "は！？　まさか外に落としたのですか、男！",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "d8f93f29",
+      "speaker": "{G_PlayerName}",
+      "ja": "ち、違う違う！　拾おうとはしたけど、持ち上げたりしてないって！",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "b4b2a8d9",
+      "speaker": "ルミナ",
+      "ja": "確かに、そこにあったのに……",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "6b86e937",
+      "speaker": "",
+      "ja": "その後、全員でデッキを探したが……機械は、見つからなかった。",
+      "zh": ""
+    },
+    {
+      "key": "356.1",
+      "line_index": 356,
+      "inline_index": 1,
+      "line_hash": "8c754cf8",
+      "speaker": "カルーア",
+      "ja": "かんぱーい！",
+      "zh": ""
+    },
+    {
+      "key": "358.1",
+      "line_index": 358,
+      "inline_index": 1,
+      "line_hash": "39570f0",
+      "speaker": "雛菊",
+      "ja": "皆、正気に戻って良かったでありんす♥",
+      "zh": ""
+    },
+    {
+      "key": "360.1",
+      "line_index": 360,
+      "inline_index": 1,
+      "line_hash": "3ef598eb",
+      "speaker": "メイメイ",
+      "ja": "被害も少なくて、本当に良かったわね……",
+      "zh": ""
+    },
+    {
+      "key": "362.0",
+      "line_index": 362,
+      "inline_index": 0,
+      "line_hash": "92d0b135",
+      "speaker": "クラブのオーナー",
+      "ja": "スタッフもいっぱい戻ってきたし、今日は奢りよ♥",
+      "zh": ""
+    },
+    {
+      "key": "364.0",
+      "line_index": 364,
+      "inline_index": 0,
+      "line_hash": "a58498a0",
+      "speaker": "クラブのオーナー",
+      "ja": "それで……メロエちゃん、体験じゃなくて本当に働いてもらえないかしら……？",
+      "zh": ""
+    },
+    {
+      "key": "366.1",
+      "line_index": 366,
+      "inline_index": 1,
+      "line_hash": "9b605d63",
+      "speaker": "メイメイ",
+      "ja": "う、嬉しいお言葉ですがやっぱり私には向いてないかなって……！",
+      "zh": ""
+    },
+    {
+      "key": "368.0",
+      "line_index": 368,
+      "inline_index": 0,
+      "line_hash": "de46df57",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは……",
+      "zh": ""
+    },
+    {
+      "key": "370.1",
+      "line_index": 370,
+      "inline_index": 1,
+      "line_hash": "b253143c",
+      "speaker": "雛菊",
+      "ja": "ほらほら、盃が減っていないでありんすよ、旦那さん♥",
+      "zh": ""
+    },
+    {
+      "key": "372.0",
+      "line_index": 372,
+      "inline_index": 0,
+      "line_hash": "61b5f540",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっとっと！？　ま、待ってくれ！",
+      "zh": ""
+    },
+    {
+      "key": "374.1",
+      "line_index": 374,
+      "inline_index": 1,
+      "line_hash": "b16de966",
+      "speaker": "メイメイ",
+      "ja": "ふふふ……！",
+      "zh": ""
+    },
+    {
+      "key": "383.0",
+      "line_index": 383,
+      "inline_index": 0,
+      "line_hash": "aa51f16e",
+      "speaker": "{G_PlayerName}",
+      "ja": "こうやって、一悶着が終わってから星でゆっくり出来るなんて初めてだな",
+      "zh": ""
+    },
+    {
+      "key": "389.1",
+      "line_index": 389,
+      "inline_index": 1,
+      "line_hash": "3c58915b",
+      "speaker": "コハル",
+      "ja": "宇宙技術がある星だし……それに、もう近いから急ぐ必要も無いからかもね",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "588a9ed8",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……本当に、次こそ終わるんだな。この旅",
+      "zh": ""
+    },
+    {
+      "key": "393.0",
+      "line_index": 393,
+      "inline_index": 0,
+      "line_hash": "f1908b60",
+      "speaker": "",
+      "ja": "心臓にあるルナリング。",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "9dae82dc",
+      "speaker": "",
+      "ja": "ドクンと疼いた気がするのは、ルナリングのエネルギーが尽きかけているのか。旅の終わりに物寂しさを覚えているからか。",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "72ebfbcb",
+      "speaker": "",
+      "ja": "それとも姿を消した機械と、囁くように響いた謎の声に言い知れぬ不安を覚えているからか。今の{G_PlayerName}には、わからなかった。",
+      "zh": ""
+    },
+    {
+      "key": "402.1",
+      "line_index": 402,
+      "inline_index": 1,
+      "line_hash": "76b39ac2",
+      "speaker": "ルミナ",
+      "ja": "っ、{G_PlayerName}、くん……！",
+      "zh": ""
+    },
+    {
+      "key": "404.0",
+      "line_index": 404,
+      "inline_index": 0,
+      "line_hash": "d0420043",
+      "speaker": "{G_PlayerName}",
+      "ja": "お？　おお、どうしたルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "406.1",
+      "line_index": 406,
+      "inline_index": 1,
+      "line_hash": "3be057e7",
+      "speaker": "ルミナ",
+      "ja": "お、お酒をおつぎいたします……！　どこから来た……いらっしゃったのです、か……？",
+      "zh": ""
+    },
+    {
+      "key": "408.0",
+      "line_index": 408,
+      "inline_index": 0,
+      "line_hash": "6e226d3c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……クラブの人たちの真似か？",
+      "zh": ""
+    },
+    {
+      "key": "410.1",
+      "line_index": 410,
+      "inline_index": 1,
+      "line_hash": "af9c3148",
+      "speaker": "ルミナ",
+      "ja": "ふふ……うん。ちょっと教えてもらったんだけど……難しい、ね……",
+      "zh": ""
+    },
+    {
+      "key": "415.1",
+      "line_index": 415,
+      "inline_index": 1,
+      "line_hash": "5968c1bf",
+      "speaker": "雫",
+      "ja": "ルミナ様ぁっ！　そんな男に、下民の振る舞いなどおやめくださいっ！",
+      "zh": ""
+    },
+    {
+      "key": "418.1",
+      "line_index": 418,
+      "inline_index": 1,
+      "line_hash": "b5e9efac",
+      "speaker": "雫",
+      "ja": "やるならそう、せめてわたくしにっ！　それならセーフでございます！",
+      "zh": ""
+    },
+    {
+      "key": "420.0",
+      "line_index": 420,
+      "inline_index": 0,
+      "line_hash": "8870d2fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "どういう理屈だっ！",
+      "zh": ""
+    },
+    {
+      "key": "422.1",
+      "line_index": 422,
+      "inline_index": 1,
+      "line_hash": "6614e1b4",
+      "speaker": "コハル",
+      "ja": "ふふふっ……！",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "939b6f57",
+      "speaker": "",
+      "ja": "しかし胸の疼きはすぐに、ルミナたちの温かさの前に消えていくのだった……",
+      "zh": ""
+    }
+  ]
+}

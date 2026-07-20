@@ -1,0 +1,436 @@
+{
+  "lines": [
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "93ae023c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぜえ、はあ……はー……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "2b1a1f14",
+      "speaker": "コハル",
+      "ja": "ちょっと{G_PlayerName}、大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "de6d6585",
+      "speaker": "{G_PlayerName}",
+      "ja": "だ……大丈夫、だ……",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "83d28030",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、無理しないでね……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "fc25f84c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（くそ、情けない……）",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "7d91910c",
+      "speaker": "",
+      "ja": "登り続けて、時々ぶつけた足が痛む。今や手すりに捕まった腕の力で無理やり登っているような有り様だ。",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "d5c76b88",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "4face26e",
+      "speaker": "",
+      "ja": "ぼす、と前を進んでいたルミナの背中に頭をぶつけてしまう。登るのに必死で前を見ていなかったが、どうやら止まっているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "e9f1964d",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺を待たなくてもいいぞ……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "d9e14e70",
+      "speaker": "{G_PlayerName}",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "c5d5e8eb",
+      "speaker": "",
+      "ja": "しかし、ルミナたちは待つために足を止めていたわけではなかった。",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "786354f9",
+      "speaker": "",
+      "ja": "……恐らく既にタワーの上階にいたであろう大勢の人間たちが、そこに立ちはだかっていたためだ。",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "f94894e9",
+      "speaker": "ルミナ",
+      "ja": "ど、どうしよう……あとちょっとなのに……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "6f460275",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんな狭いところで戦うなんて、危なすぎる……！",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "54e095e",
+      "speaker": "",
+      "ja": "凶器を構えた集団は、階段の上でこちらを待ち構えるだけで、襲っては来ない。機械から大人しく手をひけば、手出しはしないとでも言いたげだ。",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "ddbe9eff",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……ルミナの力でなんとか、なるか？）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "f501e24c",
+      "speaker": "ルミナ",
+      "ja": "（ちょっと……この星は、太陽が出てないから……難しいかも……）",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "e80efce9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……メイメイ？",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "9b2e1532",
+      "speaker": "メイメイ",
+      "ja": "……上手くいかなかったら、凄く間抜けになるけど。勝算のほうが薄いけど。試すだけ試さないといけないわね……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "f8fbbe91",
+      "speaker": "コハル",
+      "ja": "な……なにする気？",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "faf69738",
+      "speaker": "メイメイ",
+      "ja": "おっ……俺様のお通りだぜ！　愚民ども、道を開けな！",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "2bbca204",
+      "speaker": "メイメイ",
+      "ja": "こ、この……冥刀ハーディアルの錆にされたくなけりゃなあ！",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "5b3c30c3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……は？",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "77f0c11a",
+      "speaker": "",
+      "ja": "時間が止まった。いや、正確には空気が凍りついた。メイメイのよく通る声の意味不明な叫びは、非常階段に木霊した。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "7dedd368",
+      "speaker": "",
+      "ja": "……しかし。呆然とする一同の予想に反して。立ちはだかった人の群れは、真っ二つに分断された。……階段に沿って並ぶ、石像のようになっている。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "e728b813",
+      "speaker": "メイメイ",
+      "ja": "う……うまくいったわね……！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "10384c2c",
+      "speaker": "{G_PlayerName}",
+      "ja": "メ……メイメイ、今のって……？",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "db202382",
+      "speaker": "カルーア",
+      "ja": "『銀河の奥まで愛し抜いて』……『ギンオク』のハデス沢プル蔵の名シーンですねっ！",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "200a6091",
+      "speaker": "ルミナ",
+      "ja": "……ハデス沢、プル蔵……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "78208312",
+      "speaker": "カルーア",
+      "ja": "ギンオクの超人気キャラですよぉ！　誕生日には毎年、プル様の好物ゴボウの水煮を作るファンが大勢いて、昨年なんてゴボウでログハウスを作るファンが……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "80d1da5d",
+      "speaker": "メイメイ",
+      "ja": "か、解説しなくていいから！　今は急ぎましょう！",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "2ae8a1c2",
+      "speaker": "カルーア",
+      "ja": "はあぁ～、神による神のセリフの再現なんて感動ですぅ～♥",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "7dca086f",
+      "speaker": "ルミナ",
+      "ja": "……メイメイさんの書く本って、どんなのなんだろう……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "9be0766a",
+      "speaker": "{G_PlayerName}",
+      "ja": "終わったら読んでみるか……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "b0f904ba",
+      "speaker": "コハル",
+      "ja": "ふう、疲れたわね……ここにあるの？",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "e9034f5d",
+      "speaker": "ルミナ",
+      "ja": "うん、アポロちゃんに教えてもらった反応は……",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "ba4cff18",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ……はあ……っ、はあ……",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "a6640f74",
+      "speaker": "ルミナ",
+      "ja": "だ、だいじょうぶ……？",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "b3011f18",
+      "speaker": "メイメイ",
+      "ja": "あっ、あれじゃない！？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "82bf1af7",
+      "speaker": "ルミナ",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "24efc757",
+      "speaker": "",
+      "ja": "デッキの端、まるでネオンのひとつのように淡い光を放つ機械。今まで止めてきた機械と同じ見た目のそれが、浮遊し揺れていた。",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "760ceecf",
+      "speaker": "ルミナ",
+      "ja": "いつまで大丈夫かわからないし……早く止めよう……！",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "59e0a5c3",
+      "speaker": "ルミナ",
+      "ja": "ええと、電源は……",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "78fe94ce",
+      "speaker": "ルミナ",
+      "ja": "えっ……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "6290e221",
+      "speaker": "",
+      "ja": "一体どこに隠れていたのか。",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "4fcd99a3",
+      "speaker": "",
+      "ja": "横から出てきた走る男がルミナを突き飛ばし、諸共に屋上の外へと落ちていった。",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "64b3d87c",
+      "speaker": "雫",
+      "ja": "ルッ……ルッ……！",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "4de73ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナーーーーッ！",
+      "zh": ""
+    }
+  ]
+}
