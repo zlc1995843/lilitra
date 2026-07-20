@@ -1,0 +1,1129 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "38588973",
+      "speaker": "ルミナ",
+      "ja": "う……ん……",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "58b15128",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ！",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "7b7ac702",
+      "speaker": "ダリア",
+      "ja": "起きられたでありますか！？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "4b127981",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}、くん。……良かった、戻れた……",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "a1a77bd6",
+      "speaker": "雫",
+      "ja": "ルミナ様！　……わたくしも無事、戻れました。あの機械、ふざけた真似をしてくれますね",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "9ad9ed58",
+      "speaker": "{G_PlayerName}",
+      "ja": "２人とも、体は大丈夫か！？",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "2656b371",
+      "speaker": "ルミナ",
+      "ja": "うん、なんとか……みんな、無事？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "9be3b29",
+      "speaker": "{G_PlayerName}",
+      "ja": "それが……",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "4accdd95",
+      "speaker": "雫",
+      "ja": "！　コハル様……！",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "8e58334e",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "63dd9ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんで、コハルだけ……？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "54498d3",
+      "speaker": "ラヴィリス",
+      "ja": "ありゃ。１人だけかあ。まあそんなこともあるよね～",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "1e17b8c9",
+      "speaker": "ラヴィリス",
+      "ja": "そのうち目を覚ますかも知れないしー、もしかしたらずっと覚めないかもねー",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "3f53e616",
+      "speaker": "{G_PlayerName}",
+      "ja": "……起こせ",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "4ae0ee4f",
+      "speaker": "ラヴィリス",
+      "ja": "なんで？　嫌だよ～、眠り続けるならそれは、その人自身が眠ったままでいたいって思ってるってことだもん",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "9e56f3e5",
+      "speaker": "{G_PlayerName}",
+      "ja": "起こさないなら……本気で、壊すぞ",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "3910558e",
+      "speaker": "ラヴィリス",
+      "ja": "あたしを壊したとしても、コハルは起きないよ～。まあどっちにしても、あたしを壊すなんて出来ないだろうけどね",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "81b68fff",
+      "speaker": "{G_PlayerName}",
+      "ja": "っ……！",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "9947dfe4",
+      "speaker": "",
+      "ja": "雫の攻撃は失敗したが、まだ試していない攻撃はある。どれかが通るまで、攻撃し続ける余地は消えていない。",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "aafdb4e3",
+      "speaker": "",
+      "ja": "しかし、力押しでは絶対に負けないという自信が、ラヴィリスの余裕に表れている。……例え起きることが出来ても、何度もこちらを眠らせることだって出来るはずだ。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "c0fd3104",
+      "speaker": "ラヴィリス",
+      "ja": "そんな心配しなくてもいいじゃん、皆でお世話してれば死んだりしないって～！",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "7562899b",
+      "speaker": "ラヴィリス",
+      "ja": "だからゆーっくり、しーっかり寝て、休憩してから前に進めばいい。それまで止まってたっていいじゃない？　今まで頑張ってきたんだから……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "a1753002",
+      "speaker": "ラヴィリス",
+      "ja": "ずっと寝られるんだったら、ずっと寝ていたいでしょ？　皆",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "b1ae991c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなわけ……！",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "2817ad9b",
+      "speaker": "ラヴィリス",
+      "ja": "個人差はあるけどさ～。まこはどう？　まこもあたしと同じ考えでしょー？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "a1017676",
+      "speaker": "まこ",
+      "ja": "まこ？　んー……んー……そうだなあ……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "b30d988e",
+      "speaker": "まこ",
+      "ja": "まこもずっと寝てたい時はあるね、確かに。ずっと遊んでたいとか、ずっとこのままでいたいって思うこと、誰だってあるんじゃないかな",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "bff38158",
+      "speaker": "ラヴィリス",
+      "ja": "だよね、だよね～！　やっぱりまこは、話がわかるな～♪",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "222d1c8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "まこ……！",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "7fea414c",
+      "speaker": "",
+      "ja": "目に見えてラヴィリスが増長する。コハルのためにラヴィリスを説得したい状況で焦燥感が募り、思わず{G_PlayerName}の語気が荒くなる。",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "91115cba",
+      "speaker": "ラヴィリス",
+      "ja": "ここだけの話さー、あたしが働くために、何人かモデルケースに選んでたんだよね～。まこはその中の１人なんだよ",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "c850f707",
+      "speaker": "まこ",
+      "ja": "え？　まこのこと見てくれてたってこと？",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "da5cb904",
+      "speaker": "ラヴィリス",
+      "ja": "そうそう～♪　人間には色んな欲があるけどさー、まこってお金には困ってなかったでしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "1db9ff36",
+      "speaker": "ラヴィリス",
+      "ja": "だから、人間の金欲以外を知るのにちょうど良かったんだ～。皆の夢も、まこのおかげで充実してると思うよ～♥",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "86920aa4",
+      "speaker": "まこ",
+      "ja": "あー、なるほどね。そっかそっかー……でも……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2eb8515c",
+      "speaker": "まこ",
+      "ja": "結局ちょっとしたら、みーんな起きたくなると思うよ？　多分だけど",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "24b304e",
+      "speaker": "ラヴィリス",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "aa1953d2",
+      "speaker": "ラヴィリス",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "7f005411",
+      "speaker": "まこ",
+      "ja": "まこもちょっと前まではさー、お金もっと欲しいなーって思ってたよ？　お金がいっぱいあってもね。今も、推しを応援するためにお金を稼ぐのはやめてないけど",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "6d756d43",
+      "speaker": "ラヴィリス",
+      "ja": "う、うん……？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "e0586538",
+      "speaker": "まこ",
+      "ja": "まこがお金そこまで欲しくないって思ってるのは、お金がいっぱいになったからじゃないよ。お金で叶う別の夢を見てるからなの",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "ff8ed2bf",
+      "speaker": "ラヴィリス",
+      "ja": "別の夢……？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "f363b741",
+      "speaker": "まこ",
+      "ja": "ラヴィっぴがさっき言ってたけどー、よく皆お金欲しいって思ってるでしょ？　それって、お金を使って何かしたいから、お金が欲しいんだよね？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "61da02f2",
+      "speaker": "ラヴィリス",
+      "ja": "そう……だけど……",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "ae6c9f7d",
+      "speaker": "まこ",
+      "ja": "寝るのだってそうだよ。いっぱい寝て、何かをする余裕が欲しいなー、体力が欲しいなー、眠気が無くなって欲しいなー……って思うから、寝たいって思うんじゃないかな？",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "4257031d",
+      "speaker": "ラヴィリス",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "d12ca1ec",
+      "speaker": "まこ",
+      "ja": "勿論、ただダラ～ってしたい人もいると思うけど。そんな人も、本音の本音は違うんじゃないかな。ダラけないでキビキビ動ける人になりたい、って思ってると思うよ。その人も",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "48295b36",
+      "speaker": "ラヴィリス",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "ef5f8b94",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか……様子が変、だな？）",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "9c5689a1",
+      "speaker": "",
+      "ja": "今まで常に感じていた、ラヴィリスの余裕。",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "385cfc46",
+      "speaker": "",
+      "ja": "しかしまこの話を聞いているうちに、ラヴィリスのどこか緩慢なオーラは消え去り、眉根を寄せ、黙ったままどこか一点を見続けている。",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "1feee289",
+      "speaker": "ラヴィリス",
+      "ja": "……寝続けることは、人間の本当の願いじゃない。……寝た後の行動にこそ、価値がある……",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "a22dfdee",
+      "speaker": "ラヴィリス",
+      "ja": "納得した。ラヴィリスはこの星に、不要なんだね",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "58ce03a7",
+      "speaker": "まこ",
+      "ja": "えっ？　べ、別にそこまでは……",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "cc5b100a",
+      "speaker": "コハル",
+      "ja": "…………んん……？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "bb859e76",
+      "speaker": "コハル",
+      "ja": "あ、あれ？　あたし……",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "c951bd9a",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル！？",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "9aad4076",
+      "speaker": "",
+      "ja": "コハルが起き上がり、あたりを見回して瞬きする。それに伴い、少しずつ周囲の建物に明かりが増えていった。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "b9458036",
+      "speaker": "{G_PlayerName}",
+      "ja": "み、皆起きたのか……！？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "81a96874",
+      "speaker": "ラヴィリス",
+      "ja": "納得しちゃったからねー。あたしの能力は人類のためにならないって。じゃあやめなきゃ駄目じゃーん",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "55a5937b",
+      "speaker": "",
+      "ja": "ラヴィリスが不貞腐れたように寝転がる。その様子に、周りは複雑な表情をするしか無いが……",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "ed934d4a",
+      "speaker": "{G_PlayerName}",
+      "ja": "と……ともかく！　ありがとう、まこ！",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "3fdc36cd",
+      "speaker": "まこ",
+      "ja": "え、まこ？　まこ何もしてないけど……ただお喋りしただけで……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "86995c7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "まこのおかげでコハルが、この星の人が起きられたんだ！　何もしてないなんてこと無いだろ！",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "9ca11035",
+      "speaker": "コハル",
+      "ja": "えっと……あたしも助けられたわよね。ありがとう！",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "2a223d57",
+      "speaker": "ルミナ",
+      "ja": "ありがとう、まこさん……",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "b808df49",
+      "speaker": "まこ",
+      "ja": "え？　え？　て、て……照れるな～～！　今、人生で一番お礼言われてるかも～♥",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "b33ac8f8",
+      "speaker": "ラヴィリス",
+      "ja": "ふーんだ、もー最悪ー。つまんない～！",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "e316593f",
+      "speaker": "雫",
+      "ja": "……もう何もするつもりは無いのですか？",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "4ad5edd",
+      "speaker": "ラヴィリス",
+      "ja": "するも何も、出来ないのー。少なくともこの星にはねー",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "ff070f7",
+      "speaker": "雫",
+      "ja": "（人類のためにならないと納得したから、やめなきゃ駄目……と言っていましたね）",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "261017ce",
+      "speaker": "雫",
+      "ja": "（モノリスとやらも、人類の味方だと自称していました。……もしかして、いや、まさか……）",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "52e1c134",
+      "speaker": "雫",
+      "ja": "（これからの旅、こんな傍迷惑で超強力な機械たちを、言葉でなんとかしないといけないのですか……！？　こんな常識知らずたちを……！？）",
+      "zh": ""
+    },
+    {
+      "key": "232.0",
+      "line_index": 232,
+      "inline_index": 0,
+      "line_hash": "e9cb8898",
+      "speaker": "ルミナ",
+      "ja": "えっと……ごめんね、そろそろ行かないといけないから……",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "aa940580",
+      "speaker": "",
+      "ja": "あれから少しして。ルミナ達は住人たちの無事を確認し、補給を最低限済ませ、軽い休憩をしてから宇宙船の着地地点に戻ってきていた。",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "8fe8fe65",
+      "speaker": "",
+      "ja": "……メイメイやカルーア達は、何故心配されてるかわからずキョトンとしていたが。",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "1b2a08ef",
+      "speaker": "まこ",
+      "ja": "他の星にも行かないとなんだもんね～？　うん、寂しいけどまこ待ってる……",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "cfbfcad7",
+      "speaker": "まこ",
+      "ja": "まこの力が必要になったら、いつでも呼んでねっ♥　あとお金も必要な時は言って♥",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "178ca3c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう……ありがとう。お金は大丈夫だけど……",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "c9a4e11f",
+      "speaker": "ダリア",
+      "ja": "短い間でしたが、とても刺激的でございました！　もしも宇宙船や、機械士殿の機械にペインティングが必要でしたら、いつでも連絡して欲しいであります！",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "eed15c9e",
+      "speaker": "ダリア",
+      "ja": "お友達価格で承りますゆえ……そう、もうお友達……お友達……！　ですからな……デュフ……",
+      "zh": ""
+    },
+    {
+      "key": "248.0",
+      "line_index": 248,
+      "inline_index": 0,
+      "line_hash": "8144eec8",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ……わかった。ダリアも元気でな！",
+      "zh": ""
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "14347fb5",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ、一時はどうなるかと思ったけど……無事で良かったな、コハル",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "15ccce35",
+      "speaker": "コハル",
+      "ja": "……そうね！　迷惑かけちゃって、ごめんなさい",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "b32f7842",
+      "speaker": "ルミナ",
+      "ja": "迷惑なんて……コハルちゃんは悪く、ないよ",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "db9c728e",
+      "speaker": "雫",
+      "ja": "ルミナ様の仰る通りです、あのサイコパス無常識クレイジーマシンが悪いのですから……",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "9b06c64d",
+      "speaker": "？？？",
+      "ja": "それって、あたしのことじゃないよね～？　ひどいな～",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "da60eb8",
+      "speaker": "雫",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "88d0168f",
+      "speaker": "コハル",
+      "ja": "……！？",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "41a21b79",
+      "speaker": "ルミナ",
+      "ja": "い、今の声って……",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "b0d0a771",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラヴィリス！？　なんでいるんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "30b7d545",
+      "speaker": "ラヴィリス",
+      "ja": "だって、あの星にいたって仕方ないもーん。つまんないし、ついてきたっていいでしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "307.1",
+      "line_index": 307,
+      "inline_index": 1,
+      "line_hash": "ca45108",
+      "speaker": "雫",
+      "ja": "いいわけがないでしょう！　いつこちらに牙を剥くかわかったものではないリスクの塊、誰が乗せますか！",
+      "zh": ""
+    },
+    {
+      "key": "309.1",
+      "line_index": 309,
+      "inline_index": 1,
+      "line_hash": "f1f931e9",
+      "speaker": "コハル",
+      "ja": "今すぐ外に叩き出したほうが……！",
+      "zh": ""
+    },
+    {
+      "key": "311.1",
+      "line_index": 311,
+      "inline_index": 1,
+      "line_hash": "986ce781",
+      "speaker": "ラヴィリス",
+      "ja": "心配しなくても、邪魔しないって～。担当区域から移動したら殆どの機能使えなくなったりグレードダウンするし～、そうでなくても出来ることなんてめっちゃ減ったんだし～",
+      "zh": ""
+    },
+    {
+      "key": "313.1",
+      "line_index": 313,
+      "inline_index": 1,
+      "line_hash": "1d9f5e6f",
+      "speaker": "ラヴィリス",
+      "ja": "それに言ったでしょ～？　あたし機械なんだって。嘘はつかないし、マスターには逆らえない",
+      "zh": ""
+    },
+    {
+      "key": "315.1",
+      "line_index": 315,
+      "inline_index": 1,
+      "line_hash": "7cee8b71",
+      "speaker": "雫",
+      "ja": "だから、そのマスターというのは敵で元凶の……",
+      "zh": ""
+    },
+    {
+      "key": "325.1",
+      "line_index": 325,
+      "inline_index": 1,
+      "line_hash": "4874bfbc",
+      "speaker": "ラヴィリス",
+      "ja": "マスター登録。{G_PlayerName}、お前が今日からあたしのマスターね～",
+      "zh": ""
+    },
+    {
+      "key": "331.0",
+      "line_index": 331,
+      "inline_index": 0,
+      "line_hash": "af01118d",
+      "speaker": "{G_PlayerName}",
+      "ja": "はっ！？",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "2b5d381a",
+      "speaker": "コハル",
+      "ja": "へっ！？",
+      "zh": ""
+    },
+    {
+      "key": "335.1",
+      "line_index": 335,
+      "inline_index": 1,
+      "line_hash": "5178235c",
+      "speaker": "ラヴィリス",
+      "ja": "これでもうあたしはお前に逆らえないよー、命令するならだけど～。試しに裸踊りでもさせてみる～？",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "43e89a16",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんで俺なんだよ！　もっと適任いただろ！？",
+      "zh": ""
+    },
+    {
+      "key": "339.1",
+      "line_index": 339,
+      "inline_index": 1,
+      "line_hash": "740cc0ae",
+      "speaker": "ラヴィリス",
+      "ja": "なんでって、そりゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "a889f1b5",
+      "speaker": "雫",
+      "ja": "ああもう……APL-180！　なぜこんな者を乗せたのですか！",
+      "zh": ""
+    },
+    {
+      "key": "348.1",
+      "line_index": 348,
+      "inline_index": 1,
+      "line_hash": "8c4ea567",
+      "speaker": "APL-180",
+      "ja": "申し訳ございません、当機の限界を超えたゲストと判断いたしました",
+      "zh": ""
+    },
+    {
+      "key": "350.1",
+      "line_index": 350,
+      "inline_index": 1,
+      "line_hash": "80257b98",
+      "speaker": "雫",
+      "ja": "だとしても、警告の１つや２つ……",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "9cf145fd",
+      "speaker": "APL-180",
+      "ja": "そして申し上げにくいのですが、同様に当機が処理出来ないと判断したゲスト様があと２名おります",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "977db116",
+      "speaker": "雫",
+      "ja": "…………は？",
+      "zh": ""
+    },
+    {
+      "key": "365.1",
+      "line_index": 365,
+      "inline_index": 1,
+      "line_hash": "86cd7724",
+      "speaker": "ティティア",
+      "ja": "あ、あのう……すみませんなんだか出るタイミング逃しちゃってぇ……",
+      "zh": ""
+    },
+    {
+      "key": "367.0",
+      "line_index": 367,
+      "inline_index": 0,
+      "line_hash": "1f3e297",
+      "speaker": "{G_PlayerName}",
+      "ja": "ティティア！？　なんでここに！？",
+      "zh": ""
+    },
+    {
+      "key": "369.1",
+      "line_index": 369,
+      "inline_index": 1,
+      "line_hash": "fa1ceb1d",
+      "speaker": "ティティア",
+      "ja": "えっと、リデル様を探してて……リデル様、見てませんか？　なんだか、どこを探してもいなくって……",
+      "zh": ""
+    },
+    {
+      "key": "371.1",
+      "line_index": 371,
+      "inline_index": 1,
+      "line_hash": "615f76a5",
+      "speaker": "雫",
+      "ja": "見ておりません！　知りません！",
+      "zh": ""
+    },
+    {
+      "key": "373.1",
+      "line_index": 373,
+      "inline_index": 1,
+      "line_hash": "f71d6f34",
+      "speaker": "ティティア",
+      "ja": "ええー、そうなんですか？　どうしよう、絶対ここだと思ったのにぃ……！",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "f9920169",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああもう、大きな事件が終わったばっかりだって言うのに、何がなにやら……！　ゲストが２名ってことは、もう１人はユースか？",
+      "zh": ""
+    },
+    {
+      "key": "377.1",
+      "line_index": 377,
+      "inline_index": 1,
+      "line_hash": "af32bedc",
+      "speaker": "ティティア",
+      "ja": "え？　いえ、来たのはティティだけです！　送ってもらいはしましたけどぉ……",
+      "zh": ""
+    },
+    {
+      "key": "379.0",
+      "line_index": 379,
+      "inline_index": 0,
+      "line_hash": "38eb0c48",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んん！？　じゃあ、もう１人って……！？",
+      "zh": ""
+    },
+    {
+      "key": "382.0",
+      "line_index": 382,
+      "inline_index": 0,
+      "line_hash": "e09165be",
+      "speaker": "？？？",
+      "ja": "……くすくすっ♥　あははっ♥",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "c4b2f811",
+      "speaker": "",
+      "ja": "どこからともなく笑い声が響く。全員であたりを見回すが……",
+      "zh": ""
+    },
+    {
+      "key": "389.1",
+      "line_index": 389,
+      "inline_index": 1,
+      "line_hash": "20a95225",
+      "speaker": "雫",
+      "ja": "どこですか！　姿を現しなさい！",
+      "zh": ""
+    },
+    {
+      "key": "391.0",
+      "line_index": 391,
+      "inline_index": 0,
+      "line_hash": "28e904ce",
+      "speaker": "？？？",
+      "ja": "も～、せっかちだなあ……",
+      "zh": ""
+    },
+    {
+      "key": "412.1",
+      "line_index": 412,
+      "inline_index": 1,
+      "line_hash": "a4afcca9",
+      "speaker": "リンファン",
+      "ja": "うふふ……久しぶり、お兄ちゃん♥",
+      "zh": ""
+    },
+    {
+      "key": "414.1",
+      "line_index": 414,
+      "inline_index": 1,
+      "line_hash": "18f7c31",
+      "speaker": "リンファン",
+      "ja": "来ちゃった♥",
+      "zh": ""
+    },
+    {
+      "key": "416.0",
+      "line_index": 416,
+      "inline_index": 0,
+      "line_hash": "32c884cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "……り、り、リ……",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "b1d8eda5",
+      "speaker": "{G_PlayerName}",
+      "ja": "リンファンっ！！？",
+      "zh": ""
+    }
+  ]
+}

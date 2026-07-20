@@ -1,0 +1,517 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "5b8ff1db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ラヴィリスが……謎の機械の、親機！？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "8fc9e477",
+      "speaker": "ラヴィリス",
+      "ja": "そうだよー、近くに来たから、なんとなーくちょっかいかけてみたんだけど。モノリスに命令されてる機械だよー",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2b7dcc8d",
+      "speaker": "{G_PlayerName}",
+      "ja": "モ……ノリス？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "e5119e08",
+      "speaker": "ラヴィリス",
+      "ja": "あ、そうそう。変な声とか言ってたけど～、あいつの名前モノリスだからね～。変な、とか言ったら絶対怒るよ～。怒ったら面倒なんだから～、モノリス",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "1d13f427",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、は、はあ……",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "7e84656e",
+      "speaker": "ラヴィリス",
+      "ja": "ついでに、あたし達のシリーズはリリィペタルって呼ばれてたんだよー。謎の機械じゃなくてー、ペタルでも、リリペタでもテキトーに呼んでね～",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "34b053b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "リ、リリィペタル……？　さっきから、何言ってるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "aed211d",
+      "speaker": "ラヴィリス",
+      "ja": "だーって、聞いてて凄い気になってたんだもーん。モヤモヤしっぱなしだったよ、も～……ふわぁあ……",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "f596e214",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう意味じゃなくて……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "742fbcd5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんだ、こいつ……さっき、この星の人達を全員眠らせたのは自分だって自白したんだよな？　調子狂うぞ……）",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "ee764b4",
+      "speaker": "",
+      "ja": "悪事を働いた人間……いや、機械のそれとは思えないほど、ラヴィリスの態度は弛んでいる。しかし、凛とした雫の声が弛緩した空気を断ち切った。",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "3283a33c",
+      "speaker": "雫",
+      "ja": "要するに、敵ということですね？　あなたが大衆の睡眠欲を狂わせて、この星に危害を加えていると？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "d0cce9a2",
+      "speaker": "ラヴィリス",
+      "ja": "んー、まあ～、そういうことでいいんじゃないの？　あたしはどうでもいいんだけどね、ホントは",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "3b139687",
+      "speaker": "ラヴィリス",
+      "ja": "あたしは自由と解放を司るペタル。人間が本当にやりたいって思ったことを、思う存分やらせてあげるのが仕事なんだよ～",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "20ed40a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に、やりたいことを……？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "bee7660f",
+      "speaker": "ラヴィリス",
+      "ja": "そうそう～、人間ってなんかよくわかんないこと考えて、本当にやりたいことやらなかったり、やれなかったりするじゃない～？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "9f17ed4",
+      "speaker": "ラヴィリス",
+      "ja": "本当の欲望を解放して、やりたいと思ってることをやらせてあげるの。それが人間の本当の幸せってやつ、でしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "3b52a0f7",
+      "speaker": "ダリア",
+      "ja": "もしかして、前の騒ぎも……",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "4a71bf8f",
+      "speaker": "ラヴィリス",
+      "ja": "そうそう！　エッチなことしたーいって人多かったからしただけー！　実際皆、幸せだったと思うよ～？",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "ee3061d7",
+      "speaker": "ラヴィリス",
+      "ja": "あとなんだっけ。カルーア？　って子が、こんな世界だったらいいのにーとか言いながら本読んでたから、そんな感じにもしたけど。あれはしなくても良かったかなー",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "c6554648",
+      "speaker": "{G_PlayerName}",
+      "ja": "（メイメイの本にそっくりな状況が出来てたのって、そういうことだったのか……）",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "527993cf",
+      "speaker": "ダリア",
+      "ja": "あ、あのぉ……小生とまこ殿は、眠たくなっておらぬのでありますが……",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "1c7f725e",
+      "speaker": "ラヴィリス",
+      "ja": "寝たいって思わなかった人間は例外だよ～。ダリアは寝るより絵を描きたい、まこは別に寝たくないって思ってたでしょ～？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "d31cd41e",
+      "speaker": "ダリア",
+      "ja": "ま、まあ確かに……締め切りも近かったでありますし、絵は描けば描くほど楽しくなる物でありますが……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "30623b8d",
+      "speaker": "まこ",
+      "ja": "エナドリいつも飲んでるし～、寝る間も通知がいつ来るか気になっちゃうんだよねぇ♥",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "75016a82",
+      "speaker": "ラヴィリス",
+      "ja": "しっかり分別もつけてるしー、ほーら、皆幸せでしょ～",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "a84a0cb3",
+      "speaker": "ルミナ",
+      "ja": "生きるために必要なこともしないで……欲望に振り回されるのが、幸せのはず……ないよ……！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "1d3483fd",
+      "speaker": "ラヴィリス",
+      "ja": "そう？　納得できないな～",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "517278de",
+      "speaker": "雫",
+      "ja": "なんですって？　ルミナ様のありがたい言葉にひれ伏し拝みなさい",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "1bd2ac15",
+      "speaker": "雫",
+      "ja": "というか我々の名前を呼ぶ際、ルミナ様を最後に回したでしょう！　あの時からあなたのことは怪しいと思っていたのです！　不敬者が！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "dd8ecff8",
+      "speaker": "ルミナ",
+      "ja": "雫……その時に言って……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "1d696f53",
+      "speaker": "ラヴィリス",
+      "ja": "王女様のありがたーい言葉でも納得できないよ～。だって、幸せってその人自身が主観で決めることでしょ？　他の人が勝手に決めつけていいことじゃないよ",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "e1d53b81",
+      "speaker": "ラヴィリス",
+      "ja": "全身が激痛に襲われてずっと苦しんでる人が、喜びも無いのに無理矢理生かされるのは幸せかな？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "78693c1a",
+      "speaker": "雫",
+      "ja": "極論が過ぎます。屁理屈でルミナ様を貶めるのはやめなさい",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "94c96056",
+      "speaker": "ラヴィリス",
+      "ja": "そうかな？　現に、あたしは生きてないけど幸せだよ～？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "4f8dc279",
+      "speaker": "雫",
+      "ja": "……もとより、こんなことをしでかす機械と会話を試みるほうがおかしかったですね",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "2946f2ae",
+      "speaker": "雫",
+      "ja": "はあっ！！",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "94ed90f1",
+      "speaker": "",
+      "ja": "言うが早いか、雫が武器を起動してラヴィリスへと斬りかかった。しかし……",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "4384ff52",
+      "speaker": "雫",
+      "ja": "……！？",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "71a18dd9",
+      "speaker": "",
+      "ja": "ラヴィリスは雫の攻撃を防御する。いや、防御していない。それはまるで、雫が途中で攻撃を止めたようで……",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "fca352ca",
+      "speaker": "雫",
+      "ja": "（モジュールが、動作を停止した……！？　何故っ……！？）",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "805a65d5",
+      "speaker": "ラヴィリス",
+      "ja": "え～、なんて説明すればいいかな～？　凄い技術の前には無力～、とかそんな感じでいいかなあ～？",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "20b38e9",
+      "speaker": "",
+      "ja": "ラヴィリスが体を掻きながら、再び大きな欠伸をする。目を擦り、雫やこちらを一瞥してため息を吐いた。",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "4f3a862e",
+      "speaker": "ラヴィリス",
+      "ja": "それで……どうするの？　無駄なてーこー、続けてみる？",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "8b5b7f09",
+      "speaker": "ラヴィリス",
+      "ja": "あたしは皆の幸せをきちんと考えてるの。人類の味方として働いてるんだから……",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "7408eaf8",
+      "speaker": "ラヴィリス",
+      "ja": "ただやめろって言われても、やめないよ？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "36045921",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "d1a7b1ed",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "a4ebf6e8",
+      "speaker": "ラヴィリス",
+      "ja": "ありゃ？",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "fc546543",
+      "speaker": "ラヴィリス",
+      "ja": "皆消えちゃった……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "93c89d27",
+      "speaker": "ラヴィリス",
+      "ja": "あはは、面白いことするねー。空中にもお絵かき出来るんだ、あの子",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "ef3f453d",
+      "speaker": "まこ",
+      "ja": "流石ダリっぴ～♥　いざという時の行動力、あるよね～♥",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "fe72b1",
+      "speaker": "ダリア",
+      "ja": "にっ、逃げたほうがよろしいのでは、と思ったので一筆描いてみたのでありますが……！　なんとかなりますかなあ？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "1aef4051",
+      "speaker": "雫",
+      "ja": "あの機械を止めなければ、この惑星の人間の殆どが寝たきりになります。……倒さなければ、なりませんが……",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "227e1a67",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "32e03c8a",
+      "speaker": "",
+      "ja": "話している時も、戦っている最中も、結局ラヴィリスはずっと余裕の表情だった。本当に戦ったところで勝てるのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "30efa44",
+      "speaker": "",
+      "ja": "疑問を口に出そうとしたが、雫の表情を見て{G_PlayerName}は口を噤んだ。",
+      "zh": ""
+    }
+  ]
+}

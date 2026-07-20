@@ -1,0 +1,931 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "f904a25f",
+      "speaker": "まこ",
+      "ja": "あなた達、今来たとこ～？　え、てかルミナ様そっくりじゃない？　よく言われるでしょ～！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "42416d5e",
+      "speaker": "ルミナ",
+      "ja": "あ……えっと……うん……",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "a6293b39",
+      "speaker": "{G_PlayerName}",
+      "ja": "それでその……どういう状況なんだ？　今、ここって",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "c2d7e6b8",
+      "speaker": "まこ",
+      "ja": "まこ～、朝ちょっと弱いの。でも昨日、明日の朝はメインウェイのアボカドビーフサンド絶対食べる！　って決めてたから～、頑張って起きたのね？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "befb7180",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　お、おう……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "88a20bfa",
+      "speaker": "まこ",
+      "ja": "そしたら～、それで焦っちゃったのかな？　まこちょっとドジなとこあるから、化粧もネイルも全然ノリ悪くって最悪～って思ってぇ、まこ最近仕事頑張りすぎちゃってたしそのせいカモ？　とか～",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "dcf21eb3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……え？　うん……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "4c41e6d1",
+      "speaker": "まこ",
+      "ja": "そしたらしかも～、お気にの朝用の化粧水が無くなってて、いつもストックあるのに今日に限って無くて、そしたら先に買わなきゃいけないじゃん？　とりまサブのやつ塗ったんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "819e1483",
+      "speaker": "{G_PlayerName}",
+      "ja": "お……おぉん……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "fb7aba58",
+      "speaker": "雫",
+      "ja": "……大変申し訳ございませんが、少しかいつまんでいただけますか",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "531e2d61",
+      "speaker": "まこ",
+      "ja": "あっ、ごめんね～？　まこちょっと話すのヘタっぴで……嫌いになった？　本当ごめん",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "a792674d",
+      "speaker": "まこ",
+      "ja": "っていうかこんなに人と話したの、クラブ以外だと久しぶりかも……相性すっごく良くない？　まこ達。ね？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "b7bdfba1",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そう……かぁ？",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "8b8827d",
+      "speaker": "コハル",
+      "ja": "はい、ちょっと近づきすぎ！　あんたもしっかりしなさいよね！",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "2576e729",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……なんか気圧されて……勢いに……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "bff5b5ed",
+      "speaker": "まこ",
+      "ja": "あっ、このコ、もしかしてあなたの推し？　同担拒否だった？　ごめんね？",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "71d32f28",
+      "speaker": "コハル",
+      "ja": "な、何言ってるのかわかんないけど……とりあえず、こっちの事情から説明するわね。じゃないと話が進まなさそうだから",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "3931375a",
+      "speaker": "まこ",
+      "ja": "えーっ！　本当に王女様達だったんだ～！　超レアじゃーん！　まこ、今日の運最高かも～！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "fd468be5",
+      "speaker": "雫",
+      "ja": "（感情の昇降運動が激しすぎますね……脳がクラクラしてきます）",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "f513f252",
+      "speaker": "コハル",
+      "ja": "えっと……それでね？　前までここって人がいっぱいいたと思うんだけど、なんで今誰もいないのかなーって……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "e8c98825",
+      "speaker": "まこ",
+      "ja": "まこもわかんないな～。今日推しのクラブも休みだし、推しのレストランも開いてないし、推しのカフェも閉まっちゃってるしぃ～",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "f28ff276",
+      "speaker": "{G_PlayerName}",
+      "ja": "（推しって何なんだ……？　確かメイメイもたまに使ってたような……）",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "98d5b32a",
+      "speaker": "まこ",
+      "ja": "良かったらまこと一緒に遊んでくれない？　お金ならあげるから♥",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "9818985e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、お金は別に要らないから……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "e3af18bb",
+      "speaker": "コハル",
+      "ja": "（もう直接変なところがないか探したほうがいいんじゃない？）",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "9fd48fcf",
+      "speaker": "雫",
+      "ja": "（ですが……未だ、ここが安全かすらわかりません。せめて、もう少し情報を聞き出してからにしたいものですが）",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "6fd10a44",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……だな。情報を教えてくれないか？　そしたらちょっと遊ぶ時間がある……かも？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "690eb4a3",
+      "speaker": "まこ",
+      "ja": "いいよ～♥　じゃあいこーっ♥　えへへ、本当にラッキーだな～♥",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "99d66fa3",
+      "speaker": "まこ",
+      "ja": "……あ、あそこなら開いてるかも。確か前の時も大丈夫だったし",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "8340520",
+      "speaker": "{G_PlayerName}",
+      "ja": "あそこって？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "f559529c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ここか！",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "7e548028",
+      "speaker": "",
+      "ja": "まこの先導で辿り着いた場所は、以前この星に来た時メイメイが潜入していた、リリアンが多く働いているクラブだった。",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "662d688c",
+      "speaker": "まこ",
+      "ja": "あれ、ここなら誰かいると思ったんだけど……やっぱりいないね",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "5283f6a7",
+      "speaker": "コハル",
+      "ja": "営業時間外……ってことは無いわよね？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "4bd39cc2",
+      "speaker": "まこ",
+      "ja": "ううん、いつもなら開いてる時間だよ。すみませ～ん！",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "f0f826c8",
+      "speaker": "",
+      "ja": "まこが声を上げるが、反応は無い。少し待ったあと、まこは近くのソファに腰掛けた。",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "ef9f067d",
+      "speaker": "まこ",
+      "ja": "とりあえず、人が来るかも知れないしお話だけして待ってよっ！　お店の人いないけど、座ってるだけなら大丈夫でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "ae22c77d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……確かに、それくらいなら大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "90c3df24",
+      "speaker": "{G_PlayerName}",
+      "ja": "起きて、外に出たのはいつぐらいだった？",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "41c13e2",
+      "speaker": "",
+      "ja": "誰もいない店内に少し居心地の悪さを覚えながらも、向かいに座ったまこに質問を始めた。",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "18814295",
+      "speaker": "まこ",
+      "ja": "んーっと……大体２時間くらい前かな～？",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "410aa464",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あの変な声と喋ったのは、今から大体４、５時間くらい前か……）",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "a4ec8f8a",
+      "speaker": "ルミナ",
+      "ja": "その後、いろんな場所に行ったけど……誰もいなかったん、だよね？",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "3b2e958b",
+      "speaker": "まこ",
+      "ja": "そうだねー、誰もいなかったり、店が開いてなかったり？　歩いてて誰もいないってことは、家にいるんじゃないかな？",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "ca2949b6",
+      "speaker": "雫",
+      "ja": "歩いていて、体に違和感や痛みは？　気分は問題ありませんか？",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "87214b32",
+      "speaker": "まこ",
+      "ja": "全然、大丈夫だよ！　心配してくれるの？　うれし～！",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "2892d5e",
+      "speaker": "雫",
+      "ja": "（とりあえず差し迫った危険は無さそうですね）",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "60c56163",
+      "speaker": "まこ",
+      "ja": "でも……大丈夫じゃないかも",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "b9191126",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "d15857aa",
+      "speaker": "まこ",
+      "ja": "推しがもし大丈夫じゃなかったら……まこ、大丈夫じゃない。まこは大丈夫じゃなくてもいいから、推しが元気だといいな……",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "aa055548",
+      "speaker": "{G_PlayerName}",
+      "ja": "（急に落ち込みだしたぞ……これ、変な影響が出てるとかじゃないよな？）",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "5ea6634",
+      "speaker": "？？？",
+      "ja": "…………さい",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "d18e8ab",
+      "speaker": "ルミナ",
+      "ja": "……あれ……？",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "9722aa09",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうかしたか、ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "c6b8e996",
+      "speaker": "ルミナ",
+      "ja": "なんだか、変な音……ううん、声が、聞こえ……ない？",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "64a78d65",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　…………",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "3f07b17",
+      "speaker": "？？？",
+      "ja": "すみま、せ～ん……",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "f8d7b121",
+      "speaker": "{G_PlayerName}",
+      "ja": "！？　れ、霊！？",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "47992363",
+      "speaker": "雫",
+      "ja": "幽霊なんてこの世にいますか！",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "897bb8b4",
+      "speaker": "雫",
+      "ja": "……いや、一応いましたか。ともかく、幽霊なわけがないでしょう",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "3f48849b",
+      "speaker": "まこ",
+      "ja": "幽霊さん！？　やだ、絶対見たい～！",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "413b0344",
+      "speaker": "ルミナ",
+      "ja": "えっと……こっちのほうから、聞こえたような……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "edeba1af",
+      "speaker": "{G_PlayerName}",
+      "ja": "よ、良かった。人か……",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "c9b2e010",
+      "speaker": "？？？",
+      "ja": "ぎゃひいっ！？　い、いらっしゃったのですな！？",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "598df60e",
+      "speaker": "ダリア",
+      "ja": "あ、あ、失礼いたしました。このお店の方ですかな？　小生、ダリアと申しまする",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "376f575a",
+      "speaker": "ダリア",
+      "ja": "ご依頼の絵を持ってきたでありまするが……お取り込み中だったでしょうかぁ……！",
+      "zh": ""
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "c0ad3593",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、えーと俺達は……",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "e52629fe",
+      "speaker": "ダリア",
+      "ja": "こちらの絵ですが、どこに置きましょうか？　机の上でよろしいでありますか？",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "18ff6359",
+      "speaker": "{G_PlayerName}",
+      "ja": "店の人ってわけじゃなくて……",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "bc14d1f6",
+      "speaker": "ダリア",
+      "ja": "むっ！　お客様でございましたか！？　それは失礼いたしました、小生の不覚でございまする……",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "3f5194e6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こっちはこっちでなんか、勢いが凄いリリアンだな……）",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "a43a7821",
+      "speaker": "まこ",
+      "ja": "あっ、誰かと思ったらダリっぴじゃ～ん！　おひさ～！",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "9feaaa4f",
+      "speaker": "ダリア",
+      "ja": "あ、まこ殿……！　フ、フヒ……ご創建のようで小生も嬉しいであります……！",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "635700b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "知り合いなのか？",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "c4e98edf",
+      "speaker": "まこ",
+      "ja": "推し絵師！　花詰派って呼ばれてる派閥で～、なんかめっちゃお花描いてるの！　ダリっぴの絵、特に綺麗だから色んな場所に飾られてるんだよね～",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "80b09d05",
+      "speaker": "ダリア",
+      "ja": "デュフッ……て、照れてしまいますぞ……！　遅筆すぎて寝る間も無いひよっこであります！　まこ殿こそ、超敏腕デイトレーダーで羨望の目を集められて、遊んで寝てるだけでも生活できると……！",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "e78bdd80",
+      "speaker": "まこ",
+      "ja": "あーん、嬉しいけどそんな肩書き可愛くな～い！　それにまこ、ショートスリーパーだから寝るのに興味無いし～！　も～、ダリっぴまこのこといっぱい褒めてくれるから好き～！",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "72d57bb9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（何だこの空間……）",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "74120616",
+      "speaker": "雫",
+      "ja": "ひとまず、ダリア様にも事情を説明して色々お聞きしたいのですが……",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "62c845df",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、そ、そうだな。うん",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "42c7b3c",
+      "speaker": "ダリア",
+      "ja": "事情、でありますか？",
+      "zh": ""
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "80b20c55",
+      "speaker": "",
+      "ja": "数分後……",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "a05edcc8",
+      "speaker": "ダリア",
+      "ja": "た、大変申し訳ありませぬが……小生、絵を描き上げてすぐこちらに参ったゆえ、特に何も存じ上げませぬ",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "5da61d37",
+      "speaker": "ダリア",
+      "ja": "というか、街に人がいないというのも気づきませんでした。必死に絵を描き上げたあとでフラフラでしたからな",
+      "zh": ""
+    },
+    {
+      "key": "273.0",
+      "line_index": 273,
+      "inline_index": 0,
+      "line_hash": "d95e1e6a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなに疲れた状態って……大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "4295c4ab",
+      "speaker": "ダリア",
+      "ja": "それほど絵画に集中して出来た、という証でありますゆえ～！　むしろ誇りでありますな！",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "719fede2",
+      "speaker": "ダリア",
+      "ja": "何かご入用であれば、いつでも絵の依頼をお待ちしておりますぞ～、デュフ……",
+      "zh": ""
+    },
+    {
+      "key": "279.0",
+      "line_index": 279,
+      "inline_index": 0,
+      "line_hash": "fcee0f4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はあ……まあ何かあれば、な",
+      "zh": ""
+    },
+    {
+      "key": "281.0",
+      "line_index": 281,
+      "inline_index": 0,
+      "line_hash": "4cdcf1d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし……今回といい前回といい、おかしな状況に気づいてない人多いな……",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "af6aea8c",
+      "speaker": "雫",
+      "ja": "……ですが、もしかするとそのせいで回避出来てるのかも知れません",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "92655135",
+      "speaker": "まこ",
+      "ja": "回避～？",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "a59a3414",
+      "speaker": "雫",
+      "ja": "はい。前回はリリアンは影響を免れていました。同じように、まこ様とダリア様が無事なのは、その価値観から来る何かの結果かも知れません",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "a2e57bb4",
+      "speaker": "まこ",
+      "ja": "い……今の……",
+      "zh": ""
+    },
+    {
+      "key": "291.1",
+      "line_index": 291,
+      "inline_index": 1,
+      "line_hash": "773e372e",
+      "speaker": "雫",
+      "ja": "はい？",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "6ebb7d1c",
+      "speaker": "まこ",
+      "ja": "今のまこ様、ってもう一回言って～！　やだー、姫とかお嬢様は時々言われるけど、名前呼びとの合体やば～い！　クラブのスタッフと違って名前忘れてる時の手ってことも無いし、最高かも～！",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "160608b1",
+      "speaker": "雫",
+      "ja": "え。ええと……その、また、機会があれば……",
+      "zh": ""
+    },
+    {
+      "key": "298.0",
+      "line_index": 298,
+      "inline_index": 0,
+      "line_hash": "710397dd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（雫がタジタジなの珍しいな……）",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "dde0e538",
+      "speaker": "{G_PlayerName}",
+      "ja": "しかし……ってことは、同じように前異変に気づいてなかったメイメイは無事かも知れないな！",
+      "zh": ""
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "6bb66fd0",
+      "speaker": "雫",
+      "ja": "ええ。自由に歩いて問題ないとわかったのですから、この後家に様子を見に行きましょう",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "74d4ba6b",
+      "speaker": "",
+      "ja": "その時、ガタッ……と店の奥から。いや、正確には奥のテーブルから音がした。",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "cd242bb5",
+      "speaker": "ダリア",
+      "ja": "い、今の音は……？",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "532b2214",
+      "speaker": "？？？",
+      "ja": "ふわぁ～あ……",
+      "zh": ""
+    },
+    {
+      "key": "328.0",
+      "line_index": 328,
+      "inline_index": 0,
+      "line_hash": "94ed3fb7",
+      "speaker": "？？？",
+      "ja": "んん……？　あんた達、誰～？",
+      "zh": ""
+    }
+  ]
+}

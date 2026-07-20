@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "c2577aa",
+      "speaker": "アポロ",
+      "ja": "これからの予定ですが、宴と平和の星にてナハト様よりパーティーのお誘いが来ております。幼甘祭を参考にした催しに参加して欲しいとのことです",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "3fde5841",
+      "speaker": "コハル",
+      "ja": "幼甘祭を参考に……ってことは、いっぱいお菓子があるのよね？　楽しそう！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "65f0be32",
+      "speaker": "{G_PlayerName}",
+      "ja": "前からあの星の菓子って派手で美味かったしな。もっと本気の菓子が出るなら、行くしかないな！",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "fd94104f",
+      "speaker": "ルミナ",
+      "ja": "で、でも……{G_PlayerName}くんとコハルちゃん、故郷の星に帰りたいんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "d5d6ec67",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺達の星に帰るのなんていつでもいいしな……飽きるまでは帰らないでいいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "c8290b5f",
+      "speaker": "コハル",
+      "ja": "そうね！　……あっ、もちろんルミナが嫌じゃなかったらだけど……！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "db0c307b",
+      "speaker": "ルミナ",
+      "ja": "嫌じゃ、ないよ……",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "3ce848c4",
+      "speaker": "ルミナ",
+      "ja": "嫌なわけ、ない……",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "c3d1bef0",
+      "speaker": "アポロ",
+      "ja": "マスター、どうかいたしましたか？　ご気分が優れないようであれば、お部屋に戻ってマッサージプログラムを起動いたしますが",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "cbaa808d",
+      "speaker": "ルミナ",
+      "ja": "もちろん……皆とずっと旅を続けるのは、楽しいよ。長く続いて欲しいって、何度か願いもした",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "2407cfa",
+      "speaker": "ルミナ",
+      "ja": "ずっとこのままいても……確かに、これはこれで……幸せだ、って感じるかも知れない。でも……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "fb0a002f",
+      "speaker": "ルミナ",
+      "ja": "でも、いつかは……終わりが来るから。終わりが来た時、今までのことを後悔しないために、動かないと",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "7f4a4254",
+      "speaker": "ルミナ",
+      "ja": "少しずつでも、休みながらでも、前に進まないと。だから……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "185161a6",
+      "speaker": "ルミナ",
+      "ja": "私、ここで止まれない。このままじゃ、いられないよ。起きないと……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "bf2f25fd",
+      "speaker": "アポロ",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "41190efa",
+      "speaker": "ルミナ",
+      "ja": "あの……あのねっ……！",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "3bf667b6",
+      "speaker": "ルミナ",
+      "ja": "例え夢でも……会えて良かった。嬉しかった……！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "7306c9de",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "3b6983b1",
+      "speaker": "アポロ",
+      "ja": "ワタシも、マスターと共に旅が出来て幸せでした",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "bb822ee5",
+      "speaker": "ルミナ",
+      "ja": "……アポロちゃん……バイバイ……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "d3d338d2",
+      "speaker": "雫",
+      "ja": "……少し、違いますね。私の望みが複雑で、機械ごときには理解出来なかったのでしょうか？　冷めて、正気に戻ってしまいました",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "75e951bc",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "585bc284",
+      "speaker": "雫",
+      "ja": "ルミナ様が男のことを忘れ、女王としての責務に専念し、星を統治すること。確かにそれはわたくしの理想です",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "a870a927",
+      "speaker": "雫",
+      "ja": "ですが、ルミナ様が感情を蔑ろにすることがあってはなりません。ご自身の感情は勿論、星全体やコハル様、例え男の感情であってもです",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "d2b6b32f",
+      "speaker": "雫",
+      "ja": "わたくしが救われたのは、ルミナ様の御心があってこそ。どんなに過酷な状況でも、いくら手からこぼれ落ちようとも、全てを最後まで諦めないのがルミナ様の強さであり、魅力なのです",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "6f62b524",
+      "speaker": "雫",
+      "ja": "わたくしが見たいのは、何かを諦めて夢を叶えるルミナ様ではございません。どんな物も諦めず、それでも夢を叶えられるよう、わたくしがお支えしたいのです",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "44440861",
+      "speaker": "雫",
+      "ja": "初恋に決着をつける、などという小さな願いをルミナ様が諦めるなど、あってはならない。星１つ程度では、ルミナ様の道を阻む器に足りません",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "10d08054",
+      "speaker": "雫",
+      "ja": "それにわたくしだって……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "938d0f86",
+      "speaker": "雫",
+      "ja": "……星に戻る準備をしろ、と言ったのに何をしているのですか貴方達は",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "f3d445f2",
+      "speaker": "２人",
+      "ja": "ルミナを自由にしてもらうよう、侵入して説得する準備！",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "2e5350fa",
+      "speaker": "雫",
+      "ja": "どうせ止まるのであれば、あの時に止まっていました。この程度の誘惑では、もう止まれません",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "20036dda",
+      "speaker": "ルミナ",
+      "ja": "雫…………",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "94cc05f1",
+      "speaker": "雫",
+      "ja": "ありがとうございました、こちらのルミナ様。いい夢を見させていただきました、現実へ戻らせていただきます",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "a5e58f5c",
+      "speaker": "ポラリス",
+      "ja": "城の中だけだと何かと不便ですからね、別宅も下見しておきましょうか？",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "78e24256",
+      "speaker": "{G_PlayerName}",
+      "ja": "別宅！？　そこまでしていいのか！？",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "2b569a86",
+      "speaker": "ポラリス",
+      "ja": "勿論です！　お抱えの建物はいくつかありますから、その中から選んでいただけるとスムーズですね！",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "f1b01b7c",
+      "speaker": "コハル",
+      "ja": "（……わかってる）",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "b47f855d",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ……迷うな。こんなに色んな場所があるのか！　見た目から選ぶか、立地から選ぶか……",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "ecf978ec",
+      "speaker": "ポラリス",
+      "ja": "コハル様はどんな条件がお好みですか？　交通条件が良い場所、周囲が静かで落ち着ける場所などございますよ！",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "e911b4b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルは自然が感じられる場所が好きだからな。公園の近くとかはどうだ？",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "da7c1c49",
+      "speaker": "コハル",
+      "ja": "（これは夢。どこかであたし達が進むのを止めて、別の暮らしで幸せになる、空想の中）",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "a58f56b2",
+      "speaker": "ポラリス",
+      "ja": "いいですね～！　近くに美味しいラップサンドを売ってるお店があるんですよ！　起きたらラップサンドを買って、公園でゆっくり朝ごはん、なんて憧れちゃうかも～！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "63576f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、何？　ラップサンドってなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "843d0c84",
+      "speaker": "コハル",
+      "ja": "（跳ね除けないといけない。すぐ目を覚まさなきゃいけない、拒まないといけない……）",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "5294c0f9",
+      "speaker": "",
+      "ja": "でも、出来ない。",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "fb796cb7",
+      "speaker": "客",
+      "ja": "コハルちゃん、冒険者のタマゴ募集だってよ！　チャンスじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "436a5a42",
+      "speaker": "コハル",
+      "ja": "うーん、大丈夫！　お父さん一人にしたら、この道具屋が心配だし！",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "fb229dbd",
+      "speaker": "",
+      "ja": "だって、あたし。",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "de43f8d8",
+      "speaker": "農夫",
+      "ja": "やっぱコハルちゃん、力持ちだよなあ。ただの力仕事じゃなくて、都会に行けばもっと良い仕事があるんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "83614a5d",
+      "speaker": "コハル",
+      "ja": "この村で十分ですよ～！　あたし、不器用で細かい作業とか苦手だから！",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "150547cb",
+      "speaker": "",
+      "ja": "今までずっと。",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "c11ca1af",
+      "speaker": "{G_PlayerName}",
+      "ja": "昨日の銃も、駄目だったんだよな……今度こそいけると思ったんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "8444e322",
+      "speaker": "コハル",
+      "ja": "急がなくていいじゃない！　焦ったって、いいこと無いわよ！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "7e5503db",
+      "speaker": "",
+      "ja": "止まる努力をしてきたんだもの。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "242c67c8",
+      "speaker": "APL-180",
+      "ja": "……申し訳ございません。マスターの現在の状況に対して、お力になれないようで……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "e59e2ad5",
+      "speaker": "コハル",
+      "ja": "ううん。アポロ……じゃなくて、AP……えー……は、悪くないわよ",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "b099ed9c",
+      "speaker": "",
+      "ja": "あれから少しして。宇宙船は終と始まりの星を離れ、宇宙の旅を開始した。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "5c7eb15f",
+      "speaker": "",
+      "ja": "コハルは気を取り直し、APL-180と会話をしながら、久しぶりのココアを雫と口にする。",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "5855f1cb",
+      "speaker": "コハル",
+      "ja": "うん、美味しい！　前と同じ味だわ！",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "c3a2871a",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "177ed65b",
+      "speaker": "コハル",
+      "ja": "ルミナがいないから聞くけど……前のアポロには、戻らないの？　どこかに記憶が残ってて、しばらく生活したら思い出したり……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "1d8afeaf",
+      "speaker": "雫",
+      "ja": "それは……期待したくなる気持ちはわかりますが、有り得ません。機械という物は人間と違って大抵、１か０なのです",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "839a8a35",
+      "speaker": "雫",
+      "ja": "記憶領域を回収しましたが、無事ではなかった。修復を試みましたが、不可能だった。……それで終わり、でしかありません",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "2c771af7",
+      "speaker": "コハル",
+      "ja": "だ、誰かリリアンの力を借りれば……",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "de65f472",
+      "speaker": "雫",
+      "ja": "時間を巻き戻すことができるリリアンでもいれば……可能かも知れませんが。そうでもなければ……出来ることは、精々再現止まりでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "e51e2df3",
+      "speaker": "雫",
+      "ja": "アポロは、生き物ではなく物。魂が無い存在で、もうこの世にアポロが残した物は無いのですから",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "f9f1b2bd",
+      "speaker": "コハル",
+      "ja": "……そう、なの……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "450110c",
+      "speaker": "APL-180",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "cf8ca1f3",
+      "speaker": "コハル",
+      "ja": "あっ……ごめんなさい！　あなたの前で、こんなこと話しちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "56a34130",
+      "speaker": "APL-180",
+      "ja": "いいえ、構いません。ワタシは機械ですので、お気になさらず",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "291117d",
+      "speaker": "コハル",
+      "ja": "そ、そう？　……もしアポロだったら、嫌味が１０個くらい飛んできそうだったけど……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "92a1e56",
+      "speaker": "APL-180",
+      "ja": "……つまり、皆様は現在AIロス、と呼ばれる状況に置かれているのですね",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "f94a7b",
+      "speaker": "コハル",
+      "ja": "AIロス……？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "542707da",
+      "speaker": "APL-180",
+      "ja": "ペットを亡くした時のような物です。AIに強く感情移入をした結果、罹患する人間は少なくありません",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "e30de265",
+      "speaker": "コハル",
+      "ja": "……ペット……",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "8a923260",
+      "speaker": "雫",
+      "ja": "普通のペットロスやAIロスとは比べ物になりません。……同じような発言は、ルミナ様にはしないようにしなさい",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "93e49aa0",
+      "speaker": "APL-180",
+      "ja": "……命令を受諾。かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "6a49fc10",
+      "speaker": "APL-180",
+      "ja": "今のワタシが、どれだけ前のAIの代わりになれるかわかりませんが、全力を尽くさせていただきます",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "463a1196",
+      "speaker": "コハル",
+      "ja": "……そうね！　最高級、最高性能のAIの力、頼りにしてるわ！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "2e9e69f7",
+      "speaker": "APL-180",
+      "ja": "……？　ワタシは最高級、最高性能とは言えません。虚偽の申告はAIポリシーに違反しています",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "2979ade0",
+      "speaker": "コハル",
+      "ja": "そ、そう……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "18696be",
+      "speaker": "雫",
+      "ja": "ルミナ様っ！",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "b75eb204",
+      "speaker": "ルミナ",
+      "ja": "ただい、ま……ごめんね、急に……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "2b20f3de",
+      "speaker": "コハル",
+      "ja": "ううん、無理もないわ。……大丈夫？　ルミナも、{G_PlayerName}も",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "31ba9188",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、俺は大丈夫だ",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "f9eecfce",
+      "speaker": "ルミナ",
+      "ja": "私も……落ち着いたよ。ごめんね、APL-180ちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "2a5b61c9",
+      "speaker": "APL-180",
+      "ja": "いえ……問題ございません",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "e747279a",
+      "speaker": "APL-180",
+      "ja": "ですが……ワタシを「ちゃん」と付けて呼ばれるのですね。呼称のひとつとして、記憶いたします",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "ad39d326",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えーぴーえるいちはちぜろ、って毎回呼ぶのはちょっと長くないか？　それにちゃんまでつけたら……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "3cb9ecc7",
+      "speaker": "APL-180",
+      "ja": "AI、と呼んでいただくのが初期設定ですが",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "fee735a3",
+      "speaker": "コハル",
+      "ja": "それもちょっと……何かいい名前思いつくまでは、APLって呼びましょっか……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "ed7cae",
+      "speaker": "",
+      "ja": "その後、皆でラウンジのソファーに座り数分後。短い通知音とともに、APL-180が口を開いた。",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "50dcb3",
+      "speaker": "APL-180",
+      "ja": "通達。次に着く星は、美と享楽の星です",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "3cd57d82",
+      "speaker": "APL-180",
+      "ja": "確認事項。データが更新されましたので、行きとは違うエネルギー供給ステーションを経由する事が可能です",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "d3c739a2",
+      "speaker": "APL-180",
+      "ja": "エネルギーの供給タイミングとしても、まだ早いですが……このルートでよろしいですか？",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "7285dc6d",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "f8c1b0ca",
+      "speaker": "",
+      "ja": "あなた達が辺境の星、と呼ぶ星に来なさい。これまでの道を引き返すように、同じ星を辿ると良いでしょう",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "c02e081f",
+      "speaker": "",
+      "ja": "今まであなた達が通ってきた星で、当機体が人類のことをどれだけ理解しているか、証明して差し上げます",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "edf571c7",
+      "speaker": "雫",
+      "ja": "いいのです。そのルートで",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "b7f6d3de",
+      "speaker": "APL-180",
+      "ja": "かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "4168ebe8",
+      "speaker": "{G_PlayerName}",
+      "ja": "あとどれくらいで着くんだ？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "a66bcefc",
+      "speaker": "APL-180",
+      "ja": "おおよそ３時間後です",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "6c8130b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "随分早いな！？",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "cb5727f6",
+      "speaker": "ルミナ",
+      "ja": "美と享楽の星は元々近い場所だし……星に帰って、宇宙船の性能も上げられたから……",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "32dc51f4",
+      "speaker": "雫",
+      "ja": "女王様のご助力があるのです。遊園地の出張工房を大きく上回るカスタマイズが出来るのは当然ですね",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "fb3b44ad",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……言われてみれば、確かに",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "3dd7c5ba",
+      "speaker": "ルミナ",
+      "ja": "それじゃあ、着くまでに……十分、準備しよう",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "6fb4c09c",
+      "speaker": "雫",
+      "ja": "はい、かしこまりました",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "effe97f4",
+      "speaker": "",
+      "ja": "正体のわからない、未知の技術が使われた機械。",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "244605ab",
+      "speaker": "",
+      "ja": "まだ攻撃されるとは限らないものの、十分な準備というのは可能なのだろうか？",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "fb6f09a4",
+      "speaker": "",
+      "ja": "３時間後……",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "87ebb768",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだか久しぶりな感じがするな……",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "eb91e83a",
+      "speaker": "コハル",
+      "ja": "そこまで時間経ってないはずだけどね。色々あったから……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "6d536f25",
+      "speaker": "{G_PlayerName}",
+      "ja": "星の外から見た感じ、街並みには特に変わりなかったけど……",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "123f1387",
+      "speaker": "コハル",
+      "ja": "何か、起きてるのかな……？",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "576938e2",
+      "speaker": "",
+      "ja": "全員であたりを見回す。……すぐに、街に起きている異変に気づいた。",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "aaac84c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "人がいない……",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "8f1e8ae7",
+      "speaker": "コハル",
+      "ja": "今って深夜だったりする？",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "949ce02a",
+      "speaker": "雫",
+      "ja": "いいえ。第一、この星は時間を問わず人の往来が絶えません",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "6d52bf7b",
+      "speaker": "ルミナ",
+      "ja": "前は、あんなに……",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "55e7bbbd",
+      "speaker": "ルミナ",
+      "ja": "……ひ、人がいっぱい、だったのに",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "942d4a14",
+      "speaker": "{G_PlayerName}",
+      "ja": "（前来たときはエロいことしてる奴らがいっぱいだったからな……）",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "a477c612",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、既に何かの攻撃を受けた後の可能性もある……よな",
+      "zh": ""
+    },
+    {
+      "key": "221.0",
+      "line_index": 221,
+      "inline_index": 0,
+      "line_hash": "bae66257",
+      "speaker": "",
+      "ja": "各々が武器を手にしながら、警戒する。……しかし、動く影も見えなければ、鳥の鳴き声ひとつしない。",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "c3bcc8e5",
+      "speaker": "コハル",
+      "ja": "もしかして、毒ガスが発生してて外に出られないとか……！",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "8c2baf2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "1f48e8f3",
+      "speaker": "雫",
+      "ja": "それならわたくし達もタダでは済みませんし……",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "d311a73a",
+      "speaker": "APL-180の通信",
+      "ja": "下船前に、大気には異常がないことを確認しています",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "6e3723e4",
+      "speaker": "コハル",
+      "ja": "そ、そっか……",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "67edcd92",
+      "speaker": "ルミナ",
+      "ja": "でも、じゃあなんで……？",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "f50b05dd",
+      "speaker": "？？？",
+      "ja": "あれぇ～っ！？♥",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "2b26c3a",
+      "speaker": "",
+      "ja": "人通りの無い静かな通りに、似つかわしくない黄色い声が響く。肩を跳ねさせ、弾かれるようにそちらを向いた。",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "c02b6066",
+      "speaker": "まこ",
+      "ja": "まこ、外歩いてる人今日初めて見たぁ～っ♥",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "5caba92d",
+      "speaker": "まこ",
+      "ja": "ねぇねぇ、今お暇っ？　まこに時間、ちょっとだけくれる？　お金出してもいいよ♥",
+      "zh": ""
+    }
+  ]
+}

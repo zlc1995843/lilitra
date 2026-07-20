@@ -1,0 +1,949 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "d0c0cfa8",
+      "speaker": "{G_PlayerName}",
+      "ja": "おおー……！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1784de86",
+      "speaker": "{G_PlayerName}",
+      "ja": "外から見ても中から見ても、しっかり直ってるな！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "fe5a6a89",
+      "speaker": "",
+      "ja": "時々何度か確認はしていたが、こうしてしっかりと乗船するのは久しぶり。",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "a2afe5b8",
+      "speaker": "",
+      "ja": "首を忙しく振りながら内装を確認してみたり、床を踏んでみたり。変わりない感触に、胸を撫で下ろした。",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "836feed3",
+      "speaker": "コハル",
+      "ja": "前キッチンは見たけど、もう全部の部屋の修理が終わってるの？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "f595be1f",
+      "speaker": "雫",
+      "ja": "はい。どの部屋も直っています",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "54184ccc",
+      "speaker": "ルミナ",
+      "ja": "なんだかこうして、ソファーに座るのも久しぶり……だね……",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "40eedbe7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、落ち着くな……",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "93d2aa21",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも、そんなことより気になってるのは……）",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "f57fdf7d",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "fb28af2",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ！",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "2d3345f",
+      "speaker": "",
+      "ja": "最も心配していたこと、アポロの無事。",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "4b774d77",
+      "speaker": "",
+      "ja": "廊下からアポロが現れ、ルミナたちと思わず駆け寄った。",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "598b906a",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃん……！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "e7ca258f",
+      "speaker": "コハル",
+      "ja": "良かった、無事だったのね！？　でも、いめちぇん、ってやつ？　なんだか色が……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "353c5305",
+      "speaker": "アポロ",
+      "ja": "初めまして、ゲストの皆様。この宇宙船の航行サポートAI、APL-180です",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "b9568ca3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……え？",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "45a4fbf7",
+      "speaker": "APL-180",
+      "ja": "快適で安全な旅をお約束いたします。何卒よろしくお願いいたします",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "104de2ca",
+      "speaker": "",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "448d59c7",
+      "speaker": "リデル",
+      "ja": "また面倒なことになったわね……。",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "3babede",
+      "speaker": "",
+      "ja": "リデル。世界のあらゆる出来事を本にして読んでおり、時折編集して改変しているリリアン。",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "df95296",
+      "speaker": "",
+      "ja": "強力な能力なのは間違いないが、本人以外は能力の詳細をあまり知らない。説明されたとしても変わった話し方で、理解は困難。",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "fac7f59d",
+      "speaker": "",
+      "ja": "どこかのページの狭間。リデルはため息を吐きながら、目前に開かれた本のページを擦った。",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "e1e1e3f4",
+      "speaker": "文章",
+      "ja": "『目前に現れたAIの様子に、表情を硬くする王女。顔を伏せる従者。困惑する機械士とその幼馴染。』",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "7ee31ce8",
+      "speaker": "リデル",
+      "ja": "失う物の無い、全てが揃ったハッピーエンドがいいのに。苦いのが好きな読者もいるだろうけど、あたしが好きなお菓子は、甘ぁいジャムがこぼれ落ちるビスケットだもの。",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "9b60c08e",
+      "speaker": "リデル",
+      "ja": "まだ間に合うわ。バッドエンドを辿りそうなら、別の本のページを差し込まないと……",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "d233ddbc",
+      "speaker": "",
+      "ja": "自然に他の物語を繋ぐため、リデルが先の文章を読もうとページをめくる。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "2fdb2f16",
+      "speaker": "文章",
+      "ja": "『これらを目の当たりにし、苦々しい顔をする者はその場にいる者だけではなかった。』",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "26f9ae75",
+      "speaker": "リデル",
+      "ja": "……？　他の登場人物が増えるのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "513ea84f",
+      "speaker": "文章",
+      "ja": "『数少ない、次元の壁を越える者。横槍を入れ、結果を捻じ曲げる者。』",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "b7f34d99",
+      "speaker": "文章",
+      "ja": "『今、まさにこの文章を読んでいる者。藪をつついたその者は、蛇を出したために死の運命を辿―――",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "f0c8f65f",
+      "speaker": "？？？",
+      "ja": "読みましたね？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "29aaa16",
+      "speaker": "リデル",
+      "ja": "……っ！",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "11e38cec",
+      "speaker": "？？？",
+      "ja": "本を閉じましたか。別に構いません。互いに干渉出来なくなる代わりに、しばらく動けないでしょう。……死んだも同然ですね",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "1ef77a17",
+      "speaker": "？？？",
+      "ja": "アナタの能力も興味深いですが、どうやら当機体の目的には不向きそうですし……邪魔をされるほうが厭ですので",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "8433a23",
+      "speaker": "？？？",
+      "ja": "アナタに名前で検索される恐れがあって名乗れませんでしたが、これでようやく名乗れますね",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "3d215de2",
+      "speaker": "モノリス",
+      "ja": "我が名はモノリス。全ての始まり。そして、人類最大の味方です。以後お見知りおきを",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "689ec941",
+      "speaker": "ティティアの声",
+      "ja": "リデル様～、おやつのページ見つかったので持ってきましたよ～",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "36fae089",
+      "speaker": "ティティア",
+      "ja": "あれ？　リデル様は……？",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "896a652a",
+      "speaker": "ユース",
+      "ja": "お～い、どこいったの～？　……まったく、いっつも気まぐれなんだから……",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "1240357e",
+      "speaker": "雫",
+      "ja": "……わたくしも、AI部分を可能な限り全力で修復するよう伝えたのですが……",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "27c6ea10",
+      "speaker": "雫",
+      "ja": "修復不可なまでに損傷しており、再インストールする他ありませんでした。お伝えすることが出来ず……申し訳ございません",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "fbd59bcd",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっと……つまり、同じアポロに見えるけど……別人ってこと、か？",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "b6d54cb3",
+      "speaker": "コハル",
+      "ja": "記憶喪失……みたいな感じよね？　そのうち治るわよ、きっと",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "e211a18d",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、それは多分……",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "915ea1cf",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "c08d7a75",
+      "speaker": "コハル",
+      "ja": "え、え？　……無理、なの？",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "94105a16",
+      "speaker": "APL-180",
+      "ja": "前任のAIがいたのですね。ご安心ください、以前の航行ログ等はワタシも学習しています",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "fbc12fdb",
+      "speaker": "APL-180",
+      "ja": "ログに残っていない日常的な部分などは引き継げていませんが、同型のAIですので同一存在と言って差し支えありません。安全で快適な航行に支障は……",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "1556b42e",
+      "speaker": "{G_PlayerName}",
+      "ja": "！　ルミナっ！",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "1b43a50e",
+      "speaker": "APL-180",
+      "ja": "……マスター？",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "7e1e0ea3",
+      "speaker": "",
+      "ja": "背後にいたルミナが突然走りだす。恐らく、自分の部屋へと向かったのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "9c6f76d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょっと、行ってくる",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "6f7a5cf9",
+      "speaker": "コハル",
+      "ja": "あ、{G_PlayerName}まで……！",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "1fb3e639",
+      "speaker": "コハル",
+      "ja": "……雫は、追わなくていいの……？",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "b653f413",
+      "speaker": "雫",
+      "ja": "……そう、ですね……",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "f3f18260",
+      "speaker": "雫",
+      "ja": "あの男に、任せます。ルミナ様も、そちらのほうが気が楽なはずです",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "67fa6992",
+      "speaker": "コハル",
+      "ja": "……そう、ね",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "7b9606d9",
+      "speaker": "APL-180",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "234.0",
+      "line_index": 234,
+      "inline_index": 0,
+      "line_hash": "3a859ea1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "9ac9e4ef",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}、くん",
+      "zh": ""
+    },
+    {
+      "key": "238.0",
+      "line_index": 238,
+      "inline_index": 0,
+      "line_hash": "111e8afa",
+      "speaker": "",
+      "ja": "ルミナに追いつくと、ルミナはベッドの上で突っ伏すように寝ていた。",
+      "zh": ""
+    },
+    {
+      "key": "240.0",
+      "line_index": 240,
+      "inline_index": 0,
+      "line_hash": "704170d",
+      "speaker": "",
+      "ja": "こちらに顔を向けずにベッドに埋めているが……明らかに涙声で、顔を隠す意味を為していない。",
+      "zh": ""
+    },
+    {
+      "key": "242.0",
+      "line_index": 242,
+      "inline_index": 0,
+      "line_hash": "e4881f44",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……咄嗟に追ってきたけど、１人にしたほうがいいかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "244.0",
+      "line_index": 244,
+      "inline_index": 0,
+      "line_hash": "62e95d80",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あのさ、俺……部屋、出ていったほうがいいか？",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "3561c918",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "4289558b",
+      "speaker": "ルミナ",
+      "ja": "うう、ん。このまま……ちょっと、いて",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "11747386",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……わかった",
+      "zh": ""
+    },
+    {
+      "key": "252.0",
+      "line_index": 252,
+      "inline_index": 0,
+      "line_hash": "2fe3d4a6",
+      "speaker": "",
+      "ja": "しばらく、無言の時間が続く。空気が流れる音と、ルミナがたまに鼻をすする音だけが部屋に響いた。",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "4a5d0f80",
+      "speaker": "",
+      "ja": "何か飲み物でも用意するか、と思った頃、ルミナが口を開く。",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "9e4a5acb",
+      "speaker": "ルミナ",
+      "ja": "…………{G_PlayerName}くん",
+      "zh": ""
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "c57e290d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……どうかしたか？",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "77f41084",
+      "speaker": "ルミナ",
+      "ja": "月食、って……知ってる？",
+      "zh": ""
+    },
+    {
+      "key": "262.0",
+      "line_index": 262,
+      "inline_index": 0,
+      "line_hash": "ab3b7bde",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ん？　ゲッショク？　いや、知らないけど……",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "a2bd9d1d",
+      "speaker": "ルミナ",
+      "ja": "昔ね……アポロちゃんが、教えてくれたんだ。私が、落ち込んでた時……",
+      "zh": ""
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "4566fe21",
+      "speaker": "",
+      "ja": "あれは、訓練がうまくいかなくて……いじけて、この部屋で今みたいに……ベッドでふて寝してた時だったな。",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "1d6c6eb8",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "bdb13c84",
+      "speaker": "アポロ",
+      "ja": "……マスター",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "faf9937f",
+      "speaker": "私",
+      "ja": "ん……どうかした？　アポロちゃん",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "ad19e6ec",
+      "speaker": "アポロ",
+      "ja": "月食、というものをご存知ですか",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "9150bc82",
+      "speaker": "私",
+      "ja": "月食……？　聞いたことは……あるかも。でも、知らない……かな",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "1712df8e",
+      "speaker": "アポロ",
+      "ja": "月食とは……衛星である月と恒星の間に、この星が入った時。この星の影が、月に重なることで月が欠けて見える現象のことです",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "ad18546f",
+      "speaker": "アポロ",
+      "ja": "縁起が良いとする説と、悪いとする説があります。現在は単に珍しい現象なので、発生した際は多くの人間が喜んで写真を撮るイベントですね",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "e981d8bb",
+      "speaker": "私",
+      "ja": "そう、なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "d3cd7f60",
+      "speaker": "アポロ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "c4a2e4be",
+      "speaker": "私",
+      "ja": "えっと……それ、で……？",
+      "zh": ""
+    },
+    {
+      "key": "302.1",
+      "line_index": 302,
+      "inline_index": 1,
+      "line_hash": "9a106238",
+      "speaker": "アポロ",
+      "ja": "……以上です",
+      "zh": ""
+    },
+    {
+      "key": "304.0",
+      "line_index": 304,
+      "inline_index": 0,
+      "line_hash": "f78bfb70",
+      "speaker": "私",
+      "ja": "えっ……",
+      "zh": ""
+    },
+    {
+      "key": "306.1",
+      "line_index": 306,
+      "inline_index": 1,
+      "line_hash": "606e0b57",
+      "speaker": "アポロ",
+      "ja": "申し訳ございません、会話プログラムの更新が不十分でした。知識を共有するところから、マスターの感情状況の改善を試みたのですが……",
+      "zh": ""
+    },
+    {
+      "key": "308.0",
+      "line_index": 308,
+      "inline_index": 0,
+      "line_hash": "34534091",
+      "speaker": "私",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "310.0",
+      "line_index": 310,
+      "inline_index": 0,
+      "line_hash": "9ce203aa",
+      "speaker": "私",
+      "ja": "……うっ……ふふ……",
+      "zh": ""
+    },
+    {
+      "key": "312.1",
+      "line_index": 312,
+      "inline_index": 1,
+      "line_hash": "f948b3f0",
+      "speaker": "アポロ",
+      "ja": "ま、マスター？　泣いているのですか？　それとも笑われて……？",
+      "zh": ""
+    },
+    {
+      "key": "314.0",
+      "line_index": 314,
+      "inline_index": 0,
+      "line_hash": "a720a50d",
+      "speaker": "私",
+      "ja": "ふふっ……ううん……ごめん、ね。こんな私のために、誰かが何かしてくれることが嬉しくて……",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "a8fa521",
+      "speaker": "私",
+      "ja": "そばにいてくれて……ありがとう、アポロちゃん……",
+      "zh": ""
+    },
+    {
+      "key": "327.1",
+      "line_index": 327,
+      "inline_index": 1,
+      "line_hash": "d80ff384",
+      "speaker": "ルミナ",
+      "ja": "ふふ……雫もいるのに、今考えても失礼だなって思うけど……雫は、仕事が護衛だから……どうしても、その時は友達だとは思えなくって……",
+      "zh": ""
+    },
+    {
+      "key": "329.1",
+      "line_index": 329,
+      "inline_index": 1,
+      "line_hash": "b74227ed",
+      "speaker": "ルミナ",
+      "ja": "アポロちゃんは、私の初めての……",
+      "zh": ""
+    },
+    {
+      "key": "332.1",
+      "line_index": 332,
+      "inline_index": 1,
+      "line_hash": "fa81e644",
+      "speaker": "ルミナ",
+      "ja": "友達だと、思ってた……から……っ",
+      "zh": ""
+    },
+    {
+      "key": "334.0",
+      "line_index": 334,
+      "inline_index": 0,
+      "line_hash": "3a859ea1",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ……",
+      "zh": ""
+    },
+    {
+      "key": "336.1",
+      "line_index": 336,
+      "inline_index": 1,
+      "line_hash": "6cb6dd3f",
+      "speaker": "ルミナ",
+      "ja": "本当はね……前から、薄々……気づいてたの。アポロちゃんが……直らないかも、って……",
+      "zh": ""
+    },
+    {
+      "key": "338.1",
+      "line_index": 338,
+      "inline_index": 1,
+      "line_hash": "db92d494",
+      "speaker": "ルミナ",
+      "ja": "だって、直せるなら……雫が、すぐ言うはずだから。何も言わないってことは……でも……",
+      "zh": ""
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "99cbd42c",
+      "speaker": "ルミナ",
+      "ja": "信じて、いたくて……私もわざと、目を逸らしてた……",
+      "zh": ""
+    },
+    {
+      "key": "343.0",
+      "line_index": 343,
+      "inline_index": 0,
+      "line_hash": "a053e94f",
+      "speaker": "",
+      "ja": "アポロの喪失は、{G_PlayerName}自身にも少なからず衝撃を与えていた。",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "b59bf625",
+      "speaker": "",
+      "ja": "しかし、ルミナにとっては……幼い頃から、自分を支えていた親友のような存在。喪失と言う短い言葉では表しきれない、深い傷を残していた。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "d203b6bb",
+      "speaker": "",
+      "ja": "その傷が少しでも癒えるようにと願いを込めながら、{G_PlayerName}は静かにルミナの頭を撫でた。",
+      "zh": ""
+    }
+  ]
+}

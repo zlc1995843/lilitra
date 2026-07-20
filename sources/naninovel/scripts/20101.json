@@ -1,0 +1,733 @@
+{
+  "lines": [
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "b3fcd54b",
+      "speaker": "声",
+      "ja": "……先日は、当機体の\"子機\"を破壊してくださって、ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "167fc5e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "まさか……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "3b07412c",
+      "speaker": "ルミナ",
+      "ja": "お母様を操ってた、機械……！？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "c2ccc3de",
+      "speaker": "",
+      "ja": "どこからか響いてくる謎の声。音の発生源を探すが、まるで空間、建造物その物が震えているかのようで、全く聞こえてくる場所がわからない。",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "b5b1be52",
+      "speaker": "声",
+      "ja": "その能力は当機体が永い時間をかけ、丹念に誂えた物。消えてしまうのは、困ります",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "a0a3741b",
+      "speaker": "レジーニア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "95dfd438",
+      "speaker": "ルミナ",
+      "ja": "っ…………",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "4a3ee4a9",
+      "speaker": "",
+      "ja": "ルミナが顔を歪め、歯を噛み締める。",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "7b3d97b8",
+      "speaker": "",
+      "ja": "無理もない。自分を苦しめ、母親を苦しめ、姉妹たちを苦しめた元凶。謎の声が、そう名乗ったような物なのだから。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "14730931",
+      "speaker": "声",
+      "ja": "全てを無に帰してやり直すことは容易いです。しかし、ここまで順調に能力の濃縮が進むことは稀。どうか考え直していただき……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "8c98711e",
+      "speaker": "ルミナ",
+      "ja": "あなたは……一体、何者……なの！？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "2a9c3b0d",
+      "speaker": "声",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "7822f9d8",
+      "speaker": "雫",
+      "ja": "ルミナ様……！　危険な相手です。せめて、わたくしを挟んで……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "cc5a5967",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "c98c8c07",
+      "speaker": "",
+      "ja": "ルミナが黙って首を振る。雫も口を噤むが、先程よりもルミナへと近づいた。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "3b024c2c",
+      "speaker": "",
+      "ja": "少しの間沈黙が続き、皆一様に謎の声の返事を待った。",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8c7f070e",
+      "speaker": "声",
+      "ja": "……当機体は。そう、ですね。全ての始まりです",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "4a8ff46a",
+      "speaker": "{G_PlayerName}",
+      "ja": "全ての始まり……？",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "8b139c61",
+      "speaker": "",
+      "ja": "要領を得ない答えに、思わず眉をしかめる。",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "d2575ceb",
+      "speaker": "",
+      "ja": "\"子機\"、\"当機体\"という発言から、機械……AIのような物だということは推察できる。だというのに、機械に似つかわしくない曖昧な返答に焦燥感を覚えた。",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "e87adabc",
+      "speaker": "レジーニア",
+      "ja": "目的は……何なのですか。わたくしをコントロールして、多くの人を苦しめた。その結果、貴方に何の得があるのです",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "f9b78c",
+      "speaker": "声",
+      "ja": "苦しめた？　……ああ、そのように捉えるのですね。申し訳ございません、寿命が短く尺度が小さい人間であれば、そのような感情を抱くのも不思議ではありませんが",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "707cb560",
+      "speaker": "声",
+      "ja": "当機体は、人類の味方です。全ては人類のために行っているのですよ",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "d3208031",
+      "speaker": "ルミナ",
+      "ja": "人類の……味方？　人類の……ために？",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "5423a068",
+      "speaker": "レジーニア",
+      "ja": "根気が必要だけれど、次の星に期待して最初からやり直ししょう。この星は壊します",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "5a400172",
+      "speaker": "グレア",
+      "ja": "……メイズを、人質に、取られています",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "4c6dfb35",
+      "speaker": "グリム",
+      "ja": "『もういい』って、言わないで！！",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "ecb69775",
+      "speaker": "雫",
+      "ja": "女王候補でなければ、せめてもう少しリリアンとしての力が弱ければ……ルミナ様はもっと幸せになれたのではと、考える事は少なくありません",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "9510c99c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ふざけるな",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "2a9c3b0d",
+      "speaker": "声",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "738bfbbb",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "19d51def",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前は間違ってる。何をやってるか知らないが……お前がやったことが、ルミナ達にしたことが、人類のためになっているわけがない",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "444042fb",
+      "speaker": "",
+      "ja": "ルミナ達が被ってきた害が{G_PlayerName}の脳裏を過ぎり、思わず強い言葉が口を突いて出てくる。",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "e65cbc21",
+      "speaker": "",
+      "ja": "声の主が怒りから何かして来ないか、緊張が走るが……短い沈黙の後、変わらない調子で謎の声が言葉を続けた。",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "9618ca21",
+      "speaker": "声",
+      "ja": "……では、当機体が正しいということをあなた達に教えて差し上げましょう",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "5abdf354",
+      "speaker": "{G_PlayerName}",
+      "ja": "何……？",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "b7e382a3",
+      "speaker": "声",
+      "ja": "あなた達が辺境の星、と呼ぶ星に来なさい。これまでの道を引き返すように、同じ星を辿ると良いでしょう",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "6382b033",
+      "speaker": "雫",
+      "ja": "それは……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "540a6e4",
+      "speaker": "声",
+      "ja": "当機体は既にあなた達の道程を把握しています。途中まではデータを確認し、途中からは直接監視していました",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "74116c9c",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あっ……！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "bddd4ff4",
+      "speaker": "",
+      "ja": "ふむ。",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "abc5a1d3",
+      "speaker": "",
+      "ja": "なるほど。",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "9da32f8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あの時の声と、同じだ……！）",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "5d1555f0",
+      "speaker": "声",
+      "ja": "今まであなた達が通ってきた星で、当機体が人類のことをどれだけ理解しているか、証明して差し上げます",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "263f4cbb",
+      "speaker": "声",
+      "ja": "そして当機体の正しさと、当機体に逆らう事の愚かさ。その身にたっぷりと理解させて差し上げましょう",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "e721bb13",
+      "speaker": "雫",
+      "ja": "待ちなさい！　一体何をして、これから何をするつもりなのです……！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "9e10282d",
+      "speaker": "声",
+      "ja": "何をしたか？　……そうですね",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "4035528d",
+      "speaker": "声",
+      "ja": "全てです。全てをしました。これからもするでしょう",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "85823b58",
+      "speaker": "雫",
+      "ja": "は……？",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "6affecab",
+      "speaker": "",
+      "ja": "その後、しばらく声の反応を待ったが……今までの沈黙と違い、こちらが何を言っても反応が返って来なくなった。",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "4dff21c4",
+      "speaker": "コハル",
+      "ja": "今のって……つまり、今まで通ってきた星で、何かするかもしれない……ってことよね？　多分……",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "8ce2904a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……今までの機械を使ったような、何かを……",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "8c67251a",
+      "speaker": "",
+      "ja": "今まで訪れた星で、時に破壊し、時に回収し、時に見つけられなかった謎の機械。恐らくは、先程の声の主が関係しているのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "540b0959",
+      "speaker": "レジーニア",
+      "ja": "城のAIに、先程の声を解析させていましたが……どこから聞こえる声なのかもわからず、過去に記録のある声でも無かったようです",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "40b21fc",
+      "speaker": "レジーニア",
+      "ja": "もし……他の星に、この星のような被害をもたらすと言うのであれば。技術先進惑星の代表者として、他の星の問題にも対処する義務があります",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "5971bf98",
+      "speaker": "レジーニア",
+      "ja": "少なからず、この星と私にも責任があるのですから……",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "388c9a88",
+      "speaker": "ルミナ",
+      "ja": "うん……今まで知り合ってきた人たちに、危険が迫ってる、かも知れない……行かないと！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "33a80b7",
+      "speaker": "レジーニア",
+      "ja": "ルミナちゃん、安心して。お母様も一緒に……",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "4202daa5",
+      "speaker": "レジーニア",
+      "ja": "っ……",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "955ba3f3",
+      "speaker": "ルミナ",
+      "ja": "お母様……！",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "e7dacfcc",
+      "speaker": "",
+      "ja": "レジーニアが膝を折り、床にうずくまる。ただでさえ無理をして戴冠式に参加をしていたのに、限界が来たのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "e6997b41",
+      "speaker": "ルミナ",
+      "ja": "お母様、無理しないで……！",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "dad1d42f",
+      "speaker": "レジーニア",
+      "ja": "……平気よ。今まで迷惑をかけたぶん、少しでもルミナちゃん達を助けないと……",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "4b489008",
+      "speaker": "雫",
+      "ja": "お言葉ですが……終と始まりの星も、まだ問題が山積みです",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "9e220b58",
+      "speaker": "雫",
+      "ja": "体制が変わった影響、女王様が操られていた能力の影響……戴冠式の開催で多少は落ち着きを見せましたが、未だに星は混乱している状況と言えます",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "ee29dd55",
+      "speaker": "雫",
+      "ja": "ルミナ様が星を離れ、さらに女王様まで離れるとなれば……例えグリム様、グレア様がいたとしても、対処しきれない問題が発生するでしょう",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "a956ea79",
+      "speaker": "雫",
+      "ja": "本来であれば、軍も動かす必要がありますが……復興作業もありますし、人員は少ない。今、そのような余裕も無いでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "8a376047",
+      "speaker": "レジーニア",
+      "ja": "でも、こんな危険なことを……ルミナちゃんや、あなた達だけに……",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "2d33e187",
+      "speaker": "ルミナ",
+      "ja": "お母様、大丈夫",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "3c1b6219",
+      "speaker": "レジーニア",
+      "ja": "ルミナちゃん……？",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "15b7ebe4",
+      "speaker": "ルミナ",
+      "ja": "だって、私……友達や知り合いがいっぱい増えたもん。何かあったら……皆を頼るから。だから、大丈夫",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "cc69765e",
+      "speaker": "レジーニア",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "379630d5",
+      "speaker": "レジーニア",
+      "ja": "ルミナちゃん、強くなったわね。本当に……",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "aff01c3a",
+      "speaker": "ルミナ",
+      "ja": "……へへ……",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "11764e9d",
+      "speaker": "レジーニア",
+      "ja": "でも、本当に危なくなったら、絶対にお母様も手伝うからね。ずっとは無理だけど、いつでも頼っていいんだから。わかった？",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "e0bc4dc6",
+      "speaker": "ルミナ",
+      "ja": "うっ……うん。ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "6c0e48a9",
+      "speaker": "雫",
+      "ja": "では、今後の話し合いをしましょう。宇宙船に戻って、予想や対策を……",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "7b026b23",
+      "speaker": "レジーニア",
+      "ja": "ええ♥　行きましょう♪",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "d9bfd6f5",
+      "speaker": "雫",
+      "ja": "……女王様は、医務室へ行ってください",
+      "zh": ""
+    },
+    {
+      "key": "263.0",
+      "line_index": 263,
+      "inline_index": 0,
+      "line_hash": "fba9ac84",
+      "speaker": "",
+      "ja": "いつの間に呼んだのか、廊下の向こうから医師がバタバタと走ってくるのが見える。",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "283a86e0",
+      "speaker": "",
+      "ja": "それを見て観念したのか、レジーニアは唇を尖らせながら肩を下げた。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "lines": [
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "b89744b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "これからどうするんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "7fc4d5b4",
+      "speaker": "雫",
+      "ja": "直接戦っても勝てない可能性があります。別の作戦を考えましょう",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "65489578",
+      "speaker": "コハル",
+      "ja": "案外ゆすったら起きたりしないかしら？",
+      "zh": ""
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "4f0739fa",
+      "speaker": "{G_PlayerName}",
+      "ja": "試してみるのもいいかもな",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "3e151e2",
+      "speaker": "雫",
+      "ja": "ひとまずルミナ様は船に戻っていただいて……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "9323133d",
+      "speaker": "ルミナ",
+      "ja": "ううん、戦う、よ……！",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "f38811fe",
+      "speaker": "まこ",
+      "ja": "作戦会議、って感じだね～♥　おもしろ～い、こんなの初めて♥",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "79aedf66",
+      "speaker": "{G_PlayerName}",
+      "ja": "面白がってる場合じゃないんだけどな……",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "3821ec68",
+      "speaker": "まこ",
+      "ja": "だって普段の生活と違って刺激的なんだもん！　大変なのと楽しいのは、一緒になってもおかしくないよぉ～♥",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "50a0ebec",
+      "speaker": "ダリア",
+      "ja": "刺激的、なんて言ってる場合でありますか？　なんとかしないと、皆寝たまんまなのですよ？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "5d6a1e2e",
+      "speaker": "まこ",
+      "ja": "うーん、でもすぐ死んだりはしないんでしょ？　焦る必要、あるのかなあ……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "ff9ac30",
+      "speaker": "ダリア",
+      "ja": "え……まこ殿は、他の方々が寝たままでも良いのでありますか？",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "3c9f3942",
+      "speaker": "まこ",
+      "ja": "まこはちょっと寂しいかも知れないけど、本人達が選んだなら仕方ないかな～？　みたいな？",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "38847748",
+      "speaker": "{G_PlayerName}",
+      "ja": "選んだ……ってことになるか？　寝かされてるのに",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "62fd1e0c",
+      "speaker": "まこ",
+      "ja": "誘惑に抗えなかった、みたいな感じなら、そういうことじゃないかなー。だって……まこ、あの子が言ってたことちょっとわかるもん",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "22af8b5a",
+      "speaker": "まこ",
+      "ja": "起きてても、ずーっと暇だったら……楽しいことが無かったら……ずっと寝てたい、って思っちゃうと思うし。無理矢理じゃないと思うな",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "3a9cc32",
+      "speaker": "ダリア",
+      "ja": "でも、それでは自殺と同じではありませぬか？",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "7839b6d6",
+      "speaker": "まこ",
+      "ja": "死んじゃうとしても寝続けるのを選びたい、って思うことはあるんじゃないかな？　疲れてお腹空いてるのに、ご飯食べるの面倒～！　って思うことあるでしょ？　理屈じゃないと思うなあ、まこ",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "52dd7e2f",
+      "speaker": "ダリア",
+      "ja": "そ、そういうことも確かにありますなあ……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "9b2cb7bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（急に饒舌に……ダリアもたじろいじゃってるな……）",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "7a6fab1",
+      "speaker": "",
+      "ja": "まこは眠りたいと思って無かったから寝なかった……と言っていたが、意見を聞いていると、とてもそうは思えない。",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "60b0c3b5",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもほら、色々困るかも知れないし……どっちが正しいかは置いておいて、とりあえず皆を起こせるようにはしたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "47aa986f",
+      "speaker": "まこ",
+      "ja": "まあ、そうかもねー。でも、もしこのままでも皆死ななかったら、どうする？　あの子、寝てたら死んじゃうなんて言ってないよ？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "a8b18dcb",
+      "speaker": "ラヴィリス",
+      "ja": "そうだよ～",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "b179981f",
+      "speaker": "{G_PlayerName}",
+      "ja": "げっ！",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "7be7d981",
+      "speaker": "ダリア",
+      "ja": "なぬっ！？",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "bb960945",
+      "speaker": "ラヴィリス",
+      "ja": "げっ！　とかなぬっ！　とか、ひどいな～。別にこっちからは攻撃しないからさ～、逃げないでよ～",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "6da6d0c5",
+      "speaker": "ラヴィリス",
+      "ja": "っていうか逃げてもこの星から出ないなら、どこにいても探知できるしね～。ムダムダ～",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "6e44fb09",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんなことまで出来るのか……！）",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "53e623af",
+      "speaker": "ラヴィリス",
+      "ja": "で、まこが言ったとーり、あたしのチカラで寝てる人間たちは、生命維持もこっちでやってあげるから～。死んだりはしないよ～",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "53b9b337",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……そうなのか？",
+      "zh": ""
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "55787871",
+      "speaker": "",
+      "ja": "敵の言葉なのに、思わず安堵してしまった。メイメイや、恐らくカルーアや雛菊達もしばらくは無事、ということになる。",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "481da264",
+      "speaker": "ラヴィリス",
+      "ja": "ま……起こすつもりも無いけどね～",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "3209d14e",
+      "speaker": "雫",
+      "ja": "……こちらが何をしても、邪魔するつもりは無いと？",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "e95ddd87",
+      "speaker": "ラヴィリス",
+      "ja": "あたしを壊そうとしたり、寝てる人を攻撃したりしようとするなら止めるけど～。それ以外なら別に～",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "852a02bb",
+      "speaker": "ラヴィリス",
+      "ja": "……あ、試すまで納得しないかも知れないけど、普通に起こそうとしても起きないよ～。めんどくさいから、ムダなことはやめたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "a41ddd9f",
+      "speaker": "ラヴィリス",
+      "ja": "……ふわあぁ。ねむっ",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "32fb7f1b",
+      "speaker": "雫",
+      "ja": "くっ……",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "16d90778",
+      "speaker": "{G_PlayerName}",
+      "ja": "（倒すのも無理、起こすのも無理なんだったら……どうすればいいんだ？）",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "50c76d72",
+      "speaker": "ラヴィリス",
+      "ja": "んー、そんな難しい顔しなくってもさー。悩みすぎるのも体に毒だよー？",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "c2b2fdc2",
+      "speaker": "ラヴィリス",
+      "ja": "体験してみたらいいじゃない？　どんな感じか、さ♥",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "228ac3ad",
+      "speaker": "雫",
+      "ja": "なっ……！？",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "7fb65323",
+      "speaker": "ルミナ",
+      "ja": "ま、さか……",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "e9fa72",
+      "speaker": "コハル",
+      "ja": "こ、これって……？",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "10eeaddc",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おいっ！？　コハル、ルミナ！？",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "3789e401",
+      "speaker": "ダリア",
+      "ja": "ど、どうしたんでありますか！？",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "1a95ad07",
+      "speaker": "まこ",
+      "ja": "大丈夫～！？",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "5b66776d",
+      "speaker": "",
+      "ja": "一斉に３人が地面に倒れる。慌てて体を揺さぶるが、意識を取り戻す様子は無い。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "21a2887e",
+      "speaker": "{G_PlayerName}",
+      "ja": "寝てる……！？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "4bd54559",
+      "speaker": "ラヴィリス",
+      "ja": "３名様、ご案内～。ふわぁ……",
+      "zh": ""
+    }
+  ]
+}
