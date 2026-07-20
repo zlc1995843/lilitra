@@ -1074,6 +1074,7 @@ def main() -> int:
     parser.add_argument("--model", default="deepseek-v4-pro")
     parser.add_argument("--ids", help="comma separated character ids")
     parser.add_argument("--adv", help="comma separated adv ids")
+    parser.add_argument("--scripts", help="comma separated script bundle names (e.g. main story 10101)")
     parser.add_argument("--limit", type=int)
     parser.add_argument("--chunk-size", type=int, default=50)
     parser.add_argument("--parallel", type=int, default=1)
@@ -1100,6 +1101,33 @@ def main() -> int:
             names[char_id] = name
     bundles = load_catalog(runtime_root)
     full_manifest = build_story_manifest(stories, names, bundles)
+    script_filter = {part.strip() for part in args.scripts.split(",") if part.strip()} if args.scripts else None
+    extra_scripts = set(script_filter or [])
+    translations_dir = repo_root / "translations/naninovel/scripts"
+    if translations_dir.exists():
+        extra_scripts.update(path.stem for path in translations_dir.glob("*.json"))
+    if extra_scripts:
+        known_scripts = {entry["script"] for entry in full_manifest}
+        for base in sorted(extra_scripts):
+            if base in known_scripts:
+                continue
+            script_bundle = bundles.get(base)
+            if not script_bundle:
+                if script_filter and base in script_filter:
+                    print(f"script not found in catalog: {base}", file=sys.stderr)
+                continue
+            full_manifest.append(
+                {
+                    "script": base,
+                    "bundle": script_bundle,
+                    "url": CLOUDFRONT_SCRIPT_BASE + script_bundle,
+                    "character_id": 0,
+                    "character_name": "",
+                    "adv_id": 0,
+                    "story_name": "",
+                    "source": "catalog",
+                }
+            )
 
     write_name_table(repo_root, names, full_manifest)
     if args.translate_names:
@@ -1117,6 +1145,8 @@ def main() -> int:
         return 0
 
     manifest = list(full_manifest)
+    if script_filter is not None:
+        manifest = [item for item in manifest if item["script"] in script_filter]
     if char_filter is not None:
         manifest = [item for item in manifest if int(item["character_id"]) in char_filter]
     if adv_filter is not None:
