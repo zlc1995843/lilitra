@@ -1,0 +1,733 @@
+{
+  "lines": [
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "b7bb6f81",
+      "speaker": "{G_PlayerName}",
+      "ja": "アルフ、そっちに行ったぞ！",
+      "zh": "阿尔夫，朝那边去了！"
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "e3793144",
+      "speaker": "アルフ",
+      "ja": "オッケ～♪",
+      "zh": "好嘞～♪"
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "82c8138e",
+      "speaker": "",
+      "ja": "こちらへと飛びかかってきたモンスターを、アルフが見事に爆風で吹き飛ばす。",
+      "zh": "朝这边扑来的怪兽，被阿尔夫用爆炸风一下子吹飞了。"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "21213da",
+      "speaker": "",
+      "ja": "舞台用と違って、戦闘用の爆弾もしっかりと持ち歩いているようだ。",
+      "zh": "和舞台用那种不一样，他好像随身都带着战斗用的炸药呢。"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "7b9f1f81",
+      "speaker": "アルフ",
+      "ja": "あ、次が来る……誰かお願いできるかな？",
+      "zh": "啊，又来了……谁能搭把手？"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "e2f59546",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ベル以外は後ろのモンスターと戦ってるな……）",
+      "zh": "（除了贝尔，其他人都在和后面的怪物战斗……）"
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "ba81702a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベル！　頼んだ！",
+      "zh": "贝尔！拜托了！"
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "f38ae296",
+      "speaker": "ベル",
+      "ja": "お、おう！？　わがはいか！？",
+      "zh": "哦、哦！？是我吗！？"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "fc072394",
+      "speaker": "ベル",
+      "ja": "え、え～と……あわわ……",
+      "zh": "呃，那个……啊哇哇……"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "e69b14d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベル！？",
+      "zh": "贝尔！？"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "fa5caff2",
+      "speaker": "ベル",
+      "ja": "わっ、わがはい……",
+      "zh": "哇，我……"
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "26ec52ad",
+      "speaker": "ベル",
+      "ja": "爆弾は作るのは得意だが、実は使うのは苦手なのだぁ！",
+      "zh": "做炸弹我是挺在行的，但说实话用起来就不行了啊！"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "3e4918d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ……！？",
+      "zh": "诶……！？"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "2e166022",
+      "speaker": "",
+      "ja": "ベルがそう叫んだ頃には、既に目前までモンスターが近づいていた。",
+      "zh": "就在贝尔喊出那句话的时候，怪物已经逼近到眼前了。"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "712b1737",
+      "speaker": "ベル",
+      "ja": "ひっ……！",
+      "zh": "咿……！"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "ff79f50",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベ、ベルーッ！！",
+      "zh": "贝、贝尔——！！"
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "f0194bb4",
+      "speaker": "",
+      "ja": "爪がベルに届く寸前、頭上から降り立つ影。雫の煌めく刃が、モンスターを斬り伏せた。",
+      "zh": "就在爪子要碰到贝尔的瞬间，一道身影从天而降。雫那闪着寒光的刀刃，将怪物一刀砍倒。"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "f7efbe53",
+      "speaker": "雫",
+      "ja": "申し訳ございません。到着が遅れました",
+      "zh": "抱歉，我来晚了。"
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "4ae8716f",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫！？",
+      "zh": "雫！？"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "7cbf7be5",
+      "speaker": "ベル",
+      "ja": "ひ、ひええ……すまん、助かった……",
+      "zh": "咿、咿呀……对不起，谢谢了……"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "878620aa",
+      "speaker": "ルミナ",
+      "ja": "ここに入る前に……連絡しておいたの……危険だと思って……",
+      "zh": "在进来之前……我联系了她……因为觉得太危险了……"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "f8926278",
+      "speaker": "雫",
+      "ja": "可能なら、わたくしの到着を待っていただきたかったですが……",
+      "zh": "如果可以的话，本希望你能等我到了再行动……"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "997d6f16",
+      "speaker": "ルミナ",
+      "ja": "ご、ごめんなさい……急いだほうがいいかと思って……",
+      "zh": "对、对不起……我以为应该快点行动……"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "5dece7a2",
+      "speaker": "雫",
+      "ja": "英断かと存じます。ただ、恐れながら進言させていただきますが……今からでも、外へ出たほうがよろしいのでは？",
+      "zh": "我认为这是果断的决定。不过，恕我直言……现在撤退到外面去是不是更好？"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "c26bc805",
+      "speaker": "",
+      "ja": "通路の奥からは、もはや廊下を埋め尽くすほどにひしめくモンスターの群れが迫ってきていた。",
+      "zh": "通道深处，密密麻麻的怪物群几乎塞满了整面墙，正朝这边涌来。"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "8a9375af",
+      "speaker": "コハル",
+      "ja": "いつから捕まえてたんだか……これじゃキリが無いわね",
+      "zh": "不知道它们埋伏多久了……这样下去可没个头啊。"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "82db195c",
+      "speaker": "雫",
+      "ja": "後ろ側の数は少ないです。戻るのであれば容易でしょう",
+      "zh": "后方数量不多，要消灭的话应该很容易。"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "40a77512",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、このままじゃ……",
+      "zh": "可是，这样下去……"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "89ea1bd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えっ？　なっ、なんだ！？",
+      "zh": "……咦？什、什么情况！？"
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "91cbdfd2",
+      "speaker": "",
+      "ja": "モンスター達がいる床がせり上がって……いや、脈動する。まるで海面のように波立つ床は、少しずつ、しかし確実に……",
+      "zh": "怪物们脚下的地面在上升……不，是在脉动。地面像海面一样起伏着，一点一点地，却无比确实地……"
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "415aafbc",
+      "speaker": "",
+      "ja": "……モンスター達を下へと『呑み込んで』いった。",
+      "zh": "……将怪物们『吞入』了地下。"
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "ed903ccf",
+      "speaker": "雫",
+      "ja": "この能力は……！？",
+      "zh": "这种能力……！？"
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "f47b05e3",
+      "speaker": "グリム",
+      "ja": "ふふん♪　この程度で通せんぼされちゃうなんて、やっぱり弱っち～んだから♥",
+      "zh": "哼哼♪ 连这点程度都过不去，果然还是太弱了嘛♥"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "8988ed36",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム！",
+      "zh": "格林！"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "f6bce02b",
+      "speaker": "",
+      "ja": "ルミナが体を強張らせるのを見て、すかさず雫が間へと立ちはだかった。",
+      "zh": "看到露米娜身体僵硬，雫立刻挡在了她面前。"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "9f2a4503",
+      "speaker": "グリム",
+      "ja": "安心して～？　今日はお姉ちゃんに何かしようとは思ってないから♥",
+      "zh": "放心啦～？我今天可没打算对姐姐们做什么哦♥"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "5c1ee63",
+      "speaker": "グリム",
+      "ja": "今日は、グリムの力を見せつけてあげよーと思っただけっ♪",
+      "zh": "只不过今天是想让你们见识一下格林的力量而已♪"
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "e06fcc94",
+      "speaker": "",
+      "ja": "そう言うと、グリムは……気のせいでなければ、こちらに舐めるような視線を向けた。",
+      "zh": "说完，格林——如果不是错觉的话——朝这边投来一个意味深长的眼神。"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "81e629db",
+      "speaker": "{G_PlayerName}",
+      "ja": "（な、なんだ……？）",
+      "zh": "（什、什么……？）"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "b6c7722",
+      "speaker": "グリム",
+      "ja": "よーく見ててよね？　特にそこのヘンタイ男！",
+      "zh": "好好看着！尤其是那边的变态男！"
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "8c2baf2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？",
+      "zh": "诶诶！？"
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "c96df867",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}、くん、何かしたの……？",
+      "zh": "……{G_PlayerName}，你做了什么吗……？"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "6824eb58",
+      "speaker": "{G_PlayerName}",
+      "ja": "したようなしてないような……あっ！　へ、ヘンタイって言われるようなことは少なくともしてないぞ！",
+      "zh": "好像做了又好像没做……啊！我至少没做过会被说成变态的事！"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "4d160587",
+      "speaker": "雫",
+      "ja": "どうだか……ですが、ひとまずは第３王女様と戦うおそれは無いようで、そこは良かったです",
+      "zh": "谁知道呢……不过，至少和第三女王陛下战斗的风险好像没有了，这点倒是好事。"
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "670150d7",
+      "speaker": "アルフ",
+      "ja": "何かわからないけど、味方かな？",
+      "zh": "不太明白，不过是自己人吧？"
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "d9b7f9e8",
+      "speaker": "ベル",
+      "ja": "興味深い現象だったな！　爆弾で再現できるだろうか！？",
+      "zh": "真是有趣的现象！用炸弹能不能再现出来呢！？"
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "deacb5b6",
+      "speaker": "コハル",
+      "ja": "ちょっと怖いけど……これで先に進めそうね",
+      "zh": "虽然有点吓人……不过这样就能继续往前走了吧。"
+    },
+    {
+      "key": "209.0",
+      "line_index": 209,
+      "inline_index": 0,
+      "line_hash": "6cf33b40",
+      "speaker": "",
+      "ja": "モンスターが呑み込まれた床を慎重に踏みながら、全員で奥へと歩みを進める。",
+      "zh": "大家小心翼翼地踏上吞噬了怪物的地面，一起向深处迈进。"
+    },
+    {
+      "key": "211.0",
+      "line_index": 211,
+      "inline_index": 0,
+      "line_hash": "4cc40050",
+      "speaker": "",
+      "ja": "当然のように近くを歩くグリムに若干違和感を覚えていると、グリムが口を開いた。",
+      "zh": "正在对理所当然般走在身边的格林感到些许违和感时，格林开口了。"
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "64a3c5e8",
+      "speaker": "グリム",
+      "ja": "そういえば～、ココちょっと前から調べてたんだけどさ",
+      "zh": "说起来～，我之前查过这个地方……"
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "82b93794",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？",
+      "zh": "诶？！"
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "499aece7",
+      "speaker": "グリム",
+      "ja": "ふふん、実は先に見つけてたんだよ～♪　アタシにかかればとーぜんでしょ♥",
+      "zh": "哼哼，其实我早就发现了～♪ 有我出马，那不是当然的嘛♥"
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "7fd30f43",
+      "speaker": "{G_PlayerName}",
+      "ja": "（偶然だろ絶対……）",
+      "zh": "（……这绝对是巧合吧）"
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "13a1dec4",
+      "speaker": "グリム",
+      "ja": "やっぱりココ、この星にしては技術レベル高すぎ～。絶対、あのヘロヘロ女だけの力じゃないよ",
+      "zh": "果然，这个星球的技术水平高得离谱～。绝对不只是那个软脚虾女人一个人能办到的。"
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "6e33ff35",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヘロヘロ女って……",
+      "zh": "软脚虾女人……"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "a9591fc0",
+      "speaker": "",
+      "ja": "ルミナも呟いていた疑問が、グリムの言葉で確信に変わる。やはり、この事態は……",
+      "zh": "就连露米娜心中的疑问，也因格林的话而变成了确信。果然，这件事……"
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "6e1e8c94",
+      "speaker": "雫",
+      "ja": "アポロも異常な機械の存在を感知していたようですからね",
+      "zh": "阿波罗好像也察觉到了那个异常机械的存在呢。"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "74d60d5a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうなのかっ！？　なんで黙ってたんだよ！？",
+      "zh": "是、是这样吗？！你为什么不早说？！"
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "6a59a681",
+      "speaker": "雫",
+      "ja": "やることは変わらないですからね",
+      "zh": "反正该做的事还是不会变呢。"
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "889baa11",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうかも知れないけど……ってことは、やっぱり惑星を破壊する爆弾って話も！？",
+      "zh": "也许吧……但也就是说，那个炸毁行星的炸弹一说也是真的了？！"
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "e7f2c7d8",
+      "speaker": "雫",
+      "ja": "不可能では……無いかも知れませんね。考えにくい話ではありますが",
+      "zh": "也不是完全不可能……这个想法有点牵强，但也不是说不可能。"
+    },
+    {
+      "key": "241.0",
+      "line_index": 241,
+      "inline_index": 0,
+      "line_hash": "1d95f7c0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……急ごう！",
+      "zh": "……我们快走吧！"
+    },
+    {
+      "key": "256.0",
+      "line_index": 256,
+      "inline_index": 0,
+      "line_hash": "76f9f553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……",
+      "zh": "……"
+    },
+    {
+      "key": "258.0",
+      "line_index": 258,
+      "inline_index": 0,
+      "line_hash": "72e6a8ed",
+      "speaker": "",
+      "ja": "通路の奥の扉を開けると、アコがモニターに向かって座っていた。こちらに気づき、振り向く。",
+      "zh": "打开走廊深处的门，发现亚子正坐在监控器前。她注意到我们，转过头来。"
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "4dffda94",
+      "speaker": "アコ",
+      "ja": "アルフさん、{G_PlayerName}さん！　……こんなに観客の皆さんが集まってくれたんですか！？",
+      "zh": "阿尔夫先生，{G_PlayerName}先生！……居然有这么多观众来了吗？！"
+    },
+    {
+      "key": "266.0",
+      "line_index": 266,
+      "inline_index": 0,
+      "line_hash": "21b05ca0",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……？",
+      "zh": "呃……？"
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "9d36006a",
+      "speaker": "",
+      "ja": "てっきり、目を合わせた瞬間襲って来るのを覚悟していたが、思いもよらぬ態度で脱力してしまう。",
+      "zh": "我还以为是四目相对时她会突然扑过来，一直提防着，结果她这态度反倒让我泄了气。"
+    },
+    {
+      "key": "270.0",
+      "line_index": 270,
+      "inline_index": 0,
+      "line_hash": "4f7d6a4d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……アコ、何言ってるんだ？　俺達は……",
+      "zh": "……亚子，你在说什么呢？我们是……"
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "1d580f51",
+      "speaker": "アコ",
+      "ja": "もう、ほぼ爆弾は完成しました！　申し訳ございません、もう少しお待ちいただけますか？",
+      "zh": "啊，炸弹基本已经完成了！对不起，能再稍等一下吗？"
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "c9972b7b",
+      "speaker": "アコ",
+      "ja": "応援していただいてるのに本当にごめんなさい、ふがいないばかりで……",
+      "zh": "明明大家这么支持我，真的很抱歉，我太没用了……"
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "2e0b9b5a",
+      "speaker": "",
+      "ja": "会話が噛み合わない。一体アコは何を言ってるんだ……！？",
+      "zh": "话根本对不上。亚子到底在说些什么啊……！？"
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "1654f66b",
+      "speaker": "雫",
+      "ja": "どうやら、本人の気質か謎の機械のせいかわかりませんが……錯乱しているようですね",
+      "zh": "看来，不知道是她自己性格这样，还是那个神秘机械的影响……她似乎有点混乱呢。"
+    },
+    {
+      "key": "292.0",
+      "line_index": 292,
+      "inline_index": 0,
+      "line_hash": "c967c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "アコの気質だと思いたくはないが……",
+      "zh": "我倒是不想觉得这是亚子自己的性格……"
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "7d016497",
+      "speaker": "リズ",
+      "ja": "だが好都合だ。このまま応援するフリをして近づけば……",
+      "zh": "但是刚好。我们就这样假装应援，趁机接近她的话……"
+    },
+    {
+      "key": "305.1",
+      "line_index": 305,
+      "inline_index": 1,
+      "line_hash": "9f475798",
+      "speaker": "リズ",
+      "ja": "――――ッ！",
+      "zh": "——！"
+    },
+    {
+      "key": "321.1",
+      "line_index": 321,
+      "inline_index": 1,
+      "line_hash": "6a78c5ae",
+      "speaker": "アコ",
+      "ja": "待ってる間、未熟ではありますが私の爆弾でお楽しみいただこうと思います！",
+      "zh": "在等待的时候，虽然还不太成熟，但请用我的炸弹享受一下吧！"
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "4388209d",
+      "speaker": "アコ",
+      "ja": "あとは、最終確認中なので……不備が見つからなければ、それが終わったらあとは爆破するだけです♪",
+      "zh": "接下来，正在进行最终确认……如果没有发现瑕疵，等确认完了，就只等着爆炸了♪"
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "8002f942",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそっ……やっぱり戦わなきゃいけないのか！？",
+      "zh": "可恶……果然还是得打吗？！"
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "83e9324",
+      "speaker": "コハル",
+      "ja": "機械を壊すとかでなんとかならないかしら……！？",
+      "zh": "把那个机械破坏掉之类的，难道不行吗……！？"
+    },
+    {
+      "key": "349.1",
+      "line_index": 349,
+      "inline_index": 1,
+      "line_hash": "f4054403",
+      "speaker": "ルミナ",
+      "ja": "色々、試してみよう……！",
+      "zh": "我们试试各种办法吧……！"
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "41eeb880",
+      "speaker": "アルフ",
+      "ja": "とにかく、ぜーんぶ吹き飛ばしちゃうんだから～！",
+      "zh": "反正，全部炸飞就是了～！"
+    }
+  ]
+}

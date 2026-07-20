@@ -1,0 +1,940 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "9cabe589",
+      "speaker": "子供",
+      "ja": "わー、すごーい！",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "74cff751",
+      "speaker": "母親",
+      "ja": "あら本当、とっても綺麗な盛り付け！",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "eb749af5",
+      "speaker": "",
+      "ja": "街角のテラス。運ばれてきた料理を見て、親子が目を輝かせた。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "7c02dbcc",
+      "speaker": "子供",
+      "ja": "もう食べてもいい！？",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "5ff563f7",
+      "speaker": "母親",
+      "ja": "こーら、ダメでしょ？　食べる前には？",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "3df66262",
+      "speaker": "子供",
+      "ja": "あっ、そうだった……！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "170ccf5e",
+      "speaker": "子供",
+      "ja": "いっただっき……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "88115ef8",
+      "speaker": "",
+      "ja": "街角のテラス。和やかな親子と運ばれてきた料理を、爆煙が包みこんだ。",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "6d3c28f6",
+      "speaker": "？？？",
+      "ja": "……{G_PlayerName}！　{G_PlayerName}！",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "2dc34842",
+      "speaker": "{G_PlayerName}",
+      "ja": "う……ん？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "9ea1e0fb",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}！　大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "508062b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ……コハル？　何か事故か……？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "7e23c1cf",
+      "speaker": "コハル",
+      "ja": "違うわよもう、着いてすぐベルト外すからよ！",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "d9e4b6e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ばっ……爆発！　大丈夫だったか！？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "540845a7",
+      "speaker": "コハル",
+      "ja": "あんただけ首にダメージ受けたとかで、一瞬……1分くらい気絶しただけよ。アポロは問題ないって言ってたけど、本当に大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "935c798f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……ああ。多分……さっきの爆発、なんだったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2de20921",
+      "speaker": "コハル",
+      "ja": "それが……",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "c2d49b23",
+      "speaker": "雫",
+      "ja": "外に出て説明しましょう……周辺のスキャンは終了しましたので、出ても問題無いはずです",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "9ab0b1e7",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　ほ、本当に大丈夫か！？",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "1a4f4c80",
+      "speaker": "雫",
+      "ja": "大丈夫です。ルミナ様も出るのですから嘘をつく必要がありません",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "18aedcfe",
+      "speaker": "ルミナ",
+      "ja": "出て……みよっ、か……",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "fbec9b07",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "5a4bae32",
+      "speaker": "",
+      "ja": "そこは様々な機械？　の残骸が転がる、異様な光景が広がっていた。",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "974013",
+      "speaker": "雫",
+      "ja": "ここは火と荒野の星で生み出された機械のゴミ捨て場……街の外です",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "4925c447",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、そんな場所に降りたのか？",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "a5918cb4",
+      "speaker": "雫",
+      "ja": "正確には火と荒野の星は、人が住む場所以外は物が転がり放題。ゴミも遺物も自然物もゴチャ混ぜの荒れ地です",
+      "zh": ""
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "f5838442",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、凄い星だな……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "887c2f81",
+      "speaker": "コハル",
+      "ja": "うーん……確かに凄い景色だけど、綺麗とは言いにくいかも……",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "5070c974",
+      "speaker": "雫",
+      "ja": "そして、火と荒野の星で最も行われている研究は爆弾です",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "d3d1aa60",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "24382534",
+      "speaker": "雫",
+      "ja": "更に、何をするにも爆弾を使う文化があるのです。年中どこでも爆発祭りです",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "fbcc9939",
+      "speaker": "コハル",
+      "ja": "ええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "d5f57ec8",
+      "speaker": "雫",
+      "ja": "当然このゴミ捨て場にも大量の不発弾や火薬が転がっています。今回は着陸時にそれを踏んでしまったようですね",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "908510d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほ……本当にとんでもない星じゃないか！？　来て良かったのか！？",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "3026788a",
+      "speaker": "ルミナ",
+      "ja": "本来なら……もっと、整備されてた場所なんだけど……大雑把な人が多い星、だから。いつの間にかここまでゴミ捨て場になっちゃってたみたい……",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "994eb2a3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえばアポロが古い情報とか言ってたっけ……大丈夫なのか？　人殺しだらけの星とかじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "9efc6c58",
+      "speaker": "雫",
+      "ja": "心配は要りません。基本的にはこの星で作られる爆弾は殺傷能力が低く、娯楽品といった側面が強いのです",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "7b59405a",
+      "speaker": "雫",
+      "ja": "なのでアポロが先程、廃棄された爆弾の被害を受けた部分も……",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "761a6428",
+      "speaker": "{G_PlayerName}",
+      "ja": "……むっちゃヘコんでるが",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "71344907",
+      "speaker": "雫",
+      "ja": "……少しの修理で問題なくなる程度の威力です",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "7a1367d4",
+      "speaker": "コハル",
+      "ja": "こ、怖くなってきたわ……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "bad26135",
+      "speaker": "ルミナ",
+      "ja": "ゴミ捨て場にあった爆弾や火薬が、何個も誘爆しちゃったみたいだから……１個１個は、そこまで威力は無い……って聞いたよ……",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "c952bddf",
+      "speaker": "ルミナ",
+      "ja": "そ、それにスキャン……このあたりの安全な場所は調べ終わってるから、ね……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "63e74c1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ、まあ……どっちにしろ修理するなら街には行かないといけないんだよな？　じゃあ、怖いけど行こうぜ",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "f01bc217",
+      "speaker": "コハル",
+      "ja": "そこまで心配しなくてもいい……のよね？　じゃあ、信じるわ！",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "d7a4e163",
+      "speaker": "ルミナ",
+      "ja": "うん……！　地図は、あるから……こっち、だよ……",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "7ba67c3b",
+      "speaker": "",
+      "ja": "歩いていると徐々にゴミが減り、大きな街が現れた。道行く人々は楽しそうに談笑しながら道を歩いている。",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "649e4259",
+      "speaker": "{G_PlayerName}",
+      "ja": "凄い人だな！　……それと",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "85af8834",
+      "speaker": "露店の呼び込み",
+      "ja": "らっしゃいらっしゃーい！　火薬が安いよー！",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "4997d60a",
+      "speaker": "露店の呼び込み",
+      "ja": "新発売の青い光が出る固形燃料が入荷よー！",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "e14234da",
+      "speaker": "母親",
+      "ja": "もう、だから言ったでしょ？　ママが言った比率変えたらダメだって！　そのせいで煙の量が多くなっちゃったのよ？",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "eecd2d15",
+      "speaker": "子供",
+      "ja": "ごめんなさーい……",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "4286f1f3",
+      "speaker": "母親",
+      "ja": "それでもあんなに安定させるなんて凄いけど、ね。さ、次は新しい導火線を見に行きましょ！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "71bf574",
+      "speaker": "子供",
+      "ja": "はーい！",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "594be713",
+      "speaker": "{G_PlayerName}",
+      "ja": "うるっさいな！　爆発の音が！",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "accc283a",
+      "speaker": "",
+      "ja": "歩く人々の間からは、何かが弾ける光や煙が上がっている。そして、街全体が火薬の匂いに包まれていた。",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "e0c9c4d3",
+      "speaker": "雫",
+      "ja": "この星は何をするにも爆発ですからね。爆発は第二の言語です",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "43fbf91e",
+      "speaker": "コハル",
+      "ja": "第二の言語って……",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "2f1474bb",
+      "speaker": "雫",
+      "ja": "客寄せのために魅力的な爆発。物を食べる前には祈りと感謝を込めた爆発",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "c0fa075d",
+      "speaker": "雫",
+      "ja": "そして謝罪をするときは申し訳ない爆発と……",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "e62bf7e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "申し訳ない爆発って何だよ！？",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "149f8d6c",
+      "speaker": "雫",
+      "ja": "理解しようとするだけ無駄です。宇宙規模の文化の差というのはそういう物です",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "718883ef",
+      "speaker": "コハル",
+      "ja": "……道歩いてたらいきなり爆弾ぶつけられたりしないでしょうね？",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "1d7bf609",
+      "speaker": "ルミナ",
+      "ja": "ここでも……それは、犯罪……だから……",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "235b0ec",
+      "speaker": "雫",
+      "ja": "仮にぶつかったところで威力を抑えた爆弾です。リリアンにとっては猫にパンチを食らうような物でしょう",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "c6b35706",
+      "speaker": "{G_PlayerName}",
+      "ja": "……俺にとっては？",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "98a585ea",
+      "speaker": "雫",
+      "ja": "まあ……野犬に噛まれるくらいでしょうか。死にはしません",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "892c51ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "死ななきゃセーフってほどじゃないだろ……！　野犬に噛まれるの……！",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "8cabc654",
+      "speaker": "雫",
+      "ja": "それでは……いつも通り端末に必要な物資の情報は送りましたので、このあたりで手分けして調達をしましょう",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "82258c2e",
+      "speaker": "ルミナ",
+      "ja": "どう、分かれる……？",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "c4680f3f",
+      "speaker": "雫",
+      "ja": "わたくしは１人で。ルミナ様たちは念の為グループとなって行動をお願いいたします",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "4cc95137",
+      "speaker": "コハル",
+      "ja": "ルミナから離れていいの？",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "b5fa4360",
+      "speaker": "雫",
+      "ja": "もちろん心配ではございますが……発信機、通信機、リアルタイムのバイタルチェック等々対策はいたしましたので",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "89e95365",
+      "speaker": "ルミナ",
+      "ja": "雫……心配、しすぎだよ……",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "bd96cedc",
+      "speaker": "雫",
+      "ja": "……ルミナ様も、大変お強くなられましたので。少しの間であれば、わたくしも我慢いたします！",
+      "zh": ""
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "629402e8",
+      "speaker": "ルミナ",
+      "ja": "……えへへ……",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "b088979b",
+      "speaker": "雫",
+      "ja": "それに、今回は多少情報がある星ですしね。無意識に問題ある行動などもせずに済みます",
+      "zh": ""
+    },
+    {
+      "key": "250.1",
+      "line_index": 250,
+      "inline_index": 1,
+      "line_hash": "c2a94fa0",
+      "speaker": "コハル",
+      "ja": "あ、挨拶用の爆弾とか用意しなくていいの！？　マナー違反とかにならない！？",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "e63829cb",
+      "speaker": "雫",
+      "ja": "問題ありません。爆弾は化粧のような物ですので、趣味の範囲です",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "823e2ac4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（爆弾は文化で、第二の言語で、化粧……いや、もう考えるのはやめよう）",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "20505b0b",
+      "speaker": "ルミナ",
+      "ja": "じゃあ、行こうか……",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "c1caa56f",
+      "speaker": "雫",
+      "ja": "お気をつけくださいね！",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "3b60b879",
+      "speaker": "コハル",
+      "ja": "それじゃ、どこの店に入る？　必要なのは……大体金属ね",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "2c766ae8",
+      "speaker": "ルミナ",
+      "ja": "……あ、この星で……家に見えるところの大半は……工場、とか工房、なんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "dc1b9cad",
+      "speaker": "コハル",
+      "ja": "えっ？　じゃあ……食べ物屋さんとか、道具屋さんは？",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "d3bedf81",
+      "speaker": "ルミナ",
+      "ja": "普通のお店は……大体露店とか……建物の窓から買うんだ、って。建物の中に入ることは少ない、かな……",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "f6a3934f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？　……この星、結構地面砂だらけだぞ。……流石に外で物を食べるのはキツいんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "9f72ea",
+      "speaker": "ルミナ",
+      "ja": "……爆発とかが気にならない人たちだから、それくらいは……ね",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "ec3b27a4",
+      "speaker": "コハル",
+      "ja": "た……確かに。歩いてても火薬が顔に付くもんね",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "48f28958",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんていうか……ワイルドな星だな……",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "722a0dc5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふふ……でも、工房か……！　どんな技術があるかワクワクするな……！",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "7a6b6419",
+      "speaker": "ルミナ",
+      "ja": "子供向けの爆弾の作り方なら……簡単に買えるみたいだ、よ",
+      "zh": ""
+    },
+    {
+      "key": "294.1",
+      "line_index": 294,
+      "inline_index": 1,
+      "line_hash": "606dc7a6",
+      "speaker": "コハル",
+      "ja": "子供向けの爆弾って……いや、もうツッコんでたらキリが無いわね",
+      "zh": ""
+    },
+    {
+      "key": "296.0",
+      "line_index": 296,
+      "inline_index": 0,
+      "line_hash": "33c788d0",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、こんだけ建物があって、その殆どが爆弾を作るための物なのか？　流石にそれじゃ、社会が回らないんじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "6249d819",
+      "speaker": "ルミナ",
+      "ja": "爆発させると水が生まれる爆弾とか……良い匂いがする爆弾とか。変わった爆弾はいっぱいあるんだよ",
+      "zh": ""
+    },
+    {
+      "key": "300.1",
+      "line_index": 300,
+      "inline_index": 1,
+      "line_hash": "62348177",
+      "speaker": "ルミナ",
+      "ja": "魔法が込められてて、物を直したり、周りの気温が変わったりとか……全部、爆弾でなんとかしてる星なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "7911b791",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぜ……全然ピンと来ないが……",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "9d076f4e",
+      "speaker": "コハル",
+      "ja": "凄い技術ね！　……あたし達の星でも作れたら、凄く売れそうだわ",
+      "zh": ""
+    },
+    {
+      "key": "306.0",
+      "line_index": 306,
+      "inline_index": 0,
+      "line_hash": "58d444aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "作り方覚えたら俺も戦えるんじゃあ……！？",
+      "zh": ""
+    },
+    {
+      "key": "308.1",
+      "line_index": 308,
+      "inline_index": 1,
+      "line_hash": "66c34fb8",
+      "speaker": "ルミナ",
+      "ja": "技術の秘匿性が強い星だから……変わった爆弾の作り方は、教えてもらえないけど……ね",
+      "zh": ""
+    },
+    {
+      "key": "310.1",
+      "line_index": 310,
+      "inline_index": 1,
+      "line_hash": "83c84a83",
+      "speaker": "コハル",
+      "ja": "そうなの？　残念ね",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "2c437fcc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……そんなあ……",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "16eb3484",
+      "speaker": "コハル",
+      "ja": "もう、本当に機械のことばっかりなんだから！　とりあえず、今は目の前の買い出しに集中しましょ！",
+      "zh": ""
+    },
+    {
+      "key": "316.0",
+      "line_index": 316,
+      "inline_index": 0,
+      "line_hash": "75c0e724",
+      "speaker": "{G_PlayerName}",
+      "ja": "おー……",
+      "zh": ""
+    }
+  ]
+}

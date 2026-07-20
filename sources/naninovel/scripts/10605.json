@@ -1,0 +1,454 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ceb2644e",
+      "speaker": "アルフ",
+      "ja": "なんだ、いるなら返事してよ。……おん？　キミも関係者かな？",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "a03a1591",
+      "speaker": "アコ",
+      "ja": "えっ？　……ええーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "d32b5775",
+      "speaker": "{G_PlayerName}",
+      "ja": "この人は、確か……？",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "e88a6b48",
+      "speaker": "アコ",
+      "ja": "どうしてこんなところに、トップボマー様が……！？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "12af0d89",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……有名人って意味なのかな、とりあえず）",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "1468c204",
+      "speaker": "アルフ",
+      "ja": "時々言ってるけど、ウチは全然トップなんかじゃないし、ただのパフォーマー！",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "62856b3a",
+      "speaker": "アルフ",
+      "ja": "あ、ちゃんと自己紹介しとかないとね。ウチはアルフ。時々爆発ショーやってる、ただの一般人だよ",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "17422252",
+      "speaker": "アコ",
+      "ja": "た、ただの一般人なんて……あわわ……！　あっ、わ、私はアコと言いますっ！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "d4f3e8d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は{G_PlayerName}。えーと……機械士、かな",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "39784c99",
+      "speaker": "アコ",
+      "ja": "は……話が戻っちゃうんですけど、なんでこんなところに……！？",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "90c5f4bd",
+      "speaker": "アルフ",
+      "ja": "あー、そうだったそうだった。それなんだけど、前もらった爆弾が綺麗だったからさ。また欲しくって",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "7fced499",
+      "speaker": "アコ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "892ed922",
+      "speaker": "アコ",
+      "ja": "え、綺麗！？　わたっ、わたたた私が作った爆弾がですかぁっ！？",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "349f4777",
+      "speaker": "アルフ",
+      "ja": "うん。使い勝手も良かったし",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "91df48b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "よ……良かったな、アコ。やっぱりわかる人にはわかるってことか？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "f71b6388",
+      "speaker": "アコ",
+      "ja": "た……確かに、前お金が足りなくなった時、爆弾を作って少しだけ販売しましたけど……！　あれってアルフさんが使ってたんですか！？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "2e51d6e8",
+      "speaker": "アルフ",
+      "ja": "うん、練習でね",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "31c6a980",
+      "speaker": "{G_PlayerName}",
+      "ja": "……練習？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "1a95773c",
+      "speaker": "アルフ",
+      "ja": "本番以外では代わりの爆弾を使うようにしてるの。アコちゃんが売ってた爆弾、品質の割に凄い安かったから使わせてもらったんだよ",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "3b6206bf",
+      "speaker": "アルフ",
+      "ja": "地味だから、ステージじゃちょっと使えないと思うけどね。作りが凄く綺麗だったから、また欲しくなったってわけ",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "c491aac7",
+      "speaker": "アコ",
+      "ja": "うっ、綺麗っていうのは作りが……ですか",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "517a28a4",
+      "speaker": "アコ",
+      "ja": "光栄です……けど、やっぱり私の爆弾ダメでしょうか……？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "f4da4f41",
+      "speaker": "アルフ",
+      "ja": "ステージじゃね。でも、凄く使いやすくて良い爆弾だと思うよ",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "4f7b8549",
+      "speaker": "アコ",
+      "ja": "本当ですか！？　もっと良くなったらステージでも……！？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "e6dc3ffd",
+      "speaker": "アルフ",
+      "ja": "それはわかんないけど～、ウチ好みな雰囲気あるしー、価値はあると思うよー！",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "3ad5dc6a",
+      "speaker": "アコ",
+      "ja": "わ、私の爆弾なんかが、超人気パフォーマーのアルフさん好みだなんて……！？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "735cb72f",
+      "speaker": "アコ",
+      "ja": "じゃ、じゃあちょっとアルフさんも、私が作ってる爆弾を見て、ご感想をいただけますか！？　頑張りますので！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "f7101937",
+      "speaker": "アルフ",
+      "ja": "え？　うーん、まあそうしたいって言うなら……その後でいいから、爆弾売ってくれる？",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "b5f506ac",
+      "speaker": "アコ",
+      "ja": "わー……！　はい、もちろん！　ちょっと待っててくださいね！",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "ba2ccaf1",
+      "speaker": "アルフ",
+      "ja": "君はなんでアコといたの？　同じく、頼まれて協力してる感じ？",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "a7edf87e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？　まあ、そうだな",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "57e9e237",
+      "speaker": "アルフ",
+      "ja": "ふふ、その感じ星の外の人？　いいね、ウチ見てもそんなにリアクション無い感じ",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "e82e3ead",
+      "speaker": "{G_PlayerName}",
+      "ja": "バレた！？　……ってそうか、バレてもいいんだった",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "a0562365",
+      "speaker": "アルフ",
+      "ja": "それを利用した商売とかは犯罪になるらしいから、あまりペラペラは喋らないほうがいいかもね",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "74e10641",
+      "speaker": "{G_PlayerName}",
+      "ja": "こわ……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "89584089",
+      "speaker": "アルフ",
+      "ja": "……にしても、爆弾を見て真面目ちゃんだろうなーと思ってたけど、思ってた以上だね、アコちゃん",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "37bb4ca7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな。努力家というか……",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "2721cdb4",
+      "speaker": "アルフ",
+      "ja": "パッと見た感じ、悩みすぎだと思うけどね～。力入れすぎないで、作れる物だけ作っときゃいいのに",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "9db080a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……か？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "f1d8ab19",
+      "speaker": "アルフ",
+      "ja": "だって、１つにこだわってそれがダメなら、全部ダメになっちゃうじゃん。気楽に色々つまみ食いして、リスク分散するに越したことないと思うけどな～",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "67456920",
+      "speaker": "{G_PlayerName}",
+      "ja": "それが出来ればまあ、楽は楽だろうけど……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "7c8123c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おお、ビックリした",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "13e3041f",
+      "speaker": "アコ",
+      "ja": "どうでしたか！？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "83d3da40",
+      "speaker": "アルフ",
+      "ja": "シンプルでいいんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "22a31d53",
+      "speaker": "アコ",
+      "ja": "やっぱりシンプル過ぎますかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "dd5a2eea",
+      "speaker": "{G_PlayerName}",
+      "ja": "（有名人から見ても同じ感想なのか。ちょっと安心した……）",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "d012f1da",
+      "speaker": "アルフ",
+      "ja": "いや、全然ダメってわけじゃないんだけどー。遊びが足りないっていうか……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "f95b2d70",
+      "speaker": "アコ",
+      "ja": "ア……アソビ……む、難しいですね……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "2f89fd19",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "78e12cbb",
+      "speaker": "グリム",
+      "ja": "……ふふ～ん、何か面白そうなことしてるじゃん……♪",
+      "zh": ""
+    }
+  ]
+}

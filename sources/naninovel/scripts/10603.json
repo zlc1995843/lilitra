@@ -1,0 +1,634 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "ceb99cdf",
+      "speaker": "コハル",
+      "ja": "急いで買う物リストはそろそろ終わりね。食べ物はゆっくり買いたいし、一旦宇宙船に戻る？",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "b252bd0a",
+      "speaker": "ルミナ",
+      "ja": "そう……だね。今日１日だけじゃ、どっちにしても終わらないと、思うし……",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "2a9218c1",
+      "speaker": "コハル",
+      "ja": "……あたし達宇宙船に戻ってるから、{G_PlayerName}は１人でこのあたり見て回る？",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "f37ded81",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！　な、なんでだ？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "febfc4c",
+      "speaker": "コハル",
+      "ja": "だってあんた、ずーっとそわそわしてるし。あたし達いるから、好きに動けてないんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "42096f53",
+      "speaker": "コハル",
+      "ja": "思ってたより治安も良さそうだし、１人になっても問題無さそうじゃない？　ね、ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "676fb324",
+      "speaker": "ルミナ",
+      "ja": "そう……だね。見たいところがあるんだったら、遠慮しないで大丈夫……だよ",
+      "zh": ""
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "23fa37dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……？　でも別行動までしないでも……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "9392d42a",
+      "speaker": "コハル",
+      "ja": "一緒だったらあんた、絶対あたし達のこと気にするでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "68c56b0e",
+      "speaker": "ルミナ",
+      "ja": "確かに……{G_PlayerName}くん、同じ物何度も見るの好きだし……ね",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "cbd6abd1",
+      "speaker": "コハル",
+      "ja": "あたし達にとっても、別行動のほうがいいってこと！　……でも、定期的にちゃんと連絡してね！　アポロにアレ、もらってるんでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "df3e1f92",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おう。最近ようやく使い方がわかってきたアレな",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "d930fd21",
+      "speaker": "",
+      "ja": "アポロにもらった、手首につける簡易的な連絡装置。",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "c4f2a03d",
+      "speaker": "",
+      "ja": "短いメッセージのやり取りがどこでも出来るらしいが、宇宙船の情報端末や、アポロとしか連絡が取れないらしい。",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "85466143",
+      "speaker": "ルミナ",
+      "ja": "もし迷子になったり、事件に巻き込まれたりしたら……すぐ連絡して、ね",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "e4bd5b3e",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかった！　じゃあ、また後で合流しよう",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "8d60be95",
+      "speaker": "コハル",
+      "ja": "はいはい！　ほどほどにするのよ！",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "406867b7",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……とは言え",
+      "zh": ""
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "3482d2bf",
+      "speaker": "",
+      "ja": "あたりを見回す。相変わらず、人々の往来の中から時々爆音が鳴り響く変わらぬ様子だ。",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "e3aef4f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "工場の見学とかは出来ないわけだしなあ……どこ見ればいいやら。爆弾の店でも回るか……？",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "ff8efa19",
+      "speaker": "？？？",
+      "ja": "みんな盛り上がってる～！？",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "dfbc20f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "57f21d76",
+      "speaker": "",
+      "ja": "声が上がったほうを振り向くと、歩く人々の向こう側に多くの人だかりと、高台に乗ったリリアンの姿が見えた。",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "73af5859",
+      "speaker": "観客",
+      "ja": "アルフーっ！　いつにも増して良い爆発だぞーっ！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "4168959c",
+      "speaker": "観客",
+      "ja": "きゃーっ！　アルフ、こっち向いてーっ！",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "da3fd7f4",
+      "speaker": "{G_PlayerName}",
+      "ja": "へー、爆弾でショーとかもやってるんだな……",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "60942727",
+      "speaker": "アルフ",
+      "ja": "クライマックス、行くよ～！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "df8aba31",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお……凄いな",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "e6a3fed6",
+      "speaker": "",
+      "ja": "アルフと呼ばれた演者が、手足を振るとそれに合わせて爆発が起こる。色とりどりの煙が巻き起こり、鮮やかにステージを彩った。",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "3d8aaeca",
+      "speaker": "",
+      "ja": "その度に、観客から感嘆の叫びやため息が漏れる。彼女のショーを邪魔しないようにか、控えめな爆発も起きているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "df702d93",
+      "speaker": "{G_PlayerName}",
+      "ja": "（それにしても、凄い人数だな……売れっ子ってやつか）",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "9a405a17",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……ん？）",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "aba7daab",
+      "speaker": "？？？",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "78f812ed",
+      "speaker": "",
+      "ja": "観客の渦から少し離れた場所。アルフのショーを見据えながらも、どこか暗い顔をしているリリアンがいた。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "2415daa1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あれ……どうしたんだろうあの人。距離もそんなに無いし、話しかけてみるか）",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "cc377b8b",
+      "speaker": "{G_PlayerName}",
+      "ja": "すみません",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "ce3e3114",
+      "speaker": "？？？",
+      "ja": "ひゃいっ！？",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "54534d6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "気分とか悪いんですか？　だったら日陰とかに入って休憩したほうが……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "7cb260cb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（コハルも暑さで大変なことになったしな……）",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "1e714edb",
+      "speaker": "？？？",
+      "ja": "あ、あの……",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "6090e19c",
+      "speaker": "？？？",
+      "ja": "よかったら私のお話、聞いていただけませんか！？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "e758cd0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　は、話……？",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "c6b8a7c8",
+      "speaker": "",
+      "ja": "喧騒から少し離れた、建物の間。日陰に入って一息つくと、少女は口を開いた。",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "96486482",
+      "speaker": "アコ",
+      "ja": "私、アコって言います",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "829bc3b9",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺は……いや、私は{G_PlayerName}で……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "cfcb6b55",
+      "speaker": "アコ",
+      "ja": "あっ、大丈夫ですよ気楽な話し方で！　私は敬語が楽なだけなんで……！",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "40dee240",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか？　じゃあ……えっと、体調は大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "ca337b2f",
+      "speaker": "アコ",
+      "ja": "あ、大丈夫です！　気分が悪かったわけじゃなくて……さっきのショー、すごかったですよね……！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "98ab181e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……だな。色んな煙が出て、ステージがキラキラしてて……",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "143e3898",
+      "speaker": "アコ",
+      "ja": "実は私も爆弾を作ってて、その参考に見学をさせていただいてたんです",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "fc197680",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか！　凄いな！",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "af16955d",
+      "speaker": "アコ",
+      "ja": "全然凄くないんですっ！",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "e8b83d99",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……ええ？",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "87b647f",
+      "speaker": "アコ",
+      "ja": "私、まだまだ勉強中で……実は、爆弾がうまく作れない落ちこぼれなんです！",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "4387917a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……なのか？",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "e0f9e4d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（この星でもそんな人いるんだな……）",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "a6182103",
+      "speaker": "アコ",
+      "ja": "純粋な破壊力がある爆弾ならいくらでも作れるんですけど……それこそ、建物の１つや２つ壊せるくらい……",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "2e32b3ba",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　じゃあ十分じゃないのか！？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "60d36d39",
+      "speaker": "アコ",
+      "ja": "違うんです！　皆が好きな……さっきのショーみたいな、芸術的な爆発ってなると意味がわからなくて、どうしたらいいのか……！",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "9c0c6b4b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……それは確かに、まあ……俺もよくはわからないな。第二の言語だとか化粧だとか……",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "a5d311b7",
+      "speaker": "アコ",
+      "ja": "で……ですよね！？　でも……",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "220ae824",
+      "speaker": "アコ",
+      "ja": "{G_PlayerName}さんは、さっきのショー、凄いと思ったん……ですよね？",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "ed242c36",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、煙の中から違う色の煙が花みたいに咲いたりして……どうやってるのか気になったよ。綺麗だったし",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "fa47a838",
+      "speaker": "アコ",
+      "ja": "そこなんです！　私、実は……爆発や煙が綺麗だって感覚が、よくわからないんです……！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "1b569ce9",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そもそも綺麗だと思わない、ってことか？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "5801f7ec",
+      "speaker": "アコ",
+      "ja": "えっと……「綺麗」ってことが、どういうことかは理解出来るんです。でも、私自身は、えっと……感動出来ない、というか……なんかよく、わからなくて",
+      "zh": ""
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "9aa709f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（爆発に対する感情が、俺達と同じ……いや、それより無感情ってことかな？　それはこの星だと、生き辛そうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "7c7c7f12",
+      "speaker": "アコ",
+      "ja": "それで、あの……良かったらなんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "a300b679",
+      "speaker": "アコ",
+      "ja": "わ、私の爆弾作りを、手伝ってもらえませんか……！？",
+      "zh": ""
+    }
+  ]
+}

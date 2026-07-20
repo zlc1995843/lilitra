@@ -1,0 +1,1795 @@
+{
+  "lines": [
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "88c9af7f",
+      "speaker": "アルフ",
+      "ja": "くっ……！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "1b7324bc",
+      "speaker": "",
+      "ja": "アコは今まで爆弾を研究していただけの日々が嘘のように、１人とは思えないほど多くの爆弾を機敏に操った。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "d8e80beb",
+      "speaker": "アルフ",
+      "ja": "こんだけ動けるなら、十分パフォーマーになれるんじゃない！？",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "668bdbcb",
+      "speaker": "リズ",
+      "ja": "１人ならすぐに片付くと思ったのだが……！",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "56592677",
+      "speaker": "アコ",
+      "ja": "あははっ！",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "7c81efd2",
+      "speaker": "アコ",
+      "ja": "皆さん、お楽しみいただけてますか！？　でも本番はここからです！",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "8fc4251c",
+      "speaker": "アコ",
+      "ja": "この爆弾を起動すれば、地下のマントルを通り過ぎ、星の核、中心まで到達し……星自体が美しい爆発を見せてくれるはずなんです！",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "33cea05b",
+      "speaker": "",
+      "ja": "そう言うと、アコは機械にセットされた筒……恐らく爆弾を愛おしそうに撫でた。",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "2b7ec260",
+      "speaker": "コハル",
+      "ja": "きゃああっ！",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "8c03f418",
+      "speaker": "",
+      "ja": "演説している間も、アコの手による爆発は鳴り止まない。とうとう全員吹き飛ばされ、壁へと叩きつけられてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "da39df02",
+      "speaker": "コハル",
+      "ja": "こ……これ、何！？　ベタつく！",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "fb1b722d",
+      "speaker": "{G_PlayerName}",
+      "ja": "粘着弾……！？",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "c0e4b905",
+      "speaker": "",
+      "ja": "通常の爆弾に紛れさせて、粘着爆弾を使っていたらしい。気づけば、動ける者は１人もいなくなっていた。",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "a22eba09",
+      "speaker": "雫",
+      "ja": "くっ……！　切れない！",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "5a25f32",
+      "speaker": "ルミナ",
+      "ja": "光がもっとあれば、防げたのに……！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "a1682b11",
+      "speaker": "雫",
+      "ja": "ルミナ様、お怪我は！？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "ff252134",
+      "speaker": "ルミナ",
+      "ja": "大丈夫……でも……アコさんが……",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "ad16da5",
+      "speaker": "",
+      "ja": "アコの姿を見る。自らの爆弾によって負った傷が、痛々しく服に血を染み込ませていた。",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "2d97070f",
+      "speaker": "",
+      "ja": "１つや２つの傷ではなく、このままではアコ自身が無事では済まないのは明白だ。",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "1438f1f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "やっぱり、機械に操られてるのか……",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "d5d7621c",
+      "speaker": "雫",
+      "ja": "あの驚異的な動き……どうやら、身体強化のような物がされているようですね",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "c4411715",
+      "speaker": "{G_PlayerName}",
+      "ja": "（もしかして、凄い速さで爆弾を作ってたのもそうだったのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "e242ef8c",
+      "speaker": "{G_PlayerName}",
+      "ja": "グリム、あの床動かす能力でなんとかできないのか！？　この粘着部分とか！",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "3ac360ee",
+      "speaker": "グリム",
+      "ja": "呼び方生意気～！　せめてグリムちゃんって呼んでよね！　あと敬語！",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "b6bd5f57",
+      "speaker": "{G_PlayerName}",
+      "ja": "グ……グリムちゃん、なんとかしていただけませんか……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "4021d68c",
+      "speaker": "グリム",
+      "ja": "無理！",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "fca28e0d",
+      "speaker": "{G_PlayerName}",
+      "ja": "無理なのかよ！",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "66dca170",
+      "speaker": "グリム",
+      "ja": "だってよくわからないから……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "19fcd5ba",
+      "speaker": "グリム",
+      "ja": "……っ、じゃなくて！　エネルギー切れ！　疲れたから無理！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "53131be",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "fcbf82e8",
+      "speaker": "アコ",
+      "ja": "ふふっ、お待たせしました、シミュレートが終わりました！　これであとは爆発させるだけ……♥",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "59d73789",
+      "speaker": "{G_PlayerName}",
+      "ja": "と、止めないと……！",
+      "zh": ""
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "91475dd4",
+      "speaker": "",
+      "ja": "しかし、粘着弾が強力過ぎて誰も動けない。拘束を破ろうとしている者はいるが、爆弾の起動を止めるには……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "adfb1f82",
+      "speaker": "{G_PlayerName}",
+      "ja": "（時間が足りない……！）",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "3d42a488",
+      "speaker": "アコ",
+      "ja": "では、起動……！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "dcd897e",
+      "speaker": "アコ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "28c3e96c",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "a87e9367",
+      "speaker": "アコ",
+      "ja": "……エラー？",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "db9d6012",
+      "speaker": "アコ",
+      "ja": "エネルギーが不足……？　いや……違う、エネルギーは十分……でも長時間それを燃焼させるのに耐えられる素材が無い……！",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "4ba14f5b",
+      "speaker": "",
+      "ja": "アコは何かまくしたてるように呟きながら、設置されている機械を怒涛の勢いで操作し始める。",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "38db31b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（爆弾は……作るのに失敗したのか？　この隙に何とか出来れば……！）",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "dfdae5ac",
+      "speaker": "アコ",
+      "ja": "じゃあこっちの燃料を……無理。これも燃焼時間が長過ぎる……必要な最大値に達する前に、器のほうが壊れちゃう……！",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "51301d2a",
+      "speaker": "アコ",
+      "ja": "もっと、大きなエネルギーを瞬間的に……爆発的に増やせる物が無いと。でも、そんな物……",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "6b6edb7e",
+      "speaker": "アコ",
+      "ja": "……そうだ、{G_PlayerName}さんの心臓にあるって聞いた、ルナリング……！　それを取り出して、エネルギーを利用すれば問題は……！",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "d4e92595",
+      "speaker": "アコ",
+      "ja": "……問題は？",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "3071c63b",
+      "speaker": "",
+      "ja": "唐突にアコが動きを止め、あたりを見回す。そして、今こちらに気づいたかのように近づいてきた。",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "1d8a6bed",
+      "speaker": "アコ",
+      "ja": "{G_PlayerName}さん！　アルフさん……！？　あの、ここって……？　こんなに大勢で皆さん、壁に貼り付いて一体何を……",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "c3e783f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……？　いや、えーっと……",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "a335d42b",
+      "speaker": "雫",
+      "ja": "確保ッ！！",
+      "zh": ""
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "b2620196",
+      "speaker": "アコ",
+      "ja": "きゃ～～～っ！？　な、なんですか～～～！？",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "dea566cf",
+      "speaker": "アコ",
+      "ja": "きゅ～……",
+      "zh": ""
+    },
+    {
+      "key": "242.1",
+      "line_index": 242,
+      "inline_index": 1,
+      "line_hash": "f50d4fa3",
+      "speaker": "雫",
+      "ja": "ひとまず、何とかなりましたね……",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "43a606c9",
+      "speaker": "リズ",
+      "ja": "また暴れ出しても困るからな……これが無難だ",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "88896609",
+      "speaker": "{G_PlayerName}",
+      "ja": "一件落着か？",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "716bd629",
+      "speaker": "雫",
+      "ja": "後は謎の機械を探して持ち帰れば……",
+      "zh": ""
+    },
+    {
+      "key": "253.0",
+      "line_index": 253,
+      "inline_index": 0,
+      "line_hash": "ba77363c",
+      "speaker": "？？？",
+      "ja": "クライアントのリンク切断を確認。設定に基づき、１分後、自動起爆プロトコルを実行します",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "8868cef7",
+      "speaker": "リズ",
+      "ja": "……！？　今、自動起爆とか聞こえなかったか！？",
+      "zh": ""
+    },
+    {
+      "key": "260.1",
+      "line_index": 260,
+      "inline_index": 1,
+      "line_hash": "3cb1311",
+      "speaker": "雫",
+      "ja": "爆弾が作動しようとしてる……！",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "15134cf7",
+      "speaker": "",
+      "ja": "ルミナと雫が、機械の前に移動して画面を見て操作を試みる。が……",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "c575c8c4",
+      "speaker": "ルミナ",
+      "ja": "だ、め……！　ロックが、かかってる……！",
+      "zh": ""
+    },
+    {
+      "key": "279.1",
+      "line_index": 279,
+      "inline_index": 1,
+      "line_hash": "203687",
+      "speaker": "雫",
+      "ja": "こうなっては、アポロに操作させるのも無理ですね。爆弾を解体するしか……！",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "5d027ff8",
+      "speaker": "ベル",
+      "ja": "ははっ！　任せよ！",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "c659618e",
+      "speaker": "",
+      "ja": "ベルが雫の言葉を聞いて、颯爽と飛び込んでくる。星の中心へと射出されるはずの爆弾は、まだパイプのような物に固定されているようだ……",
+      "zh": ""
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "28d011c6",
+      "speaker": "ベル",
+      "ja": "ふっ、コレが時間になったら地面の下へと送り出されるわけだな。それまでに点火装置……信管を抜いてさえしまえば……",
+      "zh": ""
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "39af9b3d",
+      "speaker": "ベル",
+      "ja": "……うっ……これは、また……",
+      "zh": ""
+    },
+    {
+      "key": "297.0",
+      "line_index": 297,
+      "inline_index": 0,
+      "line_hash": "5c21cdb2",
+      "speaker": "",
+      "ja": "爆弾の側面をベルが器用に開く。が、覗き込んだベルは苦々しい表情を浮かべた。",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "2be50718",
+      "speaker": "ベル",
+      "ja": "……複雑過ぎる。恐らく信管はこの複雑な回路の向こう側に……",
+      "zh": ""
+    },
+    {
+      "key": "301.0",
+      "line_index": 301,
+      "inline_index": 0,
+      "line_hash": "8caf8736",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど……どうなってるんだ？　なんとかなりそうか！？",
+      "zh": ""
+    },
+    {
+      "key": "303.1",
+      "line_index": 303,
+      "inline_index": 1,
+      "line_hash": "d5a0be59",
+      "speaker": "ベル",
+      "ja": "お、恐らく、簡単に言えば小さな爆弾の集合体のような物だ。特に巨大な爆弾の信管は中央にある。が、それだけでは……",
+      "zh": ""
+    },
+    {
+      "key": "309.1",
+      "line_index": 309,
+      "inline_index": 1,
+      "line_hash": "6da62a5d",
+      "speaker": "アルフ",
+      "ja": "完全には無力化できないってこと……！？",
+      "zh": ""
+    },
+    {
+      "key": "313.1",
+      "line_index": 313,
+      "inline_index": 1,
+      "line_hash": "802e566b",
+      "speaker": "ベル",
+      "ja": "う……ウム。これは予想ではあるが、その命令が入力されているメインの基盤があるはずだ。だが……",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "4367f7cd",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………！",
+      "zh": ""
+    },
+    {
+      "key": "317.0",
+      "line_index": 317,
+      "inline_index": 0,
+      "line_hash": "f13b64c",
+      "speaker": "",
+      "ja": "ベルの背中から覗き込み、ベルの表情の意味を理解する。中身を覆い隠すような小さいケースがいくつも散りばめられており、１つ１つ確認する時間は無い。",
+      "zh": ""
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "45b382d0",
+      "speaker": "アルフ",
+      "ja": "こ、こうなったら適当に回路切断しちゃうとか！",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "dbc7bae6",
+      "speaker": "ベル",
+      "ja": "十中八九この中にトラップも混じっとる！　爆発する地点が星の中心からココになるだけだ！",
+      "zh": ""
+    },
+    {
+      "key": "325.1",
+      "line_index": 325,
+      "inline_index": 1,
+      "line_hash": "881babbf",
+      "speaker": "アルフ",
+      "ja": "でっ……でも、もうあと１０秒くらいしか……！",
+      "zh": ""
+    },
+    {
+      "key": "330.0",
+      "line_index": 330,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "c0a0e5f8",
+      "speaker": "",
+      "ja": "２人の話し声が、どこか遠くなるような感覚がした。",
+      "zh": ""
+    },
+    {
+      "key": "337.0",
+      "line_index": 337,
+      "inline_index": 0,
+      "line_hash": "795fc0fd",
+      "speaker": "",
+      "ja": "今まで、アコの爆弾を組み立てる様子は散々見てきた。しかし、こんな爆弾の中を見るのは勿論初めてだったし、回路の一部を隠すような真似もアコはしたことが無かった。",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "a7113b44",
+      "speaker": "",
+      "ja": "それなのに俺の手は、爆弾の中にある小さなケースへと真っ直ぐ伸び、開けて中身を取り出した。",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "48ba9aac",
+      "speaker": "",
+      "ja": "理由はわからない。強いて言うのであれば、爆弾全体の回路を見た時に感じた違和感……『こだわり』とも言える妙な特別感が、そこに集約されていたのだ。",
+      "zh": ""
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "836167fd",
+      "speaker": "機械",
+      "ja": "機器間のアクセスが切断されました。接続環境を見直し、もう一度操作をやり直してください",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "73be05d2",
+      "speaker": "ベル",
+      "ja": "と、と……",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "63204f60",
+      "speaker": "アルフ",
+      "ja": "……止まっ、た？",
+      "zh": ""
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "71bf8d60",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "380.1",
+      "line_index": 380,
+      "inline_index": 1,
+      "line_hash": "dd518e22",
+      "speaker": "ベル",
+      "ja": "ッ……ようやく解除できた！　腰痛いッ！",
+      "zh": ""
+    },
+    {
+      "key": "382.1",
+      "line_index": 382,
+      "inline_index": 1,
+      "line_hash": "e47cd986",
+      "speaker": "アルフ",
+      "ja": "お疲れ様～！",
+      "zh": ""
+    },
+    {
+      "key": "384.0",
+      "line_index": 384,
+      "inline_index": 0,
+      "line_hash": "7b8a6beb",
+      "speaker": "",
+      "ja": "数時間後。アコは研究所の外へ、謎の機械は宇宙船へと運び、残ったベル、アルフと協力してようやく爆弾を解除し終えた。",
+      "zh": ""
+    },
+    {
+      "key": "386.0",
+      "line_index": 386,
+      "inline_index": 0,
+      "line_hash": "14a8ae41",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当にお疲れ様……でも、なんとかなって良かったな",
+      "zh": ""
+    },
+    {
+      "key": "388.1",
+      "line_index": 388,
+      "inline_index": 1,
+      "line_hash": "bd4a741e",
+      "speaker": "ベル",
+      "ja": "時間さえかければなんてこたぁ無いわ。……思ってたより複雑でトラップも多かったから、肝は冷えたがな",
+      "zh": ""
+    },
+    {
+      "key": "390.1",
+      "line_index": 390,
+      "inline_index": 1,
+      "line_hash": "8855411e",
+      "speaker": "アルフ",
+      "ja": "放置するわけにもいかないしね、こんな危険なモノ……",
+      "zh": ""
+    },
+    {
+      "key": "392.1",
+      "line_index": 392,
+      "inline_index": 1,
+      "line_hash": "8d389106",
+      "speaker": "ベル",
+      "ja": "しかし、あの機械の位置がすぐわかったお前ならすぐ解体できると思ったのだが。本当に触れんのか？",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "23151439",
+      "speaker": "{G_PlayerName}",
+      "ja": "無理だって！　……小さい爆弾ならともかく、こんなデカい爆弾触る度胸無い！",
+      "zh": ""
+    },
+    {
+      "key": "396.1",
+      "line_index": 396,
+      "inline_index": 1,
+      "line_hash": "3ea5cb6a",
+      "speaker": "アルフ",
+      "ja": "触ったじゃん。それも残り数秒で爆発するヤツに",
+      "zh": ""
+    },
+    {
+      "key": "398.0",
+      "line_index": 398,
+      "inline_index": 0,
+      "line_hash": "7cccb921",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……あ、あれは……本当に勝手に手が動いただけで……",
+      "zh": ""
+    },
+    {
+      "key": "400.1",
+      "line_index": 400,
+      "inline_index": 1,
+      "line_hash": "f2c2d3c",
+      "speaker": "ベル",
+      "ja": "ふっ……気持ちはわからんでもないがな。天啓としか言いようがない衝動……わがはいにも心当たりは何度かあるわ",
+      "zh": ""
+    },
+    {
+      "key": "403.1",
+      "line_index": 403,
+      "inline_index": 1,
+      "line_hash": "3a2d5101",
+      "speaker": "ベル",
+      "ja": "そうっ！　つまりロマンであるっ！　やはりお前は見どころがある助手っ！",
+      "zh": ""
+    },
+    {
+      "key": "405.0",
+      "line_index": 405,
+      "inline_index": 0,
+      "line_hash": "4852a6eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "は、はは……それで爆発しないで本当に良かったけどな",
+      "zh": ""
+    },
+    {
+      "key": "421.1",
+      "line_index": 421,
+      "inline_index": 1,
+      "line_hash": "b2066358",
+      "speaker": "リズ",
+      "ja": "お前たち、災難だったな。……もう行くのか？",
+      "zh": ""
+    },
+    {
+      "key": "423.1",
+      "line_index": 423,
+      "inline_index": 1,
+      "line_hash": "ca29b5e5",
+      "speaker": "コハル",
+      "ja": "ええ。名残惜しいけど、元々そろそろ出発する予定だったからね",
+      "zh": ""
+    },
+    {
+      "key": "425.1",
+      "line_index": 425,
+      "inline_index": 1,
+      "line_hash": "7e5cba27",
+      "speaker": "ルミナ",
+      "ja": "とっても、助かったよ……ありがとう、リズさん……",
+      "zh": ""
+    },
+    {
+      "key": "427.1",
+      "line_index": 427,
+      "inline_index": 1,
+      "line_hash": "13ce4355",
+      "speaker": "リズ",
+      "ja": "こちらこそ助かった。いつでもまた依頼してくれ",
+      "zh": ""
+    },
+    {
+      "key": "429.0",
+      "line_index": 429,
+      "inline_index": 0,
+      "line_hash": "c2f6b39e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（呼んでくれとかじゃないんだ……あくまで仕事か……）",
+      "zh": ""
+    },
+    {
+      "key": "441.1",
+      "line_index": 441,
+      "inline_index": 1,
+      "line_hash": "21d0b57b",
+      "speaker": "アルフ",
+      "ja": "え～、もう行っちゃうの～！？",
+      "zh": ""
+    },
+    {
+      "key": "443.1",
+      "line_index": 443,
+      "inline_index": 1,
+      "line_hash": "3cfe4c71",
+      "speaker": "ベル",
+      "ja": "せっかく新しい爆弾のアイデアがビビンと来たというのに……！",
+      "zh": ""
+    },
+    {
+      "key": "445.0",
+      "line_index": 445,
+      "inline_index": 0,
+      "line_hash": "f9d326c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "す、すまん……こっちも急ぐ理由があるからな……",
+      "zh": ""
+    },
+    {
+      "key": "447.1",
+      "line_index": 447,
+      "inline_index": 1,
+      "line_hash": "216891a3",
+      "speaker": "ベル",
+      "ja": "あと１日滞在したら、わがはいの特別な発明、ちょ～っとだけ作り方を教えてやっても構わんぞ……？",
+      "zh": ""
+    },
+    {
+      "key": "449.0",
+      "line_index": 449,
+      "inline_index": 0,
+      "line_hash": "9a263e92",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐ……ぐぐぐぐぐ！　俺を弄ぶんじゃない！",
+      "zh": ""
+    },
+    {
+      "key": "451.1",
+      "line_index": 451,
+      "inline_index": 1,
+      "line_hash": "7e647744",
+      "speaker": "アルフ",
+      "ja": "ま、仕方ないか～。同じ爆発には二度と出会えない、って言うけど、同じ爆弾は転がり合うとも言うしね",
+      "zh": ""
+    },
+    {
+      "key": "453.0",
+      "line_index": 453,
+      "inline_index": 0,
+      "line_hash": "6d76029",
+      "speaker": "{G_PlayerName}",
+      "ja": "（この星のコトワザみたいなモノなのか、それは……）",
+      "zh": ""
+    },
+    {
+      "key": "455.1",
+      "line_index": 455,
+      "inline_index": 1,
+      "line_hash": "69d2f3a",
+      "speaker": "アルフ",
+      "ja": "また会ったら、次は一緒にステージに立とうね～！",
+      "zh": ""
+    },
+    {
+      "key": "457.1",
+      "line_index": 457,
+      "inline_index": 1,
+      "line_hash": "d325e00b",
+      "speaker": "ベル",
+      "ja": "わがはいの研究手伝えよ！",
+      "zh": ""
+    },
+    {
+      "key": "459.0",
+      "line_index": 459,
+      "inline_index": 0,
+      "line_hash": "f117986d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……またな！",
+      "zh": ""
+    },
+    {
+      "key": "461.0",
+      "line_index": 461,
+      "inline_index": 0,
+      "line_hash": "962149dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（アコ……お別れ言いたかったけど、会えなかったな。拘留されてるのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "463.0",
+      "line_index": 463,
+      "inline_index": 0,
+      "line_hash": "5e6b844d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……あと、グリムも気づいたらいなかったな。爆弾が爆発する前に逃げたのか。当然っちゃ当然だな）",
+      "zh": ""
+    },
+    {
+      "key": "476.1",
+      "line_index": 476,
+      "inline_index": 1,
+      "line_hash": "a50a8644",
+      "speaker": "アポロ",
+      "ja": "皆様、お疲れ様でした。……ワタシがいない所で、随分と厄介事に巻き込まれていたようですね",
+      "zh": ""
+    },
+    {
+      "key": "478.1",
+      "line_index": 478,
+      "inline_index": 1,
+      "line_hash": "d481a67c",
+      "speaker": "ルミナ",
+      "ja": "流石に、ちょっと疲れた……かも……",
+      "zh": ""
+    },
+    {
+      "key": "480.1",
+      "line_index": 480,
+      "inline_index": 1,
+      "line_hash": "f36bf87",
+      "speaker": "コハル",
+      "ja": "後でお風呂入ってさっぱりしましょ！　まだベタベタしてる気がするもん！",
+      "zh": ""
+    },
+    {
+      "key": "489.1",
+      "line_index": 489,
+      "inline_index": 1,
+      "line_hash": "6d731c44",
+      "speaker": "雫",
+      "ja": "わたくし達も大変でしたが、アポロはこれからが大変ですからね。他人事ではありませんよ",
+      "zh": ""
+    },
+    {
+      "key": "491.1",
+      "line_index": 491,
+      "inline_index": 1,
+      "line_hash": "3154f5a",
+      "speaker": "アポロ",
+      "ja": "くっ……わかっています",
+      "zh": ""
+    },
+    {
+      "key": "493.0",
+      "line_index": 493,
+      "inline_index": 0,
+      "line_hash": "10fda61f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……？　何かするのか？）",
+      "zh": ""
+    },
+    {
+      "key": "495.1",
+      "line_index": 495,
+      "inline_index": 1,
+      "line_hash": "929f9abb",
+      "speaker": "アポロ",
+      "ja": "では、離陸いたします。席から離れないようお気をつけください",
+      "zh": ""
+    },
+    {
+      "key": "497.0",
+      "line_index": 497,
+      "inline_index": 0,
+      "line_hash": "34e6924c",
+      "speaker": "",
+      "ja": "ゆっくりと外の景色が流れ始めるのを眺めていると、ラウンジの中央に外の映像が映し出された。",
+      "zh": ""
+    },
+    {
+      "key": "499.0",
+      "line_index": 499,
+      "inline_index": 0,
+      "line_hash": "dc705a51",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　あっ！",
+      "zh": ""
+    },
+    {
+      "key": "532.0",
+      "line_index": 532,
+      "inline_index": 0,
+      "line_hash": "33b74d04",
+      "speaker": "{G_PlayerName}",
+      "ja": "アコ……！　出て来れたんだな！",
+      "zh": ""
+    },
+    {
+      "key": "534.1",
+      "line_index": 534,
+      "inline_index": 1,
+      "line_hash": "2b918b5e",
+      "speaker": "雫",
+      "ja": "我々が飛び立ったら解放してよいと伝えましたからね",
+      "zh": ""
+    },
+    {
+      "key": "536.1",
+      "line_index": 536,
+      "inline_index": 1,
+      "line_hash": "3a898b90",
+      "speaker": "コハル",
+      "ja": "なんでそんな……？",
+      "zh": ""
+    },
+    {
+      "key": "538.1",
+      "line_index": 538,
+      "inline_index": 1,
+      "line_hash": "e81fb120",
+      "speaker": "雫",
+      "ja": "機械はなんとか止められましたが、影響が濃かったあのリリアンはどんな行動を取るかわかりませんでしたから。念の為です",
+      "zh": ""
+    },
+    {
+      "key": "540.0",
+      "line_index": 540,
+      "inline_index": 0,
+      "line_hash": "4889c957",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……お別れ言いたかったんだけどな",
+      "zh": ""
+    },
+    {
+      "key": "542.1",
+      "line_index": 542,
+      "inline_index": 1,
+      "line_hash": "d9156553",
+      "speaker": "ルミナ",
+      "ja": "また、来よう……？",
+      "zh": ""
+    },
+    {
+      "key": "544.0",
+      "line_index": 544,
+      "inline_index": 0,
+      "line_hash": "f01fb15d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……そうだな！",
+      "zh": ""
+    },
+    {
+      "key": "561.1",
+      "line_index": 561,
+      "inline_index": 1,
+      "line_hash": "96111cc0",
+      "speaker": "アルフ",
+      "ja": "ふー……見えなくなったね。じゃあ戻ろっか！",
+      "zh": ""
+    },
+    {
+      "key": "563.1",
+      "line_index": 563,
+      "inline_index": 1,
+      "line_hash": "f46b7f09",
+      "speaker": "アコ",
+      "ja": "あ、あ、あの……",
+      "zh": ""
+    },
+    {
+      "key": "565.1",
+      "line_index": 565,
+      "inline_index": 1,
+      "line_hash": "276082f5",
+      "speaker": "ベル",
+      "ja": "どうした、アコ？",
+      "zh": ""
+    },
+    {
+      "key": "567.1",
+      "line_index": 567,
+      "inline_index": 1,
+      "line_hash": "e02b23dc",
+      "speaker": "アコ",
+      "ja": "私本当に、お咎め無しでいいんでしょうか……！？",
+      "zh": ""
+    },
+    {
+      "key": "569.1",
+      "line_index": 569,
+      "inline_index": 1,
+      "line_hash": "f00e544a",
+      "speaker": "アルフ",
+      "ja": "え～？　ラッキー、でいいじゃん。お仕置きされたいの？",
+      "zh": ""
+    },
+    {
+      "key": "571.1",
+      "line_index": 571,
+      "inline_index": 1,
+      "line_hash": "d2830f9a",
+      "speaker": "アコ",
+      "ja": "それは……でも、皆さんを危険に……大変な爆弾まで作って……！",
+      "zh": ""
+    },
+    {
+      "key": "573.1",
+      "line_index": 573,
+      "inline_index": 1,
+      "line_hash": "b98a4744",
+      "speaker": "ベル",
+      "ja": "あの妙な研究所は閉鎖……というか国に差し押さえられる上、監視もつけられるらしいし、お咎め無しとは違うのではないか？",
+      "zh": ""
+    },
+    {
+      "key": "575.1",
+      "line_index": 575,
+      "inline_index": 1,
+      "line_hash": "721f56ef",
+      "speaker": "アルフ",
+      "ja": "そもそも、変な機械に操られてたから仕方ないって話でしょ～？　……それに",
+      "zh": ""
+    },
+    {
+      "key": "577.1",
+      "line_index": 577,
+      "inline_index": 1,
+      "line_hash": "ce246435",
+      "speaker": "アルフ",
+      "ja": "ウチは結構面白くて好きだったけどね。おかしくなってるアンタも",
+      "zh": ""
+    },
+    {
+      "key": "579.1",
+      "line_index": 579,
+      "inline_index": 1,
+      "line_hash": "dcd897e",
+      "speaker": "アコ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "581.1",
+      "line_index": 581,
+      "inline_index": 1,
+      "line_hash": "2a161ea7",
+      "speaker": "アコ",
+      "ja": "……ええーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "583.1",
+      "line_index": 583,
+      "inline_index": 1,
+      "line_hash": "e3108d9",
+      "speaker": "アルフ",
+      "ja": "流石に星壊すのはダメだけど、山くらい吹き飛ばす爆弾なら面白そうじゃん？　作ってみない？",
+      "zh": ""
+    },
+    {
+      "key": "585.1",
+      "line_index": 585,
+      "inline_index": 1,
+      "line_hash": "5070bd00",
+      "speaker": "ベル",
+      "ja": "それはロマンだな！",
+      "zh": ""
+    },
+    {
+      "key": "587.1",
+      "line_index": 587,
+      "inline_index": 1,
+      "line_hash": "4159ea12",
+      "speaker": "アコ",
+      "ja": "だ、だ、ダメですーっ！　……ダメですよね？",
+      "zh": ""
+    },
+    {
+      "key": "589.1",
+      "line_index": 589,
+      "inline_index": 1,
+      "line_hash": "cc378456",
+      "speaker": "ベル",
+      "ja": "お。押せばいけるのではないか……？",
+      "zh": ""
+    },
+    {
+      "key": "591.1",
+      "line_index": 591,
+      "inline_index": 1,
+      "line_hash": "9b1c74d9",
+      "speaker": "アルフ",
+      "ja": "頼み込めば、なんとかなるかも？",
+      "zh": ""
+    },
+    {
+      "key": "593.1",
+      "line_index": 593,
+      "inline_index": 1,
+      "line_hash": "fcc8be5b",
+      "speaker": "アコ",
+      "ja": "押さないでください！　絶対に！　本当に作っちゃうかも知れませんから！",
+      "zh": ""
+    },
+    {
+      "key": "613.1",
+      "line_index": 613,
+      "inline_index": 1,
+      "line_hash": "66b2bf3b",
+      "speaker": "コハル",
+      "ja": "や～っと肩が伸ばせるわね！　お疲れ様、ルミナ！　シャワー浴びたらご飯食べる？",
+      "zh": ""
+    },
+    {
+      "key": "615.1",
+      "line_index": 615,
+      "inline_index": 1,
+      "line_hash": "8e8fdb0a",
+      "speaker": "ルミナ",
+      "ja": "うん……一緒に食べよう、コハル、さん……",
+      "zh": ""
+    },
+    {
+      "key": "617.1",
+      "line_index": 617,
+      "inline_index": 1,
+      "line_hash": "abc72ee6",
+      "speaker": "コハル",
+      "ja": "……ちょっと、ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "619.1",
+      "line_index": 619,
+      "inline_index": 1,
+      "line_hash": "fd129ee2",
+      "speaker": "ルミナ",
+      "ja": "どうか……した？",
+      "zh": ""
+    },
+    {
+      "key": "621.1",
+      "line_index": 621,
+      "inline_index": 1,
+      "line_hash": "a97c613d",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}のこと、なんて呼んでる？",
+      "zh": ""
+    },
+    {
+      "key": "623.1",
+      "line_index": 623,
+      "inline_index": 1,
+      "line_hash": "738bfbbb",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん……",
+      "zh": ""
+    },
+    {
+      "key": "625.1",
+      "line_index": 625,
+      "inline_index": 1,
+      "line_hash": "68175404",
+      "speaker": "コハル",
+      "ja": "雫は？",
+      "zh": ""
+    },
+    {
+      "key": "627.1",
+      "line_index": 627,
+      "inline_index": 1,
+      "line_hash": "e6d857c5",
+      "speaker": "ルミナ",
+      "ja": "雫……",
+      "zh": ""
+    },
+    {
+      "key": "629.1",
+      "line_index": 629,
+      "inline_index": 1,
+      "line_hash": "3575aa54",
+      "speaker": "コハル",
+      "ja": "それで……私は？",
+      "zh": ""
+    },
+    {
+      "key": "631.1",
+      "line_index": 631,
+      "inline_index": 1,
+      "line_hash": "5ef50e89",
+      "speaker": "ルミナ",
+      "ja": "コハル……さん",
+      "zh": ""
+    },
+    {
+      "key": "633.1",
+      "line_index": 633,
+      "inline_index": 1,
+      "line_hash": "87643fc7",
+      "speaker": "コハル",
+      "ja": "私だけなんか距離感じない！？",
+      "zh": ""
+    },
+    {
+      "key": "635.1",
+      "line_index": 635,
+      "inline_index": 1,
+      "line_hash": "df2ab039",
+      "speaker": "ルミナ",
+      "ja": "そ、そう……かな？　呼びやすいようにしてる……だけ、なんだけど",
+      "zh": ""
+    },
+    {
+      "key": "637.1",
+      "line_index": 637,
+      "inline_index": 1,
+      "line_hash": "1dd5414",
+      "speaker": "コハル",
+      "ja": "ライラだってちゃん付けになったのに！　私も、もうちょっと気軽に呼んでよ！",
+      "zh": ""
+    },
+    {
+      "key": "639.1",
+      "line_index": 639,
+      "inline_index": 1,
+      "line_hash": "fb5d35e4",
+      "speaker": "コハル",
+      "ja": "……友達でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "641.1",
+      "line_index": 641,
+      "inline_index": 1,
+      "line_hash": "b161566e",
+      "speaker": "ルミナ",
+      "ja": "じゃ、じゃあ……コ……",
+      "zh": ""
+    },
+    {
+      "key": "643.1",
+      "line_index": 643,
+      "inline_index": 1,
+      "line_hash": "1ee7cbc",
+      "speaker": "ルミナ",
+      "ja": "コハル……ちゃん",
+      "zh": ""
+    },
+    {
+      "key": "645.1",
+      "line_index": 645,
+      "inline_index": 1,
+      "line_hash": "45b68404",
+      "speaker": "コハル",
+      "ja": "ふふっ！　いいわね！　……でも、私だけルミナ、って呼び捨てするのおかしいかしら？",
+      "zh": ""
+    },
+    {
+      "key": "647.1",
+      "line_index": 647,
+      "inline_index": 1,
+      "line_hash": "2b5a50d2",
+      "speaker": "コハル",
+      "ja": "ルミナちゃん？　……ちょっと恥ずかしいわね。たまに呼んでみようかな？",
+      "zh": ""
+    },
+    {
+      "key": "649.1",
+      "line_index": 649,
+      "inline_index": 1,
+      "line_hash": "1e3bc9c0",
+      "speaker": "ルミナ",
+      "ja": "ふふ……",
+      "zh": ""
+    },
+    {
+      "key": "659.0",
+      "line_index": 659,
+      "inline_index": 0,
+      "line_hash": "201d298",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……今回の星はいつにも増して疲れたな……",
+      "zh": ""
+    },
+    {
+      "key": "661.0",
+      "line_index": 661,
+      "inline_index": 0,
+      "line_hash": "b154ab0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……前の星でも言ってたっけ、これ？",
+      "zh": ""
+    },
+    {
+      "key": "663.0",
+      "line_index": 663,
+      "inline_index": 0,
+      "line_hash": "1a2c6142",
+      "speaker": "",
+      "ja": "机に火と荒野の星で得た技術のメモを置いて、大きく伸びをする。",
+      "zh": ""
+    },
+    {
+      "key": "665.0",
+      "line_index": 665,
+      "inline_index": 0,
+      "line_hash": "83c2096b",
+      "speaker": "{G_PlayerName}",
+      "ja": "くーっ……！　コハルたちも言ってたみたいに、シャワー浴びてメシ食べたら今日はすぐ寝るか……！",
+      "zh": ""
+    },
+    {
+      "key": "671.1",
+      "line_index": 671,
+      "inline_index": 1,
+      "line_hash": "7983d22",
+      "speaker": "雫",
+      "ja": "機械士",
+      "zh": ""
+    },
+    {
+      "key": "674.0",
+      "line_index": 674,
+      "inline_index": 0,
+      "line_hash": "967378a2",
+      "speaker": "{G_PlayerName}",
+      "ja": "わーーーっ！！？　びっくりした！！",
+      "zh": ""
+    },
+    {
+      "key": "676.1",
+      "line_index": 676,
+      "inline_index": 1,
+      "line_hash": "6b952bf6",
+      "speaker": "雫",
+      "ja": "やかましいですよ。声帯を除去して差し上げましょうか",
+      "zh": ""
+    },
+    {
+      "key": "678.0",
+      "line_index": 678,
+      "inline_index": 0,
+      "line_hash": "289cdc17",
+      "speaker": "{G_PlayerName}",
+      "ja": "いきなり背後に立つからだろ！？　……何の用だ？",
+      "zh": ""
+    },
+    {
+      "key": "680.1",
+      "line_index": 680,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "682.1",
+      "line_index": 682,
+      "inline_index": 1,
+      "line_hash": "e4e6b72f",
+      "speaker": "雫",
+      "ja": "大変に不本意で、遺憾で、こんな日が来るなどとは夢にも思っていないどころか、来ない事を切実に祈っておりましたが……",
+      "zh": ""
+    },
+    {
+      "key": "684.0",
+      "line_index": 684,
+      "inline_index": 0,
+      "line_hash": "16717fb4",
+      "speaker": "",
+      "ja": "まくしたてると、雫はうつむいて黙った。",
+      "zh": ""
+    },
+    {
+      "key": "686.0",
+      "line_index": 686,
+      "inline_index": 0,
+      "line_hash": "323e0bd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ……いいから早く言ってくれ",
+      "zh": ""
+    },
+    {
+      "key": "688.1",
+      "line_index": 688,
+      "inline_index": 1,
+      "line_hash": "ea5f76f9",
+      "speaker": "雫",
+      "ja": "地下での件。あなたが爆弾から機械を取り出さなければ我々の命はありませんでした",
+      "zh": ""
+    },
+    {
+      "key": "690.1",
+      "line_index": 690,
+      "inline_index": 1,
+      "line_hash": "ec6a31df",
+      "speaker": "雫",
+      "ja": "感謝します",
+      "zh": ""
+    },
+    {
+      "key": "692.0",
+      "line_index": 692,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "694.1",
+      "line_index": 694,
+      "inline_index": 1,
+      "line_hash": "d97e3792",
+      "speaker": "雫",
+      "ja": "なんですかその顔は。いつもに増してブサイクですよ。スライムでも顔に貼り付けてあげましょうか",
+      "zh": ""
+    },
+    {
+      "key": "696.0",
+      "line_index": 696,
+      "inline_index": 0,
+      "line_hash": "d0ac1db9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、いや……なんていうか……明日、この船爆発するんじゃないか？　と……",
+      "zh": ""
+    },
+    {
+      "key": "698.1",
+      "line_index": 698,
+      "inline_index": 1,
+      "line_hash": "ce0530dd",
+      "speaker": "雫",
+      "ja": "爆死する寸前だったというのにそのようなセンスの無い冗談をのたまうとは。外へ投げ出して差し上げましょうか",
+      "zh": ""
+    },
+    {
+      "key": "700.0",
+      "line_index": 700,
+      "inline_index": 0,
+      "line_hash": "9ffd4eb7",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ……やっぱりいつも通りだな。明日も無事に過ごせそうで何よりだ",
+      "zh": ""
+    },
+    {
+      "key": "702.1",
+      "line_index": 702,
+      "inline_index": 1,
+      "line_hash": "1497b948",
+      "speaker": "雫",
+      "ja": "ペッ！　感謝はしましたがルミナ様は渡しませんからね！",
+      "zh": ""
+    },
+    {
+      "key": "709.0",
+      "line_index": 709,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "711.0",
+      "line_index": 711,
+      "inline_index": 0,
+      "line_hash": "18c3773f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……役に立てたのか。今回は……",
+      "zh": ""
+    },
+    {
+      "key": "713.0",
+      "line_index": 713,
+      "inline_index": 0,
+      "line_hash": "778b5fae",
+      "speaker": "",
+      "ja": "火と荒野の星に降りる前より、心無しか肩が軽くなった気がする。",
+      "zh": ""
+    },
+    {
+      "key": "715.0",
+      "line_index": 715,
+      "inline_index": 0,
+      "line_hash": "edf96e60",
+      "speaker": "",
+      "ja": "……肩の荷が爆弾で吹き飛ばされたのか、などと下らない考えを一笑に付し、さっさとバスルームへと向かうことにした。",
+      "zh": ""
+    },
+    {
+      "key": "735.1",
+      "line_index": 735,
+      "inline_index": 1,
+      "line_hash": "5690618b",
+      "speaker": "アポロ",
+      "ja": "ログを確認……未知の言語であるためごく一部の予想、それもここ数日ぶんのログしかありませんが……",
+      "zh": ""
+    },
+    {
+      "key": "737.1",
+      "line_index": 737,
+      "inline_index": 1,
+      "line_hash": "df7e270d",
+      "speaker": "アポロ",
+      "ja": "構造と記録……から、頭脳、身体能力を強化する機械と推測。映像記録では、間違い無く思考も操っている……",
+      "zh": ""
+    },
+    {
+      "key": "739.1",
+      "line_index": 739,
+      "inline_index": 1,
+      "line_hash": "949b24e4",
+      "speaker": "アポロ",
+      "ja": "あのような劇的な強化、意図的な思考操作は母星の技術でも不可能なはず……やはり、この機械は未知の技術が使われている……",
+      "zh": ""
+    },
+    {
+      "key": "741.1",
+      "line_index": 741,
+      "inline_index": 1,
+      "line_hash": "8b9d4316",
+      "speaker": "アポロ",
+      "ja": "どうやら、何らかの選出基準でリリアンをターゲットし、用意していた設備に誘導し爆弾の開発を行わせたようですね。目的は不明ですが……",
+      "zh": ""
+    },
+    {
+      "key": "743.1",
+      "line_index": 743,
+      "inline_index": 1,
+      "line_hash": "16374565",
+      "speaker": "アポロ",
+      "ja": "アコとやらのリリアンへの影響が止まった際の活動ログ……言語解析……「禁則」「停止」……？　禁則に触れたため、停止……？",
+      "zh": ""
+    },
+    {
+      "key": "745.1",
+      "line_index": 745,
+      "inline_index": 1,
+      "line_hash": "49327ef5",
+      "speaker": "アポロ",
+      "ja": "会話から察するに……{G_PlayerName}様の体内にあるルナリングを狙ったことが、禁則に触れた……？",
+      "zh": ""
+    },
+    {
+      "key": "747.0",
+      "line_index": 747,
+      "inline_index": 0,
+      "line_hash": "5af32110",
+      "speaker": "",
+      "ja": "人命に影響が及ぶ行為……いや、であれば爆弾を開発しようとしたり、戦った時点で停止しているはず。つまり……",
+      "zh": ""
+    },
+    {
+      "key": "749.1",
+      "line_index": 749,
+      "inline_index": 1,
+      "line_hash": "aa628967",
+      "speaker": "アポロ",
+      "ja": "「ルナリング」を欲したことが停止に繋がった……？",
+      "zh": ""
+    }
+  ]
+}

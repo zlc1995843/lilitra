@@ -1,0 +1,481 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "d4a2216e",
+      "speaker": "{G_PlayerName}",
+      "ja": "ど……どこに行った！？",
+      "zh": "喂……你跑哪儿去了！？"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "581f3989",
+      "speaker": "アルフ",
+      "ja": "わかんない……爆煙に隠れてどこか行っちゃった……！",
+      "zh": "不知道……躲进烟里就跑没影了……！"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "86fe6a45",
+      "speaker": "{G_PlayerName}",
+      "ja": "足跡も……くそっ、爆弾で全然わからないな……",
+      "zh": "脚印也……靠，爆炸过后啥都看不出来了……"
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "449053eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、惑星を壊す爆弾ってことはメチャクチャデカいだろ！？　大きい工場を探せばいいんじゃないか！？",
+      "zh": "不过，能炸掉行星的炸弹肯定超级大吧！？找找大的工厂不就行了？！"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "631d1a05",
+      "speaker": "アルフ",
+      "ja": "そうだね……そうかも。一度街に戻って探してみよう！",
+      "zh": "嗯，也是。先回镇上再找找看吧！"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "435d6ead",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー、はー……見つからない……アルフ！　そっちはどうだ？",
+      "zh": "呼、呼……找不到啊……阿尔夫！你那边呢？"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "d15c8de7",
+      "speaker": "アルフ",
+      "ja": "通ってもいないみたい。……大きめの工場の人に声をかけてもみたけど、誰も知らないってさ",
+      "zh": "好像也不通。……我去问了几个大工厂的人，都说不知道。"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "e2b2d285",
+      "speaker": "アルフ",
+      "ja": "……誰かの工場を借りて作ってるのかと思ったけど、そうじゃないのかな……？",
+      "zh": "……我还以为是借了谁的工厂做的呢，看来不是这样……？"
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "71ba7b9e",
+      "speaker": "？？？",
+      "ja": "あ！　どうしたの、{G_PlayerName}？",
+      "zh": "啊！怎么了，{G_PlayerName}？"
+    },
+    {
+      "key": "61.0",
+      "line_index": 61,
+      "inline_index": 0,
+      "line_hash": "25739a87",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル！　ルミナ！　……と、ベル！",
+      "zh": "小春！露米娜！……还有，贝尔！"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "555708bb",
+      "speaker": "ルミナ",
+      "ja": "息、切らして……どうしたの……？",
+      "zh": "呼、吓死我了……你怎么了……？"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "9dc0550a",
+      "speaker": "ベル",
+      "ja": "なんじゃ、アコとやらの爆弾作りを手伝うんじゃなかったのか？",
+      "zh": "什么啊，不是说要帮那个叫亚子的做炸弹吗？"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "2f6977be",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それなんだけど……",
+      "zh": "呃、是这么说啦……"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "659b3f15",
+      "speaker": "コハル",
+      "ja": "え、えー……？　……流石に、嘘でしょ？　そんな……",
+      "zh": "啊、啊？……不至于吧，你在开玩笑吧？那样……"
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "9cc4137c",
+      "speaker": "ルミナ",
+      "ja": "……人が１人で、惑星を壊すなんて……出来るとは、思えないけど……",
+      "zh": "……一个人就想要毁掉一颗行星……虽然我觉得不太可能……"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "8c8b6787",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……？　……でも、アコの妄想だったとしても、相当な大爆発が起きるはずだ。このままにするわけには……",
+      "zh": "是、是吗……？但就算是亚子的妄想，那也肯定会引发大爆炸。不能就这么放着不管……"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "1529643c",
+      "speaker": "ベル",
+      "ja": "……わがはいも出来るとは思わん。わがはいにだってそんな爆弾作れんからな。だが……",
+      "zh": "……我也觉得不可能。就连我也造不出那种炸弹。但是……"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "bd4f6a16",
+      "speaker": "ベル",
+      "ja": "理論上、惑星を破壊するつもりなら必ず向かうべき場所が１つ、ある",
+      "zh": "理论上，如果想炸掉一颗行星，那必定要先去一个地方。"
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "df0a7c36",
+      "speaker": "{G_PlayerName}",
+      "ja": "それって……？",
+      "zh": "那是……？"
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "1e543625",
+      "speaker": "ベル",
+      "ja": "地下だ",
+      "zh": "地下。"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "2bd01043",
+      "speaker": "ベル",
+      "ja": "惑星を完全に破壊するつもりであれば、惑星の中心に近い場所で爆発させなくてはならない",
+      "zh": "要想彻底炸毁一颗行星，就必须在接近行星中心的位置引爆。"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "77f6487f",
+      "speaker": "ベル",
+      "ja": "よって、頻繁に作業をする場所の近くに、地下への入口があるはずだ。いつもはどのあたりだったのだ？",
+      "zh": "所以，在频繁作业的地方附近，应该有一个通往地下的入口。平时是在哪个位置？"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "d060ec07",
+      "speaker": "{G_PlayerName}",
+      "ja": "確か、このあたりで……！　だとすれば、見失ったのも説明がつく！",
+      "zh": "没错，就在这附近……！这样就能解释为什么找不到了！"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "dea1c60c",
+      "speaker": "アルフ",
+      "ja": "よーし、入口を探そう！",
+      "zh": "好嘞，咱们找入口去！"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "4208155e",
+      "speaker": "コハル",
+      "ja": "見つからないわね……！　本当にあるのかしら？",
+      "zh": "找不到啊……！真的会有吗？"
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "984f8609",
+      "speaker": "ルミナ",
+      "ja": "ここにアポロちゃんが、移動してくれたら……スキャンが出来るけど……",
+      "zh": "如果让阿波罗到这边来移动一下……就能扫描了……"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "ea0c4bb4",
+      "speaker": "コハル",
+      "ja": "そうなの！？　じゃあそうしてみる？",
+      "zh": "这样啊！？那就试试看？"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "a9b46daf",
+      "speaker": "ルミナ",
+      "ja": "大きい爆弾があるかも知れない場所に……アポロちゃんを移動させるのは……危険……",
+      "zh": "把阿波罗移动到可能藏有巨大炸弹的地方……太危险了……"
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "7ac7b9a9",
+      "speaker": "コハル",
+      "ja": "そう上手くはいかないのね……",
+      "zh": "确实没那么简单呢……"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "fd2c555a",
+      "speaker": "{G_PlayerName}",
+      "ja": "結局人力で探すしか無いのか……",
+      "zh": "到头来还是只能靠人硬找啊……"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "b971cc54",
+      "speaker": "？？？",
+      "ja": "水臭いな、俺も呼んでくれればいいのに",
+      "zh": "太见外了，也叫我一声嘛。"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "96d2e8f1",
+      "speaker": "{G_PlayerName}",
+      "ja": "リズ！",
+      "zh": "莉兹！"
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "2a3f326c",
+      "speaker": "リズ",
+      "ja": "妙にバタバタと走るお前らを見てな……仕事があるなら請け負うが",
+      "zh": "看你们急匆匆跑来跑去的样子……要是有活儿，我接了。"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "2efc03f1",
+      "speaker": "ルミナ",
+      "ja": "ありがとう……！　実は、ね……",
+      "zh": "谢了……！其实是这样的……"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "9c598aae",
+      "speaker": "リズ",
+      "ja": "……あったな。ここだ",
+      "zh": "……有了。就是这儿。"
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "ff311138",
+      "speaker": "",
+      "ja": "岩と岩の間、スクラップの間から鉄扉が姿を現す。",
+      "zh": "岩石和废铁的缝隙中，一扇铁门露了出来。"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "b7c0fa4c",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなところに……！",
+      "zh": "竟然在这种地方……！"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "601c6fa7",
+      "speaker": "",
+      "ja": "アコは時折爆弾の材料をどこからか用意していたが、ここから取り出していたのだろうか……？",
+      "zh": "亚子时不时搞来一些炸弹材料，难道就是从这儿拿的吗……？"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "ddf7f398",
+      "speaker": "アルフ",
+      "ja": "すごっ！　でもなんですぐにわかったの？",
+      "zh": "厉害！不过你怎么一下子就知道了？"
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "a1f28fc7",
+      "speaker": "リズ",
+      "ja": "この近辺では生き物やモンスターが少ないと聞いていてな。関係あるのではと思った",
+      "zh": "听说这附近生物和怪兽都很少。我琢磨着可能跟这儿有关。"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "dceb58d9",
+      "speaker": "{G_PlayerName}",
+      "ja": "それって危ないんじゃあ……？",
+      "zh": "那岂不是很危险……？"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "bbd80663",
+      "speaker": "リズ",
+      "ja": "モンスター避けか防衛装置でもあるのかと思ったが、今のところはどちらも無さそうだな",
+      "zh": "我以为是防怪兽或者防护装置呢，不过现在看来都不是。"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "908412a7",
+      "speaker": "ベル",
+      "ja": "ほほー！　これはまたロマン溢れる造りだな！　よし、突入だ！",
+      "zh": "嚯嚯！这设计还真是充满浪漫气息啊！好，冲进去！"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "ac772aef",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ……ここは……！？",
+      "zh": "这……这里是……！？"
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "3e8fa371",
+      "speaker": "コハル",
+      "ja": "す、凄い場所ね……！　宇宙船みたいだわ！",
+      "zh": "好、好壮观的地方……！简直像宇宙飞船一样！"
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "b8fb657b",
+      "speaker": "ルミナ",
+      "ja": "おかしい……この星でこんな技術力……",
+      "zh": "奇怪……在这颗星球上居然有这种技术水平……"
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "daef0267",
+      "speaker": "ベル",
+      "ja": "間違いない、この奥にアコがいるぞ！",
+      "zh": "没错，亚子就在这深处！"
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "a81201a5",
+      "speaker": "コハル",
+      "ja": "そうね、急ぎましょう。って言いたいところだけど……！",
+      "zh": "是啊，赶紧出发吧。我倒是想这么说……！"
+    },
+    {
+      "key": "226.0",
+      "line_index": 226,
+      "inline_index": 0,
+      "line_hash": "9c720873",
+      "speaker": "",
+      "ja": "廊下の先に、動く影がいくつか見える。こちらに気がついたのか、脈動しながら少しずつ近づいて来た……！",
+      "zh": "走廊前方有几个移动的影子。好像察觉到我们了，它们一边颤动着一边慢慢逼近……！"
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "799833dd",
+      "speaker": "アルフ",
+      "ja": "セキュリティ代わりのモンスター、ってこと？",
+      "zh": "是代替警卫的怪兽吗？"
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "5963677c",
+      "speaker": "ルミナ",
+      "ja": "危ないから、戦いに慣れてなかったら、下がったほうが……",
+      "zh": "露米娜：太危险了，你没怎么打过仗的话，最好退后一点……"
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "7fa6580e",
+      "speaker": "アルフ",
+      "ja": "危険なら慣れっこだよ！　爆弾パフォーマーの妙技、見せてあげる！",
+      "zh": "阿尔夫：危险算什么，我早习惯了！让你见识见识炸弹表演者的绝技！"
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "f453d834",
+      "speaker": "ベル",
+      "ja": "ふん、わがはいの爆弾捌きも見せてやろう！",
+      "zh": "贝尔：哼，就让你们瞧瞧本大爷的炸弹斩！"
+    }
+  ]
+}

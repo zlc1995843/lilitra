@@ -1,0 +1,850 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "f3f65e06",
+      "speaker": "ルミナ",
+      "ja": "……ううん……",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "56c61bac",
+      "speaker": "雫",
+      "ja": "どういたしましたルミナ様、お悩みですか？",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "7895deda",
+      "speaker": "雫",
+      "ja": "まさか……あの男がまた何か？　ご命令とあらばすぐさま首を持って参ります。ご命令をどうぞ、さあ！",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "5c08e6ff",
+      "speaker": "",
+      "ja": "少し唸っただけで{G_PlayerName}くんの命が危ぶまれるとは。ルミナはそう思い、軽く苦笑した。",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "4714be9",
+      "speaker": "ルミナ",
+      "ja": "少し、最近寄り道しすぎかな……って。{G_PlayerName}くんからルナリングを取り出して、早く帰してあげないと……いけないのに",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "77a3c4e4",
+      "speaker": "雫",
+      "ja": "ああ、そんなことですか。どうせ命は数年もつのですから、いくらでも待たせればよいでしょうに",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "f8893ad2",
+      "speaker": "ルミナ",
+      "ja": "だめ……だよ。私達のワガママで、振り回しちゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "264fc3c",
+      "speaker": "雫",
+      "ja": "命を救ったのですから、多少……いや、大いに振り回す権利はございます。向こう側も楽しんでいるのですから、お互い様ですわ",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "e188a8e2",
+      "speaker": "ルミナ",
+      "ja": "うーん……これからはちゃんと、私が行きたいからじゃなくて……みんなで話し合って決めるようにしようか、な",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "f786f531",
+      "speaker": "雫",
+      "ja": "（ルミナ様が行きたがっていれば、誰も反対できないと思いますがね……わたくしがそうさせますし）",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "32da0326",
+      "speaker": "{G_PlayerName}",
+      "ja": "うー……ダメだ！",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "ddc45f8d",
+      "speaker": "",
+      "ja": "ルミナがラウンジで唸っている頃、あなたもマイルームで唸りを上げていた。",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "385c1da4",
+      "speaker": "{G_PlayerName}",
+      "ja": "色々作っては見てるけど、テストが出来なきゃ話にならないし……",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "e0e30965",
+      "speaker": "",
+      "ja": "宇宙船内で機械を作ることは許されていても、テストすることは危険だと言って許されていなかった。",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "a0fb7df6",
+      "speaker": "{G_PlayerName}",
+      "ja": "時々見かけた機械の再現とか、アイデアからなんとかするのもそろそろ限界だ……！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "bfe4acdb",
+      "speaker": "",
+      "ja": "目の前に転がった工具と、機械の出来損ないを見下ろす。",
+      "zh": ""
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "3930a47",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも俺に出来ることなんて、他に……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "598a0246",
+      "speaker": "アポロ",
+      "ja": "少しよろしいですか",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "47049fd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！",
+      "zh": ""
+    },
+    {
+      "key": "65.0",
+      "line_index": 65,
+      "inline_index": 0,
+      "line_hash": "fb0b0ea1",
+      "speaker": "",
+      "ja": "アポロのホログラムが机を貫通するように目の前に現れ、あなたは思わず尻もちをついてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "2bab0d9e",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ一体！？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "c9894c14",
+      "speaker": "アポロ",
+      "ja": "……これを見ていただきたいと思いまして",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "1412f239",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……？　これ、って……まさか、もしかして……設計図か！？　何の！？",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "503ef044",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや何で？　どういうつもりで？　……要するに、なんでだ！？",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "14e99b43",
+      "speaker": "アポロ",
+      "ja": "お、落ち着いてください。……設計図といっても、最新の機械ではございません。他の星に教えても問題ないレベルの技術です",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "b40f8b53",
+      "speaker": "アポロ",
+      "ja": "それも、アナタの腕でも作れる物。……の設計図をいくつか、アナタの頭でも理解できる内容にまとめました",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "649f07a3",
+      "speaker": "アポロ",
+      "ja": "当然、それを作れば戦闘が出来るわけでもなければ、マスターに助力出来るわけでもありません。……が、必要なのでしょう？　技術の向上には",
+      "zh": ""
+    },
+    {
+      "key": "81.0",
+      "line_index": 81,
+      "inline_index": 0,
+      "line_hash": "dcf7ec34",
+      "speaker": "{G_PlayerName}",
+      "ja": "もちろん、凄く助かる！　助かるけど……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "683ff0a3",
+      "speaker": "アポロ",
+      "ja": "けど？　まさか、ワタシに文句を言うおつもりですか？",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "3e59b430",
+      "speaker": "{G_PlayerName}",
+      "ja": "違う違う！　今までは聞いても教えてくれなかっただろ、他の星の機械のこと？　なんで急に……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "7306c9de",
+      "speaker": "アポロ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "ce743616",
+      "speaker": "{G_PlayerName}",
+      "ja": "このままじゃ、コハルやルミナを守るどころか、足手まといにしか……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "b51ca9f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "もう俺、外に出ないほうがいいんじゃあ……リリアンにはどう足掻いても太刀打ち出来ないし……",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "aa5edf20",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いっそあのまま死んでたほうが、ルミナ達にも迷惑かけずに済んだんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "c8b40ec2",
+      "speaker": "アポロ",
+      "ja": "（……この部屋の独り言は全て聞き取っている、などとは言わないほうが良いでしょうね）",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "c1042c05",
+      "speaker": "アポロ",
+      "ja": "マスターのためです。あなたの能力や機嫌が少しでも改善されれば、マスターにも良い影響が期待できるでしょう",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "f94a9fe7",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ……なんだか釈然としないけど。ありがとう、ひとまず",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "e8590f98",
+      "speaker": "アポロ",
+      "ja": "もっとも、期待はしていませんが。必要な材料がある場合は申請すれば、可能な範囲で用意いたします",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "5d0daf65",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、わかった！　ありがとう、アポロ。で、どれどれ……この設計図は……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "32a88327",
+      "speaker": "アポロ",
+      "ja": "（……大きく劣った能力をしていると言うのに、懸命に……見苦しいほどに食らいつこうとする執念）",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "2824feb6",
+      "speaker": "アポロ",
+      "ja": "（ワタシに足りない物……必要な物……？　この人間と、ワタシは似通った部分が……）",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "8d12bd4b",
+      "speaker": "アポロ",
+      "ja": "（……バカバカしい！　最先端、最高級、最高スペックのワタシとコイツのどこが似ているというのです！　後でメンテナンスしなくては！）",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "bfe34e72",
+      "speaker": "{G_PlayerName}",
+      "ja": "……なあ、アポロ",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "9bc5235e",
+      "speaker": "アポロ",
+      "ja": "なんでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "dab3d57f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここ、どういう意味か全然わからないんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "cca3521c",
+      "speaker": "アポロ",
+      "ja": "……先が思いやられますね",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "8dcf9a8",
+      "speaker": "",
+      "ja": "数日後……",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "6904277",
+      "speaker": "雫",
+      "ja": "……？　皿の数が足りませんね。夕飯の時間だと言うのに、またあの機械士は朝からずっと部屋にこもっているのですか？",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "72679bc4",
+      "speaker": "コハル",
+      "ja": "そ。アポロに設計図もらったからそれの検証だとか練習だとか……全く、仕方ないヤツよね",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "3722aa56",
+      "speaker": "雫",
+      "ja": "まあ、わたくしとしては機械士の顔を見ずに済むなら、それに越したことはありません",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "338e0d08",
+      "speaker": "コハル",
+      "ja": "あんたってヤツは……でも、そういえば",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "91418d8e",
+      "speaker": "コハル",
+      "ja": "雫、最近{G_PlayerName}のこと機械士って呼ぶわね。前は男って呼んでたのに",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "1a64365c",
+      "speaker": "雫",
+      "ja": "え？　ああ……",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "7baca024",
+      "speaker": "雫",
+      "ja": "……男と呼ぶとルミナ様が悲しそうな顔をなさるので。ギリギリを探っているのです",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "eb32c600",
+      "speaker": "コハル",
+      "ja": "そんなチキンレースみたいな……",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "e581358d",
+      "speaker": "雫",
+      "ja": "（まあ……それだけではありませんけれど）",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "95bdbdc4",
+      "speaker": "{G_PlayerName}",
+      "ja": "うんうん……ここまでは上手くいってるはずだから、動かない原因は他に……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "34716df0",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、夕食持ってきてあげたわよ。頑張ってるわね",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "d8f09b92",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　め、珍しいな！？",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "b7d5e39a",
+      "speaker": "コハル",
+      "ja": "あたしが食べ物持ってきてあげることなんて、結構あるでしょ！　珍しくないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "617c6e10",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そうだけど……俺が機械触ってる時って、大体そろそろやめろって言うから……「頑張ってるわね」なんて……な？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "377010fe",
+      "speaker": "コハル",
+      "ja": "それはあたしがそう言わなきゃ、体壊すまでいつまでもやってるからでしょ！？　今回も相当だけど！",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "58a48164",
+      "speaker": "コハル",
+      "ja": "……最近なんか頑張ってるから、別のサポートしてあげようと思っただけ！",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "4567216e",
+      "speaker": "{G_PlayerName}",
+      "ja": "へへ……悪いな、コハル",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "42919b01",
+      "speaker": "コハル",
+      "ja": "でも、あと２時間経っても続けてたら止めるからね。風呂に突っ込んでベッドに叩き込むから",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "23836267",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい……",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "f222782a",
+      "speaker": "アポロ",
+      "ja": "少しよろしいでしょうか",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "2b6a94f4",
+      "speaker": "コハル",
+      "ja": "わっ！　あ、アポロか。どうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "c58b7db7",
+      "speaker": "アポロ",
+      "ja": "次の着陸予定が決まりましたのでお伝えに来ました",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "896b8f93",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ！　新しい星か！",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "4abb5852",
+      "speaker": "コハル",
+      "ja": "どんな星なの？",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "63f4c20a",
+      "speaker": "アポロ",
+      "ja": "「火と荒野の星」と呼ばれる星です。次の星では宇宙技術が発達しており、公にはされていませんが星間での交流が多少あります",
+      "zh": ""
+    },
+    {
+      "key": "219.0",
+      "line_index": 219,
+      "inline_index": 0,
+      "line_hash": "e73a11ca",
+      "speaker": "{G_PlayerName}",
+      "ja": "へぇ～！　今までには無かったパターンだな",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "61909646",
+      "speaker": "コハル",
+      "ja": "夏祭りやってた星は、色んな星から人が集まってたけど……公にされてないってことは、やっぱりバレちゃいけないの？",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "63e6da3e",
+      "speaker": "アポロ",
+      "ja": "いいえ。宇宙から来たと、むやみに吹聴しなければ問題有りません",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "73c0f66e",
+      "speaker": "アポロ",
+      "ja": "ちなみに{G_PlayerName}様にお渡しした設計図の中にも、その星で作られている機械があります",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "53b58279",
+      "speaker": "{G_PlayerName}",
+      "ja": "マジか！　つまり、実物が見れたり思う存分テストが出来るわけだな！",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "8660bfb8",
+      "speaker": "アポロ",
+      "ja": "ただ、ワタシの得ている情報はかなり古いので現在どんな状況かわかりません。また……",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "33d78a9b",
+      "speaker": "コハル",
+      "ja": "喜ぶのはいいけど、あんまり無理するんじゃないわよ？",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "9baac9ef",
+      "speaker": "コハル",
+      "ja": "『兄ちゃん、良い機械あるよ～ついといで～！』みたいに騙されて、捕まったりしないでしょうね？",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "8fe45719",
+      "speaker": "{G_PlayerName}",
+      "ja": "騙されるか！　……騙されないんじゃないかな？　……まあ、ちょっと覚悟はしておいてくれ",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "b569e07b",
+      "speaker": "コハル",
+      "ja": "首輪繋いであげましょうか？　ワンちゃんみたいに",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "21bb4dfd",
+      "speaker": "アポロ",
+      "ja": "（……まあ、いいですか。別に教えなくても。着けばすぐにわかるでしょうし……）",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "8dcf9a8",
+      "speaker": "",
+      "ja": "数日後……",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "d78d18d0",
+      "speaker": "アポロ",
+      "ja": "では、着陸体勢に入ります。ベルトを外さず、そのままお待ち下さい",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "fc35c6ee",
+      "speaker": "コハル",
+      "ja": "この時って、毎回なんだか緊張するわね……！　揺れたりしないのに！",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "1929b8b5",
+      "speaker": "ルミナ",
+      "ja": "ふふ……そう、だね",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "69b0fb24",
+      "speaker": "雫",
+      "ja": "……着いたようですね",
+      "zh": ""
+    },
+    {
+      "key": "287.1",
+      "line_index": 287,
+      "inline_index": 1,
+      "line_hash": "75fc0b8e",
+      "speaker": "コハル",
+      "ja": "やっぱり全く揺れなかったわ！　スムーズよね～！",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "261d054b",
+      "speaker": "ルミナ",
+      "ja": "……窓が無かったら、気付けないかも、ね……",
+      "zh": ""
+    },
+    {
+      "key": "291.0",
+      "line_index": 291,
+      "inline_index": 0,
+      "line_hash": "8379e221",
+      "speaker": "{G_PlayerName}",
+      "ja": "よーし、それじゃ早速降りて冒険だな！",
+      "zh": ""
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "fe8752d5",
+      "speaker": "アポロ",
+      "ja": "着陸後の処理を進めている最中です。まだ動かず、そのまま……",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "51cf4a01",
+      "speaker": "",
+      "ja": "爆音が響き、コハルの言葉をあざ笑うかのような大きな揺れが船を襲う。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "4d329dfa",
+      "speaker": "",
+      "ja": "思いもよらぬ衝撃に、目の前が真っ暗になった……",
+      "zh": ""
+    }
+  ]
+}

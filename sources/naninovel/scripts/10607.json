@@ -1,0 +1,661 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "1c69819b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……これ、もらった材料",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "d44d357e",
+      "speaker": "アコ",
+      "ja": "ありがとうございます！　……お疲れですね？",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "2631149b",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまん、遅くなって……これじゃ今日は解散だな",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "7f352898",
+      "speaker": "アコ",
+      "ja": "いえいえ！　とんでもないです、凄く助かりました……！",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "65336913",
+      "speaker": "{G_PlayerName}",
+      "ja": "どんな爆弾を作るんだ？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "22b1d727",
+      "speaker": "アコ",
+      "ja": "アルフさんが言ってくださった通り、私の好きな物や……理解できる方向で、色々考えてみます！",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "b2cb2811",
+      "speaker": "アコ",
+      "ja": "ちょっと時間はかかりそうですけど……頑張ってみるつもりです",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "ad4a69a",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……じゃあ、また明日だな！",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "a41c888f",
+      "speaker": "アコ",
+      "ja": "はい！",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "b16de544",
+      "speaker": "",
+      "ja": "３日後……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "89d7ef61",
+      "speaker": "{G_PlayerName}",
+      "ja": "いってきまーす！",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "81fc41c2",
+      "speaker": "コハル",
+      "ja": "あ、{G_PlayerName}！　……行っちゃった。またアコって子のところ？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "6aedc523",
+      "speaker": "ルミナ",
+      "ja": "うん……爆弾作る、って……",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "601446f4",
+      "speaker": "コハル",
+      "ja": "最近はベルのところにも行ってるんでしょ……？　疲れないのかしら",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "b76ecb93",
+      "speaker": "{G_PlayerName}",
+      "ja": "頼もう！",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "f22dd54",
+      "speaker": "ベル",
+      "ja": "来たか！　同士よ",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "683af89",
+      "speaker": "{G_PlayerName}",
+      "ja": "よっ。今日はどんな爆弾作ったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "3d2c0c8c",
+      "speaker": "ベル",
+      "ja": "音が遅れて聞こえる爆弾じゃっ！　これを爆発させた周囲は、爆音を含め全ての音が１分後に響くぞ！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "1a182f42",
+      "speaker": "{G_PlayerName}",
+      "ja": "へ～！　……よくわからんが、すごいなあ",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "1ed65c1",
+      "speaker": "",
+      "ja": "３日の間に妙な実演販売をしているベルに出会い、気づけば仲良くなっていた。興味深く爆弾について質問する俺に、親しみを覚えたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "bb7c98a",
+      "speaker": "",
+      "ja": "アコと違って作り方を丁寧に教えてはくれないものの、見どころがあると言っては珍しい爆弾を教えてくれるのはとても楽しかった。",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "cd334831",
+      "speaker": "ベル",
+      "ja": "そして次に作ったのが……むっ！　もうこんな時間か！　茶を淹れるから、もうちょっと待て！",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "64f643fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、いつもの用事が……",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "33fcccd",
+      "speaker": "ベル",
+      "ja": "またあそこか？　どうせいないなら、行かないでもいいだろうに",
+      "zh": ""
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "49795bba",
+      "speaker": "{G_PlayerName}",
+      "ja": "いなかったら、その時はまた戻って来るよ",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "d2e7542a",
+      "speaker": "ベル",
+      "ja": "はあ、仕方ない。手早く済ませるのだぞ～",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "bcc7bbf2",
+      "speaker": "{G_PlayerName}",
+      "ja": "……今日もいないな",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "1a1539ab",
+      "speaker": "",
+      "ja": "あの後からアコは音信不通になっていた。いつもの時間、いつもの場所に毎日来ているが姿を見ることは無い。",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "7aee69a",
+      "speaker": "{G_PlayerName}",
+      "ja": "このままじゃ、もう会えないかもな……そろそろ長居しすぎだって雫に睨まれてるし……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "3c9a4f1b",
+      "speaker": "",
+      "ja": "アルフとは何回か会ったが、アルフもアコは見ていないらしい。何事も無いといいが……",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "67fe19c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん……？　あそこにいるのって",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "271b8189",
+      "speaker": "",
+      "ja": "……グリムは街中でたまにチラッと見かける。目が合うとすぐに逃げるけど……",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "ff5a5536",
+      "speaker": "{G_PlayerName}",
+      "ja": "会えないなら仕方ないか……じゃ、そろそろベルのとこに……",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "777f704a",
+      "speaker": "アコ",
+      "ja": "ふふ、{G_PlayerName}さん。お久しぶりですね",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "8ea0361a",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！　……びっくりした！　アコ、今までどこに行ってたんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "ebfe36a8",
+      "speaker": "アコ",
+      "ja": "集中してまして……ずっと作り続けて、ようやく完成……は、まだでした。もうすぐ完成するんです！",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "eda37b0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、何が……？",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "c2f0c862",
+      "speaker": "アコ",
+      "ja": "私の得意を伸ばした爆弾ですっ！",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "65ed5ad1",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお！　前言ってたやつか！　……あれだけの早業だったアコが、何日もかけてもうすぐ完成って……どんな爆弾なんだ？",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "901f8a14",
+      "speaker": "アコ",
+      "ja": "まだ名前はつけてませんが……そうですね、仮につけるとすれば……",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "49fa2603",
+      "speaker": "アコ",
+      "ja": "惑星破壊爆弾ですっ！",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "c6dc08f3",
+      "speaker": "{G_PlayerName}",
+      "ja": "……え？　惑星を、破壊？",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "6de30c8e",
+      "speaker": "アコ",
+      "ja": "はいっ！　私の得意なことは純粋な破壊力が高い爆弾です！　なので―――……",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "7dc572df",
+      "speaker": "",
+      "ja": "ワクセイ、って何だったか一瞬わからなくなる。星……たぶんそれも、今自分たちがいる、こういう星のことだよな……？",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "23ba08a",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それって、どこか他の星を破壊するってことか？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "2b64e87d",
+      "speaker": "アコ",
+      "ja": "いえ、この星を破壊する予定ですよ？",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "6d576659",
+      "speaker": "{G_PlayerName}",
+      "ja": "……！？　……そ、それって……あの……大丈夫なのか！？　ほら、死んだりとか……",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "ca2a5880",
+      "speaker": "アコ",
+      "ja": "あはは、大丈夫ですよ！　心配要りません！",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "c756fb20",
+      "speaker": "",
+      "ja": "アコの笑顔を見て、胸をなでおろす。破壊と言っても一部だとか、言葉の綾のような物だろう。",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "f280db1d",
+      "speaker": "アコ",
+      "ja": "きっと皆さん、感動するでしょうから！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "660119d1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……感動するから、大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "1ecb9da9",
+      "speaker": "アコ",
+      "ja": "はい！",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "9219d3b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "感動するから……死んでも、大丈夫って？",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "acf10cdf",
+      "speaker": "アコ",
+      "ja": "そうです！",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "4f3e3327",
+      "speaker": "{G_PlayerName}",
+      "ja": "い……いやいや。流石にそれは……大丈夫じゃない、だろ！？",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "6a317977",
+      "speaker": "アコ",
+      "ja": "アルフさんが昔、ショーで言ってたんです。芸術の前には、どんな犠牲だって厭わないと",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "a632db6e",
+      "speaker": "アコ",
+      "ja": "芸術の前であればいかなる被害も許容されるんですよ！　だから、大丈夫です！",
+      "zh": ""
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "cc1ff497",
+      "speaker": "？？？",
+      "ja": "いいわけないでしょ～",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "ff687be2",
+      "speaker": "アコ",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "336373d7",
+      "speaker": "",
+      "ja": "気づけばアルフが、後ろの岩陰からこちらへ近づいてきていた。……どうやら、話を聞いていたらしい。",
+      "zh": ""
+    },
+    {
+      "key": "216.1",
+      "line_index": 216,
+      "inline_index": 1,
+      "line_hash": "f4a46a6a",
+      "speaker": "アルフ",
+      "ja": "確かに私は、危険が大好きだよ。スリルが無きゃ、芸術じゃない。そのためなら犠牲は覚悟してる",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "69be786b",
+      "speaker": "アルフ",
+      "ja": "……でも、犠牲になるのはパフォーマーだけ。お客さんや無関係な人は巻き込んじゃいけない。法律でもそう決まってるでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "220.1",
+      "line_index": 220,
+      "inline_index": 1,
+      "line_hash": "f6189e14",
+      "speaker": "アコ",
+      "ja": "…………っ",
+      "zh": ""
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "1cddb74",
+      "speaker": "アコ",
+      "ja": "……でも……でも！　この星にいる人は、皆パフォーマーじゃないですか！　皆爆弾を作って、私よりずっと綺麗な爆発で人を楽しませてる！",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "fc695505",
+      "speaker": "アコ",
+      "ja": "ようやく輝けるんです！　……今まで一度も、人を楽しませたことがない私が、ようやく芸術を作り出せるんです！",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "230.1",
+      "line_index": 230,
+      "inline_index": 1,
+      "line_hash": "a8108b0e",
+      "speaker": "アルフ",
+      "ja": "気の毒だとは思うけど。でも、星を壊すっていうのはどう考えてもやり過ぎでしょ？　どこまでが本当で、本気か知らないけど……",
+      "zh": ""
+    },
+    {
+      "key": "232.1",
+      "line_index": 232,
+      "inline_index": 1,
+      "line_hash": "852a59e0",
+      "speaker": "アコ",
+      "ja": "……っ！",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "dabf0270",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ……おい、アコ！",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "9da93234",
+      "speaker": "アルフ",
+      "ja": "逃げた……？　ってことは、まさか本気なの……？",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "4421d73b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お……追うか！？",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "4622522d",
+      "speaker": "アルフ",
+      "ja": "そう……だね、本当だとしたら放っておけないし。追いかけよう！",
+      "zh": ""
+    }
+  ]
+}
