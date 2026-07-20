@@ -1,0 +1,778 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "24c03b2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "な……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "2f93aef1",
+      "speaker": "{G_PlayerName}",
+      "ja": "何か食べたいなあ……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "c10ff9f9",
+      "speaker": "雫",
+      "ja": "全く……先ほども食べたばかりでしょうに。ほら、イチゴでも食べていなさい",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "1ef2aea0",
+      "speaker": "{G_PlayerName}",
+      "ja": "何かってのはそういうことじゃなくてだな……肉とか魚はもう無いのか？",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "c8013965",
+      "speaker": "雫",
+      "ja": "もうとっくに尽きました。ルミナ様のために備えている物以外は",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "88d63a6c",
+      "speaker": "ルミナ",
+      "ja": "雫……私は大丈夫だから、皆に出してあげられないかな……？",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "1b615379",
+      "speaker": "雫",
+      "ja": "いけません。残った肉類は少ないのです、節制しなくては。次の星までどれだけかかるかわからないのですから",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "322398e0",
+      "speaker": "ルミナ",
+      "ja": "でも……偏った食事だと、体壊しちゃうよ……",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "9d25c113",
+      "speaker": "雫",
+      "ja": "大丈夫です、我々は豆を食べれば。ほら機械士、豆です。食べなさい",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "65c539ec",
+      "speaker": "{G_PlayerName}",
+      "ja": "生の豆を口に入れるな、コラッ！",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "118e1bc6",
+      "speaker": "",
+      "ja": "最後の星から離れ、宇宙を航行してしばらく。補給するアテにしていた無人惑星が枯れ果てており、ワームホールも見つからず１５日……",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "f53054fb",
+      "speaker": "",
+      "ja": "命にこそ関わらないが、一部の物資が尽きてしまった宇宙船内。アポロも申し訳無さそうにショボくれている。",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "3a09844e",
+      "speaker": "アポロ",
+      "ja": "申し訳ございません……もう少し、動物性の有機物が……せめて菌類でもいいので残っていれば疑似肉が創れたのですが",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "9524986b",
+      "speaker": "ルミナ",
+      "ja": "大丈夫、だよ……食べる物があるだけでも、凄いから……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "2b2e73e6",
+      "speaker": "雫",
+      "ja": "疑似肉は仮に創れたとしても味が悪いですしね",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "c02dfd8d",
+      "speaker": "アポロ",
+      "ja": "味のことをアナタに言われたくありませんね",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "57d3ed0f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（雫、料理ドヘタクソだからな……）",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "320bfee1",
+      "speaker": "雫",
+      "ja": "はい？　一体何の……",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "f1a5bb6c",
+      "speaker": "アポロ",
+      "ja": "！　新たな惑星を見つけました。まだわかりませんが、生命がある可能性があります",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "6f19142",
+      "speaker": "雫",
+      "ja": "それは良いですが、さっきのはどういう……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "1daf31da",
+      "speaker": "アポロ",
+      "ja": "まだ距離はありますが、調査を進めます。情報が増え次第お伝えいたします",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "9c7bcfaa",
+      "speaker": "ルミナ",
+      "ja": "楽しみ、だね……",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "b87f4297",
+      "speaker": "コハル",
+      "ja": "久しぶりにお肉が食べられるかも知れないのね～！",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "2329348b",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやー楽しみだなー",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "f1a66baf",
+      "speaker": "",
+      "ja": "怒涛のチームワークで雫が封殺される。ただでさえ食事がままならない現状で、雫がムキになって料理する事態は避けなければならない。",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "cdf14edd",
+      "speaker": "アポロ",
+      "ja": "仮に着陸するとしても、翌日になりそうです。皆様は着陸出来るように準備を進めてください",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "af553a48",
+      "speaker": "コハル",
+      "ja": "はーい！　……美味しい物、いっぱいある星だといいな～",
+      "zh": ""
+    },
+    {
+      "key": "86.0",
+      "line_index": 86,
+      "inline_index": 0,
+      "line_hash": "9369f23",
+      "speaker": "{G_PlayerName}",
+      "ja": "獣がいたら狩りまくって、干し肉も作っておきたいな",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "4bcf99de",
+      "speaker": "アポロ",
+      "ja": "原始的な……干し肉など作らなくても冷凍や密封など、鮮度を保つ方法はいくらでもございます",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "6371a45a",
+      "speaker": "ルミナ",
+      "ja": "でも、私も干し肉……作ってみたいかも……",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "cb1c9736",
+      "speaker": "{G_PlayerName}",
+      "ja": "へへ、機械士の俺が言うのもなんだけど、機械を使わないで手作りするのってロマンがあっていいよな",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "2e2ffec",
+      "speaker": "アポロ",
+      "ja": "機械のワタシの前で言うとは、命知らずですね。……取らぬ獣の肉算用はそこまでにして、準備を始めてください",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "d5d35fa6",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "7b0dc5b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ準備って言っても、持って行く物なんて限られてるけどな……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "c0ba8f30",
+      "speaker": "{G_PlayerName}",
+      "ja": "着替えと、万が一の時のための武器と、通信機と……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "92ff274d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あっ、そうだそうだ。最近作ったアレがあったんだった",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "1aba22da",
+      "speaker": "{G_PlayerName}",
+      "ja": "宇宙ステーションの屋台じゃ、オモチャみたいな値段で売られてたけど。……実際、扱いとしちゃオモチャなんだろうけど",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "cf15d6be",
+      "speaker": "{G_PlayerName}",
+      "ja": "これ……一応ルミナにも渡しておくか",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "c679d630",
+      "speaker": "ルミナ",
+      "ja": "……うーん……",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "15988d4d",
+      "speaker": "雫",
+      "ja": "ルミナ様。お茶をお持ちしました",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "cc80d4e",
+      "speaker": "ルミナ",
+      "ja": "あ……雫。ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "cd03d7e6",
+      "speaker": "雫",
+      "ja": "……？　お持ちになっている本は、いつも勉強に使っていらっしゃる本ではございませんね",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "16bb45d5",
+      "speaker": "ルミナ",
+      "ja": "あ、うん……実は休憩中、なの。お料理ちょっと覚えようと思って……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "a0d7ad7c",
+      "speaker": "雫",
+      "ja": "お料理でしたら、いつでも雫にお任せいただいてよろしいのに",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "850f9f44",
+      "speaker": "ルミナ",
+      "ja": "え、あ、え……っと、自分で作ってみたくて。お肉のお料理、覚えようかなって",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "56139e01",
+      "speaker": "雫",
+      "ja": "失礼ながら、肉料理はルミナ様はお苦手ではございませんでしたでしょうか……消化に悪いですから",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "a7db1a49",
+      "speaker": "ルミナ",
+      "ja": "皆、久しぶりのお肉を楽しみにしてるから……私もなんだか、楽しみになっちゃって。何か作って、もっと楽しくしたいなって",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "7bfd7d9c",
+      "speaker": "雫",
+      "ja": "………………なるほど",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "30ffe243",
+      "speaker": "雫",
+      "ja": "（これは明らかにあの男に食べさせるために練習するつもりですね。あの男……もしルミナ様を悲しませたらねじ切ってやります）",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "a88b6422",
+      "speaker": "ルミナ",
+      "ja": "バーベキュー、っていうの……本で読んで、やってみたいと思ってたんだけど……雫はしたこと、ある？",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "bbb66093",
+      "speaker": "雫",
+      "ja": "訓練の一環で何度か。沼地の木の上で、敵に察知されぬよう食事する訓練をしていました",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "522dcd4a",
+      "speaker": "ルミナ",
+      "ja": "そんな状況で肉を……！？　ちょ、ちょっと違うかも……",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "59cb7720",
+      "speaker": "ルミナ",
+      "ja": "うーん……他に食べたい料理……何かなあ……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "826e3e99",
+      "speaker": "雫",
+      "ja": "（食べたい料理、ではなく食べさせたい料理、かと思いますが……お肉、そこまで好きではないのですから）",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "9760f06",
+      "speaker": "雫",
+      "ja": "（この無意識に自己犠牲をしてしまうのがルミナ様の長所であり短所。行きすぎないようにしっかりと目を配りませんと……）",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "265397ba",
+      "speaker": "",
+      "ja": "翌日……",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "84ee04d",
+      "speaker": "コハル",
+      "ja": "そろそろ着く？",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "8b78ae52",
+      "speaker": "アポロ",
+      "ja": "はい。あと数分後には着陸が可能となります。が……",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "67fc70a0",
+      "speaker": "ルミナ",
+      "ja": "が……？",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "2d522d3c",
+      "speaker": "アポロ",
+      "ja": "どうやら、目的の惑星には何かガスのような物が立ち込めているようです。ガス惑星というわけではなく、陸はあるようですが",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "8a108838",
+      "speaker": "ルミナ",
+      "ja": "ガス……？　火山がある、とかかな……？",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "6f622c23",
+      "speaker": "コハル",
+      "ja": "それって……生き物いるの？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "85418a02",
+      "speaker": "アポロ",
+      "ja": "まだわかりません。ガスの成分の解析も、降りてみないことには……着陸自体には問題ございません",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "e3084111",
+      "speaker": "{G_PlayerName}",
+      "ja": "それなら、とにかく降りてから考えないとな",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "4b57555a",
+      "speaker": "コハル",
+      "ja": "今回の星は……変な機械、あるのかしら",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "13c12082",
+      "speaker": "アポロ",
+      "ja": "スキャンしたいところですが……この霧のせいでそれも難しいかも知れませんね",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "97a95a4c",
+      "speaker": "アポロ",
+      "ja": "では、着陸態勢に入ります。席におつきください",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "393535de",
+      "speaker": "コハル",
+      "ja": "うーん……やっぱり外、見えないわね",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "5365cf15",
+      "speaker": "ルミナ",
+      "ja": "人……いるのかな……？",
+      "zh": ""
+    },
+    {
+      "key": "240.1",
+      "line_index": 240,
+      "inline_index": 1,
+      "line_hash": "f016a58",
+      "speaker": "雫",
+      "ja": "かろうじて、家などの文明は確認出来たようですが……",
+      "zh": ""
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "1e7a6eae",
+      "speaker": "アポロ",
+      "ja": "ガスの解析が終わりました",
+      "zh": ""
+    },
+    {
+      "key": "250.0",
+      "line_index": 250,
+      "inline_index": 0,
+      "line_hash": "2a26e774",
+      "speaker": "{G_PlayerName}",
+      "ja": "おお、早いな",
+      "zh": ""
+    },
+    {
+      "key": "252.1",
+      "line_index": 252,
+      "inline_index": 1,
+      "line_hash": "1181ad6b",
+      "speaker": "アポロ",
+      "ja": "そこまで毒性は強くありません。外に出たとしても、問題はございません。が、対策を推奨します",
+      "zh": ""
+    },
+    {
+      "key": "254.0",
+      "line_index": 254,
+      "inline_index": 0,
+      "line_hash": "50b5f35c",
+      "speaker": "{G_PlayerName}",
+      "ja": "対策って、なんとかなるのか……？",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "942a5202",
+      "speaker": "アポロ",
+      "ja": "リリアンは対策無しで出ても影響は無い程度の毒性です。通常の人間は体調の不良が発生しそうですが……",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "dc03973b",
+      "speaker": "アポロ",
+      "ja": "{G_PlayerName}様の場合、ルナリングがあるのでこの程度のガスは問題無いでしょう",
+      "zh": ""
+    },
+    {
+      "key": "260.0",
+      "line_index": 260,
+      "inline_index": 0,
+      "line_hash": "385d5d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "多少の怪我とか病気は平気だって聞いてたけど……ガスも大丈夫なのか？",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "bbf51dce",
+      "speaker": "雫",
+      "ja": "確かに、歴史ではルナリングをつけた過去の王は毒物を盛られてもお腹を壊す程度で済んだとか……",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "3187d5f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか！　凄いな……",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "5f5f67bd",
+      "speaker": "雫",
+      "ja": "それさえ無ければ今頃、わたくしが亡き者にしていたのですが……",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "6972daf1",
+      "speaker": "{G_PlayerName}",
+      "ja": "（お前の料理なら別の意味で亡き者になりそうだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "baf682f7",
+      "speaker": "ルミナ",
+      "ja": "……毒ガス、ってほどじゃない……ってことかな？",
+      "zh": ""
+    },
+    {
+      "key": "272.1",
+      "line_index": 272,
+      "inline_index": 1,
+      "line_hash": "9505f9b7",
+      "speaker": "アポロ",
+      "ja": "はい。長時間……数日常に吸い続ければ身体に影響が及ぶかもしれませんが、ガスの無い場所を日に数回経由すれば問題ございません",
+      "zh": ""
+    },
+    {
+      "key": "274.0",
+      "line_index": 274,
+      "inline_index": 0,
+      "line_hash": "5741ba25",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ……ちょっと不安だけど、まあいいか。じゃあ、降りるか？",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "9479a3aa",
+      "speaker": "ルミナ",
+      "ja": "うん……！　お肉、見つかるといいね",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "15515634",
+      "speaker": "{G_PlayerName}",
+      "ja": "（こんな星じゃ、肉より気にするべきところがあるような……）",
+      "zh": ""
+    }
+  ]
+}

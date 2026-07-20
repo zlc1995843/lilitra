@@ -1,0 +1,823 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "5ec20798",
+      "speaker": "コハル",
+      "ja": "う……ごほっ、ごほっ……",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "71749ed8",
+      "speaker": "コハル",
+      "ja": "（や……やっと体が動きそう……声も、出せそうね）",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "6bce1c9b",
+      "speaker": "",
+      "ja": "地面に横たわるコハル。立ち上がろうとするが、手足が縛られており徒労に終わった。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "3af3385b",
+      "speaker": "ルミナ",
+      "ja": "コハル……ちゃん、大丈夫……？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "297cdac7",
+      "speaker": "コハル",
+      "ja": "ルミナ！　……よかった、近くにいて。私はなんとか……ルミナこそ大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "8306b674",
+      "speaker": "ルミナ",
+      "ja": "私も……うまく、体が動かないけど……なんとか、大丈夫そう……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "2741adaa",
+      "speaker": "ヴァイン",
+      "ja": "お目覚めですか。……いえ、正確には最初からお目覚めでしたか。体の自由を奪うだけの薬ですからね",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "4cbf09c2",
+      "speaker": "コハル",
+      "ja": "ヴァ……イン！　なんでこんなことを……！",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "231122f2",
+      "speaker": "ヴァイン",
+      "ja": "なんで、と問われますと。どこから説明したものか迷いますが……",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "d59b763e",
+      "speaker": "ヴァイン",
+      "ja": "皆様をさらおうとした理由は……保護のような物ですね。あの村の近くにいると、私達の目的を邪魔されそうでしたので",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "cba26401",
+      "speaker": "ルミナ",
+      "ja": "保護……？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "4e660d97",
+      "speaker": "ヴァイン",
+      "ja": "戦いになれば、お互い無事ではいられないでしょう？　そうなれば、リリアン同士の我々としては心苦しいので、こうしたのです",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "fd66bc01",
+      "speaker": "コハル",
+      "ja": "一体、何が目的！？　つまり……あのフウリって人と、グルだったの！？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "c8232015",
+      "speaker": "ヴァイン",
+      "ja": "そうです。我々の目的は、リリアンの差別を無くすこと。そのために、ありもしない柱という名目でリリアンを少しずつ保護していたのです",
+      "zh": ""
+    },
+    {
+      "key": "47.0",
+      "line_index": 47,
+      "inline_index": 0,
+      "line_hash": "89772cfb",
+      "speaker": "",
+      "ja": "言葉に詰まる。目的として掲げていることは真っ当のようで、邪魔されると思った理由がわからない。",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "651eca5d",
+      "speaker": "ルミナ",
+      "ja": "まさか……村の、人たちを……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "26127d7",
+      "speaker": "ヴァイン",
+      "ja": "殺しはしません。昏倒させ、その間に私の能力で認識を書き換えます",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "6c3e38bb",
+      "speaker": "コハル",
+      "ja": "に……認識を書き換える？　どういうこと？",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "aea092e6",
+      "speaker": "ヴァイン",
+      "ja": "あら……コハル様には見破られていたようなので警戒していたのですが。わかりませんか？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "2377a8f2",
+      "speaker": "コハル",
+      "ja": "……あっ！",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "3bf9421d",
+      "speaker": "聞こえてくる声",
+      "ja": "そう、また選ぶのです。差し出すべきリリアンを……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "a95367dd",
+      "speaker": "コハル",
+      "ja": "っ……この声、聞いちゃ駄目ッ！",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "b1b09352",
+      "speaker": "コハル",
+      "ja": "あの魔力が乗った演説って……ヴァインの！？",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "ac1ee1bd",
+      "speaker": "ヴァイン",
+      "ja": "はい。人の意識を声で操作する能力……それを看破されている様子でしたので、孤児院にお招きしたのです",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "9e5ea75",
+      "speaker": "ヴァイン",
+      "ja": "ブラフを時折交え、目に何かあると思わせているのですが……私の能力の真の力は声にあります。今まで見破られたことは無かったので、少し焦ってしまいました",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "c6a9d445",
+      "speaker": "ヴァイン",
+      "ja": "薬を盛る時も見破られないか心配でしたが……こちらは察知出来なかったようですね",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "ff2f2c0f",
+      "speaker": "ルミナ",
+      "ja": "能力って……洗脳ってこと、なの？　そんな能力が、あるなら……演説で、差別をやめさせればいいだけじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "dc4cbe22",
+      "speaker": "ヴァイン",
+      "ja": "元々、そんなに強い能力ではないのです。信じかねない何かを信じる、後押しをする程度……",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "1b57096d",
+      "speaker": "ヴァイン",
+      "ja": "なので普通に能力を使っても、相反するような考えを持たせることは出来ません",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "4afd2c1e",
+      "speaker": "コハル",
+      "ja": "だったら、今やってることだって無駄なんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "e4089a5a",
+      "speaker": "ヴァイン",
+      "ja": "いいえ。あれを御覧ください",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "757be3d8",
+      "speaker": "ルミナ",
+      "ja": "え？　あっ……！",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "926c50ed",
+      "speaker": "",
+      "ja": "火が灯された祭壇のような場所。その上に、見覚えのある球体が浮かんでいた。",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "851dd453",
+      "speaker": "コハル",
+      "ja": "あれって……！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "ae202dea",
+      "speaker": "ルミナ",
+      "ja": "（この星にも、あの機械が……！）",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "4def5793",
+      "speaker": "ヴァイン",
+      "ja": "毒蛇様の秘宝、と呼ばれている物です。実際何なのかはわかりませんが、あの近くでリリアンの能力を行使すると、より強力に効果が発揮される……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "10b6b5ae",
+      "speaker": "ヴァイン",
+      "ja": "毒霧も、フウリの能力をこの秘宝で強めて出していた物です",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "12396ff8",
+      "speaker": "ルミナ",
+      "ja": "あの毒霧が、能力……！？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "f49af764",
+      "speaker": "ヴァイン",
+      "ja": "秘宝を私の能力に使えば、リリアンの差別意識を消すことはできる。しかし、リリアンが差別されている様子を少しでも見れば、能力の効果は消えてしまうことがわかりました",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "296630cf",
+      "speaker": "ヴァイン",
+      "ja": "そのため、村人全員に同時に能力を使う必要がある。しかし秘宝はここから動かせず、全てを終わらせるのに少なく見積もっても１日はかかる",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "26477ca7",
+      "speaker": "ヴァイン",
+      "ja": "なので、村人全ての意識を奪い、ゆっくりと能力を使う。ご理解いただけましたか？",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "b73c1e2a",
+      "speaker": "コハル",
+      "ja": "そ……それは……",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "a5a73ffd",
+      "speaker": "ヴァイン",
+      "ja": "強く非難はせずとも、納得いただけていないようですね。……別に、それで構いません",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "67d1c692",
+      "speaker": "フウリ",
+      "ja": "ヴァイン。わたくし達の計画は、万人に支持される物じゃあない。例え、同じリリアンであったとしても",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "108e8fc6",
+      "speaker": "ヴァイン",
+      "ja": "……そうでしょうね。であれば、やはり別の案を……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "5abf16df",
+      "speaker": "フウリ",
+      "ja": "違うわ。それでいいのよ",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "87042f90",
+      "speaker": "ヴァイン",
+      "ja": "…………？",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "d30ed82c",
+      "speaker": "フウリ",
+      "ja": "差別を無くすには、誰かが手を汚す覚悟が要る。……全てが終わった後に、わたくし達が守りたかった人から糾弾されるぐらいがちょうど良いの",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "fcaebaec",
+      "speaker": "フウリ",
+      "ja": "手段を選んでいれば、それだけ解決が遅くなり被害者が増える。違う？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "bee724ca",
+      "speaker": "ヴァイン",
+      "ja": "……それは……",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "2b3040c8",
+      "speaker": "フウリ",
+      "ja": "……ふふっ。こんな言葉を知ってる？　『善人は狂人に勝てない。狂人は兵士に勝てない。兵士は善人に勝てない』",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "3abcd4b",
+      "speaker": "ヴァイン",
+      "ja": "聞いたことは、ありませんが",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "eef0287c",
+      "speaker": "フウリ",
+      "ja": "平和にかまけた善人は、急に殴りかかってくる狂人に勝てない",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "bbd8ae04",
+      "speaker": "フウリ",
+      "ja": "急に殴りかかる狂人は、武器を持った兵士に勝てない",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "11e56453",
+      "speaker": "フウリ",
+      "ja": "兵士は、平和を盾に武装を非難する善人に勝てない……という意味よ",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "fdae8617",
+      "speaker": "ヴァイン",
+      "ja": "それが……どう関係するのです？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "d596c342",
+      "speaker": "フウリ",
+      "ja": "わたくし達は、兵士にならなくてはならない",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "3d583d88",
+      "speaker": "ヴァイン",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "ffca22a5",
+      "speaker": "フウリ",
+      "ja": "兵士となり、今この地にのさばる狂人を消す。そして最後に、平和を掲げる民に倒される。それが、わたくし達が目指すべき結末なのよ",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "8f59a30a",
+      "speaker": "ヴァイン",
+      "ja": "（……貴方達が、私達を倒す人になるのかも知れませんね。ですが、それは今ではありません）",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "f7968b84",
+      "speaker": "ルミナ",
+      "ja": "……報復……",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "b41d7eaa",
+      "speaker": "コハル",
+      "ja": "？　ルミナ……？",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "3ee01b9",
+      "speaker": "ルミナ",
+      "ja": "村の人達を、差別しないように洗脳しても。リリアン達が、報復する心配が残るよ。……そうならない、対策はあるの？",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "632c9b03",
+      "speaker": "ヴァイン",
+      "ja": "……さあ？　どうでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "df7f71ce",
+      "speaker": "コハル",
+      "ja": "あんた……！",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "32a51d96",
+      "speaker": "ヴァイン",
+      "ja": "目の前で何かしようとする者が出てくれば、それは止めますが。問題が起きたなら、その時はその時でしょう",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "ac35fb2c",
+      "speaker": "ヴァイン",
+      "ja": "どちらにせよ、貴方達を納得させる気はありません。全てが終わるまで見ていてください",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "20850df8",
+      "speaker": "ヴァイン",
+      "ja": "助けが来なければ何も出来ないでしょう。雫さんや{G_PlayerName}さんがここを探す手段はありませんから……",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "88ef364b",
+      "speaker": "ヴァイン",
+      "ja": "……なっ！？",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "3e139dec",
+      "speaker": "",
+      "ja": "ヴァインへと飛来する小さな投げナイフ。間一髪、ヴァインはナイフを叩き落とした。",
+      "zh": ""
+    },
+    {
+      "key": "256.1",
+      "line_index": 256,
+      "inline_index": 1,
+      "line_hash": "7109bb44",
+      "speaker": "雫",
+      "ja": "ルミナ様っ！　コハル様っ！　ご無事ですか！？",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "275340e0",
+      "speaker": "ヴァイン",
+      "ja": "なぜこの場所がっ！？　……ちっ！",
+      "zh": ""
+    },
+    {
+      "key": "277.0",
+      "line_index": 277,
+      "inline_index": 0,
+      "line_hash": "70843a8c",
+      "speaker": "",
+      "ja": "再び迫る投擲。目が見えていないとは思えない反応速度で、再びヴァインが防御する。",
+      "zh": ""
+    },
+    {
+      "key": "279.1",
+      "line_index": 279,
+      "inline_index": 1,
+      "line_hash": "b3e4b6da",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}くんのおかげ、だよ",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "896fc6f2",
+      "speaker": "ヴァイン",
+      "ja": "ああっ！？",
+      "zh": ""
+    },
+    {
+      "key": "291.1",
+      "line_index": 291,
+      "inline_index": 1,
+      "line_hash": "cb3e6e33",
+      "speaker": "ヴァイン",
+      "ja": "（腕が何かで拘束された！？　なぜルミナさんが自由に……投げナイフか！　複数投げて、ロープを……！）",
+      "zh": ""
+    },
+    {
+      "key": "312.0",
+      "line_index": 312,
+      "inline_index": 0,
+      "line_hash": "18681dd2",
+      "speaker": "{G_PlayerName}",
+      "ja": "怪我は無いか！？",
+      "zh": ""
+    },
+    {
+      "key": "314.1",
+      "line_index": 314,
+      "inline_index": 1,
+      "line_hash": "dba49912",
+      "speaker": "コハル",
+      "ja": "大丈夫！　……でも、どうやってここがわかったの！？　{G_PlayerName}のおかげって……？",
+      "zh": ""
+    },
+    {
+      "key": "316.1",
+      "line_index": 316,
+      "inline_index": 1,
+      "line_hash": "ee8d7289",
+      "speaker": "ルミナ",
+      "ja": "ここに来る前、{G_PlayerName}くんからもらった、小さなケミカルライト……それで、道しるべをいくつか落としておいたの……",
+      "zh": ""
+    },
+    {
+      "key": "318.0",
+      "line_index": 318,
+      "inline_index": 0,
+      "line_hash": "1df71346",
+      "speaker": "{G_PlayerName}",
+      "ja": "光る矢印がいくつか落ちてて、迷わず辿り着けたよ。あんな使い方するなんて思ってなかったけどな",
+      "zh": ""
+    },
+    {
+      "key": "320.1",
+      "line_index": 320,
+      "inline_index": 1,
+      "line_hash": "2c46face",
+      "speaker": "雫",
+      "ja": "ルミナ様の能力はただでさえ強力で扱いにくいと言うのに、あそこまで上達されていたなんて驚きました……！",
+      "zh": ""
+    },
+    {
+      "key": "322.1",
+      "line_index": 322,
+      "inline_index": 1,
+      "line_hash": "e521a374",
+      "speaker": "ルミナ",
+      "ja": "強い光を操ると、強い力を発揮するぶん……一瞬しか操れないけど、弱い光なら……長時間光を固められるって、気付いたの",
+      "zh": ""
+    },
+    {
+      "key": "324.0",
+      "line_index": 324,
+      "inline_index": 0,
+      "line_hash": "cddf8bc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "（正直、強く光る物を作ろうとして失敗したヤツだったけど……一応渡しておいて良かったな）",
+      "zh": ""
+    },
+    {
+      "key": "343.1",
+      "line_index": 343,
+      "inline_index": 1,
+      "line_hash": "c898e47b",
+      "speaker": "ヴァイン",
+      "ja": "うっ……はあっ！",
+      "zh": ""
+    },
+    {
+      "key": "345.0",
+      "line_index": 345,
+      "inline_index": 0,
+      "line_hash": "8cb15ca6",
+      "speaker": "",
+      "ja": "ヴァインを抑えていた手枷……ルミナが作った、光の鎖が千切られる。",
+      "zh": ""
+    },
+    {
+      "key": "347.0",
+      "line_index": 347,
+      "inline_index": 0,
+      "line_hash": "56393527",
+      "speaker": "",
+      "ja": "煌々と光る松明があるとは言え光は少なく、薬のせいで満足な強度は出せなかったのだろう。",
+      "zh": ""
+    },
+    {
+      "key": "349.1",
+      "line_index": 349,
+      "inline_index": 1,
+      "line_hash": "83b98185",
+      "speaker": "ヴァイン",
+      "ja": "ご理解いただけなかったのは残念ですが……我々はここで止まるわけにはいきません。抵抗しないでください",
+      "zh": ""
+    },
+    {
+      "key": "361.1",
+      "line_index": 361,
+      "inline_index": 1,
+      "line_hash": "b3971a1b",
+      "speaker": "雫",
+      "ja": "まだ状況は飲み込めていませんが……とにかく、あの女を倒せば解決ですね？",
+      "zh": ""
+    },
+    {
+      "key": "363.1",
+      "line_index": 363,
+      "inline_index": 1,
+      "line_hash": "c572ac5f",
+      "speaker": "ルミナ",
+      "ja": "そ、そう……かな？　多分……",
+      "zh": ""
+    },
+    {
+      "key": "365.1",
+      "line_index": 365,
+      "inline_index": 1,
+      "line_hash": "78abdf33",
+      "speaker": "コハル",
+      "ja": "まだ体、ヘンな感じだけど……行くわよ！",
+      "zh": ""
+    }
+  ]
+}

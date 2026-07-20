@@ -1,0 +1,1525 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "41b8fd04",
+      "speaker": "コハル",
+      "ja": "ごちそうさまでした！　美味しかった！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "35710a35",
+      "speaker": "{G_PlayerName}",
+      "ja": "だな。見たことない食材が多かったけど、どれも美味しいな",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "489617f",
+      "speaker": "コハル",
+      "ja": "海藻？　みたいなの、ちゅるっとしてて良かったわね……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "990d3f9e",
+      "speaker": "ヴァイン",
+      "ja": "お粗末様でした。お口に合ったなら何よりです",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "2ffeb2d4",
+      "speaker": "コハル",
+      "ja": "本当、ありがとうございました！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "583c5f97",
+      "speaker": "雫",
+      "ja": "料理の材料についてお伺いしてもよろしいでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "e5df000c",
+      "speaker": "ヴァイン",
+      "ja": "はい。今の料理に使ったのは、栽培した食用苔と食用の藻の他、近くの洞窟に住む獣や蛙などを使っています",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "de486c48",
+      "speaker": "雫",
+      "ja": "なるほど……ご自身で栽培しているのですね。あとは獣や蛙……",
+      "zh": ""
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "b32893b8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（これで宇宙船の物資が補給できそうだな。どれくらい集まるかわからないけど……）",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "875f6a74",
+      "speaker": "ヴァイン",
+      "ja": "近くなので場所をお教えしますね、こちらです",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "2d4aef47",
+      "speaker": "ヴァイン",
+      "ja": "こちらの方角へ数分歩けば切り立った崖があり、いくつか洞窟の入口があります",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "95c63065",
+      "speaker": "ヴァイン",
+      "ja": "中はそこまで入り組んでいませんので、迷う心配はありません。獣が通る穴が多いので、逃げられる心配はありますが",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "e9c14174",
+      "speaker": "雫",
+      "ja": "なるほど、ありがとうございます。わたくし達が必要としているだけの食料を確保しても問題は無さそうですか？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "e14a9d18",
+      "speaker": "ヴァイン",
+      "ja": "はい。このような場所はいくつかあり、どこも許可なく狩猟可能です。生息している生物の数も、絶える心配はありません",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "2525e9bf",
+      "speaker": "ヴァイン",
+      "ja": "ただ、もしよろしければ孤児院の子供たちの食材も集めていただけると助かりますが……",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "fa6d06fc",
+      "speaker": "雫",
+      "ja": "勿論です。恩返しをさせていただきますわ",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "d43de6fe",
+      "speaker": "ヴァイン",
+      "ja": "ありがとうございます。では、私は少し用事がありますので、ここで……どうかお気をつけください",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "128c2ebd",
+      "speaker": "雫",
+      "ja": "さて……次の星を探せるだけの物資は確保しなくては……",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "814b3b99",
+      "speaker": "ルミナ",
+      "ja": "よかった、ね……なんとかなりそうで……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "d1351734",
+      "speaker": "コハル",
+      "ja": "でも……もし、十分な量が見つからなかったら……",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "cf068e89",
+      "speaker": "{G_PlayerName}",
+      "ja": "また果物ばっかりの日々……",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "f433329e",
+      "speaker": "コハル",
+      "ja": "うっ……そうならないように、しっかり探さないと！",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "b579b200",
+      "speaker": "ヒナタの声",
+      "ja": "あ、よかった、間に合いました！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "e2242b27",
+      "speaker": "ルミナ",
+      "ja": "ヒナタ……ちゃん？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "fb302d69",
+      "speaker": "ヒナタ",
+      "ja": "わたしも行きます！　食べられるものとか、取り方を教えてあげますから！",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "c135626c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（大丈夫かな……って思ったけど、ヒナタもリリアンだったか。じゃあ普段から手伝ってるんだろうな）",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "88fa3364",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、助かるよ。お願いできるか？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "30a21883",
+      "speaker": "ヒナタ",
+      "ja": "もっちろんです！　行きましょーっ！",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "be1f096f",
+      "speaker": "ヒナタ",
+      "ja": "このあたりですっ！",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "b70141ed",
+      "speaker": "",
+      "ja": "ヒナタの先導で歩いていると、ヴァインに聞いた通りの洞窟が見えてきた。近くには、深そうな沼もいくつかある。",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "ebadcc9e",
+      "speaker": "ヒナタ",
+      "ja": "洞窟の中だとネズミさん、カエルさんとかがいっぱい取れますよ！",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "bba85545",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふむふむ。じゃあ入るか",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "dec2afd6",
+      "speaker": "ヒナタ",
+      "ja": "あっ……兄さまはやめたほうがいいかも……？",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "3fa5e02a",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ、なんで？　危ないのか？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "2a9bd998",
+      "speaker": "ヒナタ",
+      "ja": "いいえ、中にいる動物さんは近づいたら殆ど逃げちゃうので……リリアンさんなら逃げる前に取れますけど、兄さまは難しいかも……",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "360a9c7e",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……なるほど",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "bab6e559",
+      "speaker": "ヒナタ",
+      "ja": "その代わり、外の沼に野菜がありますから、それを一緒に集めましょうっ！",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "48d92912",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか。わかった",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "99f548d5",
+      "speaker": "コハル",
+      "ja": "じゃ、あたし達は中に行くわね！",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "78c12b2b",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……気を付けてね……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "25bb8c1e",
+      "speaker": "雫",
+      "ja": "無理して沈んだら助けませんからね",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "a2df633",
+      "speaker": "{G_PlayerName}",
+      "ja": "はいはい……じゃあヒナタ、教えてくれるか？",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "130256",
+      "speaker": "ヒナタ",
+      "ja": "はい！　えっと、この葉っぱと同じ葉っぱをー……",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "84984961",
+      "speaker": "ヒナタ",
+      "ja": "ふー、ちょっと疲れてきましたね……でも集まってきました！",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "66650fe4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ひー、ひー……中腰キツい……集まったのは、ヒナタのおかげだな",
+      "zh": ""
+    },
+    {
+      "key": "178.0",
+      "line_index": 178,
+      "inline_index": 0,
+      "line_hash": "db3a454a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（宇宙船に野菜はあまり必要ないけど、孤児院の助けになるなら、まあいいか……）",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "b34eec1a",
+      "speaker": "ヒナタ",
+      "ja": "兄さま……カシミアちゃんの話、もう誰かから聞きましたか？",
+      "zh": ""
+    },
+    {
+      "key": "182.0",
+      "line_index": 182,
+      "inline_index": 0,
+      "line_hash": "c64adc22",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　ああ、昨日怖がらせちゃった子だよな……？",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "79a6054",
+      "speaker": "ヒナタ",
+      "ja": "はい。……カシミアちゃんも……本当は兄さまと仲良くしたいと思うんです",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "bc4cd762",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……かな？",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "10cf2784",
+      "speaker": "ヒナタ",
+      "ja": "うん。わたしにはとってもお喋りな子ですから！",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "67e90662",
+      "speaker": "ヒナタ",
+      "ja": "でも、男の人を見ると……カシミアちゃん、怖くなっちゃうんですって。治したい、って言ってました",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "54b5b353",
+      "speaker": "ヒナタ",
+      "ja": "でも、今まで孤児院に来た男の人達は……皆悪い人しかいなくって。だから……兄さまにお願い出来たら……って",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "caed7654",
+      "speaker": "{G_PlayerName}",
+      "ja": "お願い？",
+      "zh": ""
+    },
+    {
+      "key": "196.1",
+      "line_index": 196,
+      "inline_index": 1,
+      "line_hash": "c33f7bf3",
+      "speaker": "ヒナタ",
+      "ja": "はい！　カシミアちゃんが男の人を大丈夫になるように、慣れさせてもらえないでしょうか！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "3fe4054c",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ！？　ま、まあ……カシミア自身が、したいって言うなら……？",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "a0453e03",
+      "speaker": "ヒナタ",
+      "ja": "よかった、ありがとうございます！　カシミアちゃんにもう１度、聞いてみますね！",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "b25f49ae",
+      "speaker": "{G_PlayerName}",
+      "ja": "……でも、ヒナタは怖くないのか？　俺みたいな、リリアンじゃない人とか……",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "996f9f27",
+      "speaker": "ヒナタ",
+      "ja": "……えっと。わたしは、他の子に比べれば村の人達に酷いこととかされてないので……恨んだり、怖がったりはしてませんよ",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "ca1818db",
+      "speaker": "ヒナタ",
+      "ja": "でも……カシミアちゃんみたいな子がいるのを見たら、何とかしなきゃって思います。仕返しとかじゃなくて……もっと、何か……",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "1ab9abeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "3a681504",
+      "speaker": "ヒナタ",
+      "ja": "わたしあんまり頭よくないんで、思いつかないんですけどね……！　……あっ。伝説のドラゴン、知ってますか？",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "bf72582f",
+      "speaker": "{G_PlayerName}",
+      "ja": "で……伝説のドラゴン？",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "c9cbe149",
+      "speaker": "",
+      "ja": "あまりに話の方向が急転換したので、少し声が裏返ってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "2ecf165",
+      "speaker": "ヒナタ",
+      "ja": "そう！　本当に皆が困ったとき、ドラゴンが出てきて全部なんとかしちゃうお話なんです！",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "622f7850",
+      "speaker": "ヒナタ",
+      "ja": "すっごく大きくて、竜巻でも、津波でも、溶岩でも何でも丸呑みにしちゃうんですよ！",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "2ac13780",
+      "speaker": "ヒナタ",
+      "ja": "だから、毒蛇様の祟りだって……毒霧だって、全部吸い込んじゃうんです",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "9a62c0bb",
+      "speaker": "{G_PlayerName}",
+      "ja": "毒蛇様の……祟り？",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "6ebce267",
+      "speaker": "雫",
+      "ja": "戻りました。……チッ、沈んでなかったか",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "e6924f4d",
+      "speaker": "ルミナ",
+      "ja": "わ……{G_PlayerName}くんとヒナタちゃんも、いっぱい集めたね……",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "3ec5ccb3",
+      "speaker": "",
+      "ja": "３人が洞窟の中から出てくる。持っていた網には、大量の動物が捕らえられていた。",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "8f1e5aa7",
+      "speaker": "ヒナタ",
+      "ja": "わっ！　ルミナちゃんたちすごーい！　こんなにいっぱい捕まえてるの、初めて見たよっ！",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "408e15bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ヒナタ……ルミナたちが自分より年下の子だと思ってるのか？）",
+      "zh": ""
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "c59ad2f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あと、毒蛇様の祟りって何か気になるけど……まあ、演説してた宗教？　関係の何か、なんだろうな……）",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "9f6e2cbb",
+      "speaker": "ルミナ",
+      "ja": "そろそろ……戻る？",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "f4cd3cd4",
+      "speaker": "ヒナタ",
+      "ja": "うん！　ヴァイン様、びっくりするだろうな～！",
+      "zh": ""
+    },
+    {
+      "key": "267.1",
+      "line_index": 267,
+      "inline_index": 1,
+      "line_hash": "efbe505a",
+      "speaker": "ヴァイン",
+      "ja": "多くの食料を集めていただいて……ありがとうございます。これでしばらく食材に困る事はなさそうです",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "ab01eaa8",
+      "speaker": "雫",
+      "ja": "いえ、こちらこそ助かりました。ありがとうございました",
+      "zh": ""
+    },
+    {
+      "key": "271.1",
+      "line_index": 271,
+      "inline_index": 1,
+      "line_hash": "af457dd7",
+      "speaker": "ヴァイン",
+      "ja": "……本日はもう遅いので、ここにお泊まりになったほうがよろしいかと。村にリリアンが泊まれる宿はありませんので……",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "b45ac14c",
+      "speaker": "雫",
+      "ja": "よろしいのですか？　何から何まで、ありがとうございます",
+      "zh": ""
+    },
+    {
+      "key": "275.0",
+      "line_index": 275,
+      "inline_index": 0,
+      "line_hash": "68476f31",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いいのか？　長居しないほうがいいんじゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "82328f9e",
+      "speaker": "雫",
+      "ja": "（ここで断るのも不自然ですからね。……宇宙船の物資としてはまだ不十分ですし、あと１日は滞在しましょう）",
+      "zh": ""
+    },
+    {
+      "key": "285.1",
+      "line_index": 285,
+      "inline_index": 1,
+      "line_hash": "687606cd",
+      "speaker": "ヴァイン",
+      "ja": "こちらの部屋です。満足な寝具が無くて申し訳ございませんが……",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "ed92274",
+      "speaker": "",
+      "ja": "寝室に案内された。……と言っても、簡単な布団を渡されただけで、ベッドは無い。",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "e1e41ac5",
+      "speaker": "ヴァイン",
+      "ja": "最近は暖かくなってきましたので大丈夫だと思いますが、もし寒い場合は気軽にお声がけください",
+      "zh": ""
+    },
+    {
+      "key": "305.1",
+      "line_index": 305,
+      "inline_index": 1,
+      "line_hash": "9665a94e",
+      "speaker": "コハル",
+      "ja": "……やっぱり、過酷な場所なのね",
+      "zh": ""
+    },
+    {
+      "key": "307.1",
+      "line_index": 307,
+      "inline_index": 1,
+      "line_hash": "e2d1f8",
+      "speaker": "雫",
+      "ja": "緑と獣の星だって、技術が無いせいで似たような物でしょう。……あまり同情し過ぎる必要はありません",
+      "zh": ""
+    },
+    {
+      "key": "309.1",
+      "line_index": 309,
+      "inline_index": 1,
+      "line_hash": "b4ba375f",
+      "speaker": "ルミナ",
+      "ja": "そう、かな。……でも、母星に帰ったら……こういう星に、支援がしたい……な……",
+      "zh": ""
+    },
+    {
+      "key": "311.1",
+      "line_index": 311,
+      "inline_index": 1,
+      "line_hash": "9e51d394",
+      "speaker": "雫",
+      "ja": "素晴らしいお考えですルミナ様っ♥　この雫、一生ルミナ様についていきますわっ！",
+      "zh": ""
+    },
+    {
+      "key": "313.1",
+      "line_index": 313,
+      "inline_index": 1,
+      "line_hash": "6d91776e",
+      "speaker": "コハル",
+      "ja": "また手のひらをくるくると……",
+      "zh": ""
+    },
+    {
+      "key": "315.0",
+      "line_index": 315,
+      "inline_index": 0,
+      "line_hash": "b6b915f6",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも……今日は疲れたな。早めに寝よう",
+      "zh": ""
+    },
+    {
+      "key": "317.1",
+      "line_index": 317,
+      "inline_index": 1,
+      "line_hash": "465ed8de",
+      "speaker": "コハル",
+      "ja": "そうね！　……このもらった布団、体に巻けばいいのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "319.1",
+      "line_index": 319,
+      "inline_index": 1,
+      "line_hash": "a215a189",
+      "speaker": "ルミナ",
+      "ja": "そう……だね。ふかふか……",
+      "zh": ""
+    },
+    {
+      "key": "321.0",
+      "line_index": 321,
+      "inline_index": 0,
+      "line_hash": "efab096d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……リリアンサイズだから、正直小さいんだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "323.1",
+      "line_index": 323,
+      "inline_index": 1,
+      "line_hash": "fa9774ed",
+      "speaker": "雫",
+      "ja": "ふ。じゃあ寝ましょう。おやすみなさいませ",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "2f3624c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "（今気づいた上で笑いやがったな……！）",
+      "zh": ""
+    },
+    {
+      "key": "327.1",
+      "line_index": 327,
+      "inline_index": 1,
+      "line_hash": "f3d85d78",
+      "speaker": "コハル",
+      "ja": "おやすみー！",
+      "zh": ""
+    },
+    {
+      "key": "329.1",
+      "line_index": 329,
+      "inline_index": 1,
+      "line_hash": "f24a4bdc",
+      "speaker": "ルミナ",
+      "ja": "おや、すみ……",
+      "zh": ""
+    },
+    {
+      "key": "340.0",
+      "line_index": 340,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "342.0",
+      "line_index": 342,
+      "inline_index": 0,
+      "line_hash": "d25894a1",
+      "speaker": "",
+      "ja": "どこからか、かすかに聞こえてくる音。眠りに落ちようと頑張り始めてから数時間。そろそろもしかしたら、というタイミングで意識が音へと吸い込まれる。",
+      "zh": ""
+    },
+    {
+      "key": "344.0",
+      "line_index": 344,
+      "inline_index": 0,
+      "line_hash": "16be0ef1",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………？　なんだか、声が聞こえるような……他の部屋か？",
+      "zh": ""
+    },
+    {
+      "key": "352.0",
+      "line_index": 352,
+      "inline_index": 0,
+      "line_hash": "fef2d2be",
+      "speaker": "{G_PlayerName}",
+      "ja": "あまり出歩いても、他の人を起こすかも知れないしな……寝よう",
+      "zh": ""
+    },
+    {
+      "key": "354.0",
+      "line_index": 354,
+      "inline_index": 0,
+      "line_hash": "d247c58d",
+      "speaker": "{G_PlayerName}",
+      "ja": "……眠れるといいけど……",
+      "zh": ""
+    },
+    {
+      "key": "359.0",
+      "line_index": 359,
+      "inline_index": 0,
+      "line_hash": "602105a6",
+      "speaker": "",
+      "ja": "もらった布団は厚いとは言え、床は硬い。",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "92b07a99",
+      "speaker": "",
+      "ja": "慣れない環境で色々モヤモヤと考えは巡り、結局睡眠時間は殆ど無かった……",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "71f4f10a",
+      "speaker": "カシミア",
+      "ja": "うあっ……！　あっ、ああああぁぁ～～～っ！",
+      "zh": ""
+    },
+    {
+      "key": "380.0",
+      "line_index": 380,
+      "inline_index": 0,
+      "line_hash": "3d009bf4",
+      "speaker": "{G_PlayerName}",
+      "ja": "今の声……もしかして、カシミア？",
+      "zh": ""
+    },
+    {
+      "key": "394.0",
+      "line_index": 394,
+      "inline_index": 0,
+      "line_hash": "efc8fca0",
+      "speaker": "{G_PlayerName}",
+      "ja": "カシミアっ！？　そんなに叫んで、どうしたんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "401.0",
+      "line_index": 401,
+      "inline_index": 0,
+      "line_hash": "38e74abe",
+      "speaker": "",
+      "ja": "ベッドの上で髪を振り乱しているカシミア。まるで怯えたような目をこちらに向けながら、再び叫び声を上げた。",
+      "zh": ""
+    },
+    {
+      "key": "404.1",
+      "line_index": 404,
+      "inline_index": 1,
+      "line_hash": "99aa97cf",
+      "speaker": "カシミア",
+      "ja": "あぁ、あぁぁっ！　こあいえ、きたあい、き、た、あいっ……！",
+      "zh": ""
+    },
+    {
+      "key": "408.0",
+      "line_index": 408,
+      "inline_index": 0,
+      "line_hash": "8f476f0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（来ないで、汚い？　もしかして、過去の事を思い出してパニックになってるのか……？）",
+      "zh": ""
+    },
+    {
+      "key": "412.0",
+      "line_index": 412,
+      "inline_index": 0,
+      "line_hash": "1b62928",
+      "speaker": "{G_PlayerName}",
+      "ja": "落ち着いてくれ、俺だ。ここは危ない事なんてないから…",
+      "zh": ""
+    },
+    {
+      "key": "416.1",
+      "line_index": 416,
+      "inline_index": 1,
+      "line_hash": "7161afff",
+      "speaker": "カシミア",
+      "ja": "あううっ、やあっ、やああぁっ！！",
+      "zh": ""
+    },
+    {
+      "key": "419.1",
+      "line_index": 419,
+      "inline_index": 1,
+      "line_hash": "9623d8dd",
+      "speaker": "カシミア",
+      "ja": "ふううっ、ふぐっ、うううぅう……！",
+      "zh": ""
+    },
+    {
+      "key": "421.0",
+      "line_index": 421,
+      "inline_index": 0,
+      "line_hash": "baf480cb",
+      "speaker": "",
+      "ja": "カシミアは噛み殺すような泣き声を上げながら、自らの股間へ手を伸ばし、そのまま割れ目を弄り始める。",
+      "zh": ""
+    },
+    {
+      "key": "424.0",
+      "line_index": 424,
+      "inline_index": 0,
+      "line_hash": "103b0bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "なっ、何してるんだ……！？",
+      "zh": ""
+    },
+    {
+      "key": "428.1",
+      "line_index": 428,
+      "inline_index": 1,
+      "line_hash": "ffc3dffb",
+      "speaker": "カシミア",
+      "ja": "うあっ！　ううううぅっ！　いぅうっ……！",
+      "zh": ""
+    },
+    {
+      "key": "430.0",
+      "line_index": 430,
+      "inline_index": 0,
+      "line_hash": "ab2c531b",
+      "speaker": "",
+      "ja": "突然のことで思わず顔を背けてしまったが、カシミアの悲痛な声に我に返る。",
+      "zh": ""
+    },
+    {
+      "key": "433.0",
+      "line_index": 433,
+      "inline_index": 0,
+      "line_hash": "762caeae",
+      "speaker": "{G_PlayerName}",
+      "ja": "（過去に何をされたかわからないが、余程辛い目にあったに違いない。俺に出来ることは……）",
+      "zh": ""
+    },
+    {
+      "key": "437.0",
+      "line_index": 437,
+      "inline_index": 0,
+      "line_hash": "d4172ec3",
+      "speaker": "{G_PlayerName}",
+      "ja": "カシミア、苦しいのか？　大丈夫だからな",
+      "zh": ""
+    },
+    {
+      "key": "441.1",
+      "line_index": 441,
+      "inline_index": 1,
+      "line_hash": "174957ba",
+      "speaker": "カシミア",
+      "ja": "ふぐっ！？　うううぅ、うううぅっ！？",
+      "zh": ""
+    },
+    {
+      "key": "455.0",
+      "line_index": 455,
+      "inline_index": 0,
+      "line_hash": "2181ed23",
+      "speaker": "カシミア",
+      "ja": "ふあぁっ！？♥　んぅ、んふぅ、ううう、うううぅぅぅっ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "457.0",
+      "line_index": 457,
+      "inline_index": 0,
+      "line_hash": "2c71c58d",
+      "speaker": "",
+      "ja": "俺はカシミアの傍にそっと座り、小さな頭を優しく撫でた。",
+      "zh": ""
+    },
+    {
+      "key": "458.0",
+      "line_index": 458,
+      "inline_index": 0,
+      "line_hash": "a1ef60ee",
+      "speaker": "",
+      "ja": "カシミアの体が反応して一瞬跳ねるが、それでもカシミアの指は止まらず割れ目をくちゅくちゅと弄り続けていた。",
+      "zh": ""
+    },
+    {
+      "key": "461.0",
+      "line_index": 461,
+      "inline_index": 0,
+      "line_hash": "9668431c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんでこんなことしてるかはわからないけど、無理にやめさせるのも危険だ。今は、少しでもカシミアを落ち着かせないと……）",
+      "zh": ""
+    },
+    {
+      "key": "465.0",
+      "line_index": 465,
+      "inline_index": 0,
+      "line_hash": "1e93e00c",
+      "speaker": "カシミア",
+      "ja": "あぅあっ、っ！♥　ふぅ、ふぅううっ！！♥　きたあい……！　やめえ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "468.0",
+      "line_index": 468,
+      "inline_index": 0,
+      "line_hash": "8c036158",
+      "speaker": "",
+      "ja": "カシミアは俺の許しを請う様に瞳から涙を溢れさせ、行為を続ける。辛そうなカシミアを宥めながら、俺は頭を撫で続けた。",
+      "zh": ""
+    },
+    {
+      "key": "471.0",
+      "line_index": 471,
+      "inline_index": 0,
+      "line_hash": "de4b2ce1",
+      "speaker": "{G_PlayerName}",
+      "ja": "カシミアは汚くないし、酷い事を言う奴らも今はいない。ゆっくり、深呼吸するんだ",
+      "zh": ""
+    },
+    {
+      "key": "475.0",
+      "line_index": 475,
+      "inline_index": 0,
+      "line_hash": "9487d3bd",
+      "speaker": "カシミア",
+      "ja": "ううぅっ！　きたあい、きたあいぃっ！♥　あぁうっ、うぁああっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "478.0",
+      "line_index": 478,
+      "inline_index": 0,
+      "line_hash": "100a6ccc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（駄目だ、やっぱり興奮し続けてる……そう簡単に落ち着いたりしないか）",
+      "zh": ""
+    },
+    {
+      "key": "482.0",
+      "line_index": 482,
+      "inline_index": 0,
+      "line_hash": "613eb8d6",
+      "speaker": "{G_PlayerName}",
+      "ja": "……カシミア。そのまま続けるんだ",
+      "zh": ""
+    },
+    {
+      "key": "489.0",
+      "line_index": 489,
+      "inline_index": 0,
+      "line_hash": "f7de2d24",
+      "speaker": "カシミア",
+      "ja": "んぅ、うう、ぐっ……うう……？♥",
+      "zh": ""
+    },
+    {
+      "key": "492.0",
+      "line_index": 492,
+      "inline_index": 0,
+      "line_hash": "bdf2eb7f",
+      "speaker": "{G_PlayerName}",
+      "ja": "カシミアがそうしたいなら続けるといい、無理するな",
+      "zh": ""
+    },
+    {
+      "key": "496.0",
+      "line_index": 496,
+      "inline_index": 0,
+      "line_hash": "265171ac",
+      "speaker": "カシミア",
+      "ja": "あううううぅぅっ♥　ううっ、ふうううぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "498.0",
+      "line_index": 498,
+      "inline_index": 0,
+      "line_hash": "1e930ff5",
+      "speaker": "",
+      "ja": "カシミアの抵抗する力が少しずつ薄れ、表情が蕩け始める。",
+      "zh": ""
+    },
+    {
+      "key": "501.0",
+      "line_index": 501,
+      "inline_index": 0,
+      "line_hash": "2d466a",
+      "speaker": "カシミア",
+      "ja": "（あたまのかんしょく……きもちいい……おちつくぅ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "504.0",
+      "line_index": 504,
+      "inline_index": 0,
+      "line_hash": "b11865bd",
+      "speaker": "カシミア",
+      "ja": "（あぁぁ……あったかい……♥　気持ち良い、気持ち良い……♥　もっと、もっとぉ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "506.0",
+      "line_index": 506,
+      "inline_index": 0,
+      "line_hash": "8c98f660",
+      "speaker": "",
+      "ja": "カシミアは身体をピクピクと震わせながら、ぐちゅぐちゅとクリトリスを弄る。愛液が膣穴からどんどん溢れて来るのが見える。",
+      "zh": ""
+    },
+    {
+      "key": "508.0",
+      "line_index": 508,
+      "inline_index": 0,
+      "line_hash": "b9a8eadf",
+      "speaker": "",
+      "ja": "最初は脅迫されているかのような荒々しい指の動きも、快感を追うような、時折優しく、時折激しくなる動きに変わっている。最初より、息遣いもずっと落ち着いているようだ。",
+      "zh": ""
+    },
+    {
+      "key": "511.0",
+      "line_index": 511,
+      "inline_index": 0,
+      "line_hash": "343ba56f",
+      "speaker": "{G_PlayerName}",
+      "ja": "気持ち、良いか……？",
+      "zh": ""
+    },
+    {
+      "key": "515.0",
+      "line_index": 515,
+      "inline_index": 0,
+      "line_hash": "dc959de5",
+      "speaker": "カシミア",
+      "ja": "うん……♥　うん……♥　きもひ、いい……♥　ふあ、ふあぁ……はぁぁ…♥　あはぁ、はぁぁぁ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "518.0",
+      "line_index": 518,
+      "inline_index": 0,
+      "line_hash": "58c58cc3",
+      "speaker": "カシミア",
+      "ja": "はぁ、はぁぁぁ……！♥　きもひいい……！♥　いい、いい……！♥　ああっ、あああぁ……！♥　はぅうううっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "520.0",
+      "line_index": 520,
+      "inline_index": 0,
+      "line_hash": "129660f1",
+      "speaker": "",
+      "ja": "カシミアはクリトリスをグニグニと捏ね、乳首も強く揉み始める。",
+      "zh": ""
+    },
+    {
+      "key": "521.0",
+      "line_index": 521,
+      "inline_index": 0,
+      "line_hash": "91b2c4de",
+      "speaker": "",
+      "ja": "俺は完全にカシミアから目が離せなくなり、いやらしい姿に釘付けになってしまう。",
+      "zh": ""
+    },
+    {
+      "key": "524.0",
+      "line_index": 524,
+      "inline_index": 0,
+      "line_hash": "863f7e6f",
+      "speaker": "カシミア",
+      "ja": "あーあ、あーあ……♥　ふあ、ああぁぁ……！♥　んぅ、んはぁ、はぁぁっ！♥",
+      "zh": ""
+    },
+    {
+      "key": "527.0",
+      "line_index": 527,
+      "inline_index": 0,
+      "line_hash": "89e1580",
+      "speaker": "カシミア",
+      "ja": "（こんなに優しくしてもらうの、初めて……♥　この人の目、好き……もっと、もっと見てぇ……♥）",
+      "zh": ""
+    },
+    {
+      "key": "530.0",
+      "line_index": 530,
+      "inline_index": 0,
+      "line_hash": "b04e00c",
+      "speaker": "カシミア",
+      "ja": "（おまんこ、イっちゃう……！♥　うう、でも、でも……一人で勝手にイクのは……）",
+      "zh": ""
+    },
+    {
+      "key": "533.0",
+      "line_index": 533,
+      "inline_index": 0,
+      "line_hash": "e1804fb1",
+      "speaker": "カシミア",
+      "ja": "ううっ、ううぅ……♥",
+      "zh": ""
+    },
+    {
+      "key": "536.0",
+      "line_index": 536,
+      "inline_index": 0,
+      "line_hash": "2892f339",
+      "speaker": "{G_PlayerName}",
+      "ja": "カシミア……？",
+      "zh": ""
+    },
+    {
+      "key": "540.0",
+      "line_index": 540,
+      "inline_index": 0,
+      "line_hash": "a51af6fb",
+      "speaker": "カシミア",
+      "ja": "いっても、いい……？♥　いってもぉ、いいえす、か……♥",
+      "zh": ""
+    },
+    {
+      "key": "543.0",
+      "line_index": 543,
+      "inline_index": 0,
+      "line_hash": "d6b2b4cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、カシミアは自由だ。好きな時にイって、気持ちよくなっていい",
+      "zh": ""
+    },
+    {
+      "key": "547.0",
+      "line_index": 547,
+      "inline_index": 0,
+      "line_hash": "78dcf189",
+      "speaker": "カシミア",
+      "ja": "じ、ゆう……♥　うん、うん……っああ、ふあ、ふあぁっ、んぅぅぅ！♥　あ、あっ！♥　ああぁぁ～～っ！！♥",
+      "zh": ""
+    },
+    {
+      "key": "549.0",
+      "line_index": 549,
+      "inline_index": 0,
+      "line_hash": "8a6e705",
+      "speaker": "",
+      "ja": "カシミアの頬を撫でながら優しく伝えると、大粒の涙が大きな瞳から流れ落ちる。",
+      "zh": ""
+    },
+    {
+      "key": "550.0",
+      "line_index": 550,
+      "inline_index": 0,
+      "line_hash": "6e9d99d0",
+      "speaker": "",
+      "ja": "絶頂を求めるように瞳が徐々に大きくなり。それでも俺をじっと見続け、カシミアはオナニーを続ける。",
+      "zh": ""
+    },
+    {
+      "key": "553.0",
+      "line_index": 553,
+      "inline_index": 0,
+      "line_hash": "74e0e7f9",
+      "speaker": "カシミア",
+      "ja": "あーあ、あーあ、イっひゃう……イっひゃう……！♥　おまんほっ、イっひゃうぅ……！！♥",
+      "zh": ""
+    },
+    {
+      "key": "556.0",
+      "line_index": 556,
+      "inline_index": 0,
+      "line_hash": "d90af92",
+      "speaker": "カシミア",
+      "ja": "イふっ！♥　イふっ！♥　ふぅ、ふあ、はぁ、ああ、ああああぁぁ～～っ！！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "565.0",
+      "line_index": 565,
+      "inline_index": 0,
+      "line_hash": "3531d4e6",
+      "speaker": "カシミア",
+      "ja": "んんんっ！♥　んは、あ、あぁっ！♥　ふあ、はぁぁぁあんっ！♥♥",
+      "zh": ""
+    },
+    {
+      "key": "567.0",
+      "line_index": 567,
+      "inline_index": 0,
+      "line_hash": "f02b7acf",
+      "speaker": "",
+      "ja": "カシミアの身体が一瞬硬直後、ビクンと腰が跳ね上がる。絶頂の気持ち良さを示すように膣穴から愛液が噴き出す。",
+      "zh": ""
+    },
+    {
+      "key": "568.0",
+      "line_index": 568,
+      "inline_index": 0,
+      "line_hash": "3718ef1",
+      "speaker": "",
+      "ja": "俺はカシミアの痴態に興奮するよりも、カシミアが快感に身を任せることが出来たことに安堵してしまった。",
+      "zh": ""
+    },
+    {
+      "key": "571.0",
+      "line_index": 571,
+      "inline_index": 0,
+      "line_hash": "8db381dc",
+      "speaker": "カシミア",
+      "ja": "ふあぁ、ふあぁ、ふあぁぁぁ……♥　きもひ、いいぃ……！♥　ふぅ、ふぅ、んふうう……！♥",
+      "zh": ""
+    },
+    {
+      "key": "574.0",
+      "line_index": 574,
+      "inline_index": 0,
+      "line_hash": "1b2aff36",
+      "speaker": "{G_PlayerName}",
+      "ja": "気持ち良かったのなら何よりだ。これからは誰に遠慮しなくてもいいからな？　何をするのもカシミアの意思一つでしていいんだから",
+      "zh": ""
+    },
+    {
+      "key": "578.0",
+      "line_index": 578,
+      "inline_index": 0,
+      "line_hash": "7c35df43",
+      "speaker": "カシミア",
+      "ja": "う、ん……♥",
+      "zh": ""
+    },
+    {
+      "key": "581.0",
+      "line_index": 581,
+      "inline_index": 0,
+      "line_hash": "56a0dda4",
+      "speaker": "カシミア",
+      "ja": "（私のこと、汚いって言わないで……ずっと傍にいてくれた。……そんな人、初めて……）",
+      "zh": ""
+    },
+    {
+      "key": "584.0",
+      "line_index": 584,
+      "inline_index": 0,
+      "line_hash": "b4e194ee",
+      "speaker": "カシミア",
+      "ja": "（私、汚くない……？　少なくとも、この人はそんなこと言わない……ううん、思ったりしない……？）",
+      "zh": ""
+    },
+    {
+      "key": "587.0",
+      "line_index": 587,
+      "inline_index": 0,
+      "line_hash": "27cb81f9",
+      "speaker": "カシミア",
+      "ja": "（嬉しい……♥　傍にいてくれる、嫌な顔しないで触ってくれる……♥）",
+      "zh": ""
+    },
+    {
+      "key": "590.0",
+      "line_index": 590,
+      "inline_index": 0,
+      "line_hash": "f2fa0142",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どうやら落ち着いてくれたようだ……本当に良かった……）",
+      "zh": ""
+    },
+    {
+      "key": "594.0",
+      "line_index": 594,
+      "inline_index": 0,
+      "line_hash": "b13cc7e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "（でも俺のコレ、どうすれば……いや、今はそんなこと考えている場合じゃないな）",
+      "zh": ""
+    },
+    {
+      "key": "597.0",
+      "line_index": 597,
+      "inline_index": 0,
+      "line_hash": "f2eaa66a",
+      "speaker": "",
+      "ja": "俺はちらっと自分の股間を見る。カシミアが落ち着いてくれたことが嬉しいのは事実だが、やはり生理現象には逆らえないようだ。",
+      "zh": ""
+    },
+    {
+      "key": "598.0",
+      "line_index": 598,
+      "inline_index": 0,
+      "line_hash": "f27d1a77",
+      "speaker": "",
+      "ja": "俺はカシミアの溢れ続ける涙を拭い続け、カシミアと自身の股間が完全に落ち着くまで傍にいようと思うのだった。",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "df917f66",
+      "speaker": "ヴァイン",
+      "ja": "フウリ……",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "66dbf352",
+      "speaker": "",
+      "ja": "フウリと呼ばれたリリアンは、こちらに一瞬視線を飛ばしたかと思うと、深い溜息をついた。",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "28b3adaa",
+      "speaker": "フウリ",
+      "ja": "その連れている者を見るに……まだ無駄なことをしているのですか。孤児院と称して、リリアンを保護するなど……",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "2de22284",
+      "speaker": "ヴァイン",
+      "ja": "無駄などでは……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "911fe74c",
+      "speaker": "フウリ",
+      "ja": "無駄であろうとなかろうと、派手にやりすぎれば村人に目をつけられますよ。わたくしの口添えがあったとしても",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "3d583d88",
+      "speaker": "ヴァイン",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "e80fddb",
+      "speaker": "フウリ",
+      "ja": "孤児院など管理する暇があるなら、毒蛇様をもっと信仰なさい",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "d17943ff",
+      "speaker": "ヴァイン",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "395021a4",
+      "speaker": "コハル",
+      "ja": "（ちょっと、毒蛇様って確か……）",
+      "zh": ""
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "2a9e45e9",
+      "speaker": "雫",
+      "ja": "（演説で出ていた単語ですね）",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "a9f121a9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ヒナタも毒蛇様の祟りがどうこう、って言ってたぞ）",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "5bd93c4e",
+      "speaker": "ルミナ",
+      "ja": "（あの演説……フウリさんが、してたのかな……）",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "a75fef33",
+      "speaker": "雫",
+      "ja": "（なるほど差別にあっている立場でありながら、地位を盤石にするために巫女を自称しているのですね）",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "2d0b9bed",
+      "speaker": "雫",
+      "ja": "（リリアンの力自体は神秘です。自分たちが理解できないから起きている差別なら、理解できない事象の解決を期待することもあるでしょう）",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "b866eec4",
+      "speaker": "コハル",
+      "ja": "（でも、フウリって……リリアンよね？　おかしくない？　リリアンがリリアンを生贄にしろって言ってたことになるけど）",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "ff7b220c",
+      "speaker": "雫",
+      "ja": "（……本気で神託を受けたと思い込んでいる可能性もありますが）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "4d90c499",
+      "speaker": "雫",
+      "ja": "（生贄にリリアンを選ぶことで、村人の溜飲を下げようとしてるのかも……）",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "f39994c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そ、それって……）",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "34612542",
+      "speaker": "コハル",
+      "ja": "（つまり、リリアンが自分のために他のリリアンを犠牲にしてるってこと？）",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "c3a2871a",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "a7a5807a",
+      "speaker": "ルミナ",
+      "ja": "（……人間は、人間を殺せるから……悲しいことだけど……）",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "fe1f7507",
+      "speaker": "",
+      "ja": "ルミナがそう呟いて目を伏せる。王女という身である以上、残酷な世界……戦争や崩壊した文化を、いくつも勉強したり、見てきたのかも知れない。",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "c650847c",
+      "speaker": "フウリ",
+      "ja": "ちょうどいい。そこのリリアン達も、託宣をするから聞いていきなさい",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "7a6f445f",
+      "speaker": "コハル",
+      "ja": "（託宣……って、魔力が乗ってるアレよね……！？）",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "4f7a2b0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（俺が聞いたらマズいんじゃ……！？）",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "4531f050",
+      "speaker": "雫",
+      "ja": "（ルナリングによって多少の精神操作は抵抗出来るでしょうが……）",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "208de22c",
+      "speaker": "コハル",
+      "ja": "（危ないって思ったら言うから、逃げる準備をしておきましょ）",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "22566e58",
+      "speaker": "フウリ",
+      "ja": "村に住む者達よ！　耳を傾けよ！　此度もまた、毒蛇様の天啓が下った！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "35e1bf08",
+      "speaker": "フウリ",
+      "ja": "この地を司る、毒蛇様のお告げである！　拒む者、異を唱える者には誅罰が下るであろう！",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "d480ccfd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（だ、大丈夫か……？）",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "362ffafa",
+      "speaker": "コハル",
+      "ja": "（不思議ね……今の声には全然魔力を感じないわ）",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "7f193504",
+      "speaker": "フウリ",
+      "ja": "柱として選ばれたリリアンをここに！",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "b47a9fb5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（柱……生贄か……！）",
+      "zh": ""
+    },
+    {
+      "key": "125.0",
+      "line_index": 125,
+      "inline_index": 0,
+      "line_hash": "8c37afce",
+      "speaker": "",
+      "ja": "霧の向こうから、拘束された影が何人か現れる。抵抗するような様子は無く、選ばれたことを当然のように受け入れているようにすら見える。",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "b583ea93",
+      "speaker": "フウリ",
+      "ja": "この者たちを柱とし、毒蛇様の慈悲を乞う！　間もなく霧は晴れ、救いが訪れるであろう！",
+      "zh": ""
+    },
+    {
+      "key": "129.0",
+      "line_index": 129,
+      "inline_index": 0,
+      "line_hash": "92537f7",
+      "speaker": "",
+      "ja": "村人たちに見えるように、前へとリリアンが押し出される。その中に……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "d2147661",
+      "speaker": "ヒナタ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "237e9fc2",
+      "speaker": "ルミナ",
+      "ja": "…………っ！",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "61420b73",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヒ……ヒナタ……！？",
+      "zh": ""
+    }
+  ]
+}

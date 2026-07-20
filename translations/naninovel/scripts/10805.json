@@ -1,0 +1,427 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "6d52dfe3",
+      "speaker": "コハル",
+      "ja": "……うーん、よく寝た！　案外慣れたら快適だったわね～",
+      "zh": "……嗯，睡得好舒服！习惯了之后反而觉得挺舒服的呢～"
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "df7dbbb4",
+      "speaker": "ルミナ",
+      "ja": "枕を無くして、布団ぐるぐるになって寝るの……時々は、いいかも……",
+      "zh": "没有枕头，裹着被子睡……偶尔这样也挺好的……"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "421cce26",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}はよく寝られた？",
+      "zh": "{G_PlayerName}睡得好吗？"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "29516fd6",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちょ、ちょっと寝不足かな……",
+      "zh": "呃……有点没睡够……"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "2288b8cc",
+      "speaker": "コハル",
+      "ja": "枕が変わったから？　だらしないわねー",
+      "zh": "因为换了枕头？这可不像你呢～"
+    },
+    {
+      "key": "23.0",
+      "line_index": 23,
+      "inline_index": 0,
+      "line_hash": "37fcf545",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、そういうわけじゃ……",
+      "zh": "不，也不是那个意思……"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "8895ded0",
+      "speaker": "ルミナ",
+      "ja": "無理……しないでね……？",
+      "zh": "别勉强自己哦……？"
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "39adb06d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、ありがとう。徹夜は慣れてるし大丈夫だ",
+      "zh": "啊，谢谢。我习惯熬夜了，没事的。"
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "44ac45c0",
+      "speaker": "ヴァイン",
+      "ja": "皆様、おはようございます",
+      "zh": "各位，早上好。"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "11db55a5",
+      "speaker": "コハル",
+      "ja": "あ、ヴァインさん！　おはようございます",
+      "zh": "啊，维因先生！早上好。"
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "f119a3e3",
+      "speaker": "",
+      "ja": "コハルが瞬速で寝癖を整え、服と布団のシワを伸ばす。リリアンの能力を活かすならもっと他の場所にして欲しい。",
+      "zh": "小春瞬间整理好睡乱的头发，扯平了衣服和被子上的褶子。要是想发挥莉安的能力，不如用在别的地方。"
+    },
+    {
+      "key": "42.1",
+      "line_index": 42,
+      "inline_index": 1,
+      "line_hash": "bf9a8e92",
+      "speaker": "ヴァイン",
+      "ja": "私は村へ買い物に行ってきますが、何か必要なものはございますか？",
+      "zh": "我要去村里买东西，你们有什么需要的吗？"
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "cd67d421",
+      "speaker": "ルミナ",
+      "ja": "えっ……リリアンなのに、売ってくれる……お店がある、の？",
+      "zh": "诶……明明是莉安，却愿意卖东西……有这样的店吗？"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "8bbcfdbc",
+      "speaker": "ヒナタ",
+      "ja": "ヴァイン様は特別だからねっ！",
+      "zh": "因为维因大人是特别的嘛！"
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "f826868c",
+      "speaker": "",
+      "ja": "ヴァインの影になって見えていなかったヒナタがぴょこんと現れる。朝から元気いっぱいのようだ。",
+      "zh": "刚才藏在维因影子里的日向突然探出头来。看来她一大早就精神十足。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "ecd34066",
+      "speaker": "{G_PlayerName}",
+      "ja": "特別……？",
+      "zh": "特别……？"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "881874cf",
+      "speaker": "ヴァイン",
+      "ja": "そのあたりは……またご説明いたします。ヒナタは買い物に付いて来ますか？",
+      "zh": "关于这个……之后再说明。日向，你要一起去买东西吗？"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "5c41aafb",
+      "speaker": "ヒナタ",
+      "ja": "うーん……ううん！　今日はお掃除があるから、やめておきますっ！",
+      "zh": "嗯……不了！今天要打扫，我就不去了！"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "49cdff50",
+      "speaker": "ヴァイン",
+      "ja": "そうですか。皆様はどうなさいますか？",
+      "zh": "这样啊。各位呢？"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "b9b266aa",
+      "speaker": "ルミナ",
+      "ja": "あ……もし良かったら、ご一緒しても……？",
+      "zh": "啊……如果不介意的话，可以一起吗……？"
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "9190dcbe",
+      "speaker": "{G_PlayerName}",
+      "ja": "何か持てる物があれば持つよ",
+      "zh": "有什么要拿的东西我帮你拿。"
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "ec44c9f8",
+      "speaker": "ヴァイン",
+      "ja": "荷物が多いので、助かります。では、向かいましょう",
+      "zh": "东西有点多，帮大忙了。那么，出发吧。"
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "1ed12868",
+      "speaker": "",
+      "ja": "ヴァインを先頭にして道を歩く。昨日と同じで、あまり人は外を出歩いていないようだった。",
+      "zh": "以维因为首走在路上。和昨天一样，外面似乎没什么人走动。"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "1f85624",
+      "speaker": "ヴァイン",
+      "ja": "皆様、孤児院はいかがでしょうか。よろしければ、このままお住みになりますか？",
+      "zh": "各位，孤儿院你们觉得怎么样？如果愿意的话，要不要就住下来？"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "fdf24597",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや、俺達は……",
+      "zh": "不，我们……"
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "1afeea32",
+      "speaker": "ヴァイン",
+      "ja": "雫様は他にも村があると仰っていましたが、そちらでもリリアン差別はあるでしょう？　無理はなさらずとも……",
+      "zh": "雫小姐说还有其他村子，但那边也会有对莉安的歧视吧？不必勉强……"
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "f10b8c80",
+      "speaker": "雫",
+      "ja": "村にいる他のリリアンを見捨てることは出来ませんので。もしどうしようもなくなったら、頼らせていただきます",
+      "zh": "因为我们不能抛弃村里其他的莉安。如果真到了走投无路的时候，我会拜托你的。"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "82d501b2",
+      "speaker": "ヴァイン",
+      "ja": "そうですか……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "29195d92",
+      "speaker": "{G_PlayerName}",
+      "ja": "買い物って、何を買うんだ？",
+      "zh": "说起来，要买什么啊？"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "2f120ab",
+      "speaker": "ヴァイン",
+      "ja": "食器や、掃除用具……先日屋根が一部壊れましたので、補修道具などですね",
+      "zh": "食物、清扫用具……前两天屋顶坏了一块，需要些修补工具。"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "eb501483",
+      "speaker": "ヴァイン",
+      "ja": "……店の前に着きました。購入して参りますので、少々お待ちください",
+      "zh": "……到店门口了。我去采购，请稍等片刻。"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "fd8cf06b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ……気を付けて",
+      "zh": "啊，好的……小心点。"
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "83a256ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "一人で行っちゃったけど……本当に大丈夫なのかな？",
+      "zh": "他一个人去了……真的没问题吗？"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "89745cf9",
+      "speaker": "ルミナ",
+      "ja": "あの感じだと……どこのお店でも、嫌な顔……されそうだけど……",
+      "zh": "看那样子……不管去哪家店，都可能被冷眼相待吧……"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "5f5c70c7",
+      "speaker": "雫",
+      "ja": "『特別』、ということなのでしょうね。何故かはわかりませんが",
+      "zh": "大概是因为他“特别”吧。虽然不知道为什么。"
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "7d716b58",
+      "speaker": "ヴァイン",
+      "ja": "……これで、今日必要な物は購入し終わりました",
+      "zh": "……这样，今天需要的东西就买完了。"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "aa9f7d1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に多いな……！",
+      "zh": "真不少啊……！"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "7cc2d7dd",
+      "speaker": "",
+      "ja": "結局、ヴァイン１人では絶対に持てない量の買い物になっていた。雫に至っては、持っている荷物で顔が見えない。",
+      "zh": "结果，买的东西多到维因一个人绝对拿不了。至于雫，她手上拿的东西多得连脸都看不见了。"
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "ea112ef2",
+      "speaker": "ヴァイン",
+      "ja": "皆様に甘えて、少し先の物まで買いすぎてしまいました。申し訳ございません",
+      "zh": "我仗着有大家在，不小心把之后的东西也买了太多。非常抱歉。"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "c3f443aa",
+      "speaker": "雫",
+      "ja": "いえ。それは構いません……が、少し気になることが",
+      "zh": "不，那倒没关系……不过，我有点在意一件事。"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "15eb5f64",
+      "speaker": "ヴァイン",
+      "ja": "気になること、ですか？",
+      "zh": "在意的事？"
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "8d2cbcba",
+      "speaker": "雫",
+      "ja": "はい。入った店のどこからも、怒鳴り声は聞こえてきませんでした。……これは、ヴァイン様が『特別』だからなのですか？",
+      "zh": "是的。我们去的每一家店，都没有听到任何斥骂声。……这是因为维因大人您“特别”吗？"
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "ec2e52ab",
+      "speaker": "ヴァイン",
+      "ja": "……そう、ですね。説明をさせていただきま……",
+      "zh": "……是的，没错。请允许我说明……"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "e2404e51",
+      "speaker": "？？？",
+      "ja": "ヴァイン、こんなところにいたのですか",
+      "zh": "维因，你在这里啊。"
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "2844bc3b",
+      "speaker": "",
+      "ja": "ゆったりとした……緩急のある蛇のような動きで、初めて見るリリアンが現れる。",
+      "zh": "一个从未见过的莉安出现了。她的动作悠然自得，像蛇一样张弛有度。"
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "4fed9ba7",
+      "speaker": "{G_PlayerName}",
+      "ja": "この人は……？",
+      "zh": "这个人……？"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "df917f66",
+      "speaker": "ヴァイン",
+      "ja": "フウリ……",
+      "zh": "芙莉……"
+    }
+  ]
+}

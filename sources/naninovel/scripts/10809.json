@@ -1,0 +1,652 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "358e1ffd",
+      "speaker": "ヴァイン",
+      "ja": "くっ……！　薬はまだ抜けきってはいないはずなのに……！",
+      "zh": ""
+    },
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "ef8430ac",
+      "speaker": "雫",
+      "ja": "わたくしの忠誠心の前では、薬など効きません！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "28e679d3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（たまに膝が笑ってるから、効いてるみたいだけどな……）",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "3567598c",
+      "speaker": "コハル",
+      "ja": "やあっ！",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "bcfa8133",
+      "speaker": "ヴァイン",
+      "ja": "っ、無駄な抵抗を……！",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "c4033739",
+      "speaker": "ヴァイン",
+      "ja": "……ちっ！",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "620614a",
+      "speaker": "雫",
+      "ja": "（隙が生まれた！　このまま、意識を奪う……！）",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "21b05ca0",
+      "speaker": "{G_PlayerName}",
+      "ja": "え……？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "ebeb9722",
+      "speaker": "雫",
+      "ja": "か、体が……",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "69113451",
+      "speaker": "ルミナ",
+      "ja": "動かない……！",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "99826658",
+      "speaker": "{G_PlayerName}",
+      "ja": "くそっ、俺も……何が起こったんだ……！？",
+      "zh": ""
+    },
+    {
+      "key": "69.1",
+      "line_index": 69,
+      "inline_index": 1,
+      "line_hash": "a0f2dbd4",
+      "speaker": "ヴァイン",
+      "ja": "フウリ……！",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "11224ecc",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ってことは……毒霧……！）",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "b6afac40",
+      "speaker": "フウリ",
+      "ja": "ご心配なさらず。痺れさせただけですので",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "b858fa21",
+      "speaker": "コハル",
+      "ja": "う……動く……？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "211007bf",
+      "speaker": "ルミナ",
+      "ja": "だ……め。指一本も……能力も、使えない……",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "93647835",
+      "speaker": "雫",
+      "ja": "（くっ……『毒霧を生み出す』能力なら、霧自体に魔力は無いからコハル様も察知出来ない……失念していた……！）",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "800977bb",
+      "speaker": "フウリ",
+      "ja": "ヴァインは保護したリリアン達のところへ行きなさい。不安がっているでしょうから安心させるように",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "8cd63b97",
+      "speaker": "ヴァイン",
+      "ja": "……わかりました",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "5b2267c9",
+      "speaker": "フウリ",
+      "ja": "さて……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "45c05c11",
+      "speaker": "フウリ",
+      "ja": "アクシデントが少しは起きると覚悟をしていましたが、まさか余所者とは。……我々の事情はわかっているのかしら",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "de9f56db",
+      "speaker": "雫",
+      "ja": "ほぼ初対面の人間をこんな目に合わせるご事情、とても気になりますわ。教えていただけるのですか？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "45c44d43",
+      "speaker": "フウリ",
+      "ja": "余裕があるようで、こちらとしても安心したわ。……リリアンが差別を受けていて、こちらで保護しているのは理解しているかしら",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "e384755d",
+      "speaker": "",
+      "ja": "雫は初耳、と言いたげな顔を一瞬したが、すぐに無表情に戻った。",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "7adc19d5",
+      "speaker": "フウリ",
+      "ja": "そなた達がいた場所ではどうだったかわからないけれど、この村でのリリアンの扱いは、それは酷いものだった……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "bf4292ff",
+      "speaker": "フウリ",
+      "ja": "それこそ、わたくしが毒霧で抑えなければ、今頃リリアンは１人もいなくなっていたかも……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "e98ad929",
+      "speaker": "雫",
+      "ja": "毒霧……この星をこんな姿にしたのも、あなたの仕業だと？",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "8303e7f3",
+      "speaker": "フウリ",
+      "ja": "それは違うわ。元々ここは毒沼ばかりの不毛の地だったの。ちょっと外に出にくくしてあげただけよ",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "80d9dc32",
+      "speaker": "フウリ",
+      "ja": "保護具を配り、危険な目にあっているリリアンを柱の名目で少しずつ保護し……わたくしは少しずつ今の地位を築いた",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "74f96ec7",
+      "speaker": "{G_PlayerName}",
+      "ja": "そのまま、別の地で暮らすとか出来ないのか……？",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "c337e273",
+      "speaker": "フウリ",
+      "ja": "行く宛が無いし、そこにも人が来るかも知れない。不安は常に付きまとうでしょうね",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "5bcf0af0",
+      "speaker": "フウリ",
+      "ja": "わたくし達が求めているのは、ただ安心して暮らす事",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "71b854fa",
+      "speaker": "フウリ",
+      "ja": "そのためには、村の人間を全て殺してリリアンだけの村にしなくてはならない",
+      "zh": ""
+    },
+    {
+      "key": "155.0",
+      "line_index": 155,
+      "inline_index": 0,
+      "line_hash": "16e488e8",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ……殺す……？",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "a0be6ab8",
+      "speaker": "コハル",
+      "ja": "さっきヴァインから聞いた話と違うじゃない！　洗脳がどうこうはどうしたのよ！",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "7137e1e0",
+      "speaker": "フウリ",
+      "ja": "それは……",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "643d871a",
+      "speaker": "？？？",
+      "ja": "フウリ！",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "f53a1fc8",
+      "speaker": "フウリ",
+      "ja": "…………ヴァイン。戻ってきていたのですか",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "a5dd7470",
+      "speaker": "ヴァイン",
+      "ja": "け……計画と違うではありませんか！　秘宝を利用して、私の能力を使うだけのはずでは！？",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "f70e0a7c",
+      "speaker": "フウリ",
+      "ja": "こうでもしなければ、真の平和は訪れない。今の計画では、何がきっかけで崩れるか……",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "54e099ad",
+      "speaker": "ヴァイン",
+      "ja": "そんなことはわかっています！　それでも、越えてはならない一線があると……！",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "18576809",
+      "speaker": "フウリ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "a24ebe3a",
+      "speaker": "フウリ",
+      "ja": "ヴァイン……あなたまで犠牲になる必要は無い。わたくしだけで十分",
+      "zh": ""
+    },
+    {
+      "key": "186.1",
+      "line_index": 186,
+      "inline_index": 1,
+      "line_hash": "f3f35841",
+      "speaker": "ヴァイン",
+      "ja": "…………！？",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "d903ac28",
+      "speaker": "フウリ",
+      "ja": "手段を選ばず糾弾されても良いとは言ったけれど、それでも導く誰かは必要。そしてその人物は信用を得ていないといけない",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "304a4d3e",
+      "speaker": "フウリ",
+      "ja": "孤児院をずっと支えてきたヴァインが、一番適任よ",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "a87bffae",
+      "speaker": "ヴァイン",
+      "ja": "待っ…………！",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "37cc922",
+      "speaker": "",
+      "ja": "祭壇の奥の機械が光を放つ。湿った空気が、どろりと濁るような不快な感触が肌を襲った",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "a0dba4f8",
+      "speaker": "フウリ",
+      "ja": "ここで全て、終わらせる……！　毒よ、リリアン以外全ての人間を溶かせ！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "c0f767f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "や、やめっ…………！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "c6ff626f",
+      "speaker": "フウリ",
+      "ja": "ぐうっ！？",
+      "zh": ""
+    },
+    {
+      "key": "218.0",
+      "line_index": 218,
+      "inline_index": 0,
+      "line_hash": "b2293be2",
+      "speaker": "",
+      "ja": "何者かに吹き飛ばされるフウリ。機械の光は収まり、毒霧も収まったようだ。",
+      "zh": ""
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "e6a2f12c",
+      "speaker": "カシミア",
+      "ja": "あ、うううぅっ……！",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "1432594d",
+      "speaker": "カシミア",
+      "ja": "あ、えええっ！",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "ad6d10ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "か、カシミア……！？",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "2cc9dcf6",
+      "speaker": "ヒナタ",
+      "ja": "大丈夫……！？　ちょっと待ってくださいね……！",
+      "zh": ""
+    },
+    {
+      "key": "236.0",
+      "line_index": 236,
+      "inline_index": 0,
+      "line_hash": "5f468a97",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヒナタも！　なんでここに……？",
+      "zh": ""
+    },
+    {
+      "key": "238.1",
+      "line_index": 238,
+      "inline_index": 1,
+      "line_hash": "ddad0198",
+      "speaker": "ヒナタ",
+      "ja": "この奥にいたんだけど、ヴァイン様が血相変えてこっちに来たから……えっと、この感じ痺れ毒だよね……",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "db973934",
+      "speaker": "ヒナタ",
+      "ja": "これで、どうかな……！？",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "8df05419",
+      "speaker": "",
+      "ja": "ヒナタの周りから、白い花びらが舞い散る。一瞬目を奪われるが、花びらはすぐに消え去ってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "9818d4eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "今のって……？",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "a9b16e40",
+      "speaker": "ルミナ",
+      "ja": "あれ……体が、動く……！？",
+      "zh": ""
+    },
+    {
+      "key": "257.0",
+      "line_index": 257,
+      "inline_index": 0,
+      "line_hash": "98f21122",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほ、ほんとだ！",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "507f533c",
+      "speaker": "ヒナタ",
+      "ja": "えへへ、わたしの力で……ちょっとだけ、植物の力が借りられるんです！　知ってる植物じゃないとダメだし、何日かに１回だけですけど……",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "ccfa360a",
+      "speaker": "{G_PlayerName}",
+      "ja": "それで解毒したのか！？　すごいな、ヒナタ！",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "632cea42",
+      "speaker": "ヒナタ",
+      "ja": "でも、わたしが出来るのはこれくらいで。力を使っちゃったから、戦うのは……",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "9397b8f3",
+      "speaker": "カシミア",
+      "ja": "まか、せえ。わあしが……ああかう！",
+      "zh": ""
+    },
+    {
+      "key": "275.1",
+      "line_index": 275,
+      "inline_index": 1,
+      "line_hash": "69d268df",
+      "speaker": "フウリ",
+      "ja": "あと、少しだというのに……！　今までの時間も、犠牲も、無駄にするわけには……！",
+      "zh": ""
+    },
+    {
+      "key": "287.0",
+      "line_index": 287,
+      "inline_index": 0,
+      "line_hash": "26f7357f",
+      "speaker": "{G_PlayerName}",
+      "ja": "みんな、動けそうか？",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "8bdee532",
+      "speaker": "コハル",
+      "ja": "もっちろん！　カシミア任せには出来ないしね！",
+      "zh": ""
+    },
+    {
+      "key": "291.1",
+      "line_index": 291,
+      "inline_index": 1,
+      "line_hash": "43de9230",
+      "speaker": "雫",
+      "ja": "はあ、不覚を何度も取りましたが……名誉挽回しなくては",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "e18a7276",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんは、後ろにいて……！　絶対、止める……！",
+      "zh": ""
+    }
+  ]
+}

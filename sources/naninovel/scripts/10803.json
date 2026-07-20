@@ -1,0 +1,571 @@
+{
+  "lines": [
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "482fd2b8",
+      "speaker": "？？？",
+      "ja": "もしや、お食事でお困りなのでは……？",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "1eefe56a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あなたは……？",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "7f422602",
+      "speaker": "ヴァイン",
+      "ja": "ヴァインと申します。もしお困りであれば、私の管理する孤児院に来られませんか？　リリアンも多く保護しております",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "5546e33e",
+      "speaker": "コハル",
+      "ja": "どうする……？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "98c135d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "正直怪しい……けど、ありがたい申し出ではあるよな",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "ef8e9902",
+      "speaker": "雫",
+      "ja": "他にアテもありませんし、何かあれば逃げ出せばよいでしょう。それに、この星についても聞いておきたいところです",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "52858431",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……お言葉に甘えようか……",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "5069f2ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "ヴァインさん、ご迷惑じゃなければお願いしてもいいでしょうか……？",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "4fc7160",
+      "speaker": "ヴァイン",
+      "ja": "勿論です。ここから少し歩きますが、よろしいですか？",
+      "zh": ""
+    },
+    {
+      "key": "50.0",
+      "line_index": 50,
+      "inline_index": 0,
+      "line_hash": "645386fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "はい、ありがとうございます！",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "b8d80f8a",
+      "speaker": "ヴァイン",
+      "ja": "では、こちらへ……歩きながら、皆様のこともお聞かせください",
+      "zh": ""
+    },
+    {
+      "key": "67.0",
+      "line_index": 67,
+      "inline_index": 0,
+      "line_hash": "fd5972ce",
+      "speaker": "",
+      "ja": "ヴァインに連れられ、村から離れるように少し歩くと、普通の家より少し大きい……くらいの建物があった。先に入ったヴァインに続き、中へと入る。",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "c8b14d4b",
+      "speaker": "",
+      "ja": "歩いた床からギシギシと音が立ち、思わず雫の肩に手をついてしまう。鬼の形相で振り払われた。",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "de1699d",
+      "speaker": "ヴァイン",
+      "ja": "汚い場所で申し訳ございませんが……",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "990cc9e2",
+      "speaker": "雫",
+      "ja": "いえいえとんでもない。こちらが助けていただいたのですから……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "d922d9d2",
+      "speaker": "ヴァイン",
+      "ja": "その……大変失礼なお願いがございます。他の子どもたちと会う前に……{G_PlayerName}様は……",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "71ede7e1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……俺だけ外で食べるとか……？",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "cf222794",
+      "speaker": "ヴァイン",
+      "ja": "いえ……そんなことは。ただ……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "a0471ccc",
+      "speaker": "ヴァイン",
+      "ja": "孤児院のリリアンを暴行したり、殺害したりはなさらないでくださいね？",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "177fdf39",
+      "speaker": "{G_PlayerName}",
+      "ja": "し、しませんよっ！",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "dce538c4",
+      "speaker": "ヴァイン",
+      "ja": "であれば問題ございません。あまり大きな声を出したり、怖い顔をしても子どもたちが怯えてしまいますので……常に笑顔でいてください。満面の",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "f64225c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ……わかりました……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "5f811636",
+      "speaker": "コハル",
+      "ja": "ここの子供たちって……やっぱり、その……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "33dab3c7",
+      "speaker": "ヴァイン",
+      "ja": "ええ。環境や差別が原因で苦難に襲われた子供が殆どです。皆様も、大変だったでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "1537536a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ああ……だからリリアンのルミナやコハル達を見て、俺達を助けてくれたのか）",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "f042cfbb",
+      "speaker": "ヴァイン",
+      "ja": "では、食事を持ってきますので……",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "4fcf367d",
+      "speaker": "？？？",
+      "ja": "ヴァインさま、おかえりなさい！　あ、新しい子たちですか！",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "eea6a06a",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……えっと……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "c5b68128",
+      "speaker": "ヒナタ",
+      "ja": "わっ、おっきな人もいる！　初めまして、わたしはヒナタって言います！　みんなのおねーちゃんです、よろしくお願いしますね！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "6c1a0ab9",
+      "speaker": "ルミナ",
+      "ja": "えっと……よろしく……？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "f3b42a17",
+      "speaker": "ヴァイン",
+      "ja": "ヒナタ。この方達は孤児院に入るとは決まっていませんよ。お困りの様子だったので、食事にお呼びしただけです",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "2ea079e3",
+      "speaker": "ヒナタ",
+      "ja": "そーなんですか！　ここ、とっても良い場所ですよ！　ヴァイン様も優しいし！",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "3b8d13ce",
+      "speaker": "ルミナ",
+      "ja": "そう……なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "c6c3ad02",
+      "speaker": "{G_PlayerName}",
+      "ja": "（この子はリリアンかな？　性格は子供っぽいけど……）",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "f2427e55",
+      "speaker": "子供",
+      "ja": "おかえりなさーい！　誰ー？",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "846a1731",
+      "speaker": "ヴァイン",
+      "ja": "ただいま、皆さん",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "8bdff474",
+      "speaker": "",
+      "ja": "ヒナタの後ろから、続々と子供達が部屋に入ってくる。聞いていたイメージと違い、どの子供にも怯えた様子は無かった。",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "e8766f73",
+      "speaker": "{G_PlayerName}",
+      "ja": "思ってたより怖がられてないな……？",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "2c62b692",
+      "speaker": "ヴァイン",
+      "ja": "孤児の多くは普通の人間ですから。リリアンと違い、村の人に差別を受けていません",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "52c7e614",
+      "speaker": "ヴァイン",
+      "ja": "ヒナタはリリアンですが、差別を受ける前に保護しました。ですので、ここにいる皆さんは大人を怖がっていないのです",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "e60173c",
+      "speaker": "ルミナ",
+      "ja": "そう……なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "abc1f6bc",
+      "speaker": "ヴァイン",
+      "ja": "それに、大人を怖がるリリアンや子供は……",
+      "zh": ""
+    },
+    {
+      "key": "159.0",
+      "line_index": 159,
+      "inline_index": 0,
+      "line_hash": "53131be",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？",
+      "zh": ""
+    },
+    {
+      "key": "161.0",
+      "line_index": 161,
+      "inline_index": 0,
+      "line_hash": "64d0fcc7",
+      "speaker": "",
+      "ja": "ヴァインの言葉の続きを待ったが、少ししてからヴァインは軽く咳払いをした。",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "9fd80880",
+      "speaker": "ヴァイン",
+      "ja": "お待たせしてすみません。すぐ食事の準備をして参りますね",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "d1d68d8",
+      "speaker": "ヒナタ",
+      "ja": "わたしも手伝います！",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "c6552460",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……行っちゃった",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "fe43196b",
+      "speaker": "コハル",
+      "ja": "お腹ペコペコ、って顔に出ちゃってたかしら。急かしちゃったかも……",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "1f4feee7",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん、今のはそういう感じじゃあ……",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "6c6108b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "45429c27",
+      "speaker": "",
+      "ja": "廊下の奥から、フラついた影が近づいてくる。開いた扉の向こうから、こちらの様子を伺っているようだった。",
+      "zh": ""
+    },
+    {
+      "key": "192.0",
+      "line_index": 192,
+      "inline_index": 0,
+      "line_hash": "9d44aa69",
+      "speaker": "子供",
+      "ja": "あ、カシミア～！　お客さん、来てるよ！",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "8ec8be80",
+      "speaker": "カシミア",
+      "ja": "あ……あ……",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "8a2b0e21",
+      "speaker": "カシミア",
+      "ja": "あ、うううっ……！",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "2a406002",
+      "speaker": "子供",
+      "ja": "あーあ……",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "643c0962",
+      "speaker": "コハル",
+      "ja": "今の子、大丈夫……！？　なんか、取り乱してたみたいだけど……！",
+      "zh": ""
+    },
+    {
+      "key": "208.0",
+      "line_index": 208,
+      "inline_index": 0,
+      "line_hash": "3f9187ce",
+      "speaker": "子供",
+      "ja": "大丈夫。カシミアは、大人の男の人が怖いんだって",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "bb227c51",
+      "speaker": "ルミナ",
+      "ja": "ヴァインさん……呼ばなくても、平気……？",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "a3704f34",
+      "speaker": "子供",
+      "ja": "うん。よくああなるから、そっとしておいてあげたほうがいいんだってー！",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "9b8cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……",
+      "zh": ""
+    },
+    {
+      "key": "216.0",
+      "line_index": 216,
+      "inline_index": 0,
+      "line_hash": "c3e27af0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（やっぱり、ああいう子もいるんだな……俺、あまり長居しないほうがいいかも……）",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "d150c3b8",
+      "speaker": "コハル",
+      "ja": "もう！　{G_PlayerName}が言われた通り満面の笑顔作ってないから！",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "b5c5b247",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？　そ、そういう問題かぁ！？",
+      "zh": ""
+    }
+  ]
+}

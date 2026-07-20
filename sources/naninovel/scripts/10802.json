@@ -1,0 +1,1120 @@
+{
+  "lines": [
+    {
+      "key": "8.0",
+      "line_index": 8,
+      "inline_index": 0,
+      "line_hash": "bf0927e",
+      "speaker": "女性",
+      "ja": "こらっ！　勝手に外に行っちゃダメって言ったでしょ！？",
+      "zh": ""
+    },
+    {
+      "key": "10.0",
+      "line_index": 10,
+      "inline_index": 0,
+      "line_hash": "d9e8a3ab",
+      "speaker": "リリアン",
+      "ja": "ごめんなさい……でも、イノシシがいたから……捕まえなきゃって……",
+      "zh": ""
+    },
+    {
+      "key": "12.0",
+      "line_index": 12,
+      "inline_index": 0,
+      "line_hash": "9449e007",
+      "speaker": "女性",
+      "ja": "それでも危ないの！　ご飯の事は大人に任せなさい！",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "f2da51bf",
+      "speaker": "リリアン",
+      "ja": "でも、外の毒はわたし平気だよ……？",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "3954a390",
+      "speaker": "女性",
+      "ja": "危ないのは毒じゃないの！　気づかれたら大変でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "50ed80e9",
+      "speaker": "リリアン",
+      "ja": "イノシシだって、襲われても倒せるよ……！",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "ce9c764c",
+      "speaker": "女性",
+      "ja": "イノシシでもないの！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "4cc0fd6c",
+      "speaker": "女性",
+      "ja": "危ないのは、村の人だって言ったでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "f3bfa8cc",
+      "speaker": "コハル",
+      "ja": "準備はいい？",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "684f2e52",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、大丈夫だ",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "cf823633",
+      "speaker": "ルミナ",
+      "ja": "うん……体調も、良いし……いつでもいける、よ",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "b2c0ad08",
+      "speaker": "雫",
+      "ja": "言うに及ばず",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "97b332a8",
+      "speaker": "コハル",
+      "ja": "じゃあせーので降りるわよっ！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "a02738e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "せーのっ！",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "e8e42570",
+      "speaker": "コハル",
+      "ja": "よっ……と！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "2705db45",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "8bc2dded",
+      "speaker": "雫",
+      "ja": "こ、これは……",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "9578b42b",
+      "speaker": "コハル",
+      "ja": "……くっっっっっさ！　沼のニオイ！",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "50280be",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、これ……ガスの臭いなのか？　それとも何か腐って……？",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "5d62fe64",
+      "speaker": "ルミナ",
+      "ja": "本当に……影響、ない……んだよね……？",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "2c7fb20b",
+      "speaker": "雫",
+      "ja": "そ、そのはず……ですが……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "33e59b35",
+      "speaker": "{G_PlayerName}",
+      "ja": "鼻はぶっ壊れそうだな",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "816ff7b4",
+      "speaker": "コハル",
+      "ja": "これ、頭痛とかしても毒のせいか臭いのせいかわかんないわね……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "a504fcda",
+      "speaker": "{G_PlayerName}",
+      "ja": "あまり長居したくないけど……そうもいかないんだろうな……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "76e13e2c",
+      "speaker": "雫",
+      "ja": "当然です。文明は確認出来たのですから、生きるだけの食料はあるはず。それを確保するまでは帰りません",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "b4b4a9c2",
+      "speaker": "ルミナ",
+      "ja": "が、頑張ろうね……",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "ca387a38",
+      "speaker": "雫",
+      "ja": "ルミナ様は宇宙船でお待ちいただいたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "ce9ed16a",
+      "speaker": "ルミナ",
+      "ja": "ううん。行く！　……女王になるなら、これくらいの臭い……",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "b6f2f673",
+      "speaker": "{G_PlayerName}",
+      "ja": "（流石に臭いに耐える能力は女王に必要ないんじゃ……）",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "924c0da",
+      "speaker": "コハル",
+      "ja": "確か……村は、こっちだったわよね？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "e507ff44",
+      "speaker": "雫",
+      "ja": "はい、合っています。行きましょう、足元には気を付けて",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "4fc01f89",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当にあった！　でもなんだか……",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "8c1a5d3f",
+      "speaker": "",
+      "ja": "道を歩く人々は少ない。目に付く人も、うなだれていたり座り込んでいたり、活気は微塵も見えなかった。",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "9addd82c",
+      "speaker": "コハル",
+      "ja": "……元気が無いわね",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "1b105ead",
+      "speaker": "雫",
+      "ja": "まあ、この環境で元気を出せというのも酷だと思いますが",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "2a41fc82",
+      "speaker": "ルミナ",
+      "ja": "このガスのせいで……かな？",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "c433597c",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうかな……",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "493e8f",
+      "speaker": "雫",
+      "ja": "様子を見たところ……幸い、開いている店はあるようですね。滅びているわけではないようで何よりです",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "34ff112d",
+      "speaker": "コハル",
+      "ja": "とりあえず、何か食べてみない？　……どんな食べ物があるかもわかるし！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "8d42ff96",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに。食べられる物があらかじめわかったほうが良さそうだな",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "e0b45b37",
+      "speaker": "雫",
+      "ja": "じゃあレストランを探しましょう。……この星でも翻訳機が機能していて助かりました",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "76d92d0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "おー！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "d84f8f2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、この店いいんじゃないか？　肉って書いてあるぞ",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "6113d8dd",
+      "speaker": "雫",
+      "ja": "どれ。……確かに、レストランのようですね。メニューが並んでいます",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "9ecf73ed",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ中に入るか？　腹ペコペコだ……",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "b05c0393",
+      "speaker": "雫",
+      "ja": "あ……いいえ。この店は……やめておきましょう",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "d7beee3",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、なんで？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "8b1289f5",
+      "speaker": "雫",
+      "ja": "あー……我々には合っていないとでも言いますか",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "30ab6c26",
+      "speaker": "{G_PlayerName}",
+      "ja": "合ってない？　ちょっと味付けが合わないくらい、皆我慢できると思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "95d02a00",
+      "speaker": "雫",
+      "ja": "万が一にでも『ウマイ！』とか言われたら困るので……",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "8e9c1df6",
+      "speaker": "{G_PlayerName}",
+      "ja": "美味いならいいんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "8ea27d2d",
+      "speaker": "雫",
+      "ja": "ああ、もう黙りなさい。とにかく別の店……ああ、こっちにもレストランがありますね。こっちの店にしますよ。ルミナ様！　こちらです",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "1533d6bc",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんなんだ、全く……",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "381eab09",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "c9fb8fd",
+      "speaker": "",
+      "ja": "店に入った瞬間、外へと叩き出される。ルミナ達にぶつからないようにしたせいで、{G_PlayerName}は激しく尻もちをついてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "f215930d",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんで追い出されなきゃいけないんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "a85eb03b",
+      "speaker": "店員",
+      "ja": "お前たちに出すメシはねえ",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "4d0e37fb",
+      "speaker": "コハル",
+      "ja": "なんでよ！？　客よ！？",
+      "zh": ""
+    },
+    {
+      "key": "215.0",
+      "line_index": 215,
+      "inline_index": 0,
+      "line_hash": "49e8a9d8",
+      "speaker": "店員",
+      "ja": "お前ら、リリアンだろ？　土でも食ってな",
+      "zh": ""
+    },
+    {
+      "key": "218.1",
+      "line_index": 218,
+      "inline_index": 1,
+      "line_hash": "121ce7a5",
+      "speaker": "コハル",
+      "ja": "な……なんですって！？",
+      "zh": ""
+    },
+    {
+      "key": "220.0",
+      "line_index": 220,
+      "inline_index": 0,
+      "line_hash": "78c3c019",
+      "speaker": "店員",
+      "ja": "そっちの兄ちゃんだけなら考えないでも無いけどな。……お前、保護具も無しによく外に出れるな",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "e05431dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……持ち帰りっていうのは……",
+      "zh": ""
+    },
+    {
+      "key": "224.0",
+      "line_index": 224,
+      "inline_index": 0,
+      "line_hash": "44105041",
+      "speaker": "店員",
+      "ja": "他のリリアンに食わせるならナシだ。ウチも評判って物があるからな",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "de86e69",
+      "speaker": "ルミナ",
+      "ja": "でも……",
+      "zh": ""
+    },
+    {
+      "key": "228.0",
+      "line_index": 228,
+      "inline_index": 0,
+      "line_hash": "df7e444d",
+      "speaker": "",
+      "ja": "店主も中にいる客も、こちらを濁った目で睨んでくる。まるで今にも怒鳴って殴りかかってきそうな剣呑な空気で、とても食事どころではなさそうだ。",
+      "zh": ""
+    },
+    {
+      "key": "230.0",
+      "line_index": 230,
+      "inline_index": 0,
+      "line_hash": "2485f63",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、行くか……",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "2c3f66e3",
+      "speaker": "コハル",
+      "ja": "なによ今の！　感じわっる～～い！",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "da4e5b9a",
+      "speaker": "雫",
+      "ja": "差別のようですね",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "ff95a829",
+      "speaker": "コハル",
+      "ja": "差別……？　よそ者の？",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "de341126",
+      "speaker": "雫",
+      "ja": "いいえ、先ほどの口ぶりからすると、リリアンのでしょう",
+      "zh": ""
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "9096377c",
+      "speaker": "{G_PlayerName}",
+      "ja": "リリアン差別……",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "6ed18ef1",
+      "speaker": "ルミナ",
+      "ja": "……差別問題も、宇宙じゃ……珍しい物じゃ、ないから……宇宙技術がある星、なら……禁止されてるんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "d7772a47",
+      "speaker": "雫",
+      "ja": "法律が出来ても差別の無くならない星はあります。ましてや、ここは過酷な環境。この程度で済んでいるだけマシですね",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "6c7aa590",
+      "speaker": "コハル",
+      "ja": "でもリリアンって強いんだから、差別に立ち向かえば……",
+      "zh": ""
+    },
+    {
+      "key": "259.1",
+      "line_index": 259,
+      "inline_index": 1,
+      "line_hash": "bc1c6973",
+      "speaker": "雫",
+      "ja": "リリアンの数は少ないでしょう。全ての人間と戦うなど、流石に無理です",
+      "zh": ""
+    },
+    {
+      "key": "261.1",
+      "line_index": 261,
+      "inline_index": 1,
+      "line_hash": "c160982e",
+      "speaker": "コハル",
+      "ja": "そ……そっか……",
+      "zh": ""
+    },
+    {
+      "key": "263.1",
+      "line_index": 263,
+      "inline_index": 1,
+      "line_hash": "ecf96a2d",
+      "speaker": "雫",
+      "ja": "ですが、使われている食材の見た目や名前はチェックしました。ある程度は情報も得られましたね",
+      "zh": ""
+    },
+    {
+      "key": "265.0",
+      "line_index": 265,
+      "inline_index": 0,
+      "line_hash": "3d71bdda",
+      "speaker": "{G_PlayerName}",
+      "ja": "（一瞬店に入っただけでか……）",
+      "zh": ""
+    },
+    {
+      "key": "269.1",
+      "line_index": 269,
+      "inline_index": 1,
+      "line_hash": "b5fce1b3",
+      "speaker": "コハル",
+      "ja": "あれ？　何か聞こえる……人の声がするわ",
+      "zh": ""
+    },
+    {
+      "key": "274.1",
+      "line_index": 274,
+      "inline_index": 1,
+      "line_hash": "c6b17246",
+      "speaker": "ルミナ",
+      "ja": "この声……演説？",
+      "zh": ""
+    },
+    {
+      "key": "276.0",
+      "line_index": 276,
+      "inline_index": 0,
+      "line_hash": "446ab7a1",
+      "speaker": "{G_PlayerName}",
+      "ja": "向こうのほうから聞こえるけど、霧が濃くて見えないな……",
+      "zh": ""
+    },
+    {
+      "key": "278.0",
+      "line_index": 278,
+      "inline_index": 0,
+      "line_hash": "80f92e8d",
+      "speaker": "聞こえてくる声",
+      "ja": "……また、毒蛇様の怒りを鎮める時が来ました！　我々は……",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "959e2ab9",
+      "speaker": "雫",
+      "ja": "……宗教でしょうか。距離があるというのに、大きな声ですね",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "a2393c71",
+      "speaker": "コハル",
+      "ja": "なんか……変な感じ……",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "7285fe4a",
+      "speaker": "聞こえてくる声",
+      "ja": "……この地を蝕む毒霧は、毒蛇様が出している物。柱を差し出せば、いつか必ず……",
+      "zh": ""
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "4ccc27dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "柱？　って？",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "82355c4f",
+      "speaker": "雫",
+      "ja": "人柱……でしょうね。要するに生贄です",
+      "zh": ""
+    },
+    {
+      "key": "290.0",
+      "line_index": 290,
+      "inline_index": 0,
+      "line_hash": "4029bea0",
+      "speaker": "{G_PlayerName}",
+      "ja": "生贄！？　緑と獣の星でもやってたな……",
+      "zh": ""
+    },
+    {
+      "key": "295.0",
+      "line_index": 295,
+      "inline_index": 0,
+      "line_hash": "3bf9421d",
+      "speaker": "聞こえてくる声",
+      "ja": "そう、また選ぶのです。差し出すべきリリアンを……",
+      "zh": ""
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "a95367dd",
+      "speaker": "コハル",
+      "ja": "っ……この声、聞いちゃ駄目ッ！",
+      "zh": ""
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "6f1f8805",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！？　なんだなんだ！？",
+      "zh": ""
+    },
+    {
+      "key": "302.0",
+      "line_index": 302,
+      "inline_index": 0,
+      "line_hash": "d42661e4",
+      "speaker": "",
+      "ja": "急にコハルが飛びかかってきて、こちらの耳を塞ぐ。あまりに急な動きで咄嗟に振り払おうとしてしまうが、コハルは怯まずに耳を押さえ続けた。",
+      "zh": ""
+    },
+    {
+      "key": "304.1",
+      "line_index": 304,
+      "inline_index": 1,
+      "line_hash": "669e1c9c",
+      "speaker": "コハル",
+      "ja": "いいから！　{G_PlayerName}はこっちに！",
+      "zh": ""
+    },
+    {
+      "key": "325.0",
+      "line_index": 325,
+      "inline_index": 0,
+      "line_hash": "718f8a6a",
+      "speaker": "{G_PlayerName}",
+      "ja": "いきなり何だよ、どうしたんだ？",
+      "zh": ""
+    },
+    {
+      "key": "327.1",
+      "line_index": 327,
+      "inline_index": 1,
+      "line_hash": "2f0bb22c",
+      "speaker": "コハル",
+      "ja": "さっきの声、絶対おかしいわ。リリアンは大丈夫かもしれないけど、{G_PlayerName}は聞いちゃダメ！",
+      "zh": ""
+    },
+    {
+      "key": "329.1",
+      "line_index": 329,
+      "inline_index": 1,
+      "line_hash": "8556753e",
+      "speaker": "ルミナ",
+      "ja": "おかしい……って……？",
+      "zh": ""
+    },
+    {
+      "key": "331.1",
+      "line_index": 331,
+      "inline_index": 1,
+      "line_hash": "f36b3349",
+      "speaker": "コハル",
+      "ja": "なんか……魔力を感じたから……",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "23dfb216",
+      "speaker": "雫",
+      "ja": "魔力……？　声に、ですか？",
+      "zh": ""
+    },
+    {
+      "key": "335.0",
+      "line_index": 335,
+      "inline_index": 0,
+      "line_hash": "4c5cdac",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなこと出来るのかぁ？",
+      "zh": ""
+    },
+    {
+      "key": "337.1",
+      "line_index": 337,
+      "inline_index": 1,
+      "line_hash": "9d7130ed",
+      "speaker": "コハル",
+      "ja": "本当よ！　絶対勘違いとかじゃないわ！",
+      "zh": ""
+    },
+    {
+      "key": "339.0",
+      "line_index": 339,
+      "inline_index": 0,
+      "line_hash": "44978bc2",
+      "speaker": "{G_PlayerName}",
+      "ja": "うーん……",
+      "zh": ""
+    },
+    {
+      "key": "341.1",
+      "line_index": 341,
+      "inline_index": 1,
+      "line_hash": "758ec15",
+      "speaker": "雫",
+      "ja": "（ルミナ様も光の波に魔力を流しているような物……まあ、理屈はおかしくはありませんか）",
+      "zh": ""
+    },
+    {
+      "key": "343.1",
+      "line_index": 343,
+      "inline_index": 1,
+      "line_hash": "7446b6d",
+      "speaker": "雫",
+      "ja": "ですが……そうなると、あの演説を聞くのは危険ですね。恐らく、人間を扇動しているのでしょう",
+      "zh": ""
+    },
+    {
+      "key": "345.1",
+      "line_index": 345,
+      "inline_index": 1,
+      "line_hash": "15998d98",
+      "speaker": "コハル",
+      "ja": "リリアンを差別するために？　そんなの許せない……！　あたし、止めてくる！",
+      "zh": ""
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "d3138d42",
+      "speaker": "雫",
+      "ja": "お待ちください、コハル様。その選択は賢明ではありません",
+      "zh": ""
+    },
+    {
+      "key": "349.1",
+      "line_index": 349,
+      "inline_index": 1,
+      "line_hash": "5c81bb11",
+      "speaker": "コハル",
+      "ja": "なんで！？",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "5044b0ea",
+      "speaker": "雫",
+      "ja": "まず１つ。我々が星の問題に深く関わる時は、基本的に星間犯罪に関係している時。魔力が乗った演説はこの村では合法かも知れません",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "cac7e2d9",
+      "speaker": "雫",
+      "ja": "２つ。リリアンの差別は珍しいことではありません。宇宙進出を果たした星では違法となりますが、この星は違います",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "3c5d2eaa",
+      "speaker": "コハル",
+      "ja": "うっ……",
+      "zh": ""
+    },
+    {
+      "key": "357.1",
+      "line_index": 357,
+      "inline_index": 1,
+      "line_hash": "9856693e",
+      "speaker": "雫",
+      "ja": "最後に。今の演説は単なる宗教演説に感じました。演説を止めたところで、リリアンの差別は解消しないでしょう",
+      "zh": ""
+    },
+    {
+      "key": "359.1",
+      "line_index": 359,
+      "inline_index": 1,
+      "line_hash": "e02b0282",
+      "speaker": "コハル",
+      "ja": "わかった、わかったわよ。諦めればいいんでしょ？　……ごめんなさい",
+      "zh": ""
+    },
+    {
+      "key": "361.0",
+      "line_index": 361,
+      "inline_index": 0,
+      "line_hash": "29a2f442",
+      "speaker": "{G_PlayerName}",
+      "ja": "でもこんな村、歩くのも危険なんじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "363.1",
+      "line_index": 363,
+      "inline_index": 1,
+      "line_hash": "2730745d",
+      "speaker": "コハル",
+      "ja": "声はあたしが警戒するから大丈夫よ。それに、他の店ならさっきみたいなこと無いかも知れないし！　探してみないとね",
+      "zh": ""
+    },
+    {
+      "key": "365.0",
+      "line_index": 365,
+      "inline_index": 0,
+      "line_hash": "1b7c7ddc",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うーん……まあ、じゃあ適当に回ってみるか",
+      "zh": ""
+    },
+    {
+      "key": "373.0",
+      "line_index": 373,
+      "inline_index": 0,
+      "line_hash": "ddf18dcd",
+      "speaker": "{G_PlayerName}",
+      "ja": "ダメだな……",
+      "zh": ""
+    },
+    {
+      "key": "375.0",
+      "line_index": 375,
+      "inline_index": 0,
+      "line_hash": "8bc0d2bc",
+      "speaker": "",
+      "ja": "しばらく村を回った結果、どの店に入っても似たような対応をされた。",
+      "zh": ""
+    },
+    {
+      "key": "377.0",
+      "line_index": 377,
+      "inline_index": 0,
+      "line_hash": "be6d7dcb",
+      "speaker": "",
+      "ja": "演説はあれから聞こえてこなかったが、恐らくこの村で食事は出来ないだろう。",
+      "zh": ""
+    },
+    {
+      "key": "387.0",
+      "line_index": 387,
+      "inline_index": 0,
+      "line_hash": "efc62f3a",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたもんか……もう、さっき雫が手に入れた情報を頼りに狩りでもするか？",
+      "zh": ""
+    },
+    {
+      "key": "389.1",
+      "line_index": 389,
+      "inline_index": 1,
+      "line_hash": "f5979a7b",
+      "speaker": "ルミナ",
+      "ja": "それしかない、ね……",
+      "zh": ""
+    },
+    {
+      "key": "391.1",
+      "line_index": 391,
+      "inline_index": 1,
+      "line_hash": "feac275f",
+      "speaker": "コハル",
+      "ja": "おなかすいたー！　……宇宙船に帰って、とりあえずお腹ふくらませる？",
+      "zh": ""
+    },
+    {
+      "key": "393.1",
+      "line_index": 393,
+      "inline_index": 1,
+      "line_hash": "ab8182f3",
+      "speaker": "雫",
+      "ja": "肉は食べられませんが、それが無難でしょうね……",
+      "zh": ""
+    },
+    {
+      "key": "395.0",
+      "line_index": 395,
+      "inline_index": 0,
+      "line_hash": "5b11a968",
+      "speaker": "？？？",
+      "ja": "あの……",
+      "zh": ""
+    },
+    {
+      "key": "397.0",
+      "line_index": 397,
+      "inline_index": 0,
+      "line_hash": "dfbc20f5",
+      "speaker": "{G_PlayerName}",
+      "ja": "ん？",
+      "zh": ""
+    },
+    {
+      "key": "410.0",
+      "line_index": 410,
+      "inline_index": 0,
+      "line_hash": "482fd2b8",
+      "speaker": "？？？",
+      "ja": "もしや、お食事でお困りなのでは……？",
+      "zh": ""
+    }
+  ]
+}
