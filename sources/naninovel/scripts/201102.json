@@ -1,0 +1,715 @@
+{
+  "lines": [
+    {
+      "key": "11.1",
+      "line_index": 11,
+      "inline_index": 1,
+      "line_hash": "74bcb278",
+      "speaker": "ユイ",
+      "ja": "くっ……！　はっ！",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "1bb52f7d",
+      "speaker": "",
+      "ja": "宙を泳ぐように戦うユイ。迫りくる幽霊自体は一瞬で消えているが、ユイはずっと戦い詰めだ。",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "c61c35",
+      "speaker": "{G_PlayerName}",
+      "ja": "すまん、ユイ……疲れないか？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "8f22788b",
+      "speaker": "ユイ",
+      "ja": "少しね。でも、ここにいる霊……は、存在が不安定なものばかりだから。大した力は必要ないわ",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "8ef5a14c",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……でも、とにかく戻る手段を探さないと……！　このままじゃ……",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "e62f8be6",
+      "speaker": "ユイ",
+      "ja": "それなら大丈夫。うっすらと、貴方の霊体からつながる糸のような物があるわ",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "ef15faf4",
+      "speaker": "",
+      "ja": "言われて、自分の背中を見る。確かに、白くて細い何かが伸びていた。",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "3d263df1",
+      "speaker": "ユイ",
+      "ja": "少しずつ宇宙船へのリンク……引っ張る力が強くなっているみたいだから、戻るのに十分なくらい安定したら、私が元の場所へと導いてあげるわ",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "7a628cf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "わ、わかった……！",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "ff0351c3",
+      "speaker": "ユイ",
+      "ja": "……！？　あれは……？",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "ca643b9f",
+      "speaker": "",
+      "ja": "ユイの視線の先には、ひとかたまりになった白い影が動いていた。",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "45f3a523",
+      "speaker": "{G_PlayerName}",
+      "ja": "霊の……集合体か？　こっちに来るぞ！",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "98e7134d",
+      "speaker": "ユイ",
+      "ja": "先頭に……誰かいる！",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "ebae3b31",
+      "speaker": "？？？",
+      "ja": "だ、だれか助けてぇ～！",
+      "zh": ""
+    },
+    {
+      "key": "63.0",
+      "line_index": 63,
+      "inline_index": 0,
+      "line_hash": "e45931c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　あれ、リリアン……？",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "ebc9e941",
+      "speaker": "ユイ",
+      "ja": "とりあえず助けましょう……っ！　くっ！",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "d8dcd0ce",
+      "speaker": "",
+      "ja": "ユイが再び手を構えて力を込める。白い影たちは消え去ったが、ユイが息を荒げて苦しげな表情を見せた。",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "4d40ef5",
+      "speaker": "ユイ",
+      "ja": "はあ、はあ……",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "aaeda6ff",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か！？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "993f1605",
+      "speaker": "ユイ",
+      "ja": "ええ。……少し疲れはするけれど、まだまだ大丈夫よ",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "e46c30ea",
+      "speaker": "？？？",
+      "ja": "た、助かったあ……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "f5600aa5",
+      "speaker": "ユイ",
+      "ja": "貴方は？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "2060442f",
+      "speaker": "フニ",
+      "ja": "ゆ、幽霊のフニだよぉ、でもこんなに怖い幽霊に襲われたの初めてぇっ！",
+      "zh": ""
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "8c44989b",
+      "speaker": "{G_PlayerName}",
+      "ja": "ゆ……幽霊？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "8acf22c2",
+      "speaker": "",
+      "ja": "聞き返すが、フニと名乗ったリリアン？　は、事もなげに頷き返した。",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "d89a5b13",
+      "speaker": "{G_PlayerName}",
+      "ja": "幽霊なのに幽霊が怖いのか……？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "8d47fb25",
+      "speaker": "フニ",
+      "ja": "幽霊って怖いものでしょ！？　……でも、助けてくれてありがとう！　あなたたちは？　良い幽霊？",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "c392396a",
+      "speaker": "ユイ",
+      "ja": "ユイよ。まあ……幽霊みたいなものかしら",
+      "zh": ""
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "aa7366f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "{G_PlayerName}だ。機械士をしてる人間で……幽霊じゃない、今はともかく",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "71741cb1",
+      "speaker": "フニ",
+      "ja": "へえ、{G_PlayerName}ちゃんは生者ちゃんなんだ？　……あ、そうだ",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "eedac3b7",
+      "speaker": "フニ",
+      "ja": "うらめしやー！　驚け！",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "9517870f",
+      "speaker": "フニ",
+      "ja": "あ、あれ？　怖くない？",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "cc62a1d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "怖くない……し、驚くタイミングでもないし……",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "d6c87b44",
+      "speaker": "フニ",
+      "ja": "しょぼーん……",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "c7ef2306",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだこいつは……",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "97e5ece0",
+      "speaker": "ユイ",
+      "ja": "存在がよくわからないわね……？　幽霊だとは思えないほど存在が安定しているし、私と同じでもないような……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "79bc5f9e",
+      "speaker": "ユイ",
+      "ja": "……！　また来た！",
+      "zh": ""
+    },
+    {
+      "key": "124.0",
+      "line_index": 124,
+      "inline_index": 0,
+      "line_hash": "9ec69265",
+      "speaker": "",
+      "ja": "一度に大量に消えたからなのか、しばらく出て来なかった幽霊たちが、また墓の影から手を伸ばしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "af336ba9",
+      "speaker": "フニ",
+      "ja": "幽霊さんたちに困ってるの？　じゃあ、フニもお手伝いするね！",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "887d88ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前、逃げてたのに……？",
+      "zh": ""
+    },
+    {
+      "key": "130.1",
+      "line_index": 130,
+      "inline_index": 1,
+      "line_hash": "47b11fd9",
+      "speaker": "フニ",
+      "ja": "ちょっとびっくりしただけだし！　……２人も他の人がいれば、あんまり怖くない……かも！",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "44bf8d02",
+      "speaker": "{G_PlayerName}",
+      "ja": "（正体がわからないリリアンだけど、悪いヤツじゃないみたいだな……）",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "e7de4d2c",
+      "speaker": "フニ",
+      "ja": "ユイお姉ちゃん、後ろ！",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "5380b9ef",
+      "speaker": "ユイ",
+      "ja": "はっ！　……ありがとう、フニちゃん",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "674f561",
+      "speaker": "ユイ",
+      "ja": "……リンク、安定してきたわね。そろそろ戻りましょう！",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "93597d0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？　わっ！",
+      "zh": ""
+    },
+    {
+      "key": "169.0",
+      "line_index": 169,
+      "inline_index": 0,
+      "line_hash": "ebe83926",
+      "speaker": "",
+      "ja": "ユイが俺の体をひっつかむと同時に、後ろに落ちていくような……落下する夢のような、おぞましい感覚が体を襲った。",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "48451e25",
+      "speaker": "{G_PlayerName}",
+      "ja": "ゆ、ユイ！　そんな急がなくても……！　まだフニにお別れも言ってないぞ！",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "579c0d3c",
+      "speaker": "ユイ",
+      "ja": "私もそうしたかったところだけど、あれ以上あそこにいたら貴方が無くなってしまったかもしれないから……本当はとってもギリギリだったのよ",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "2917142",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええっ！？　な、無く……！？",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "7a61bfc1",
+      "speaker": "ユイ",
+      "ja": "早く体に戻らないと、どんな弊害が待ってるかもわからないし……急ぐに越したことは無いわ",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "44168a11",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……ありがとう",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "635ad693",
+      "speaker": "ユイ",
+      "ja": "……そろそろ宇宙船の座標ね。それじゃあ……また、どこかで繋がったら――――",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "c988c345",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、起きなさい！",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "fe678fcf",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ！？",
+      "zh": ""
+    },
+    {
+      "key": "202.0",
+      "line_index": 202,
+      "inline_index": 0,
+      "line_hash": "7311eec0",
+      "speaker": "",
+      "ja": "コハルの怒声で目が覚める。パニックになって手足をバタつかせるが、布団の感触に気づくと次第に心臓も落ち着いてきた。",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "305d037d",
+      "speaker": "コハル",
+      "ja": "もう、ルミナも雫もとっくに起きてるわよ。早く朝ご飯食べて！",
+      "zh": ""
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "75535d37",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いやでも、こっちも色々大変で……",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "27a32206",
+      "speaker": "コハル",
+      "ja": "何が？",
+      "zh": ""
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "2edaee37",
+      "speaker": "{G_PlayerName}",
+      "ja": "……えーと。ゆい……ゆうれい……",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "62c64257",
+      "speaker": "コハル",
+      "ja": "ゆ、幽霊……？",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "456768f",
+      "speaker": "{G_PlayerName}",
+      "ja": "……幽霊が怖いって叫ぶお前の声で眠れなくて……？",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "e151447d",
+      "speaker": "コハル",
+      "ja": "防音なのに、ここまで届くような大声で叫んだりするかっ！　急いでよねっ！",
+      "zh": ""
+    },
+    {
+      "key": "222.0",
+      "line_index": 222,
+      "inline_index": 0,
+      "line_hash": "8a7f30ab",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ううん……？　何かあったような……",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "75711019",
+      "speaker": "ユイ",
+      "ja": "……やっぱり、まだ忘れてしまうのね",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "f9b11b27",
+      "speaker": "",
+      "ja": "廊下の片隅。ゆらりと輪郭が滲むユイが、{G_PlayerName}の部屋を見下ろしながら呟いた。",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "527c6e7a",
+      "speaker": "ユイ",
+      "ja": "もう少し繋がりが強くなれば……貴方の記憶にも。この世界にも……",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "9adf7a9f",
+      "speaker": "フニ",
+      "ja": "……うらめしやー？",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "b5829500",
+      "speaker": "ユイ",
+      "ja": "えっ！　あ、あなた……付いて来ていたの？",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "150bbddc",
+      "speaker": "フニ",
+      "ja": "あはは、びっくりした～！？　面白そうだから付いて来ちゃった～！　ここ、すごいね！",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "3f84189",
+      "speaker": "ユイ",
+      "ja": "もしかして……巻き込んでしまったかしら？",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "47333432",
+      "speaker": "フニ",
+      "ja": "ううん！　自分から付いて来たんだもん！　色んなところフラフラ～ってするのが好きなの！",
+      "zh": ""
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "1646efca",
+      "speaker": "ユイ",
+      "ja": "そ……そうなの？　前の場所に戻れないかも知れないけど、いいのかしら……",
+      "zh": ""
+    },
+    {
+      "key": "255.1",
+      "line_index": 255,
+      "inline_index": 1,
+      "line_hash": "b5666bad",
+      "speaker": "フニ",
+      "ja": "なるようになるでしょ～！　さーて、ここってどんなところなんだろ？　探検しよーっと！",
+      "zh": ""
+    },
+    {
+      "key": "257.1",
+      "line_index": 257,
+      "inline_index": 1,
+      "line_hash": "8359a40e",
+      "speaker": "ユイ",
+      "ja": "（……連れてきてよかったのかしら。変な悪さしないといいけど……）",
+      "zh": ""
+    },
+    {
+      "key": "259.0",
+      "line_index": 259,
+      "inline_index": 0,
+      "line_hash": "c993d202",
+      "speaker": "",
+      "ja": "かくして、気付かぬままに窮地を乗り越えた{G_PlayerName}。",
+      "zh": ""
+    },
+    {
+      "key": "261.0",
+      "line_index": 261,
+      "inline_index": 0,
+      "line_hash": "1299f338",
+      "speaker": "",
+      "ja": "そして、宇宙船の中に新たな客が増えたことにも気付かないままなのだった……",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "3007ebdb",
+      "speaker": "",
+      "ja": "学校の教室。魔と叡智の星では、今日も魔法を研究する学生たちが勉学に励んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "a6da6006",
+      "speaker": "ジュリア",
+      "ja": "（ふう……今日の授業はこれで終わりですね）",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "fd3ad589",
+      "speaker": "",
+      "ja": "魔法学校の優等生、ジュリア。努力型の優等生。温和な性格で、周囲の生徒から頼られがち。",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "b6303542",
+      "speaker": "生徒A",
+      "ja": "ジュリア、おつかれ～！　今日の授業、難しすぎなかった！？",
+      "zh": ""
+    },
+    {
+      "key": "20.1",
+      "line_index": 20,
+      "inline_index": 1,
+      "line_hash": "f03537aa",
+      "speaker": "ジュリア",
+      "ja": "お疲れ様です。……確かに難しかったですね。私は予習をしていたので、なんとか……",
+      "zh": ""
+    },
+    {
+      "key": "22.0",
+      "line_index": 22,
+      "inline_index": 0,
+      "line_hash": "2ae3dd01",
+      "speaker": "生徒A",
+      "ja": "マジ！？　うわ、ノートめっちゃ丁寧に書いてるじゃん……今日のぶん見せてもらってもいい？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "b1a11678",
+      "speaker": "ジュリア",
+      "ja": "はい。と言っても、先生の言っていたことをまとめただけですけど……",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "ac39e48c",
+      "speaker": "生徒A",
+      "ja": "十分、十分！　ありがと～！",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "8aed4671",
+      "speaker": "生徒B",
+      "ja": "お前、まーたジュリアにノートたかってんのか？　んなことしてもお前の成績は上がらねーって……",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "c11c26f4",
+      "speaker": "生徒A",
+      "ja": "なによー！　やらないよりマシじゃない！",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "95af26ff",
+      "speaker": "ジュリア",
+      "ja": "お二人とも、あまり言い争いは……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "586d7631",
+      "speaker": "生徒B",
+      "ja": "……ジュリア、お願いなんだけど。コイツの後、オレにも貸してくれる？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "327a19e",
+      "speaker": "生徒A",
+      "ja": "あーっ！　あたしには文句言っといて！",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "b859601a",
+      "speaker": "生徒B",
+      "ja": "お前はいつもだろ、オレは今日が初めて！　オレも天才様にあやかりたいんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "4d763e34",
+      "speaker": "ジュリア",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "b5460c65",
+      "speaker": "ジュリア",
+      "ja": "（天才、では決してないのですけれど……私なんて所詮、先生の言うことを聞いて、授業に従ってるだけなのに……）",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "bb4f44cb",
+      "speaker": "ジュリア",
+      "ja": "（本当の天才、というのは……）",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "f7c86606",
+      "speaker": "オーロラ",
+      "ja": "え？　前に授業で提出した魔法？　適当にいじくってたら出来ちゃった！",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "4312688a",
+      "speaker": "オーロラ",
+      "ja": "あ、その前のも？　同じ感じだよ、なんとなーく収まりが良いかなーって感じに作ってたら、偶然！",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "8e13e598",
+      "speaker": "ジュリア",
+      "ja": "（あのような人の事を言うのですけれど……）",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "4be1d588",
+      "speaker": "生徒B",
+      "ja": "ジュリア？　……もしかして、オレに貸すのはダメか？　明日までには返すつもりだけど……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "3afbde2",
+      "speaker": "ジュリア",
+      "ja": "えっ？　あ、いえ、そういうわけでは……",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "111149ef",
+      "speaker": "生徒A",
+      "ja": "そもそもあたしが明日までに写すなんて無理だもーん、大人しく他の人に借りなさい！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "42766878",
+      "speaker": "生徒B",
+      "ja": "お前、じゃあ先に貸せよ！",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "c37969e8",
+      "speaker": "ジュリア",
+      "ja": "お二方！　",
+      "zh": ""
+    },
+    {
+      "key": "80.3",
+      "line_index": 80,
+      "inline_index": 3,
+      "line_hash": "c37969e8",
+      "speaker": "ジュリア",
+      "ja": "……うーん、ケガをなさらないと良いのですけれど……",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "1dca69af",
+      "speaker": "",
+      "ja": "つい最近起きた騒動で、魔法学校全体の研究に対するモチベーションは右肩上がりだった。",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "5896a026",
+      "speaker": "",
+      "ja": "が、あまりやる気が高すぎるというのも問題だ。興奮した生徒たちが起こした事故や事件も、少しずつ増加しているのだった。",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "75c348f5",
+      "speaker": "ジュリア",
+      "ja": "……ひとまず、私も本日は帰りましょう",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "db750660",
+      "speaker": "ジュリア",
+      "ja": "……あら？　あそこの先生、急いでどうしたのかしら……",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "bfe92be3",
+      "speaker": "教師",
+      "ja": "ジュリアさん！　……今、帰るところ？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "66e6129a",
+      "speaker": "ジュリア",
+      "ja": "はい、そうですが……どうかいたしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "a8fadb96",
+      "speaker": "教師",
+      "ja": "その、忙しかったらいいんだけれど……もしよかったら、手伝って欲しいことがあって",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "e47a4b0c",
+      "speaker": "ジュリア",
+      "ja": "大丈夫ですよ。何があったんですか？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "8929c672",
+      "speaker": "教師",
+      "ja": "生徒が魔法の研究に使うはずだった動物を、誤って森に逃がしてしまったらしくて……放置してたら、危険な種なの",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "58fefbb9",
+      "speaker": "ジュリア",
+      "ja": "危険な種、というのは……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "339f9a7",
+      "speaker": "教師",
+      "ja": "スカースライムよ。本体や、飛沫に触ると炎症を起こすわ",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "c77b81cd",
+      "speaker": "教師",
+      "ja": "生半可な腕の生徒だと、怪我をしたり探し出せないから……戦闘魔法も、探知魔法も得意なジュリアさんにお願いできたら、とても助かるんだけれど……！",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "a789d4a7",
+      "speaker": "",
+      "ja": "得意というわけではなく、必死で勉強したからです……と口から出そうになったが、今はそんなことを言っている場合では無さそうだ。",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "40ad3d31",
+      "speaker": "ジュリア",
+      "ja": "はい、勿論ご協力いたします。……事故が起きてからでは、遅いですからね",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "889aa870",
+      "speaker": "教師",
+      "ja": "ありがとう……！　すっごく助かるわ！",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "97b7259f",
+      "speaker": "ジュリア",
+      "ja": "森というのは、学校の裏手の……？",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "e5fa601b",
+      "speaker": "教師",
+      "ja": "そう！　研究棟の裏よ。一応高い柵があるから、外には出てないと思うんだけれど……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "9559a26e",
+      "speaker": "ジュリア",
+      "ja": "わかりました。すぐに向かいますね",
+      "zh": ""
+    },
+    {
+      "key": "127.0",
+      "line_index": 127,
+      "inline_index": 0,
+      "line_hash": "68da487a",
+      "speaker": "教師",
+      "ja": "ごめんね！　内申点は弾むように言っておくから……！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "3aca76ca",
+      "speaker": "ジュリア",
+      "ja": "……先生も大変ですね。早めに終わらせましょう",
+      "zh": ""
+    }
+  ]
+}

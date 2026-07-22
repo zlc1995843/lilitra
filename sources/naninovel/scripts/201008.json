@@ -1,0 +1,886 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "dcc32fc0",
+      "speaker": "ブロワー",
+      "ja": "ははっ！　あんちゃん、立ち泳ぎだよ、おいらの真似してみな？",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "5813a6da",
+      "speaker": "{G_PlayerName}",
+      "ja": "足、海の中で見えないんだが……！　こ、こうか？",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "d55ee4b0",
+      "speaker": "ブロワー",
+      "ja": "お、上手い上手い！　やるな！",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "f2f94a2c",
+      "speaker": "ラチャナ",
+      "ja": "今に見ておれ……容易く許しはせんからな……！",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "eaabe099",
+      "speaker": "ミキュナ",
+      "ja": "もう、合流するんでしょう？　２人しかいないんだから話しかけ時だと思うんですけど……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f3de5478",
+      "speaker": "ラチャナ",
+      "ja": "やかましい！　見てみよ、ワシら抜きで楽しそうに遊びおって！　あの姿を見ていると怒りが湧いてきたのじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "1afb4916",
+      "speaker": "ミキュナ",
+      "ja": "いいじゃないですか、微笑ましくって……羨ましいなら早く仲間に入れてもらえばいいじゃないですか",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "1e713b4b",
+      "speaker": "ラチャナ",
+      "ja": "……む、あそこを見よ。あいつの番じゃぞ",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "2ed29ff3",
+      "speaker": "ミキュナ",
+      "ja": "つ、つがい？　って、コハルさんですか。海には入らないんですかね？",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "5077c7f9",
+      "speaker": "ラチャナ",
+      "ja": "番を放って別の女と遊び呆けるとは……なんという男じゃ……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ba85bee3",
+      "speaker": "ミキュナ",
+      "ja": "普通に遊んでるだけですから……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "95f394f9",
+      "speaker": "ラチャナ",
+      "ja": "中々見どころのあるヤツじゃな……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "c470c9ca",
+      "speaker": "ミキュナ",
+      "ja": "え、そういう評価でいいんです？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "528d6811",
+      "speaker": "ラチャナ",
+      "ja": "当然じゃ！　番を多く持つ男は優秀な種を持つと決まっておる！　村でもとっかえひっかえ出来る男ほどモテるもんじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "fc83a00d",
+      "speaker": "{G_PlayerName}",
+      "ja": "高波だ！　ブロワー、気をつけ……",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "f5af733b",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………っぷ！",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "9b692547",
+      "speaker": "ブロワー",
+      "ja": "おいらは大丈夫だって！　……こんなことなら浮き輪借りてくりゃ良かったなあ。そうすりゃ、誰でも楽に泳げただろうに",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "642c5a36",
+      "speaker": "{G_PlayerName}",
+      "ja": "プリズムのぶん借りたら楽だったかもな……泳げないって言えば",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "bf4f4fb7",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルー！　泳ぎたくなったんじゃないかー！？",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "617c072c",
+      "speaker": "",
+      "ja": "浜に向かって声を上げる。どうせならやっぱり、皆で泳ぎたいものだが……",
+      "zh": ""
+    },
+    {
+      "key": "78.0",
+      "line_index": 78,
+      "inline_index": 0,
+      "line_hash": "da8a0bfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "84.0",
+      "line_index": 84,
+      "inline_index": 0,
+      "line_hash": "11022e72",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいあれ、コハル……倒れてるんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "8ad701c2",
+      "speaker": "ブロワー",
+      "ja": "何？",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "11e8d702",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル！　コハルーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "a66b54fe",
+      "speaker": "ラチャナ",
+      "ja": "あやつ、反応が無いと思ったら……倒れておるぞ",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "bb0c653c",
+      "speaker": "ミキュナ",
+      "ja": "ええっ！？",
+      "zh": ""
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "da9a17e",
+      "speaker": "",
+      "ja": "砂浜に目をやると、先程まで流木に座っていたコハルが倒れ、地に伏せている。",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "ac06822",
+      "speaker": "ミキュナ",
+      "ja": "ほ、本当ですっ！　もしかして、体調が……！？",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "70d50535",
+      "speaker": "ラチャナ",
+      "ja": "くっ……流石に復讐とか言っておる場合ではない。助けるぞ！",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "9ff2c0a3",
+      "speaker": "ミキュナ",
+      "ja": "は、はいぃっ！",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "b4ef7abd",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "5206b8b4",
+      "speaker": "コハル",
+      "ja": "……う、んん……？　あれ？　私……",
+      "zh": ""
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "27dc2c6b",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫か、コハル？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "8876f337",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}……？　ここは……",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "c6a0a2bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "待て待て！　起き上がるな、そのまま寝てろ！",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "7c0f8f00",
+      "speaker": "コハル",
+      "ja": "……あ、そうか。私……気分が悪くなって、倒れたんだったわね……",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "8bbff349",
+      "speaker": "ラチャナ",
+      "ja": "そうじゃそうじゃ！　全く、ワシらがおらんかったらどうなっておったことか！",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "136fee95",
+      "speaker": "コハル",
+      "ja": "ラチャナと……ミキュナ？　２人が助けてくれたの？",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "b02a9ff5",
+      "speaker": "ラチャナ",
+      "ja": "もちろん、そうに決まって……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "c8621089",
+      "speaker": "ミキュナ",
+      "ja": "あ、いえ。{G_PlayerName}さんが駆けつけたところに、私達は追いついただけです",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "e4a3ad30",
+      "speaker": "ラチャナ",
+      "ja": "なんで言ってしまうのじゃ！？　褒美をせしめられたかも知れぬのに……！",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "6777b68a",
+      "speaker": "ミキュナ",
+      "ja": "すぐバレる変なウソつかないでください……",
+      "zh": ""
+    },
+    {
+      "key": "157.0",
+      "line_index": 157,
+      "inline_index": 0,
+      "line_hash": "1beb38b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、ミキュナに体を冷やす魔法で助けてもらったけどな……",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "6ca5c121",
+      "speaker": "コハル",
+      "ja": "そうなのね……ありがとう、助けてくれて。ミキュナも、皆も……",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "17c24b01",
+      "speaker": "コハル",
+      "ja": "そっか、気づいてくれたんだ……ありがと、{G_PlayerName}",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "95b3f451",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだよ……やけに素直だな",
+      "zh": ""
+    },
+    {
+      "key": "165.1",
+      "line_index": 165,
+      "inline_index": 1,
+      "line_hash": "accd1b8",
+      "speaker": "コハル",
+      "ja": "別にっ！　病気で倒れた時って、弱気になるでしょ！　……たまにはね",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "dd023368",
+      "speaker": "{G_PlayerName}",
+      "ja": "ふ、ふーん……でも、砂漠も暑かったし、こう……常に涼しくなる服とか開発してもいいかもな",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "b25b6d5f",
+      "speaker": "ミキュナ",
+      "ja": "いいですね！　そんな服があるなら着てみたいです！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "30947373",
+      "speaker": "コハル",
+      "ja": "それってルミナの服でしょ？　パクる気？",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "3c16ae72",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、そうか……じゃあ、いつでも全自動で水が飲めるような……携帯水飲ませ機とかを作るか",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "68eda65c",
+      "speaker": "ラチャナ",
+      "ja": "無理やり水を飲まされるのか？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "76f550d",
+      "speaker": "コハル",
+      "ja": "なんかイヤねそれ……",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "9ab5e76a",
+      "speaker": "ルミナ",
+      "ja": "あっ……良かった、コハルさん大丈夫？　……バーベキューの準備、出来たよ……",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "bd0c74c0",
+      "speaker": "雫",
+      "ja": "医療プログラムで問題ないことはわかっていましたが、無事だったようで安心いたしました。……次は体調には気をつけてください",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "a2ae336b",
+      "speaker": "コハル",
+      "ja": "迷惑かけちゃったみたいね……でも、もう大丈夫よ！　バーベキューするの？　いいわね！",
+      "zh": ""
+    },
+    {
+      "key": "200.0",
+      "line_index": 200,
+      "inline_index": 0,
+      "line_hash": "7b44ea80",
+      "speaker": "{G_PlayerName}",
+      "ja": "水、ちゃんと飲んどけよ？",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "3cab4bfa",
+      "speaker": "コハル",
+      "ja": "わかってるわよ……って言いたいとこだけど、飲んでなかったわけだしね。そうするわ！",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "513b5590",
+      "speaker": "ラチャナ",
+      "ja": "なんじゃ、バーベキューというのは。どんな遊戯じゃ？",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "2428d35",
+      "speaker": "コハル",
+      "ja": "あたしが知ってるバーベキューと同じなら、皆で色々食べる美味しい料理……かな？",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "ab17a083",
+      "speaker": "ラチャナ",
+      "ja": "おおーっ、料理とな！　確かにそろそろ腹が空いた、ワシのぶんはあるんじゃろうな？",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "515c6dd6",
+      "speaker": "ルミナ",
+      "ja": "もちろん……！　じゃあ、他の皆も呼んでくるね……！",
+      "zh": ""
+    },
+    {
+      "key": "233.1",
+      "line_index": 233,
+      "inline_index": 1,
+      "line_hash": "91b9a5ed",
+      "speaker": "プリズム",
+      "ja": "そ、そのお野菜焼けてますよ……！",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "b0747b49",
+      "speaker": "ミキュナ",
+      "ja": "で、でしたらこちらのお肉も……！",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "adf09eb6",
+      "speaker": "ルミナ",
+      "ja": "……２人とも、譲ってばっかりじゃなくて自分で食べたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "4063d860",
+      "speaker": "プリズム",
+      "ja": "いえいえいえいえいえ！　私今日、もう本当……お腹いっぱいですから！",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "2548c55e",
+      "speaker": "ミキュナ",
+      "ja": "悪事に手を染めた私が何か食べさせていただくなんて、そんなそんな……！",
+      "zh": ""
+    },
+    {
+      "key": "243.0",
+      "line_index": 243,
+      "inline_index": 0,
+      "line_hash": "efbb30aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……食べてくれよ。倒れられても困るから……",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "b54fe2c9",
+      "speaker": "ルミナ",
+      "ja": "あ……{G_PlayerName}くん、お肉の良いところ……焼けたよ。あげるね……",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "6be4a5d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "おいおい、ルミナもか？",
+      "zh": ""
+    },
+    {
+      "key": "249.1",
+      "line_index": 249,
+      "inline_index": 1,
+      "line_hash": "e9eb3d00",
+      "speaker": "ルミナ",
+      "ja": "あっ……そっか",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "b1ae5c97",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……はんぶんこ、する……？",
+      "zh": ""
+    },
+    {
+      "key": "262.1",
+      "line_index": 262,
+      "inline_index": 1,
+      "line_hash": "c2d96b17",
+      "speaker": "雫",
+      "ja": "スイカのシャーベットが出来上がったようです",
+      "zh": ""
+    },
+    {
+      "key": "264.1",
+      "line_index": 264,
+      "inline_index": 1,
+      "line_hash": "57204d04",
+      "speaker": "ブロワー",
+      "ja": "おーっ！　おいら、甘いもんも大好きなんだ！　１つもらっていいか？",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "ecc5ac24",
+      "speaker": "コハル",
+      "ja": "スイカ味かあ……私はちょっと、他の物で……",
+      "zh": ""
+    },
+    {
+      "key": "268.1",
+      "line_index": 268,
+      "inline_index": 1,
+      "line_hash": "15ff617e",
+      "speaker": "雫",
+      "ja": "いいえ、コハル様には食べていただきます。薬と思って食してください",
+      "zh": ""
+    },
+    {
+      "key": "270.1",
+      "line_index": 270,
+      "inline_index": 1,
+      "line_hash": "e1a26fa2",
+      "speaker": "ブロワー",
+      "ja": "散々心配させやがって！　おら、食え食え！",
+      "zh": ""
+    },
+    {
+      "key": "273.1",
+      "line_index": 273,
+      "inline_index": 1,
+      "line_hash": "61d0017a",
+      "speaker": "コハル",
+      "ja": "ちょっ……わかったから！　食べるから無理やり口に入れないでー！",
+      "zh": ""
+    },
+    {
+      "key": "283.1",
+      "line_index": 283,
+      "inline_index": 1,
+      "line_hash": "e2942440",
+      "speaker": "ラチャナ",
+      "ja": "なんじゃ……バーベキューとやらは要するに、「持ち寄り炊事」か。村で飽きるほどしておるわい",
+      "zh": ""
+    },
+    {
+      "key": "289.1",
+      "line_index": 289,
+      "inline_index": 1,
+      "line_hash": "dc8a74e5",
+      "speaker": "ミキュナ",
+      "ja": "じゃあ、ラチャナさんは食べないでおきます？",
+      "zh": ""
+    },
+    {
+      "key": "291.1",
+      "line_index": 291,
+      "inline_index": 1,
+      "line_hash": "ea416d11",
+      "speaker": "ラチャナ",
+      "ja": "食べるわ！　食べるに決まっておろう！",
+      "zh": ""
+    },
+    {
+      "key": "293.1",
+      "line_index": 293,
+      "inline_index": 1,
+      "line_hash": "5d47be4e",
+      "speaker": "ミキュナ",
+      "ja": "ふふふっ！　冗談ですよ、はいどうぞ！",
+      "zh": ""
+    },
+    {
+      "key": "295.1",
+      "line_index": 295,
+      "inline_index": 1,
+      "line_hash": "8db91bf3",
+      "speaker": "ラチャナ",
+      "ja": "おお、悪いのう……",
+      "zh": ""
+    },
+    {
+      "key": "297.1",
+      "line_index": 297,
+      "inline_index": 1,
+      "line_hash": "81f7d423",
+      "speaker": "ラチャナ",
+      "ja": "……って、野菜ばかりではないか！　肉はどうした、肉は！",
+      "zh": ""
+    },
+    {
+      "key": "299.1",
+      "line_index": 299,
+      "inline_index": 1,
+      "line_hash": "6fd978c8",
+      "speaker": "ミキュナ",
+      "ja": "えへへ……いっぱいイタズラに付き合わされたんですから～！　お返しですっ！",
+      "zh": ""
+    },
+    {
+      "key": "307.1",
+      "line_index": 307,
+      "inline_index": 1,
+      "line_hash": "2c35ae18",
+      "speaker": "ルミナ",
+      "ja": "ふふ……良かった、みんな楽しそう……",
+      "zh": ""
+    },
+    {
+      "key": "309.0",
+      "line_index": 309,
+      "inline_index": 0,
+      "line_hash": "8ad8cbda",
+      "speaker": "",
+      "ja": "色々大変なこともあったが、終わりよければ全て良しとも言う。",
+      "zh": ""
+    },
+    {
+      "key": "311.0",
+      "line_index": 311,
+      "inline_index": 0,
+      "line_hash": "4d94c147",
+      "speaker": "",
+      "ja": "星の垣根を越えて笑い合うリリアンたちを見て、バカンスが出来て良かった、と思いながらルミナは微笑んだ……",
+      "zh": ""
+    },
+    {
+      "key": "333.1",
+      "line_index": 333,
+      "inline_index": 1,
+      "line_hash": "3ff5a77b",
+      "speaker": "アイディル",
+      "ja": "……もしかして、迷った？",
+      "zh": ""
+    },
+    {
+      "key": "335.1",
+      "line_index": 335,
+      "inline_index": 1,
+      "line_hash": "ba6d0d91",
+      "speaker": "マロウ",
+      "ja": "…………っすね！",
+      "zh": ""
+    },
+    {
+      "key": "337.1",
+      "line_index": 337,
+      "inline_index": 1,
+      "line_hash": "5f27724d",
+      "speaker": "モル",
+      "ja": "うす",
+      "zh": ""
+    },
+    {
+      "key": "343.1",
+      "line_index": 343,
+      "inline_index": 1,
+      "line_hash": "c91566ac",
+      "speaker": "アイディル",
+      "ja": "っすね！　うす、じゃないわよ～！　森を探検なんてするんじゃなかったー！　小さい島だから大丈夫だと思ったのに！",
+      "zh": ""
+    },
+    {
+      "key": "345.1",
+      "line_index": 345,
+      "inline_index": 1,
+      "line_hash": "b98175e5",
+      "speaker": "マロウ",
+      "ja": "親びんが「伝説の海賊のお宝が眠ってるかも」、とか言うから……",
+      "zh": ""
+    },
+    {
+      "key": "347.1",
+      "line_index": 347,
+      "inline_index": 1,
+      "line_hash": "a79765db",
+      "speaker": "アイディル",
+      "ja": "だって～、綺麗な砂浜見てたら冒険心がくすぐられちゃったんだもん！　仕方ないでしょ～！",
+      "zh": ""
+    },
+    {
+      "key": "349.1",
+      "line_index": 349,
+      "inline_index": 1,
+      "line_hash": "749d7c4c",
+      "speaker": "モル",
+      "ja": "……方角はわかります。北があっちです",
+      "zh": ""
+    },
+    {
+      "key": "351.1",
+      "line_index": 351,
+      "inline_index": 1,
+      "line_hash": "66d0325d",
+      "speaker": "マロウ",
+      "ja": "おお！　で、戻るにはどっちに行けばいいっすか！？",
+      "zh": ""
+    },
+    {
+      "key": "353.1",
+      "line_index": 353,
+      "inline_index": 1,
+      "line_hash": "ee7d7dd0",
+      "speaker": "モル",
+      "ja": "そこが問題です",
+      "zh": ""
+    },
+    {
+      "key": "355.1",
+      "line_index": 355,
+      "inline_index": 1,
+      "line_hash": "ed2679ca",
+      "speaker": "アイディル",
+      "ja": "ああ～～～！　お腹すいた～～～！",
+      "zh": ""
+    }
+  ]
+}

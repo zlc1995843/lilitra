@@ -1,0 +1,544 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ba569a9a",
+      "speaker": "ブライダル",
+      "ja": "まずは我が社自慢の結婚プランを体験していただきましょうか……",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "f26aa9be",
+      "speaker": "ブライダル",
+      "ja": "ずばり、オススメなのは結婚メドレーです！",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "413069f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "め……メドレー？　って、何だ？",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "c4b6e3cd",
+      "speaker": "ブライダル",
+      "ja": "それは体験してのお楽しみということで！　……では、どなたと結婚体験してみますか？",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "7837821d",
+      "speaker": "{G_PlayerName}",
+      "ja": "どなたとって……お、俺が選ぶのか？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "663a090f",
+      "speaker": "ブライダル",
+      "ja": "はい、男性の意見もいただきたいので、お客様は参加していただきたく……となれば、お相手は選んでいただくのが道理かと！",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "8df88e6b",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、えー……ど、どうしたもんか……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "6a7edb4d",
+      "speaker": "コハル",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "d1a7b1ed",
+      "speaker": "ルミナ",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "40.0",
+      "line_index": 40,
+      "inline_index": 0,
+      "line_hash": "57e268b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "（コハルを選んでもルミナを選んでも、色んな意味で後が怖いが……！）",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "52938876",
+      "speaker": "ブライダル",
+      "ja": "一先ずは既にドレスを着ていただいているリズ様と、ブルーム様にいたしましょうか？",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "b970190b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そっ、そうだな！　うん！",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "e6f1b023",
+      "speaker": "ブライダル",
+      "ja": "では、どちらと……？",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "a359d845",
+      "speaker": "リズ",
+      "ja": "……俺はこれも契約の一部であるなら問題は無いが",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "85445600",
+      "speaker": "ブルーム",
+      "ja": "ぶ……ブルームは嫌よっ！　なんでさらに契約を増やさなきゃいけないのよ！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "a2028adb",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあ、リズとするか",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "e47580fc",
+      "speaker": "リズ",
+      "ja": "わかった。俺に務まるかはわからないが、全力は尽くそう",
+      "zh": ""
+    },
+    {
+      "key": "70.0",
+      "line_index": 70,
+      "inline_index": 0,
+      "line_hash": "26ec3660",
+      "speaker": "{G_PlayerName}",
+      "ja": "体験とはいえ、結婚ってそういうものか……？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "54846fd5",
+      "speaker": "ブルーム",
+      "ja": "ふ……ふーんだっ！",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "176904cd",
+      "speaker": "",
+      "ja": "数分後。何か本を持ち、厳かな表情で立つブライダルの前にリズと共に並んだ。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "84e2197f",
+      "speaker": "リズ",
+      "ja": "ほ、本当に隣に立っているだけでいいのか……？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "7fde1ab0",
+      "speaker": "ブライダル",
+      "ja": "はい！　私が何か質問したら、頷くことで返事をしてください！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "e0728e3b",
+      "speaker": "{G_PlayerName}",
+      "ja": "質問……わかった。",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "6f6953a2",
+      "speaker": "リズ",
+      "ja": "（……少し、緊張するな）",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "1f36cafb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そ、そうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "6468a550",
+      "speaker": "",
+      "ja": "リズに急に耳元で囁かれ、思わずビクッとする。気を取り直し、背筋を伸ばすとブライダルが何か読み上げ始めた。",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "3354717d",
+      "speaker": "ブライダル",
+      "ja": "では……婚姻の儀を執り行う。よろしいか？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "fef1063",
+      "speaker": "",
+      "ja": "口調の変わったブライダルに少し驚きながらも、リズと目を見合わせ頷く。",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "f8d27606",
+      "speaker": "雫",
+      "ja": "ふん……何ですかあの男。練習だというのにあんなに緊張して",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "12bb6853",
+      "speaker": "コハル",
+      "ja": "……へ、変なことさせないでしょうね……",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "88e1039f",
+      "speaker": "ルミナ",
+      "ja": "大丈夫だと……思うけど……",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "a4ababae",
+      "speaker": "ブライダル",
+      "ja": "貴方はこの者を、風が選びし片割れだと認めますか？",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "4e603762",
+      "speaker": "",
+      "ja": "再び、リズと頷き合う。",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "112976d2",
+      "speaker": "ブライダル",
+      "ja": "２人の間に吹く風に光あらんことを……",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "9abf1fec",
+      "speaker": "ブライダル",
+      "ja": "これより契りを交わす者、生涯守り合う事を誓いますか？",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "29e55107",
+      "speaker": "",
+      "ja": "すぐに次の質問が来て、少し遅れながらも再びリズと頷き合う。",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "8a25697c",
+      "speaker": "ブライダル",
+      "ja": "支え合う盾がより強靭にならんことを……",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "4b345426",
+      "speaker": "ブライダル",
+      "ja": "光り輝く星々の下、つがい星となることを受け入れますか？",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "5c931f38",
+      "speaker": "",
+      "ja": "……少し眉根をひそめるが、一応頷く。",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "80846dc2",
+      "speaker": "ブライダル",
+      "ja": "輝きが永劫続かんことを……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "2eecc168",
+      "speaker": "ブライダル",
+      "ja": "地より分かたれし双葉が巡り合い、ここに結びつこうとしている。お互いを求めていた葉だと認めますか？",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "cafdf9c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いやちょっと待ってくれさっきから何言ってるんだ？",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "4a63985",
+      "speaker": "",
+      "ja": "悪いとは思ったが、耐えきれずに聞いてしまった。",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "d2ca5283",
+      "speaker": "リズ",
+      "ja": "……一体何度頷かせる気なんだ",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "ca0e3704",
+      "speaker": "ブライダル",
+      "ja": "メドレー、とお伝えしたでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "551fefe7",
+      "speaker": "{G_PlayerName}",
+      "ja": "メドレーって、何個も質問するって意味なのか？　どれくらい続くんだ……？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "f9dc2387",
+      "speaker": "ブライダル",
+      "ja": "多くの結婚式が体験出来る、という意味です！　量で勝負していますから、あと５０個はありますよ！",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "36697bac",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだそりゃ！",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "1643f936",
+      "speaker": "ブライダル",
+      "ja": "ええー？　色んな縁起がかつげて、数多い結婚のパターンも知れて嬉しいと顧客からはお喜びの声がいただけてるのですが……",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "53c77aaf",
+      "speaker": "リズ",
+      "ja": "要らないと思うが……結婚にお得感は……",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "f810cbf0",
+      "speaker": "{G_PlayerName}",
+      "ja": "申し訳ないんだけど、ちょっとこの形式は俺達の価値観には合ってないかもな……",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "a346cae1",
+      "speaker": "ブライダル",
+      "ja": "さ、左様でございますか……では一度、中止ということで……",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "9fbb65bb",
+      "speaker": "ブライダル",
+      "ja": "だ、大丈夫でございます！　まだまだプランはありますからね！　必ずお客様をご満足させられると思います！",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "fee3ca17",
+      "speaker": "ブライダル",
+      "ja": "きっと特別な環境が必要だったんです、皆さんがいつも使っているラウンジだから特別感が無かったため……",
+      "zh": ""
+    },
+    {
+      "key": "195.0",
+      "line_index": 195,
+      "inline_index": 0,
+      "line_hash": "6c776486",
+      "speaker": "{G_PlayerName}",
+      "ja": "嫌な予感がするような……",
+      "zh": ""
+    },
+    {
+      "key": "206.1",
+      "line_index": 206,
+      "inline_index": 1,
+      "line_hash": "f8d259cc",
+      "speaker": "コハル",
+      "ja": "……ふう、とりあえず何事もなかったわね",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "c4f94d3f",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "3152e31",
+      "speaker": "コハル",
+      "ja": "（{G_PlayerName}、心無しかリズにデレデレしてない？　距離が近すぎる気がするけど……！）",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "c176a046",
+      "speaker": "ルミナ",
+      "ja": "（……私もドレス着たら、{G_PlayerName}くん、褒めてくれるかな……？）",
+      "zh": ""
+    },
+    {
+      "key": "214.0",
+      "line_index": 214,
+      "inline_index": 0,
+      "line_hash": "9a0a1f19",
+      "speaker": "",
+      "ja": "To be continued……",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "lines": [
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "30559ea5",
+      "speaker": "アイディル",
+      "ja": "どわーっ！　ぎゃーっ！！",
+      "zh": "哇啊——！呀啊——！！"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "c81b89d4",
+      "speaker": "マロウ",
+      "ja": "あんなふざけた見た目してるクセに、どえらい武装ッス～！",
+      "zh": "明明看起来那么不正经，武装却这么厉害～！"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "c1f47f2f",
+      "speaker": "モル",
+      "ja": "……回避も、そろそろ、限界が……",
+      "zh": "……闪避也快到极限了……"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "cb33d55",
+      "speaker": "トーリ",
+      "ja": "ふはは！　桃姫戦艦の力、思い知ったか賊どもー！",
+      "zh": "哈哈哈！见识到桃姬战舰的厉害了吧，你们这帮贼寇！"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "42067ccf",
+      "speaker": "コハル",
+      "ja": "す、凄いわね……！　どんな敵が来ても勝てるんじゃない！？",
+      "zh": "好、好厉害……！不管来什么敌人都能打赢吧！？"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "7f2273ff",
+      "speaker": "トーリ",
+      "ja": "ふふ、当然じゃ！　最新鋭のレーザー兵器は当然、自律支援が可能な小型航行機も備えておる！　生半可な相手には遅れを取らん！",
+      "zh": "哼哼，那是自然！最新型激光武器自不必说，还配备了能自主支援的小型战机！对付半吊子的对手可不会落后！"
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "4152e987",
+      "speaker": "雫",
+      "ja": "それは素晴らしいですが、ところで……敵は一体どのような？",
+      "zh": "那真是了不起，不过……敌人到底是什么样的？"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "ce4a3f77",
+      "speaker": "アポロ",
+      "ja": "つい今しがた、カメラに捉えました。……モニターに写します",
+      "zh": "就在刚才，被摄像机捕捉到了。……我把它显示在监视器上。"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "38b62ae4",
+      "speaker": "コハル",
+      "ja": "……これって",
+      "zh": "……这个是？"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "b540374c",
+      "speaker": "コハル",
+      "ja": "あいつらじゃないの！　……えーっと",
+      "zh": "不就是他们吗！……呃——"
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "d4dbc043",
+      "speaker": "雫",
+      "ja": "なんという名前だったか……見る知る鑑定団、のような",
+      "zh": "叫什么名字来着……看就看鉴定团，之类的？"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "8b9611ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "違うことだけはわかるが……",
+      "zh": "虽然只知道不是这个……"
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "760148b",
+      "speaker": "コハル",
+      "ja": "アイディル宇宙海賊団！",
+      "zh": "艾迪尔宇宙海贼团！"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "a203b2f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "それだ！",
+      "zh": "就是这个！"
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "b4364965",
+      "speaker": "コハル",
+      "ja": "とか言ってる場合じゃないわよ！　ど……どうする？",
+      "zh": "现在可不是说这个的时候！怎……怎么办？"
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "fc25b84e",
+      "speaker": "トーリ",
+      "ja": "どうするじゃと？　当然、このまま宇宙の藻屑と化して……！",
+      "zh": "问怎么办？当然是让他们就这么变成宇宙的垃圾……！"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "5b3ab0",
+      "speaker": "コハル",
+      "ja": "す、ストップストップー！　一応……知り合い？　なのよっ！",
+      "zh": "停、停停停！怎么说……也是认识的人啦！"
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "9c278410",
+      "speaker": "トーリ",
+      "ja": "あん？　なんじゃと？",
+      "zh": "嗯？你说什么？"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "4215dcb",
+      "speaker": "{G_PlayerName}",
+      "ja": "正直助けたほうがいいのかビミョーだけどな……",
+      "zh": "说实话，到底该不该帮还真不好说……"
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "2447593",
+      "speaker": "ルミナ",
+      "ja": "可哀想……だよ……危ないなら、仕方ないけど……余裕があるなら……助けてあげたほうが……",
+      "zh": "好可怜……啊。危险的话没办法，但有余力的话……还是帮帮他们吧……"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "f34b4310",
+      "speaker": "コハル",
+      "ja": "そうよ、少なくとも死んじゃったら後味悪いわ！　……なんとかできそう？",
+      "zh": "是啊，至少他们死了我心里会过意不去！……能想想办法吗？"
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2fff786f",
+      "speaker": "トーリ",
+      "ja": "生け捕りということじゃな？　まあ、多分できそうじゃが……",
+      "zh": "是说要活捉吗？嗯，大概能做到吧……"
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "80b20c55",
+      "speaker": "",
+      "ja": "数分後……",
+      "zh": "几分钟后……"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "ab6c5841",
+      "speaker": "マロウ",
+      "ja": "ばたんきゅー……っす",
+      "zh": "趴——倒了……的说"
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "d13394d0",
+      "speaker": "アイディル",
+      "ja": "チクショー！　罠だったの！？",
+      "zh": "可恶！原来是陷阱！？"
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "d6cf73d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "罠って、人聞き悪いな……",
+      "zh": "说是陷阱，真难听啊……"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "bee36b56",
+      "speaker": "アイディル",
+      "ja": "人が助けに……じゃなかった、横から獲物をかっさらおうとしたってのに！　罠じゃなきゃなんなのよ！",
+      "zh": "我是来救人的……不对，是来从旁边抢猎物的！不是陷阱才怪！"
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "97adc20c",
+      "speaker": "トーリ",
+      "ja": "何を勘違いしておるかわからんが、わらわは元々この船を襲ってはおらんぞ",
+      "zh": "不知道你在误会什么，我们可没袭击这艘船。"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "aa242e6f",
+      "speaker": "アイディル",
+      "ja": "なっ……紛らわしいことするんじゃないわよ！",
+      "zh": "什么……别做这么容易让人误会的事啦！"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "23491beb",
+      "speaker": "トーリ",
+      "ja": "それはこっちのセリフじゃ！",
+      "zh": "那是我的台词才对！"
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "b3407f8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前らって本当……",
+      "zh": "你们啊，真是……"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "35dc37a3",
+      "speaker": "アイディル",
+      "ja": "何よその哀れみの目はーッ！",
+      "zh": "干嘛用那种同情的眼神啊——！"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "ed2f3c9b",
+      "speaker": "マロウ",
+      "ja": "……でも、襲ってないなら何が目的だったんッスか？",
+      "zh": "……可是，不是袭击的话，目的是什么啊？"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "893b9807",
+      "speaker": "トーリ",
+      "ja": "ふん、賊には勿体ない知識じゃが教えてやろう！　わらわは……",
+      "zh": "哼，对你这种贼寇来说太浪费了，不过就告诉你吧！我们……"
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "2a3ab67d",
+      "speaker": "アイディル",
+      "ja": "はー！　くっだらないねぇ～！",
+      "zh": "哈——！真无聊啊～！"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "1a19bc03",
+      "speaker": "トーリ",
+      "ja": "なんじゃと！？",
+      "zh": "你说什么！？"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "11a79ea0",
+      "speaker": "アイディル",
+      "ja": "なーにが健康な成長よ！　そんなもん無くたって、アタシは今まで十分健康に育ってきたわ！",
+      "zh": "说什么健康成长啊！没有那种东西，我也健健康康长大了！"
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "4fab3f45",
+      "speaker": "",
+      "ja": "ぐううううう、と大きな音がアイディルの腹から鳴った。と同時に、モル、マロウの腹も鳴る。",
+      "zh": "咕呜呜呜呜——艾迪尔的肚子发出了响亮的声音。与此同时，莫尔和玛洛的肚子也叫了起来。"
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "cf28033",
+      "speaker": "トーリ",
+      "ja": "その割に随分と不健康そうな音じゃが",
+      "zh": "却发出了相当不健康的声音呢。"
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "cfe33d38",
+      "speaker": "アイディル",
+      "ja": "悪かったねぇ！　宇宙は不況なんだよ！",
+      "zh": "抱歉啊！宇宙经济不景气嘛！"
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "7157a513",
+      "speaker": "トーリ",
+      "ja": "ひな祭りを学びたいと言うなら、祭りの食べ物を分けてやっても構わんが",
+      "zh": "想了解女儿节的话，分给你们节日的食物也没问题。"
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "96de4e10",
+      "speaker": "アイディル",
+      "ja": "あ……お願いしまーす……生意気言ってすみませーん",
+      "zh": "啊……拜托了……刚才太嚣张了对不起。"
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "e3e9f7a9",
+      "speaker": "マロウ",
+      "ja": "親びん……",
+      "zh": "老大……"
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "abecaddb",
+      "speaker": "アイディル",
+      "ja": "アタシだけならともかくアンタたちの面倒見るためならしょうがないでしょ！",
+      "zh": "光是我倒还好，可为了照顾你们几个，我也没办法啊！"
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "afe85f46",
+      "speaker": "マロウ",
+      "ja": "親びん……！",
+      "zh": "老大……！"
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "d397e472",
+      "speaker": "トーリ",
+      "ja": "それじゃあまずは正座をして心を無に……",
+      "zh": "那么首先正坐，放空心灵……"
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "fc88c01a",
+      "speaker": "雫",
+      "ja": "だから違います……と、申したではございませんか",
+      "zh": "所以我说不是了……刚才不是说了吗？"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "4926b82f",
+      "speaker": "トーリ",
+      "ja": "む。そうであったな……では、そなたが言う本当の祭りを見せてくれるかのう？",
+      "zh": "嗯。是这样啊……那么，能否让我们看看你所说的真正的祭典呢？"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "345c4b",
+      "speaker": "ルミナ",
+      "ja": "雫、お願い……",
+      "zh": "雫，拜托了……"
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "6553b098",
+      "speaker": "雫",
+      "ja": "ええ、もちろんですとも。では……",
+      "zh": "嗯，当然可以。那么……"
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "9a26104a",
+      "speaker": "雫",
+      "ja": "今にも消えそうな記憶の片隅から、出来得る限り再現してみせましょう",
+      "zh": "从快要消失的记忆角落中，尽量重现出来吧。"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "5d65e373",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当に大丈夫かよ……）",
+      "zh": "（真的没问题吗……）"
+    }
+  ]
+}

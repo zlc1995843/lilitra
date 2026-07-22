@@ -1,0 +1,166 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "255e86ab",
+      "speaker": "アポロ",
+      "ja": "着陸に成功いたしました。物資の調達を開始してください",
+      "zh": "已成功着陆。请开始调配物资。"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "f52169c1",
+      "speaker": "ルミナ",
+      "ja": "ありがとう、アポロちゃん……",
+      "zh": "谢谢你，阿波罗……"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "cff534c",
+      "speaker": "雫",
+      "ja": "やれやれ、最新型の宇宙船であれば物資調達も自動に行うのですがね……",
+      "zh": "哎呀，要是最新型的宇宙飞船，物资调配就会自动完成了呢……"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "6be1ff89",
+      "speaker": "アポロ",
+      "ja": "ワタシもアップグレードやプラグインを導入すれば機能の実装が可能です。無い物に目を向けず現実と向き合うことを推奨します",
+      "zh": "我也可以通过升级和安装插件来增加功能。建议你不要好高骛远，面对现实吧。"
+    },
+    {
+      "key": "29.0",
+      "line_index": 29,
+      "inline_index": 0,
+      "line_hash": "b02bdb05",
+      "speaker": "{G_PlayerName}",
+      "ja": "……言い争ってないで、早く済ませよう。ここの星に人はいなさそうなんだろ？",
+      "zh": "……别吵了，快点搞定吧。这星球上不是没人吗？"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "ca0f63d6",
+      "speaker": "アポロ",
+      "ja": "はい。文明的な建造物などの存在は確認できませんでした",
+      "zh": "对，没有发现任何文明建筑之类的。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "3b09ffae",
+      "speaker": "ルミナ",
+      "ja": "でも……動物とかはいるかもしれないから、気を付けて降りようね……",
+      "zh": "不过……说不定会有动物，我们小心点下去吧……"
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "9a034aca",
+      "speaker": "コハル",
+      "ja": "うわあ……自然が豊かな星ね",
+      "zh": "哇……真是颗自然丰饶的星球呢。"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "12cd1d8a",
+      "speaker": "ルミナ",
+      "ja": "ちょっと{G_PlayerName}くんの星と似てるかも……？",
+      "zh": "感觉有点像{G_PlayerName}那边的星球呢……？"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "692d1403",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに、そうだな",
+      "zh": "的确，说得没错。"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "5fa2ff4",
+      "speaker": "雫",
+      "ja": "……！　何かが近づいてきます、注意を！",
+      "zh": "……！有东西在靠近，小心！"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "65ec5657",
+      "speaker": "魔獣",
+      "ja": "グオオオオオッ！！",
+      "zh": "嗷嗷嗷嗷嗷！！"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "15d8d613",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ……あれって、俺を襲った魔獣！？",
+      "zh": "啊……那、那是袭击我的魔兽！？"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "f02187d1",
+      "speaker": "雫",
+      "ja": "そんなことがあるわけがないでしょう、別の星なのですから！",
+      "zh": "怎么可能，这可是另一个星球啊！"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "4114503",
+      "speaker": "ルミナ",
+      "ja": "で、でも似てる……ね……！",
+      "zh": "可、可是好像……啊……！"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "b60f056",
+      "speaker": "コハル",
+      "ja": "こんなところまで似てるの！？",
+      "zh": "竟然连这个都这么像！？"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "f14ced43",
+      "speaker": "{G_PlayerName}",
+      "ja": "く、来るぞ！",
+      "zh": "糟、要来了！"
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "d9685a12",
+      "speaker": "コハル",
+      "ja": "迎え撃つわよ！",
+      "zh": "准备迎战！"
+    }
+  ]
+}

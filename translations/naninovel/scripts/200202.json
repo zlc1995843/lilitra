@@ -1,0 +1,337 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "d60a7bf",
+      "speaker": "コハル",
+      "ja": "たあっ！",
+      "zh": "哇啊！"
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "cd3e6352",
+      "speaker": "雫",
+      "ja": "はっ……！",
+      "zh": "啊……！"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "97a8f400",
+      "speaker": "魔獣",
+      "ja": "グオオオオッ！",
+      "zh": "吼哦哦哦——！"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "897b6344",
+      "speaker": "コハル",
+      "ja": "ああもう、なんて分厚い毛皮……！　魔法が通らないじゃない！",
+      "zh": "啊——这毛皮也太厚了吧……！魔法根本没用啊！"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "1c4a8746",
+      "speaker": "雫",
+      "ja": "刃も同様ですね……ルミナ様、お願いいたします！",
+      "zh": "刀剑也一样没用呢……露米娜大人，拜托您了！"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "76d8ce33",
+      "speaker": "ルミナ",
+      "ja": "うん……！　撃てる、よ……！",
+      "zh": "嗯……！我可以攻击……！"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2f69db13",
+      "speaker": "魔獣",
+      "ja": "グアアァアッ！",
+      "zh": "咕啊啊啊——！"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "2f119254",
+      "speaker": "ルミナ",
+      "ja": "えいっ……！",
+      "zh": "喝啊……！"
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "abb1d814",
+      "speaker": "",
+      "ja": "ルミナがかざした手から光線が走る。光線は魔獣の体を貫き、魔獣は地に倒れ伏した。",
+      "zh": "露米娜举起手，一道光线射出，贯穿了魔兽的身体，魔兽轰然倒地。"
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "5a8ad70e",
+      "speaker": "ルミナ",
+      "ja": "たおせ……た？",
+      "zh": "解决……了吗？"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "5a7decd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、大丈夫か！？",
+      "zh": "露米娜，你没事吧！？"
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "dbe3b1dd",
+      "speaker": "コハル",
+      "ja": "危なかったわね……ケガはない？",
+      "zh": "刚才好危险啊……没受伤吧？"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "86a11d36",
+      "speaker": "雫",
+      "ja": "ルミナ様、わたくし達だけでは力が及ばず申し訳ございません……",
+      "zh": "露米娜大人，只靠我们力量不够，真是对不起……"
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "356632f3",
+      "speaker": "ルミナ",
+      "ja": "ううん、そんなこと……",
+      "zh": "不不，别这么说……"
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "942646e4",
+      "speaker": "ルミナ",
+      "ja": "あっ……！",
+      "zh": "啊……！"
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "c19682a6",
+      "speaker": "",
+      "ja": "倒したと思った魔獣がゆっくりと起き上がり、巨体で再びこちらに影を落とす。",
+      "zh": "原以为已经打倒的魔兽缓缓起身，巨大的身躯再次将我们笼罩在阴影之下。"
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "dabbd5f",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、後ろに……！",
+      "zh": "{G_PlayerName}，后面……！"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "505db9c2",
+      "speaker": "コハル",
+      "ja": "……あれ？",
+      "zh": "……咦？"
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "57e46a1f",
+      "speaker": "",
+      "ja": "魔獣はノソノソと歩き出し、こちらに背を向けて去っていった。",
+      "zh": "魔兽慢悠悠地转过身，背向我们，一步步走远了。"
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "5b09099e",
+      "speaker": "雫",
+      "ja": "……敵わないと見て、逃げたのでしょうか？",
+      "zh": "……是觉得打不过，所以逃了吗？"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "b0fa36a7",
+      "speaker": "ルミナ",
+      "ja": "なんだか、寂しそうな顔に見えたけど……",
+      "zh": "不过，总觉得它好像有点落寞……"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "505db9c2",
+      "speaker": "コハル",
+      "ja": "……あれ？",
+      "zh": "……咦？"
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "a1cc25ae",
+      "speaker": "コハル",
+      "ja": "見て！　あの魔獣が倒れてたところ、いっぱい物が落ちてる！",
+      "zh": "快看！刚才魔兽倒下的地方，掉了好多东西！"
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "4b325302",
+      "speaker": "",
+      "ja": "見てみると、確かにコハルの言う通り鉱石のような物や、使えそうな物がいっぱい落ちていた。",
+      "zh": "仔细一看，确实如小春所说，像矿石一样的东西和看起来有用的东西掉了一地。"
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "397fce93",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの魔獣が落としていったのか……？",
+      "zh": "是那魔兽掉的吗……？"
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "b834266f",
+      "speaker": "ルミナ",
+      "ja": "もしかして、見逃してもらう代わり、とか……？",
+      "zh": "难道说，是作为放过它的谢礼……？"
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "ea4d0f40",
+      "speaker": "コハル",
+      "ja": "まさか、そんな……",
+      "zh": "不会吧，怎么会……"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "725797a3",
+      "speaker": "アポロ",
+      "ja": "そうとは限りませんよ",
+      "zh": "那可不一定哦。"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "4718c4a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！　びっくりした！　お前、外にも出て来れるのか！",
+      "zh": "哇！吓我一跳！你居然还能到外面来啊！"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "fca6bec1",
+      "speaker": "アポロ",
+      "ja": "宇宙船付近だけですが。……あの魔獣は知能が高いようですので、敗者として対価を支払った可能性もあります",
+      "zh": "只能在宇宙船附近活动呢。……那只魔兽看起来智力很高，所以作为败者，它可能留下了什么代价。"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "55afe9d9",
+      "speaker": "ルミナ",
+      "ja": "対価……",
+      "zh": "代价……"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "fe4ee9e3",
+      "speaker": "コハル",
+      "ja": "そんなに頭良い動物、いるの？",
+      "zh": "有那么聪明的动物吗？"
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "9ba38c83",
+      "speaker": "アポロ",
+      "ja": "ええ。……勝負を仕掛け、自らの力を証明しようとする動物もいるほどです。あの魔獣もその類だったのでは？",
+      "zh": "是的。……有些动物甚至会主动挑战对手，想证明自己的力量。那只魔兽说不定就是那种类型。"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "b1f89e21",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのかあ……？",
+      "zh": "是这样吗……？"
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "3ae184",
+      "speaker": "",
+      "ja": "殺された魔獣にそっくりなこともあり、恐怖を感じていたが……そう言われると、どこか憎みきれない存在のような気もしてくる。",
+      "zh": "虽然它长得和被杀的那只魔兽一模一样，原本让我很害怕……但听你们这么一说，又觉得它似乎也不是那么可憎的存在。"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "a4a5cd32",
+      "speaker": "ルミナ",
+      "ja": "ひとまずは……少し休憩したら、物資集めに戻ろうか……",
+      "zh": "总之……先休息一下，然后回去收集物资吧……"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "b2b7d669",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだな！",
+      "zh": "嗯，是啊！"
+    }
+  ]
+}

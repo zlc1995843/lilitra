@@ -1,0 +1,823 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "75d52c8f",
+      "speaker": "雫",
+      "ja": "さて……では、スイカ割りをしますよ",
+      "zh": "好了……那么，我们来切西瓜吧。"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "d9cb7d88",
+      "speaker": "コハル",
+      "ja": "スイカ割り……？",
+      "zh": "切西瓜……？"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "ec554504",
+      "speaker": "雫",
+      "ja": "スイカと呼ばれる果物……野菜？　野菜果物を砂浜に置き、目隠しをして破壊する遊戯です",
+      "zh": "就是被称为西瓜的水果……还是蔬菜？把蔬菜水果放在沙滩上，蒙着眼睛砸碎的游戏。"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "422c192a",
+      "speaker": "プリズム",
+      "ja": "それは……なぜ？",
+      "zh": "那是……为什么呢？"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "f44e28a8",
+      "speaker": "雫",
+      "ja": "なぜとは……海で行う遊びの定番だからです",
+      "zh": "为什么这么说……因为这是在沙滩上玩的经典游戏啊。"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "4ba4e4fa",
+      "speaker": "コハル",
+      "ja": "そうなの？　……何で果物を壊すの？　何でスイカ？",
+      "zh": "是这样吗？……为什么要砸水果？为什么是西瓜？"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "7d10e81b",
+      "speaker": "雫",
+      "ja": "こわ……すのが楽しいからでは？　スイカである理由は……この気候が旬の作物だからかと……",
+      "zh": "这……可能是因为砸东西很快乐吧？至于为什么是西瓜……大概是因为这个季节正好是时令作物吧。"
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "d6f87cdf",
+      "speaker": "{G_PlayerName}",
+      "ja": "食べ物で遊ぶのは良くないぞ",
+      "zh": "拿食物来玩可不好啊。"
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "91c08375",
+      "speaker": "雫",
+      "ja": "あーもう、やかましい！　いいからとっとと始めますよ！　ルミナ様の希望なのですから！　本で読んだ遊戯を１度行ってみたいと！",
+      "zh": "啊——真是的，吵死了！好啦快点开始吧！这可是露米娜大人的愿望！她说想试试书上读到的游戏！"
+    },
+    {
+      "key": "35.0",
+      "line_index": 35,
+      "inline_index": 0,
+      "line_hash": "86590d65",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ……いまいちイメージ湧かないけど、どうやるんだ？",
+      "zh": "唉……虽然还是没什么概念，但具体怎么玩？"
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "e7577ba6",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ……これが、すいか……？　果物なのか？",
+      "zh": "这……这就是西瓜……？是水果吗？"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "6d7fc783",
+      "speaker": "ブロワー",
+      "ja": "なんかエグい模様入ってるな……本当に食べられるのか？　病気とかじゃあ……",
+      "zh": "上面有恶心的花纹……真的能吃吗？不会有什么病吧……"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "b9201f00",
+      "speaker": "雫",
+      "ja": "我々の星では比較的ポピュラーな作物です。暑い環境で必要になる栄養素が多く、摂食を推奨されているのですよ",
+      "zh": "在我们星球上算是比较常见的作物。富含炎热环境下所需的营养，是推荐食用的。"
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "c7ba90ed",
+      "speaker": "ブロワー",
+      "ja": "へえ……美味しいといいけどな……",
+      "zh": "嘿……希望好吃吧……"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "f21e4990",
+      "speaker": "ルミナ",
+      "ja": "甘くて美味しい、よ……",
+      "zh": "甜甜的，很好吃……哦……"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "6b82bf97",
+      "speaker": "雫",
+      "ja": "（この様子では、割って赤い中身が出てきた時に悲鳴が起きそうですね）",
+      "zh": "（看这样子，切开后流出红色汁液的时候，估计会有人尖叫吧。）"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "ba322075",
+      "speaker": "ブロワー",
+      "ja": "よっしゃ！　とにかくやってみっか！　全員で目隠ししてスイカを囲んで、狙うのか？",
+      "zh": "好嘞！总之先试试吧！全员蒙上眼睛围着西瓜，然后瞄准吗？"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "e4f127aa",
+      "speaker": "雫",
+      "ja": "そんなことしたら危険でしょう、見た目も、物理的にも。……挑戦する人を決めて、１人ずつ回すんですよ",
+      "zh": "那样做太危险了，不管从外观上还是物理上。……决定挑战的人，轮流来，每人一次。"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "98703fe0",
+      "speaker": "ルミナ",
+      "ja": "じゃあ……誰から、する……？",
+      "zh": "那么……谁先来……？"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "43caf135",
+      "speaker": "雫",
+      "ja": "いきなり成功してもつまらないですから……機械士、行きなさい",
+      "zh": "一次成功就没意思了……机械师，你去吧。"
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "8e4a48e3",
+      "speaker": "{G_PlayerName}",
+      "ja": "俺か！？　……いいけど",
+      "zh": "我吗！？……行是行。"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "cd3ea577",
+      "speaker": "ルミナ",
+      "ja": "じゃあ、目隠しする……ね……",
+      "zh": "那么，蒙上眼睛……哦……"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "5b3932d2",
+      "speaker": "{G_PlayerName}",
+      "ja": "これでいいのか？　案外簡単そうだな",
+      "zh": "这样就可以了吗？意外地简单啊。"
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "995812df",
+      "speaker": "雫の声",
+      "ja": "棒を持ち、10回体を回しなさい",
+      "zh": "拿着棒子，原地转10圈。"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "44f8717b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うっ……そう簡単じゃないか。わかった",
+      "zh": "唔……没那么简单啊。知道了。"
+    },
+    {
+      "key": "90.0",
+      "line_index": 90,
+      "inline_index": 0,
+      "line_hash": "96d1adb7",
+      "speaker": "",
+      "ja": "頭の中で１０数えながら、体を回転させる。フラついてコケそうになったが、なんとか砂を踏みしめ耐えた。",
+      "zh": "一边在心里数到10，一边旋转身体。虽然晃晃悠悠差点摔倒，但总算踩稳沙子撑住了。"
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "d69af482",
+      "speaker": "{G_PlayerName}",
+      "ja": "……意外と、これ、効くな……",
+      "zh": "……意外地，这招还挺管用……"
+    },
+    {
+      "key": "94.0",
+      "line_index": 94,
+      "inline_index": 0,
+      "line_hash": "51c8b250",
+      "speaker": "",
+      "ja": "もうどちらを向いてるかわからない。ヘタをすれば海に突っ込んでしまいそうだ……",
+      "zh": "已经搞不清朝向哪边了。搞不好会一头栽进海里……"
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "86d1d78e",
+      "speaker": "コハルの声",
+      "ja": "それで、後は割ればいいの？",
+      "zh": "那么，之后只要砸下去就行了？"
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "f0bab4d7",
+      "speaker": "雫の声",
+      "ja": "全員で指示を出し、スイカまで導きます。ウソをついても構いません",
+      "zh": "大家一起指挥，引导到西瓜前。说谎也可以哦。"
+    },
+    {
+      "key": "100.0",
+      "line_index": 100,
+      "inline_index": 0,
+      "line_hash": "52107500",
+      "speaker": "コハルの声",
+      "ja": "へー。ちょっとズレてるわ。左側向いて！",
+      "zh": "嘿～偏了一点哦。往左转！"
+    },
+    {
+      "key": "102.0",
+      "line_index": 102,
+      "inline_index": 0,
+      "line_hash": "9ac9372c",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、こうか？",
+      "zh": "这、这样？"
+    },
+    {
+      "key": "104.0",
+      "line_index": 104,
+      "inline_index": 0,
+      "line_hash": "e2b0ce1c",
+      "speaker": "ルミナの声",
+      "ja": "行き過ぎ……だよ。ちょっと右に……",
+      "zh": "过头了……哦。稍微往右……"
+    },
+    {
+      "key": "106.0",
+      "line_index": 106,
+      "inline_index": 0,
+      "line_hash": "e4e95f8c",
+      "speaker": "ブロワーの声",
+      "ja": "いいな！　あんちゃん、そこから真っ直ぐだ！",
+      "zh": "好！大哥，从那里直走！"
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "ac9929e4",
+      "speaker": "{G_PlayerName}",
+      "ja": "真っ直ぐ……と……",
+      "zh": "直走……然后……"
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6bf9698",
+      "speaker": "プリズムの声",
+      "ja": "ま、まだまだ全然先ですよ～！",
+      "zh": "还、还早得很呢～！"
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "63a0172e",
+      "speaker": "コハルの声",
+      "ja": "そろそろよ、準備しなさい！",
+      "zh": "差不多该准备了！"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "9666505e",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、じゃあ振りかぶって……",
+      "zh": "哦，那就挥起来……"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "148bde60",
+      "speaker": "雫の声",
+      "ja": "頭の上にスイカがあります。全力でご自分の頭に振り下ろしなさい",
+      "zh": "西瓜就在你头顶。全力往自己脑袋上砸下去。"
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "6f1f7793",
+      "speaker": "{G_PlayerName}",
+      "ja": "無茶苦茶言うなよ！！",
+      "zh": "别说这种瞎话！！"
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "b291b80",
+      "speaker": "",
+      "ja": "……ん？",
+      "zh": "……嗯？"
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "b5a88449",
+      "speaker": "",
+      "ja": "突如、妙な感覚。水着……というか、パンツをひっぱられているような……",
+      "zh": "突然，一种奇怪的感觉。泳衣……不，像是裤子被拉扯的感觉……"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "38a2d116",
+      "speaker": "{G_PlayerName}",
+      "ja": "おい、触るのもオーケーなのか？　明らかに妨害だろ",
+      "zh": "喂，碰也是允许的吗？这明显是干扰吧。"
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "55200ce7",
+      "speaker": "雫の声",
+      "ja": "……まあ別に禁止はしてませんが、誰も触ってませんよ",
+      "zh": "……嘛倒也没禁止，但是谁都没碰啊。"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "a1340e09",
+      "speaker": "{G_PlayerName}",
+      "ja": "え？　で、でも……いいっ！？",
+      "zh": "啊？可、可是……可以吗！？"
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "3d9036c0",
+      "speaker": "",
+      "ja": "錯覚ではない。明らかに、腹……太もも……股間を掴まれている！",
+      "zh": "不是错觉。明显是，肚子……大腿……裆部被抓住了！！"
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "e663e99a",
+      "speaker": "{G_PlayerName}",
+      "ja": "や、やめろーっ！　く……くすぐったいっ！",
+      "zh": "住、住手啊！痒……痒死啦！"
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "21c302c1",
+      "speaker": "雫の声",
+      "ja": "何をいきなり暴れてるのです！？",
+      "zh": "你突然发什么疯！！"
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "f731cbd1",
+      "speaker": "ルミナの声",
+      "ja": "{G_PlayerName}くん……！？　もしかして、パン……服に、何か入ったの……！？",
+      "zh": "{G_PlayerName}君……！！难道说，裤……衣服里进了什么东西……！！"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "37b6592",
+      "speaker": "{G_PlayerName}",
+      "ja": "いや……！　これは誰かが絶対、うひひっ！？",
+      "zh": "不……！这绝对是有人……唔嘻嘻！！"
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "6aab3e0e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……うぐわぁーっ！？",
+      "zh": "……呜哇——！！？"
+    },
+    {
+      "key": "162.0",
+      "line_index": 162,
+      "inline_index": 0,
+      "line_hash": "57dbfabf",
+      "speaker": "",
+      "ja": "とうとうパンツが下ろされてしまい、慌てて座り込む。……体の前側は、海側に出来たのでセーフだと思いたい。",
+      "zh": "裤子最终还是被脱了下来，我慌忙坐了下去。……前面朝着大海，应该算安全了吧。"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "bc4515b0",
+      "speaker": "雫",
+      "ja": "またこの変態男は……！　露出癖でもあるのですか！？",
+      "zh": "这个变态男又来……！！？你是有暴露癖吗！！？"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "8e21e32f",
+      "speaker": "プリズム",
+      "ja": "うーむ……見事な美しい桃……インスピレーションが湧いてきそうです",
+      "zh": "嗯……真是漂亮的桃子……感觉灵感要来了。"
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "613d35fc",
+      "speaker": "コハル",
+      "ja": "そんなこと言ってないで、服、服！",
+      "zh": "别说了，快穿衣服！！"
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "e256370b",
+      "speaker": "{G_PlayerName}",
+      "ja": "うう……す、すまんコハル……",
+      "zh": "唔……对、对不起，小春……"
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "9215a70f",
+      "speaker": "コハル",
+      "ja": "もう、やっぱり水着じゃなくて、パンツだけで泳ぐのは無理ね",
+      "zh": "真是的，果然只穿内裤游泳还是不行啊。"
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "5c01b646",
+      "speaker": "{G_PlayerName}",
+      "ja": "泳いでないんだが……というか、誰が俺のパンツ下げたんだ！？",
+      "zh": "我没在游泳……话说，到底是谁脱了我裤子！！？"
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "50e6f3b3",
+      "speaker": "コハル",
+      "ja": "誰も触ってないわよ！　……自然と落ちたんじゃないの？",
+      "zh": "谁都没碰！！……不是自己掉下来的吗？"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "522f71fb",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんなはずないんだけどな……目閉じてたから、風が手の感触に感じたのか……？　いやまさか……",
+      "zh": "不可能啊……我一直闭着眼，难道是风让我产生手的触感……？不，怎么可能……"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "8bb3beb9",
+      "speaker": "ブロワー",
+      "ja": "はいはい、次はおいらだな！　あんちゃん、目隠し寄越しな！",
+      "zh": "好好好，轮到我了！！大哥，眼罩拿来！！"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "16cdb1bd",
+      "speaker": "{G_PlayerName}",
+      "ja": "う、うお！　ちょっと待ってくれ！　まだ着替えてない……！",
+      "zh": "喔、喔！！等一下！！我还没换好……！！"
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "da3efd9",
+      "speaker": "",
+      "ja": "ブロワーが目隠しと棒を受取り、嬉々として所定の位置で回転を始める。",
+      "zh": "布罗瓦接过眼罩和棍子，开心地在指定位置转起圈来。"
+    },
+    {
+      "key": "206.0",
+      "line_index": 206,
+      "inline_index": 0,
+      "line_hash": "cc90dffc",
+      "speaker": "{G_PlayerName}",
+      "ja": "石の声で楽勝、とか無いよな……？",
+      "zh": "说用石头的声音来轻松取胜，没这回事吧……？"
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "8c246619",
+      "speaker": "ブロワー",
+      "ja": "あー大丈夫大丈夫、聞こうと思わなきゃ聞こえないし、ここらへん砂ばっかだし！　よし、行くぞー！",
+      "zh": "没事没事，不想听就听不见，而且这周围都是沙子！好，出发咯——！！"
+    },
+    {
+      "key": "210.0",
+      "line_index": 210,
+      "inline_index": 0,
+      "line_hash": "e9b7660",
+      "speaker": "",
+      "ja": "ブロワーが回転を終え、スイカに向かって歩き始める。迷いがない歩きに一瞬見えているのではと思ったが、微妙にルートが外れ始めた。",
+      "zh": "布罗瓦转完圈，朝着西瓜走去。脚步如此坚定，我还以为她能看见，但路线却微妙地偏了。"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "34d6358f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブロワー！　もうちょっと左だ！",
+      "zh": "布罗瓦！！再往左一点！！"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "b7eef9a5",
+      "speaker": "プリズム",
+      "ja": "あと１５歩くらい先ですよ！",
+      "zh": "还有大概15步！！"
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "fa8b0cf",
+      "speaker": "ルミナ",
+      "ja": "そのまま……！",
+      "zh": "继续……！！"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "b40da4c9",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……なんか、皆ホントの事言っててちょっと悔しいな。でも方向とかのウソをついたらバレるかも知れないから……）",
+      "zh": "（……大家都说实话，反而有点不爽。不过要是方向之类骗她们，可能会露馅……）"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "76fa3810",
+      "speaker": "{G_PlayerName}",
+      "ja": "足元！　大きい石があるからちょっと避けたほうがいいぞ！",
+      "zh": "脚下！！有大石头，最好绕开！！"
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "2988b4cb",
+      "speaker": "ブロワー",
+      "ja": "……あんちゃん、おいらに石があるってウソは流石に通用しないぞ？",
+      "zh": "……大哥，骗我说前面有石头，这招可不管用哦？"
+    },
+    {
+      "key": "245.0",
+      "line_index": 245,
+      "inline_index": 0,
+      "line_hash": "bb63e553",
+      "speaker": "{G_PlayerName}",
+      "ja": "……あ、そっか",
+      "zh": "……啊，对哦"
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "f641280c",
+      "speaker": "ブロワー",
+      "ja": "ははは！　後で覚えとけよ～？",
+      "zh": "哈哈哈！！待会儿有你好看的～？"
+    },
+    {
+      "key": "249.0",
+      "line_index": 249,
+      "inline_index": 0,
+      "line_hash": "aad9d3db",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぐっ……！",
+      "zh": "呃……！！"
+    },
+    {
+      "key": "251.0",
+      "line_index": 251,
+      "inline_index": 0,
+      "line_hash": "a628ad0a",
+      "speaker": "プリズムの声",
+      "ja": "そこです！　ブロワーさん、振り下ろしてください！",
+      "zh": "就是那儿！！布罗瓦小姐，快砸！！"
+    },
+    {
+      "key": "254.1",
+      "line_index": 254,
+      "inline_index": 1,
+      "line_hash": "a857b90",
+      "speaker": "ブロワー",
+      "ja": "おっしゃあ！　せーのっ……！",
+      "zh": "好嘞！！一二——……！！"
+    },
+    {
+      "key": "265.1",
+      "line_index": 265,
+      "inline_index": 1,
+      "line_hash": "3e023d12",
+      "speaker": "ブロワー",
+      "ja": "おわっ！　冷たっ！？",
+      "zh": "哇！！好冰！！？"
+    },
+    {
+      "key": "267.0",
+      "line_index": 267,
+      "inline_index": 0,
+      "line_hash": "b26af44a",
+      "speaker": "{G_PlayerName}",
+      "ja": "へ……？",
+      "zh": "咦……？"
+    },
+    {
+      "key": "269.0",
+      "line_index": 269,
+      "inline_index": 0,
+      "line_hash": "87b857b4",
+      "speaker": "",
+      "ja": "スイカが割れて、中から果汁が噴き出る。……というか、飛び散る？　スイカは跡形もなく消失し、無色の果汁は砂へと染み込んでいった。",
+      "zh": "西瓜裂开，果汁喷涌而出。……不，是飞散了吗？西瓜瞬间消失得无影无踪，无色果汁渗进了沙子里。"
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "d785f708",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんか……水みたいな果汁だな。果肉も無いのか、スイカって？",
+      "zh": "这果汁……怎么跟水似的。西瓜没有果肉吗？"
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "fcabae2d",
+      "speaker": "雫",
+      "ja": "水みたいというか……水ですね、これは。どういうことでしょうか、これは……",
+      "zh": "与其说像水……这根本就是水啊。这到底是怎么回事……"
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "5eb2868",
+      "speaker": "ルミナ",
+      "ja": "スイカが……消え、ちゃった……？",
+      "zh": "西瓜……消、消失了……？"
+    },
+    {
+      "key": "286.0",
+      "line_index": 286,
+      "inline_index": 0,
+      "line_hash": "b3a3fdee",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、これおかしい事なのか？",
+      "zh": "啊，这事不正常吗？"
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "1225816f",
+      "speaker": "雫",
+      "ja": "あたりまえでしょう。割ったら消える果物がどこにありますか",
+      "zh": "当然啦。哪有切开就消失的水果。"
+    },
+    {
+      "key": "290.1",
+      "line_index": 290,
+      "inline_index": 1,
+      "line_hash": "c43dbece",
+      "speaker": "ルミナ",
+      "ja": "ううん……ブロワー、さん。大丈夫……？",
+      "zh": "唔……布罗瓦小姐。你没事吧……？"
+    },
+    {
+      "key": "292.1",
+      "line_index": 292,
+      "inline_index": 1,
+      "line_hash": "878a9fd0",
+      "speaker": "ブロワー",
+      "ja": "ああ。濡れただけだしな。……くんくん。変な匂いも味もしないから、ただの水じゃないか？",
+      "zh": "啊，只是弄湿了而已。……闻闻。没什么怪味和怪味道，就是普通的水吧？"
+    },
+    {
+      "key": "294.0",
+      "line_index": 294,
+      "inline_index": 0,
+      "line_hash": "5b9e482a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うかつに舐めるなよ、そんな謎の水……",
+      "zh": "别乱舔啊，这种不明不白的水……"
+    },
+    {
+      "key": "296.1",
+      "line_index": 296,
+      "inline_index": 1,
+      "line_hash": "566d1976",
+      "speaker": "ルミナ",
+      "ja": "……？　どこいっちゃったんだろう、スイカ……",
+      "zh": "……？西瓜去哪了……"
+    },
+    {
+      "key": "298.1",
+      "line_index": 298,
+      "inline_index": 1,
+      "line_hash": "2a73799",
+      "speaker": "雫",
+      "ja": "目にも止まらぬ速さで吹き飛んだとか……？　それでは水の説明が……",
+      "zh": "以眼睛都跟不上的速度飞散了吗……？那水又怎么解释……"
+    },
+    {
+      "key": "300.0",
+      "line_index": 300,
+      "inline_index": 0,
+      "line_hash": "f2d4ca8f",
+      "speaker": "",
+      "ja": "首をひねるルミナ達だったが、いくら考えても答えが出ないため、諦めて次のスイカを持ってくるのだった……",
+      "zh": "露米娜她们歪着头想了半天，也想不出答案，只好放弃，去拿下一个西瓜了……"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "325ef091",
+      "speaker": "コハル",
+      "ja": "ふー……なんか、今日は疲れたわね",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "9b2d5157",
+      "speaker": "{G_PlayerName}",
+      "ja": "……って言うわりに、元気そうだな",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "420f2afd",
+      "speaker": "",
+      "ja": "熱いお茶が配られ、一息つく一同。隣に座ったコハルが、言葉とは真逆の明るい笑顔をこちらに向けた。",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "5d041b23",
+      "speaker": "コハル",
+      "ja": "なんだかんだ、楽しかったからねー。お祭りの後って感じだわ",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "f3ba8965",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに、達成感というか……熱気の後って感じはするな",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "33f2a658",
+      "speaker": "コハル",
+      "ja": "ふふ……ねぇ、あそこ見て？",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "a0dd1a2a",
+      "speaker": "{G_PlayerName}",
+      "ja": "うん？",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "9f989932",
+      "speaker": "ルミナ",
+      "ja": "これが……ひな、あられって、言うの？　……色がいっぱい、おいし、そう……",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "8737aaf7",
+      "speaker": "トーリ",
+      "ja": "まだ食えるのか……？　いや、おぬしはあまり食べておらんかったか。ほれ、ひとつ食うてみろ",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "a21ffc92",
+      "speaker": "アイディル",
+      "ja": "アタシはしばらくいいわ……はあ、大食いはもう懲り懲りよ……",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "1d39702",
+      "speaker": "ルミナ",
+      "ja": "おい、しい……！　カリカリ……！",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "4d0abd4e",
+      "speaker": "コハル",
+      "ja": "なんだか平和～って感じで、癒やされるわね～",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "36f80e9a",
+      "speaker": "雫",
+      "ja": "はあ～！　ルミナ様、なんと無邪気でお美しい……！",
+      "zh": ""
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "8ac0a0cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわ、びっくりした……何やってんだお前……",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "e75ffa47",
+      "speaker": "雫",
+      "ja": "当然、写真撮影です！　わたくしが所有するルミナ様専用アルバム、過去でもトップレベルのシャッターチャンス……！",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "21758d2c",
+      "speaker": "雫",
+      "ja": "普段とは違う装いに加え、貴重なご友人様と談笑するシーン……！　ああ、輝いていますわルミナ様……！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "a30cfdeb",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ほどほどにしとけよ",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "f7cbae39",
+      "speaker": "ルミナ",
+      "ja": "……大変なのに……いろいろ、ありがとう……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "b5dc6917",
+      "speaker": "トーリ",
+      "ja": "む？　大変とはなんじゃ？",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "68f56b92",
+      "speaker": "ルミナ",
+      "ja": "だって……こんなに大きな宇宙船に、ご家族を……その、１人で……大変だった、でしょ？",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "dcc748ce",
+      "speaker": "ルミナ",
+      "ja": "私も、お姫様で……ちょっと近い部分があるから、少し、わかるような気がして……",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "9f82af89",
+      "speaker": "トーリ",
+      "ja": "ぬ……心遣いは嬉しいが、憐れむでないぞ。わらわは今の自分に、ちぃとも不満は無いのじゃ",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "df52884e",
+      "speaker": "ルミナ",
+      "ja": "えっ……？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "ac4e050f",
+      "speaker": "トーリ",
+      "ja": "そりゃあ、亡き皆の事を思ったり、現状の足りない部分を見ようと思えばいくらでも出来る。キリが無いわ",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "ca9df4c2",
+      "speaker": "トーリ",
+      "ja": "じゃが、わらわは今の自分に誇りを持っておる。理想を持って、それに近づいておる。何も悲しいことなど無い",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "d6ccb591",
+      "speaker": "トーリ",
+      "ja": "ルミナだって、自分の中に理想の自分があるのではないか？　それに近づきさえしていれば、無為な人生などないのじゃよ",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "8c6237e4",
+      "speaker": "ルミナ",
+      "ja": "理想の、自分……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "d7853d58",
+      "speaker": "ルミナ",
+      "ja": "……近づけてると、いいなあ。ありがとう、ごめんね、トーリさん……",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "63016621",
+      "speaker": "トーリ",
+      "ja": "さん、とは他人行儀じゃのう。近い境遇同士、もっと砕けた呼び方でいいのではないか？　ルミナ",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "4a9c6be6",
+      "speaker": "ルミナ",
+      "ja": "じゃ、じゃあ、トーリちゃん……！",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "3ee2e324",
+      "speaker": "トーリ",
+      "ja": "うむ！　トーリちゃんじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "6f0f0539",
+      "speaker": "ルミナ",
+      "ja": "……理想の自分に、近づくために……まずは{G_PlayerName}くんの、故郷の歌……練習しないと……",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "c5e6bfa7",
+      "speaker": "トーリ",
+      "ja": "……それは本当に近づけるのじゃろうか？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "4007d1ea",
+      "speaker": "マロウ",
+      "ja": "へっへっへ、ヒナアラレとかいうのいーっぱいもらったッス！　これでしばらく食いつなげるッス！",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "40360b3c",
+      "speaker": "モル",
+      "ja": "……うす。色々お世話になったっす",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "d9796ce8",
+      "speaker": "トーリ",
+      "ja": "なに、物資ならいくらでもある！　……さて、宴もたけなわじゃが、そろそろ戻らんとな",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "a0b8dfd6",
+      "speaker": "コハル",
+      "ja": "えーっ、もう行っちゃうの？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "1fb6941",
+      "speaker": "ルミナ",
+      "ja": "……しょうがない、けど、寂しくなるね……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "abd1d5fd",
+      "speaker": "トーリ",
+      "ja": "その服はやる！　わらわだと思って大切にするがよい！",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "20533685",
+      "speaker": "トーリ",
+      "ja": "それに、通信をくれればいつでも向かうわい。暇な時でも連絡するといいじゃろう",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "d2293df2",
+      "speaker": "トーリ",
+      "ja": "全速前進で、どこでも一瞬で駆けつけるからな！",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "95b4e9d4",
+      "speaker": "{G_PlayerName}",
+      "ja": "（あの戦艦なら本当に凄い速度で来そうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "b6220a9b",
+      "speaker": "コハル",
+      "ja": "あっという間に行っちゃったわね……トーリも、宇宙海賊たちも",
+      "zh": ""
+    },
+    {
+      "key": "176.0",
+      "line_index": 176,
+      "inline_index": 0,
+      "line_hash": "ba36f229",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういえば、あの戦艦のひな祭りモードって、天才エンジニアがおふざけで作ったって言ってたけど……",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "95928fc4",
+      "speaker": "コハル",
+      "ja": "うん？　言ってたわね",
+      "zh": ""
+    },
+    {
+      "key": "180.0",
+      "line_index": 180,
+      "inline_index": 0,
+      "line_hash": "bfab2e67",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの戦艦に乗ってた女の子って、多分トーリだけだったと思うんだよな",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "ef7ea6b7",
+      "speaker": "コハル",
+      "ja": "そう……ね。ただの女の子を乗せるとは思えないし、リリアンはトーリだけだったらしいし……宇宙の、旅の途中で生まれたとか？",
+      "zh": ""
+    },
+    {
+      "key": "184.0",
+      "line_index": 184,
+      "inline_index": 0,
+      "line_hash": "2946e400",
+      "speaker": "{G_PlayerName}",
+      "ja": "ってことは、あのモードはトーリの成長を願うために作られたんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "186.0",
+      "line_index": 186,
+      "inline_index": 0,
+      "line_hash": "12a8c582",
+      "speaker": "{G_PlayerName}",
+      "ja": "伝染病が蔓延しても、すぐに全員死んでしまうとは思えない。その中、最後の力を振り絞って……",
+      "zh": ""
+    },
+    {
+      "key": "188.1",
+      "line_index": 188,
+      "inline_index": 1,
+      "line_hash": "fc27ff91",
+      "speaker": "コハル",
+      "ja": "幼いトーリが一人でも暮らせるように、寂しくならないようお祭りモードを作って起動した？",
+      "zh": ""
+    },
+    {
+      "key": "190.0",
+      "line_index": 190,
+      "inline_index": 0,
+      "line_hash": "16d8094e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……んじゃあないかな。わからないけど",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "67aee44b",
+      "speaker": "コハル",
+      "ja": "……健やかに育ってはいるわね。明るくたくましく",
+      "zh": ""
+    },
+    {
+      "key": "194.0",
+      "line_index": 194,
+      "inline_index": 0,
+      "line_hash": "522eb332",
+      "speaker": "{G_PlayerName}",
+      "ja": "だな…………",
+      "zh": ""
+    },
+    {
+      "key": "208.1",
+      "line_index": 208,
+      "inline_index": 1,
+      "line_hash": "8269ad97",
+      "speaker": "マロウ",
+      "ja": "たっだいまっす～♪　ふう、やっぱり自分達の船が一番落ち着くっすね～！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "6c23aef9",
+      "speaker": "モル",
+      "ja": "……うす",
+      "zh": ""
+    },
+    {
+      "key": "212.1",
+      "line_index": 212,
+      "inline_index": 1,
+      "line_hash": "69376798",
+      "speaker": "マロウ",
+      "ja": "……あれっ？　船長はどこいったッス？",
+      "zh": ""
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "da9825ca",
+      "speaker": "モル",
+      "ja": "……見て、ませんね",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "ec486b53",
+      "speaker": "アイディル",
+      "ja": "はー、疲れた疲れた！　この服とっとと脱いで、今日はもう早く寝るよー！",
+      "zh": ""
+    },
+    {
+      "key": "234.1",
+      "line_index": 234,
+      "inline_index": 1,
+      "line_hash": "ff6cb508",
+      "speaker": "トーリ",
+      "ja": "……なんじゃおぬし、意外と寂しがりなのじゃな",
+      "zh": ""
+    },
+    {
+      "key": "236.1",
+      "line_index": 236,
+      "inline_index": 1,
+      "line_hash": "649de964",
+      "speaker": "アイディル",
+      "ja": "……えっ？",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "b5f47498",
+      "speaker": "アイディル",
+      "ja": "……こっち、ひな祭り艦隊のほうじゃないの！　も、戻してー！",
+      "zh": ""
+    },
+    {
+      "key": "247.1",
+      "line_index": 247,
+      "inline_index": 1,
+      "line_hash": "9ae7b7e6",
+      "speaker": "トーリ",
+      "ja": "既に出発しておるわ。これも数奇な縁、諦めて共にひな祭りを広めるのじゃ～！",
+      "zh": ""
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "8d179988",
+      "speaker": "アイディル",
+      "ja": "助けてえええ！　アタシは海賊を続けたいのおおお！",
+      "zh": ""
+    }
+  ]
+}

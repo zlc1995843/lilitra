@@ -1,0 +1,742 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "b082101a",
+      "speaker": "雫",
+      "ja": "拭き掃除終了。次は……",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "d91df72",
+      "speaker": "雫",
+      "ja": "……む？　情報端末に何か通知が……珍しいですね",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "94ee78e0",
+      "speaker": "雫",
+      "ja": "……",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "7f6df",
+      "speaker": "雫",
+      "ja": "これは、ルミナ様がお喜びになりそうですね……",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "a13eb6e7",
+      "speaker": "コハル",
+      "ja": "夏祭り……の、星？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "de3d5b7",
+      "speaker": "雫",
+      "ja": "その認識でも問題ないでしょう。毎年、人工で整備された小さな星で開催される夏の祭りがあるのです",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "b5b5a93a",
+      "speaker": "雫",
+      "ja": "明日、近くの宙域でそれが開催される報せが届きました。もしもルミナ様がご所望であれば……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "3b13f96b",
+      "speaker": "ルミナ",
+      "ja": "行きたい……な。夏のお祭り……行ったこと無い、から",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "a28ca093",
+      "speaker": "雫",
+      "ja": "もちろんでございます、ルミナ様っ！",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "db581f69",
+      "speaker": "{G_PlayerName}",
+      "ja": "わかってはいたが、当たり前のように行くのは決定だな……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "1a4eb32",
+      "speaker": "コハル",
+      "ja": "でも、{G_PlayerName}も気になるでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "44.0",
+      "line_index": 44,
+      "inline_index": 0,
+      "line_hash": "163ba342",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ……コハルもだろ？",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "5cf23249",
+      "speaker": "コハル",
+      "ja": "もちろん！　……どんなお祭りなのかしら？",
+      "zh": ""
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "f29a3b7",
+      "speaker": "ルミナ",
+      "ja": "イメージ、だと……色んなお店が並んでたり。楽器を鳴らしたり……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "cd1eab7e",
+      "speaker": "雫",
+      "ja": "「記録にある古典的な祭の再現」がテーマでございますから。恐らくはルミナ様がご期待なされている祭で間違いないかと思われます",
+      "zh": ""
+    },
+    {
+      "key": "48.0",
+      "line_index": 48,
+      "inline_index": 0,
+      "line_hash": "af0c4ff4",
+      "speaker": "{G_PlayerName}",
+      "ja": "記録……？　ってことは、その夏祭り……は、今も続いてるわけじゃないのか？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "41f2ceef",
+      "speaker": "雫",
+      "ja": "今の技術力であれば、「夏祭り」以外の祭形式のほうが利便性が高いですからね。本当の夏祭りは、開催されなくなって久しいかと",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "1c376823",
+      "speaker": "コハル",
+      "ja": "……ってことは、それに参加できるのってラッキーなのね！",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "2661dc9",
+      "speaker": "ルミナ",
+      "ja": "そういう、こと……だよ。せっかくだから……前、みたいに、他の星の人……呼びたい、な",
+      "zh": ""
+    },
+    {
+      "key": "52.0",
+      "line_index": 52,
+      "inline_index": 0,
+      "line_hash": "2aaea19f",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、前のバカンスでもしかして味をしめてる……？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "e0062446",
+      "speaker": "ルミナ",
+      "ja": "そ、そんなこと……ある、のかな？",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "437147b8",
+      "speaker": "雫",
+      "ja": "いいのですルミナ様っ！ルミナ様はもっとワガママを言うべきなのです本当であれば！",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "e211fcba",
+      "speaker": "雫",
+      "ja": "アポロッ！　そうと決まれば誘うリリアン様を探しに出発ですよっ！",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "a7747d73",
+      "speaker": "アポロ",
+      "ja": "はあ……かしこまりました。ワームホールの支流へと移動します",
+      "zh": ""
+    },
+    {
+      "key": "62.0",
+      "line_index": 62,
+      "inline_index": 0,
+      "line_hash": "b3b57849",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルナリング取り出すの遅れて死んだりしないよな、俺……）",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "ed712499",
+      "speaker": "ベス",
+      "ja": "はあ……",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "e1655c5",
+      "speaker": "",
+      "ja": "ちらちらと、時計を見上げながらため息をついて歩くベス。顔には誰が見てもひと目でわかるほどの疲労の色が浮き出ていた。",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "83f923c3",
+      "speaker": "コハル",
+      "ja": "ううん……ベス、いつもに増して疲れてるわね……",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "2289d728",
+      "speaker": "雫",
+      "ja": "貴族としてのプレッシャーに常に苛まれているお方ですからね。今日も似たような事に悩まされているのでしょう",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "bf533a52",
+      "speaker": "ルミナ",
+      "ja": "うん……休んで、もらおう……！",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "4c7e8a5a",
+      "speaker": "ルミナ",
+      "ja": "ベス、さん……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "21ea3f42",
+      "speaker": "ベス",
+      "ja": "えっ？　あ、ああ……ルミナ。お久しぶりね。どうかしたの？",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "37c7aeac",
+      "speaker": "ルミナ",
+      "ja": "疲れてる……みたいだね。よかったら、なんだけど……私達と、別の星のお祭りに……行かない？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "87908d50",
+      "speaker": "ベス",
+      "ja": "お祭り……？　悪いけれど、私にそんな時間は……それに疲れてなんて……",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "571bec57",
+      "speaker": "ベス",
+      "ja": "あっ……",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "df243876",
+      "speaker": "",
+      "ja": "ベスが持っていた本を落とす。それが切っ掛けとなって、懐から様々な物がボロボロとこぼれ落ちた。",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "3594d22f",
+      "speaker": "コハル",
+      "ja": "いや、疲れてるじゃないの！",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "39dd3f17",
+      "speaker": "ベス",
+      "ja": "つ、疲れてない……！",
+      "zh": ""
+    },
+    {
+      "key": "126.1",
+      "line_index": 126,
+      "inline_index": 1,
+      "line_hash": "178c872c",
+      "speaker": "コハル",
+      "ja": "それに顔色も悪いけど、ちゃんと食べてるの……？",
+      "zh": ""
+    },
+    {
+      "key": "127.1",
+      "line_index": 127,
+      "inline_index": 1,
+      "line_hash": "5b02edcd",
+      "speaker": "ベス",
+      "ja": "そ、それは……もちろん、今朝しっかりと……",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "2aa9f484",
+      "speaker": "男性",
+      "ja": "嘘をつくとは、貴族らしくないぞベス",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "417cda21",
+      "speaker": "",
+      "ja": "近づいてきた男性が、ベスに落としたペンを差し出しながら話しかけてきた。近くには、どこか似た雰囲気の女性が立っている。",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "5d3351bb",
+      "speaker": "ベス",
+      "ja": "えっ！？　……に、兄様！？　それに姉様も！？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "ce19de0d",
+      "speaker": "ベスの姉",
+      "ja": "見るからにフラフラしてたから、２人でベスに付いて来ていたのよ。大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "a0473cc4",
+      "speaker": "ベス",
+      "ja": "お、お忙しいのにそのような……申し訳有りません……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "e507f0db",
+      "speaker": "ルミナ",
+      "ja": "（……ベスさんの家族は初めて見たけど……なんだか、優しい雰囲気だ……ね）",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "2701b1be",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そうだな……あれだけベスが必死なんだから、厳しい家族なのかと思ってたけど）",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "3c2cd29b",
+      "speaker": "ベスの兄",
+      "ja": "時間なんて有り余ってるくらいだ。最近無理しすぎじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "349f174",
+      "speaker": "ベス",
+      "ja": "そ……それは……私は無理するくらいじゃないと、お兄様とお姉様に追いつけないので……",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "607ff70c",
+      "speaker": "ベスの姉",
+      "ja": "私達、別に競争なんてしてないのに……ごめんなさい、あなた達",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "fed9aae7",
+      "speaker": "コハル",
+      "ja": "は、はいっ！？",
+      "zh": ""
+    },
+    {
+      "key": "141.0",
+      "line_index": 141,
+      "inline_index": 0,
+      "line_hash": "200f73ed",
+      "speaker": "ベスの姉",
+      "ja": "先程の話、少しだけ聞いてしまったのだけれど……ベスを遊びに誘っていただいてたのよね？　よかったら、連れて行ってあげてくれる？",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "c9e9e0b8",
+      "speaker": "ベス",
+      "ja": "お姉様っ！？",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "ab0f0007",
+      "speaker": "ベスの兄",
+      "ja": "お前は休憩が必要だろ。体のって言うより……精神の",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "9f6c3f7c",
+      "speaker": "ベスの姉",
+      "ja": "最近鬼気迫りすぎて、このままじゃ家の空気も悪くなるわ。たまには力を抜いて来なさい",
+      "zh": ""
+    },
+    {
+      "key": "145.1",
+      "line_index": 145,
+      "inline_index": 1,
+      "line_hash": "30401d13",
+      "speaker": "ベス",
+      "ja": "そ、それは……そうかも知れませんが……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "5745e1c2",
+      "speaker": "{G_PlayerName}",
+      "ja": "決定だな。今日は諦めて、しっかり遊ぶんだぞ",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "48f39a44",
+      "speaker": "ベス",
+      "ja": "ぐ、ぐぬぬ……！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "8e65cff8",
+      "speaker": "ベスの姉",
+      "ja": "ごめんなさいね、すぐ無理する子だから、見ててあげて？",
+      "zh": ""
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "78fc8a8a",
+      "speaker": "ルミナ",
+      "ja": "はい……いつもお世話になってるので、少しでも返せるように頑張ります……",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "2a4fb1e",
+      "speaker": "コハル",
+      "ja": "このあたりにいるの？",
+      "zh": ""
+    },
+    {
+      "key": "167.0",
+      "line_index": 167,
+      "inline_index": 0,
+      "line_hash": "caea2dcb",
+      "speaker": "{G_PlayerName}",
+      "ja": "いつもなら、だけどな……本当に俺が世話になってる人でいいのか？",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "d9111a09",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くんがお世話になってるってことは……私達もお世話になってるから、ね……",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "784775da",
+      "speaker": "雫",
+      "ja": "実際、色々と手伝ってもらっていますからね。少しはあの方も休まれたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "171.0",
+      "line_index": 171,
+      "inline_index": 0,
+      "line_hash": "8b959f50",
+      "speaker": "？？？",
+      "ja": "あっ！　お兄ちゃん！　お姉ちゃんたちも！",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "960e2664",
+      "speaker": "スゥ",
+      "ja": "どうして来てるの？　スゥにもしかしてお願い事？",
+      "zh": ""
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "f7dc4174",
+      "speaker": "",
+      "ja": "スゥ。月と常闇の星で偶然、暗闇の中迷子になっていたところを見つけた。",
+      "zh": ""
+    },
+    {
+      "key": "188.0",
+      "line_index": 188,
+      "inline_index": 0,
+      "line_hash": "b2b2697d",
+      "speaker": "",
+      "ja": "以来、命の恩人だ、恩返しだと称して、隙あらばこちらの世話を焼こうとしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "fea3311a",
+      "speaker": "スゥ",
+      "ja": "どんなお願いでもいいよっ！　お兄ちゃんにはぜーんぜん、まだ返しても返しきれない恩があるんだからねっ！",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "6fdf8c74",
+      "speaker": "ルミナ",
+      "ja": "今日来た理由、なんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "198.0",
+      "line_index": 198,
+      "inline_index": 0,
+      "line_hash": "7cca4896",
+      "speaker": "{G_PlayerName}",
+      "ja": "（…………あっ）",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "6c42018",
+      "speaker": "{G_PlayerName}",
+      "ja": "実は、スゥには俺達の護衛を頼みたくてな……！",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "a077e172",
+      "speaker": "スゥ",
+      "ja": "ごえー？",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "d9e3e227",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう！　誰かの安全を守ったりする、護衛だ",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "b715bc4f",
+      "speaker": "ルミナ",
+      "ja": "（えっ……{G_PlayerName}、くん……？）",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "c07b8048",
+      "speaker": "{G_PlayerName}",
+      "ja": "（普通に遊びに誘ったら、また大きな恩が出来たとか言い出すだろ……？　その前に、これが恩返しになるってことにしておこう）",
+      "zh": ""
+    },
+    {
+      "key": "204.1",
+      "line_index": 204,
+      "inline_index": 1,
+      "line_hash": "70dccd73",
+      "speaker": "ルミナ",
+      "ja": "（そ……そう、かもね。わかった……）",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "26e697d2",
+      "speaker": "ルミナ",
+      "ja": "私達……お祭りがある星に行きたいんだけど、もしかしたら危険があるかも知れないから……スゥちゃんも来てくれたら、頼もしいな、って……",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "99be8b7b",
+      "speaker": "スゥ",
+      "ja": "もっちろーん！　行く行く！　お兄ちゃんもお姉ちゃんもみーんな、スゥが守ってあげるよー！",
+      "zh": ""
+    },
+    {
+      "key": "210.1",
+      "line_index": 210,
+      "inline_index": 1,
+      "line_hash": "993365aa",
+      "speaker": "雫",
+      "ja": "くっ……なんたる無邪気可愛いの権化……立っているのがやっとです",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "98665670",
+      "speaker": "ルミナ",
+      "ja": "それじゃあ、これで今回誘える人は誘ったから……出発、しようか……！",
+      "zh": ""
+    },
+    {
+      "key": "212.0",
+      "line_index": 212,
+      "inline_index": 0,
+      "line_hash": "a030cc7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おうっ！",
+      "zh": ""
+    }
+  ]
+}

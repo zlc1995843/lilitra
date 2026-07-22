@@ -1,0 +1,814 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "c82e773",
+      "speaker": "{G_PlayerName}",
+      "ja": "け……結婚って！？　あの結婚……で、合ってるのか？",
+      "zh": ""
+    },
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "1eac4463",
+      "speaker": "ブライダル",
+      "ja": "２人の人間が契約を交わし、今後の人生で支え合う事を誓う儀式です！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "b84db793",
+      "speaker": "コハル",
+      "ja": "だ、だいたい合ってそうね……え、結婚って、つまり、その……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "c375fa08",
+      "speaker": "ブライダル",
+      "ja": "はい、お二方はまさにピッタリなご夫婦かと！　ぜひ一度、結婚をしてみませんか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "452159f6",
+      "speaker": "コハル",
+      "ja": "そっ、そそそそそそんな！　あたし達にはまだ……早すぎるわよねっ！？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "584e3655",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうだそうだ！　第一なんでこんな場所でいきなり結婚をしなきゃ……",
+      "zh": ""
+    },
+    {
+      "key": "27.0",
+      "line_index": 27,
+      "inline_index": 0,
+      "line_hash": "e5229728",
+      "speaker": "{G_PlayerName}",
+      "ja": "（……今、まだって言ったか？）",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "5c3427b5",
+      "speaker": "ブライダル",
+      "ja": "お客様、結婚は良い物ですよ～？　お二方もそう思われるでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "31.0",
+      "line_index": 31,
+      "inline_index": 0,
+      "line_hash": "7b5f9a7d",
+      "speaker": "",
+      "ja": "お二方、というのが俺とコハルの事を言ってるのかと思ったが、ブライダルが後ろに視線を投げかける。",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "be7c51b2",
+      "speaker": "{G_PlayerName}",
+      "ja": "お二方……ってのは？",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "16a3f0ce",
+      "speaker": "リズ",
+      "ja": "まったく、何で俺まで……",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "728faaa6",
+      "speaker": "{G_PlayerName}",
+      "ja": "え、リズ？",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "3e95904a",
+      "speaker": "",
+      "ja": "リズ。傭兵をしているリリアンで、金次第で大抵の厄介事を引き受ける。",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "8d2e0cc9",
+      "speaker": "",
+      "ja": "どうやら普段の装いとは違うようだが……",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "e8405c6c",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんでここに？　……そんな格好で",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "9d094795",
+      "speaker": "リズ",
+      "ja": "このブライダルというやつの護衛を頼まれている。……護衛だけ、のはずだったのだがな……いつの間にやら、こんな格好にされた",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "1cb7801",
+      "speaker": "ブライダル",
+      "ja": "リズ様、とてもよくお似合いです～！",
+      "zh": ""
+    },
+    {
+      "key": "74.0",
+      "line_index": 74,
+      "inline_index": 0,
+      "line_hash": "e941eaf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "……確かに、押しが強そうなリリアンだな",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "a1ed243",
+      "speaker": "コハル",
+      "ja": "それで……もう１人は？",
+      "zh": ""
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "6339a107",
+      "speaker": "ブルーム",
+      "ja": "コソコソ……",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "24829fad",
+      "speaker": "",
+      "ja": "ブルーム。自称、悪魔のリリアン。",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "1d2a0367",
+      "speaker": "",
+      "ja": "契約が結ばれたせいで契約解除するまで離れられない、と言っているが真偽は定かではない。色々と謎の多いリリアン。",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "47a6c69e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……お前まで、なんでそんな格好してるんだ",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "dec21939",
+      "speaker": "ブルーム",
+      "ja": "ぶっ、ブルームは別に通りがかりで……！",
+      "zh": ""
+    },
+    {
+      "key": "114.0",
+      "line_index": 114,
+      "inline_index": 0,
+      "line_hash": "a3f62046",
+      "speaker": "{G_PlayerName}",
+      "ja": "その服着てそれは無いだろ……",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "c192b5e5",
+      "speaker": "ブライダル",
+      "ja": "ブルーム様は、結婚について深くご興味を持たれていましたので、是非ご一緒してくださいとお願いしました！",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "aa8a30d4",
+      "speaker": "コハル",
+      "ja": "そうなの？",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "e4fb0c82",
+      "speaker": "ブルーム",
+      "ja": "そ、それがぁ……け、契約について教えてくれるって言うから……",
+      "zh": ""
+    },
+    {
+      "key": "122.1",
+      "line_index": 122,
+      "inline_index": 1,
+      "line_hash": "368a5213",
+      "speaker": "ブライダル",
+      "ja": "はい、結婚は半永久的な契約ですからね！　知りたいことがあれば何でもお答えしますよ！",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "9500c4a2",
+      "speaker": "ブルーム",
+      "ja": "それよ！　そんな契約でも、リコンとかいうので解消できるって聞いて、気になって来たの！",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "71119c6f",
+      "speaker": "{G_PlayerName}",
+      "ja": "り……離婚を目当てに？",
+      "zh": ""
+    },
+    {
+      "key": "128.1",
+      "line_index": 128,
+      "inline_index": 1,
+      "line_hash": "2ab7a3bb",
+      "speaker": "ブルーム",
+      "ja": "凄いパワーを持った魔道具か何かだと思ったのっ！　なのに、とんだ期待外れで最悪っ！",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "825032a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（普通に話聞けば違うってわかっただろうに……）",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "aa56fdb8",
+      "speaker": "ブルーム",
+      "ja": "……クソ人間の分際で、ブルームの事そんな目で見てんじゃないわよ！　悪魔の恐ろしさ、教え込んでやるっ♥",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "40ea9365",
+      "speaker": "{G_PlayerName}",
+      "ja": "いてててて！　ほっぺ引っ張るな！　悪魔の恐ろしさがほっぺ引っ張ることでいいのか！？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "aa4cad57",
+      "speaker": "ルミナ",
+      "ja": "おは、よう……",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "9463b5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ルミナ！　ルミナも寝てたのか？",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "8af837eb",
+      "speaker": "コハル",
+      "ja": "あんたと一緒にしないの！　ルミナは朝早くからいたわよ！",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "fad6341b",
+      "speaker": "ルミナ",
+      "ja": "う、うん……ちょっと、今日は調子が悪くて……ごめんね、セールスの人を入れるの許可したのに、私が部屋に戻っちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "d356917f",
+      "speaker": "コハル",
+      "ja": "全然大丈夫よ！",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "1cb05774",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも、なんで許可したんだ？",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "28f529d5",
+      "speaker": "",
+      "ja": "まさか結婚するのか、と出てきそうになった言葉を飲み込む。ルミナが強引に俺に結婚を迫るような性格じゃないことはわかっているはずだ。",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "7b2e6826",
+      "speaker": "ルミナ",
+      "ja": "セールス、って……受けたこと無いから興味があって。あと、前のひな祭りで……結婚ってどんな結婚があるのか、聞いてみたいな……って……",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "e5cd469b",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど。まあ王女様ならセールス受けたことないのは当たり前か……",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "3c44f82",
+      "speaker": "コハル",
+      "ja": "でも、確かに！　宇宙の結婚って、どんな物があるのかは気になるかも！",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "957ce3b2",
+      "speaker": "ブライダル",
+      "ja": "ご興味ありますか！？　勿論、銀河全体のあらゆる婚儀をご案内させていただきますよ～！",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "6630722d",
+      "speaker": "コハル",
+      "ja": "ぎ、ぎんが……って、この宇宙の、すごーく広い範囲、だったわよね。どれだけの量になるのかしら……",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "6ab42b60",
+      "speaker": "ブライダル",
+      "ja": "失礼ですが……まずは皆様の星の結婚について、お伺いさせていただいてもよろしいですか？　参考にさせていただきたいので！",
+      "zh": ""
+    },
+    {
+      "key": "179.0",
+      "line_index": 179,
+      "inline_index": 0,
+      "line_hash": "602d4cd4",
+      "speaker": "{G_PlayerName}",
+      "ja": "結婚？　……そうだな……",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "b7731afb",
+      "speaker": "コハル",
+      "ja": "あたし達のところは別に普通……よね。愛し合ってる２人が、人を集めて広い場所で……神に祈りを捧げながら、愛を誓う？",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "e8e9fdc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあそんなもんだな。あとは美味いもんを食べるとか",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "f712f49f",
+      "speaker": "ブライダル",
+      "ja": "なるほど……！　宗教関係、衆人環視、大宴会……ボンゴドンゲ式に近いですね……",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "fb684c5e",
+      "speaker": "コハル",
+      "ja": "ぼ、ぼんご……？",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "8f49df75",
+      "speaker": "ブライダル",
+      "ja": "その食事というのは、花嫁の裸体の上にお料理を載せて、参加者全員で舐めたり……？",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "6f071daf",
+      "speaker": "{G_PlayerName}",
+      "ja": "しっ、しないしないしない！",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "f21f31e9",
+      "speaker": "コハル",
+      "ja": "するわけないでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "6720c5f",
+      "speaker": "ブライダル",
+      "ja": "であれば、そこはボンゴドンゲとは違いますね",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "940e4b73",
+      "speaker": "コハル",
+      "ja": "（するんだ……ボンゴドンゲ……）",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "25c8702",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナの星はどうなんだ？",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "69916932",
+      "speaker": "ルミナ",
+      "ja": "いろいろ、形式はあるけど……夫婦でゆっくり動く乗り物に乗って、街を一周したり……",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "cfc9e315",
+      "speaker": "ルミナ",
+      "ja": "お互いの記憶を機械で抽出して、良いところだけ大きくモニターに投影したり……？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "db222093",
+      "speaker": "コハル",
+      "ja": "な、なんか怖いことが聞こえた気もするけど。やっぱりよくわからない機械を使ったりするのね",
+      "zh": ""
+    },
+    {
+      "key": "207.0",
+      "line_index": 207,
+      "inline_index": 0,
+      "line_hash": "a0b6de43",
+      "speaker": "{G_PlayerName}",
+      "ja": "星によって、色んな結婚式がある物なんだなあ……",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "131a16b0",
+      "speaker": "ブライダル",
+      "ja": "と、言うことで！",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "62127151",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ、びっくりした",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "f70572e2",
+      "speaker": "ブライダル",
+      "ja": "失礼しました！　そこで私達は、皆様に新たな文化「宇宙婚」を推進したく参りました！",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "bbcb22ca",
+      "speaker": "コハル",
+      "ja": "宇宙、婚……？",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "b1317219",
+      "speaker": "ブライダル",
+      "ja": "ぜひ皆様に体験していただいて、ご感想をいただければな、と……！",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "7d07e500",
+      "speaker": "コハル",
+      "ja": "そ、それなんだけど……結婚とか、ちょっとそこのあたり複雑なのよ、あたし達……",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "7a6d0a64",
+      "speaker": "ブライダル",
+      "ja": "複雑、ですか？",
+      "zh": ""
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "d92127fd",
+      "speaker": "{G_PlayerName}",
+      "ja": "（覚えのない婚約者？　に命を助けられて、一旦婚約はナシってことになったけどそのあたり曖昧……って説明できないよな……）",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "659a2816",
+      "speaker": "ブライダル",
+      "ja": "何かご事情がおありでしたら仕方有りませんね！　ですが、フリであれば問題無いのではないでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "b4953739",
+      "speaker": "ブライダル",
+      "ja": "協力者お二方と、シミュレーションだけでもどうでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "e777c377",
+      "speaker": "コハル",
+      "ja": "協力者……って、リズとブルームか……",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "a5388b17",
+      "speaker": "{G_PlayerName}",
+      "ja": "ま、まあ……過激な事しないならアリか……？　フリなら……",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "b787da92",
+      "speaker": "ルミナ",
+      "ja": "……{G_PlayerName}くん、もしかして……ラッキーって、思ってたり……する……？",
+      "zh": ""
+    },
+    {
+      "key": "237.0",
+      "line_index": 237,
+      "inline_index": 0,
+      "line_hash": "cf4909b4",
+      "speaker": "{G_PlayerName}",
+      "ja": "し、してないしてない！　協力したほうがいいのかなってだけだ！",
+      "zh": ""
+    },
+    {
+      "key": "239.1",
+      "line_index": 239,
+      "inline_index": 1,
+      "line_hash": "128cfb6",
+      "speaker": "コハル",
+      "ja": "どーだか……{G_PlayerName}、スケベなこと考えるんじゃないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "241.1",
+      "line_index": 241,
+      "inline_index": 1,
+      "line_hash": "d774ae6b",
+      "speaker": "コハル",
+      "ja": "あっ！　……さっきの、ボ……ボゴ？　みたいな、エッチな結婚式だったらダメだからね！？",
+      "zh": ""
+    },
+    {
+      "key": "243.1",
+      "line_index": 243,
+      "inline_index": 1,
+      "line_hash": "d63cd0cb",
+      "speaker": "ブライダル",
+      "ja": "ご安心ください、無難な物をオススメいたします！　様々なプラン、お試しコースがございますから！",
+      "zh": ""
+    },
+    {
+      "key": "245.1",
+      "line_index": 245,
+      "inline_index": 1,
+      "line_hash": "964bc195",
+      "speaker": "ルミナ",
+      "ja": "どんなのがあるのか……とりあえず、見せてもらおう、か……",
+      "zh": ""
+    },
+    {
+      "key": "247.0",
+      "line_index": 247,
+      "inline_index": 0,
+      "line_hash": "3fa93d",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだな",
+      "zh": ""
+    },
+    {
+      "key": "258.1",
+      "line_index": 258,
+      "inline_index": 1,
+      "line_hash": "e71c0e51",
+      "speaker": "雫",
+      "ja": "男……！　またもやルミナ様の身を狙うとは……！！",
+      "zh": ""
+    },
+    {
+      "key": "271.0",
+      "line_index": 271,
+      "inline_index": 0,
+      "line_hash": "9dc8a939",
+      "speaker": "",
+      "ja": "喉元に冷たい感触が襲う。……見てみると、雫の持つ刃物が首筋に軽くめり込んでいた。",
+      "zh": ""
+    },
+    {
+      "key": "277.1",
+      "line_index": 277,
+      "inline_index": 1,
+      "line_hash": "12c7ee78",
+      "speaker": "雫",
+      "ja": "もはやこの命……奪うしか……！",
+      "zh": ""
+    },
+    {
+      "key": "280.0",
+      "line_index": 280,
+      "inline_index": 0,
+      "line_hash": "1d7912aa",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぎゃーーーーーっ！？",
+      "zh": ""
+    },
+    {
+      "key": "282.1",
+      "line_index": 282,
+      "inline_index": 1,
+      "line_hash": "2a1a50d2",
+      "speaker": "ブライダル",
+      "ja": "おっ、お客様！？　乱暴はおやめに……！",
+      "zh": ""
+    },
+    {
+      "key": "284.1",
+      "line_index": 284,
+      "inline_index": 1,
+      "line_hash": "402313a5",
+      "speaker": "雫",
+      "ja": "ヤられるまえにヤるしかございませんっ！！",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "20398f0a",
+      "speaker": "ブライダル",
+      "ja": "（なんだかどのお客様も一癖二癖ございますね……）",
+      "zh": ""
+    },
+    {
+      "key": "288.1",
+      "line_index": 288,
+      "inline_index": 1,
+      "line_hash": "25b5594a",
+      "speaker": "ブライダル",
+      "ja": "（複雑な事情もあるらしいですし、もしかしてセールス先、間違えちゃいました？）",
+      "zh": ""
+    }
+  ]
+}

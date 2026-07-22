@@ -726,9 +726,13 @@ def replace_display_names(data: Dict[str, Any], name_glossary: Dict[str, str]) -
     # fade, voice and pose binding; write only Speaker as a display-name
     # override for the dialogue nameplate.
     author = nullable_text_value(data.get("AuthorId"))
-    replacement = name_glossary.get(author) if author else None
     speaker_node = data.get("Speaker")
-    if not replacement or not isinstance(speaker_node, dict):
+    if not isinstance(speaker_node, dict):
+        return 0
+    explicit_speaker = nullable_text_value(speaker_node)
+    display_name = explicit_speaker or author
+    replacement = name_glossary.get(display_name) if display_name else None
+    if not replacement:
         return 0
     if speaker_node.get("value") == replacement and speaker_node.get("hasValue"):
         return 0

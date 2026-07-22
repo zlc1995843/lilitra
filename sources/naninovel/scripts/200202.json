@@ -1,0 +1,337 @@
+{
+  "lines": [
+    {
+      "key": "13.1",
+      "line_index": 13,
+      "inline_index": 1,
+      "line_hash": "d60a7bf",
+      "speaker": "コハル",
+      "ja": "たあっ！",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "cd3e6352",
+      "speaker": "雫",
+      "ja": "はっ……！",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "97a8f400",
+      "speaker": "魔獣",
+      "ja": "グオオオオッ！",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "897b6344",
+      "speaker": "コハル",
+      "ja": "ああもう、なんて分厚い毛皮……！　魔法が通らないじゃない！",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "1c4a8746",
+      "speaker": "雫",
+      "ja": "刃も同様ですね……ルミナ様、お願いいたします！",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "76d8ce33",
+      "speaker": "ルミナ",
+      "ja": "うん……！　撃てる、よ……！",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "2f69db13",
+      "speaker": "魔獣",
+      "ja": "グアアァアッ！",
+      "zh": ""
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "2f119254",
+      "speaker": "ルミナ",
+      "ja": "えいっ……！",
+      "zh": ""
+    },
+    {
+      "key": "88.0",
+      "line_index": 88,
+      "inline_index": 0,
+      "line_hash": "abb1d814",
+      "speaker": "",
+      "ja": "ルミナがかざした手から光線が走る。光線は魔獣の体を貫き、魔獣は地に倒れ伏した。",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "5a8ad70e",
+      "speaker": "ルミナ",
+      "ja": "たおせ……た？",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "5a7decd0",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ、大丈夫か！？",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "dbe3b1dd",
+      "speaker": "コハル",
+      "ja": "危なかったわね……ケガはない？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "86a11d36",
+      "speaker": "雫",
+      "ja": "ルミナ様、わたくし達だけでは力が及ばず申し訳ございません……",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "356632f3",
+      "speaker": "ルミナ",
+      "ja": "ううん、そんなこと……",
+      "zh": ""
+    },
+    {
+      "key": "121.1",
+      "line_index": 121,
+      "inline_index": 1,
+      "line_hash": "942646e4",
+      "speaker": "ルミナ",
+      "ja": "あっ……！",
+      "zh": ""
+    },
+    {
+      "key": "123.0",
+      "line_index": 123,
+      "inline_index": 0,
+      "line_hash": "c19682a6",
+      "speaker": "",
+      "ja": "倒したと思った魔獣がゆっくりと起き上がり、巨体で再びこちらに影を落とす。",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "dabbd5f",
+      "speaker": "コハル",
+      "ja": "{G_PlayerName}、後ろに……！",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "505db9c2",
+      "speaker": "コハル",
+      "ja": "……あれ？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "57e46a1f",
+      "speaker": "",
+      "ja": "魔獣はノソノソと歩き出し、こちらに背を向けて去っていった。",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "5b09099e",
+      "speaker": "雫",
+      "ja": "……敵わないと見て、逃げたのでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "b0fa36a7",
+      "speaker": "ルミナ",
+      "ja": "なんだか、寂しそうな顔に見えたけど……",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "505db9c2",
+      "speaker": "コハル",
+      "ja": "……あれ？",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "a1cc25ae",
+      "speaker": "コハル",
+      "ja": "見て！　あの魔獣が倒れてたところ、いっぱい物が落ちてる！",
+      "zh": ""
+    },
+    {
+      "key": "149.0",
+      "line_index": 149,
+      "inline_index": 0,
+      "line_hash": "4b325302",
+      "speaker": "",
+      "ja": "見てみると、確かにコハルの言う通り鉱石のような物や、使えそうな物がいっぱい落ちていた。",
+      "zh": ""
+    },
+    {
+      "key": "151.0",
+      "line_index": 151,
+      "inline_index": 0,
+      "line_hash": "397fce93",
+      "speaker": "{G_PlayerName}",
+      "ja": "あの魔獣が落としていったのか……？",
+      "zh": ""
+    },
+    {
+      "key": "153.1",
+      "line_index": 153,
+      "inline_index": 1,
+      "line_hash": "b834266f",
+      "speaker": "ルミナ",
+      "ja": "もしかして、見逃してもらう代わり、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "ea4d0f40",
+      "speaker": "コハル",
+      "ja": "まさか、そんな……",
+      "zh": ""
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "725797a3",
+      "speaker": "アポロ",
+      "ja": "そうとは限りませんよ",
+      "zh": ""
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "4718c4a7",
+      "speaker": "{G_PlayerName}",
+      "ja": "わっ！　びっくりした！　お前、外にも出て来れるのか！",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "fca6bec1",
+      "speaker": "アポロ",
+      "ja": "宇宙船付近だけですが。……あの魔獣は知能が高いようですので、敗者として対価を支払った可能性もあります",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "55afe9d9",
+      "speaker": "ルミナ",
+      "ja": "対価……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "fe4ee9e3",
+      "speaker": "コハル",
+      "ja": "そんなに頭良い動物、いるの？",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "9ba38c83",
+      "speaker": "アポロ",
+      "ja": "ええ。……勝負を仕掛け、自らの力を証明しようとする動物もいるほどです。あの魔獣もその類だったのでは？",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "b1f89e21",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのかあ……？",
+      "zh": ""
+    },
+    {
+      "key": "177.0",
+      "line_index": 177,
+      "inline_index": 0,
+      "line_hash": "3ae184",
+      "speaker": "",
+      "ja": "殺された魔獣にそっくりなこともあり、恐怖を感じていたが……そう言われると、どこか憎みきれない存在のような気もしてくる。",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "a4a5cd32",
+      "speaker": "ルミナ",
+      "ja": "ひとまずは……少し休憩したら、物資集めに戻ろうか……",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "b2b7d669",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そうだな！",
+      "zh": ""
+    }
+  ]
+}

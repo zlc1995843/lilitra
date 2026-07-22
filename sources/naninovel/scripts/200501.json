@@ -1,0 +1,607 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "522e3b96",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ううん",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "e0d0a049",
+      "speaker": "",
+      "ja": "ラウンジの机の上で、機械を組み立てる。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "fb4c08a4",
+      "speaker": "",
+      "ja": "と言っても、今作っているのは銃に使うグリップ部分で、正確に言えば機械ではない。",
+      "zh": ""
+    },
+    {
+      "key": "15.0",
+      "line_index": 15,
+      "inline_index": 0,
+      "line_hash": "7683683d",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当はもっと、部品の調整だけじゃなくて試射もしたいんだけどな……）",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "2ca4abf6",
+      "speaker": "{G_PlayerName}",
+      "ja": "アポロ、いるか？",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "9645eefb",
+      "speaker": "アポロ",
+      "ja": "どうかしましたか？",
+      "zh": ""
+    },
+    {
+      "key": "26.0",
+      "line_index": 26,
+      "inline_index": 0,
+      "line_hash": "512e0ef3",
+      "speaker": "{G_PlayerName}",
+      "ja": "前言ってた、俺たちの住んでた星の環境を……なんだ。再現した部屋ってのはまだ出来てないのか？",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "f039b4ee",
+      "speaker": "アポロ",
+      "ja": "しばらくは難しいでしょう。環境の再現は多大なコストがかかりますから",
+      "zh": ""
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "da667303",
+      "speaker": "{G_PlayerName}",
+      "ja": "ちぇっ、ケチ臭いなあ",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "653f1473",
+      "speaker": "",
+      "ja": "悪態はついてみたものの、まあ当然だろうなとも思う。俺の作る機械だけのために、かける労力も時間も無いだろう。",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "eeae97fe",
+      "speaker": "アポロ",
+      "ja": "むしろ、こちらの環境に合わせてはどうですか？　今後の戦闘は宇宙空間や、未開の惑星が多いでしょう。宇宙船内での戦いも備えたほうがよいかと",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "56934ee5",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほどな……それじゃあ、この船の中でも使える銃を……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "faa5f4b1",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おい、騙されないぞ。１、２年が短くないとはいえ、どう考えても帰ってから使える機械を開発したほうがいいだろ",
+      "zh": ""
+    },
+    {
+      "key": "40.1",
+      "line_index": 40,
+      "inline_index": 1,
+      "line_hash": "6f680dde",
+      "speaker": "アポロ",
+      "ja": "騙そうとしたつもりはありませんが……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "1dd8324e",
+      "speaker": "コハル",
+      "ja": "……あれ？　ラウンジで何やってんの？",
+      "zh": ""
+    },
+    {
+      "key": "51.0",
+      "line_index": 51,
+      "inline_index": 0,
+      "line_hash": "d20c56da",
+      "speaker": "{G_PlayerName}",
+      "ja": "何って、機械作りだよ。いつも通りだろ？",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "1e339e71",
+      "speaker": "コハル",
+      "ja": "いつもなら部屋で作ってるじゃない。なんでここで？",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "a499d7ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "部屋だと居心地が良すぎて眠くなるから、たまにはラウンジでやろうと思ってな。割と集中続くぞ",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "8025be47",
+      "speaker": "コハル",
+      "ja": "はあ……あたしと違って、あんたは随分宇宙船に慣れたのね",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "c0f1857",
+      "speaker": "{G_PlayerName}",
+      "ja": "……機械の画面見ないでジュース淹れてるやつに言われてもな",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "caff2f0b",
+      "speaker": "コハル",
+      "ja": "なになに！？",
+      "zh": ""
+    },
+    {
+      "key": "76.1",
+      "line_index": 76,
+      "inline_index": 1,
+      "line_hash": "7c333d42",
+      "speaker": "アポロ",
+      "ja": "これは……すぐに椅子に着席してください",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "7946289",
+      "speaker": "コハル",
+      "ja": "何があったの？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "6d819b37",
+      "speaker": "アポロ",
+      "ja": "ワームホールです",
+      "zh": ""
+    },
+    {
+      "key": "82.0",
+      "line_index": 82,
+      "inline_index": 0,
+      "line_hash": "aca068c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "ワー……？　それって……？",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "dc803f09",
+      "speaker": "ルミナ",
+      "ja": "２人とも、大丈夫……？",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "afcfa301",
+      "speaker": "{G_PlayerName}",
+      "ja": "ルミナ。ああ、大丈夫。特にまだ何も起きてない",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "c1e22a2c",
+      "speaker": "コハル",
+      "ja": "ワームホールって……言うのが出たの？　モンスター？",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "4143f54c",
+      "speaker": "ルミナ",
+      "ja": "ワームホールって、いうのは……えっと……宇宙にある、不思議な穴、だよ……",
+      "zh": ""
+    },
+    {
+      "key": "98.0",
+      "line_index": 98,
+      "inline_index": 0,
+      "line_hash": "921222c5",
+      "speaker": "{G_PlayerName}",
+      "ja": "不思議な……ってことは、まだよくわかってない現象なのか？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "b0b76dea",
+      "speaker": "ルミナ",
+      "ja": "うん……星の爆発とか……凄いエネルギーが原因で、どこかと、どこかが繋がるとか……色々言われてるの",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "5c27319a",
+      "speaker": "コハル",
+      "ja": "へえ……宇宙って、色々あるのね",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "e547e08c",
+      "speaker": "アポロ",
+      "ja": "急遽発生する物で回避は難しい事が多いですが、ワタシは完全完璧最高性能の機体のため紙一重での回避が可能で……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "d4425873",
+      "speaker": "コハル",
+      "ja": "わかったから！　……座ってるだけでいいの？",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "b00cac99",
+      "speaker": "アポロ",
+      "ja": "はい。ただ、近くを通ることは避けられないため揺れなどが発生します。１０秒後、通過します。お気をつけください",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "e5e9df84",
+      "speaker": "{G_PlayerName}",
+      "ja": "揺れ……など？",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "47049fd1",
+      "speaker": "{G_PlayerName}",
+      "ja": "うわっ！",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "d59a5a9a",
+      "speaker": "",
+      "ja": "宇宙船の揺れ……というだけでは説明できない不快感が一瞬襲う。……まるで、自分の中の血液だけが引っ張られたような感覚だった。",
+      "zh": ""
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "eabe0cc8",
+      "speaker": "{G_PlayerName}",
+      "ja": "……ちょっと気持ち悪かったな。大丈夫か？",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "59809afe",
+      "speaker": "コハル",
+      "ja": "う、うん……多分",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "5f8eb2dc",
+      "speaker": "{G_PlayerName}",
+      "ja": "それならよかっ……ああっ！？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "e61b587c",
+      "speaker": "コハル",
+      "ja": "どうしたの！？",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "b284c7c",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、俺が作ってた機械の部品が……なんじゃこりゃ！",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "3483517f",
+      "speaker": "",
+      "ja": "バラバラに置いてあった部品の一部が、まるでパズルのように組み立てられている。",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "b7d550f0",
+      "speaker": "",
+      "ja": "組み立てられていると言っても、不規則で無作為……まるで磁石に吸い寄せられたかのようにくっついていた。",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "d12ce8a5",
+      "speaker": "コハル",
+      "ja": "え、なにこれ……あんたが作ったわけじゃないの？",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "a3c24a28",
+      "speaker": "{G_PlayerName}",
+      "ja": "こんなことするかっ！",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "afd9225f",
+      "speaker": "雫",
+      "ja": "これもワームホールの影響ですね",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "d8004215",
+      "speaker": "コハル",
+      "ja": "あ、雫。ワームホールの……？　どんな影響なの、これ",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "3223746c",
+      "speaker": "雫",
+      "ja": "因果律の歪み、と呼ばれています。可能性事象の遊びと呼ぶ科学者もいましたね",
+      "zh": ""
+    },
+    {
+      "key": "160.0",
+      "line_index": 160,
+      "inline_index": 0,
+      "line_hash": "71fa671",
+      "speaker": "{G_PlayerName}",
+      "ja": "い、いんが……？",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "e9b1c757",
+      "speaker": "雫",
+      "ja": "パラレルワールドなどで発生している現象の一部がこちらの世界に少し影響する、と言われています……が、定かではありません",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "35950b4",
+      "speaker": "雫",
+      "ja": "まあワームホール、という物自体説明が出来ない事象の総称のようなものでもありますから。その中の１つですね",
+      "zh": ""
+    },
+    {
+      "key": "166.1",
+      "line_index": 166,
+      "inline_index": 1,
+      "line_hash": "96931a58",
+      "speaker": "コハル",
+      "ja": "そ……それって、宇宙船バラバラになったりしないの！？　宇宙船の中身がぐちゃぐちゃになっちゃったり！",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "65126267",
+      "speaker": "雫",
+      "ja": "致命的な物は発生しない……しないと信じましょう",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "bf80441e",
+      "speaker": "{G_PlayerName}",
+      "ja": "……とりあえず、今は心配無さそうなんだな？　……はあ、部品バラすの面倒だな……",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "616b8e5",
+      "speaker": "ルミナ",
+      "ja": "一応、何か起きてないか、確認してみたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "ba01a369",
+      "speaker": "コハル",
+      "ja": "そうね、今は大丈夫そうだけど何が起こったかわからないし……",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "55448045",
+      "speaker": "コレット",
+      "ja": "なんじゃ、騒がしいのう。開店準備中か？",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "5716427c",
+      "speaker": "アロエ",
+      "ja": "変わった店内ですね～、変なもの食べさせられないといいですけど",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "2d34eced",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "199.0",
+      "line_index": 199,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "5e6943d5",
+      "speaker": "コハル",
+      "ja": "誰！？",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "49d38005",
+      "speaker": "リルム",
+      "ja": "誰って失礼だな～！　あ、見て！　窓の外すごく綺麗～！　魔法で映像流してるのかな？",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "dd642f74",
+      "speaker": "コレット",
+      "ja": "……誰じゃ！？",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "e6d5ce18",
+      "speaker": "リルム",
+      "ja": "ええーっ！？　皆まで、何！？",
+      "zh": ""
+    },
+    {
+      "key": "223.0",
+      "line_index": 223,
+      "inline_index": 0,
+      "line_hash": "276a447b",
+      "speaker": "{G_PlayerName}",
+      "ja": "な、なんだこれ……",
+      "zh": ""
+    }
+  ]
+}

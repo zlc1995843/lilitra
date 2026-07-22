@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "3561c918",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "7285dc6d",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "46.1",
+      "line_index": 46,
+      "inline_index": 1,
+      "line_hash": "78959366",
+      "speaker": "コハル",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "9d1ca5dc",
+      "speaker": "トーリ",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "56.0",
+      "line_index": 56,
+      "inline_index": 0,
+      "line_hash": "a2b28761",
+      "speaker": "{G_PlayerName}",
+      "ja": "………………",
+      "zh": "………………"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "6da6c54",
+      "speaker": "トーリ",
+      "ja": "カーーーーッ！！",
+      "zh": "嘎啊啊啊——！！"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "452f8690",
+      "speaker": "コハル",
+      "ja": "きゃーーーっ！？",
+      "zh": "呀——！！？"
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "b1a63c5d",
+      "speaker": "{G_PlayerName}",
+      "ja": "どあーーーっ！！",
+      "zh": "哇啊啊啊——！！"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "629086f6",
+      "speaker": "トーリ",
+      "ja": "たるんどるのう、体が揺れておる！　煩悩が残っている証拠じゃぞ！",
+      "zh": "身子都晃悠着呢！分明就是杂念没除干净啊！"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "1f956c17",
+      "speaker": "{G_PlayerName}",
+      "ja": "いたたた……こんな座り方するのも初めてなんだから、揺れるのは仕方ないだろ……",
+      "zh": "疼疼疼……这种坐法我还是头一回，晃一下在所难免嘛……"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "e29e8dd0",
+      "speaker": "コハル",
+      "ja": "こ、これって本当にお祭りに必要なのー！？",
+      "zh": "这、这东西真的跟祭典有关系吗！？"
+    },
+    {
+      "key": "84.1",
+      "line_index": 84,
+      "inline_index": 1,
+      "line_hash": "c3e31cde",
+      "speaker": "トーリ",
+      "ja": "当然じゃ！　まずはひな祭りという儀式に敬意を払い、心身ともに清めるのじゃ！",
+      "zh": "那当然！首先得对雏祭典这个仪式心怀敬意，把身心都涤荡干净才行！"
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "121ab575",
+      "speaker": "コハル",
+      "ja": "ひな祭りって儀式だったの……？",
+      "zh": "雏祭典……原来是种仪式吗？"
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "c229e606",
+      "speaker": "トーリ",
+      "ja": "雑念の一切を払い、全身全霊でひな祭りへと臨むのじゃ！",
+      "zh": "摒弃一切杂念，全身心投入雏祭典！"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "4c1d986b",
+      "speaker": "ルミナ",
+      "ja": "えっと……私も、体、揺れてたと思う、けど……",
+      "zh": "嗯……我感觉身体也在晃，不过……"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "b2f174e6",
+      "speaker": "トーリ",
+      "ja": "体が弱いのじゃろう？　であれば多少は問題無しじゃ",
+      "zh": "你身子骨弱吧？那样的话问题不大。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "6459244b",
+      "speaker": "{G_PlayerName}",
+      "ja": "雫は？",
+      "zh": "雫呢？"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "6b6b1cd2",
+      "speaker": "トーリ",
+      "ja": "従者の者は微塵も体を動かしておらんかったからのう。煩悩無き清き心を持っておる",
+      "zh": "那个随从可是一丝都没晃呢。内心澄澈，毫无杂念。"
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "901acdf3",
+      "speaker": "雫",
+      "ja": "あなたのような煩悩まみれの凡俗とは違うのですよ",
+      "zh": "我可不像您，浑身都是世俗杂念。"
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "35fa88e",
+      "speaker": "{G_PlayerName}",
+      "ja": "（くっ……！　むしろ一番煩悩が多いくせに……！）",
+      "zh": "（可恶……！明明这家伙才是杂念最多的！）"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "8e8cc6ef",
+      "speaker": "トーリ",
+      "ja": "ふむ、まあ精神はこのくらいでいいじゃろう。次は禊じゃ",
+      "zh": "嗯，精神层面这样就够了。接下来是净身仪式。"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "7d3a46de",
+      "speaker": "ルミナ",
+      "ja": "ミソギ……？",
+      "zh": "净身……？"
+    },
+    {
+      "key": "130.0",
+      "line_index": 130,
+      "inline_index": 0,
+      "line_hash": "e2b199e0",
+      "speaker": "{G_PlayerName}",
+      "ja": "つ・つ・つ・つめたいぃいいぃぃ……！",
+      "zh": "冰、冰、冰、冰凉凉咿咿咿……！"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "6fd6de8b",
+      "speaker": "トーリ",
+      "ja": "なんじゃ、根性が無いのう",
+      "zh": "怎么，这点苦都吃不了？"
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "4c8d0e1a",
+      "speaker": "{G_PlayerName}",
+      "ja": "こ、こ、こ、これ本当に必要なのか……！？　み、み、水風呂、なんてぇ……！　しかも氷まで浮かせて！",
+      "zh": "这、这、这真的有必要吗……！？凉、凉、凉水澡也就算了……！居然还放了冰块！"
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "f673529e",
+      "speaker": "トーリ",
+      "ja": "当然じゃっ！　念入りに体の穢れを落とさんとな！",
+      "zh": "当然要！得仔仔细细洗掉身上的污秽！"
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "1a00e0e4",
+      "speaker": "トーリ",
+      "ja": "……そういえば、リリアンの体を基準に考えておったな。普通の人間もコレくらい大丈夫かのう？",
+      "zh": "……话说回来，我是按莉安的身体标准来想的。普通人类受不受得住啊？"
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "cf444774",
+      "speaker": "{G_PlayerName}",
+      "ja": "大丈夫なわけあるかっ！",
+      "zh": "怎么可能受得住啊！"
+    },
+    {
+      "key": "149.1",
+      "line_index": 149,
+      "inline_index": 1,
+      "line_hash": "e33c8f0a",
+      "speaker": "トーリ",
+      "ja": "仕方ない、この程度で勘弁してやるか",
+      "zh": "没办法，这点程度就饶了你吧。"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "45c43bc5",
+      "speaker": "トーリ",
+      "ja": "次は両腕をピンと張り、膝を９０度に曲げ腰を落とし、腕の上に水を張った椀を……",
+      "zh": "接下来，双臂绷直，膝盖弯到90度，腰往下沉，把装满水的桶放在手臂上……"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "f47e1a99",
+      "speaker": "{G_PlayerName}",
+      "ja": "いい加減にしてくれっ！",
+      "zh": "你饶了我吧！"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "3c18ea97",
+      "speaker": "コハル",
+      "ja": "た、確かにそろそろ……もういいわ。いくら祭って言っても、ねぇ？",
+      "zh": "确实差不多了……行了吧。就算说是祭典，也太过分了吧？"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "9668c1e0",
+      "speaker": "トーリ",
+      "ja": "むう、ここからが本番なのじゃがな……修行の",
+      "zh": "唔，好戏才刚刚开始呢……修行方面的。"
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "2a1dbf94",
+      "speaker": "コハル",
+      "ja": "修行って何よ！",
+      "zh": "修行又是什么鬼！"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "23869389",
+      "speaker": "ルミナ",
+      "ja": "その……初心者向けの、ところだけ出来ない、かな……私達には、ちょっと……難しいかも……",
+      "zh": "那个……只挑新手向的部分，行不行啊……对我们来说，可能有点难……"
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "ae803ee6",
+      "speaker": "トーリ",
+      "ja": "ふむ……確かに長い時間が経ち、ひな祭りという物も変化が必要じゃろうなあ……",
+      "zh": "唔……的确时代久远，雏祭典也需要与时俱进了吧……"
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "86afb66f",
+      "speaker": "{G_PlayerName}",
+      "ja": "変化っていうか……本当にこれ、ひな祭りなのか？　祭り感全然無いが……",
+      "zh": "变不变化的另说……这真的是雏祭典？一点祭典的氛围都没有啊……"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "35cb4626",
+      "speaker": "トーリ",
+      "ja": "何を言うか、この苦難を乗り越えた男女がエムヴイピィとなり、ひな祭りのお雛様とお内裏様となるのじゃ。祭りらしかろう？",
+      "zh": "说什么呢，能跨过这道难关的男女就是当天的MVP，会成为雏祭典的雏偶和宫偶，这不是很有祭典的意味吗？"
+    },
+    {
+      "key": "187.0",
+      "line_index": 187,
+      "inline_index": 0,
+      "line_hash": "5144c94f",
+      "speaker": "{G_PlayerName}",
+      "ja": "そう……か……？",
+      "zh": "算是……吧……？"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "11c9c77b",
+      "speaker": "トーリ",
+      "ja": "まあ今回は予定を変更したほうがよいか。苦難を強要するわけにはいかんな。一見さんを逃さぬのが広報において最も重要なことじゃ",
+      "zh": "好吧，这次还是调整一下吧。硬要大家吃这么多苦头也不合适。留住初次来的客人才是宣传的重点。"
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "128cd66c",
+      "speaker": "トーリ",
+      "ja": "では工程をスキップして、次の催しにゆくぞ！",
+      "zh": "那就跳过这些步骤，直接进入下一个环节！"
+    },
+    {
+      "key": "193.0",
+      "line_index": 193,
+      "inline_index": 0,
+      "line_hash": "2d9cfa93",
+      "speaker": "{G_PlayerName}",
+      "ja": "ようやく祭りらしいことが出来るのか……",
+      "zh": "终于能干点像祭典的事了……"
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "d1c5cad8",
+      "speaker": "雫",
+      "ja": "（そう上手く行きますかね……）",
+      "zh": "（真能那么顺利吗……）"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "lines": [
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "30559ea5",
+      "speaker": "アイディル",
+      "ja": "どわーっ！　ぎゃーっ！！",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "c81b89d4",
+      "speaker": "マロウ",
+      "ja": "あんなふざけた見た目してるクセに、どえらい武装ッス～！",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "c1f47f2f",
+      "speaker": "モル",
+      "ja": "……回避も、そろそろ、限界が……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "cb33d55",
+      "speaker": "トーリ",
+      "ja": "ふはは！　桃姫戦艦の力、思い知ったか賊どもー！",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "42067ccf",
+      "speaker": "コハル",
+      "ja": "す、凄いわね……！　どんな敵が来ても勝てるんじゃない！？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "7f2273ff",
+      "speaker": "トーリ",
+      "ja": "ふふ、当然じゃ！　最新鋭のレーザー兵器は当然、自律支援が可能な小型航行機も備えておる！　生半可な相手には遅れを取らん！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "4152e987",
+      "speaker": "雫",
+      "ja": "それは素晴らしいですが、ところで……敵は一体どのような？",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "ce4a3f77",
+      "speaker": "アポロ",
+      "ja": "つい今しがた、カメラに捉えました。……モニターに写します",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "38b62ae4",
+      "speaker": "コハル",
+      "ja": "……これって",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "b540374c",
+      "speaker": "コハル",
+      "ja": "あいつらじゃないの！　……えーっと",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "d4dbc043",
+      "speaker": "雫",
+      "ja": "なんという名前だったか……見る知る鑑定団、のような",
+      "zh": ""
+    },
+    {
+      "key": "92.0",
+      "line_index": 92,
+      "inline_index": 0,
+      "line_hash": "8b9611ea",
+      "speaker": "{G_PlayerName}",
+      "ja": "違うことだけはわかるが……",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "760148b",
+      "speaker": "コハル",
+      "ja": "アイディル宇宙海賊団！",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "a203b2f7",
+      "speaker": "{G_PlayerName}",
+      "ja": "それだ！",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "b4364965",
+      "speaker": "コハル",
+      "ja": "とか言ってる場合じゃないわよ！　ど……どうする？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "fc25b84e",
+      "speaker": "トーリ",
+      "ja": "どうするじゃと？　当然、このまま宇宙の藻屑と化して……！",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "5b3ab0",
+      "speaker": "コハル",
+      "ja": "す、ストップストップー！　一応……知り合い？　なのよっ！",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "9c278410",
+      "speaker": "トーリ",
+      "ja": "あん？　なんじゃと？",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "4215dcb",
+      "speaker": "{G_PlayerName}",
+      "ja": "正直助けたほうがいいのかビミョーだけどな……",
+      "zh": ""
+    },
+    {
+      "key": "115.1",
+      "line_index": 115,
+      "inline_index": 1,
+      "line_hash": "2447593",
+      "speaker": "ルミナ",
+      "ja": "可哀想……だよ……危ないなら、仕方ないけど……余裕があるなら……助けてあげたほうが……",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "f34b4310",
+      "speaker": "コハル",
+      "ja": "そうよ、少なくとも死んじゃったら後味悪いわ！　……なんとかできそう？",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "2fff786f",
+      "speaker": "トーリ",
+      "ja": "生け捕りということじゃな？　まあ、多分できそうじゃが……",
+      "zh": ""
+    },
+    {
+      "key": "132.0",
+      "line_index": 132,
+      "inline_index": 0,
+      "line_hash": "80b20c55",
+      "speaker": "",
+      "ja": "数分後……",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "ab6c5841",
+      "speaker": "マロウ",
+      "ja": "ばたんきゅー……っす",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "d13394d0",
+      "speaker": "アイディル",
+      "ja": "チクショー！　罠だったの！？",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "d6cf73d8",
+      "speaker": "{G_PlayerName}",
+      "ja": "罠って、人聞き悪いな……",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "bee36b56",
+      "speaker": "アイディル",
+      "ja": "人が助けに……じゃなかった、横から獲物をかっさらおうとしたってのに！　罠じゃなきゃなんなのよ！",
+      "zh": ""
+    },
+    {
+      "key": "157.1",
+      "line_index": 157,
+      "inline_index": 1,
+      "line_hash": "97adc20c",
+      "speaker": "トーリ",
+      "ja": "何を勘違いしておるかわからんが、わらわは元々この船を襲ってはおらんぞ",
+      "zh": ""
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "aa242e6f",
+      "speaker": "アイディル",
+      "ja": "なっ……紛らわしいことするんじゃないわよ！",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "23491beb",
+      "speaker": "トーリ",
+      "ja": "それはこっちのセリフじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "163.0",
+      "line_index": 163,
+      "inline_index": 0,
+      "line_hash": "b3407f8f",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前らって本当……",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "35dc37a3",
+      "speaker": "アイディル",
+      "ja": "何よその哀れみの目はーッ！",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "ed2f3c9b",
+      "speaker": "マロウ",
+      "ja": "……でも、襲ってないなら何が目的だったんッスか？",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "893b9807",
+      "speaker": "トーリ",
+      "ja": "ふん、賊には勿体ない知識じゃが教えてやろう！　わらわは……",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "2a3ab67d",
+      "speaker": "アイディル",
+      "ja": "はー！　くっだらないねぇ～！",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "1a19bc03",
+      "speaker": "トーリ",
+      "ja": "なんじゃと！？",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "11a79ea0",
+      "speaker": "アイディル",
+      "ja": "なーにが健康な成長よ！　そんなもん無くたって、アタシは今まで十分健康に育ってきたわ！",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "4fab3f45",
+      "speaker": "",
+      "ja": "ぐううううう、と大きな音がアイディルの腹から鳴った。と同時に、モル、マロウの腹も鳴る。",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "cf28033",
+      "speaker": "トーリ",
+      "ja": "その割に随分と不健康そうな音じゃが",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "cfe33d38",
+      "speaker": "アイディル",
+      "ja": "悪かったねぇ！　宇宙は不況なんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "7157a513",
+      "speaker": "トーリ",
+      "ja": "ひな祭りを学びたいと言うなら、祭りの食べ物を分けてやっても構わんが",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "96de4e10",
+      "speaker": "アイディル",
+      "ja": "あ……お願いしまーす……生意気言ってすみませーん",
+      "zh": ""
+    },
+    {
+      "key": "201.1",
+      "line_index": 201,
+      "inline_index": 1,
+      "line_hash": "e3e9f7a9",
+      "speaker": "マロウ",
+      "ja": "親びん……",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "abecaddb",
+      "speaker": "アイディル",
+      "ja": "アタシだけならともかくアンタたちの面倒見るためならしょうがないでしょ！",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "afe85f46",
+      "speaker": "マロウ",
+      "ja": "親びん……！",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "d397e472",
+      "speaker": "トーリ",
+      "ja": "それじゃあまずは正座をして心を無に……",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "fc88c01a",
+      "speaker": "雫",
+      "ja": "だから違います……と、申したではございませんか",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "4926b82f",
+      "speaker": "トーリ",
+      "ja": "む。そうであったな……では、そなたが言う本当の祭りを見せてくれるかのう？",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "345c4b",
+      "speaker": "ルミナ",
+      "ja": "雫、お願い……",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "6553b098",
+      "speaker": "雫",
+      "ja": "ええ、もちろんですとも。では……",
+      "zh": ""
+    },
+    {
+      "key": "231.1",
+      "line_index": 231,
+      "inline_index": 1,
+      "line_hash": "9a26104a",
+      "speaker": "雫",
+      "ja": "今にも消えそうな記憶の片隅から、出来得る限り再現してみせましょう",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "5d65e373",
+      "speaker": "{G_PlayerName}",
+      "ja": "（本当に大丈夫かよ……）",
+      "zh": ""
+    }
+  ]
+}

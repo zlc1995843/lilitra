@@ -1,0 +1,436 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "b499b845",
+      "speaker": "ルミナ",
+      "ja": "ただいま……はあ……今日も疲れた……夕飯は？",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "9dc96077",
+      "speaker": "",
+      "ja": "タキシードを着た男性の人形を揺らし、ルミナがコハルのほうへと話しかける。",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "886d4a7b",
+      "speaker": "コハル",
+      "ja": "あら、あなた今日帰ってくる日だったの？　もう食べちゃったわよ",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "fe0f3c6c",
+      "speaker": "ルミナ",
+      "ja": "なんだって……！？　せっかく上司の誘いを断ってきたのに……！",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "ee45e64b",
+      "speaker": "コハル",
+      "ja": "そんなこと言われても知らないわよ、前もって言わないからでしょ？",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "92d237ea",
+      "speaker": "ルミナ",
+      "ja": "言った！　キミが聞いてないだけだろ？　飲み会もタダじゃないんだから何度も行くなって……！",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "6d6677d0",
+      "speaker": "コハル",
+      "ja": "もう食べちゃったものは仕方ないでしょ！？　もう先に寝……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "6943323f",
+      "speaker": "コハル",
+      "ja": "これ……おかしくない？",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "9fb89459",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうだな……少なくとも祭りじゃなさそうだが",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "39ae03dd",
+      "speaker": "ルミナ",
+      "ja": "面白かった、けど……確かにお祭りじゃ……ない、ね",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "5a718b3e",
+      "speaker": "コハル",
+      "ja": "誰よ、この脚本書いたの",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "54795986",
+      "speaker": "アポロ",
+      "ja": "ワタシがデータベースから持ってきましたが。おかしいですね、視聴者が盛り上がる売れ筋を引用したはずですが",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "6e407497",
+      "speaker": "ルミナ",
+      "ja": "それって……視聴率が高いドラマってだけで……お祭り向きじゃないんじゃない、かな……",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "8e4c1ad",
+      "speaker": "コハル",
+      "ja": "やっぱり、人形劇は操り人形じゃなきゃそれっぽくないわね～",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "8d35913",
+      "speaker": "{G_PlayerName}",
+      "ja": "そういう問題か……？",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "cb1c60e7",
+      "speaker": "ルミナ",
+      "ja": "操り人形、楽しそう……",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "32fc2a52",
+      "speaker": "コハル",
+      "ja": "でも、技術とか無いしねぇ",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "80fe0d19",
+      "speaker": "アポロ",
+      "ja": "では……投影いたしますか",
+      "zh": ""
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "b31ab6c9",
+      "speaker": "コハル",
+      "ja": "わっ！",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "30b8cb3b",
+      "speaker": "",
+      "ja": "部屋が暗くなり、壁面に映像が映し出される。今ある夫婦人形の、とは行かないが、操り人形を使った人形劇の映像のようだ。",
+      "zh": ""
+    },
+    {
+      "key": "75.0",
+      "line_index": 75,
+      "inline_index": 0,
+      "line_hash": "84589f2e",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうそう、祭りでやる人形劇って言ったら、こういう人形劇だよな",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "586c585e",
+      "speaker": "ルミナ",
+      "ja": "すごい……",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "cae66bfc",
+      "speaker": "",
+      "ja": "幾重にも束ねられた糸で、操り人形が生きているように舞台を跳ね回る。何度か人形がお辞儀をして幕が下り、その度におひねりが舞台へと投げ込まれた。",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "ccbcbae",
+      "speaker": "コハル",
+      "ja": "（ふふっ……なんだか、村のプラネタリウムを思い出すわね。あれ、ここではやらないの？）",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "f5280739",
+      "speaker": "{G_PlayerName}",
+      "ja": "（機械が無いし……第一、必要ないだろ。こんな技術があったら）",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "91f9d889",
+      "speaker": "コハル",
+      "ja": "（そう？　あれ、あたし好きだけどな）",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "86a56188",
+      "speaker": "男の子の人形",
+      "ja": "ああ、もうゼンマイが切れる……所詮、仮初めの命だったんだ……",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "39326b3f",
+      "speaker": "女の子の人形",
+      "ja": "そんな、起きて！　わたしの家族はあなたしかいないの、わたしを一人にしないで！",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "ced51ab3",
+      "speaker": "コハル",
+      "ja": "ぐすっ……",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "49273404",
+      "speaker": "ルミナ",
+      "ja": "かなしい、お話だね……",
+      "zh": ""
+    },
+    {
+      "key": "109.0",
+      "line_index": 109,
+      "inline_index": 0,
+      "line_hash": "1f9ceef6",
+      "speaker": "{G_PlayerName}",
+      "ja": "思いの外、見入っちまうな……",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "6012346d",
+      "speaker": "",
+      "ja": "気づけば机にはドリンクと軽食が並び、祭りというよりは何かの鑑賞会になってしまった。",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "af5ff35f",
+      "speaker": "コハル",
+      "ja": "精霊と人間の恋物語を思い出すわね……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "5c47009e",
+      "speaker": "{G_PlayerName}",
+      "ja": "結構前に吟遊詩人が唄ってたやつか。あの時は酒場が老若男女で満員だったな",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "cf74c0d8",
+      "speaker": "コハル",
+      "ja": "狭い村じゃ娯楽も限られるからね……",
+      "zh": ""
+    },
+    {
+      "key": "119.1",
+      "line_index": 119,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "33cad41e",
+      "speaker": "コハル",
+      "ja": "これ、演出？ちょっと音量大きくない？",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "134b3e19",
+      "speaker": "ルミナ",
+      "ja": "ううん、これは……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "dbd672e0",
+      "speaker": "雫",
+      "ja": "敵襲です！",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "cfdf56e4",
+      "speaker": "コハル",
+      "ja": "敵襲……って、宇宙生物とかじゃなくて！？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "842badee",
+      "speaker": "雫",
+      "ja": "正体不明の巨大宇宙船が接近中、飛来物がこちらへ迫ってきます！",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "4d6f1b82",
+      "speaker": "{G_PlayerName}",
+      "ja": "きょ、巨大宇宙船……！？",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "d20084f7",
+      "speaker": "雫",
+      "ja": "正体は不明ですが、モタついている暇はありません。着弾前に弾き返さなくては",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "f8b783a3",
+      "speaker": "雫",
+      "ja": "小さい物は障壁でなんとかなりますが、巨大な物はそうはいきません。コハルさん、わたくしと出てくれますか？",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "965a6171",
+      "speaker": "コハル",
+      "ja": "ええ！　行くわよ！",
+      "zh": ""
+    },
+    {
+      "key": "160.1",
+      "line_index": 160,
+      "inline_index": 1,
+      "line_hash": "4915e65d",
+      "speaker": "ルミナ",
+      "ja": "わ、私も……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "28b80c2",
+      "speaker": "雫",
+      "ja": "なりません！　……ですが、ピンチの時は頼らせていただきますから、ご安心ください",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "efc8055d",
+      "speaker": "ルミナ",
+      "ja": "……わかっ、た……気をつけてね……",
+      "zh": ""
+    }
+  ]
+}

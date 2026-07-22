@@ -1,0 +1,544 @@
+{
+  "lines": [
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "72a13c1b",
+      "speaker": "ブロワー",
+      "ja": "……っぷ～！　スイカうまいなー！　種がちょっと邪魔だけどよ！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "35424273",
+      "speaker": "プリズム",
+      "ja": "ほんとですね、最初は見た目が怖かったですけど……スッキリしてて美味しいです！",
+      "zh": ""
+    },
+    {
+      "key": "21.0",
+      "line_index": 21,
+      "inline_index": 0,
+      "line_hash": "1e863027",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、お前はスイカ食べないのか？",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "f7fa7e7c",
+      "speaker": "コハル",
+      "ja": "ちょっと食べたから、大丈夫！　……なんかちょっと、見た目が苦手で……",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "9bd0aff9",
+      "speaker": "{G_PlayerName}",
+      "ja": "うまいのに……",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "caa86194",
+      "speaker": "ルミナ",
+      "ja": "ふふ……自分たちで割ると、普通に食べるより美味しい気が……するね……",
+      "zh": ""
+    },
+    {
+      "key": "34.0",
+      "line_index": 34,
+      "inline_index": 0,
+      "line_hash": "805107ea",
+      "speaker": "",
+      "ja": "あの後、見事ルミナの番でスイカを割ることが出来た。……雫の指示が詳細すぎて、逆に妨害になっていたが。",
+      "zh": ""
+    },
+    {
+      "key": "36.1",
+      "line_index": 36,
+      "inline_index": 1,
+      "line_hash": "b0a4ce34",
+      "speaker": "プリズム",
+      "ja": "あ……ブロワーさん、種ってどこに捨てればいいんですかね？",
+      "zh": ""
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "405216da",
+      "speaker": "ブロワー",
+      "ja": "あん？　おいらはそのまま食べてるぞ",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "b47fe9c5",
+      "speaker": "プリズム",
+      "ja": "ええっ！？　そんなことしていいんですか！？　お腹からスイカが生えてきちゃうかも……！",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "5cd4d3e",
+      "speaker": "ブロワー",
+      "ja": "なにっ！？　そ、そんなの……",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "d1377ad0",
+      "speaker": "ブロワー",
+      "ja": "スイカ食べ放題で最高だな！",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "42ee1447",
+      "speaker": "プリズム",
+      "ja": "あ、ブロワーさん的にはアリなんですね……",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "6d108bd8",
+      "speaker": "ルミナ",
+      "ja": "……生えないから、安心して……",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "53640bd7",
+      "speaker": "雫",
+      "ja": "食べきれないぶんは、ジュースやアイスにしてしまいましょう",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "1fdad3a2",
+      "speaker": "プリズム",
+      "ja": "わー！　それも美味しそうですね！",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "f0d9984b",
+      "speaker": "ブロワー",
+      "ja": "ちょっと気になったんだが、この……星？　の海って、この周りだけなのか？",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "4c429138",
+      "speaker": "雫",
+      "ja": "そんなことはありませんよ。この星は海の面積がとても多く、星の９割が海のようです",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "d31dffb7",
+      "speaker": "ブロワー",
+      "ja": "ふうん……おいら達の星には海なんてほとんど無かったのに、こんな星もあるんだな",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "7a645031",
+      "speaker": "プリズム",
+      "ja": "ああー、宇宙全ての星を回りたいですっ！　色んなランプが作れそう……！",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "84daf62f",
+      "speaker": "{G_PlayerName}",
+      "ja": "全ては……一生かかっても無理だろうな",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "ff751284",
+      "speaker": "プリズム",
+      "ja": "そんなに多いんですかっ！？",
+      "zh": ""
+    },
+    {
+      "key": "72.0",
+      "line_index": 72,
+      "inline_index": 0,
+      "line_hash": "40f94038",
+      "speaker": "{G_PlayerName}",
+      "ja": "降りられる星、ってだけならなんとかなるか？",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "7c77945d",
+      "speaker": "雫",
+      "ja": "ならないでしょう。数千年かかっても無理でしょうね",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "d0a9bc9d",
+      "speaker": "プリズム",
+      "ja": "想像以上に宇宙って広いんですね……！",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "b0e19d5f",
+      "speaker": "ブロワー",
+      "ja": "全部鉱石の星とかもあるんだろうなぁ……夢が広がるなー！",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "68e58307",
+      "speaker": "ブロワー",
+      "ja": "あ、そうだ。ルミナ達って結局何者なんだ？　宇宙人ってのはわかったけどさ、なんでおいら達の星に？",
+      "zh": ""
+    },
+    {
+      "key": "96.0",
+      "line_index": 96,
+      "inline_index": 0,
+      "line_hash": "624290f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……って感じなんだが",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "4f25e5b4",
+      "speaker": "ブロワー",
+      "ja": "あ……あんちゃんが実は１回死んでて？　ルミナが……生き返して？",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "b3b1076e",
+      "speaker": "プリズム",
+      "ja": "ルミナさ……ルミナ様が、お、王女様！？　そ……そんな、私、今まで大変なご無礼を……！",
+      "zh": ""
+    },
+    {
+      "key": "102.1",
+      "line_index": 102,
+      "inline_index": 1,
+      "line_hash": "9e3ec57a",
+      "speaker": "ブロワー",
+      "ja": "お、おいらも……ゴブレイを。大変悪い、いや申し訳ない。でございますですな",
+      "zh": ""
+    },
+    {
+      "key": "104.1",
+      "line_index": 104,
+      "inline_index": 1,
+      "line_hash": "82b3307d",
+      "speaker": "ルミナ",
+      "ja": "ううん……別に、王女だからって……かしこまらなくても、いいよ……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "a878c8ed",
+      "speaker": "ブロワー",
+      "ja": "そ、そうか？　でもなあ……",
+      "zh": ""
+    },
+    {
+      "key": "108.1",
+      "line_index": 108,
+      "inline_index": 1,
+      "line_hash": "ec2d3a27",
+      "speaker": "ルミナ",
+      "ja": "色んな知り合い……友達が欲しいから。気軽な喋り方で……大丈夫、だよ",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "f1a102ae",
+      "speaker": "プリズム",
+      "ja": "友達……っ！　そーですねっ！　じゃあ話しやすい口調で喋りますっ！　ありがとうございますっ！",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "5d131a5d",
+      "speaker": "ルミナ",
+      "ja": "（でも、敬語のままなんだ……）",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "315961c5",
+      "speaker": "ブロワー",
+      "ja": "お前らみたいに、宇宙を旅したり移動してるヤツって多いのか？",
+      "zh": ""
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "8bd3ee1c",
+      "speaker": "ルミナ",
+      "ja": "そこまで多くは、ないんじゃないかな……宇宙で誰かと会うことなんて、会おうと思わないと奇跡に近いらしいから……",
+      "zh": ""
+    },
+    {
+      "key": "118.0",
+      "line_index": 118,
+      "inline_index": 0,
+      "line_hash": "389462df",
+      "speaker": "謎のスピーカーからする声",
+      "ja": "はっはっはっはっ！　はーっはっはっはっは！",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "df3ba048",
+      "speaker": "プリズム",
+      "ja": "……え？　今の笑い声って……？",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "d4ce1be6",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……そういえば、あいつらがいたな",
+      "zh": ""
+    },
+    {
+      "key": "143.0",
+      "line_index": 143,
+      "inline_index": 0,
+      "line_hash": "fcdb6a6",
+      "speaker": "何者かの声",
+      "ja": "ぎゃーーーーーーっ！！！？",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "e49a81fa",
+      "speaker": "",
+      "ja": "空からアイディル宇宙海賊団の船が海面に豪快に着水する。打ち上げられた海水が砂浜まで届き、雨のように降り注いだ。",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "cbdc4a89",
+      "speaker": "コハル",
+      "ja": "アイディル達！　また来たのね！",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "6a6e508c",
+      "speaker": "{G_PlayerName}",
+      "ja": "（さっき聞こえた悲鳴、誰のだ？　ブロワーでもプリズムでもないような……）",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "f71447e1",
+      "speaker": "アイディル",
+      "ja": "あんた達、こ～んなところで会うなんて奇遇じゃない！　偶然ね～？",
+      "zh": ""
+    },
+    {
+      "key": "174.1",
+      "line_index": 174,
+      "inline_index": 1,
+      "line_hash": "6c887a5b",
+      "speaker": "マロウ",
+      "ja": "え、確か追ってきたんじゃなかったっすか？",
+      "zh": ""
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "a84cadb1",
+      "speaker": "アイディル",
+      "ja": "シーッ！　黙ってなさい！　モル、マロウの口塞いどきな！",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "c5413681",
+      "speaker": "モル",
+      "ja": "うっす",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "94950c17",
+      "speaker": "アイディル",
+      "ja": "と、とにかく！　私達を差し置いてハッピーサマーバカンス気分なんて気に食わないわ！　台無しにしてやるんだから！",
+      "zh": ""
+    },
+    {
+      "key": "198.1",
+      "line_index": 198,
+      "inline_index": 1,
+      "line_hash": "7ba69354",
+      "speaker": "ブロワー",
+      "ja": "うーん……ド派手な登場の割に、小物臭がする奴らだな",
+      "zh": ""
+    },
+    {
+      "key": "200.1",
+      "line_index": 200,
+      "inline_index": 1,
+      "line_hash": "56ec8b45",
+      "speaker": "プリズム",
+      "ja": "お知り合い……なんですか？",
+      "zh": ""
+    },
+    {
+      "key": "202.1",
+      "line_index": 202,
+      "inline_index": 1,
+      "line_hash": "3bb3c9ce",
+      "speaker": "コハル",
+      "ja": "まあ……知り合いというか。会ったことがある変な奴らよ",
+      "zh": ""
+    },
+    {
+      "key": "204.0",
+      "line_index": 204,
+      "inline_index": 0,
+      "line_hash": "ffc4a164",
+      "speaker": "{G_PlayerName}",
+      "ja": "アイディル達……なんか悔しいけど、凄く海が似合うな！？",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "f28114cc",
+      "speaker": "アイディル",
+      "ja": "え？　あ、そう？　悪い気はしないわね！",
+      "zh": ""
+    },
+    {
+      "key": "222.1",
+      "line_index": 222,
+      "inline_index": 1,
+      "line_hash": "5f6c7a6c",
+      "speaker": "アイディル",
+      "ja": "それじゃあ宇宙海賊……いや、今日は心機一転！　海賊に倣って、略奪行為と行くわよ！",
+      "zh": ""
+    },
+    {
+      "key": "224.1",
+      "line_index": 224,
+      "inline_index": 1,
+      "line_hash": "90e8373a",
+      "speaker": "マロウ",
+      "ja": "オーーー！　っす！",
+      "zh": ""
+    },
+    {
+      "key": "226.1",
+      "line_index": 226,
+      "inline_index": 1,
+      "line_hash": "d8895af8",
+      "speaker": "モル",
+      "ja": "うっす",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "723fd229",
+      "speaker": "コハル",
+      "ja": "いつも通りじゃないの！",
+      "zh": ""
+    },
+    {
+      "key": "239.0",
+      "line_index": 239,
+      "inline_index": 0,
+      "line_hash": "3a066c18",
+      "speaker": "{G_PlayerName}",
+      "ja": "全く、懲りない奴らだな……",
+      "zh": ""
+    }
+  ]
+}

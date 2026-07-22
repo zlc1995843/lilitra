@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ce3d9875",
+      "speaker": "ルミナ",
+      "ja": "雫、ひな祭りの事はあまり覚えてないのかなって、思ってたけど……",
+      "zh": "雫，我本来还想着，你是不是不太记得女儿节的事了……"
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "5af6f3f7",
+      "speaker": "雫",
+      "ja": "も、黙秘権！　黙秘権を行使いたします！",
+      "zh": "我、我要行使沉默权！"
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "317bc792",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだそれ……",
+      "zh": "什么嘛……"
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "a40bf6f5",
+      "speaker": "トーリ",
+      "ja": "なんじゃ！　知ってたのなら、なぜ早くそれを言わん！",
+      "zh": "什么！既然你知道，为什么不早点说！"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "7443c4ca",
+      "speaker": "雫",
+      "ja": "わ、わたくしにも色々と事情が……",
+      "zh": "我、我也有各种难处啦……"
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "566d7936",
+      "speaker": "ルミナ",
+      "ja": "雫……私、ひな祭りのこと、知りたいの。",
+      "zh": "雫……我想知道女儿节的事。"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "c3a2871a",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": "…………"
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "abb91c2b",
+      "speaker": "ルミナ",
+      "ja": "ひな祭りがあった星のこと、思い出すのが……もし嫌じゃなかったら、だけど……話してくれない、かな",
+      "zh": "想到那颗办过女儿节的星球……要是你不觉得难受的话……能不能跟我说说？"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "6cde4816",
+      "speaker": "雫",
+      "ja": "…………かしこまりました。わたくし、腹をおくくりいたします",
+      "zh": "……明白了。我做好心理准备了。"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "e83d289f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（おくくりいたします、って……）",
+      "zh": "（“做好心理准备”啊……）"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "6a58d781",
+      "speaker": "雫",
+      "ja": "ひな祭りというものは、そもそも女の子の健やかな成長を願う祭りです",
+      "zh": "所谓女儿节，本来就是祈求女孩子健康成长的节日。"
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ad3d5db0",
+      "speaker": "ルミナ",
+      "ja": "そう、なんだ……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "2d5a41cd",
+      "speaker": "トーリ",
+      "ja": "そこは同じじゃな！",
+      "zh": "这点是一样的嘛！"
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "7f4bd842",
+      "speaker": "{G_PlayerName}",
+      "ja": "同じか！？　……男の子は？",
+      "zh": "一样吗！？……那男孩子呢？"
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "83903380",
+      "speaker": "雫",
+      "ja": "対象外です。……まあ、別の祭がありますけど",
+      "zh": "男孩不算在内。……不过嘛，还有别的节日。"
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "96b4c666",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……でも、それなら隠す理由無くないか？　お前なら、ルミナの健康願って盛大に開きそうなもんだが",
+      "zh": "这样啊……但也没必要瞒着吧？要是你，肯定会为了露米娜的健康大办特办才对。"
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "50004967",
+      "speaker": "雫",
+      "ja": "……この祭には、あなた方も何度か話題に上げていた夫婦の人形……お内裏様、お雛様と呼ばれる物があります",
+      "zh": "……这个节日里，有你们常常提起的那对夫妻人偶……叫“内里大人”和“雏大人”的。"
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "a258876b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ…………",
+      "zh": "哈啊…………"
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "1af7a632",
+      "speaker": "雫",
+      "ja": "それを伝えれば、ルミナ様がお雛様を演じるのは確定事項。ともすれば、私がお内裏様となるのがベストですが……",
+      "zh": "这么一说，露米娜大人扮演雏大人就是板上钉钉了。虽然最好是由我来当内里大人……"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "be0b38b4",
+      "speaker": "雫",
+      "ja": "この船にいる男は、あなたただ一人！　見合わぬ大役といえど、あなたが選ばれる可能性は十分！",
+      "zh": "这艘船上，男人就你一个！虽说担子太重了点，但你被选上的可能性极高！"
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "11036e1f",
+      "speaker": "雫",
+      "ja": "そのような、耐え難い事態が目の前で繰り広げられると考えただけで……！　ああ、悍ましい！",
+      "zh": "光是想想那种不堪入目的场面在我眼前上演……！！啊啊，太恶心了！"
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "bb17bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まさかそんなくだらない理由だったとは……）",
+      "zh": "（没想到居然是这么无聊的理由……）"
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "c8d3d360",
+      "speaker": "ルミナ",
+      "ja": "し、雫…………",
+      "zh": "雫，你……"
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "f602faf4",
+      "speaker": "雫",
+      "ja": "申し訳ございませんでした、ルミナ様……",
+      "zh": "非常抱歉，露米娜小姐……"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "4348ad32",
+      "speaker": "ルミナ",
+      "ja": "雫、無理させちゃってごめんね……でも、私、雫とひな祭りを楽しみたい……",
+      "zh": "雫，对不起，让你为难了……可是，我还是想跟你一起开开心心地过女儿节……"
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "36980f3d",
+      "speaker": "雫",
+      "ja": "ルミナ様っ……！",
+      "zh": "露米娜小姐……！！"
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "499dbbbb",
+      "speaker": "{G_PlayerName}",
+      "ja": "要は俺がオダイリサマ？　の格好しなきゃいいんだろ",
+      "zh": "说白了我只要不扮成那个什么内里大人就行了吧？"
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "3033ded3",
+      "speaker": "雫",
+      "ja": "男…………！",
+      "zh": "男人……！！"
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "bc0df46e",
+      "speaker": "{G_PlayerName}",
+      "ja": "いい加減名前で呼んでくれ……",
+      "zh": "差不多该叫我名字了吧……"
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "51c5fcd7",
+      "speaker": "雫",
+      "ja": "では、ひな祭りを楽しむとしましょうか",
+      "zh": "那么，咱们就来享受女儿节吧。"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "7694db09",
+      "speaker": "トーリ",
+      "ja": "しかしそうなると、広めておったひな祭りが真実ではなかったのか……",
+      "zh": "可是这么一来，之前流传的女儿节难道不是真的……"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "9bb86b22",
+      "speaker": "コハル",
+      "ja": "そもそも、どこであの祭を知ったの？",
+      "zh": "说起来，你是在哪里听说那个节日的？"
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "ae9edd6a",
+      "speaker": "トーリ",
+      "ja": "そ、それが……オリジナルでな。ほぼ",
+      "zh": "那、那个……是我原创的。呼呼。"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "ced0ffd5",
+      "speaker": "コハル",
+      "ja": "オリジナル！？",
+      "zh": "原创！？"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "5ac1be1c",
+      "speaker": "トーリ",
+      "ja": "わらわ、生まれた時からあの艦隊に住んでおったのじゃが……",
+      "zh": "咱家从出生起就住在那支舰队里了……"
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "25113f9e",
+      "speaker": "",
+      "ja": "本当に幼い頃、艦内で感染症が広がってのう。リリアンであったわらわだけが生き残ったらしい。",
+      "zh": "小时候，舰里传染病蔓延。听说只有我是莉安，活了下来。"
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "aba57698",
+      "speaker": "",
+      "ja": "今はもちろん艦内を洗浄し問題ないのじゃが……人工知能によって育てられ、支えられながら、宇宙をさまよっているというわけじゃな",
+      "zh": "现在舰里当然清洗干净了……不过我是由人工智能抚养，一边接受照顾，一边在宇宙中漂泊的。"
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "565f001a",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……それで、元のひな祭りを広めるという遺志を受け継いだのか……",
+      "zh": "原来如此……所以你是继承了遗志，要把原本的女儿节传播开去吗……"
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "59008ae3",
+      "speaker": "トーリ",
+      "ja": "はん？　違うぞ？",
+      "zh": "嗯？不对哦？"
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": "诶？"
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "1c3c85e",
+      "speaker": "トーリ",
+      "ja": "いやのう、元は普通の移動戦艦だったらしいのじゃが、ちょうど乗務員が全滅した時にひな祭りが開催されておったようでのう",
+      "zh": "不是啦，听说原本只是艘普通移动战舰，不过刚好在乘员全灭的时候，舰上正举办着女儿节。"
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "bcbefbc6",
+      "speaker": "トーリ",
+      "ja": "何人か乗っておった天才エンジニアが、おふざけでこのひな祭りモードを作ったらしいが……オフにする方法がわからず、常にこのままなのじゃ！",
+      "zh": "有几个在船上的天才工程师，闹着玩似的搞出了这个女儿节模式……但没人知道怎么关掉，所以就一直这样了！"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "ada33b14",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……はあ……！？",
+      "zh": "哈……哈啊……！？"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "d6b071ae",
+      "speaker": "トーリ",
+      "ja": "もうこうなってはひな祭りを広めるしかあるまい？　元々何のために宇宙を旅しておった戦艦かはわからぬがな",
+      "zh": "事到如今，也只能四处传播女儿节了嘛？虽然不知道这艘战舰原先是为了什么而在宇宙旅行的。"
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "8db9fb4e",
+      "speaker": "コハル",
+      "ja": "なんじゃそりゃ！",
+      "zh": "这都什么事啊！"
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "a4d61b7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（笑っていいのか判断に困るな……）",
+      "zh": "（这到底该不该笑，好难判断啊……）"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "3ec467d5",
+      "speaker": "トーリ",
+      "ja": "目的も無く宇宙をさまようわけにはいかんしのう。時折遭遇する者に、ひな祭りを叩き込んでやるのが生きがいなのじゃ",
+      "zh": "总不能漫无目的地在宇宙里飘着吧。偶尔遇上谁，就把女儿节灌输给他们，这就是咱的生存意义。"
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "98d8d974",
+      "speaker": "ルミナ",
+      "ja": "そ……そう、なの……",
+      "zh": "是……是这样吗……"
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "36e94ff",
+      "speaker": "トーリ",
+      "ja": "しかし、こんなところで真のひな祭りを知る者に会えるとは！　やはりわらわは運が……",
+      "zh": "不过，竟然会在这种地方遇到知道真正女儿节的人！果然咱的运气……"
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "9e884f41",
+      "speaker": "トーリ",
+      "ja": "な、なんじゃあっ！？",
+      "zh": "什、什么！？"
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "6bb560d5",
+      "speaker": "アポロ",
+      "ja": "……敵襲です！",
+      "zh": "……敌袭！"
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "8f9566a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "て……敵襲！？",
+      "zh": "敌……敌袭！？"
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "727254ad",
+      "speaker": "ルミナ",
+      "ja": "また……！？",
+      "zh": "又来……！？"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "95790742",
+      "speaker": "アポロ",
+      "ja": "次は明確な攻撃の意思があると考えられます。ただちに迎撃準備を！",
+      "zh": "这次可以认为有明确的攻击意图。立刻准备迎击！"
+    }
+  ]
+}

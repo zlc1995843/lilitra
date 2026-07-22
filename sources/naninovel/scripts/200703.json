@@ -1,0 +1,418 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "69689625",
+      "speaker": "雫",
+      "ja": "そもそも我々は王族ですよ？　だと言うのに一介のセールスリリアンがドッキング申請とは……",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "a0812755",
+      "speaker": "ブライダル",
+      "ja": "大変失礼をしてしまい申し訳ございません、私共も多くの星にある規則の把握が追いついておらず……",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "f4b5bf2e",
+      "speaker": "",
+      "ja": "あれから雫の矛先は話を持ちかけてきたブライダルへと移り、ジメジメと説教じみた詰問を繰り返していた。",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "88662b1b",
+      "speaker": "リズ",
+      "ja": "あのメイドは、相変わらず物騒というか……ルミナの事になると血の気が多いのだな",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "fafa42be",
+      "speaker": "{G_PlayerName}",
+      "ja": "まあ、ひな祭りですらあんな感じだったんだから、ストレートに結婚とか来ればああもなるか……",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "8b99ea7",
+      "speaker": "コハル",
+      "ja": "にしても可哀想よ。仕事しに来ただけなのに、あんな……止めたほうが良くない？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "77a8c64d",
+      "speaker": "ルミナ",
+      "ja": "そう、だね……雫、やめ……",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "80f556c7",
+      "speaker": "ルミナ",
+      "ja": "あ……あれ……？",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "7f9f9831",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうかしたのか？　ルミナ",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "a82cf4d",
+      "speaker": "ルミナ",
+      "ja": "なんだか、雫の表情が……",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "90cd7512",
+      "speaker": "雫",
+      "ja": "そのようなプランまで……！？",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "1903d8ae",
+      "speaker": "ブライダル",
+      "ja": "はい！　女同士や男同士の結婚は勿論のこと、無機物や想像上の存在との結婚も珍しくありませんからね！",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "331c0176",
+      "speaker": "雫",
+      "ja": "と、と、言うことはルミナ様とわたくしで結婚することも……",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "4dd48410",
+      "speaker": "ブライダル",
+      "ja": "勿論可能です！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "ed0b6008",
+      "speaker": "雫",
+      "ja": "ハッ……ァ……！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "3734b68",
+      "speaker": "{G_PlayerName}",
+      "ja": "興奮しすぎてシメる直前の鶏みたいな声上げてるぞ……",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "76f177e5",
+      "speaker": "ブルーム",
+      "ja": "ルミナ、雫と結婚すんの～？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "3c937b55",
+      "speaker": "ルミナ",
+      "ja": "え……うーん……し、しない……と思う……けど……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "9e3b46c9",
+      "speaker": "ブライダル",
+      "ja": "も～、皆様結婚という物を重く考えすぎですよ！　星によって文化の違いがあるのはわかりますが……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "43cb53fc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ブライダルの星では結婚ってそんなに軽いのか……？",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "165acc3b",
+      "speaker": "ブライダル",
+      "ja": "はい！　住民の平均生涯結婚回数は９４回、と言われていますよ！",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "ba708463",
+      "speaker": "ルミナ",
+      "ja": "きゅ、９４回……！？",
+      "zh": ""
+    },
+    {
+      "key": "95.0",
+      "line_index": 95,
+      "inline_index": 0,
+      "line_hash": "65d2f6cf",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、それって離婚回数も……９３回ってことだよな？",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "dab10bbd",
+      "speaker": "ブライダル",
+      "ja": "ええ！　と言いましても、期間満了による自動解約もございますので……",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "7aad0207",
+      "speaker": "ルミナ",
+      "ja": "きかんまんりょう……って、結婚に、期間が……あるの？",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "619ea4a4",
+      "speaker": "ブライダル",
+      "ja": "無いプランも勿論ございますが、期間がある結婚のほうがポピュラーですね！",
+      "zh": ""
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "bc546c4",
+      "speaker": "{G_PlayerName}",
+      "ja": "……？？？　なんか、俺達が考えてた結婚と……ずいぶん違うんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "105.1",
+      "line_index": 105,
+      "inline_index": 1,
+      "line_hash": "c6ab3be3",
+      "speaker": "ブライダル",
+      "ja": "確かに、皆様の星とはかなり違いがございます。私共にとっての結婚とは親愛の証でもありますが、恩恵を受ける手段、という面が主です",
+      "zh": ""
+    },
+    {
+      "key": "107.1",
+      "line_index": 107,
+      "inline_index": 1,
+      "line_hash": "3135379f",
+      "speaker": "ブルーム",
+      "ja": "恩恵って、何よ？　何か言ってた、愛で支え合う～とかいうバカみたいなコトじゃないでしょうね？",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "ecfa6bcb",
+      "speaker": "ブライダル",
+      "ja": "商業施設などで割引を受けられたり、身元の証明が容易になるなどの恩恵があります",
+      "zh": ""
+    },
+    {
+      "key": "111.1",
+      "line_index": 111,
+      "inline_index": 1,
+      "line_hash": "ce6facbf",
+      "speaker": "ブルーム",
+      "ja": "思ってたより具体的で小さい！？",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "c8a46ac1",
+      "speaker": "ブライダル",
+      "ja": "その他にも配偶者と利用するサービスの割引や、高待遇を受けられる場合もございますよ！",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "8c8ad991",
+      "speaker": "コハル",
+      "ja": "なんか……聞いてる感じ、私達の星で言う所の冒険者ギルドに入った時みたいね",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "c38e9b6b",
+      "speaker": "{G_PlayerName}",
+      "ja": "確かに、馬車の優先予約とか冒険アイテムの割引があるからな……",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "d71a610e",
+      "speaker": "ブライダル",
+      "ja": "ギルドの加入！　まさに、近いですね！　それよりももう少し気軽ですが……",
+      "zh": ""
+    },
+    {
+      "key": "135.1",
+      "line_index": 135,
+      "inline_index": 1,
+      "line_hash": "211699b9",
+      "speaker": "コハル",
+      "ja": "もっとなの！？",
+      "zh": ""
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "4a41953b",
+      "speaker": "ブライダル",
+      "ja": "エンターテイメントや娯楽でもあるわけですからね！　うーん、ピクニックやパーティーの感覚に近いでしょうか？",
+      "zh": ""
+    },
+    {
+      "key": "139.0",
+      "line_index": 139,
+      "inline_index": 0,
+      "line_hash": "3c29d34",
+      "speaker": "{G_PlayerName}",
+      "ja": "ぴ、ピクニックのノリで結婚……",
+      "zh": ""
+    },
+    {
+      "key": "141.1",
+      "line_index": 141,
+      "inline_index": 1,
+      "line_hash": "131840dc",
+      "speaker": "コハル",
+      "ja": "想像出来ないわね……",
+      "zh": ""
+    },
+    {
+      "key": "143.1",
+      "line_index": 143,
+      "inline_index": 1,
+      "line_hash": "74f69119",
+      "speaker": "ブライダル",
+      "ja": "ですので、是非一度ご体験を！　本当に結婚するわけではなく、あくまでお試しですので！",
+      "zh": ""
+    },
+    {
+      "key": "145.0",
+      "line_index": 145,
+      "inline_index": 0,
+      "line_hash": "110e4705",
+      "speaker": "{G_PlayerName}",
+      "ja": "……どうする？",
+      "zh": ""
+    },
+    {
+      "key": "147.1",
+      "line_index": 147,
+      "inline_index": 1,
+      "line_hash": "ce6b7940",
+      "speaker": "コハル",
+      "ja": "まあ……画家のモデルになるためにドレスを着てくれ、って言われてるような物でしょ？　……なら、別にやってもいいんじゃない？",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "de15520",
+      "speaker": "ブライダル",
+      "ja": "ありがとうございます！　すぐに準備に取り掛かりましょう！",
+      "zh": ""
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "8dec9af9",
+      "speaker": "ルミナ",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "55dda4f7",
+      "speaker": "雫",
+      "ja": "ルミナ様、どうかなさいましたか？",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "a764465f",
+      "speaker": "ルミナ",
+      "ja": "うっ、ううん！　なんでもない……",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "bd8b68a4",
+      "speaker": "プリズム",
+      "ja": "うわぁ……っ！　何度見ても、凄い景色ですね……！",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "81eb668",
+      "speaker": "ブロワー",
+      "ja": "最初見た時は明るすぎて目が潰れるかと思ったが、慣れてくるとキレイだな～！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "b6dbabbf",
+      "speaker": "",
+      "ja": "青い空、日光を反射して煌めく海、そしてそれに負けじと輝く水着のリリアン達……",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "b46bfa28",
+      "speaker": "{G_PlayerName}",
+      "ja": "いやー、楽しんでもらえてるみたいで良かったな",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "4632f229",
+      "speaker": "コハル",
+      "ja": "ホントね！　知り合ったリリアンを別の星に連れて来るなんて、最初は不安だったけど……",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "a8286fc3",
+      "speaker": "",
+      "ja": "ここは旅の途中で見つけた、海の面積割合が９割を超す無人惑星。気候が安定しており、休憩を取るのに適した惑星ということなのだが……",
+      "zh": ""
+    },
+    {
+      "key": "38.0",
+      "line_index": 38,
+      "inline_index": 0,
+      "line_hash": "1f3d856b",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に呼んでよかったのか？　まあ……ブロワーには宇宙船、見られてたけどさ",
+      "zh": ""
+    },
+    {
+      "key": "44.1",
+      "line_index": 44,
+      "inline_index": 1,
+      "line_hash": "1e6dd233",
+      "speaker": "雫",
+      "ja": "ルミナ様の希望です。……安定したワームホール、それも以前寄った宙域と繋がっている物を偶然発見するとは……",
+      "zh": ""
+    },
+    {
+      "key": "46.0",
+      "line_index": 46,
+      "inline_index": 0,
+      "line_hash": "2aeb2bba",
+      "speaker": "{G_PlayerName}",
+      "ja": "長距離の……ワープみたいなことが出来るんだよな？　意味がわからんし怖いけど……",
+      "zh": ""
+    },
+    {
+      "key": "48.1",
+      "line_index": 48,
+      "inline_index": 1,
+      "line_hash": "bf5f3d37",
+      "speaker": "雫",
+      "ja": "あそこまで安定した穴であれば、実際に利用している事例はあります。数千万年後に閉じるかどうか、でしょうね",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "7794f7ac",
+      "speaker": "コハル",
+      "ja": "規模が大きすぎて全然ピンと来ないわね……そんな偶然もあれば、利用しない手は無い……ってこと？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "4e6ffbe3",
+      "speaker": "雫",
+      "ja": "まあ……ワームホールを利用する際、ワームホール内から脱出できなくなる事故も聞きますが",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "e7052d8",
+      "speaker": "コハル",
+      "ja": "怖っ！？　本当に大丈夫なんでしょうね！？",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "bf056edf",
+      "speaker": "雫",
+      "ja": "砂粒サイズの隕石が巨大な惑星を粉々にするようなレベルの確率です。心配要りませんよ",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "39c1b61c",
+      "speaker": "{G_PlayerName}",
+      "ja": "それがどれくらいの確率なのかわからんが……まあ、バカンスする機会が出来て良かったな",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "4753f28b",
+      "speaker": "{G_PlayerName}",
+      "ja": "……これで、服を見せるのを忘れたこと、許してくれるかな？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "12f43337",
+      "speaker": "プリズム",
+      "ja": "服を見せてもらうまでは許しません！　……でも、呼んでくださってありがとうございます！",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "1de08842",
+      "speaker": "ブロワー",
+      "ja": "コーゼも来れば良かったのになー、仕事がどーとかつまらない事言いやがって",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "f392a169",
+      "speaker": "プリズム",
+      "ja": "シューちゃんも呼んだんですけど、遠出は怖いみたいで……",
+      "zh": ""
+    },
+    {
+      "key": "77.0",
+      "line_index": 77,
+      "inline_index": 0,
+      "line_hash": "da4303b3",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まあ……これ以上無いほどの遠出だな）",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "38f1e6c8",
+      "speaker": "{G_PlayerName}",
+      "ja": "ところで、アポロは今どこに？",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "982a5229",
+      "speaker": "雫",
+      "ja": "自動操縦で、他の星の者も拾ってくるとか……",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "5987ead0",
+      "speaker": "{G_PlayerName}",
+      "ja": "……いいのか？　法律的に",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "fe9ba0e2",
+      "speaker": "雫",
+      "ja": "ぐっ……！　ま、まあ？　知られてしまった者も多いですし……",
+      "zh": ""
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "4ce37103",
+      "speaker": "雫",
+      "ja": "何よりルミナ様が助けてもらった恩を返したい、と仰るので。……確かに、王族が受けた恩をそのままにするのは理想的ではありませんが",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "5b0b2497",
+      "speaker": "{G_PlayerName}",
+      "ja": "じゃあこれからはもう、大っぴらに……",
+      "zh": ""
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "66ddcca9",
+      "speaker": "雫",
+      "ja": "するわけが無いでしょう。……極力隠すようにしなくては。これまで通ってきた星で、関わった者は許容することとします",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "c2c22515",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ……そうか……",
+      "zh": ""
+    },
+    {
+      "key": "106.1",
+      "line_index": 106,
+      "inline_index": 1,
+      "line_hash": "10a95574",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}くん、海……楽しんで、る？",
+      "zh": ""
+    },
+    {
+      "key": "108.0",
+      "line_index": 108,
+      "inline_index": 0,
+      "line_hash": "8a2d524b",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、ルミナ。ああ、初めて見るからな、楽しんでるよ。ルミナは泳がないのか？",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "5981c490",
+      "speaker": "ルミナ",
+      "ja": "ちょっと色々と、問題があって……",
+      "zh": ""
+    },
+    {
+      "key": "112.0",
+      "line_index": 112,
+      "inline_index": 0,
+      "line_hash": "91231e1b",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、疲れがたまってるか？　最近忙しかったもんな",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "777ccaef",
+      "speaker": "ルミナ",
+      "ja": "それも、ちょっとあるけど……雫とアポロちゃんが、ダメだって……",
+      "zh": ""
+    },
+    {
+      "key": "120.1",
+      "line_index": 120,
+      "inline_index": 1,
+      "line_hash": "c5313e9b",
+      "speaker": "雫",
+      "ja": "ルミナ様をお守りするためです。海は事故が多く、管理されたビーチですら危険なのにこのような、未開の地の海水浴など許可できません",
+      "zh": ""
+    },
+    {
+      "key": "122.0",
+      "line_index": 122,
+      "inline_index": 0,
+      "line_hash": "75dfc9d5",
+      "speaker": "{G_PlayerName}",
+      "ja": "（その危険な未開の地でプリズムたちを泳がせてるんだが、それはいいのか……）",
+      "zh": ""
+    },
+    {
+      "key": "124.1",
+      "line_index": 124,
+      "inline_index": 1,
+      "line_hash": "2ea75856",
+      "speaker": "雫",
+      "ja": "仮に万全の管理がなされているプールでもあれば、その時は是非ルミナ様に泳いでいただきたいですね",
+      "zh": ""
+    },
+    {
+      "key": "126.0",
+      "line_index": 126,
+      "inline_index": 0,
+      "line_hash": "a83a8c5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（ルミナが泳げる日は遠そうだな……）",
+      "zh": ""
+    },
+    {
+      "key": "128.0",
+      "line_index": 128,
+      "inline_index": 0,
+      "line_hash": "b6f48339",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、お前は泳がないのか？　泳げはするだろ？　泳ごうぜ！",
+      "zh": ""
+    },
+    {
+      "key": "134.1",
+      "line_index": 134,
+      "inline_index": 1,
+      "line_hash": "48d0ccf5",
+      "speaker": "コハル",
+      "ja": "あんたはまあ、パンツでも泳げるでしょうけど。あたし達、水着持ってないし",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "12f82530",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー……４人のリリアンぶんしか用意出来なかったんだっけ？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "eeae97f4",
+      "speaker": "コハル",
+      "ja": "そうよ。どうせなら呼ぶ人に水着は譲りたいし、残り２人ぶんはアポロに任せてるの。それに……",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "cc298cbc",
+      "speaker": "コハル",
+      "ja": "……海って見るの、初めてなんだけど",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "7f1ef94",
+      "speaker": "{G_PlayerName}",
+      "ja": "おう。俺達の村、かなり内陸にあったしな",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "4ad27383",
+      "speaker": "コハル",
+      "ja": "……広いし、深すぎて、怖い……",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "b6136b57",
+      "speaker": "{G_PlayerName}",
+      "ja": "お前……リリアンなのに……",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "1688a37f",
+      "speaker": "コハル",
+      "ja": "いや、だって！　私湖しか知らないし！？　足が届かないうえ、どこまで続いてるかわからないなんて怖すぎるわよ！",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "cd753add",
+      "speaker": "雫",
+      "ja": "そのうえ、流れもあります。少し気を抜けば、一瞬で沖までさらわれることも……",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "64dcfb0c",
+      "speaker": "コハル",
+      "ja": "ほら！　こんな場所で泳ぐなんて無理よ！",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "ff2850eb",
+      "speaker": "{G_PlayerName}",
+      "ja": "（要するに、雫が散々怖がらせたワケか……）",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "e836d0ea",
+      "speaker": "雫",
+      "ja": "機械士は服を脱いでいるということは、溺れる準備万端ということですね。存分にどうぞ",
+      "zh": ""
+    },
+    {
+      "key": "158.0",
+      "line_index": 158,
+      "inline_index": 0,
+      "line_hash": "3a79f52b",
+      "speaker": "{G_PlayerName}",
+      "ja": "そこまで言われて泳ぐかっ！　……まあ、波打ち際で遊ぶくらいでいいか",
+      "zh": ""
+    },
+    {
+      "key": "173.1",
+      "line_index": 173,
+      "inline_index": 1,
+      "line_hash": "48d6d21",
+      "speaker": "ブロワー",
+      "ja": "……ぷはっ！　この海水ってやつは、聞いてたけど本当にしょっぱいんだな！",
+      "zh": ""
+    },
+    {
+      "key": "175.1",
+      "line_index": 175,
+      "inline_index": 1,
+      "line_hash": "cdb3ead0",
+      "speaker": "プリズム",
+      "ja": "ほんとですね！　……でも、なんでしょっぱいんでしょう？",
+      "zh": ""
+    },
+    {
+      "key": "177.1",
+      "line_index": 177,
+      "inline_index": 1,
+      "line_hash": "a59100e8",
+      "speaker": "ブロワー",
+      "ja": "そりゃ、塩が溶けてるからだろ？　なんで溶けたかはわからないけど。溶ける前なら、声が聞けたかも知れないけどなー……",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "e431e5d2",
+      "speaker": "プリズム",
+      "ja": "あ、そういえばこのあたりって砂でいっぱいですけど。ブロワーさんって、砂の声も聞けるんですか？",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "58c48d8a",
+      "speaker": "ブロワー",
+      "ja": "いや、ここまで小さいと意思がそもそも無かったり、声が小さかったりで聞こえないな",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "fdc6b512",
+      "speaker": "プリズム",
+      "ja": "石に、意思が……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "a522a2bb",
+      "speaker": "ブロワー",
+      "ja": "やめろ。……割れたり、大きく形が変わった石は喋らないことが多いな。あまり法則とかは気にしてないが……",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "d709e388",
+      "speaker": "プリズム",
+      "ja": "へー……そうなんですね",
+      "zh": ""
+    },
+    {
+      "key": "190.1",
+      "line_index": 190,
+      "inline_index": 1,
+      "line_hash": "fb1bc750",
+      "speaker": "ブロワー",
+      "ja": "ま、おいらの能力なんて今はどうでもいい！　とにかく今しか出来ない遊び、やりつくそうじゃないか！",
+      "zh": ""
+    },
+    {
+      "key": "192.1",
+      "line_index": 192,
+      "inline_index": 1,
+      "line_hash": "c853904b",
+      "speaker": "プリズム",
+      "ja": "そうですねっ！",
+      "zh": ""
+    },
+    {
+      "key": "194.1",
+      "line_index": 194,
+      "inline_index": 1,
+      "line_hash": "8d332fd2",
+      "speaker": "プリズム",
+      "ja": "（あ、憧れのブロワーさんとお話……遊び……あ～、夢みたいですっ！）",
+      "zh": ""
+    },
+    {
+      "key": "197.0",
+      "line_index": 197,
+      "inline_index": 0,
+      "line_hash": "7dadddc4",
+      "speaker": "",
+      "ja": "```",
+      "zh": ""
+    }
+  ]
+}

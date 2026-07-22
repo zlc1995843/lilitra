@@ -1,0 +1,697 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "a3cf9eb7",
+      "speaker": "コレット",
+      "ja": "おお……窓の外を見てみよ！",
+      "zh": ""
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "36c504d1",
+      "speaker": "少年",
+      "ja": "すごい沢山の星が、通り過ぎていく……！",
+      "zh": ""
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "195cf072",
+      "speaker": "リルム",
+      "ja": "星って近くで見るとこんな感じなの？　鉄とか石の破片みたいだけど……",
+      "zh": ""
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "917a3347",
+      "speaker": "雫",
+      "ja": "これは星というよりスペースデブリと言って、宇宙に散らばるゴミですね。隕石の破片やどこかの宇宙船の残骸です",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "53686ade",
+      "speaker": "リルム",
+      "ja": "へえ……光る星って何で出来てるの？",
+      "zh": ""
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "dad026c",
+      "speaker": "雫",
+      "ja": "恒星と言って……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "ebb1ea5b",
+      "speaker": "雫",
+      "ja": "……あ～、ええと……",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "145cde81",
+      "speaker": "リルム",
+      "ja": "どうかしたの？",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "e9f76b64",
+      "speaker": "雫",
+      "ja": "（異世界とはいえ、宇宙技術未発達の人たちに教えていい物でしょうか……）",
+      "zh": ""
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "63effb80",
+      "speaker": "少年",
+      "ja": "雫さん？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "b2f6e71f",
+      "speaker": "雫",
+      "ja": "……光る星は、光る物で出来ています！",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "40cedb29",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんな無茶な……）",
+      "zh": ""
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "689ed5bb",
+      "speaker": "少年",
+      "ja": "やっぱりそっかあ……",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "d68e8ed5",
+      "speaker": "コレット",
+      "ja": "道理じゃな",
+      "zh": ""
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "ca332509",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いいのか、それで！）",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "f4e045cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここが俺達が泊まってる客室だ",
+      "zh": ""
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "fa409bf0",
+      "speaker": "リルム",
+      "ja": "わーすごーい！",
+      "zh": ""
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "e335d806",
+      "speaker": "アロエ",
+      "ja": "ツルツルしてて変な部屋ですねぇ",
+      "zh": ""
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "a753e7eb",
+      "speaker": "コレット",
+      "ja": "これは……こちらの世界で言う所の、魔道具のような物か？",
+      "zh": ""
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "951be71c",
+      "speaker": "ルミナ",
+      "ja": "それはこの部屋の気温をコントロールする機械……だね",
+      "zh": ""
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "cb2ceeb1",
+      "speaker": "コレット",
+      "ja": "ほう！　わしらの拠点にも近い機能はあるぞ。どの世界も変わらぬな",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "939e71f7",
+      "speaker": "アロエ",
+      "ja": "こっちの扉の向こうは何なんです？",
+      "zh": ""
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "f90be267",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そっちは……",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "e8f46a5b",
+      "speaker": "リルム",
+      "ja": "わっ！　もしかしてお風呂？",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ad588cf4",
+      "speaker": "コハル",
+      "ja": "そう。いつでも好きな時に入れるのよ",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "acc074b4",
+      "speaker": "リルム",
+      "ja": "じゃあ、急にしたくなっても大丈夫だね？　お風呂でもエッチ出来るし、よそでエッチした後も洗えるし！",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "7de62d05",
+      "speaker": "アロエ",
+      "ja": "いつでも襲われ放題の人間さんにはピッタリですね～？",
+      "zh": ""
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "d41fe13f",
+      "speaker": "少年",
+      "ja": "ちょ、ちょっと！　変なこと言わないでよ……！",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "1dda1a",
+      "speaker": "コハル",
+      "ja": "（……え、もしかしてこの人たちって……）",
+      "zh": ""
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "3011b144",
+      "speaker": "{G_PlayerName}",
+      "ja": "（思ってたより、ただれた関係……？）",
+      "zh": ""
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "fbd4b012",
+      "speaker": "コレット",
+      "ja": "ほっほ。そうじゃ、であればここの部屋はローションが出てくる魔道具などは……",
+      "zh": ""
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "18f3ce7a",
+      "speaker": "少年",
+      "ja": "べっ、別の！　別の所を案内してもらえませんか！？",
+      "zh": ""
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "eb8b7536",
+      "speaker": "コハル",
+      "ja": "わ……わかったわ。別の部屋ね？",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "5ef167e2",
+      "speaker": "アロエ",
+      "ja": "ここは最初の場所……？",
+      "zh": ""
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "aa3a3378",
+      "speaker": "コハル",
+      "ja": "そろそろお腹が空いてないかなって思ってね。アポロ？",
+      "zh": ""
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "5929f099",
+      "speaker": "アポロ",
+      "ja": "アポロでは……いえ、今はいいでしょう。食事の準備は整えておきました",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "837bca90",
+      "speaker": "少年",
+      "ja": "わあ……！",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "755dd0b4",
+      "speaker": "",
+      "ja": "机の上に、自動的に料理が運ばれてくる。今日は、植物園でも見覚えがある野菜が入ったハンバーガーと、カップに入ったポタージュだ。",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "c02792b2",
+      "speaker": "少年",
+      "ja": "これ、アポロさんが作ったんですか！？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "4e07ff39",
+      "speaker": "アポロ",
+      "ja": "YESとも言えますし、NOとも言えます。それを作ったのはワタシが搭載している機能の一部です",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "5666d557",
+      "speaker": "少年",
+      "ja": "えっと……？",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "afe0cbe0",
+      "speaker": "アポロ",
+      "ja": "人間に例えるなら私の内蔵が作ったような物です",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "653d11fc",
+      "speaker": "アロエ",
+      "ja": "わかりにくいような、わかりやすいような……とにかく凄いですね、美味しいです！",
+      "zh": ""
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "85cfded6",
+      "speaker": "少年",
+      "ja": "アロエもう食べてるの！？",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "97bb65a5",
+      "speaker": "リルム",
+      "ja": "ま、まったく品がなってないね～",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "6020b9bd",
+      "speaker": "少年",
+      "ja": "……リルム、ちょっとポタージュ減ってるけど……",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "ad83756",
+      "speaker": "リルム",
+      "ja": "だってー！　いただきますは言ったもん、小声で！",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "de46df57",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは……",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "3befb17",
+      "speaker": "リルム",
+      "ja": "ふー、お腹いっぱい！",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "453208da",
+      "speaker": "アロエ",
+      "ja": "次はどこに行くんですか？",
+      "zh": ""
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "e14aab80",
+      "speaker": "コハル",
+      "ja": "ふふふ……次はちょっと自信あるわよ！　別に持ち主じゃない私が言うのも何だけど！",
+      "zh": ""
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "dfad21fc",
+      "speaker": "少年",
+      "ja": "自信？",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "a3f1ac7",
+      "speaker": "コハル",
+      "ja": "ここよ！",
+      "zh": ""
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "9ac89054",
+      "speaker": "少年",
+      "ja": "わー、凄い……！",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "72e51ac6",
+      "speaker": "アロエ",
+      "ja": "天界に負けず劣らず綺麗ですねぇ！",
+      "zh": ""
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "852f2419",
+      "speaker": "コレット",
+      "ja": "植物園か……！",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "30d3e72",
+      "speaker": "コハル",
+      "ja": "そう！　色んな星の植物をここで育ててるんですって！",
+      "zh": ""
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "feb955ad",
+      "speaker": "コレット",
+      "ja": "これは……興味があるのう。植物を魔法薬に使った場合の効能や性質が気になるところじゃ",
+      "zh": ""
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "40ef71a8",
+      "speaker": "コハル",
+      "ja": "お薬ならちょっとだけわかるかも。お店で売ってたやつとか、前にオーロラを手伝った時のとかなら！",
+      "zh": ""
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "69ed7fb2",
+      "speaker": "アロエ",
+      "ja": "これ、マナを感じませんね。作り物ですか？",
+      "zh": ""
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "57647adf",
+      "speaker": "{G_PlayerName}",
+      "ja": "よくわかったな。この蝶も植物の世話をする機械らしいぞ",
+      "zh": ""
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "568a76df",
+      "speaker": "アロエ",
+      "ja": "へー、拠点の植物の水やりに便利そうですね",
+      "zh": ""
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "550a79f5",
+      "speaker": "少年",
+      "ja": "じゃああそこにいるのも機械ですか？",
+      "zh": ""
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "a5f7bed0",
+      "speaker": "",
+      "ja": "少年が指さした先を見る。そこにはツヤツヤとした体の、プニプニとした……",
+      "zh": ""
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "bc5edff1",
+      "speaker": "コハル",
+      "ja": "……スライム！？",
+      "zh": ""
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "275561ea",
+      "speaker": "少年",
+      "ja": "や……やっぱり魔物ですか！？",
+      "zh": ""
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "68949463",
+      "speaker": "",
+      "ja": "こちらが敵意を向けたと判断したのか、飛びかかってくるスライムを、雫が叩き落とす。",
+      "zh": ""
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "807f522",
+      "speaker": "雫",
+      "ja": "はっ！　……どうやら、ワームホールの影響で現れたようですね！　この１体だけではありません、潜んでいる物も多くいます！",
+      "zh": ""
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "be164471",
+      "speaker": "{G_PlayerName}",
+      "ja": "ワームホールってここまで厄介な事を起こすのか……！",
+      "zh": ""
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "bc6adfb6",
+      "speaker": "リルム",
+      "ja": "荒事は慣れてるから任せて！",
+      "zh": ""
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "ebee0372",
+      "speaker": "コレット",
+      "ja": "一宿……一宿？　一飯の恩義というやつじゃな。魔物娘の力を見せてやろうぞ",
+      "zh": ""
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "e05d58c9",
+      "speaker": "アロエ",
+      "ja": "ふふーん、マゾオスは隠れてていいんですよ？",
+      "zh": ""
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "51efba29",
+      "speaker": "少年",
+      "ja": "ぼ、僕だって手伝うよ！　……何かを",
+      "zh": ""
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "237e3340",
+      "speaker": "{G_PlayerName}",
+      "ja": "助かるけど……いいのか？",
+      "zh": ""
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "1ecfa837",
+      "speaker": "リルム",
+      "ja": "勿論！　この剣の試し切りも、してみたいしね……！",
+      "zh": ""
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "355b5f85",
+      "speaker": "{G_PlayerName}",
+      "ja": "き、気を付けてくれよ……？",
+      "zh": ""
+    }
+  ]
+}

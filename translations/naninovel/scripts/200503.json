@@ -1,0 +1,697 @@
+{
+  "lines": [
+    {
+      "key": "15.1",
+      "line_index": 15,
+      "inline_index": 1,
+      "line_hash": "a3cf9eb7",
+      "speaker": "コレット",
+      "ja": "おお……窓の外を見てみよ！",
+      "zh": "哇……快看看窗外！"
+    },
+    {
+      "key": "17.0",
+      "line_index": 17,
+      "inline_index": 0,
+      "line_hash": "36c504d1",
+      "speaker": "少年",
+      "ja": "すごい沢山の星が、通り過ぎていく……！",
+      "zh": "数不清的星星一闪而过……！"
+    },
+    {
+      "key": "19.1",
+      "line_index": 19,
+      "inline_index": 1,
+      "line_hash": "195cf072",
+      "speaker": "リルム",
+      "ja": "星って近くで見るとこんな感じなの？　鉄とか石の破片みたいだけど……",
+      "zh": "星星凑近看原来是这样的？感觉就像铁块石头碎片……"
+    },
+    {
+      "key": "21.1",
+      "line_index": 21,
+      "inline_index": 1,
+      "line_hash": "917a3347",
+      "speaker": "雫",
+      "ja": "これは星というよりスペースデブリと言って、宇宙に散らばるゴミですね。隕石の破片やどこかの宇宙船の残骸です",
+      "zh": "与其说是星星，不如叫太空垃圾，就是散落在宇宙里的破烂。陨石碎片啦，飞船残骸之类的。"
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "53686ade",
+      "speaker": "リルム",
+      "ja": "へえ……光る星って何で出来てるの？",
+      "zh": "哦……那会发光的星星又是什么做的？"
+    },
+    {
+      "key": "25.1",
+      "line_index": 25,
+      "inline_index": 1,
+      "line_hash": "dad026c",
+      "speaker": "雫",
+      "ja": "恒星と言って……",
+      "zh": "那叫恒星……"
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "ebb1ea5b",
+      "speaker": "雫",
+      "ja": "……あ～、ええと……",
+      "zh": "……啊～，呃……"
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "145cde81",
+      "speaker": "リルム",
+      "ja": "どうかしたの？",
+      "zh": "怎么了？"
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "e9f76b64",
+      "speaker": "雫",
+      "ja": "（異世界とはいえ、宇宙技術未発達の人たちに教えていい物でしょうか……）",
+      "zh": "（虽说这里是异世界，但把这些教给宇宙技术还没发展起来的他们，真的好吗……）"
+    },
+    {
+      "key": "33.0",
+      "line_index": 33,
+      "inline_index": 0,
+      "line_hash": "63effb80",
+      "speaker": "少年",
+      "ja": "雫さん？",
+      "zh": "雫小姐？"
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "b2f6e71f",
+      "speaker": "雫",
+      "ja": "……光る星は、光る物で出来ています！",
+      "zh": "……发光的星星啊，就是由会发光的东西做的！"
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "40cedb29",
+      "speaker": "{G_PlayerName}",
+      "ja": "（そんな無茶な……）",
+      "zh": "（这也太离谱了……）"
+    },
+    {
+      "key": "41.0",
+      "line_index": 41,
+      "inline_index": 0,
+      "line_hash": "689ed5bb",
+      "speaker": "少年",
+      "ja": "やっぱりそっかあ……",
+      "zh": "果然是这样啊……"
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "d68e8ed5",
+      "speaker": "コレット",
+      "ja": "道理じゃな",
+      "zh": "果然有道理。"
+    },
+    {
+      "key": "45.0",
+      "line_index": 45,
+      "inline_index": 0,
+      "line_hash": "ca332509",
+      "speaker": "{G_PlayerName}",
+      "ja": "（いいのか、それで！）",
+      "zh": "（这就可以了！？）"
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "f4e045cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "ここが俺達が泊まってる客室だ",
+      "zh": "这就是我们住的客房。"
+    },
+    {
+      "key": "61.1",
+      "line_index": 61,
+      "inline_index": 1,
+      "line_hash": "fa409bf0",
+      "speaker": "リルム",
+      "ja": "わーすごーい！",
+      "zh": "哇—好厉害—！"
+    },
+    {
+      "key": "63.1",
+      "line_index": 63,
+      "inline_index": 1,
+      "line_hash": "e335d806",
+      "speaker": "アロエ",
+      "ja": "ツルツルしてて変な部屋ですねぇ",
+      "zh": "滑溜溜的，这房间好怪哦～"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "a753e7eb",
+      "speaker": "コレット",
+      "ja": "これは……こちらの世界で言う所の、魔道具のような物か？",
+      "zh": "这……是不是就像我们那边的魔道具？"
+    },
+    {
+      "key": "73.1",
+      "line_index": 73,
+      "inline_index": 1,
+      "line_hash": "951be71c",
+      "speaker": "ルミナ",
+      "ja": "それはこの部屋の気温をコントロールする機械……だね",
+      "zh": "那是控制这房间温度的机器……吧。"
+    },
+    {
+      "key": "75.1",
+      "line_index": 75,
+      "inline_index": 1,
+      "line_hash": "cb2ceeb1",
+      "speaker": "コレット",
+      "ja": "ほう！　わしらの拠点にも近い機能はあるぞ。どの世界も変わらぬな",
+      "zh": "嚯！我们的据点也有类似的功能。哪个世界都一样呢。"
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "939e71f7",
+      "speaker": "アロエ",
+      "ja": "こっちの扉の向こうは何なんです？",
+      "zh": "这边的门后面是什么？"
+    },
+    {
+      "key": "79.0",
+      "line_index": 79,
+      "inline_index": 0,
+      "line_hash": "f90be267",
+      "speaker": "{G_PlayerName}",
+      "ja": "ああ、そっちは……",
+      "zh": "啊，那边是……"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "e8f46a5b",
+      "speaker": "リルム",
+      "ja": "わっ！　もしかしてお風呂？",
+      "zh": "哇！难道是浴室？"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "ad588cf4",
+      "speaker": "コハル",
+      "ja": "そう。いつでも好きな時に入れるのよ",
+      "zh": "是啊。随时都可以进去哦。"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "acc074b4",
+      "speaker": "リルム",
+      "ja": "じゃあ、急にしたくなっても大丈夫だね？　お風呂でもエッチ出来るし、よそでエッチした後も洗えるし！",
+      "zh": "那突然想要了也不怕对吧？浴室里就可以做，在外面做完也能洗干净！"
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "7de62d05",
+      "speaker": "アロエ",
+      "ja": "いつでも襲われ放題の人間さんにはピッタリですね～？",
+      "zh": "对随时可能被偷袭的人类来说，真是再合适不过了呢～？"
+    },
+    {
+      "key": "101.0",
+      "line_index": 101,
+      "inline_index": 0,
+      "line_hash": "d41fe13f",
+      "speaker": "少年",
+      "ja": "ちょ、ちょっと！　変なこと言わないでよ……！",
+      "zh": "喂、喂！别乱说啊……！"
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "1dda1a",
+      "speaker": "コハル",
+      "ja": "（……え、もしかしてこの人たちって……）",
+      "zh": "（……诶，难道说她们……）"
+    },
+    {
+      "key": "105.0",
+      "line_index": 105,
+      "inline_index": 0,
+      "line_hash": "3011b144",
+      "speaker": "{G_PlayerName}",
+      "ja": "（思ってたより、ただれた関係……？）",
+      "zh": "（比我想象的还要混乱的关系……？）"
+    },
+    {
+      "key": "113.1",
+      "line_index": 113,
+      "inline_index": 1,
+      "line_hash": "fbd4b012",
+      "speaker": "コレット",
+      "ja": "ほっほ。そうじゃ、であればここの部屋はローションが出てくる魔道具などは……",
+      "zh": "嘿嘿。既然如此，那这房间有没有能变出润滑液的道具呀……"
+    },
+    {
+      "key": "115.0",
+      "line_index": 115,
+      "inline_index": 0,
+      "line_hash": "18f3ce7a",
+      "speaker": "少年",
+      "ja": "べっ、別の！　別の所を案内してもらえませんか！？",
+      "zh": "能、能带我们去看别的地方吗！？"
+    },
+    {
+      "key": "117.1",
+      "line_index": 117,
+      "inline_index": 1,
+      "line_hash": "eb8b7536",
+      "speaker": "コハル",
+      "ja": "わ……わかったわ。別の部屋ね？",
+      "zh": "哦……知道了。去别的房间吧？"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "5ef167e2",
+      "speaker": "アロエ",
+      "ja": "ここは最初の場所……？",
+      "zh": "这里是第一个地方……？"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "aa3a3378",
+      "speaker": "コハル",
+      "ja": "そろそろお腹が空いてないかなって思ってね。アポロ？",
+      "zh": "我想差不多该饿了吧。阿波罗？"
+    },
+    {
+      "key": "140.1",
+      "line_index": 140,
+      "inline_index": 1,
+      "line_hash": "5929f099",
+      "speaker": "アポロ",
+      "ja": "アポロでは……いえ、今はいいでしょう。食事の準備は整えておきました",
+      "zh": "要当阿波罗……算了，现在不用提了。饭菜已经备好了。"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "837bca90",
+      "speaker": "少年",
+      "ja": "わあ……！",
+      "zh": "哇……！"
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "755dd0b4",
+      "speaker": "",
+      "ja": "机の上に、自動的に料理が運ばれてくる。今日は、植物園でも見覚えがある野菜が入ったハンバーガーと、カップに入ったポタージュだ。",
+      "zh": "料理自动被送上了桌。今天是加了植物园里见过的蔬菜的汉堡，还有一杯浓汤。"
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "c02792b2",
+      "speaker": "少年",
+      "ja": "これ、アポロさんが作ったんですか！？",
+      "zh": "这是阿波罗先生做的吗！？"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "4e07ff39",
+      "speaker": "アポロ",
+      "ja": "YESとも言えますし、NOとも言えます。それを作ったのはワタシが搭載している機能の一部です",
+      "zh": "可以说是，也可以说不是。它是通过我搭载的部分功能制作出来的。"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "5666d557",
+      "speaker": "少年",
+      "ja": "えっと……？",
+      "zh": "呃……？"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "afe0cbe0",
+      "speaker": "アポロ",
+      "ja": "人間に例えるなら私の内蔵が作ったような物です",
+      "zh": "打个比方，就相当于是我肚子里的器官做出来的。"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "653d11fc",
+      "speaker": "アロエ",
+      "ja": "わかりにくいような、わかりやすいような……とにかく凄いですね、美味しいです！",
+      "zh": "既容易懂又不太容易懂……总之很厉害，很好吃！"
+    },
+    {
+      "key": "156.0",
+      "line_index": 156,
+      "inline_index": 0,
+      "line_hash": "85cfded6",
+      "speaker": "少年",
+      "ja": "アロエもう食べてるの！？",
+      "zh": "阿洛艾已经在吃了！？"
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "97bb65a5",
+      "speaker": "リルム",
+      "ja": "ま、まったく品がなってないね～",
+      "zh": "真是一点吃相都没有～"
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "6020b9bd",
+      "speaker": "少年",
+      "ja": "……リルム、ちょっとポタージュ減ってるけど……",
+      "zh": "……莉露姆，你的浓汤好像变少了……"
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "ad83756",
+      "speaker": "リルム",
+      "ja": "だってー！　いただきますは言ったもん、小声で！",
+      "zh": "因为！我小声说过“我开动了”了！"
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "de46df57",
+      "speaker": "{G_PlayerName}",
+      "ja": "ははは……",
+      "zh": "哈哈哈……"
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "3befb17",
+      "speaker": "リルム",
+      "ja": "ふー、お腹いっぱい！",
+      "zh": "呼—，吃饱了！"
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "453208da",
+      "speaker": "アロエ",
+      "ja": "次はどこに行くんですか？",
+      "zh": "接下来去哪里？"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "e14aab80",
+      "speaker": "コハル",
+      "ja": "ふふふ……次はちょっと自信あるわよ！　別に持ち主じゃない私が言うのも何だけど！",
+      "zh": "哼哼哼……接下来我可有点自信！虽然这地方不是我的，由我来说不太合适！"
+    },
+    {
+      "key": "191.0",
+      "line_index": 191,
+      "inline_index": 0,
+      "line_hash": "dfad21fc",
+      "speaker": "少年",
+      "ja": "自信？",
+      "zh": "自信？"
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "a3f1ac7",
+      "speaker": "コハル",
+      "ja": "ここよ！",
+      "zh": "这里哦！"
+    },
+    {
+      "key": "213.0",
+      "line_index": 213,
+      "inline_index": 0,
+      "line_hash": "9ac89054",
+      "speaker": "少年",
+      "ja": "わー、凄い……！",
+      "zh": "哇—，好厉害……！"
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "72e51ac6",
+      "speaker": "アロエ",
+      "ja": "天界に負けず劣らず綺麗ですねぇ！",
+      "zh": "跟天界比毫不逊色，真漂亮呢～！"
+    },
+    {
+      "key": "217.1",
+      "line_index": 217,
+      "inline_index": 1,
+      "line_hash": "852f2419",
+      "speaker": "コレット",
+      "ja": "植物園か……！",
+      "zh": "植物园吗……！"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "30d3e72",
+      "speaker": "コハル",
+      "ja": "そう！　色んな星の植物をここで育ててるんですって！",
+      "zh": "对！听说这里培育着各种星球的植物！"
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "feb955ad",
+      "speaker": "コレット",
+      "ja": "これは……興味があるのう。植物を魔法薬に使った場合の効能や性質が気になるところじゃ",
+      "zh": "这个有意思。我很想知道把它们拿来做魔法药会有什么效果和特性。"
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "40ef71a8",
+      "speaker": "コハル",
+      "ja": "お薬ならちょっとだけわかるかも。お店で売ってたやつとか、前にオーロラを手伝った時のとかなら！",
+      "zh": "药的话我倒稍微懂一点。像是店里卖的那些，还有之前帮奥罗拉的时候接触过的！"
+    },
+    {
+      "key": "225.1",
+      "line_index": 225,
+      "inline_index": 1,
+      "line_hash": "69ed7fb2",
+      "speaker": "アロエ",
+      "ja": "これ、マナを感じませんね。作り物ですか？",
+      "zh": "这个，感觉不到魔力啊。是人造的吗？"
+    },
+    {
+      "key": "227.0",
+      "line_index": 227,
+      "inline_index": 0,
+      "line_hash": "57647adf",
+      "speaker": "{G_PlayerName}",
+      "ja": "よくわかったな。この蝶も植物の世話をする機械らしいぞ",
+      "zh": "你看出来了啊。这只蝴蝶好像也是照顾植物的机器。"
+    },
+    {
+      "key": "229.1",
+      "line_index": 229,
+      "inline_index": 1,
+      "line_hash": "568a76df",
+      "speaker": "アロエ",
+      "ja": "へー、拠点の植物の水やりに便利そうですね",
+      "zh": "诶—，用来给据点的植物浇水好像挺方便的。"
+    },
+    {
+      "key": "231.0",
+      "line_index": 231,
+      "inline_index": 0,
+      "line_hash": "550a79f5",
+      "speaker": "少年",
+      "ja": "じゃああそこにいるのも機械ですか？",
+      "zh": "那在那边的也是机器吗？"
+    },
+    {
+      "key": "233.0",
+      "line_index": 233,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": "诶？"
+    },
+    {
+      "key": "235.0",
+      "line_index": 235,
+      "inline_index": 0,
+      "line_hash": "a5f7bed0",
+      "speaker": "",
+      "ja": "少年が指さした先を見る。そこにはツヤツヤとした体の、プニプニとした……",
+      "zh": "顺着少年指的方向看去，只见一个油光水滑、软软弹弹的……"
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "bc5edff1",
+      "speaker": "コハル",
+      "ja": "……スライム！？",
+      "zh": "……史莱姆！？"
+    },
+    {
+      "key": "246.0",
+      "line_index": 246,
+      "inline_index": 0,
+      "line_hash": "275561ea",
+      "speaker": "少年",
+      "ja": "や……やっぱり魔物ですか！？",
+      "zh": "果……果然是魔物吗！？"
+    },
+    {
+      "key": "264.0",
+      "line_index": 264,
+      "inline_index": 0,
+      "line_hash": "68949463",
+      "speaker": "",
+      "ja": "こちらが敵意を向けたと判断したのか、飛びかかってくるスライムを、雫が叩き落とす。",
+      "zh": "雫可能觉得对方露出了敌意，一把将扑上来的史莱姆给拍了下来。"
+    },
+    {
+      "key": "266.1",
+      "line_index": 266,
+      "inline_index": 1,
+      "line_hash": "807f522",
+      "speaker": "雫",
+      "ja": "はっ！　……どうやら、ワームホールの影響で現れたようですね！　この１体だけではありません、潜んでいる物も多くいます！",
+      "zh": "哈！……看来是受虫洞影响才冒出来的！而且不止一只，还藏着不少！"
+    },
+    {
+      "key": "268.0",
+      "line_index": 268,
+      "inline_index": 0,
+      "line_hash": "be164471",
+      "speaker": "{G_PlayerName}",
+      "ja": "ワームホールってここまで厄介な事を起こすのか……！",
+      "zh": "虫洞竟然能惹出这种麻烦……！"
+    },
+    {
+      "key": "276.1",
+      "line_index": 276,
+      "inline_index": 1,
+      "line_hash": "bc6adfb6",
+      "speaker": "リルム",
+      "ja": "荒事は慣れてるから任せて！",
+      "zh": "打架我在行，交给我！"
+    },
+    {
+      "key": "278.1",
+      "line_index": 278,
+      "inline_index": 1,
+      "line_hash": "ebee0372",
+      "speaker": "コレット",
+      "ja": "一宿……一宿？　一飯の恩義というやつじゃな。魔物娘の力を見せてやろうぞ",
+      "zh": "一宿……一宿？这就是所谓的一饭之恩吧。让你见识一下魔物娘的力量。"
+    },
+    {
+      "key": "280.1",
+      "line_index": 280,
+      "inline_index": 1,
+      "line_hash": "e05d58c9",
+      "speaker": "アロエ",
+      "ja": "ふふーん、マゾオスは隠れてていいんですよ？",
+      "zh": "哼～，抖M男就躲起来看着吧？"
+    },
+    {
+      "key": "282.0",
+      "line_index": 282,
+      "inline_index": 0,
+      "line_hash": "51efba29",
+      "speaker": "少年",
+      "ja": "ぼ、僕だって手伝うよ！　……何かを",
+      "zh": "我、我也能帮忙的！……总得做点什么。"
+    },
+    {
+      "key": "284.0",
+      "line_index": 284,
+      "inline_index": 0,
+      "line_hash": "237e3340",
+      "speaker": "{G_PlayerName}",
+      "ja": "助かるけど……いいのか？",
+      "zh": "这可帮大忙了……不过，真的好吗？"
+    },
+    {
+      "key": "286.1",
+      "line_index": 286,
+      "inline_index": 1,
+      "line_hash": "1ecfa837",
+      "speaker": "リルム",
+      "ja": "勿論！　この剣の試し切りも、してみたいしね……！",
+      "zh": "当然啦！正好也想拿这把剑试试刀……！"
+    },
+    {
+      "key": "288.0",
+      "line_index": 288,
+      "inline_index": 0,
+      "line_hash": "355b5f85",
+      "speaker": "{G_PlayerName}",
+      "ja": "き、気を付けてくれよ……？",
+      "zh": "小、小心点啊……！？"
+    }
+  ]
+}

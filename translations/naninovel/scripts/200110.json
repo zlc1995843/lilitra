@@ -1,0 +1,499 @@
+{
+  "lines": [
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "b80a1cea",
+      "speaker": "コハル",
+      "ja": "……もうダメ！",
+      "zh": "……不行了！"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "e98dc9cb",
+      "speaker": "ルミナ",
+      "ja": "おつかれ、様……",
+      "zh": "辛苦了……"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "85de398a",
+      "speaker": "",
+      "ja": "チラシズシを食べるコハルが箸を置く。……皿には米粒ひとつ残っておらず、思わず感心した。",
+      "zh": "小春吃完散寿司放下筷子。……盘子里一粒米都没剩，真让人佩服。"
+    },
+    {
+      "key": "30.0",
+      "line_index": 30,
+      "inline_index": 0,
+      "line_hash": "18a93fc9",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハルもギブアップか。これでコハルは３位だな。村じゃそう思ったこと無いけど、結構食べられるんだな",
+      "zh": "小春也投降啦。这样小春就是第三名了。在村里倒没这样觉得，原来她这么能吃啊。"
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "5277c9a2",
+      "speaker": "コハル",
+      "ja": "まだ全然入るけど、これ以上は勿体ないわよ！　美味しいって感じる間だけ食べないと！",
+      "zh": "我还能再吃呢，不过再吃就浪费啦！要在还能尝出美味的时候停下来才行！"
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "9b8cae",
+      "speaker": "{G_PlayerName}",
+      "ja": "そ、そうか……",
+      "zh": "哦、这样啊……"
+    },
+    {
+      "key": "38.1",
+      "line_index": 38,
+      "inline_index": 1,
+      "line_hash": "78335335",
+      "speaker": "雫",
+      "ja": "これで残ったのは……",
+      "zh": "这样就剩……"
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "5b03b033",
+      "speaker": "アイディル",
+      "ja": "は！　そろそろギブアップしたらどうだい、お姫様！",
+      "zh": "哈！公主殿下，差不多该投降了吧！"
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "fef0ce1",
+      "speaker": "トーリ",
+      "ja": "だ～れが！　そっちこそスピードが落ちておるぞ、さっさと降参せい！",
+      "zh": "谁要投降啊！你那边速度都掉下来了，快认输吧！"
+    },
+    {
+      "key": "65.1",
+      "line_index": 65,
+      "inline_index": 1,
+      "line_hash": "189535cd",
+      "speaker": "マロウ",
+      "ja": "おやびーん！　がんばれーっ！　一週間分くらい食べ貯めるっすー！",
+      "zh": "老大！加油！一口气吃掉一星期的份哦！"
+    },
+    {
+      "key": "67.1",
+      "line_index": 67,
+      "inline_index": 1,
+      "line_hash": "9a275973",
+      "speaker": "モル",
+      "ja": "………………",
+      "zh": "…………"
+    },
+    {
+      "key": "69.0",
+      "line_index": 69,
+      "inline_index": 0,
+      "line_hash": "93c8ffba",
+      "speaker": "{G_PlayerName}",
+      "ja": "トーリとアイディルか……",
+      "zh": "托莉和艾迪尔啊……"
+    },
+    {
+      "key": "71.1",
+      "line_index": 71,
+      "inline_index": 1,
+      "line_hash": "228f8416",
+      "speaker": "ルミナ",
+      "ja": "２人とも、すごい……みんなで暴飲暴食……お祭りらしいね……",
+      "zh": "两个人都好厉害……大家一起大吃大喝……真像过节啊……"
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "6920afbf",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうか……？",
+      "zh": "是吗……？"
+    },
+    {
+      "key": "87.1",
+      "line_index": 87,
+      "inline_index": 1,
+      "line_hash": "95d5a9e1",
+      "speaker": "雫",
+      "ja": "ですが、これは長引くでしょうね",
+      "zh": "不过，这样会拖很久吧。"
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "5042dc32",
+      "speaker": "コハル",
+      "ja": "そうね、２人とも負けず嫌いっぽいし……",
+      "zh": "是啊，两人都是不服输的性格……"
+    },
+    {
+      "key": "91.1",
+      "line_index": 91,
+      "inline_index": 1,
+      "line_hash": "370a3317",
+      "speaker": "雫",
+      "ja": "いいえ、そうではありません",
+      "zh": "不，并非如此。"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "11e0cf59",
+      "speaker": "コハル",
+      "ja": "えっ？　違うの？",
+      "zh": "诶？不是吗？"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "5e156d4a",
+      "speaker": "雫",
+      "ja": "リリアンは、魔力としてカロリーをある程度放出することができます。大食い中でもそれは可能……",
+      "zh": "莉安可以将卡路里作为魔力释放到一定程度。就算在暴食中也可以做到……"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "4a6fa902",
+      "speaker": "雫",
+      "ja": "恐らく無意識ですが、２人ともその戦法を使っているようです。限度は勿論ありますが、限界はかなり遠いかと",
+      "zh": "可能是不自觉的，但似乎两人都在用这种战术。当然有极限，但离极限还很远。"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "79694d5e",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえ……な、なるほど……",
+      "zh": "哦……原来如此……"
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "996124bf",
+      "speaker": "雫",
+      "ja": "あなたがぶっちぎりで最下位だったのもその関係です。ご安心ください",
+      "zh": "你被远远甩到最末位也是这个原因。请放心。"
+    },
+    {
+      "key": "103.0",
+      "line_index": 103,
+      "inline_index": 0,
+      "line_hash": "839f0172",
+      "speaker": "{G_PlayerName}",
+      "ja": "そりゃどうも……",
+      "zh": "那还真是多谢了……"
+    },
+    {
+      "key": "116.1",
+      "line_index": 116,
+      "inline_index": 1,
+      "line_hash": "430ebbd1",
+      "speaker": "アイディル",
+      "ja": "ごくごくごく……っ、ぷはーっ！　甘酒、おかわり！",
+      "zh": "咕嘟咕嘟……呼啊！再来一杯甜酒！"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "667b099a",
+      "speaker": "トーリ",
+      "ja": "……くっは～！　こっちもじゃ！",
+      "zh": "……咳哈～！这边也来！"
+    },
+    {
+      "key": "131.0",
+      "line_index": 131,
+      "inline_index": 0,
+      "line_hash": "5ae6332c",
+      "speaker": "{G_PlayerName}",
+      "ja": "流石にお酒は危ないんじゃあ……",
+      "zh": "酒还是有点危险的吧……"
+    },
+    {
+      "key": "133.1",
+      "line_index": 133,
+      "inline_index": 1,
+      "line_hash": "186e57b4",
+      "speaker": "コハル",
+      "ja": "リリアンならアルコールの分解も早いから大丈夫よ？　普通に飲めば酔うけど、本気になれば水みたいなもんよ",
+      "zh": "莉安的话，分解酒精也很快，所以没事的哦？正常喝会醉，但认真起来跟喝水似的。"
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "745a29cc",
+      "speaker": "{G_PlayerName}",
+      "ja": "マジで……？",
+      "zh": "真的……？"
+    },
+    {
+      "key": "137.1",
+      "line_index": 137,
+      "inline_index": 1,
+      "line_hash": "14f7f1a7",
+      "speaker": "コハル",
+      "ja": "まあ、個人差はあるでしょうけど……あたしはお酒飲んだら割と普通に酔っちゃうし",
+      "zh": "嘛，因人而异啦……你喝酒倒是挺容易醉的。"
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "7aa05539",
+      "speaker": "雫",
+      "ja": "やれやれ……流石にこれ以上時間はかけられません。こうしましょう",
+      "zh": "唉……不能再拖下去了。这样吧。"
+    },
+    {
+      "key": "159.1",
+      "line_index": 159,
+      "inline_index": 1,
+      "line_hash": "6d10f8e6",
+      "speaker": "雫",
+      "ja": "ここからは、こちらのみお食べください",
+      "zh": "接下来，请只品尝这边。"
+    },
+    {
+      "key": "161.1",
+      "line_index": 161,
+      "inline_index": 1,
+      "line_hash": "449162b6",
+      "speaker": "アイディル",
+      "ja": "なっ……",
+      "zh": "什……"
+    },
+    {
+      "key": "163.1",
+      "line_index": 163,
+      "inline_index": 1,
+      "line_hash": "59c5d863",
+      "speaker": "トーリ",
+      "ja": "これは……！",
+      "zh": "这是……！"
+    },
+    {
+      "key": "165.0",
+      "line_index": 165,
+      "inline_index": 0,
+      "line_hash": "705cc3bb",
+      "speaker": "",
+      "ja": "トーリ、アイディルの前に並べられ、積み重ねられる色鮮やかな四角い物体。",
+      "zh": "托莉和艾迪尔面前摆上了一叠叠色彩鲜艳的方形物体。"
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "ffa4627e",
+      "speaker": "トーリ",
+      "ja": "菱餅……！",
+      "zh": "菱饼……！"
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "34e095c",
+      "speaker": "雫",
+      "ja": "こちらであれば、リリアンと言えど長続きはしないでしょう。ラストスパートですよお二方",
+      "zh": "这个的话，就算是莉安也撑不了多久。两位，最后冲刺了哦。"
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "125531e6",
+      "speaker": "アイディル",
+      "ja": "くっ……やってやる！",
+      "zh": "可恶……拼了！"
+    },
+    {
+      "key": "178.1",
+      "line_index": 178,
+      "inline_index": 1,
+      "line_hash": "180ce958",
+      "speaker": "トーリ",
+      "ja": "負けるか……！",
+      "zh": "输给你……！"
+    },
+    {
+      "key": "189.1",
+      "line_index": 189,
+      "inline_index": 1,
+      "line_hash": "17cfd9",
+      "speaker": "トーリ",
+      "ja": "ふ……あ、甘い物は別腹と言うが、流石に餅は辛いのう……",
+      "zh": "呼……虽说甜食是用另一个胃来装的，但饼果然还是吃不消啊……"
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "af0d11a",
+      "speaker": "アイディル",
+      "ja": "最初は美味しかったけど、今はもう……アゴが疲れて……",
+      "zh": "一开始还挺好吃的，现在……下巴都累了……"
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "d3cefaac",
+      "speaker": "トーリ",
+      "ja": "ふ……ふん、わらわは普段からこの食事で鍛えられておるわい！　まだまだいけるわ！",
+      "zh": "哼……哼，我平时可就是吃这些东西练出来的！还有余力呢！"
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "8b2f3148",
+      "speaker": "アイディル",
+      "ja": "こ、こんなところで、アイディル海賊団の船長が……",
+      "zh": "在、这种地方，艾迪尔海贼团的船长竟然……"
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "c422404d",
+      "speaker": "アイディル",
+      "ja": "負けてたまるかってのよーっ！",
+      "zh": "怎么能认输啊！"
+    },
+    {
+      "key": "205.0",
+      "line_index": 205,
+      "inline_index": 0,
+      "line_hash": "a3f1f5b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "うおっ、凄い勢いだ……！",
+      "zh": "哇哦，气势好猛……！"
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "5f0d5d05",
+      "speaker": "トーリ",
+      "ja": "くっ、抜かされてしま……！",
+      "zh": "可恶，要被反超了……！"
+    },
+    {
+      "key": "214.1",
+      "line_index": 214,
+      "inline_index": 1,
+      "line_hash": "32cfd533",
+      "speaker": "アイディル",
+      "ja": "っ………………",
+      "zh": "唔…………"
+    },
+    {
+      "key": "221.1",
+      "line_index": 221,
+      "inline_index": 1,
+      "line_hash": "b43fd131",
+      "speaker": "アイディル",
+      "ja": "～～～～～っ！",
+      "zh": "唔噢噢噢噢！"
+    },
+    {
+      "key": "223.1",
+      "line_index": 223,
+      "inline_index": 1,
+      "line_hash": "ca5526bc",
+      "speaker": "トーリ",
+      "ja": "の、喉に詰まらせたのか！？",
+      "zh": "噎、噎住了吗！？"
+    },
+    {
+      "key": "225.0",
+      "line_index": 225,
+      "inline_index": 0,
+      "line_hash": "88465f46",
+      "speaker": "{G_PlayerName}",
+      "ja": "み、水を……！",
+      "zh": "水、快喝水……！"
+    },
+    {
+      "key": "244.1",
+      "line_index": 244,
+      "inline_index": 1,
+      "line_hash": "bc1c3be8",
+      "speaker": "アイディル",
+      "ja": "げほっ、げほっ……！　あー、死ぬかと思った！",
+      "zh": "咳咳、咳咳……！啊，我还以为要死了！"
+    },
+    {
+      "key": "246.1",
+      "line_index": 246,
+      "inline_index": 1,
+      "line_hash": "3b196693",
+      "speaker": "モル",
+      "ja": "……すみません",
+      "zh": "……抱歉。"
+    },
+    {
+      "key": "248.1",
+      "line_index": 248,
+      "inline_index": 1,
+      "line_hash": "ec4a07de",
+      "speaker": "モル",
+      "ja": "祭っていうのは……節度を持って……楽しむ物だと思います……",
+      "zh": "节日……我觉得是要有节制地去享受的……"
+    },
+    {
+      "key": "251.1",
+      "line_index": 251,
+      "inline_index": 1,
+      "line_hash": "a20981d0",
+      "speaker": "アイディル",
+      "ja": "は、はいっ！",
+      "zh": "是、是的！"
+    },
+    {
+      "key": "253.1",
+      "line_index": 253,
+      "inline_index": 1,
+      "line_hash": "de929d5c",
+      "speaker": "トーリ",
+      "ja": "い、言う通りじゃな……",
+      "zh": "说、说得是……"
+    },
+    {
+      "key": "255.0",
+      "line_index": 255,
+      "inline_index": 0,
+      "line_hash": "c3d87119",
+      "speaker": "{G_PlayerName}",
+      "ja": "（モルも怒ったりするんだな……）",
+      "zh": "（莫尔也会发火的啊……）"
+    }
+  ]
+}

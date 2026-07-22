@@ -1,0 +1,634 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "ee20f9d0",
+      "speaker": "ルミナ",
+      "ja": "……うーん……",
+      "zh": ""
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "17a1ac1b",
+      "speaker": "",
+      "ja": "ルミナがラウンジで、文字だらけの画面とにらめっこしている。こちらに気がつくと、ルミナが微笑んだ。",
+      "zh": ""
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "8ab0ef87",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……",
+      "zh": ""
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "ff37d805",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだルミナ。読書か？",
+      "zh": ""
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "aa7d1d0d",
+      "speaker": "ルミナ",
+      "ja": "ちょっと……ね。他の星について、とか……歴史について調べてたんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "97dfd6ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "べ、勉強か……",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "5ca3ff94",
+      "speaker": "ルミナ",
+      "ja": "勉強、ってほどじゃ、ないよ……えっと……観光ガイド、みたいな……？",
+      "zh": ""
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "cb2baf0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ガイド？　それはちょっと面白そうだな……",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "308ec98a",
+      "speaker": "ルミナ",
+      "ja": "うん……でも、ちょっとわからないところがあって……",
+      "zh": ""
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "eda7d7ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "わからないところ？",
+      "zh": ""
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "6556ef1b",
+      "speaker": "",
+      "ja": "・　・　・　・　・　・　・",
+      "zh": ""
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "2874cd3d",
+      "speaker": "コハル",
+      "ja": "ひなまつり？",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "f74ba12b",
+      "speaker": "ルミナ",
+      "ja": "うん……和と桜花の星、っていうところで……この季節に、やってるお祭りらしいんだけど……",
+      "zh": ""
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "ae1efd75",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、いつの間に来たんだよ……",
+      "zh": ""
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "36ee34bd",
+      "speaker": "コハル",
+      "ja": "何よ、来ちゃ悪い？　なんか楽しそうな話してたから気になったの！",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "41f95e56",
+      "speaker": "ルミナ",
+      "ja": "ひな祭りのこと、この時期にあるお祭り……ってことしか、書かれてなくて……ちょっと、気になったの……",
+      "zh": ""
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "1f1c3f77",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー、なるほどなあ……当たり前だけど、俺たちは知らないよな。コハルもだろ？",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "a4930e97",
+      "speaker": "コハル",
+      "ja": "聞いたこともないわねー、雪解け祭とか豊穣祭とかならあるけど。村で配るスープ、美味しいけど飽きるのよねー",
+      "zh": ""
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "90024fec",
+      "speaker": "{G_PlayerName}",
+      "ja": "芋ばっかりのやつな。……ひな祭りはそういうのとは違うんだよな？",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "ea8b8de2",
+      "speaker": "ルミナ",
+      "ja": "た、ぶん……？　ちょっと、別の本も調べてみよう、かな……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "dbc2bc0f",
+      "speaker": "雫",
+      "ja": "ルミナ様、コハル様。お紅茶をお持ちしました",
+      "zh": ""
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "4493efc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、雫。俺のは……",
+      "zh": ""
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "85deea48",
+      "speaker": "雫",
+      "ja": "ありません。自分でお淹れなさい",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "785b65c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "だよな……",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "15a37b0d",
+      "speaker": "",
+      "ja": "コハルのほうが後から来たのに、俺のぶんが無いということは故意だろう。酷い。",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "b5fe4258",
+      "speaker": "コハル",
+      "ja": "もう！　幼稚な嫌がらせやめなさいよ！",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "8dafd261",
+      "speaker": "雫",
+      "ja": "嫌がらせではございません。マニュアル通りの対応でございます",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "67a1f2a0",
+      "speaker": "コハル",
+      "ja": "どんなマニュアルよ……はあ、前機械の使い方教えてもらったし、{G_PlayerName}のぶん持ってきてあげる。何飲む？",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "9d7495f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、悪いな……じゃあ温かいやつ適当に……",
+      "zh": ""
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "33a88a00",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そういえば、雫は何か知らないのか？　ひな祭りについて……",
+      "zh": ""
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "539750a",
+      "speaker": "ルミナ",
+      "ja": "あ……雫、は……",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "6ba01d67",
+      "speaker": "雫",
+      "ja": "いえ、私も存じ上げませんね",
+      "zh": ""
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "f2049bc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだ、そうなのか……",
+      "zh": ""
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "eb67bd4e",
+      "speaker": "ルミナ",
+      "ja": "……あっ、ひな祭りを題材にした話、見つけたよ………物語の一節にちょっとあるだけだから、よくはわからないかも……だけど……",
+      "zh": ""
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "c3b8c047",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ、どれどれ？",
+      "zh": ""
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "87bcbd2",
+      "speaker": "コハル",
+      "ja": "はい、お茶……何か見つけた？",
+      "zh": ""
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "e1de64e",
+      "speaker": "ルミナ",
+      "ja": "えっと……カウンターの上に、お人形がいっぱい並んでる。人形を売る、お祭り……みたい？",
+      "zh": ""
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "f890556a",
+      "speaker": "{G_PlayerName}",
+      "ja": "へぇ……人形のお祭りなのか",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "ecead438",
+      "speaker": "コハル",
+      "ja": "人形劇とかするの？",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "9c4d6877",
+      "speaker": "ルミナ",
+      "ja": "うん……してるみたい。あと……夫婦の人形が名物？　みたい……",
+      "zh": ""
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "32b8165",
+      "speaker": "{G_PlayerName}",
+      "ja": "夫婦の人形ねぇ……雫、なにプルプルしてるんだ",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "921125c7",
+      "speaker": "雫",
+      "ja": "い……いえ……別に……",
+      "zh": ""
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "b5972156",
+      "speaker": "コハル",
+      "ja": "人形があればできる祭りなの？　だったらちょっと頑張れば、宇宙船の中でも……？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "1ece17ab",
+      "speaker": "雫",
+      "ja": "……ですが、異星の祭を調べたところで再現はできないでしょう。写真のひとつも無いならば…",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "9b86842b",
+      "speaker": "{G_PlayerName}",
+      "ja": "気分だけ味わうくらいなら出来るんじゃないか？　ルミナは興味があるんだよな？",
+      "zh": ""
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "e2b6a1b2",
+      "speaker": "ルミナ",
+      "ja": "あ……うん、やって、みたい……",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "c362fffd",
+      "speaker": "雫",
+      "ja": "で、ですが物資にも限りがございますし……",
+      "zh": ""
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "a74d606a",
+      "speaker": "アポロ",
+      "ja": "物資であれば、補充したばかりですので多少は余裕がありますが",
+      "zh": ""
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "17b6db38",
+      "speaker": "雫",
+      "ja": "……では、仕方ありませんね……",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "12fdb5a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どうしたんだ、雫……今までならルミナの頼みってだけで、秒でノリ気になってたと思うんだが……）",
+      "zh": ""
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "f4a5e429",
+      "speaker": "アポロ",
+      "ja": "では、人形をご用意するということでよろしいですか？",
+      "zh": ""
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "9f3e5e0c",
+      "speaker": "ルミナ",
+      "ja": "うん……でき、そう……？",
+      "zh": ""
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "2b9c0512",
+      "speaker": "アポロ",
+      "ja": "設計図のデータはありますので問題ありません。プリントアウトしてみましょう",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "2fb1af3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな気軽に作れるのか……本当に多機能だな……",
+      "zh": ""
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "6e6ca80b",
+      "speaker": "アポロ",
+      "ja": "フ……最先端技術の結晶であるワタシであれば当然。すぐに済ませてみせましょう",
+      "zh": ""
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "b91e9337",
+      "speaker": "コハル",
+      "ja": "これが……人形？　変わった服ね",
+      "zh": ""
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "48dc4fc3",
+      "speaker": "ルミナ",
+      "ja": "ウェディングドレス、に、タキシード……",
+      "zh": ""
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": ""
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "c86d102e",
+      "speaker": "ルミナ",
+      "ja": "すごい……ね。イメージ通り……",
+      "zh": ""
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "1bada04f",
+      "speaker": "アポロ",
+      "ja": "恐縮でございます。他の人形もございます",
+      "zh": ""
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "f79fac5f",
+      "speaker": "アポロ",
+      "ja": "参考資料がございませんでしたので、結婚式の参列者と予想しましたが……",
+      "zh": ""
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "716488dd",
+      "speaker": "ルミナ",
+      "ja": "すごい……いっぱい。豪華な結婚式だね……",
+      "zh": ""
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "3cd4cc0f",
+      "speaker": "雫",
+      "ja": "……はあ……",
+      "zh": ""
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "165fe3c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、ため息なんてついて",
+      "zh": ""
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "e6731a5",
+      "speaker": "雫",
+      "ja": "なんでもございません……",
+      "zh": ""
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "d0d74505",
+      "speaker": "コハル",
+      "ja": "じゃ、ひな祭り始めましょっ！",
+      "zh": ""
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "a030cc7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おうっ！",
+      "zh": ""
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "c0d5e609",
+      "speaker": "雫",
+      "ja": "（ひな祭り……多分、男やコハル様を楽しませようとルミナ様が色々調べているのでしょうね）",
+      "zh": ""
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "1cad76c9",
+      "speaker": "雫",
+      "ja": "（やや時季外れではありますが……まあ、宇宙なら関係ありませんか。ルミナ様には申し訳ありませんが、ここは静観いたしましょう）",
+      "zh": ""
+    }
+  ]
+}

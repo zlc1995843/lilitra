@@ -1,0 +1,733 @@
+{
+  "lines": [
+    {
+      "key": "9.0",
+      "line_index": 9,
+      "inline_index": 0,
+      "line_hash": "46e3c503",
+      "speaker": "{G_PlayerName}",
+      "ja": "……おお……",
+      "zh": ""
+    },
+    {
+      "key": "11.0",
+      "line_index": 11,
+      "inline_index": 0,
+      "line_hash": "6eb99db7",
+      "speaker": "",
+      "ja": "見たこともない、色とりどりに立ち並ぶ独特なデザインの屋台に目を奪われる。",
+      "zh": ""
+    },
+    {
+      "key": "13.0",
+      "line_index": 13,
+      "inline_index": 0,
+      "line_hash": "ce39253f",
+      "speaker": "",
+      "ja": "雑踏や店の呼び込み、並んだ客の話し声が嫌でも耳に入り込み、脳がくわんくわんと回されているような錯覚を覚えた。",
+      "zh": ""
+    },
+    {
+      "key": "23.1",
+      "line_index": 23,
+      "inline_index": 1,
+      "line_hash": "3e227ac2",
+      "speaker": "コハル",
+      "ja": "う……わぁ……王都でも、こんな光景見られないんじゃない！？　ちょっと{G_PlayerName}、大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "25.0",
+      "line_index": 25,
+      "inline_index": 0,
+      "line_hash": "3bdca346",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、ああ。なんか圧倒されちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "27.1",
+      "line_index": 27,
+      "inline_index": 1,
+      "line_hash": "738ae6c0",
+      "speaker": "雫",
+      "ja": "ルミナ様、あまり離れないようになさってください。この人混みでは、子供でなくてもはぐれてしまいそうです",
+      "zh": ""
+    },
+    {
+      "key": "29.1",
+      "line_index": 29,
+      "inline_index": 1,
+      "line_hash": "43e43956",
+      "speaker": "ルミナ",
+      "ja": "うん……！　でも、すごい……ね。本で読んだ通りの……お祭り、だよ……",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "e9ed9f61",
+      "speaker": "雫",
+      "ja": "はい。確かに……再現されていますね",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "52a31c29",
+      "speaker": "ルミナ",
+      "ja": "あっ……雫、ごめん……ね？",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "f44223c9",
+      "speaker": "雫",
+      "ja": "いいえ。今となっては関係ありませんから。雫は未来に生きる女です",
+      "zh": ""
+    },
+    {
+      "key": "37.0",
+      "line_index": 37,
+      "inline_index": 0,
+      "line_hash": "ba6a20b0",
+      "speaker": "{G_PlayerName}",
+      "ja": "今を生きろよ……雫、夏祭りに詳しいのか？　……ひな祭りにも詳しかったよな",
+      "zh": ""
+    },
+    {
+      "key": "39.1",
+      "line_index": 39,
+      "inline_index": 1,
+      "line_hash": "f970abee",
+      "speaker": "コハル",
+      "ja": "え……もしかして雫、祭りマスター？",
+      "zh": ""
+    },
+    {
+      "key": "41.1",
+      "line_index": 41,
+      "inline_index": 1,
+      "line_hash": "66d59cbc",
+      "speaker": "雫",
+      "ja": "なんですか祭りマスターとは。……こうなってしまっては隠すわけにもいきません。私の出身、ルミナ様に拾われる前……",
+      "zh": ""
+    },
+    {
+      "key": "50.1",
+      "line_index": 50,
+      "inline_index": 1,
+      "line_hash": "364c215b",
+      "speaker": "ベス",
+      "ja": "ふう……ようやく着替えられたわ。すごい光景ね……",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "8a40b5d9",
+      "speaker": "スゥ",
+      "ja": "すごーい！　色んなお店がいっぱーい！",
+      "zh": ""
+    },
+    {
+      "key": "53.1",
+      "line_index": 53,
+      "inline_index": 1,
+      "line_hash": "da78308a",
+      "speaker": "雫",
+      "ja": "……と、まあこんな時に話すのもおかしいですね。機会があれば話しましょう",
+      "zh": ""
+    },
+    {
+      "key": "55.0",
+      "line_index": 55,
+      "inline_index": 0,
+      "line_hash": "df436d0a",
+      "speaker": "{G_PlayerName}",
+      "ja": "ええ……気になるんだが……",
+      "zh": ""
+    },
+    {
+      "key": "57.1",
+      "line_index": 57,
+      "inline_index": 1,
+      "line_hash": "c32cb733",
+      "speaker": "雫",
+      "ja": "ふん、レディーの過去を詮索するとはデリカシーの無い男。まあ結局、私の出身地では古い風習が残っていたというだけの話です",
+      "zh": ""
+    },
+    {
+      "key": "59.0",
+      "line_index": 59,
+      "inline_index": 0,
+      "line_hash": "52395e42",
+      "speaker": "{G_PlayerName}",
+      "ja": "（なんか、また聞きそびれたな……）",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "47f32a77",
+      "speaker": "ベス",
+      "ja": "このお店、何を売っているの？",
+      "zh": ""
+    },
+    {
+      "key": "71.0",
+      "line_index": 71,
+      "inline_index": 0,
+      "line_hash": "d8e42817",
+      "speaker": "{G_PlayerName}",
+      "ja": "えーと……アメだな",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "b08833b1",
+      "speaker": "ベス",
+      "ja": "アメっ！？　この見た目でアメなの！？　大きすぎない！？",
+      "zh": ""
+    },
+    {
+      "key": "73.0",
+      "line_index": 73,
+      "inline_index": 0,
+      "line_hash": "9468545b",
+      "speaker": "{G_PlayerName}",
+      "ja": "果物をアメでコーティングした物らしいぞ",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "55bc7757",
+      "speaker": "ベス",
+      "ja": "そういえばスゥが持ってるのと似てるわね……？",
+      "zh": ""
+    },
+    {
+      "key": "80.1",
+      "line_index": 80,
+      "inline_index": 1,
+      "line_hash": "e6d052cb",
+      "speaker": "スゥ",
+      "ja": "さっきお兄ちゃんに買ってもらったんだ～！",
+      "zh": ""
+    },
+    {
+      "key": "85.0",
+      "line_index": 85,
+      "inline_index": 0,
+      "line_hash": "dee43952",
+      "speaker": "{G_PlayerName}",
+      "ja": "ベスも要るか？",
+      "zh": ""
+    },
+    {
+      "key": "86.1",
+      "line_index": 86,
+      "inline_index": 1,
+      "line_hash": "7190b48f",
+      "speaker": "ベス",
+      "ja": "わっ！　私は別に……",
+      "zh": ""
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "31673c27",
+      "speaker": "{G_PlayerName}",
+      "ja": "遠慮しなくていいって。気になった物は買わなきゃもったいないだろ？　すみませーん！",
+      "zh": ""
+    },
+    {
+      "key": "88.1",
+      "line_index": 88,
+      "inline_index": 1,
+      "line_hash": "38741c7",
+      "speaker": "ベス",
+      "ja": "え？　あ、ちょっと！",
+      "zh": ""
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "638cc491",
+      "speaker": "{G_PlayerName}",
+      "ja": "ほら、気をつけて持てよー",
+      "zh": ""
+    },
+    {
+      "key": "90.1",
+      "line_index": 90,
+      "inline_index": 1,
+      "line_hash": "acbe365c",
+      "speaker": "ベス",
+      "ja": "あ……ありがとう。どう食べるの？　コレ……",
+      "zh": ""
+    },
+    {
+      "key": "91.0",
+      "line_index": 91,
+      "inline_index": 0,
+      "line_hash": "a4b2e440",
+      "speaker": "{G_PlayerName}",
+      "ja": "こう……歯で、思い切りよく",
+      "zh": ""
+    },
+    {
+      "key": "92.1",
+      "line_index": 92,
+      "inline_index": 1,
+      "line_hash": "ad49e910",
+      "speaker": "ベス",
+      "ja": "貴族たるもの、そんなはしたない……！",
+      "zh": ""
+    },
+    {
+      "key": "93.0",
+      "line_index": 93,
+      "inline_index": 0,
+      "line_hash": "41dcc620",
+      "speaker": "{G_PlayerName}",
+      "ja": "でも食べないともったいないだろ",
+      "zh": ""
+    },
+    {
+      "key": "94.1",
+      "line_index": 94,
+      "inline_index": 1,
+      "line_hash": "a930b63",
+      "speaker": "ベス",
+      "ja": "う……そ……そうね。",
+      "zh": ""
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "e3dfafe7",
+      "speaker": "ベス",
+      "ja": "……えいっ！",
+      "zh": ""
+    },
+    {
+      "key": "96.1",
+      "line_index": 96,
+      "inline_index": 1,
+      "line_hash": "a7fe5f6d",
+      "speaker": "ベス",
+      "ja": "……！",
+      "zh": ""
+    },
+    {
+      "key": "97.0",
+      "line_index": 97,
+      "inline_index": 0,
+      "line_hash": "6992bf5b",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうだ？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "c6d9881b",
+      "speaker": "ベス",
+      "ja": "ま、まあまあね……っ、夏祭りとやらも、っ、侮れないわ",
+      "zh": ""
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "77401a7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "（剥がれ落ちそうな部分を、口で必死に受け止めながら喋ってる……）",
+      "zh": ""
+    },
+    {
+      "key": "110.1",
+      "line_index": 110,
+      "inline_index": 1,
+      "line_hash": "7dbb78e5",
+      "speaker": "ルミナ",
+      "ja": "……あ、れ？",
+      "zh": ""
+    },
+    {
+      "key": "111.0",
+      "line_index": 111,
+      "inline_index": 0,
+      "line_hash": "a7599cea",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうした、ルミナ？",
+      "zh": ""
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "8cb0fc0c",
+      "speaker": "ルミナ",
+      "ja": "どこかから……子どもの……泣き声が……",
+      "zh": ""
+    },
+    {
+      "key": "113.0",
+      "line_index": 113,
+      "inline_index": 0,
+      "line_hash": "6d23ac03",
+      "speaker": "{G_PlayerName}",
+      "ja": "あー、まあこれだけの人だしな。転んで泣いたりする子供もいるんじゃないか？",
+      "zh": ""
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "b99dba39",
+      "speaker": "ルミナ",
+      "ja": "……ううん。さっきからずっと……こっち",
+      "zh": ""
+    },
+    {
+      "key": "121.0",
+      "line_index": 121,
+      "inline_index": 0,
+      "line_hash": "aecf849f",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、おいルミナ！",
+      "zh": ""
+    },
+    {
+      "key": "132.1",
+      "line_index": 132,
+      "inline_index": 1,
+      "line_hash": "10683524",
+      "speaker": "ルミナ",
+      "ja": "大丈夫？",
+      "zh": ""
+    },
+    {
+      "key": "133.0",
+      "line_index": 133,
+      "inline_index": 0,
+      "line_hash": "3eee70a0",
+      "speaker": "",
+      "ja": "ルミナが走った先には、確かに顔をくしゃくしゃにして泣いている子供がいた。辺りを見回すが、親はいなさそうだ。",
+      "zh": ""
+    },
+    {
+      "key": "135.0",
+      "line_index": 135,
+      "inline_index": 0,
+      "line_hash": "32dd7c9b",
+      "speaker": "{G_PlayerName}",
+      "ja": "迷子か……？",
+      "zh": ""
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "368c9232",
+      "speaker": "ルミナ",
+      "ja": "お母さんか……お父さんは……？",
+      "zh": ""
+    },
+    {
+      "key": "137.0",
+      "line_index": 137,
+      "inline_index": 0,
+      "line_hash": "c142e48",
+      "speaker": "子供",
+      "ja": "うう……ひっ……うわああぁぁん！",
+      "zh": ""
+    },
+    {
+      "key": "138.0",
+      "line_index": 138,
+      "inline_index": 0,
+      "line_hash": "807d4c39",
+      "speaker": "{G_PlayerName}",
+      "ja": "会話出来ないな……落ち着くまで待つか？",
+      "zh": ""
+    },
+    {
+      "key": "139.1",
+      "line_index": 139,
+      "inline_index": 1,
+      "line_hash": "238d12b5",
+      "speaker": "ルミナ",
+      "ja": "どうしよう……そうだ",
+      "zh": ""
+    },
+    {
+      "key": "147.0",
+      "line_index": 147,
+      "inline_index": 0,
+      "line_hash": "213c0f68",
+      "speaker": "子供",
+      "ja": "ひっ……！　っ……！　すご、い……！",
+      "zh": ""
+    },
+    {
+      "key": "148.0",
+      "line_index": 148,
+      "inline_index": 0,
+      "line_hash": "bbf82172",
+      "speaker": "",
+      "ja": "美しい七色の光が、近くにあった屋台の壁で踊り始めた。ルミナの能力だろう。",
+      "zh": ""
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "c5d6a79a",
+      "speaker": "{G_PlayerName}",
+      "ja": "お、おお……すごい、一瞬で泣き止んだ……",
+      "zh": ""
+    },
+    {
+      "key": "151.1",
+      "line_index": 151,
+      "inline_index": 1,
+      "line_hash": "3ef2f462",
+      "speaker": "ルミナ",
+      "ja": "ぼく、どうしたの？",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "cc8e6552",
+      "speaker": "子供",
+      "ja": "さっきまで……お母さんと一緒にいたのに、いつの間にか……いなくなっちゃって……",
+      "zh": ""
+    },
+    {
+      "key": "153.0",
+      "line_index": 153,
+      "inline_index": 0,
+      "line_hash": "4fdd2391",
+      "speaker": "{G_PlayerName}",
+      "ja": "さっきはどんなお店見てたか、覚えてるか？",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "b4c02ad9",
+      "speaker": "子供",
+      "ja": "なんか……細長い……ソーセージの……",
+      "zh": ""
+    },
+    {
+      "key": "155.1",
+      "line_index": 155,
+      "inline_index": 1,
+      "line_hash": "1c5991e1",
+      "speaker": "ルミナ",
+      "ja": "それだったら、さっき見たかも……そっちに行って、みる……？",
+      "zh": ""
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "8f7b734f",
+      "speaker": "母親",
+      "ja": "ありがとうございます！　全然見つからなくて……！",
+      "zh": ""
+    },
+    {
+      "key": "167.1",
+      "line_index": 167,
+      "inline_index": 1,
+      "line_hash": "c2c7a335",
+      "speaker": "ルミナ",
+      "ja": "いえ……よかったです……",
+      "zh": ""
+    },
+    {
+      "key": "168.0",
+      "line_index": 168,
+      "inline_index": 0,
+      "line_hash": "56ee881e",
+      "speaker": "",
+      "ja": "あれからすぐに、声を上げて子供を探している母親を見つけることができた。少し離れていたから、ルミナが見つけていなかったら相当時間がかかったかも知れない。",
+      "zh": ""
+    },
+    {
+      "key": "170.0",
+      "line_index": 170,
+      "inline_index": 0,
+      "line_hash": "5c649144",
+      "speaker": "母親",
+      "ja": "もう、手を離しちゃダメよ！　ただでさえ、最近の夏祭りは危ないんだから！",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "bf0c6efe",
+      "speaker": "ルミナ",
+      "ja": "危ない……？",
+      "zh": ""
+    },
+    {
+      "key": "172.0",
+      "line_index": 172,
+      "inline_index": 0,
+      "line_hash": "5f83c58e",
+      "speaker": "母親",
+      "ja": "あら、ご存じない？　夏祭りを金儲けとしか見てない物騒な人が、難癖をつけてお金を取ろうとしたり、誘拐したりとか聞きますよ",
+      "zh": ""
+    },
+    {
+      "key": "173.0",
+      "line_index": 173,
+      "inline_index": 0,
+      "line_hash": "8b61948b",
+      "speaker": "{G_PlayerName}",
+      "ja": "それは……怖いな",
+      "zh": ""
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "dd95186f",
+      "speaker": "母親",
+      "ja": "伝統ある祭りなのに、迷惑ですよね！　……本当にありがとうございました！　これ、お礼に！",
+      "zh": ""
+    },
+    {
+      "key": "175.0",
+      "line_index": 175,
+      "inline_index": 0,
+      "line_hash": "10b55d42",
+      "speaker": "子供",
+      "ja": "ばいばい、おねーちゃんおにーちゃん！",
+      "zh": ""
+    },
+    {
+      "key": "180.1",
+      "line_index": 180,
+      "inline_index": 1,
+      "line_hash": "8a4751c5",
+      "speaker": "ルミナ",
+      "ja": "あの、お礼なんて本当に……行っちゃった",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "418ead57",
+      "speaker": "{G_PlayerName}",
+      "ja": "何もらったんだ？",
+      "zh": ""
+    },
+    {
+      "key": "182.1",
+      "line_index": 182,
+      "inline_index": 1,
+      "line_hash": "8c693d41",
+      "speaker": "ルミナ",
+      "ja": "引換券……屋台の商品と引き換えられるんだって",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "1ae44504",
+      "speaker": "{G_PlayerName}",
+      "ja": "へえー！　いいもの貰ったな",
+      "zh": ""
+    },
+    {
+      "key": "184.1",
+      "line_index": 184,
+      "inline_index": 1,
+      "line_hash": "7620e7ef",
+      "speaker": "ルミナ",
+      "ja": "うん……！　でも……なんだか怖い話、聞いちゃったね……",
+      "zh": ""
+    },
+    {
+      "key": "185.0",
+      "line_index": 185,
+      "inline_index": 0,
+      "line_hash": "5c19da1e",
+      "speaker": "{G_PlayerName}",
+      "ja": "だな。何事もないといいけど……",
+      "zh": ""
+    },
+    {
+      "key": "196.0",
+      "line_index": 196,
+      "inline_index": 0,
+      "line_hash": "29ecdcf9",
+      "speaker": "？？？",
+      "ja": "…………見つけた……",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "bae21cee",
+      "speaker": "？？？",
+      "ja": "絶対、逃さない……！",
+      "zh": ""
+    },
+    {
+      "key": "203.0",
+      "line_index": 203,
+      "inline_index": 0,
+      "line_hash": "c0b72376",
+      "speaker": "声",
+      "ja": "おーい、真宵！　どこいった？",
+      "zh": ""
+    },
+    {
+      "key": "205.1",
+      "line_index": 205,
+      "inline_index": 1,
+      "line_hash": "6ebc6040",
+      "speaker": "真宵",
+      "ja": "あっ、すぐ行く！",
+      "zh": ""
+    },
+    {
+      "key": "207.1",
+      "line_index": 207,
+      "inline_index": 1,
+      "line_hash": "a26d7a20",
+      "speaker": "真宵",
+      "ja": "ふふっ♪　……面白い祭になりそうね……♥",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "ce3d9875",
+      "speaker": "ルミナ",
+      "ja": "雫、ひな祭りの事はあまり覚えてないのかなって、思ってたけど……",
+      "zh": ""
+    },
+    {
+      "key": "17.1",
+      "line_index": 17,
+      "inline_index": 1,
+      "line_hash": "5af6f3f7",
+      "speaker": "雫",
+      "ja": "も、黙秘権！　黙秘権を行使いたします！",
+      "zh": ""
+    },
+    {
+      "key": "19.0",
+      "line_index": 19,
+      "inline_index": 0,
+      "line_hash": "317bc792",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだそれ……",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "a40bf6f5",
+      "speaker": "トーリ",
+      "ja": "なんじゃ！　知ってたのなら、なぜ早くそれを言わん！",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "7443c4ca",
+      "speaker": "雫",
+      "ja": "わ、わたくしにも色々と事情が……",
+      "zh": ""
+    },
+    {
+      "key": "28.1",
+      "line_index": 28,
+      "inline_index": 1,
+      "line_hash": "566d7936",
+      "speaker": "ルミナ",
+      "ja": "雫……私、ひな祭りのこと、知りたいの。",
+      "zh": ""
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "c3a2871a",
+      "speaker": "雫",
+      "ja": "…………",
+      "zh": ""
+    },
+    {
+      "key": "32.1",
+      "line_index": 32,
+      "inline_index": 1,
+      "line_hash": "abb91c2b",
+      "speaker": "ルミナ",
+      "ja": "ひな祭りがあった星のこと、思い出すのが……もし嫌じゃなかったら、だけど……話してくれない、かな",
+      "zh": ""
+    },
+    {
+      "key": "34.1",
+      "line_index": 34,
+      "inline_index": 1,
+      "line_hash": "6cde4816",
+      "speaker": "雫",
+      "ja": "…………かしこまりました。わたくし、腹をおくくりいたします",
+      "zh": ""
+    },
+    {
+      "key": "36.0",
+      "line_index": 36,
+      "inline_index": 0,
+      "line_hash": "e83d289f",
+      "speaker": "{G_PlayerName}",
+      "ja": "（おくくりいたします、って……）",
+      "zh": ""
+    },
+    {
+      "key": "43.1",
+      "line_index": 43,
+      "inline_index": 1,
+      "line_hash": "6a58d781",
+      "speaker": "雫",
+      "ja": "ひな祭りというものは、そもそも女の子の健やかな成長を願う祭りです",
+      "zh": ""
+    },
+    {
+      "key": "45.1",
+      "line_index": 45,
+      "inline_index": 1,
+      "line_hash": "ad3d5db0",
+      "speaker": "ルミナ",
+      "ja": "そう、なんだ……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "2d5a41cd",
+      "speaker": "トーリ",
+      "ja": "そこは同じじゃな！",
+      "zh": ""
+    },
+    {
+      "key": "49.0",
+      "line_index": 49,
+      "inline_index": 0,
+      "line_hash": "7f4bd842",
+      "speaker": "{G_PlayerName}",
+      "ja": "同じか！？　……男の子は？",
+      "zh": ""
+    },
+    {
+      "key": "51.1",
+      "line_index": 51,
+      "inline_index": 1,
+      "line_hash": "83903380",
+      "speaker": "雫",
+      "ja": "対象外です。……まあ、別の祭がありますけど",
+      "zh": ""
+    },
+    {
+      "key": "53.0",
+      "line_index": 53,
+      "inline_index": 0,
+      "line_hash": "96b4c666",
+      "speaker": "{G_PlayerName}",
+      "ja": "そうなのか……でも、それなら隠す理由無くないか？　お前なら、ルミナの健康願って盛大に開きそうなもんだが",
+      "zh": ""
+    },
+    {
+      "key": "55.1",
+      "line_index": 55,
+      "inline_index": 1,
+      "line_hash": "50004967",
+      "speaker": "雫",
+      "ja": "……この祭には、あなた方も何度か話題に上げていた夫婦の人形……お内裏様、お雛様と呼ばれる物があります",
+      "zh": ""
+    },
+    {
+      "key": "57.0",
+      "line_index": 57,
+      "inline_index": 0,
+      "line_hash": "a258876b",
+      "speaker": "{G_PlayerName}",
+      "ja": "はあ…………",
+      "zh": ""
+    },
+    {
+      "key": "59.1",
+      "line_index": 59,
+      "inline_index": 1,
+      "line_hash": "1af7a632",
+      "speaker": "雫",
+      "ja": "それを伝えれば、ルミナ様がお雛様を演じるのは確定事項。ともすれば、私がお内裏様となるのがベストですが……",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "be0b38b4",
+      "speaker": "雫",
+      "ja": "この船にいる男は、あなたただ一人！　見合わぬ大役といえど、あなたが選ばれる可能性は十分！",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "11036e1f",
+      "speaker": "雫",
+      "ja": "そのような、耐え難い事態が目の前で繰り広げられると考えただけで……！　ああ、悍ましい！",
+      "zh": ""
+    },
+    {
+      "key": "66.0",
+      "line_index": 66,
+      "inline_index": 0,
+      "line_hash": "bb17bf",
+      "speaker": "{G_PlayerName}",
+      "ja": "（まさかそんなくだらない理由だったとは……）",
+      "zh": ""
+    },
+    {
+      "key": "68.1",
+      "line_index": 68,
+      "inline_index": 1,
+      "line_hash": "c8d3d360",
+      "speaker": "ルミナ",
+      "ja": "し、雫…………",
+      "zh": ""
+    },
+    {
+      "key": "70.1",
+      "line_index": 70,
+      "inline_index": 1,
+      "line_hash": "f602faf4",
+      "speaker": "雫",
+      "ja": "申し訳ございませんでした、ルミナ様……",
+      "zh": ""
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "4348ad32",
+      "speaker": "ルミナ",
+      "ja": "雫、無理させちゃってごめんね……でも、私、雫とひな祭りを楽しみたい……",
+      "zh": ""
+    },
+    {
+      "key": "74.1",
+      "line_index": 74,
+      "inline_index": 1,
+      "line_hash": "36980f3d",
+      "speaker": "雫",
+      "ja": "ルミナ様っ……！",
+      "zh": ""
+    },
+    {
+      "key": "76.0",
+      "line_index": 76,
+      "inline_index": 0,
+      "line_hash": "499dbbbb",
+      "speaker": "{G_PlayerName}",
+      "ja": "要は俺がオダイリサマ？　の格好しなきゃいいんだろ",
+      "zh": ""
+    },
+    {
+      "key": "78.1",
+      "line_index": 78,
+      "inline_index": 1,
+      "line_hash": "3033ded3",
+      "speaker": "雫",
+      "ja": "男…………！",
+      "zh": ""
+    },
+    {
+      "key": "80.0",
+      "line_index": 80,
+      "inline_index": 0,
+      "line_hash": "bc0df46e",
+      "speaker": "{G_PlayerName}",
+      "ja": "いい加減名前で呼んでくれ……",
+      "zh": ""
+    },
+    {
+      "key": "82.1",
+      "line_index": 82,
+      "inline_index": 1,
+      "line_hash": "51c5fcd7",
+      "speaker": "雫",
+      "ja": "では、ひな祭りを楽しむとしましょうか",
+      "zh": ""
+    },
+    {
+      "key": "89.1",
+      "line_index": 89,
+      "inline_index": 1,
+      "line_hash": "7694db09",
+      "speaker": "トーリ",
+      "ja": "しかしそうなると、広めておったひな祭りが真実ではなかったのか……",
+      "zh": ""
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "9bb86b22",
+      "speaker": "コハル",
+      "ja": "そもそも、どこであの祭を知ったの？",
+      "zh": ""
+    },
+    {
+      "key": "99.1",
+      "line_index": 99,
+      "inline_index": 1,
+      "line_hash": "ae9edd6a",
+      "speaker": "トーリ",
+      "ja": "そ、それが……オリジナルでな。ほぼ",
+      "zh": ""
+    },
+    {
+      "key": "101.1",
+      "line_index": 101,
+      "inline_index": 1,
+      "line_hash": "ced0ffd5",
+      "speaker": "コハル",
+      "ja": "オリジナル！？",
+      "zh": ""
+    },
+    {
+      "key": "103.1",
+      "line_index": 103,
+      "inline_index": 1,
+      "line_hash": "5ac1be1c",
+      "speaker": "トーリ",
+      "ja": "わらわ、生まれた時からあの艦隊に住んでおったのじゃが……",
+      "zh": ""
+    },
+    {
+      "key": "117.0",
+      "line_index": 117,
+      "inline_index": 0,
+      "line_hash": "25113f9e",
+      "speaker": "",
+      "ja": "本当に幼い頃、艦内で感染症が広がってのう。リリアンであったわらわだけが生き残ったらしい。",
+      "zh": ""
+    },
+    {
+      "key": "119.0",
+      "line_index": 119,
+      "inline_index": 0,
+      "line_hash": "aba57698",
+      "speaker": "",
+      "ja": "今はもちろん艦内を洗浄し問題ないのじゃが……人工知能によって育てられ、支えられながら、宇宙をさまよっているというわけじゃな",
+      "zh": ""
+    },
+    {
+      "key": "136.0",
+      "line_index": 136,
+      "inline_index": 0,
+      "line_hash": "565f001a",
+      "speaker": "{G_PlayerName}",
+      "ja": "なるほど……それで、元のひな祭りを広めるという遺志を受け継いだのか……",
+      "zh": ""
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "59008ae3",
+      "speaker": "トーリ",
+      "ja": "はん？　違うぞ？",
+      "zh": ""
+    },
+    {
+      "key": "140.0",
+      "line_index": 140,
+      "inline_index": 0,
+      "line_hash": "20f8d7f0",
+      "speaker": "{G_PlayerName}",
+      "ja": "えっ？",
+      "zh": ""
+    },
+    {
+      "key": "142.1",
+      "line_index": 142,
+      "inline_index": 1,
+      "line_hash": "1c3c85e",
+      "speaker": "トーリ",
+      "ja": "いやのう、元は普通の移動戦艦だったらしいのじゃが、ちょうど乗務員が全滅した時にひな祭りが開催されておったようでのう",
+      "zh": ""
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "bcbefbc6",
+      "speaker": "トーリ",
+      "ja": "何人か乗っておった天才エンジニアが、おふざけでこのひな祭りモードを作ったらしいが……オフにする方法がわからず、常にこのままなのじゃ！",
+      "zh": ""
+    },
+    {
+      "key": "146.0",
+      "line_index": 146,
+      "inline_index": 0,
+      "line_hash": "ada33b14",
+      "speaker": "{G_PlayerName}",
+      "ja": "は……はあ……！？",
+      "zh": ""
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "d6b071ae",
+      "speaker": "トーリ",
+      "ja": "もうこうなってはひな祭りを広めるしかあるまい？　元々何のために宇宙を旅しておった戦艦かはわからぬがな",
+      "zh": ""
+    },
+    {
+      "key": "150.1",
+      "line_index": 150,
+      "inline_index": 1,
+      "line_hash": "8db9fb4e",
+      "speaker": "コハル",
+      "ja": "なんじゃそりゃ！",
+      "zh": ""
+    },
+    {
+      "key": "152.0",
+      "line_index": 152,
+      "inline_index": 0,
+      "line_hash": "a4d61b7a",
+      "speaker": "{G_PlayerName}",
+      "ja": "（笑っていいのか判断に困るな……）",
+      "zh": ""
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "3ec467d5",
+      "speaker": "トーリ",
+      "ja": "目的も無く宇宙をさまようわけにはいかんしのう。時折遭遇する者に、ひな祭りを叩き込んでやるのが生きがいなのじゃ",
+      "zh": ""
+    },
+    {
+      "key": "156.1",
+      "line_index": 156,
+      "inline_index": 1,
+      "line_hash": "98d8d974",
+      "speaker": "ルミナ",
+      "ja": "そ……そう、なの……",
+      "zh": ""
+    },
+    {
+      "key": "158.1",
+      "line_index": 158,
+      "inline_index": 1,
+      "line_hash": "36e94ff",
+      "speaker": "トーリ",
+      "ja": "しかし、こんなところで真のひな祭りを知る者に会えるとは！　やはりわらわは運が……",
+      "zh": ""
+    },
+    {
+      "key": "171.1",
+      "line_index": 171,
+      "inline_index": 1,
+      "line_hash": "9e884f41",
+      "speaker": "トーリ",
+      "ja": "な、なんじゃあっ！？",
+      "zh": ""
+    },
+    {
+      "key": "179.1",
+      "line_index": 179,
+      "inline_index": 1,
+      "line_hash": "6bb560d5",
+      "speaker": "アポロ",
+      "ja": "……敵襲です！",
+      "zh": ""
+    },
+    {
+      "key": "181.0",
+      "line_index": 181,
+      "inline_index": 0,
+      "line_hash": "8f9566a4",
+      "speaker": "{G_PlayerName}",
+      "ja": "て……敵襲！？",
+      "zh": ""
+    },
+    {
+      "key": "183.1",
+      "line_index": 183,
+      "inline_index": 1,
+      "line_hash": "727254ad",
+      "speaker": "ルミナ",
+      "ja": "また……！？",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "95790742",
+      "speaker": "アポロ",
+      "ja": "次は明確な攻撃の意思があると考えられます。ただちに迎撃準備を！",
+      "zh": ""
+    }
+  ]
+}

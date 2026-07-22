@@ -1,0 +1,391 @@
+{
+  "lines": [
+    {
+      "key": "12.1",
+      "line_index": 12,
+      "inline_index": 1,
+      "line_hash": "aca2477b",
+      "speaker": "雫",
+      "ja": "やれやれ……やはり祭りと言えど、無理はするものではありませんね",
+      "zh": ""
+    },
+    {
+      "key": "14.0",
+      "line_index": 14,
+      "inline_index": 0,
+      "line_hash": "aa3e2bc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "……それで、本来のひな祭りはどんな事するんだ？",
+      "zh": ""
+    },
+    {
+      "key": "16.1",
+      "line_index": 16,
+      "inline_index": 1,
+      "line_hash": "3534b8ab",
+      "speaker": "雫",
+      "ja": "おや、先程の大食い大会ではご満足いただけませんでしたか？",
+      "zh": ""
+    },
+    {
+      "key": "18.0",
+      "line_index": 18,
+      "inline_index": 0,
+      "line_hash": "303553c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "本来のひな祭りじゃ、どうせやらない事なんだろ？　適当に泳がせてたのが丸わかりなんだよ！",
+      "zh": ""
+    },
+    {
+      "key": "24.1",
+      "line_index": 24,
+      "inline_index": 1,
+      "line_hash": "c954470f",
+      "speaker": "アイディル",
+      "ja": "え、アタシ餅喉に詰まらせ損ってこと！？",
+      "zh": ""
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "928fea82",
+      "speaker": "雫",
+      "ja": "はあ……あくまでもわたくしの記憶では、ですが。何もしませんよ",
+      "zh": ""
+    },
+    {
+      "key": "31.1",
+      "line_index": 31,
+      "inline_index": 1,
+      "line_hash": "2754cb4c",
+      "speaker": "ルミナ",
+      "ja": "え……何もしない、の？",
+      "zh": ""
+    },
+    {
+      "key": "33.1",
+      "line_index": 33,
+      "inline_index": 1,
+      "line_hash": "118d99eb",
+      "speaker": "雫",
+      "ja": "はい。飾り付け、食事を用意したら特にすることはありません",
+      "zh": ""
+    },
+    {
+      "key": "35.1",
+      "line_index": 35,
+      "inline_index": 1,
+      "line_hash": "32c61d33",
+      "speaker": "アイディル",
+      "ja": "ええ……それって祭りなの？",
+      "zh": ""
+    },
+    {
+      "key": "37.1",
+      "line_index": 37,
+      "inline_index": 1,
+      "line_hash": "fc570ae2",
+      "speaker": "雫",
+      "ja": "私も存在を知っているだけで、詳しくは知りませんが……歌う、とか……？",
+      "zh": ""
+    },
+    {
+      "key": "39.0",
+      "line_index": 39,
+      "inline_index": 0,
+      "line_hash": "9e14c000",
+      "speaker": "{G_PlayerName}",
+      "ja": "歌……歌か……",
+      "zh": ""
+    },
+    {
+      "key": "47.1",
+      "line_index": 47,
+      "inline_index": 1,
+      "line_hash": "82ae1ffa",
+      "speaker": "コハル",
+      "ja": "村の豊穣祈願の歌なら歌えるけど。歌う？",
+      "zh": ""
+    },
+    {
+      "key": "49.1",
+      "line_index": 49,
+      "inline_index": 1,
+      "line_hash": "4abe5fe1",
+      "speaker": "雫",
+      "ja": "……一応、聞かせていただけますか？",
+      "zh": ""
+    },
+    {
+      "key": "52.1",
+      "line_index": 52,
+      "inline_index": 1,
+      "line_hash": "d014921d",
+      "speaker": "コハル",
+      "ja": "は～～～～～ぁ♪　畑のイロイチゴぉ↓　がぁ↑　あかぁく実ればぁ～♪",
+      "zh": ""
+    },
+    {
+      "key": "54.0",
+      "line_index": 54,
+      "inline_index": 0,
+      "line_hash": "3c91bc7",
+      "speaker": "{G_PlayerName}",
+      "ja": "アーソレソレ",
+      "zh": ""
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "af09e7aa",
+      "speaker": "雫",
+      "ja": "あ、もう結構です。そこまでで",
+      "zh": ""
+    },
+    {
+      "key": "58.1",
+      "line_index": 58,
+      "inline_index": 1,
+      "line_hash": "e97c0473",
+      "speaker": "コハル",
+      "ja": "もう、失礼しちゃうわねぇ。合うとは思ってなかったけど",
+      "zh": ""
+    },
+    {
+      "key": "60.0",
+      "line_index": 60,
+      "inline_index": 0,
+      "line_hash": "a959afb8",
+      "speaker": "{G_PlayerName}",
+      "ja": "めっちゃ懐かしかったな。歌ったの子供の頃だろ？　よく覚えてるな",
+      "zh": ""
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "8afcdda",
+      "speaker": "コハル",
+      "ja": "なんか耳に残るのよね～、子供の時に聞いてた音楽って",
+      "zh": ""
+    },
+    {
+      "key": "64.1",
+      "line_index": 64,
+      "inline_index": 1,
+      "line_hash": "a7ede3f6",
+      "speaker": "ルミナ",
+      "ja": "わ……私も、覚えて歌おうかな……今の歌……",
+      "zh": ""
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "eefdbcb0",
+      "speaker": "雫",
+      "ja": "おやめください、ルミナ様。品位が疑われてしまいます",
+      "zh": ""
+    },
+    {
+      "key": "77.1",
+      "line_index": 77,
+      "inline_index": 1,
+      "line_hash": "3a71747d",
+      "speaker": "アイディル",
+      "ja": "あんたはひな祭りの歌とか知らないわけ？",
+      "zh": ""
+    },
+    {
+      "key": "79.1",
+      "line_index": 79,
+      "inline_index": 1,
+      "line_hash": "e114b868",
+      "speaker": "トーリ",
+      "ja": "うーん……一応、知ってはおるんじゃが……",
+      "zh": ""
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "818db016",
+      "speaker": "アイディル",
+      "ja": "じゃが？",
+      "zh": ""
+    },
+    {
+      "key": "83.1",
+      "line_index": 83,
+      "inline_index": 1,
+      "line_hash": "faf1d575",
+      "speaker": "トーリ",
+      "ja": "歌詞しかわからないのじゃ。それも意訳しか……",
+      "zh": ""
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "4129300e",
+      "speaker": "コハル",
+      "ja": "なんとか復元できるかやってみましょうか？",
+      "zh": ""
+    },
+    {
+      "key": "98.1",
+      "line_index": 98,
+      "inline_index": 1,
+      "line_hash": "d18083cf",
+      "speaker": "雫",
+      "ja": "（……ひな祭りのある星について調べれば、出てきそうですが……）",
+      "zh": ""
+    },
+    {
+      "key": "100.1",
+      "line_index": 100,
+      "inline_index": 1,
+      "line_hash": "da9d3d3",
+      "speaker": "雫",
+      "ja": "（それをルミナ様が提案しないのは、故郷が好きではないわたくしに配慮をしてくださっているのですね……ああ、ルミナ様の愛を感じる……）",
+      "zh": ""
+    },
+    {
+      "key": "110.0",
+      "line_index": 110,
+      "inline_index": 0,
+      "line_hash": "2a1f90fb",
+      "speaker": "",
+      "ja": "数十分後……",
+      "zh": ""
+    },
+    {
+      "key": "123.1",
+      "line_index": 123,
+      "inline_index": 1,
+      "line_hash": "c09a5c88",
+      "speaker": "トーリ",
+      "ja": "……おおよそ出来たか。メロディはオリジナルじゃが……",
+      "zh": ""
+    },
+    {
+      "key": "125.1",
+      "line_index": 125,
+      "inline_index": 1,
+      "line_hash": "8c7da05f",
+      "speaker": "コハル",
+      "ja": "じゃあいくよ……せーの",
+      "zh": ""
+    },
+    {
+      "key": "144.0",
+      "line_index": 144,
+      "inline_index": 0,
+      "line_hash": "1f3995d5",
+      "speaker": "",
+      "ja": "「光あれ　高く掲げよ」",
+      "zh": ""
+    },
+    {
+      "key": "154.0",
+      "line_index": 154,
+      "inline_index": 0,
+      "line_hash": "975ab6e3",
+      "speaker": "",
+      "ja": "「花よ咲け　紅く染めよ」",
+      "zh": ""
+    },
+    {
+      "key": "164.0",
+      "line_index": 164,
+      "inline_index": 0,
+      "line_hash": "e096ca1b",
+      "speaker": "",
+      "ja": "「５人の勇士の行進曲。そう、今こそひな祭り」",
+      "zh": ""
+    },
+    {
+      "key": "169.1",
+      "line_index": 169,
+      "inline_index": 1,
+      "line_hash": "f5d00c60",
+      "speaker": "トーリ",
+      "ja": "……名曲が生まれたのう",
+      "zh": ""
+    },
+    {
+      "key": "181.1",
+      "line_index": 181,
+      "inline_index": 1,
+      "line_hash": "d54a44b2",
+      "speaker": "コハル",
+      "ja": "軍歌感が凄いわね……幸先は良さそうだけど",
+      "zh": ""
+    },
+    {
+      "key": "183.0",
+      "line_index": 183,
+      "inline_index": 0,
+      "line_hash": "27769dfb",
+      "speaker": "{G_PlayerName}",
+      "ja": "本当に歌詞あってんのか……？",
+      "zh": ""
+    },
+    {
+      "key": "185.1",
+      "line_index": 185,
+      "inline_index": 1,
+      "line_hash": "bde696ae",
+      "speaker": "雫",
+      "ja": "（わたくしからはノーコメントでいましょう）",
+      "zh": ""
+    },
+    {
+      "key": "187.1",
+      "line_index": 187,
+      "inline_index": 1,
+      "line_hash": "6c2d9546",
+      "speaker": "コハル",
+      "ja": "なんか、祭りって言ってもやる事はそんなに派手じゃないのね",
+      "zh": ""
+    },
+    {
+      "key": "189.0",
+      "line_index": 189,
+      "inline_index": 0,
+      "line_hash": "7a239b8a",
+      "speaker": "{G_PlayerName}",
+      "ja": "人が同じ服を着て集まって、決まった料理を出すって考えれば祭りらしい、か？",
+      "zh": ""
+    },
+    {
+      "key": "191.1",
+      "line_index": 191,
+      "inline_index": 1,
+      "line_hash": "3bcc6b50",
+      "speaker": "雫",
+      "ja": "わたくしが知るひな祭りでは、人が集まる様子はありませんでしたが……まあ、過去そうだった可能性は捨てきれませんね",
+      "zh": ""
+    },
+    {
+      "key": "201.0",
+      "line_index": 201,
+      "inline_index": 0,
+      "line_hash": "6bf63bbc",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そろそろ疲れたし、ゆっくり祭りを楽しむとするか",
+      "zh": ""
+    },
+    {
+      "key": "203.1",
+      "line_index": 203,
+      "inline_index": 1,
+      "line_hash": "3f91216d",
+      "speaker": "ルミナ",
+      "ja": "うん……ゆっくり、しよ",
+      "zh": ""
+    }
+  ]
+}

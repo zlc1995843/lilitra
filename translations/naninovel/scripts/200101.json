@@ -1,0 +1,634 @@
+{
+  "lines": [
+    {
+      "key": "14.1",
+      "line_index": 14,
+      "inline_index": 1,
+      "line_hash": "ee20f9d0",
+      "speaker": "ルミナ",
+      "ja": "……うーん……",
+      "zh": "嗯……"
+    },
+    {
+      "key": "16.0",
+      "line_index": 16,
+      "inline_index": 0,
+      "line_hash": "17a1ac1b",
+      "speaker": "",
+      "ja": "ルミナがラウンジで、文字だらけの画面とにらめっこしている。こちらに気がつくと、ルミナが微笑んだ。",
+      "zh": "露米娜正待在休息室里，对着一屏幕密密麻麻的文字较劲。注意到这边，她微微一笑。"
+    },
+    {
+      "key": "18.1",
+      "line_index": 18,
+      "inline_index": 1,
+      "line_hash": "8ab0ef87",
+      "speaker": "ルミナ",
+      "ja": "{G_PlayerName}、くん……",
+      "zh": "{G_PlayerName}君……"
+    },
+    {
+      "key": "20.0",
+      "line_index": 20,
+      "inline_index": 0,
+      "line_hash": "ff37d805",
+      "speaker": "{G_PlayerName}",
+      "ja": "どうしたんだルミナ。読書か？",
+      "zh": "怎么了，露米娜？在看书？"
+    },
+    {
+      "key": "22.1",
+      "line_index": 22,
+      "inline_index": 1,
+      "line_hash": "aa7d1d0d",
+      "speaker": "ルミナ",
+      "ja": "ちょっと……ね。他の星について、とか……歴史について調べてたんだけど……",
+      "zh": "有点……事情。查了查其他星球啊……历史什么的……"
+    },
+    {
+      "key": "24.0",
+      "line_index": 24,
+      "inline_index": 0,
+      "line_hash": "97dfd6ef",
+      "speaker": "{G_PlayerName}",
+      "ja": "べ、勉強か……",
+      "zh": "学、学习啊……"
+    },
+    {
+      "key": "26.1",
+      "line_index": 26,
+      "inline_index": 1,
+      "line_hash": "5ca3ff94",
+      "speaker": "ルミナ",
+      "ja": "勉強、ってほどじゃ、ないよ……えっと……観光ガイド、みたいな……？",
+      "zh": "学习倒也算不上……呃……像是旅游指南之类的……？"
+    },
+    {
+      "key": "28.0",
+      "line_index": 28,
+      "inline_index": 0,
+      "line_hash": "cb2baf0c",
+      "speaker": "{G_PlayerName}",
+      "ja": "ガイド？　それはちょっと面白そうだな……",
+      "zh": "指南？那听着挺有意思的啊……"
+    },
+    {
+      "key": "30.1",
+      "line_index": 30,
+      "inline_index": 1,
+      "line_hash": "308ec98a",
+      "speaker": "ルミナ",
+      "ja": "うん……でも、ちょっとわからないところがあって……",
+      "zh": "嗯……不过，有些地方不太明白……"
+    },
+    {
+      "key": "32.0",
+      "line_index": 32,
+      "inline_index": 0,
+      "line_hash": "eda7d7ac",
+      "speaker": "{G_PlayerName}",
+      "ja": "わからないところ？",
+      "zh": "哪里不明白？"
+    },
+    {
+      "key": "42.0",
+      "line_index": 42,
+      "inline_index": 0,
+      "line_hash": "6556ef1b",
+      "speaker": "",
+      "ja": "・　・　・　・　・　・　・",
+      "zh": "・ ・ ・ ・ ・ ・ ・"
+    },
+    {
+      "key": "54.1",
+      "line_index": 54,
+      "inline_index": 1,
+      "line_hash": "2874cd3d",
+      "speaker": "コハル",
+      "ja": "ひなまつり？",
+      "zh": "雏祭？"
+    },
+    {
+      "key": "56.1",
+      "line_index": 56,
+      "inline_index": 1,
+      "line_hash": "f74ba12b",
+      "speaker": "ルミナ",
+      "ja": "うん……和と桜花の星、っていうところで……この季節に、やってるお祭りらしいんだけど……",
+      "zh": "嗯……在一个叫“和与樱花星”的地方……这个季节好像有祭典在举办……"
+    },
+    {
+      "key": "58.0",
+      "line_index": 58,
+      "inline_index": 0,
+      "line_hash": "ae1efd75",
+      "speaker": "{G_PlayerName}",
+      "ja": "コハル、いつの間に来たんだよ……",
+      "zh": "小春，你什么时候跑来的……"
+    },
+    {
+      "key": "60.1",
+      "line_index": 60,
+      "inline_index": 1,
+      "line_hash": "36ee34bd",
+      "speaker": "コハル",
+      "ja": "何よ、来ちゃ悪い？　なんか楽しそうな話してたから気になったの！",
+      "zh": "怎么着，我来碍着你啦？看你们聊得挺开心的，我就来凑个热闹呗！"
+    },
+    {
+      "key": "62.1",
+      "line_index": 62,
+      "inline_index": 1,
+      "line_hash": "41f95e56",
+      "speaker": "ルミナ",
+      "ja": "ひな祭りのこと、この時期にあるお祭り……ってことしか、書かれてなくて……ちょっと、気になったの……",
+      "zh": "雏祭的事，就只写着是这个时候的节日……没别的了，我就有点好奇……"
+    },
+    {
+      "key": "64.0",
+      "line_index": 64,
+      "inline_index": 0,
+      "line_hash": "1f1c3f77",
+      "speaker": "{G_PlayerName}",
+      "ja": "はー、なるほどなあ……当たり前だけど、俺たちは知らないよな。コハルもだろ？",
+      "zh": "哈——原来如此……理所当然嘛，我们肯定不知道。小春你也不知道吧？"
+    },
+    {
+      "key": "66.1",
+      "line_index": 66,
+      "inline_index": 1,
+      "line_hash": "a4930e97",
+      "speaker": "コハル",
+      "ja": "聞いたこともないわねー、雪解け祭とか豊穣祭とかならあるけど。村で配るスープ、美味しいけど飽きるのよねー",
+      "zh": "我可没听说过——什么雪融祭、丰收祭倒是有。村里发的那种汤，好喝归好喝，喝多了也腻味呢——"
+    },
+    {
+      "key": "68.0",
+      "line_index": 68,
+      "inline_index": 0,
+      "line_hash": "90024fec",
+      "speaker": "{G_PlayerName}",
+      "ja": "芋ばっかりのやつな。……ひな祭りはそういうのとは違うんだよな？",
+      "zh": "那个全是芋头的汤啊。……雏祭跟那种不一样吧？"
+    },
+    {
+      "key": "72.1",
+      "line_index": 72,
+      "inline_index": 1,
+      "line_hash": "ea8b8de2",
+      "speaker": "ルミナ",
+      "ja": "た、ぶん……？　ちょっと、別の本も調べてみよう、かな……",
+      "zh": "大、概吧……？ 要不，再查查别的书……？"
+    },
+    {
+      "key": "81.1",
+      "line_index": 81,
+      "inline_index": 1,
+      "line_hash": "dbc2bc0f",
+      "speaker": "雫",
+      "ja": "ルミナ様、コハル様。お紅茶をお持ちしました",
+      "zh": "露米娜小姐，小春小姐。红茶泡好了。"
+    },
+    {
+      "key": "83.0",
+      "line_index": 83,
+      "inline_index": 0,
+      "line_hash": "4493efc0",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、雫。俺のは……",
+      "zh": "啊，雫。我的呢……"
+    },
+    {
+      "key": "85.1",
+      "line_index": 85,
+      "inline_index": 1,
+      "line_hash": "85deea48",
+      "speaker": "雫",
+      "ja": "ありません。自分でお淹れなさい",
+      "zh": "没你的份。自己倒去。"
+    },
+    {
+      "key": "87.0",
+      "line_index": 87,
+      "inline_index": 0,
+      "line_hash": "785b65c7",
+      "speaker": "{G_PlayerName}",
+      "ja": "だよな……",
+      "zh": "行吧……"
+    },
+    {
+      "key": "89.0",
+      "line_index": 89,
+      "inline_index": 0,
+      "line_hash": "15a37b0d",
+      "speaker": "",
+      "ja": "コハルのほうが後から来たのに、俺のぶんが無いということは故意だろう。酷い。",
+      "zh": "小春明明是后来的，却没我的份，这明显是故意的吧。真狠。"
+    },
+    {
+      "key": "93.1",
+      "line_index": 93,
+      "inline_index": 1,
+      "line_hash": "b5fe4258",
+      "speaker": "コハル",
+      "ja": "もう！　幼稚な嫌がらせやめなさいよ！",
+      "zh": "够了！别玩这么幼稚的把戏啦！"
+    },
+    {
+      "key": "95.1",
+      "line_index": 95,
+      "inline_index": 1,
+      "line_hash": "8dafd261",
+      "speaker": "雫",
+      "ja": "嫌がらせではございません。マニュアル通りの対応でございます",
+      "zh": "这才不是骚扰呢。完全是按照规程办事。"
+    },
+    {
+      "key": "97.1",
+      "line_index": 97,
+      "inline_index": 1,
+      "line_hash": "67a1f2a0",
+      "speaker": "コハル",
+      "ja": "どんなマニュアルよ……はあ、前機械の使い方教えてもらったし、{G_PlayerName}のぶん持ってきてあげる。何飲む？",
+      "zh": "什么规程啊……哎，之前你教了我怎么用机器，我就帮{G_PlayerName}拿一杯过来。想喝什么？"
+    },
+    {
+      "key": "99.0",
+      "line_index": 99,
+      "inline_index": 0,
+      "line_hash": "9d7495f9",
+      "speaker": "{G_PlayerName}",
+      "ja": "あ、悪いな……じゃあ温かいやつ適当に……",
+      "zh": "哦，不好意思啊……那就随便来杯热的就行……"
+    },
+    {
+      "key": "107.0",
+      "line_index": 107,
+      "inline_index": 0,
+      "line_hash": "33a88a00",
+      "speaker": "{G_PlayerName}",
+      "ja": "……そういえば、雫は何か知らないのか？　ひな祭りについて……",
+      "zh": "……对了，雫，你对雏祭有没有了解？"
+    },
+    {
+      "key": "109.1",
+      "line_index": 109,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "……"
+    },
+    {
+      "key": "112.1",
+      "line_index": 112,
+      "inline_index": 1,
+      "line_hash": "539750a",
+      "speaker": "ルミナ",
+      "ja": "あ……雫、は……",
+      "zh": "啊……雫，你……"
+    },
+    {
+      "key": "114.1",
+      "line_index": 114,
+      "inline_index": 1,
+      "line_hash": "6ba01d67",
+      "speaker": "雫",
+      "ja": "いえ、私も存じ上げませんね",
+      "zh": "不，我也不清楚。"
+    },
+    {
+      "key": "116.0",
+      "line_index": 116,
+      "inline_index": 0,
+      "line_hash": "f2049bc6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだ、そうなのか……",
+      "zh": "这样啊……"
+    },
+    {
+      "key": "118.1",
+      "line_index": 118,
+      "inline_index": 1,
+      "line_hash": "eb67bd4e",
+      "speaker": "ルミナ",
+      "ja": "……あっ、ひな祭りを題材にした話、見つけたよ………物語の一節にちょっとあるだけだから、よくはわからないかも……だけど……",
+      "zh": "……啊，我找到一个关于雏祭的故事……就在一段故事里简短提了几句，可能看不大明白……但是……"
+    },
+    {
+      "key": "120.0",
+      "line_index": 120,
+      "inline_index": 0,
+      "line_hash": "c3b8c047",
+      "speaker": "{G_PlayerName}",
+      "ja": "おっ、どれどれ？",
+      "zh": "哦？我看看？"
+    },
+    {
+      "key": "129.1",
+      "line_index": 129,
+      "inline_index": 1,
+      "line_hash": "87bcbd2",
+      "speaker": "コハル",
+      "ja": "はい、お茶……何か見つけた？",
+      "zh": "喏，茶……找到什么了？"
+    },
+    {
+      "key": "131.1",
+      "line_index": 131,
+      "inline_index": 1,
+      "line_hash": "e1de64e",
+      "speaker": "ルミナ",
+      "ja": "えっと……カウンターの上に、お人形がいっぱい並んでる。人形を売る、お祭り……みたい？",
+      "zh": "呃……柜台上摆满了人偶。像是在卖人偶的祭典……？"
+    },
+    {
+      "key": "134.0",
+      "line_index": 134,
+      "inline_index": 0,
+      "line_hash": "f890556a",
+      "speaker": "{G_PlayerName}",
+      "ja": "へぇ……人形のお祭りなのか",
+      "zh": "嚯……人偶的祭典啊。"
+    },
+    {
+      "key": "136.1",
+      "line_index": 136,
+      "inline_index": 1,
+      "line_hash": "ecead438",
+      "speaker": "コハル",
+      "ja": "人形劇とかするの？",
+      "zh": "会演人偶剧之类的吗？"
+    },
+    {
+      "key": "138.1",
+      "line_index": 138,
+      "inline_index": 1,
+      "line_hash": "9c4d6877",
+      "speaker": "ルミナ",
+      "ja": "うん……してるみたい。あと……夫婦の人形が名物？　みたい……",
+      "zh": "嗯……好像有。还有……夫妻人偶是特色？ 这样……"
+    },
+    {
+      "key": "142.0",
+      "line_index": 142,
+      "inline_index": 0,
+      "line_hash": "32b8165",
+      "speaker": "{G_PlayerName}",
+      "ja": "夫婦の人形ねぇ……雫、なにプルプルしてるんだ",
+      "zh": "夫妻人偶啊……雫，你抖什么？"
+    },
+    {
+      "key": "144.1",
+      "line_index": 144,
+      "inline_index": 1,
+      "line_hash": "921125c7",
+      "speaker": "雫",
+      "ja": "い……いえ……別に……",
+      "zh": "没……没什么……"
+    },
+    {
+      "key": "146.1",
+      "line_index": 146,
+      "inline_index": 1,
+      "line_hash": "b5972156",
+      "speaker": "コハル",
+      "ja": "人形があればできる祭りなの？　だったらちょっと頑張れば、宇宙船の中でも……？",
+      "zh": "只要有人偶就能办的祭典？那稍微努把力，在飞船里也……？"
+    },
+    {
+      "key": "148.1",
+      "line_index": 148,
+      "inline_index": 1,
+      "line_hash": "1ece17ab",
+      "speaker": "雫",
+      "ja": "……ですが、異星の祭を調べたところで再現はできないでしょう。写真のひとつも無いならば…",
+      "zh": "……但是，就算查了外星节日，也重现不了吧。连张照片都没有的话……"
+    },
+    {
+      "key": "150.0",
+      "line_index": 150,
+      "inline_index": 0,
+      "line_hash": "9b86842b",
+      "speaker": "{G_PlayerName}",
+      "ja": "気分だけ味わうくらいなら出来るんじゃないか？　ルミナは興味があるんだよな？",
+      "zh": "光图个气氛的话，总办得到吧？露米娜，你不是挺感兴趣的吗？"
+    },
+    {
+      "key": "152.1",
+      "line_index": 152,
+      "inline_index": 1,
+      "line_hash": "e2b6a1b2",
+      "speaker": "ルミナ",
+      "ja": "あ……うん、やって、みたい……",
+      "zh": "啊……嗯，我想试试……"
+    },
+    {
+      "key": "154.1",
+      "line_index": 154,
+      "inline_index": 1,
+      "line_hash": "c362fffd",
+      "speaker": "雫",
+      "ja": "で、ですが物資にも限りがございますし……",
+      "zh": "可、可物资也有限……"
+    },
+    {
+      "key": "162.1",
+      "line_index": 162,
+      "inline_index": 1,
+      "line_hash": "a74d606a",
+      "speaker": "アポロ",
+      "ja": "物資であれば、補充したばかりですので多少は余裕がありますが",
+      "zh": "物资的话，刚补充完，还算有点宽裕。"
+    },
+    {
+      "key": "164.1",
+      "line_index": 164,
+      "inline_index": 1,
+      "line_hash": "17b6db38",
+      "speaker": "雫",
+      "ja": "……では、仕方ありませんね……",
+      "zh": "……那就没办法了……"
+    },
+    {
+      "key": "166.0",
+      "line_index": 166,
+      "inline_index": 0,
+      "line_hash": "12fdb5a0",
+      "speaker": "{G_PlayerName}",
+      "ja": "（どうしたんだ、雫……今までならルミナの頼みってだけで、秒でノリ気になってたと思うんだが……）",
+      "zh": "（怎么回事，雫……换作以前，只要露米娜开口，她立马就来劲了……）"
+    },
+    {
+      "key": "168.1",
+      "line_index": 168,
+      "inline_index": 1,
+      "line_hash": "f4a5e429",
+      "speaker": "アポロ",
+      "ja": "では、人形をご用意するということでよろしいですか？",
+      "zh": "那么，就准备一些人偶，如何？"
+    },
+    {
+      "key": "170.1",
+      "line_index": 170,
+      "inline_index": 1,
+      "line_hash": "9f3e5e0c",
+      "speaker": "ルミナ",
+      "ja": "うん……でき、そう……？",
+      "zh": "嗯……能行吗……？"
+    },
+    {
+      "key": "172.1",
+      "line_index": 172,
+      "inline_index": 1,
+      "line_hash": "2b9c0512",
+      "speaker": "アポロ",
+      "ja": "設計図のデータはありますので問題ありません。プリントアウトしてみましょう",
+      "zh": "有设计图数据，没问题。打印出来就行。"
+    },
+    {
+      "key": "174.0",
+      "line_index": 174,
+      "inline_index": 0,
+      "line_hash": "2fb1af3",
+      "speaker": "{G_PlayerName}",
+      "ja": "そんな気軽に作れるのか……本当に多機能だな……",
+      "zh": "这么容易就能做出来……这万能打印机还真不是盖的……"
+    },
+    {
+      "key": "176.1",
+      "line_index": 176,
+      "inline_index": 1,
+      "line_hash": "6e6ca80b",
+      "speaker": "アポロ",
+      "ja": "フ……最先端技術の結晶であるワタシであれば当然。すぐに済ませてみせましょう",
+      "zh": "哼……身为尖端技术结晶的我，当然不在话下。马上给你搞定。"
+    },
+    {
+      "key": "193.1",
+      "line_index": 193,
+      "inline_index": 1,
+      "line_hash": "b91e9337",
+      "speaker": "コハル",
+      "ja": "これが……人形？　変わった服ね",
+      "zh": "这就是……人偶？ 服装好别致啊。"
+    },
+    {
+      "key": "195.1",
+      "line_index": 195,
+      "inline_index": 1,
+      "line_hash": "48dc4fc3",
+      "speaker": "ルミナ",
+      "ja": "ウェディングドレス、に、タキシード……",
+      "zh": "婚纱，还有……燕尾服……"
+    },
+    {
+      "key": "197.1",
+      "line_index": 197,
+      "inline_index": 1,
+      "line_hash": "56e17915",
+      "speaker": "雫",
+      "ja": "………………",
+      "zh": "……"
+    },
+    {
+      "key": "199.1",
+      "line_index": 199,
+      "inline_index": 1,
+      "line_hash": "c86d102e",
+      "speaker": "ルミナ",
+      "ja": "すごい……ね。イメージ通り……",
+      "zh": "好棒……和想象中一模一样……"
+    },
+    {
+      "key": "209.1",
+      "line_index": 209,
+      "inline_index": 1,
+      "line_hash": "1bada04f",
+      "speaker": "アポロ",
+      "ja": "恐縮でございます。他の人形もございます",
+      "zh": "不敢当。还有其他人偶。"
+    },
+    {
+      "key": "211.1",
+      "line_index": 211,
+      "inline_index": 1,
+      "line_hash": "f79fac5f",
+      "speaker": "アポロ",
+      "ja": "参考資料がございませんでしたので、結婚式の参列者と予想しましたが……",
+      "zh": "因为缺少参考资料，我就推测是婚礼的来宾……"
+    },
+    {
+      "key": "213.1",
+      "line_index": 213,
+      "inline_index": 1,
+      "line_hash": "716488dd",
+      "speaker": "ルミナ",
+      "ja": "すごい……いっぱい。豪華な結婚式だね……",
+      "zh": "好厉害……好多啊。好盛大的婚礼……"
+    },
+    {
+      "key": "215.1",
+      "line_index": 215,
+      "inline_index": 1,
+      "line_hash": "3cd4cc0f",
+      "speaker": "雫",
+      "ja": "……はあ……",
+      "zh": "……唉……"
+    },
+    {
+      "key": "217.0",
+      "line_index": 217,
+      "inline_index": 0,
+      "line_hash": "165fe3c6",
+      "speaker": "{G_PlayerName}",
+      "ja": "なんだよ、ため息なんてついて",
+      "zh": "怎么啦，叹什么气啊"
+    },
+    {
+      "key": "219.1",
+      "line_index": 219,
+      "inline_index": 1,
+      "line_hash": "e6731a5",
+      "speaker": "雫",
+      "ja": "なんでもございません……",
+      "zh": "没什么……"
+    },
+    {
+      "key": "227.1",
+      "line_index": 227,
+      "inline_index": 1,
+      "line_hash": "d0d74505",
+      "speaker": "コハル",
+      "ja": "じゃ、ひな祭り始めましょっ！",
+      "zh": "好，雏祭开始吧！"
+    },
+    {
+      "key": "229.0",
+      "line_index": 229,
+      "inline_index": 0,
+      "line_hash": "a030cc7b",
+      "speaker": "{G_PlayerName}",
+      "ja": "おうっ！",
+      "zh": "噢！"
+    },
+    {
+      "key": "235.1",
+      "line_index": 235,
+      "inline_index": 1,
+      "line_hash": "c0d5e609",
+      "speaker": "雫",
+      "ja": "（ひな祭り……多分、男やコハル様を楽しませようとルミナ様が色々調べているのでしょうね）",
+      "zh": "（雏祭……露米娜大概是想着让我们和小春高兴，才查了那么多资料吧。）"
+    },
+    {
+      "key": "237.1",
+      "line_index": 237,
+      "inline_index": 1,
+      "line_hash": "1cad76c9",
+      "speaker": "雫",
+      "ja": "（やや時季外れではありますが……まあ、宇宙なら関係ありませんか。ルミナ様には申し訳ありませんが、ここは静観いたしましょう）",
+      "zh": "（虽然有点不合时节……不过，在宇宙也就无所谓了。虽说有点对不起露米娜，我还是先静观其变吧。）"
+    }
+  ]
+}
